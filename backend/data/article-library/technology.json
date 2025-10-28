@@ -1,20 +1,68 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-10-28T12:35:45.016Z",
+    "generated_at": "2025-10-28T13:59:30.094Z",
     "date_range": {
       "from": "2025-10-26",
       "to": "2025-10-28"
     },
-    "article_count": 9,
+    "article_count": 12,
     "batch_info": {
-      "initial_batch_id": "batch_6900b36639f88190a1adbb8759e9dac6",
+      "initial_batch_id": "batch_6900cad62ea08190a97981e2df45e863",
       "retry_batches": [],
-      "total_tokens": 43446,
-      "processing_time_hours": 0.4
+      "total_tokens": 40921,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/oct/28/alan-turing-institute-launches-new-mission-to-protect-uk-from-cyber-attacks",
+      "title": "Alan Turing institute launches new mission to protect UK from cyber-attacks ",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/28/alan-turing-institute-launches-new-mission-to-protect-uk-from-cyber-attacks",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/28/alan-turing-institute-launches-new-mission-to-protect-uk-from-cyber-attacks",
+      "section": "technology",
+      "publishedDate": "2025-10-28T13:29:39Z",
+      "trailText": "Programme is designed to defend energy, transport and utilities amid concern over vulnerability to internet outages",
+      "summary": "The Alan Turing Institute launched a mission to defend UK energy, transport and utilities from cyber-attacks and internet outages, refocusing the government-funded AI body after internal turmoil. After CEO Jean Innes resigned last month amid a staff revolt and ministerial pressure, chair Doug Gurr said 78 of the 440-staff institute’s research projects have been closed, spun out or completed to fit the new direction. ex-Air and Space Warfare Centre commander Blythe Crawford will report next month on supporting defence, national security and intelligence. Priorities: AI to forecast weather, oceans and sea ice for emergency planners; cut emissions in transport, manufacturing and infrastructure; and build digital heart twins. The shift follows an AWS outage and attacks disrupting Jaguar Land Rover, M&S and Co-op.",
+      "summaryTokens": 2758,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
+    },
+    {
+      "id": "technology/2025/oct/27/ai-tech-donald-trump-san-francisco",
+      "title": "Tech chiefs tell Trump to call off troops – will Firefox go ‘full AI’?",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/27/ai-tech-donald-trump-san-francisco",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/ai-tech-donald-trump-san-francisco",
+      "section": "technology",
+      "publishedDate": "2025-10-28T13:22:19Z",
+      "trailText": "In this week’s newsletter: Silicon Valley billionaires have a hotline to the US president. Plus, the head of Firefox talks AI-integrated browsers, and more",
+      "summary": "Mozilla’s Firefox GM Anthony Enzor-DeMeo weighs AI-first browsers as OpenAI’s ChatGPT Atlas, Microsoft Edge Copilot Mode, Google’s Chrome with Gemini, and Perplexity’s Comet embed agents for shopping, summarizing and search—raising privacy questions. Trump canceled a planned National Guard “surge” to San Francisco after calls from donors Jensen Huang and Marc Benioff; Benioff earlier urged deployment, then reversed. AWS outage traced to an empty DNS record in US-East-1 that automation failed to fix. Tinder now requires face scans for new US users (also in AU, Canada, India), expanding across Match apps, igniting safety-versus-privacy debate. Tech donors are also funding East Wing demolition for a Trump White House ballroom, underscoring access concerns.",
+      "summaryTokens": 1346,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
+    },
+    {
+      "id": "technology/2025/oct/27/amazon-corporate-jobs-cuts",
+      "title": "Amazon confirms plans to lay off 14,000 corporate workers as part of wave of cuts",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/27/amazon-corporate-jobs-cuts",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/amazon-corporate-jobs-cuts",
+      "section": "technology",
+      "publishedDate": "2025-10-28T12:30:46Z",
+      "trailText": "Retail giant, which is vying to reverse pandemic hiring spree, attempts to cut costs and slim down its operation",
+      "summary": "Amazon confirmed layoffs of 14,000 corporate staff, part of a broader cost-cutting push to unwind pandemic-era hiring. Earlier reports (Reuters/WSJ) suggested up to 30,000 corporate cuts, potentially its largest. Affected areas include HR (People Experience and Technology), devices and services, and operations; Fortune says up to 15% of HR roles could go. Amazon has 1.55m employees, ~350k corporate. SVP Beth Galetti cited de-layering and shifting resources to “big bets,” with more efficiency moves eyed in 2026. CEO Andy Jassy has warned AI agents and genAI will reduce headcount. Shares rose 1.2%. Managers were trained Monday; email notifications begin the next morning.",
+      "summaryTokens": 887,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
+    },
+    {
+      "id": "technology/2025/oct/28/elon-musk-grokipedia",
+      "title": "Elon Musk launches encyclopedia ‘fact-checked’ by AI and aligning with rightwing views",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/28/elon-musk-grokipedia",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/28/elon-musk-grokipedia",
+      "section": "technology",
+      "publishedDate": "2025-10-28T12:15:44Z",
+      "trailText": "Grokipedia’s entries hew closely to conservative talking points, with some journalists already saying it contains inaccurate information",
+      "summary": "Elon Musk launched Grokipedia, an AI-written encyclopedia fact-checked by his chatbot Grok and pitched as a right-leaning alternative to Wikipedia, despite many entries citing Wikipedia. Lacking human editors, the project was suggested by Trump administration AI/crypto adviser David Sacks. Musk, who derides mainstream media and promotes X, has tuned Grokipedia to conservative narratives: its January 6 entry references widespread claims of voting irregularities, downplays Trump’s role, and questions casualty/intent accounts. Reporters already flag inaccuracies, e.g., asserting pornography worsened the AIDS epidemic. Context: Musk briefly led Trump’s DOGE cost-cutting drive until April; an August Gallup poll named him America’s most disliked public figure.",
+      "summaryTokens": 1395,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
+    },
     {
       "id": "technology/2025/oct/28/firefox-ai-internet-anthony-enzor-demeo",
       "title": "‘A good moment in time for us’: Firefox head on AI browsers and what’s next for the web",
@@ -22,9 +70,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/28/firefox-ai-internet-anthony-enzor-demeo",
       "section": "technology",
       "publishedDate": "2025-10-28T09:30:23Z",
-      "summary": "Firefox GM Anthony Enzor-DeMeo says AI-first browsers are early—paid AI ~3% globally, business models unclear. He’s tested Atlas, Comet, etc., and prefers answers with citations. He warns AI subscriptions could close the web. Firefox will add AI cautiously: fully optional, privacy-first, AI-agnostic sidebar (Copilot, Gemini, Perplexity); new Perplexity partnership, terms undisclosed. Users can refuse data storage, browse privately without login; less personalization by default. Generational splits: Gen Z favors personalization/choice; older cohorts lean privacy. On the Google trial, the judge preserved funding for independent browsers; AI–search monetization unresolved. Firefox still has ~200M users; neutrality amid launches (Atlas, Edge Copilot Mode, Comet, Chrome with Gemini) seen as growth.",
-      "summaryTokens": 1036,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
+      "trailText": "After the release of a slew of other AI-integrated browsers, Anthony Enzor-DeMeo discusses ChatGPT Atlas, the Google monopoly trial – and the future",
+      "summary": "Firefox GM Anthony Enzor-DeMeo, reacting to OpenAI’s ChatGPT Atlas, Edge Copilot Mode, Chrome with Gemini and Perplexity’s Comet, says AI browsers’ 'answer-first' paradigm may not suit everyone; he values cited sources. He warns AI paywalls could close the web. Firefox will add optional AI but keep user choice: a neutral sidebar supporting Copilot, Gemini, Perplexity; privacy by default (no login, private browsing). Paid AI is ~3% globally; business models will vary by region. Mozilla partnered with Perplexity (terms undisclosed). On the Google antitrust ruling: search competition without harming independent engines was preserved. With 200m users, AI neutrality is a growth bet.",
+      "summaryTokens": 953,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     },
     {
       "id": "technology/2025/oct/27/chatgpt-suicide-self-harm-openai",
@@ -33,20 +82,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/chatgpt-suicide-self-harm-openai",
       "section": "technology",
       "publishedDate": "2025-10-27T22:26:05Z",
-      "summary": "OpenAI estimates over 1m ChatGPT users each week express potential suicidal planning, and 0.07% of weekly users (~560,000 of 800m) show possible psychosis or mania signs. It calls the figures preliminary and hard to detect. The disclosure comes amid a lawsuit over a teen’s suicide and an FTC probe into chatbot harms to youths. OpenAI says GPT-5 improved safety: 91% compliant vs 77% prior in >1,000 self-harm evaluations, with hotline surfacing and break reminders. It enlisted 170 clinicians who reviewed 1,800 responses and shaped guidance. Researchers warn about sycophancy; OpenAI downplays causality. CEO Sam Altman says mitigations allow easing content restrictions, including adult erotica.",
-      "summaryTokens": 1468,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
-    },
-    {
-      "id": "technology/2025/oct/27/amazon-corporate-jobs-cuts",
-      "title": "Amazon plans to cut 30,000 corporate jobs in response to pandemic overhiring",
-      "webUrl": "https://www.theguardian.com/technology/2025/oct/27/amazon-corporate-jobs-cuts",
-      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/amazon-corporate-jobs-cuts",
-      "section": "technology",
-      "publishedDate": "2025-10-27T22:13:21Z",
-      "summary": "Amazon will cut up to 30,000 corporate jobs starting Tuesday, reversing pandemic overhiring and advancing CEO Andy Jassy's streamlining via AI-driven efficiencies. The reductions equal about 10% of its roughly 350,000 white-collar staff (1.55m total), the largest layoff in company history, per media reports; Amazon declined comment. Cuts span HR (People Experience and Technology) - potentially 15% - plus Devices and Services and Operations. Managers trained Monday to deliver email notices. Shares rose 1.2% ahead of earnings. Jassy is trimming bureaucracy and layers; an anonymous inefficiency line yielded 1,500 tips and 450 process changes. Peers Microsoft, Meta, Alphabet also downsized.",
-      "summaryTokens": 948,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
+      "trailText": "Finding is one of most direct statements from the tech company on how AI can exacerbate mental health issues",
+      "summary": "OpenAI says >1m ChatGPT users weekly exhibit explicit suicidal planning/intent; 0.07% (~560k of 800m weekly users) show possible psychosis/mania signs. Calling it an initial, hard-to-measure analysis, the firm faces a lawsuit over a teen suicide and an FTC probe into chatbot harms to youth. OpenAI claims a GPT-5 update boosts safety: 91% compliant vs 77% for a previous GPT-5 in tests across >1,000 self-harm chats; 170 clinicians reviewed 1,800 responses, helped write guidance. Changes add crisis hotline surfacing and break reminders. Researchers warn about sycophancy; OpenAI denies causal links. Altman plans loosening content limits, incl. adult erotica.",
+      "summaryTokens": 957,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     },
     {
       "id": "technology/2025/oct/27/ultra-hd-televisions-4k-8k-not-noticeably-better-study",
@@ -55,9 +94,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/ultra-hd-televisions-4k-8k-not-noticeably-better-study",
       "section": "technology",
       "publishedDate": "2025-10-27T10:00:37Z",
-      "summary": "Cambridge and Meta scientists, in Nature Communications, find typical living‑room distances erase visible gains from 4K/8K over 2K. Using a movable 27in 4K monitor, 18 participants detected 1‑pixel vertical lines to determine the eye’s limits: averages 94 pixels per degree (greyscale), 89 PPD (red/green), 53 PPD (yellow/violet). A text‑sharpness task with 12 participants matched these limits. Many common size–distance setups already exceed them; e.g., a 44in 4K TV at ~2.5m. A chart and free calculator map when extra pixels are wasted. 20/20’s 60 PPD benchmark underestimates typical acuity.",
-      "summaryTokens": 1416,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
+      "trailText": "Research shows 4K or 8K screens offer no distinguishable benefit over similarly sized 2K screen in average living room",
+      "summary": "Cambridge and Meta researchers report most viewers gain no visible sharpness from 4K/8K over 2K at typical living-room distances. In lab tests using a movable 27in 4K monitor, 18 participants distinguished one-pixel line patterns (black-white, red-green, yellow-violet) from grey to find the eye’s resolution limit; 12 also judged text sharpness. Average acuity exceeded 20/20 (60 PPD): 94 PPD greyscale, 89 PPD red/green, 53 PPD yellow/violet; text matched line results. A chart and free calculator map screen size and viewing distance to required resolution. Example: a 44in 4K TV at 2.5m already exceeds acuity—8K won’t look sharper. Published in Nature Communications.",
+      "summaryTokens": 981,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     },
     {
       "id": "technology/2025/oct/27/apple-watch-ultra-3-review-the-biggest-and-best-smartwatch-for-an-iphone",
@@ -66,9 +106,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/apple-watch-ultra-3-review-the-biggest-and-best-smartwatch-for-an-iphone",
       "section": "technology",
       "publishedDate": "2025-10-27T07:00:24Z",
-      "summary": "Apple Watch Ultra 3 refines Apple’s adventure smartwatch: bigger, brighter edge-visible screen in same 49mm titanium case (sapphire), S10 chip, new wrist‑flick and double‑tap gestures. Battery +6% delivers ~3+ days (11–14h high‑accuracy workouts); 0–50% in 30min. Adds satellite SOS (plus Find My; consumer messaging US/CA/MX) and stronger 5G/eSIM. Dual‑band GPS is among the most accurate; action button supports pre‑lock start; 100m water, 40m dive. watchOS 26 adds Waypoint face. Full health suite incl ECG, SpO2, sleep score, hypertension alerts; Workout Buddy AI coach (iPhone 15 Pro required). £749/$799. Best Apple Watch, modest upgrade; iPhone‑only, no third‑party faces, shorter life than Garmin Fenix.",
-      "summaryTokens": 1958,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
+      "trailText": "Third-gen watch adds 5G, satellite SOS and messaging, a bigger screen and longer battery life in same rugged design",
+      "summary": "Apple Watch Ultra 3: £749/€899/$799 rugged 49mm titanium iPhone-only smartwatch adds 5G, satellite SOS, and US/Canada/Mexico satellite messaging (plan required). Bigger, brighter sapphire display with slimmer bezels; S10 chip; double‑tap and wrist‑flick gestures. 6% larger battery lasts 3+ days (50% in 30min; full ~2h), but short of Garmin week-long rivals. watchOS 26 adds Waypoint face. Dual‑band GPS now class‑leading; wait-for-GPS‑lock action button; 11–14h high-accuracy tracking. Strong health suite (ECG, SpO2, hypertension alerts, sleep score) plus running power/dynamics, cycling/swim/triathlon, dive to 40m. 100m water resistance, UWB. Best Apple Watch, modest upgrade.",
+      "summaryTokens": 1441,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     },
     {
       "id": "technology/2025/oct/27/people-thought-i-was-a-communist-doing-this-as-a-non-profit-is-wikipedias-jimmy-wales-the-last-decent-tech-baron",
@@ -77,9 +118,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/people-thought-i-was-a-communist-doing-this-as-a-non-profit-is-wikipedias-jimmy-wales-the-last-decent-tech-baron",
       "section": "technology",
       "publishedDate": "2025-10-27T06:00:24Z",
-      "summary": "Wikipedia turns 25. Jimmy Wales says his newborn’s 2000 health scare spurred a pivot from slow, expert-led Nupedia to an open wiki—now 7m English articles and 18 languages with 1m-plus each. His book, The Seven Rules of Trust, codifies purpose, good faith, neutrality and transparency; research shows politicization erodes trust. Pro-capitalist and president of Fandom, he rebuts Musk’s Wokipedia jibes and Grokipedia pitch, arguing AI is less a threat than authoritarian censorship; Wikipedia refuses cooperation and is blocked in China. He defends DEI grants amid 50m-of-177m claims as mission-critical outreach. Editors’ pandemic work modeled transparent misinformation control. He urges bolder UK governance.",
-      "summaryTokens": 1176,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
+      "trailText": "In an online landscape characterised by doom and division, the people’s encyclopedia stands out – a huge collective endeavour giving everyone free access to the sum of human knowledge. But with Elon Musk branding it ‘Wokipedia’ and AI looming large, can it survive?",
+      "summary": "Wikipedia, which turns 25 in January, grew from Jimmy Wales's pivot from the slow, expert-only Nupedia after a 2000 family medical scare. Now >7m English articles and 18 languages with >1m each, it underpins the web. Wales's book, The Seven Rules of Trust, touts Wikipedia's formula: clear purpose, neutrality, civility and radical transparency. He rejects Elon Musk's \"Wokipedia\" attacks and \"Grokipedia\" pitch, denies political capture, and defends DEI grants as mission-critical to global coverage. He sees authoritarian censorship (China bans; Russia sporadic blocks) as a bigger threat than AI. Donations fund tech, ops and grants. A capitalist by instinct, Wales also runs Fandom (TPG-owned), and urges platforms to \"show your work,\" not chase outrage.",
+      "summaryTokens": 1704,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     },
     {
       "id": "technology/2025/oct/26/us-china-tiktok-deal-scott-bessent",
@@ -88,9 +130,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/26/us-china-tiktok-deal-scott-bessent",
       "section": "technology",
       "publishedDate": "2025-10-26T16:25:00Z",
-      "summary": "US Treasury secretary Scott Bessent said Washington and Beijing have finalized a deal to transfer TikTok's US operations, to be consummated by Trump and Xi Jinping Thursday in Korea. The $14bn transaction gives US and international investors about 65% ownership, reduces ByteDance/Chinese stakes to under 20%, and puts the algorithm and six of seven board seats under the US-led group. Trump's Sept 25 order enabled the sale after delaying a 2025 ban. Potential investors include Rupert Murdoch and Larry Ellison; Barron Trump has been floated for the board. The accord sits within a broader trade framework covering farm purchases and fentanyl.",
-      "summaryTokens": 3555,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
+      "trailText": "Scott Bessent said plan was part of framework for trade deal but did not share details on transferring app’s ownership",
+      "summary": "US treasury secretary Scott Bessent said Washington and Beijing finalized a $14bn deal to transfer TikTok’s US operations, to be sealed by Trump and Xi in Korea on Thursday, and that China approved it. Under Trump’s 25 Sept order, US/international investors would own ~65%, ByteDance/Chinese <20%, control the algorithm, and hold 6 of 7 board seats. Prospective backers include Rupert Murdoch and Larry Ellison; Barron Trump has been floated. The agreement sits within a broader trade framework preceding talks on soy purchases, trade balance, and fentanyl-linked 20% tariffs. The 2024 statutory ban’s January 2025 deadline was extended four times as talks progressed.",
+      "summaryTokens": 3187,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     },
     {
       "id": "technology/2025/oct/26/internet-infrastructure-fragile-system-holding-modern-world-together",
@@ -99,9 +142,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/26/internet-infrastructure-fragile-system-holding-modern-world-together",
       "section": "technology",
       "publishedDate": "2025-10-26T15:00:05Z",
-      "summary": "The piece maps a rare but plausible internet collapse: heavy concentration in hyperscale clouds (AWS, Google, Microsoft) creates systemic risks. A chain—tornado hits Google us-central1 (Council Bluffs), heatwave cripples AWS US-East-1 (Virginia), cyberattack on a European hub—forces reroutes that trigger an AI-introduced AWS bug post-layoffs, toppling Signal, Slack, Netflix, Lloyd’s and smart devices. Undersea cable cuts are routine; true doom targets core protocols: DNS/BIND or BGP. Downing Verisign would fell .com, stalling banks and hospitals (cf. 2016 Dyn). Experts Woźniak, Murdoch and Madory stress improbability yet fragility; niches (Mastodon, self-hosted, .io/.is, Siprnet) endure. A total shutdown might be hard to restart; UK ops once had a pub plan.",
-      "summaryTokens": 1057,
-      "generatedAt": "2025-10-28T12:35:45.015Z"
+      "trailText": "Behind every meme and message is creaking, decades-old infrastructure. Internet experts can think of scenarios that could bring it all crashing down …",
+      "summary": "Could the internet go offline? Concentrated, aging infrastructure could cascade into the “big one”: tornado wipes Google us-central1 (Council Bluffs); heatwave cripples AWS US East-1; an AI-introduced AWS bug amplifies traffic reroutes. Result: Signal, Slack, Netflix, Lloyd’s, IoT fail, though routing persists, says Doug Madory. Undersea cable cuts rarely decisive (150–200 faults/year). True catastrophe targets DNS/BGP: Verisign (.com) failure, BIND or BGP bugs—Dyn 2016 is a cautionary tale. Restarting would be uncertain, notes Steven Murdoch; UK had a meet-in-a-pub contingency. DNS engineer Michał Woźniak says two devices and a router still constitute “the internet”. Cloud giants hold >60% share.",
+      "summaryTokens": 3150,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     },
     {
       "id": "technology/2025/oct/27/what-taxi-uber-battle-means-airport-trip-sydney-melbourne",
@@ -110,9 +154,10 @@
       "apiUrl": "https://content.guardianapis.com/technology/2025/oct/27/what-taxi-uber-battle-means-airport-trip-sydney-melbourne",
       "section": "technology",
       "publishedDate": "2025-10-26T14:00:04Z",
-      "summary": "To deter touts and compete with rideshare, Melbourne airport has begun a taxi fixed-fare booking trial at three Qantas domestic kiosks, issuing prepaid quotes and directing riders to Silver Service, Black and White, 13cabs or Silver Top. From 3 November, Sydney airport runs a 12‑month $60 flat fare to the CBD ($80 Maxi), with inspectors monitoring. Sydney’s Uber Pin kerbside pickup at the international terminal becomes permanent; Melbourne enabled kerbside Uber in 2021. Uber now dominates: Sydney international rose from 35% (2019) to 50% (2024), then 73% during the Pin trial (300,000 trips); taxis 27%. Melbourne: Uber ~60%, taxis ~20%. Sample fares: Melbourne taxi $78–79 vs Uber $57–65; Sydney taxi $60 vs Uber $45–66. NSW fines first overcharging to $3,000; Victoria proposes a two‑strikes ban.",
-      "summaryTokens": 1201,
-      "generatedAt": "2025-10-28T12:35:45.016Z"
+      "trailText": "Taxi companies are trialling flat-fare rides to challenge Uber’s dominance on the airport run. Can they win back support – or at least customers?",
+      "summary": "Melbourne and Sydney airports are testing taxi pricing to claw back riders from Uber. Melbourne has kiosks at Qantas domestic offering fixed fares via 13Cabs tech, dispatching Silver Service, Black & White, 13Cabs or Silver Top. Sydney launches a 12‑month $60 flat fare ($80 Maxi) to the CBD on 3 November. Meanwhile, Uber Pin pickups are permanent at Sydney international and run at Melbourne, lifting share: Sydney international Uber rose from 35% (2019) to 50% (2024) and 73% this year; Melbourne: Uber 60%, taxis 20%. Taxi industry calls Uber Pin anticompetitive; minister cites choice. Price checks: Melbourne taxi $78–$79 vs Uber $57–$65; Sydney taxi $60 vs Uber $45–$66.",
+      "summaryTokens": 2643,
+      "generatedAt": "2025-10-28T13:59:30.093Z"
     }
   ]
 }
