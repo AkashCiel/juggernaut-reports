@@ -1,20 +1,62 @@
 {
   "metadata": {
     "section": "global-development",
-    "generated_at": "2025-10-28T21:48:00.766Z",
+    "generated_at": "2025-11-01T21:24:46.985Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-10-28"
+      "to": "2025-10-31"
     },
-    "article_count": 57,
+    "article_count": 61,
+    "merge_info": {
+      "previous_count": 57,
+      "new_articles": 4,
+      "updated_articles": 3,
+      "total_count": 61
+    },
     "batch_info": {
-      "initial_batch_id": "batch_690134f66de481909f61f6d7ad6af3ec",
+      "initial_batch_id": "batch_6906795cbb4881909ff1e0938f281d67",
       "retry_batches": [],
-      "total_tokens": 154504,
-      "processing_time_hours": 0.4
+      "total_tokens": 19753,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "global-development/2025/oct/31/cancer-lung-disease-miscarriages-are-uruguays-rice-workers-paying-too-high-a-price-to-bring-in-the-crop",
+      "title": "Cancer, lung disease, miscarriages: are Uruguay’s rice workers paying too high a price to bring in the crop?",
+      "webUrl": "https://www.theguardian.com/global-development/2025/oct/31/cancer-lung-disease-miscarriages-are-uruguays-rice-workers-paying-too-high-a-price-to-bring-in-the-crop",
+      "apiUrl": "https://content.guardianapis.com/global-development/2025/oct/31/cancer-lung-disease-miscarriages-are-uruguays-rice-workers-paying-too-high-a-price-to-bring-in-the-crop",
+      "section": "global-development",
+      "publishedDate": "2025-10-31T12:00:04Z",
+      "trailText": "The sector is a key driver of the Uruguayan economy, but widespread and ill-controlled use of agrochemicals is affecting employees’ health – despite official assurances",
+      "summary": "Uruguay’s booming rice industry—Latin America’s second-largest exporter—faces mounting evidence that heavy agrochemical use is driving occupational illnesses, respiratory diseases, miscarriages and cancer among some 30,000 workers and local residents. Landmark cases like Julio de los Santos’s glyphosate-linked kidney failure, studies documenting fetal abnormalities and high bronchial obstruction rates in children, and gaps in worker training, epidemiological monitoring and enforcement underscore regulatory shortcomings. Despite bans on the most toxic pesticides and industry assurances, activists and unions demand stronger buffer zones, transparent records and stricter oversight.",
+      "summaryTokens": 943,
+      "generatedAt": "2025-11-01T21:24:46.672Z"
+    },
+    {
+      "id": "global-development/2025/oct/30/they-killed-civilians-in-their-beds-chaos-and-brutality-reign-after-fall-of-el-fasher",
+      "title": "‘They killed civilians in their beds’: chaos and brutality reign after fall of El Fasher",
+      "webUrl": "https://www.theguardian.com/global-development/2025/oct/30/they-killed-civilians-in-their-beds-chaos-and-brutality-reign-after-fall-of-el-fasher",
+      "apiUrl": "https://content.guardianapis.com/global-development/2025/oct/30/they-killed-civilians-in-their-beds-chaos-and-brutality-reign-after-fall-of-el-fasher",
+      "section": "global-development",
+      "publishedDate": "2025-10-30T06:00:54Z",
+      "trailText": "Thousands have fled the Sudanese city in terror with stories of the Rapid Support Forces attacking and killing civilians",
+      "summary": "After an 18-month siege, RSF fighters overran El Fasher on 27 October, storming El Fasher South hospital and shooting wounded soldiers and civilians—including women—in their beds. The Joint Forces claim over 2,000 civilians have been killed since the city’s fall. Thousands fled on foot to Garney and Tawila, facing ambushes, ‘fake wells’, ransom demands of £6,000–£12,000 or detention, beatings and water mixed with flour. Survivors report severe injuries and mass graves. MSF in Tawila is treating over 1,000 malnourished, dehydrated arrivals, warning of a deepening humanitarian crisis.",
+      "summaryTokens": 521,
+      "generatedAt": "2025-11-01T21:24:46.672Z"
+    },
+    {
+      "id": "global-development/2025/oct/29/senegal-culture-stage-brian-friel-irish-play-translations-donegal-dakar-forced-marriage-colonialism",
+      "title": "Donegal to Dakar: the Irish play about British rule hitting home in post-colonial Senegal",
+      "webUrl": "https://www.theguardian.com/global-development/2025/oct/29/senegal-culture-stage-brian-friel-irish-play-translations-donegal-dakar-forced-marriage-colonialism",
+      "apiUrl": "https://content.guardianapis.com/global-development/2025/oct/29/senegal-culture-stage-brian-friel-irish-play-translations-donegal-dakar-forced-marriage-colonialism",
+      "section": "global-development",
+      "publishedDate": "2025-10-29T07:00:36Z",
+      "trailText": "An African staging of Brian Friel’s Translations resonates deeply as the country distances itself from France",
+      "summary": "On a humid evening in Dakar, Brrr Production staged Brian Friel’s Translations in French, fusing Irish jigs with Fula flute and African costumes to examine colonial power, language and identity. The 1833 tale of British officers renaming Donegal mirrors Senegal’s quest to decolonise—closing French bases, re-naming streets, challenging the CFA franc peg—and reclaim its Wolof heritage after years of Françafrique. Ahead of a schools and public tour, cast and audience draw parallels between Ireland and Senegal’s shared Atlantic post-colonial narratives of language, forced migration and lingering empire.",
+      "summaryTokens": 762,
+      "generatedAt": "2025-11-01T21:24:46.672Z"
+    },
     {
       "id": "global-development/2025/oct/28/india-ayushman-bharat-free-medical-cover-healthcare-revolutionised-narendra-modi",
       "title": "Free medical cover has revolutionised healthcare in India. So why is it ailing?",
@@ -23,9 +65,9 @@
       "section": "global-development",
       "publishedDate": "2025-10-28T06:00:20Z",
       "trailText": "Modi’s Ayushman Bharat scheme put hospital treatment within reach of tens of millions of Indians for the first time. But the government’s unpaid bills may derail the reforms",
-      "summary": "Ayushman Bharat, launched in 2018, offers free annual health cover of ₹500,000 per family at public and private hospitals, issuing 822m ABHA accounts and enabling nearly 100m admissions. Despite political goodwill, unpaid claims have soared past ₹1tn (₹4bn pending in Kerala alone), delaying reimbursements 4–6+ months, straining hospital cashflows, and causing tax liabilities. Fraud scrutiny and cumbersome paperwork exacerbate delays, leading some states (e.g. Haryana) to suspend coverage. Critics warn that without timely, inflation-adjusted payments, Modi’s flagship scheme risks collapse.",
-      "summaryTokens": 949,
-      "generatedAt": "2025-10-28T21:48:00.766Z"
+      "summary": "Since its 2018 launch, Modi’s Ayushman Bharat scheme has issued 822m health IDs, covering up to ₹500,000 per family and enabling nearly 100m hospital admissions across public and private facilities. Yet unpaid claims exceeding ₹1 trn (₹4 bn in Kerala) and reimbursement delays of 4–6 months have sparked cash-flow crises for providers, prompting mass shutdowns in Haryana and deterring major hospital chains. Bureaucratic paperwork and fraud scrutiny exacerbate hold-ups. Observers warn that without prompt, inflation-adjusted payments, India’s largest social-health initiative risks collapse despite its life-changing impact for the poor.",
+      "summaryTokens": 968,
+      "generatedAt": "2025-11-01T21:24:46.672Z"
     },
     {
       "id": "global-development/2025/oct/28/uk-military-equipment-rapid-support-forces-rsf-militia-accused-genocide-found-sudan-united-nations",
@@ -35,9 +77,9 @@
       "section": "global-development",
       "publishedDate": "2025-10-28T05:00:20Z",
       "trailText": "Exclusive: two dossiers of material seen by the security council raise questions over export of British arms to the UAE, which has been accused of supplying weapons to paramilitary RSF group",
-      "summary": "UN-seen dossiers from June 2024 and March 2025 reveal British-made small-arms target systems and Cummins engines for UAE-built Nimr Ajban armoured carriers recovered on Rapid Support Forces (RSF) sites in Sudan. The RSF, accused of genocide, has waged a war killing at least 150,000, displacing 12 million and fueling global hunger. Despite prior allegations of UAE diversion, the UK granted multiple ML14 licences and an open export licence for identical equipment months after evidence of misuse emerged. Critics, including former UN experts and Darfur diaspora leaders, call for urgent UK investigations into arms-export controls and end-use monitoring amid questions over compliance with UN embargoes.",
-      "summaryTokens": 1353,
-      "generatedAt": "2025-10-28T21:48:00.766Z"
+      "summary": "British-made small-arms training systems and engines for UAE-manufactured armoured personnel carriers have been recovered from RSF positions in Sudan, according to two dossiers seen by the UN Security Council. The RSF, accused of genocide, has used this British equipment, prompting scrutiny of UK arms exports to the UAE. Despite UN embargoes and previous allegations of UAE diversion to conflict zones, the UK issued further open licences for similar equipment in 2024. Critics cite treaty obligations against authorising exports with diversion risk and call for investigation into potential complicity in war crimes. The UAE denies supplying weapons to the RSF.",
+      "summaryTokens": 822,
+      "generatedAt": "2025-11-01T21:24:46.672Z"
     },
     {
       "id": "global-development/2025/oct/27/senegal-africa-aid-cuts-contraception-msi-birth-control-harm-women-health-poverty",
@@ -47,9 +89,21 @@
       "section": "global-development",
       "publishedDate": "2025-10-27T05:00:22Z",
       "trailText": "Being able to space out their babies is essential to the life and health chances of women in Joal. But now international aid cuts threaten to take away the few choices they have left",
-      "summary": "In Joal, Senegal’s fragile fishing town of 28,000, women endure back-to-back pregnancies, rising poverty and poor health services. MSI Reproductive Choices’ British-funded Wish 2 outreach (barely restored after UK aid cuts cut its budget from £30m to £6.7m) deploys mobile clinics 22 days a month, fitting IUDs, implants and offering STI and cancer screening to hundreds of women, boosting maternal health, economic prospects and autonomy. Further UK aid reductions risk stripping away this vital lifeline and jeopardising national targets to double contraceptive use by 2028.",
-      "summaryTokens": 1222,
-      "generatedAt": "2025-10-28T21:48:00.766Z"
+      "summary": "In Joal, Senegal, where women face back-to-back pregnancies, dwindling fish catches and extreme poverty, MSI Reproductive Choices’ UK-funded outreach offers IUDs and implants that let “warrior” women space births, improve health and work. Cuts to the Wish programme, slashed from £30m to £6.7m under past UK aid cuts—and threatened further—jeopardise this lifeline in a region with illegal abortions, power outages and under‐resourced clinics. Community “bajenu gox” door‐to‐door educators link 28,000 residents to services. Senegal’s govt targets modern contraception uptake but depends on partners as USAID and FCDO funds shrink.",
+      "summaryTokens": 1230,
+      "generatedAt": "2025-11-01T21:24:46.672Z"
+    },
+    {
+      "id": "global-development/2025/oct/27/brazil-and-peru-are-failing-uncontacted-people-and-the-amazon-future-is-at-stake",
+      "title": "Brazil and Peru are failing uncontacted people – and the Amazon’s future is at stake | Julio Cusurichi Palacios and Beto Marubo",
+      "webUrl": "https://www.theguardian.com/global-development/2025/oct/27/brazil-and-peru-are-failing-uncontacted-people-and-the-amazon-future-is-at-stake",
+      "apiUrl": "https://content.guardianapis.com/global-development/2025/oct/27/brazil-and-peru-are-failing-uncontacted-people-and-the-amazon-future-is-at-stake",
+      "section": "global-development",
+      "publishedDate": "2025-10-27T00:01:17Z",
+      "trailText": "As Cop30 approaches, a new report makes it clear the survival of isolated tribes is under threat as protections are eroded. It’s time our countries fulfilled their obligations to defend Indigenous people",
+      "summary": "NGO Survival International’s new report identifies 196 uncontacted tribes worldwide—over 60 in the Amazon, 90% in Brazil and Peru—half facing extinction within a decade from logging, mining, agribusiness, disease and criminal incursions. In Brazil, weakened Funai and the “marco temporal” law stall reserve demarcation. In Peru, bills 12215/2025-CR and 11822/2024-CR would cancel or shrink indigenous lands and allow oil drilling, blocking Yavari Mirim and Madre de Dios protections. Ahead of COP30, indigenous leaders urge both governments to reverse rollbacks and uphold climate and human rights commitments.",
+      "summaryTokens": 1920,
+      "generatedAt": "2025-11-01T21:24:46.672Z"
     },
     {
       "id": "global-development/2025/oct/25/cholera-global-spread-vaccine-production-africa-zambia",
