@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "environment",
-    "generated_at": "2025-11-01T21:19:15.806Z",
+    "generated_at": "2025-11-02T13:44:03.639Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-01"
+      "to": "2025-11-02"
     },
-    "article_count": 312,
+    "article_count": 315,
     "merge_info": {
-      "previous_count": 280,
-      "new_articles": 32,
-      "updated_articles": 19,
-      "total_count": 312
+      "previous_count": 312,
+      "new_articles": 3,
+      "updated_articles": 17,
+      "total_count": 315
     },
     "batch_info": {
-      "initial_batch_id": "batch_6906764f317c819086845ca113db2797",
+      "initial_batch_id": "batch_69075fcb75e481909ff64cdc80bb7576",
       "retry_batches": [],
-      "total_tokens": 106132,
-      "processing_time_hours": 0.2
+      "total_tokens": 43685,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "environment/2025/nov/02/germans-challenging-fight-to-go-green-climate-net-zero",
+      "title": "‘If you ignore emissions, we did great’: Germany’s challenging fight to go green",
+      "webUrl": "https://www.theguardian.com/environment/2025/nov/02/germans-challenging-fight-to-go-green-climate-net-zero",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/nov/02/germans-challenging-fight-to-go-green-climate-net-zero",
+      "section": "environment",
+      "publishedDate": "2025-11-02T12:00:41Z",
+      "trailText": "While still on track to meet net zero commitments, climate groups say country’s toughest hurdles are yet to come",
+      "summary": "Germany, once a green model, has halved emissions since 1990 and aims for net zero by 2045 via renewables (59% of power) and energy efficiency. However, early nuclear phase-out, delayed coal closures, stagnant transport/buildings sectors and rising public/political scepticism threaten its trajectory. Post-pandemic and Ukraine war shifts, under CDU leader Merz, have loosened green regulations, fuelled a fossil-gas revival and influenced EU rollbacks of the Green Deal. Courts and protests drove prior climate gains, but polarised debates, industry pushback on emissions trading and far-right AfD attacks heighten risks as Germany faces its toughest decarbonisation phase.",
+      "summaryTokens": 446,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
+    },
+    {
+      "id": "environment/2025/nov/02/uk-charging-industry-could-face-100m-bill-under-business-rate-changes",
+      "title": "UK charging industry could face £100m bill under business rate changes",
+      "webUrl": "https://www.theguardian.com/environment/2025/nov/02/uk-charging-industry-could-face-100m-bill-under-business-rate-changes",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/nov/02/uk-charging-industry-could-face-100m-bill-under-business-rate-changes",
+      "section": "environment",
+      "publishedDate": "2025-11-02T12:00:03Z",
+      "trailText": "Industry bodies say proposals will force site closures, slow investment and cost drivers up to £300 a year more",
+      "summary": "The UK’s public EV charging industry could incur up to a £100m annual bill after the Valuation Office Agency plans to apply business rates to 64,000 parking bays from April 2025—potentially backdated to April 2023. ChargeUK warns firms may pass on £300 extra per driver, slow site roll-out and close loss-making hubs in the Midlands and north. It disputes the VOA’s £25m estimate and urges a 26 November budget exemption to protect EV uptake, arguing bays should remain rate-free to meet emissions targets.",
+      "summaryTokens": 741,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
+    },
+    {
+      "id": "australia-news/2025/nov/02/free-penguin-tours-st-kilda-pier-return-viewing-platform",
+      "title": "St Kilda’s little penguin colony to be ‘cherished and protected’ as free public tours return at long last",
+      "webUrl": "https://www.theguardian.com/australia-news/2025/nov/02/free-penguin-tours-st-kilda-pier-return-viewing-platform",
+      "apiUrl": "https://content.guardianapis.com/australia-news/2025/nov/02/free-penguin-tours-st-kilda-pier-return-viewing-platform",
+      "section": "environment",
+      "publishedDate": "2025-11-01T19:00:45Z",
+      "trailText": "A new, purpose-built 150m viewing platform is giving visitors the chance to ‘connect with nature in the city’",
+      "summary": "After a five-year hiatus, free guided tours to St Kilda’s little penguin colony resumed this week on a new 150 m elevated platform at the end of the $53 m pier, operated by Earthcare St Kilda and Phillip Island Nature Parks. The platform protects the rocky nest habitat—where numbers have grown from 57 penguins in 1986 to over 1,400—while offering sunset and after-dark close-ups of 30 cm Eudyptula minor. Volunteers highlight improved visitor management to balance city dwellers’ nature connection with threats mitigation (climate change, light, fishing, plastic) and ensure the colony’s resilience.",
+      "summaryTokens": 892,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
+    },
     {
       "id": "environment/2025/nov/02/energy-prices-falling-electricity-cheaper-households",
       "title": "Australian wholesale electricity prices are falling. So when will power bills stop rising?",
@@ -28,10 +64,10 @@
       "apiUrl": "https://content.guardianapis.com/environment/2025/nov/02/energy-prices-falling-electricity-cheaper-households",
       "section": "environment",
       "publishedDate": "2025-11-01T19:00:43Z",
-      "trailText": "The cost of generating power is definitely getting cheaper, but the savings may take time to flow through",
-      "summary": "AEMO reports a 27% drop in national wholesale electricity prices in Q3 2025, driven by record renewables and battery output averaging 42.7% of the fuel mix. State averages ranged from $72/MWh in Queensland to $104/MWh in South Australia. However, wholesale costs are only 38% of retail bills; network charges, retailer margins and policy levies delay consumer relief. War-driven fossil fuel inflation, new transmission costs and long-term contracts also keep retail prices high. Households can cut bills via rooftop solar, batteries, rebates or by switching to better retail offers; one in five faces energy hardship.",
-      "summaryTokens": 433,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "trailText": "The cost of generating power is definitely getting cheaper but the savings may take time to flow through",
+      "summary": "Australia’s Energy Market Operator reports a 27% year-on-year drop in wholesale electricity prices in Q3, driven by record renewables (42.7% fuel mix) and battery storage amid rising demand. Yet retail bills remain high as network costs (39%), retailer margins (16%) and environmental levies (7%) dominate. Default tariffs are climbing, while only non-default customers shop around. Global fuel prices and transmission upgrades also add pressures. One in five households face energy hardship; rooftop solar and battery owners pay ~18% less. Consumers are urged to compare plans via Energy Made Easy or state comparators to secure savings.",
+      "summaryTokens": 431,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/nov/01/britain-canals-rivers-funding-climate-campaign",
@@ -41,9 +77,9 @@
       "section": "environment",
       "publishedDate": "2025-11-01T08:00:29Z",
       "trailText": "Many waterways vulnerable to breaches and closures and face mounting maintenance costs, charity says",
-      "summary": "Campaigners warn Britain’s canal network is underfunded and vulnerable to climate pressures. A new IWA map shows 99% of navigable waterways face higher risk under 2°C warming, and 75% of authorities are in severe or amber financial deficit. Recent closures—from May–September on the Leeds & Liverpool canal to the Bridgewater collapse—highlight costly breaches and drought impacts. Waterways serve 10m users, save the NHS £1.5bn, support 80,000 jobs. The Canal & River Trust spent £10m on emergency repairs last winter despite £480m in grants. IWA urges a government review for sustainable long-term funding to avoid irreversible decline by 2050.",
-      "summaryTokens": 1145,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "summary": "Britain’s canals and rivers face chronic underfunding and mounting climate pressures, with three-quarters of waterways financially imperiled and 99% at risk under a 2°C heating scenario. Drought-induced closures on the Leeds & Liverpool canal, the New Year collapse of the Bridgewater embankment, and Pennines reservoir strains highlight vulnerability. Despite £480 m in DEFRA grants and the Canal & River Trust’s £10 m emergency winter repairs, maintenance needs outstrip support across 2,000 miles. Campaigners demand a government review to secure sustainable, long-term funding and avert irreversible decline by 2050.",
+      "summaryTokens": 494,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/nov/01/britain-one-of-least-nature-connected-nations-in-world-with-nepal-the-most",
@@ -53,9 +89,9 @@
       "section": "environment",
       "publishedDate": "2025-11-01T07:00:32Z",
       "trailText": "Others languishing near bottom of 61-country study include Canada, Germany, Israel, Japan and Spain",
-      "summary": "Britain ranks 55th of 61 countries in a global nature connectedness survey of 57,000 participants, trailing behind Nepal (1st), Iran, South Africa, Bangladesh and Nigeria. Researchers link high nature connectedness to spirituality, while business-friendliness, urbanisation, income, internet use and rational economic values weaken it. Despite high UK environmental organisation membership, closeness to nature remains low, underpinning biodiversity loss alongside inequality and materialism. Recommendations include integrating nature into healthcare, law and business decisions via biodiversity net gain, and creating “sacred” urban green spaces. Bishop Graham Usher echoes the need to foster nature affinity from childhood through forest school.",
-      "summaryTokens": 1017,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "summary": "An Ambio study of 57,000 people across 61 countries ranks Britain 55th in nature connectedness—measuring psychological closeness to other species—behind Nepal (1st), Iran, South Africa, Bangladesh and Nigeria, with Spain last. Researchers found strong ties correlate with societal spirituality, while higher ease of doing business, urbanization, income and internet use depress connection; membership in environmental groups had little impact. They recommend embedding nature into NHS mental‐health treatments, legal rights, corporate boardrooms (eg biodiversity net gain) and creating “sacred” urban green spaces to rebalance cultural values.",
+      "summaryTokens": 494,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/nov/01/country-diary-helping-salmon-make-the-leap",
@@ -65,9 +101,9 @@
       "section": "environment",
       "publishedDate": "2025-11-01T05:30:25Z",
       "trailText": "Laxey, Isle of Man: I’m lucky to see my first ever wild Atlantic salmon, but it’s no fluke that they are present in our rivers",
-      "summary": "In the River Laxey, Isle of Man, Atlantic salmon runs attract anglers supported by the island’s unseen economy. Conservation measures—including disconnecting the Lady Isabella waterwheel to eliminate mine pollution, replacing weirs with boulder structures that serve as salmon slaloms, and a government hatchery programme that collects wild eggs, rears fry and returns adults—have boosted stocks while preserving each river’s genetics. Despite broader overfishing risks, these targeted habitat and breeding interventions showcase the island’s effective strategy for protecting its namesake laxsaa.",
-      "summaryTokens": 1050,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "summary": "In Laxey on the Isle of Man, wild Atlantic salmon benefit from targeted conservation: authorities disconnected the Lady Isabella waterwheel’s piston rod to prevent polluted mine runoff, replaced debris-clogging flood defenses with boulder weirs that act as “salmon slaloms,” and launched a breeding programme that gathers wild adults to produce fry released back into their natal rivers to maintain genetic diversity. These measures—against overfishing, mining pollution, and migration barriers—have revitalized an already historic salmon run, long central to the island’s fishing economy and its Norse-derived name, “laxaa.”",
+      "summaryTokens": 935,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/nov/01/gumnuts-baby-how-two-abseiling-horticulturalists-rescued-specimens-from-an-endangered-tree",
@@ -77,9 +113,9 @@
       "section": "environment",
       "publishedDate": "2025-11-01T04:00:23Z",
       "trailText": "The threatened Jillaga Ash ( Eucalyptus stenostoma ) was spotted 90m down a cliff in Wadbilliga national park, in southern New South Wales",
-      "summary": "Amy Downie and Ollie Sherlock, horticulturalists from Royal Botanic Gardens Victoria, abseiled a 300m cliff face in New South Wales’ Wadbilliga National Park to collect gumnuts from endangered Jillaga Ash (Eucalyptus stenostoma). Using tied ropes and a pole pruner, they retrieved seed from four trees during a five-day expedition involving camping, 4WD, hiking and surveying. Seeds and cuttings will underpin conservation and backup populations. Stored at RBGV’s state botanical collection, the mission paves the way for future abseiling rescues and drone scouting.",
-      "summaryTokens": 1009,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "summary": "Threatened flora ecologist Stan Wawrzyczek and RBGV horticulturist Amy Downie, aided by abseiler Ollie Sherlock, undertook a five-day mission in NSW’s Wadbilliga national park to rescue gumnuts from Eucalyptus stenostoma (Jillaga Ash), located 90m down an uncharted 300m cliff. Using tied-together ropes and a pole pruner, they collected fruit from four trees to propagate seedlings and back-up populations. Cuttings will enter RBGV’s state botanical collection and NSW Herbarium; seeds go to Royal Botanic Gardens Melbourne and Cranbourne. Future drone scouting is under consideration.",
+      "summaryTokens": 1094,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/oct/31/cop30-climate-us-officials",
@@ -89,9 +125,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T17:24:26Z",
       "trailText": "Decision to stay away from Cop30 meeting in Brazil underscores administration’s hostility to climate action",
-      "summary": "The Trump administration will send no senior US representatives to the UN’s COP30 climate talks in Belém, marking the first American absence in three decades. White House spokeswoman Taylor Rogers branded climate policy a “Green New Scam” while shuttering the State Department’s climate office and scrapping the Biden-era envoy. Trump favors bilateral energy deals—securing a $750bn EU oil-and-gas purchase plus Japan and South Korea partnerships on rare earths, nuclear and fossil fuel projects—labeling global goals “vague.” Unsupported governors, mayors and activists will attend, highlighting subnational action.",
-      "summaryTokens": 669,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "summary": "The Trump administration will send no high-level US officials to next month’s COP30 talks in Belém, Brazil, marking the first time in three decades the US has entirely skipped UN climate negotiations. Labeling climate policies “a hoax” and withdrawing from the Paris Agreement, the administration has closed its State Department climate office, axed the climate envoy, and shifted to bilateral energy deals—securing $750 billion in EU oil and gas purchases and pacts on rare earths, nuclear and fossil fuels with Japan and South Korea. Subnational actors will attend unsupported, while global delegates face delayed emissions plans and lodging shortages.",
+      "summaryTokens": 997,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/nov/01/this-is-the-future-inside-the-next-generation-of-electric-cars-fly-and-park-themselves-but-the-doors-are-a-bit-tricky",
@@ -101,9 +137,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T14:00:07Z",
       "trailText": "Caitlin Cassidy takes a test-drive in some of the cutting-edge vehicles at the Sydney International EV Motor Show – with a mixed verdict",
-      "summary": "At the Sydney International EV Motor Show, Caitlin Cassidy tests 100 cutting-edge electric vehicles, from $30K town models to $500K supercars and a $200K XPeng X2 flying car (illegal locally). She drives the $55K XPeng G6, impressed by its self-parking, hands-free lane-changing and driver-monitoring camera—yet struggles with its futuristic doors. Organiser Future Drive AutoShows reports 16% of new car sales in Australia are EVs (2–3% of total), up from just four brands post-Covid, and predicts rapid uptake once charging infrastructure expands.",
-      "summaryTokens": 513,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "summary": "At the Sydney International EV Motor Show, Caitlin Cassidy explores cutting-edge models from $30K entry-level EVs to $500K supercars. She tests XPeng’s X2 flying-car prototype (35-minute flight, illegal locally) and its $55K G6, praising its self-parking, lane-change autopilot, climate presets and drowsiness sensor. Organisers highlight explosive growth: 96 EV models now versus four post-Covid, 16% of new Australian car sales (versus China’s 80%). Tradie electric utes and 4x4s loom. Doors can be tricky, but importers insist petrol’s era is ending as EV adoption accelerates.",
+      "summaryTokens": 795,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/oct/31/three-just-stop-oil-activists-cleared-over-stonehenge-protest",
@@ -113,9 +149,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T13:26:10Z",
       "trailText": "Trio argued orange powder protest day before 2024 solstice was justified because of focus on climate emergency",
-      "summary": "Three Just Stop Oil activists sprayed orange powder on Stonehenge the day before the 2024 solstice to spotlight the climate emergency. At Salisbury Crown Court, Judge Dugdale told jurors that convicting them would be a disproportionate interference with their rights to freedom of expression and protest. The trio—Rajan Naidu, Niamh Lynch and Luke Watson—were acquitted of public nuisance and damaging a protected monument; the £620 clean-up caused no lasting harm. Critics label the public nuisance law repressive, and campaigners hail the verdict as a landmark defence of peaceful protest rights.",
-      "summaryTokens": 624,
-      "generatedAt": "2025-11-01T21:19:15.133Z"
+      "summary": "At Salisbury Crown Court, three Just Stop Oil activists—74-year-old Rajan Naidu, student Niamh Lynch (23) and carpenter Luke Watson (36)—were acquitted of public nuisance and ancient monument damage after using orange powder “colour blasters” at Stonehenge on the eve of the 2024 summer solstice. The jury found removal costs (£620) and lack of lasting harm, plus the proportionality of convicting peaceful protesters over climate-emergency claims, did not justify interference with their freedom of expression. Defence counsel hailed the verdict as a vindication of the right to protest. Just Stop Oil said it drew more global attention than any earlier action.",
+      "summaryTokens": 1280,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/oct/31/just-stop-oil-activists-who-sprayed-stonehenge-orange-proud",
@@ -125,9 +161,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T13:03:09Z",
       "trailText": "Just Stop Oil protesters say they knew action would not harm stones and law used to prosecute them was ‘insane’",
-      "summary": "Just Stop Oil protestors Rajan Naidu, Luke Watson and Niamh Lynch sprayed three Stonehenge stones with orange bio-powder before the solstice, a stunt they describe as a harmless “magic trick” to spotlight the climate emergency. Acquitted of “damaging a public monument” and “public nuisance” under the PCSC Act 2022, they defended their method—food-dye cornflower powder easily removed—and denounced the prosecution as an absurd curb on protest, urging focus on a fossil fuel non-proliferation treaty and the planetary crisis.",
-      "summaryTokens": 941,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "Just Stop Oil activists Rajan Naidu (74), Luke Watson (36) and Niamh Lynch (23) were acquitted after spraying three of Stonehenge’s sarsen stones with cornflower-and-food-dye powder. They argued the non-porous stones suffered no harm and challenged section 78 of the Police, Crime, Sentencing and Courts Act 2022, calling its public nuisance charge unjust. Describing their stunt as a proportionate, magic-trick–style protest, they urged focus on a fossil fuel non-proliferation treaty and the climate emergency rather than their verdict.",
+      "summaryTokens": 1006,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/oct/31/we-must-protect-and-we-must-understand-using-shipwrecks-to-rebuild-fishing-populations",
@@ -137,9 +173,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T12:00:05Z",
       "trailText": "Research by marine scientists in Thailand is revealing how shipwrecks can benefit the undersea environment",
-      "summary": "Two Thai navy ships intentionally scuttled off Koh Tao in 2023 were surveyed by Global Reef before and after sinking, yielding rare data on artificial wreck reefs. Preliminary findings support both fish attraction and local production: adult species migrate from natural reefs to the HTMS Hanhak Sattru and Suphairin, while juveniles reproduce there. Popular dive sites deter fishers, relieve natural reefs, and boost stocks. Part of Thailand’s long-standing reef program and 30% marine protection goals, this project reflects its “protect and understand” ethos.",
-      "summaryTokens": 1065,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "Marine researchers working with Thailand’s navy and Global Reef collected pre- and post-scuttling data on two decommissioned Royal Thai Navy vessels (HTMS Hanhak Sattru and HTMS Suphairin) sunk in 2023 off Koh Tao. Early results support both attraction and production hypotheses: adult snappers, fusiliers and endangered species aggregate on wrecks while juveniles breed there, with dive-tourist activity deterring fishers. Artificial reefs, deployed since the 1970s, alleviate pressure on damaged natural reefs threatened by warming, overtourism and trawling. Government-backed studies align with Thailand’s 2030 goal to protect 30% of its marine zones, reflecting a culturally rooted ethic of conservation.",
+      "summaryTokens": 1163,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/oct/31/harrison-ford-donald-trump-climate-crisis",
@@ -149,9 +185,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T10:00:23Z",
       "trailText": "Indiana Jones star calls US president one of history’s greatest criminals for attacks on science and boosting of fossil fuels",
-      "summary": "Harrison Ford says Donald Trump’s climate policy rollbacks 'scare the shit out of me,' branding the president among history's worst criminals for dismantling emissions rules, revoking clean-air protections, halting renewables, urging 'drill, baby, drill,' ousting scientists, gagging climate talk and quitting the Paris accord. Ford, 83, warns that Trump's ignorance and profiteering fuel disasters—from LA wildfires that forced his evacuation to Jamaica's category 5 hurricane—yet he remains hopeful that political will, clean-energy innovation and indigenous stewardship can avert ecological collapse. Speaking before receiving an EO Wilson conservation award, he urges urgent action on biodiversity loss.",
-      "summaryTokens": 1327,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "Harrison Ford warns that Donald Trump's rollback of climate and clean-air policies, promotion of fossil fuels and withdrawal from the Paris deal scares the shit out of me, calling the president one of history's worst criminals. Ford cites halted clean-energy projects, bans on climate change in government and Trump's drill, baby, drill push aiding global heating. Drawing on his own wildfire evacuation, he laments disasters-from Category 5 storms to heat-related deaths-yet remains hopeful that public will, technology and conservation efforts like the EO Wilson half-Earth vision can avert catastrophe.",
+      "summaryTokens": 2267,
+      "generatedAt": "2025-11-02T13:44:03.290Z"
     },
     {
       "id": "environment/2025/oct/31/nature-extinction-crisis-mirrored-in-our-bodies-huge-health-implications-aoe",
@@ -161,9 +197,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T09:00:21Z",
       "trailText": "Modern life is waging a war against ecosystems around us and inside us. Keeping our own microbes healthy is another reason to demand action to preserve the natural world",
-      "summary": "Modern life drives global biodiversity loss and depletes our internal microbiome, mirroring crises in rainforests and urban green spaces. Researchers link reduced exposure to diverse species with spikes in allergies, asthma, type 1 diabetes and autoimmune disorders via the ‘biodiversity hypothesis’. The 1980s Karelia Allergy Study contrasted low allergies in rural Russian Karelia with high rates in Finnish towns. Deforestation, urbanization and habitat destruction weaken immunity and fuel outbreaks. City greening—tree planting, habitat enhancement and soil contact—yields immediate physical and mental health gains by enriching human and environmental microbiota, highlighting the urgency to preserve nature.",
-      "summaryTokens": 1142,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "Human bodies host diverse microbial ecosystems crucial for digestion, immunity and hormone regulation; modern habitat loss mirrors global biodiversity declines inside us, fueling rises in allergies, asthma and autoimmune diseases. The biodiversity hypothesis, exemplified by the Karelia Allergy Study, links reduced nature exposure to inflammatory disorders. With over 8m hectares of forest lost annually and 70% of people projected to live in cities by 2050, deforestation and urbanisation accelerate inner and outer extinctions. Urban greening—from tree planting to soil contact—restores environmental and human microbiomes, boosting physical and mental health, immunity and resilience to disease and climate extremes.",
+      "summaryTokens": 1587,
+      "generatedAt": "2025-11-02T13:44:03.291Z"
     },
     {
       "id": "environment/2025/oct/31/weather-tracker-hurricane-melissa-caribbean-jamaica-haiti-cuba",
@@ -173,9 +209,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T07:50:21Z",
       "trailText": "Category 5 storm is most powerful to strike Jamaica and has caused death and destruction in Cuba and Haiti",
-      "summary": "Hurricane Melissa devastated the Caribbean after striking Jamaica as category 5 (185 mph), destroying roofs on 90% of homes in Black River, cutting power to 75% of the island and killing at least 19. It then hit Cuba as category 3 (120 mph) and caused floods and landslides in Haiti that claimed 30 lives. It heads toward Bermuda and the Bahamas. Meanwhile, Cyclone Montha struck Andhra Pradesh with 200–250 mm rain, evacuating 38 000 and inflicting ₹53 bn in damage. In Vietnam, record rains flooded Hue and Hoi An, killed 10, left eight missing, inundated 128 000 homes, wrecked 5 000 ha of crops and killed 16 000 cattle.",
-      "summaryTokens": 2089,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "Hurricane Melissa struck Jamaica Oct 29 as a category 5 storm with 185 mph winds—destroying or stripping roofs off 90% of homes in Black River, cutting power to 75% of the country and killing at least 19. It weakened to category 3 for Cuba landfall (120 mph) and triggered floods and landslides in Haiti, killing around 30. The system is heading toward Bermuda and the Bahamas. Meanwhile, Cyclone Montha made landfall in Andhra Pradesh, prompting 38,000 evacuations and causing ₹53 bn in damage. In Vietnam, record rains (up to 1,700 mm) flooded 128,000 homes, killed 10, displaced 40,000 tourists, and swamped heritage sites.",
+      "summaryTokens": 1232,
+      "generatedAt": "2025-11-02T13:44:03.291Z"
     },
     {
       "id": "environment/2025/oct/30/kenyas-growing-towns-are-leaving-elephants-with-nowhere-to-go",
@@ -185,9 +221,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T07:00:19Z",
       "trailText": "As settlements expand across northern Kenya, people and elephants are increasingly clashing over land, food and water",
-      "summary": "Growing settlements in Oldonyiro, northern Kenya, are squeezing critical elephant migration corridors. Semi-nomadic Samburu communities tending goats, camels and cattle now compete with nightly elephant herds for acacia pods and water, heightening clashes and fatal encounters. In three decades, the area has swelled from a handful of buildings to over 100 bomas, carving through once-open landscapes. Save the Elephants ranger Benjamin Loloju works to reopen and secure narrow passages, even as drought intensifies pressure. With incidents like a child crushed by a bull elephant, experts warn human-elephant conflict now rivals poaching as the greatest threat to the species, urging corridor-friendly town planning.",
-      "summaryTokens": 827,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "In Oldonyiro, northern Kenya, expanding settlements and roads now block historic elephant migratory corridors, forcing semi-nomadic Samburu herders and wildlife into competition for acacia pods, water and land. Bottlenecks through narrow mountain gaps funnel herds past primary schools and bomas, where drought-driven resource scarcity has spiked trampling incidents and fatalities, including a boy crushed by a bull elephant. Experts say human-elephant conflict now rivals poaching in threat level. Conservationist Benjamin Loloju of Save the Elephants urges integrating protected corridors into town planning to safeguard both community safety and elephant migrations.",
+      "summaryTokens": 2153,
+      "generatedAt": "2025-11-02T13:44:03.291Z"
     },
     {
       "id": "environment/2025/oct/31/tackle-wood-burning-and-road-traffic-to-improve-europes-air-quality-study-finds",
@@ -197,9 +233,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T06:00:19Z",
       "trailText": "Researchers measure toxicity of air samples across continent to advise on ‘efficient’ policies to reduce harm",
-      "summary": "An international Nature study used a lung-fluid assay to measure oxidative potential (OP) of over 11,000 particle samples from 43 sites in six European countries, gauging lung-defence depletion. Road-adjacent air proved three times more toxic than rural, with valley topographies trapping pollution and winter wood burning elevating OP—Sarajevo ranked highest due to unregulated wood heating and an aging vehicle fleet. Grenoble and Berne cuts in PM mass didn’t lower OP, underscoring the need for targeted controls on traffic, tyre/brake wear and biomass burning.",
-      "summaryTokens": 871,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "An international Nature study measured the oxidative potential (OP) of over 11,000 particulate samples from 43 sites in six European countries by exposing them to lung fluid. It found road-adjacent air to be roughly three times more toxic than rural, with winter wood burning in valleys—especially Sarajevo—driving peak OP. Mass-based PM reductions in Grenoble and Bern did not cut toxicity. Researchers recommend policies targeting the most harmful sources, including vehicle tyre and brake wear and domestic wood combustion.",
+      "summaryTokens": 468,
+      "generatedAt": "2025-11-02T13:44:03.291Z"
     },
     {
       "id": "environment/2025/oct/31/country-diary-a-hellish-fungus-foul-of-stench-and-spindly-of-finger",
@@ -209,9 +245,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T05:30:16Z",
       "trailText": "Dartmoor, Devon: Of all the British wildlife with ‘devil’ in its name, the devil’s fingers fungus surely earns it the most",
-      "summary": "Charlie Elder tracks down a rare devil’s fingers fungus on Dartmoor, Devon, after a walker’s Halloween‐time sighting. Using guidance from navigator Martin Williams, she rediscovers the spindly, blood‐red tentacles emerging from a pale ‘witch’s egg’ shell in a rocky grass slope. Native to Australia and New Zealand and introduced with 1914 war supplies, the octopus stinkhorn emits a rotting‐flesh stench that attracts flies to spread spores. Its gnarled, blackened claws earn it the most devilish name among Britain’s devil‐monikers.",
-      "summaryTokens": 880,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "In Dartmoor’s Merrivale valley, writer Charlie Elder tracks down a rare devil’s fingers fungus (Clathrus archeri) first spotted by a hiker—a foreign hitchhiker from Australia/New Zealand introduced to Britain during WWI. Emerging from a pale gelatinous “witch’s egg,” its red, spindly tentacles claw the air, releasing a stench akin to rotting flesh that lures flies to disperse spores. Slightly desiccated but intact amid gorse-sprinkled turf, this grotesque stinkhorn epitomizes nature’s macabre spectacle and earns its devilish name.",
+      "summaryTokens": 1013,
+      "generatedAt": "2025-11-02T13:44:03.291Z"
     },
     {
       "id": "environment/2025/oct/31/heatwave-queensland-northern-territory-predicted-hottest-october-record-breaking-bom-forecast",
@@ -221,9 +257,9 @@
       "section": "environment",
       "publishedDate": "2025-10-31T04:43:47Z",
       "trailText": "Sydney, Brisbane and Darwin are predicted to hit hottest October in terms of maximum temperatures, the Bureau of Meteorology says",
-      "summary": "BOM forecasts October 2025 will be Australia’s third-warmest on record, and the hottest October ever in Queensland and the Northern Territory by maximum, minimum and mean temperatures. Sydney and Brisbane also face record October highs. Darwin airport recorded its hottest month (34.8°C average), while Wanaaring hit 44.9°C and Birdsville 46.1°C, both October records. Persistent high pressure, a negative Southern Annular Mode and a rare Antarctic sudden stratospheric warming, on a warming-climate background, drove drier, hotter conditions. Above-average temperatures are expected through January amid unusually warm seas.",
-      "summaryTokens": 1087,
-      "generatedAt": "2025-11-01T21:19:15.134Z"
+      "summary": "Australia’s Bureau of Meteorology predicts October 2025 will be the warmest on record for Queensland and the Northern Territory across maximum, minimum and mean temperatures, and the third-hottest nationwide. Sydney, Brisbane and Darwin also face unprecedented heat, with Darwin airport averaging 34.8°C. Outback Wanaaring hit 44.9°C and Birdsville 46.1°C on 21 October, breaking records since 1910. Persistent high pressure, a negative Southern Annular Mode and rare sudden stratospheric warming drove drier, hotter conditions and below-average rainfall. Sea surface temperatures have ranked among the warmest since July 2024, fueling storm and cyclone intensity, and the BoM forecasts continued above-average temperatures into early 2026.",
+      "summaryTokens": 1642,
+      "generatedAt": "2025-11-02T13:44:03.291Z"
     },
     {
       "id": "environment/2025/oct/31/scientists-invent-roof-coating-reduce-indoor-temperatures-hot-days",
