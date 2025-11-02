@@ -1,31 +1,901 @@
 {
   "metadata": {
     "section": "world",
-    "generated_at": "2025-10-28T20:46:58.917Z",
+    "generated_at": "2025-11-02T00:49:22.354Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-10-28"
+      "to": "2025-11-01"
     },
-    "article_count": 811,
+    "article_count": 881,
+    "merge_info": {
+      "previous_count": 811,
+      "new_articles": 70,
+      "updated_articles": 19,
+      "total_count": 881
+    },
     "batch_info": {
-      "initial_batch_id": "batch_690129f2db3c819086818906e93bdca2",
+      "initial_batch_id": "batch_6906a8a4d6bc81908673673f16c0b895",
       "retry_batches": [],
-      "total_tokens": 1894807,
+      "total_tokens": 199288,
       "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith",
+      "title": "Man killed in South Yorkshire helicopter crash named as Peter Smith",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith",
+      "section": "world",
+      "publishedDate": "2025-11-01T17:38:50Z",
+      "trailText": "Seventy-year-old, who died in incident near Bentley, said by family to be ‘a beloved husband, father and grandfather’",
+      "summary": "Peter Smith, 70, has been named by his family as the sole fatality of Thursday’s helicopter crash near Bentley, Doncaster. Described as a ‘beloved husband, father and grandfather’ with a passion for aviation, he enjoyed crafts with his grandchildren, working alongside his son and dining out with his wife. The pilot, 41, a 58-year-old woman and a 10-year-old boy escaped with minor injuries. Flight data indicates the craft departed Retford Gamston at 10am, circled Doncaster for seven minutes, then dived down near houses, train tracks and pylons. South Yorkshire police and the AAIB—deploying experts in operations, engineering and data—are investigating, supported by Kuki Helicopters. The family has asked for privacy and no speculation.",
+      "summaryTokens": 538,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/chelsea-defender-wesley-fofana-gets-driving-ban-for-speeding-on-hard-shoulder",
+      "title": "Chelsea defender Wesley Fofana gets driving ban for speeding on hard shoulder",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/chelsea-defender-wesley-fofana-gets-driving-ban-for-speeding-on-hard-shoulder",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/chelsea-defender-wesley-fofana-gets-driving-ban-for-speeding-on-hard-shoulder",
+      "section": "world",
+      "publishedDate": "2025-11-01T14:53:45Z",
+      "trailText": "Footballer pleads guilty to one count of driving dangerously after his offence was caught on camera",
+      "summary": "Chelsea defender Wesley Fofana, 24, pleaded guilty to driving dangerously on April 20 after being filmed speeding on the hard shoulder of the A3 Esher bypass in his Lamborghini. At North East Surrey magistrates’ court, Judge Julie Cooper imposed an 18-month community order with 300 hours’ unpaid work, £85 costs and a £114 victim surcharge. This offence predates eight earlier speeding charges that led to a two-year ban and 47 penalty points. The judge warned him about his influence on young fans.",
+      "summaryTokens": 613,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/how-al-qaida-linked-jihadist-group-jnim-is-bringing-mali-to-its-knees",
+      "title": "How al-Qaida-linked jihadist group JNIM is bringing Mali to its knees",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/how-al-qaida-linked-jihadist-group-jnim-is-bringing-mali-to-its-knees",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/how-al-qaida-linked-jihadist-group-jnim-is-bringing-mali-to-its-knees",
+      "section": "world",
+      "publishedDate": "2025-11-01T14:00:35Z",
+      "trailText": "Political instability and fuel shortages caused by rebel group is driving Mali to brink of becoming Islamist republic",
+      "summary": "Al-Qaida-linked JNIM has seized key highways to Bamako, halting fuel imports and causing electricity blackouts, market closures and transport paralysis that imperil Mali’s junta. Following intensified attacks on army convoys, US, Australian, German and Italian advisories warn citizens to evacuate, presaging a possible third coup in five years. Under its tenacious grip, JNIM enforces sharia dress codes and unaccountable courts, funds operations via high-value ransoms, and eyes expansion into Benin and Nigeria. Isolated from Ecowas, aligned with Burkina Faso and Niger regimes, and plagued by Wagner-linked abuses and internal army rifts, Mali teeters on Islamist collapse.",
+      "summaryTokens": 1234,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/mpx-variant-us-public-health",
+      "title": "US public health officials vigilant as newer mpox variant detected",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/mpx-variant-us-public-health",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/mpx-variant-us-public-health",
+      "section": "world",
+      "publishedDate": "2025-11-01T13:00:37Z",
+      "trailText": "Risk to general public is low but cases in California suggest virus is spreading undetected in some communities",
+      "summary": "US public health officials report community transmission of a new mpox clade Ib variant in California—three unrelated hospitalized cases in LA and Long Beach with no travel history—signaling undetected spread. Similar transmission noted in Spain, Italy, the Netherlands and Portugal. Over 44,000 global mpox cases reported in 2025, surpassing 2024 totals. Experts warn under-detection due to mild cases and vaccination, and recommend proactive surveillance (e.g., wastewater sampling) and targeted outreach. Vaccination for at-risk groups (GBMSM, transgender/nonbinary individuals with multiple partners) is urged amid CDC staffing cuts and a federal shutdown that hamper response.",
+      "summaryTokens": 429,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/argentinians-struggling-milei-chainsaw-austerity",
+      "title": "‘You’re either poor or rich’: the Argentinians struggling under Milei’s chainsaw austerity",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/argentinians-struggling-milei-chainsaw-austerity",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/argentinians-struggling-milei-chainsaw-austerity",
+      "section": "world",
+      "publishedDate": "2025-11-01T13:00:37Z",
+      "trailText": "Despite falling inflation, a majority are failing to make ends meet as wages and purchasing power have nosedived",
+      "summary": "Despite inflation dropping from 211% to 32%, Argentina’s radical austerity under President Javier Milei—with a 55% peso devaluation, federal spending cuts, wage freezes, halted public works and slashed subsidies—has triggered a collapse in real incomes, soared poverty above 50% (later easing to 31.6%), and cost over 200,000 formal jobs. Delivery rider Francisco Jiménez and shop owner Nicolás Pedrosa exemplify a vanished middle class forced into informality or poverty. While Milei’s coalition won midterms, buoyed by an IMF loan and US bailout, analysts warn the stronger peso, cheap imports and factory closures are deepening inequality and imperiling domestic industries just as labour, tax and pension reforms loom.",
+      "summaryTokens": 1090,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/german-museum-grumpy-guide-kunstpalast-dusseldorf",
+      "title": "‘I try to make them feel as ignorant as possible’: German museum’s ‘grumpy guide’ is surprise hit",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/german-museum-grumpy-guide-kunstpalast-dusseldorf",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/german-museum-grumpy-guide-kunstpalast-dusseldorf",
+      "section": "world",
+      "publishedDate": "2025-11-01T13:00:35Z",
+      "trailText": "Performance artist’s aggressive art historian shouts at visitors and insults curators – and his tours are sold out",
+      "summary": "Düsseldorf’s Kunstpalast offers a twice-monthly “Grumpy Guide” tour by performance artist Carl Brandi as Joseph Langelinck, an irritable art historian who berates visitors for their ignorance, insults curators, and races through galleries. Since May, €7 tours sell out into next year. Inspired by rude-waiter restaurants and local bad-mood traditions, the 70-minute act inverts museum power dynamics, skewering curated juxtapositions from Rubens to VW Beetles. Visitors relish the emotional ride, amused by Langelinck’s contempt, even as he mocks their phones, posture and the museum’s social-media-friendly displays.",
+      "summaryTokens": 1022,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/gaza-ceasefire-bombings-people-losing-faith",
+      "title": "‘We don’t feel safe’: after week of bombings, people in Gaza are losing faith in ceasefire ",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/gaza-ceasefire-bombings-people-losing-faith",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/gaza-ceasefire-bombings-people-losing-faith",
+      "section": "world",
+      "publishedDate": "2025-11-01T13:00:34Z",
+      "trailText": "After initial enthusiasm, people fear ceasefire does not mean end to war but just less frequent, more unpredictable violence",
+      "summary": "After three-week ceasefire, Gazans' initial relief has evaporated as Israeli strikes killed 115 people and wounded 352 in 24 hours, shattering hopes of sustained peace. In Beit Lahia, Ameen al-Zein was killed returning to his shelter; nurse Hussain Abu Munir risks unpredictable shelling at Netzarim checkpoint fearful of leaving his children stranded; and teacher Ikram Nasser sees her students' brief return to makeshift classrooms undone by fresh bombardments. Despite international assurances, random attacks echo Lebanon’s fragile truce, and civilians doubt the ceasefire will hold or restore normal life.",
+      "summaryTokens": 683,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/spain-expresses-regret-over-injustice-suffered-by-mexicos-indigenous-people-during-conquest",
+      "title": "Spain expresses regret over ‘injustice’ suffered by Mexico’s Indigenous people during conquest",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/spain-expresses-regret-over-injustice-suffered-by-mexicos-indigenous-people-during-conquest",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/spain-expresses-regret-over-injustice-suffered-by-mexicos-indigenous-people-during-conquest",
+      "section": "world",
+      "publishedDate": "2025-11-01T11:31:02Z",
+      "trailText": "Acknowledgment shows shift in tone after six years of diplomatic spats over colonial-era abuses",
+      "summary": "Spain’s foreign minister José Manuel Albares expressed regret for the ‘pain and injustice’ inflicted on Mexico’s Indigenous peoples during the 16th-century conquest, marking a conciliatory shift after six years of diplomatic strife. Following President López Obrador’s 2019 letter to King Felipe VI and Pope Francis demanding apologies for colonial abuses and renewed calls by President Sheinbaum, Albares used the inauguration of a Madrid exhibition on Indigenous Mexican women to acknowledge past wrongs. Sheinbaum welcomed this as an ennobling first step in shared history recognition.",
+      "summaryTokens": 554,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/trump-maduro-venezuela-coups",
+      "title": "Trump’s military pressure on Maduro evokes Latin America’s coup-ridden past",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/trump-maduro-venezuela-coups",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/trump-maduro-venezuela-coups",
+      "section": "world",
+      "publishedDate": "2025-11-01T11:00:32Z",
+      "trailText": "US forces and CIA actions target Venezuela’s leader, recalling coups and assassinations across the region",
+      "summary": "Donald Trump has marshaled the largest US naval buildup off Venezuela since the 1962 Cuban missile crisis, authorized covert CIA operations and doubled a $25m bounty to $50m on Nicolás Maduro, branding him a narco-terrorist. Washington’s stepped-up military pressure—including planned strikes on alleged drug-smuggling facilities—evokes past US-backed coups and assassinations of Allende, Trujillo and Arbenz, plus failed plots against Castro. Senior analysts warn that pursuit of regime change via clandestine raids, targeted capture or assassination risks igniting broader conflict and may fail to produce a stable democratic transition.",
+      "summaryTokens": 556,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/thousands-join-protests-in-rio-favela-after-deadliest-ever-police-race",
+      "title": "Thousands join protests in Rio favela after deadliest ever police raid",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/thousands-join-protests-in-rio-favela-after-deadliest-ever-police-race",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/thousands-join-protests-in-rio-favela-after-deadliest-ever-police-race",
+      "section": "world",
+      "publishedDate": "2025-11-01T09:21:39Z",
+      "trailText": "Demonstrators demand inquiry after operation on Tuesday in which at least 121 people were killed",
+      "summary": "Thousands of residents and activists rallied in Rio’s Complexo da Penha and Complexo do Alemão favelas after a record police operation on November 1 left 121 people dead, many of them mutilated bodies dumped at favela entrances. Demonstrators, clad in white and bearing “Favela Lives Matter” banners, demanded an inquiry, an end to militarized security policies and the removal of Governor Cláudio Castro. Officials defended the raid as a blow to the Red Command drug cartel, but Amnesty International and security experts condemned it as a tragic, counterproductive massacre in predominantly Black, poor neighborhoods.",
+      "summaryTokens": 1134,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet",
+      "title": "UN expert urged to investigate Lebanon over alleged torture of Egyptian-Turkish poet",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet",
+      "section": "world",
+      "publishedDate": "2025-11-01T07:00:32Z",
+      "trailText": "Abdulrahman al-Qaradawi has been imprisoned in the UAE for almost a year for criticising Emirati, Egyptian and Saudi governments",
+      "summary": "Lawyers for Egyptian-Turkish poet Abdulrahman al-Qaradawi have asked the UN special rapporteur on torture to investigate Lebanon’s role in his arrest and 8 January 2025 extradition to the UAE, where he’s been held in solitary confinement for over 10 months without charge or legal access. Seized after a critical social-media post in Syria, his detention—endorsed by Lebanon’s former government under Najib Mikati via the Arab Interior Ministers Council—has drawn warnings from UN experts and rights groups of torture and a dangerous free-speech precedent. His family, granted only two brief visits, and legal counsel call on Lebanon’s current government to secure his return.",
+      "summaryTokens": 640,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/tanzanias-hassan-declared-landslide-winner-in-election-that-triggered-violent-protests",
+      "title": "Tanzania’s Hassan declared landslide winner in election that triggered violent protests ",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/tanzanias-hassan-declared-landslide-winner-in-election-that-triggered-violent-protests",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/tanzanias-hassan-declared-landslide-winner-in-election-that-triggered-violent-protests",
+      "section": "world",
+      "publishedDate": "2025-11-01T06:51:37Z",
+      "trailText": "The result hands Hassan, who took power in 2021, a five-year term following opposition repression",
+      "summary": "President Samia Suluhu Hassan secured a contested five-year term after the electoral commission announced she won over 97% of votes, amid violent protests and allegations of systemic repression by her ruling CCM. Major opposition figures, including Chadema vice-chair Tundu Lissu and ACT-Wazalendo leader Luhaga Mpina, were barred—Lissu arrested on treason and cybercrime charges—prompting nationwide unrest. Human rights groups and a UN panel document enforced disappearances, arbitrary arrests and extrajudicial killings; at least ten protesters reportedly killed, though opposition claims run into the hundreds.",
+      "summaryTokens": 1005,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/xi-jinpings-moment-and-whirlwind-diplomatic-tours-key-takeaways-from-the-apec-summit-in-south-korea",
+      "title": "Xi Jinping’s moment and whirlwind diplomatic tours: key takeaways from the Apec summit in South Korea",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/xi-jinpings-moment-and-whirlwind-diplomatic-tours-key-takeaways-from-the-apec-summit-in-south-korea",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/xi-jinpings-moment-and-whirlwind-diplomatic-tours-key-takeaways-from-the-apec-summit-in-south-korea",
+      "section": "world",
+      "publishedDate": "2025-11-01T06:14:35Z",
+      "trailText": "With Trump electing to fly back to Washington on the eve of the main summit, what did Apec’s remaining leaders achieve in his absence?",
+      "summary": "With Trump leaving early, Xi Jinping seized the spotlight at the Apec summit in Gyeongju, positioning himself as champion of open trade amid rising protectionism. The 21-member forum limped to a vague communique, underscoring deep political and economic rifts. A highlight was Canadian PM Mark Carney’s meeting with Xi – hailed as a “turning point” for bilateral ties despite US tariffs on Canada. Japan’s new prime minister Sanae Takaichi completed a low-key, pragmatic debut, pledging strategic ties with South Korea and raising concerns over China’s human rights and South China Sea activities.",
+      "summaryTokens": 895,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/sudan-massacre-rsf-rampage-el-fasher",
+      "title": "A Sudanese massacre foretold: the grim familiarity of the RSF’s rampage through El Fasher ",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/sudan-massacre-rsf-rampage-el-fasher",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/sudan-massacre-rsf-rampage-el-fasher",
+      "section": "world",
+      "publishedDate": "2025-11-01T06:00:27Z",
+      "trailText": "Atrocities unfolding in El Fasher since it fell to paramilitary forces follow a bleak pattern seen in Rwanda, Liberia and Sudan itself, including lack of international action",
+      "summary": "After seizing El Fasher on 26 October, the RSF carried out mass killings of hospital patients, staff and unarmed men—often filming executions—while extorting fleeing civilians. Thousands, mainly non-Arab Masalit, were killed or displaced, mirroring RSF’s 2023 Geneina and Zamzam massacres. NGOs had warned of this “predictable” bloodbath amid an 18-month siege and blackout. Despite ICC genocide findings and UN war-crimes alerts, international action remains stalled; experts urge sanctions on UAE, Saudi Arabia and Egypt for arming the RSF.",
+      "summaryTokens": 616,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
+      "title": "Ukraine war briefing: Russian attacks on substations are ‘nuclear terrorism’, says Ukraine",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
+      "section": "world",
+      "publishedDate": "2025-11-01T02:52:48Z",
+      "trailText": "Ukrainian foreign ministry says deliberate strikes on civilian energy facilities violate international law as fears of a winter crisis grow. What we know on day 1,347",
+      "summary": "Ukraine’s foreign ministry condemned Russia’s targeted strikes on power substations essential for its nuclear plants, calling them ‘nuclear terrorism’ and breaches of international humanitarian law. An IAEA report noted damage near South Ukraine and Khmelnitskyi stations cut off external power, while Rivne reactors reduced output. The UN warns of civilian hardship ahead of winter; G7 energy ministers pledged support after Russia’s attacks on gas infrastructure. Separately, Ukraine deployed special forces to defend Pokrovsk amid a Russian siege, and Russia claimed to shoot down dozens of Ukrainian drones, prompting European airport closures.",
+      "summaryTokens": 815,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/black-river-jamaica-residents-assess-damage-after-hurricane-melissa",
+      "title": "‘How do you rebuild all this?’ Black River residents assess damage after Hurricane Melissa",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/black-river-jamaica-residents-assess-damage-after-hurricane-melissa",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/black-river-jamaica-residents-assess-damage-after-hurricane-melissa",
+      "section": "world",
+      "publishedDate": "2025-10-31T17:59:01Z",
+      "trailText": "People of Jamaican coastal town described as storm’s ground zero are traumatised and desperate for help",
+      "summary": "In Black River, southwestern St Elizabeth, Jamaica — ground zero for Category 5 Hurricane Melissa — nearly every home lost its roof, roads are rivers of silt, uprooted trees and debris hamper rescue, and buildings lie in rubble. With 19 dead in Jamaica (50 regional toll), 462,000 without power and communications down, residents are sheltering in bus stops, scavenging for food and urgently requesting food, water, zinc, cement and medical aid. Officials warn rebuilding will cost ‘billions’, while NGOs organize hot meals amid mounting humanitarian needs, underscoring climate change’s role in intensifying storms.",
+      "summaryTokens": 1068,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/stop-calling-georgia-the-former-soviet-republic",
+      "title": "Stop calling Georgia ‘the former Soviet republic’ | Letter",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/stop-calling-georgia-the-former-soviet-republic",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/stop-calling-georgia-the-former-soviet-republic",
+      "section": "world",
+      "publishedDate": "2025-10-31T17:41:15Z",
+      "trailText": "Letter: Paul Heineman compares the use of this ‘quaint terminology’ to describing Britain as ‘the former Roman province’",
+      "summary": "In a letter, Maryland resident Paul Heineman challenges the Guardian’s description of Georgia as “the former Soviet republic,” arguing it undermines the country’s status as a fully sovereign nation. Heineman likens the terminology to calling Britain “the former Roman province” and asserts it flatters Russia by framing Georgia—and by extension Ukraine and other ex-Soviet states—as quasi-sovereign entities subject to Russian-imposed constraints. He notes Russia’s ongoing occupation of roughly 20% of internationally recognised Georgian territory and urges the paper to adopt language reflecting Georgia’s independence.",
+      "summaryTokens": 478,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings",
+      "title": "Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings",
+      "section": "world",
+      "publishedDate": "2025-10-31T17:17:23Z",
+      "trailText": "Reports of indiscriminate violence and ethnic targeting in El Fasher have led to growing global outrage",
+      "summary": "Sudan’s paramilitary RSF announced the arrest of commander Abu Lulu and several fighters amid global outrage over mass killings, rape and looting in El Fasher. Rights groups, survivors and activists call the detentions a PR stunt to absolve leaders like Mohamed “Hemedti” Dagalo and depict atrocities as isolated rogue actions. Open-source investigators link senior RSF figures to the assault, which displaced over 60,000 people, killed hundreds—including 460 hospital patients—and saw systematic sexual violence and ethnic targeting. Humanitarian agencies warn of malnourished children, torture, mass graves and an ongoing genocide-like campaign.",
+      "summaryTokens": 1203,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/netherlands-election-d66-rob-jetten-politics",
+      "title": "Liberal-progressive party D66 wins election, Dutch media report",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/netherlands-election-d66-rob-jetten-politics",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/netherlands-election-d66-rob-jetten-politics",
+      "section": "world",
+      "publishedDate": "2025-10-31T15:05:40Z",
+      "trailText": "Party will take lead in first round of talks to form coalition government after securing most votes",
+      "summary": "Netherlands’ liberal-progressive D66, under 38-year-old Rob Jetten, won most votes in Wednesday’s snap election, likely securing 27 seats versus PVV’s collapse. With all mainstream parties ruling out Geert Wilders’ anti-immigration PVV, D66 is set to lead lengthy coalition talks amid a fragmented chamber and a far-right vote shift to JA21 and Forum for Democracy. Jetten has urged centrists to unite on housing, migration, climate and the economy, though VVD leader Dilan Yeşilgöz-Zegerius rejects left-leaning alliances. Experts warn that despite D66’s historic surge, far-right sentiment remains a stubborn force.",
+      "summaryTokens": 639,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/tanzania-election-protests-opposition",
+      "title": "About 700 killed in Tanzania election protests, opposition says",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/tanzania-election-protests-opposition",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/tanzania-election-protests-opposition",
+      "section": "world",
+      "publishedDate": "2025-10-31T14:51:54Z",
+      "trailText": "Demonstrators took to streets after president’s main challengers were excluded from ballot",
+      "summary": "Chadema says around 700 killed in three days of election protests after key presidential challengers were barred. The party’s tally—350 in Dar es Salaam, 200+ in Mwanza and dozens elsewhere—may undercount deaths during nighttime curfew. A security source estimates 500–800 fatalities; Amnesty reports ≥100. Protests erupted nationwide following the disqualification of opposition figures Tundu Lissu and Luhaga Mpina, triggering internet shutdowns and a nationwide curfew. Demonstrators attacked police and ruling-party properties; security forces used live rounds and teargas. Opposition demands an end to police brutality, electoral justice and a transitional government ahead of polls criticized as uncompetitive.",
+      "summaryTokens": 943,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/six-arrested-after-armed-raid-on-gold-refining-lab-in-france",
+      "title": "Six arrested after €12m armed raid on gold refining lab in France",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/six-arrested-after-armed-raid-on-gold-refining-lab-in-france",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/six-arrested-after-armed-raid-on-gold-refining-lab-in-france",
+      "section": "world",
+      "publishedDate": "2025-10-31T13:51:08Z",
+      "trailText": "Robbery in Lyon left five employees slightly injured after explosion in latest high-profile incident to hit country",
+      "summary": "On October 31, police arrested six seasoned criminals and a female accomplice after a brazen daytime raid on Lyon’s Laboratoires Pourquery, a precious metals refining lab. Armed with explosives and Kalashnikovs, the group blew out security windows, injured five of the 28 employees and escaped with an estimated €12m in gold. Apprehended minutes later in nearby Vénissieux, authorities recovered assault rifles, handguns and explosives. This second attempt on the lab follows a spate of high-profile Paris heists, including the €88m Louvre crown jewels theft and recent museum gold robberies.",
+      "summaryTokens": 944,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/gaza-no-war-no-peace-qatari-diplomat-majed-al-ansar-international-force-israeli-withdrawal",
+      "title": "Gaza risks sliding into deadly limbo of ‘no war, no peace’, top Qatari diplomat warns",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/gaza-no-war-no-peace-qatari-diplomat-majed-al-ansar-international-force-israeli-withdrawal",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/gaza-no-war-no-peace-qatari-diplomat-majed-al-ansar-international-force-israeli-withdrawal",
+      "section": "world",
+      "publishedDate": "2025-10-31T11:25:45Z",
+      "trailText": "Majed al-Ansari calls for international force to be set up urgently to pave way for Israeli withdrawal",
+      "summary": "Qatari foreign ministry spokesperson Majed al-Ansari warns Gaza risks descending into a deadly “no war, no peace” stalemate unless the UN-backed international security force and a new Palestinian administration are rapidly deployed to secure a fragile ceasefire and enable full Israeli withdrawal. He highlights deadly Israeli airstrikes that killed over 100 Palestinians in one day and criticizes the ceasefire’s 20-point roadmap for lacking clear mandates on force composition and authority. Ansari urges a UN Security Council resolution to formalize the force, stressing that swift international engagement, notably US backing, and robust reconstruction planning are vital to transition Gaza from war to lasting peace.",
+      "summaryTokens": 640,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/sudan-civil-war-el-fasher-explained",
+      "title": "Sudan’s brutal civil war – what has happened in El Fasher?",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/sudan-civil-war-el-fasher-explained",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/sudan-civil-war-el-fasher-explained",
+      "section": "world",
+      "publishedDate": "2025-10-31T10:14:32Z",
+      "trailText": "Paramilitary Rapid Support Forces captured the city from the army after an 18-month siege – but who are they and what do they want?",
+      "summary": "After an 18-month siege, the paramilitary Rapid Support Forces seized El Fasher, gaining control of all major Darfur cities and stoking partition fears. Accused of ethnically driven killings, door-to-door raids and ransom-based detentions of Fur, Zaghawa and Berti communities, their violence—verified by RSF-shot videos, survivor testimony and Yale-lab satellite imagery—echoes the opening of the Rwandan genocide. Formed from Bashir’s Janjaweed in 2013, the RSF has battled Sudan’s army since April 2023 amid genocide and mass-rape allegations. International efforts, like a London summit, face criticism over UAE arms support.",
+      "summaryTokens": 1360,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/era-of-free-trade-and-investment-over-canada-pm-mark-carney-apec-summit-korea",
+      "title": "Era of free trade and investment is over, Canada’s PM tells Apec summit",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/era-of-free-trade-and-investment-over-canada-pm-mark-carney-apec-summit-korea",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/era-of-free-trade-and-investment-over-canada-pm-mark-carney-apec-summit-korea",
+      "section": "world",
+      "publishedDate": "2025-10-31T09:13:54Z",
+      "trailText": "Mark Carney warns Asia-Pacific leaders global economy undergoing profound change, as China’s president mounts defence of free trade",
+      "summary": "At the Apec summit in Gyeongju, Canada’s Prime Minister Mark Carney warned that the post-war era of rules-based open trade and investment has ended amid one of the most profound global shifts since 1989. He announced Canada will aim to double non-US exports over the next decade to reduce US dependency. In his first formal bilateral with Xi Jinping since 2017, Carney accepted an invitation to visit China as ties recover from Trudeau-era tensions. Xi, in turn, defended free trade against rising protectionism and hailed a fragile US-China tariff truce.",
+      "summaryTokens": 1343,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/un-leaders-condemn-horrifying-mass-killings-in-sudan",
+      "title": "UN leaders condemn ‘horrifying’ mass killings in Sudan",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/un-leaders-condemn-horrifying-mass-killings-in-sudan",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/un-leaders-condemn-horrifying-mass-killings-in-sudan",
+      "section": "world",
+      "publishedDate": "2025-10-31T07:20:53Z",
+      "trailText": "Emergency security council session criticises killings of civilians in El Fasher and external supply of arms to RSF",
+      "summary": "UN Security Council held emergency session on RSF takeover of El Fasher after credible reports of ethnically targeted mass killings, summary executions, and communications blackouts that have killed hundreds and displaced tens of thousands. Martha Pobee and Tom Fletcher condemned the “horrifying” atrocities and highlighted external arms flows, implicating the UAE. Members urged arms bans, sanctions, and recognition of duty to prevent genocide. UK ministers and NGOs pressed for halting arms sales to the UAE. Human Rights Watch and US senators called for targeted sanctions. The UAE denies supplying the RSF; peace roadmap remains unimplemented.",
+      "summaryTokens": 868,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/ukraine-war-briefing-british-ex-soldier-arrested-in-kyiv-and-accused-of-spying-for-russia",
+      "title": "Ukraine war briefing: British ex-soldier arrested in Kyiv and accused of spying for Russia",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/ukraine-war-briefing-british-ex-soldier-arrested-in-kyiv-and-accused-of-spying-for-russia",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/ukraine-war-briefing-british-ex-soldier-arrested-in-kyiv-and-accused-of-spying-for-russia",
+      "section": "world",
+      "publishedDate": "2025-10-31T07:00:26Z",
+      "trailText": "Prosecutors allege man was conducting training for Ukraine’s army when he was recruited by the FSB, Moscow’s spy bureau. What we know on day 1,346",
+      "summary": "Ukraine has detained a UK ex-army instructor in Kyiv, accusing him of spying for Russia after being recruited by the FSB in 2024, passing unit locations and foreign adviser identities for $6,000, and receiving bomb-making guidance and a handgun. He faces up to 12 years in prison. Simultaneously, Russia’s overnight missile and drone barrage on Sumy wounded 11 and hit energy infrastructure; Oryol imposed heat and water cuts. Kyiv confirms Russia’s first combat use of the 9M729 cruise missile, reports internal Russian army executions, and calls for more air-defense support.",
+      "summaryTokens": 637,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/sudans-latest-massacre-has-been-exposed-from-satellite-images-how-much-longer-can-the-world-look-away",
+      "title": "Sudan’s latest massacre has been exposed from satellite images – how much longer can the world look away?",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/sudans-latest-massacre-has-been-exposed-from-satellite-images-how-much-longer-can-the-world-look-away",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/sudans-latest-massacre-has-been-exposed-from-satellite-images-how-much-longer-can-the-world-look-away",
+      "section": "world",
+      "publishedDate": "2025-10-31T06:28:58Z",
+      "trailText": "In today’s newsletter: From the skies above El Fasher, analysts are uncovering evidence of mass killings – with questions raised about UAE involvement",
+      "summary": "High-resolution satellite imagery and geolocated videos have exposed a massacre by Sudan’s paramilitary Rapid Support Forces (RSF) after they seized El Fasher from the Sudanese Armed Forces, revealing over 2,000 unarmed civilians shot or left dead in blood-stain clusters comparable to the opening of the Rwandan genocide. Yale University’s Humanitarian Research Lab documented systematic ethnic cleansing of Fur, Zaghawa and Berti communities in door-to-door clearance operations, while UN leaders condemned the atrocity amid what it calls the world’s largest humanitarian crisis. Analysts warn satellite data is now crucial for documenting war crimes, predicting RSF buildups and probing alleged UAE arms and gold-trade support under a global media blackout.",
+      "summaryTokens": 853,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/hurricane-melissa-bermuda-leaving-devastation-jamaica",
+      "title": "Hurricane Melissa death toll nears 50 as Jamaica relief efforts intensify and storm heads north",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/hurricane-melissa-bermuda-leaving-devastation-jamaica",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/hurricane-melissa-bermuda-leaving-devastation-jamaica",
+      "section": "world",
+      "publishedDate": "2025-10-31T05:31:23Z",
+      "trailText": "Haiti death toll reaches 30, and 19 in Jamaica, as Bermuda weathers tropical storm conditions on Thursday night",
+      "summary": "Hurricane Melissa has killed 49 people across the Caribbean, including 30 in Haiti—with 20 missing and 20 injured—and 19 in Jamaica as relief teams clear roads, restore communications and reopen Kingston’s airport. The storm, which made landfall in Jamaica as a record 185mph category 5 hurricane, has since weakened to a 100mph tropical storm passing Bermuda, prompting closure of its causeway and schools. British flights are chartered to evacuate nationals. Eastern Cuba evacuated 735,000 residents without reported fatalities; the Bahamas airlifted 1,500. Melissa, moving northeast at 38mph, has caused billions in damages but is forecast to weaken significantly by Friday.",
+      "summaryTokens": 1147,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/egypts-vast-1bn-museum-to-open-in-cairo-after-two-decade-build",
+      "title": "Egypt’s vast $1bn museum to open in Cairo after two-decade build",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/egypts-vast-1bn-museum-to-open-in-cairo-after-two-decade-build",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/egypts-vast-1bn-museum-to-open-in-cairo-after-two-decade-build",
+      "section": "world",
+      "publishedDate": "2025-10-31T05:00:16Z",
+      "trailText": "Grand Egyptian Museum near Giza pyramids billed as world’s largest archaeological facility for single civilisation",
+      "summary": "Opening after 20 years, Egypt’s $1bn Grand Egyptian Museum near Giza spans 470,000 m2 and houses 50,000+ artifacts—an 83-ton statue of Ramesses II, Khufu’s 4,500-year-old boat among them—across 12 era-and-theme galleries, a children’s museum, conservation centre and commercial zone. Featuring mixed-reality exhibits targeting Gen Z, it replaces Cairo’s crowded Antiquities Museum. Delayed by regional conflicts, the launch, presided over by President al-Sisi and world leaders, aims to attract 15–20,000 visitors daily and bolster tourism earnings amid security concerns.",
+      "summaryTokens": 853,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/31/gaza-grandmother-reunited-with-her-australian-family",
+      "title": "‘Seed of hope’: Gaza grandmother is reunited with her Australian family after more than a decade",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/31/gaza-grandmother-reunited-with-her-australian-family",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/31/gaza-grandmother-reunited-with-her-australian-family",
+      "section": "world",
+      "publishedDate": "2025-10-31T00:29:27Z",
+      "trailText": "A kiss to the forehead marks the culmination of years of work to get Shamikh Badra’s 79-year-old Palestinian mother, Fatma, to Australia",
+      "summary": "Shamikh Badra tearfully embraced his 79-year-old mother, Fatma, at Sydney airport on Oct. 25, reuniting for the first time in 11 years. A Palestinian visa holder, Fatma endured weight loss, blockade-induced shortages and the death of her husband before escaping Gaza via Karem Abu Salem and Egypt. As one of about 60 Palestinians evacuated since the recent fragile ceasefire, she joins approximately 600 visa holders still stranded. Though safe in Bankstown, Fatma mourns missing son Ehab, believed killed or detained, and hopes all families separated by war will reunite soon.",
+      "summaryTokens": 745,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/resist-trump-attacks-climate-action",
+      "title": "Ex-EPA head urges US to resist Trump attacks on climate action: ‘We won’t become numb’",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/resist-trump-attacks-climate-action",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/resist-trump-attacks-climate-action",
+      "section": "world",
+      "publishedDate": "2025-10-30T17:38:45Z",
+      "trailText": "Expanded climate action from cities and states could slash planet-heating pollution despite Trump working against it",
+      "summary": "Former EPA head Gina McCarthy urged US cities and states to press ahead with climate action despite Trump’s legal challenges and clean-energy rollbacks, ahead of COP30 in Brazil. Co-chairing America Is All In, she said over 100 subnational leaders—including governors, mayors and officials—will push for policies that, with federal re-engagement after 2028, could cut US emissions by up to 56% below 2005 levels by 2035. Senator Sheldon Whitehouse urged lawsuits to block federal obstruction, blasted fossil-fuel front groups for spreading doubt, and called UN rules on lobbyist funding “inadequate,” demanding full transparency to expose industry interference.",
+      "summaryTokens": 562,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/more-than-half-of-uk-businesses-changing-strategy-on-ethical-policies-research-finds",
+      "title": "More than half of UK businesses changing DEI approach due to Trump’s criticism",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/more-than-half-of-uk-businesses-changing-strategy-on-ethical-policies-research-finds",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/more-than-half-of-uk-businesses-changing-strategy-on-ethical-policies-research-finds",
+      "section": "world",
+      "publishedDate": "2025-10-30T17:16:02Z",
+      "trailText": "Leading UK organisations reacting to pushback against diversity initiatives in the US by reviewing or even scrapping policies",
+      "summary": "Research by law firm Freeths finds 54% of UK businesses (250+ surveyed general counsels) have reviewed or scrapped DEI and sustainability programs in response to Trump’s ‘woke’ backlash. 28% abandoned initiatives entirely, 26% made specific changes, 32% are discussing adjustments. 83% say profit outweighs ethics regularly; 22% report frequent conflicts. Amid US rollback by Amazon, Disney, Meta and UK political pressure from Reform, Blue Labour, and calls to repeal the Equality Act, companies like BT have scaled back DEI incentives. Freeths highlights risk to principle vs practice gap despite looming race/disability pay-gap reporting rules.",
+      "summaryTokens": 1020,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/the-rev-peter-cruchley-obituary",
+      "title": "The Rev Peter Cruchley obituary",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/the-rev-peter-cruchley-obituary",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/the-rev-peter-cruchley-obituary",
+      "section": "world",
+      "publishedDate": "2025-10-30T16:29:53Z",
+      "trailText": "Other lives : United Reformed Church minister who served congregations in Cardiff before moving on to the World Council of Churches",
+      "summary": "United Reformed Church minister Peter Cruchley (died aged 59) served Cardiff congregations for 15 years after his 1992 ordination, earning a PhD from Birmingham. Renowned for flamboyant style and creative outreach—from graffiti-style art to resurrection congas—he joined the Council for World Mission in Singapore, founding the Onesimus Project to address the London Missionary Society’s historic slave-trade ties, then directed world mission and evangelism at the World Council of Churches in Geneva. A published theologian, he married twice—first to Rhiannon Jones (two daughters), then to Lena Borgers—and is survived by his wife, daughters, grandson and two brothers.",
+      "summaryTokens": 628,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/geert-wilders-faces-shutout-centrists-dutch-election-netherlands",
+      "title": "Geert Wilders faces shutout as centrists hail huge gains in knife-edge Dutch election",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/geert-wilders-faces-shutout-centrists-dutch-election-netherlands",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/geert-wilders-faces-shutout-centrists-dutch-election-netherlands",
+      "section": "world",
+      "publishedDate": "2025-10-30T15:21:00Z",
+      "trailText": "Far right neck and neck with liberal D66 but all major mainstream parties have ruled out working with anti-Islam firebrand",
+      "summary": "In the Dutch election with 99.7% counted, centrists and liberals led by D66’s Rob Jetten tied far-right PVV on 26 seats, edging ahead by c.15,000 votes in Amsterdam returns. All major parties refuse to partner with Geert Wilders, effectively shutting him out of government. D66 surged from nine to 26 seats; CDA won 18, VVD 22 and GL/PvdA 20. A broad D66-led coalition with CDA, VVD and GL/PvdA is favored, though talks could stretch on for months.",
+      "summaryTokens": 877,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/rob-jetten-anti-wilders-yes-we-can-candidate-next-dutch-pm",
+      "title": "Rob Jetten: anti-Wilders, ‘yes we can’ candidate poised to be next Dutch PM ",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/rob-jetten-anti-wilders-yes-we-can-candidate-next-dutch-pm",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/rob-jetten-anti-wilders-yes-we-can-candidate-next-dutch-pm",
+      "section": "world",
+      "publishedDate": "2025-10-30T14:12:09Z",
+      "trailText": "As liberal-progressive D66 party makes huge gains in election, former junior athlete with ‘positive story’ and ‘vision’ leads race for power",
+      "summary": "D66 leader Rob Jetten, 38, former junior athlete and ex-ProRail manager, is poised to become the Netherlands’ next prime minister after his liberal-progressive, pro-EU and pro-climate party surged to 26 seats, tying with Geert Wilders’ PVV but securing backing from other mainstream parties. Jetten’s Obama-style “het kan wél” (“yes we can”) campaign combined optimism and pragmatism, appealing to centrists weary of populism. If confirmed, he’d be the first out gay PM, tasked with uniting a divided electorate, tackling the housing crisis and sustaining economic stability through coalition-building.",
+      "summaryTokens": 504,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/lebanese-president-orders-army-to-confront-israeli-soldiers-after-municipal-worker-killed-in-raid",
+      "title": "Lebanese president orders army to confront Israeli incursions after deadly raid",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/lebanese-president-orders-army-to-confront-israeli-soldiers-after-municipal-worker-killed-in-raid",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/lebanese-president-orders-army-to-confront-israeli-soldiers-after-municipal-worker-killed-in-raid",
+      "section": "world",
+      "publishedDate": "2025-10-30T14:11:32Z",
+      "trailText": "IDF says it was attacking Hezbollah infrastructure when it fired at a ‘suspect’ and the incident is under review",
+      "summary": "An Israeli army raid on Blida near the Lebanon–Israel border killed Ibrahim Salameh, a municipal worker, after troops said they were striking Hezbollah infrastructure and fired at a “suspect.” Lebanon’s president, Joseph Aoun, condemned the killing, ordered the Lebanese army to confront any future Israeli incursions, and stressed defence of sovereign territory. The incident violates the November 2024 ceasefire, under which Israel remains in five positions in southern Lebanon and conducts near-daily airstrikes. Foreign envoys, including US envoy Morgan Ortagus, press Beirut to bring all arms under state control by year-end.",
+      "summaryTokens": 501,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/german-dentists-memorial-recognising-sadistic-practices-under-nazis",
+      "title": "German dentists hold memorial recognising sadistic practices of profession under Nazis",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/german-dentists-memorial-recognising-sadistic-practices-under-nazis",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/german-dentists-memorial-recognising-sadistic-practices-under-nazis",
+      "section": "world",
+      "publishedDate": "2025-10-30T11:41:29Z",
+      "trailText": "Recent studies have exposed theft of gold fillings, excruciating extractions, human experiments and forced sterilisations",
+      "summary": "German dentists’ professional body, the DGZMK, held its first memorial at Berlin’s Humboldt University to acknowledge its members’ systemic involvement in Nazi-era crimes, including sadistic tooth extractions without anesthesia, forced sterilizations, human experiments and the theft of gold fillings from corpses and living victims to fund the war. Research reveals over 60% of dental academics and 55% of practitioners joined the Nazi Party, with hundreds serving in the Waffen-SS and assisting in selections and murder at camps. While 15 were executed postwar, most evaded punishment. The ceremony included apologies, recognition of persecuted Jewish colleagues and the inaugural Hans Türkheim research prize.",
+      "summaryTokens": 1144,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/russian-army-chiefs-torturing-and-executing-soldiers-who-refuse-to-fight-in-ukraine-report-says",
+      "title": "Russian army chiefs torturing and executing soldiers who refuse to fight in Ukraine, report says",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/russian-army-chiefs-torturing-and-executing-soldiers-who-refuse-to-fight-in-ukraine-report-says",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/russian-army-chiefs-torturing-and-executing-soldiers-who-refuse-to-fight-in-ukraine-report-says",
+      "section": "world",
+      "publishedDate": "2025-10-30T10:45:36Z",
+      "trailText": "Investigation lists 101 superiors accused of tactics such as using drones to ‘finish’ off retreating troops and sending soldiers on death missions",
+      "summary": "Independent outlet Verstka’s investigation names 101 Russian commanders accused of torturing, executing or sending soldiers on suicide missions for refusing orders in Ukraine. Based on soldier testimonies, leaked footage and complaint records, it documents ‘execution shooters,’ drone and grenade strikes on retreating or wounded troops, gladiator-style pit battles, water dousing torture and extortion schemes. Victims include unarmed “beacons” sent ahead of assaults. Despite at least 150 verified deaths and 29,000 complaints lodged by mid-2025, few officers have faced prosecution, highlighting a culture of impunity in the Russian army.",
+      "summaryTokens": 632,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/geert-wilders-convinced-dutch-voters-the-far-right-could-run-the-country-what-is-their-verdict-now",
+      "title": "Geert Wilders convinced Dutch voters the far right could run the country. What is their verdict now?",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/geert-wilders-convinced-dutch-voters-the-far-right-could-run-the-country-what-is-their-verdict-now",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/geert-wilders-convinced-dutch-voters-the-far-right-could-run-the-country-what-is-their-verdict-now",
+      "section": "world",
+      "publishedDate": "2025-10-30T08:56:58Z",
+      "trailText": "A failed two-year experiment has lessons for the rest of Europe about the appeal – and the limits – of populism • Don’t get This Is Europe delivered to your inbox? Sign up here",
+      "summary": "After two years in government, Geert Wilders’ PVV-led right-wing coalition failed to address voters’ top concerns—housing shortages, healthcare gaps, and asylum backlogs—and delivered no major reforms beyond briefly raising speed limits. Exit polls show centrist D66 poised for gains, while mainstream parties united to exclude Wilders despite his enduring 'Netherlands is full' rhetoric, now normalized across the political spectrum. Analysts warn the PVV’s collapse eroded trust in institutions, fuelled anti-elite sentiment and offers copycats a warning yet blueprint. Voters’ hunger for stable 'boring' governance may signal Europe’s broader populist verdict.",
+      "summaryTokens": 1276,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/suspects-arrested-louvre-robbery-paris-crown-jewels",
+      "title": "Five new suspects arrested in connection with Louvre robbery",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/suspects-arrested-louvre-robbery-paris-crown-jewels",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/suspects-arrested-louvre-robbery-paris-crown-jewels",
+      "section": "world",
+      "publishedDate": "2025-10-30T08:09:16Z",
+      "trailText": "Public prosecutor says arrests were made in and around Paris but suspects ‘did not help us find the stolen goods’",
+      "summary": "Five new suspects arrested in Paris and Seine-Saint-Denis in connection to the October 19 Louvre crown-jewel heist that netted €88m in stolen gems remain missing. Public prosecutor Laure Beccuau said one suspect’s DNA was linked to the crime, while four others may shed light on the operation. Two earlier arrestees partially confessed and will face charges of organised theft (15 years) and criminal conspiracy (10 years). The four-man gang used a stolen removal truck with a lift disguised as maintenance workers to break into the Apollo gallery in under seven minutes, escaping on motorcycles with eight royal jewels, including Napoleon I’s emerald necklace and Empress Eugénie’s diadem.",
+      "summaryTokens": 895,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/exit-poll-suggests-progressive-d66-party-will-become-largest-in-dutch-parliament",
+      "title": "Centrist D66 party makes huge gains in Dutch election",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/exit-poll-suggests-progressive-d66-party-will-become-largest-in-dutch-parliament",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/exit-poll-suggests-progressive-d66-party-will-become-largest-in-dutch-parliament",
+      "section": "world",
+      "publishedDate": "2025-10-30T08:03:57Z",
+      "trailText": "Result opens a path for D66 leader Rob Jetten to form a government as the youngest ever prime minister of the Netherlands",
+      "summary": "Exit polls with 90% counted show centrist D66 making record gains—almost tripling its seats—to 26, matching Geert Wilders’ PVV, which fell sharply from its 2023 high. With all mainstream parties ruling out PVV, D66 leader Rob Jetten, 38, is set to become the Netherlands’ youngest prime minister and lead coalition talks. The fragmented 150-seat chamber saw 15 of 27 parties win seats; CDA rose to 19 and VVD holds 22 despite a slight loss, while GL/PvdA dropped to 20, prompting Frans Timmermans’s resignation. Coalition options include broad centre alliances or more right-wing pacts with JA21. Housing, migration and healthcare top the agenda.",
+      "summaryTokens": 1294,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/thursday-briefing-israels-new-bombardment-breaks-an-uneasy-peace-is-this-a-ceasefire-in-name-only",
+      "title": "Thursday briefing: Israel’s new bombardment breaks an uneasy peace – is this a ceasefire in name only?",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/thursday-briefing-israels-new-bombardment-breaks-an-uneasy-peace-is-this-a-ceasefire-in-name-only",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/thursday-briefing-israels-new-bombardment-breaks-an-uneasy-peace-is-this-a-ceasefire-in-name-only",
+      "section": "world",
+      "publishedDate": "2025-10-30T06:41:32Z",
+      "trailText": "In today’s newsletter: After Israeli airstrikes killed more than 100 Palestinians overnight, the illusion of peace in Gaza lies in ruins. Will the ceasefire hold?",
+      "summary": "Israeli airstrikes overnight killed at least 104 Palestinians (35 children), including at the Insan cancer camp, shattering a truce agreed three weeks earlier. PM Netanyahu ordered the strikes after clashes that killed one Israeli soldier and followed disputes over Hamas’s handover of hostage remains. US President Trump, who brokered the ceasefire, defended its validity but urged Israel to respond if attacked. Both sides allege violations—Gaza media reports 80 Israeli breaches, while Israel accuses Hamas of staging false recovery footage and attacks. Aid deliveries remain at 750 tonnes daily versus a 2,000-tonne survival minimum, underscoring dire humanitarian needs. With far-right calls for full-scale war and reliance on Trump’s leverage, the ceasefire’s future is uncertain.",
+      "summaryTokens": 600,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/ukraine-women-wartime-wives-mothers-fighters-activists",
+      "title": "Wives, mothers, fighters, activists: the millennial women keeping Ukraine going ",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/ukraine-women-wartime-wives-mothers-fighters-activists",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/ukraine-women-wartime-wives-mothers-fighters-activists",
+      "section": "world",
+      "publishedDate": "2025-10-30T05:00:52Z",
+      "trailText": "Born into an independent Ukraine, the lives of these young women changed for ever when Russia invaded their country, forcing them to shoulder huge burdens of responsibility",
+      "summary": "Born after independence, Ukraine’s 29–40-year-old women have become fundraisers, fighters, medics, activists and NGO leaders sustaining the home front. Raised amid economic collapse, revolution and full-scale invasion, they run crowdfunding campaigns, arm and train soldiers, champion tech for displaced women and document the war internationally. Unlike men barred from leaving, they juggle service or emigration, grief for fallen peers and agonizing choices over childbearing against a plunging birthrate and demographic crisis. Their purpose-driven resilience masks burnout, stress and family separation.",
+      "summaryTokens": 611,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea",
+      "title": "Donald Trump praises ‘great’ Washington meeting with Anthony Albanese as leaders dine at Apec",
+      "webUrl": "https://www.theguardian.com/australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea",
+      "apiUrl": "https://content.guardianapis.com/australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea",
+      "section": "world",
+      "publishedDate": "2025-10-30T03:40:46Z",
+      "trailText": "US president tells reporters he and Australian PM ‘working on a lot of things together’",
+      "summary": "At the APEC leaders’ dinner in Gyeongju, PM Anthony Albanese sat beside US President Donald Trump, who lauded their recent Washington meeting and touted collaboration on rare earths and other initiatives. Their bilateral agenda follows a multibillion-dollar minerals-access deal inked last week. Albanese told reporters he hopes for eased US–China trade tensions but reaffirmed Australia’s commitment to free, fair trade, in contrast to Trump’s tariff stance. Trump announced the completion of a South Korea trade agreement, notably dismissing further talks with Canada’s PM amid tariff disputes. Albanese, amid a global tour, will remain home for parliament instead of attending the Cop30 summit, while Australia bids to host Cop2026.",
+      "summaryTokens": 521,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/ukraine-war-briefing-putin-boasts-of-nuclear-driven-torpedo-that-would-swamp-cities-with-radioactive-tsunami",
+      "title": "Ukraine war briefing: Putin boasts of nuclear-driven torpedo that would swamp cities with radioactive tsunami",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/ukraine-war-briefing-putin-boasts-of-nuclear-driven-torpedo-that-would-swamp-cities-with-radioactive-tsunami",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/ukraine-war-briefing-putin-boasts-of-nuclear-driven-torpedo-that-would-swamp-cities-with-radioactive-tsunami",
+      "section": "world",
+      "publishedDate": "2025-10-30T02:02:06Z",
+      "trailText": "Russian president proclaims test of Poseidon which would launch from submarine and carry nuclear engine and warhead. What we know on day 1,345",
+      "summary": "Vladimir Putin said Russia successfully tested the Poseidon nuclear-powered torpedo-drone, whose reactor ran underwater and whose warhead could trigger a radioactive tsunami to render coastal cities uninhabitable. Officials call it a new retaliatory weapon that upends nuclear deterrence norms. In Ukraine, Kyiv rejects Russian claims of encirclement in Pokrovsk and Kupiansk despite heavy fighting and ambushes, with President Zelenskiy warning the 1,250 km frontline is under intense pressure. A Russian strike on a children’s hospital wounded nine. In Russia, a Kopeysk factory blast killed 23. Kyiv detained ex-Ukrenergo chief Kudrytsky on embezzlement charges, while anti-war busker Diana Loginova remains jailed.",
+      "summaryTokens": 1772,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/hurricane-melissa-jamaica-devastated-picking-up-the-pieces-ground-zero",
+      "title": "‘The town is devastated’: the mayor picking up the pieces at Hurricane Melissa’s ��ground zero’",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/hurricane-melissa-jamaica-devastated-picking-up-the-pieces-ground-zero",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/hurricane-melissa-jamaica-devastated-picking-up-the-pieces-ground-zero",
+      "section": "world",
+      "publishedDate": "2025-10-30T01:25:00Z",
+      "trailText": "Richard Solomon, mayor of Black River, describes terror of 16ft storm surges and hours of fierce winds when storm hit, as focus now moves to aid and rescue efforts",
+      "summary": "Black River mayor Richard Solomon called the St Elizabeth parish town “ground zero” after Hurricane Melissa’s Category 5 storm unleashed 16ft (4.8m) surges and nine hours of savage winds. With five confirmed dead and unverified reports of more, the town is without power, water or roofs on most buildings. Landslides and flooding have blocked roads, crippling search, rescue and relief. Solomon, whose own home and vehicle were submerged, is prioritizing aid to the vulnerable and clearing routes for supplies. PM Holness, after surveying 80–90% roof loss, pledged billions for reconstruction.",
+      "summaryTokens": 1517,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/hurricane-melissa-hits-cuba-after-turning-jamaica-into-disaster-area",
+      "title": "Hurricane Melissa hits Cuba after turning Jamaica into ‘disaster area’",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/hurricane-melissa-hits-cuba-after-turning-jamaica-into-disaster-area",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/hurricane-melissa-hits-cuba-after-turning-jamaica-into-disaster-area",
+      "section": "world",
+      "publishedDate": "2025-10-30T01:15:48Z",
+      "trailText": "Most intense tropical cyclone to hit Jamaica in nearly two centuries leaves trail of devastation in its wake",
+      "summary": "Category 5 Hurricane Melissa, with 185 mph winds at landfall, battered Jamaica on Oct 29, marking the strongest cyclone in almost 200 years. PM Andrew Holness declared a disaster area as 530,000 lost power, 15,000 sheltered, roofs torn off across St Elizabeth, Clarendon and Manchester parishes. At least four died on the island; 25 perished in Haitian floods and one in the Dominican Republic. After weakening to category 3, Melissa made Cuban landfall with 100 mph gusts, displacing over 735,000 residents. Scientists warn rapid intensification stems from human-driven ocean warming.",
+      "summaryTokens": 953,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/30/apec-asia-pacific-economic-cooperation-explained",
+      "title": "What is Apec - explained in 30 seconds",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/30/apec-asia-pacific-economic-cooperation-explained",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/30/apec-asia-pacific-economic-cooperation-explained",
+      "section": "world",
+      "publishedDate": "2025-10-29T23:57:56Z",
+      "trailText": "The Asia-Pacific Economic Cooperation club has 21 members that represent more than 50% of global GDP and are home to about 2.7 billion people",
+      "summary": "Established in 1989 after Australian PM Bob Hawke’s Seoul proposal, the Asia-Pacific Economic Cooperation forum launched with 12 members and now comprises 21 economies—including China, the US, Russia, Japan, Australia, Canada and ASEAN nations—accounting for over 50% of global GDP and 40% of the world’s population. APEC promotes free trade, reduced investment barriers and annual leader summits, but its nonbinding decisions and rising nationalism hinder consensus. Recent agendas address digital transformation, AI, sustainable energy, food security, demographic shifts and gender and disability inclusivity.",
+      "summaryTokens": 801,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/tributes-paid-after-death-of-mary-mcgee-who-helped-end-irelands-ban-on-contraception",
+      "title": "Tributes paid after death of Mary McGee, who helped end Ireland’s ban on contraception ",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/tributes-paid-after-death-of-mary-mcgee-who-helped-end-irelands-ban-on-contraception",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/tributes-paid-after-death-of-mary-mcgee-who-helped-end-irelands-ban-on-contraception",
+      "section": "world",
+      "publishedDate": "2025-10-29T19:45:04Z",
+      "trailText": "Mother-of-four brought legal case against government after customs seized her contraceptives package from UK",
+      "summary": "Mary “May” McGee, mother of four whose 1972 challenge with husband Seamus “Shay” McGee against Ireland’s 1935 ban on contraception—sparked by health advice after complicated pregnancies and the seizure of their UK-ordered diaphragm—led the Supreme Court to rule 4-1 that contraceptive use by married couples was a private matter, effectively ending the ban and igniting a social revolution. She died peacefully in a Dublin hospital on 29 October 2025. Tributes from writers Paul Duane and Fintan O’Toole and historian Laura Kelly praised her courage and legacy. Shay McGee predeceased her in January 2024.",
+      "summaryTokens": 1090,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/french-parliament-votes-to-add-consent-to-law-after-gisele-pelicot-case",
+      "title": "French parliament votes to add consent to rape law after Gisèle Pelicot case",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/french-parliament-votes-to-add-consent-to-law-after-gisele-pelicot-case",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/french-parliament-votes-to-add-consent-to-law-after-gisele-pelicot-case",
+      "section": "world",
+      "publishedDate": "2025-10-29T19:27:29Z",
+      "trailText": "A historic move to change French criminal law would bring its legislation in line with many other European countries",
+      "summary": "Spurred by Gisèle Pelicot’s trial—in which her husband and 50 men were convicted of drugging and raping her—French MPs and senators have voted to redefine rape and sexual assault as “any non-consensual act” requiring “informed, specific, prior and revocable” consent. The revision, pending President Macron’s signature, retains existing violence-based clauses, explicitly covers oral and anal penetration, bars inferring consent from silence, passed 327–0 in the Senate, and aligns France with European consent-first standards.",
+      "summaryTokens": 734,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/favela-reeling-rio-deadliest-police-raid-brazil",
+      "title": "‘This was a slaughter, not an operation’: the favela reeling from Rio’s deadliest police raid",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/favela-reeling-rio-deadliest-police-raid-brazil",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/favela-reeling-rio-deadliest-police-raid-brazil",
+      "section": "world",
+      "publishedDate": "2025-10-29T18:55:31Z",
+      "trailText": "Residents of Vila Cruzeiro gather bodies after more than 130 were killed in pre-dawn assault",
+      "summary": "In a pre-dawn operation on Oct. 29, Rio de Janeiro police sent 2,500 officers to raid Vila Cruzeiro, killing at least 132 people—four of them police officers and most tied to the Red Command—in the deadliest action in city history. Mutilated and blood-smeared bodies were recovered from forested hills and displayed on tarpaulins along the favela’s main street. Residents, activists and clergy denounce mass executions as “genocide” and demand the removal of governor Cláudio Castro, while the UN human rights office expresses horror. Castro defends the assault as a necessary blow against “narco-terrorists” ahead of the COP summit.",
+      "summaryTokens": 1794,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/hundreds-reportedly-killed-at-sudanese-hospital-as-evidence-of-rsf-atrocities-mounts",
+      "title": "Hundreds reportedly killed at Sudanese hospital as evidence of RSF atrocities mounts",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/hundreds-reportedly-killed-at-sudanese-hospital-as-evidence-of-rsf-atrocities-mounts",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/hundreds-reportedly-killed-at-sudanese-hospital-as-evidence-of-rsf-atrocities-mounts",
+      "section": "world",
+      "publishedDate": "2025-10-29T18:39:06Z",
+      "trailText": "Rapid Support Forces, which claimed control of El Fasher on Sunday, reportedly killed at least 460 people ‘in cold blood’",
+      "summary": "After capturing El Fasher in Darfur, RSF fighters reportedly executed at least 460 patients and staff inside the Saudi maternity hospital, according to WHO and the Sudan Doctors Network. Yale Humanitarian Research Lab satellite analysis shows mass graves and “reddish discoloration” consistent with mass killings at hospital and detention sites. RSF now controls all regional capitals in Darfur amid allegations of genocide and systematic atrocities—house-to-house shootings, sexual assaults, extortion and mass executions—while thousands more civilians remain missing or displaced.",
+      "summaryTokens": 673,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/louvre-suspects-partially-admit-their-role-in-jewel-heist",
+      "title": "Louvre suspects ‘partially admit’ their role in jewel heist",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/louvre-suspects-partially-admit-their-role-in-jewel-heist",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/louvre-suspects-partially-admit-their-role-in-jewel-heist",
+      "section": "world",
+      "publishedDate": "2025-10-29T18:31:35Z",
+      "trailText": "Police are no closer to recovering gems valued at £76m, despite the arrest of two men last week",
+      "summary": "Two men arrested on suspicion of stealing €88m (£76m) in crown jewels from the Louvre have “partially admitted” involvement, but the gems remain unrecovered, prosecutor Laure Beccuau said. The suspects face organised theft and criminal conspiracy charges carrying up to 15 years in prison. Investigators say the four-man gang used a stolen furniture truck with a lift to smash into the Apollo gallery, fleeing on motorbikes with eight Napoleon-era pieces, including a diamond-studded crown and emerald necklace. DNA links them to a display case and scooter. A 100-strong unit is probing accomplices amid criticism of the museum’s outdated security.",
+      "summaryTokens": 631,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
+      "title": "Hurricane Melissa: a visual guide to the storm devastating Jamaica and Cuba",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
+      "section": "world",
+      "publishedDate": "2025-10-29T17:59:41Z",
+      "trailText": "Melissa slams into Cuba while lingering over Jamaica as the Bahamas braces to be next",
+      "summary": "Hurricane Melissa, a catastrophic Category 5, struck Jamaica with 180 mph winds—the strongest since records began in 1851—after intensifying from 70 to 140 mph in 24 hours. The slow-moving storm caused severe flooding, widespread power outages affecting over 500,000 residents, and structural damage including a hospital roof loss. Downgraded to Category 3, it lingers over Cuba with 735,000 evacuated and is forecast to hit the Bahamas. Rapid intensification over 1.4 °C-warmed seas underscores the climate-change link, posing a major recovery challenge to Jamaica’s tourism-dependent economy.",
+      "summaryTokens": 1022,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/israeli-strikes-in-gaza-overnight-as-ceasefire-looks-increasingly-fragile",
+      "title": "Israel strikes Gaza again after overnight bombardment that killed at least 104",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/israeli-strikes-in-gaza-overnight-as-ceasefire-looks-increasingly-fragile",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/israeli-strikes-in-gaza-overnight-as-ceasefire-looks-increasingly-fragile",
+      "section": "world",
+      "publishedDate": "2025-10-29T17:55:00Z",
+      "trailText": "Attacks shatter Palestinians’ short-lived relief since start of ceasefire that now looks increasingly fragile",
+      "summary": "Israel’s strikes in northern Gaza on Oct 29 killed at least 104 Palestinians—including 46 children and 20 women—and wounded 200, marking the gravest breach of the US-brokered ceasefire. The IDF said it targeted weapons caches in Beit Lahia, while Gaza’s civil defense reported hits on displacement camps and a cancer patient camp. Hamas condemned the attacks as attempts to undermine the truce, vowed to uphold it, and delayed a hostage-remains handover. US officials insisted the ceasefire still holds despite “skirmishes.” Qatar is intensifying diplomacy to preserve the agreement. Domestically, far-right Israeli ministers demand renewed war even as Netanyahu reaffirms measured compliance.",
+      "summaryTokens": 905,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/greek-police-increase-security-after-protests-against-israeli-cruise-ship",
+      "title": "Greek police increase security after protests against Israeli cruise ship",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/greek-police-increase-security-after-protests-against-israeli-cruise-ship",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/greek-police-increase-security-after-protests-against-israeli-cruise-ship",
+      "section": "world",
+      "publishedDate": "2025-10-29T17:38:39Z",
+      "trailText": "Measures are being taken at the harbours of Patras and Katakolo after demonstrations earlier this week",
+      "summary": "Greek authorities have bolstered security at Patras and Katakolo harbours to shield the MS Crown Iris, an Israeli cruise ship, after activists blocked its Kalamata docking and forced a detour to Cyprus in July. Demonstrators, angered by ongoing Gaza attacks despite a ceasefire, have intensified protests on Syros and Crete, demanding an end to Greek-Israeli collaboration and closure of Souda Bay base. While campaigners decry Israel’s actions, some critics warn of antisemitic rhetoric. Athens faces a delicate balance between public sentiment and a deepening strategic alliance with Israel. Over 600,000 Israelis visited in 2024, raising economic stakes.",
+      "summaryTokens": 1339,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/corruption-in-french-politics-is-nothing-new",
+      "title": "Corruption in French politics is nothing new |. letter",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/corruption-in-french-politics-is-nothing-new",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/corruption-in-french-politics-is-nothing-new",
+      "section": "world",
+      "publishedDate": "2025-10-29T17:26:47Z",
+      "trailText": "Letter: It is the scale and egregiousness of Nicolas Sarkozy’s corruption that mark out his case most starkly, writes Dr David Lees",
+      "summary": "Dr David Lees argues that while French political graft is familiar—Chirac’s 1970s Paris conviction and Fillon’s 2017 family-funding scandal—Nicolas Sarkozy’s case stands out for its scale and audacity. His “bling-bling” Élysée lifestyle and covert Gaddafi financing mark a new low. Far-right frontrunner Marine Le Pen also faces a corruption appeal. Public approval of Sarkozy’s imprisonment is tempered by his two police bodyguards, underscoring his privileged status. Amid a parliamentary stalemate, fresh corruption revelations threaten to deepen public distrust ahead of the 2027 presidential election.",
+      "summaryTokens": 748,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power",
+      "title": "Violent protests erupt as Tanzanian president nears election victory",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power",
+      "section": "world",
+      "publishedDate": "2025-10-29T14:15:06Z",
+      "trailText": "Government critics abducted, killed or arrested in run-up to vote as global monitor records internet blackout",
+      "summary": "Tanzania’s Oct. 29 vote in Dar es Salaam was marred by violent protests—rock-throwing, a burning petrol station and a nationwide internet blackout recorded by NetBlocks—as incumbent President Samia Suluhu Hassan moves to solidify CCM’s six-decade grip. Major opposition parties Chadema and ACT-Wazalendo were barred, while critics, including former ambassador Humphrey Polepole, face abduction, enforced disappearance or arrest; UN experts cite over 200 disappearances since 2019. Analysts predict low competitiveness and voter apathy. Hassan touts economic growth, healthcare and education gains, while minor rivals like Chaumma’s Salum Mwalimu lack resources to challenge her victory.",
+      "summaryTokens": 572,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/israel-release-marwan-barghouti-former-world-leaders-urge-trump",
+      "title": "Press Israel to release Marwan Barghouti, former world leaders urge Trump",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/israel-release-marwan-barghouti-former-world-leaders-urge-trump",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/israel-release-marwan-barghouti-former-world-leaders-urge-trump",
+      "section": "world",
+      "publishedDate": "2025-10-29T13:29:17Z",
+      "trailText": "Elders group set up by Mandela and chaired by Colombia’s former president says Palestinian leader would play ‘unifying’ role",
+      "summary": "At a London meeting, the Elders, founded by Mandela and chaired by Juan Manuel Santos, urged President Trump to press Israel to free Palestinian leader Marwan Barghouti, calling it vital to revive a two-state solution, unify Palestinian politics and prevent Hamas filling the vacuum. The group—including Mary Robinson, Helen Clark and Graça Machel—also condemned Israeli attacks on Gaza City, demanded humanitarian aid deliveries and decried Barghouti’s torture and arbitrary detention. Imprisoned since 2004 with five life terms, Barghouti remains the most popular Palestinian figure and a non-violent two-state advocate. The Elders welcomed Mahmoud Abbas’s pledge for free elections within 12 months.",
+      "summaryTokens": 2112,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/defence-lawyers-would-have-used-tories-statements-to-dismiss-china-spy-case-attorney-general-says",
+      "title": "Defence lawyers would have used Tories’ statements to dismiss China spy case, attorney general says",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/defence-lawyers-would-have-used-tories-statements-to-dismiss-china-spy-case-attorney-general-says",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/defence-lawyers-would-have-used-tories-statements-to-dismiss-china-spy-case-attorney-general-says",
+      "section": "world",
+      "publishedDate": "2025-10-29T13:24:19Z",
+      "trailText": "Richard Hermer says failure by Kemi Badenoch and James Cleverly to describe China as a threat would have been seized on in trial",
+      "summary": "Attorney general Richard Hermer told MPs that defence lawyers in the aborted trial of ex-researcher Christopher Cash and teacher Christopher Berry on 1911 Official Secrets Act espionage charges would have exploited Conservative ministers’ own statements—like James Cleverly’s 2023 Mansion House speech refusing to call China a 'threat' or Kemi Badenoch’s insistence it was a 'challenge'—to argue China wasn’t legally an 'enemy'. He defended prosecutors’ good faith, blamed outdated legislation (replaced by the 2023 National Security Act) for the collapse, denied improper ministerial intervention, and rejected claims that the government’s reluctance to label China an adversary would hamper future prosecutions.",
+      "summaryTokens": 1091,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/a-colony-of-the-us-argentinians-contemplate-future-after-trump-backed-milei-coasts-to-victory",
+      "title": "‘A colony of the US’: Argentinians contemplate future after Trump-backed Milei coasts to victory ",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/a-colony-of-the-us-argentinians-contemplate-future-after-trump-backed-milei-coasts-to-victory",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/a-colony-of-the-us-argentinians-contemplate-future-after-trump-backed-milei-coasts-to-victory",
+      "section": "world",
+      "publishedDate": "2025-10-29T10:51:58Z",
+      "trailText": "Big win leaves many wondering if result reflects genuine support for president or corrosive US influence",
+      "summary": "President Javier Milei achieved a surprise 41%–32% midterm win despite recession and corruption claims, buoyed by Trump’s $40bn conditional bailout. Enforced “chainsaw” cuts slashed inflation from over 200% to ~30%, yet real wages, purchasing power and 200k jobs fell, 18k businesses closed, and IMF support doubled down on dollar dependence. Milei’s La Libertad Avanza plus Macri’s PRO now hold Congress. Experts cite anti-Peronist bias, devaluation fear and US leverage—fears echoed in warnings Argentina risks becoming a US “colony,” questioning the depth of genuine support and future autonomy.",
+      "summaryTokens": 1470,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/voting-opens-in-netherlands-as-polls-suggest-second-gert-wilders-win",
+      "title": "Voting opens in Netherlands as narrowing polls suggest second Geert Wilders win",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/voting-opens-in-netherlands-as-polls-suggest-second-gert-wilders-win",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/voting-opens-in-netherlands-as-polls-suggest-second-gert-wilders-win",
+      "section": "world",
+      "publishedDate": "2025-10-29T10:40:11Z",
+      "trailText": "Major parties rule out coalition with rightwinger, giving his party little chance of being part of government",
+      "summary": "Netherlands holds a razor-thin parliamentary election, polls project Geert Wilders’s far-right PVV leading with 24–28 seats, down from 37 in 2023. Though likely to top the 150-seat chamber, every major party—from centre-left GL/PvdA (22–26 seats) under Frans Timmermans, to liberal D66 (21–25) led by Rob Jetten, and centre-right CDA (18–22)—rules out joining a PVV-led government. With migration, healthcare and housing dominating debate and about half the electorate undecided, analysts foresee protracted coalition talks to form a broad centrist or moderate-right cabinet.",
+      "summaryTokens": 760,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/kremlin-linked-operatives-scramble-to-stop-extradition-of-mercenary-accused-of-plotting-coup",
+      "title": "Kremlin-linked operatives scramble to stop extradition of mercenary accused of plotting coup",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/kremlin-linked-operatives-scramble-to-stop-extradition-of-mercenary-accused-of-plotting-coup",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/kremlin-linked-operatives-scramble-to-stop-extradition-of-mercenary-accused-of-plotting-coup",
+      "section": "world",
+      "publishedDate": "2025-10-29T10:00:55Z",
+      "trailText": "Exclusive: Inside a Russian bid to free Horațiu Potra, a mercenary held in Dubai accused of conspiring to ‘overthrow constitutional order’ in Romania",
+      "summary": "Russian-linked actors Igor Spivak and Alexander Kalinin are mobilising lawyers and diplomatic channels to halt the extradition from Dubai of Romanian-French mercenary Horațiu Potra, detained on 24 September alongside kin. Potra, ex-French Foreign Legionnaire turned PMC operator in CAR and DRC, faces Romanian charges of conspiring with far-right politician Călin Georgescu to overthrow constitutional order, illicit arms, financing, tax evasion. Prosecutors cite a December horse-farm meeting, photos of Kremlin contacts and evidence of Russian embassy ties. UAE courts weigh Romania’s request amid Potra’s alleged asylum bid in Moscow.",
+      "summaryTokens": 1019,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/bbc-journalist-barred-from-leaving-vietnam-and-repeatedly-interrogated",
+      "title": "BBC journalist barred from leaving Vietnam and interrogated repeatedly ",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/bbc-journalist-barred-from-leaving-vietnam-and-repeatedly-interrogated",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/bbc-journalist-barred-from-leaving-vietnam-and-repeatedly-interrogated",
+      "section": "world",
+      "publishedDate": "2025-10-29T07:14:36Z",
+      "trailText": "BBC ‘deeply concerned’ for journalist’s wellbeing after Vietnamese police withhold their ID card and passport",
+      "summary": "A BBC journalist—Vietnamese national based in Thailand—has been barred from leaving Vietnam since returning in August to renew their passport; authorities have withheld their ID card and renewed passport while interrogating them for days about their journalism. The case surfaced amid the UK visit of Vietnam’s Communist party leader Tô Lâm. The BBC and rights groups, including Asia HRLA and Reporters sans Frontières (which ranks Vietnam 173/180 in media freedom), are urging Prime Minister Keir Starmer to demand the journalist’s immediate release and protest Vietnam’s harsh press censorship.",
+      "summaryTokens": 867,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/wednesday-briefing-catastrophic-reports-as-jamaica-reels-from-worst-storm-since-records-began",
+      "title": "Wednesday briefing: ‘Catastrophic’ reports as Jamaica reels from worst storm since records began",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/wednesday-briefing-catastrophic-reports-as-jamaica-reels-from-worst-storm-since-records-began",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/wednesday-briefing-catastrophic-reports-as-jamaica-reels-from-worst-storm-since-records-began",
+      "section": "world",
+      "publishedDate": "2025-10-29T06:57:03Z",
+      "trailText": "In today’s newsletter: Meteorologists have called it ‘a dire situation unfolding in slow motion’ – what will it leave behind?",
+      "summary": "Hurricane Melissa, the strongest storm to hit Jamaica since records began in 1851, made landfall on Oct 29 with 185 mph winds and torrential rain, knocking out power, internet and demolishing infrastructure. Officials describe ‘catastrophic’ damage; initial death toll stands at three, with up to 1.5 million people affected and 50,000 displaced. Slow‐moving Category 5 storms prolong destruction, triggering flash floods, landslides and 9–13 ft storm surges. Over 700,000 have been evacuated in Cuba. Aid agencies have pre‐positioned food, water, generators and medical supplies, but recovery will test Jamaica’s limited infrastructure amid a warming climate driving stronger hurricanes.",
+      "summaryTokens": 527,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/trump-heads-to-south-korea-amid-deadlocked-trade-talks-over-350bn-deal-on-tariffs",
+      "title": "South Korea awards Trump gold crown amid deal to unlock $350bn trade talks ",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/trump-heads-to-south-korea-amid-deadlocked-trade-talks-over-350bn-deal-on-tariffs",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/trump-heads-to-south-korea-amid-deadlocked-trade-talks-over-350bn-deal-on-tariffs",
+      "section": "world",
+      "publishedDate": "2025-10-29T06:06:45Z",
+      "trailText": "Seoul says it has reached broad agreement on investment and shipbuilding as attention shifts to US-China meeting",
+      "summary": "During his APEC visit in South Korea, President Trump received a replica Silla gold crown and the Grand Order of Mugunghwa as Seoul clinched a broad $350bn trade package—$200bn in US direct investment and $150bn in shipbuilding—in return for tariff negotiations. Attention now shifts to his first face-to-face meeting with Xi Jinping in Busan, where Trump aims to cut a 20% fentanyl-related tariff. A North Korea summit seemed unlikely despite recent missile tests. Seoul also pressed for US visa reforms after a Georgia raid. Talks touched on defense cost-sharing and immigration reforms.",
+      "summaryTokens": 884,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/weatherwatch-hurricane-typhoon-differences",
+      "title": "Weatherwatch: what is the difference between a hurricane and a typhoon?",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/weatherwatch-hurricane-typhoon-differences",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/weatherwatch-hurricane-typhoon-differences",
+      "section": "world",
+      "publishedDate": "2025-10-29T06:00:33Z",
+      "trailText": "Both are cyclones, or circular storms, but they form in distinct places and vary in terms of scale and impact",
+      "summary": "Cyclones in the Atlantic are called hurricanes; in the Pacific they’re typhoons. Typhoons tend to be larger due to the Pacific’s vast size, though peak sustained wind speeds are similar. Hurricanes use the five-category Saffir-Simpson scale (Category 5: >157 mph/253 km/h); Pacific storms follow regional scales defining 74–114 mph as typhoons and >115 mph as super typhoons. Typhoons occur year-round (peak August–October; ~16 annually); hurricanes run June–November (~8 annually). Economic losses often spike in affluent US hurricane zones, but typhoons exact higher death tolls in the Philippines, Bangladesh, China and Vietnam due to limited storm protection.",
+      "summaryTokens": 980,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
       "id": "world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
-      "title": "‘Storm of the century’: record-breaking Hurricane Melissa hits Jamaica",
+      "title": "‘Storm of the century’: record-breaking Hurricane Melissa hits Jamaica and heads for Cuba",
       "webUrl": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
       "apiUrl": "https://content.guardianapis.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
       "section": "world",
-      "publishedDate": "2025-10-28T20:30:18Z",
-      "trailText": "Government says it has done all it can to prepare for strongest hurricane in country since records began",
-      "summary": "Hurricane Melissa, a category 5 storm packing 185 mph winds, made landfall near St Elizabeth as Jamaica’s strongest hurricane since records began in 1851. Torrential rain, 13 ft storm surge and landslides swamped roads from Portland to Westmoreland, downing power lines and ripping roofs off buildings. Mandatory evacuations covered low-lying areas of the 2.8 million-strong population; three deaths have been confirmed locally. Prime Minister Andrew Holness pledged ongoing relief amid warnings of slow recovery. Climate scientists attribute Melissa’s rapid intensification to record-warm oceans driven by the human-caused climate crisis.",
-      "summaryTokens": 432,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "publishedDate": "2025-10-29T05:27:19Z",
+      "trailText": "Minister says parish of St Elizabeth is ‘under water’ and that families were trapped in their homes in the community of Black River in western Jamaica",
+      "summary": "Hurricane Melissa, a record-setting Category 5 storm with 185 mph winds, made landfall in Jamaica’s St Elizabeth parish on 28 Oct, inundating roads, triggering landslides and flooding, cutting power to over 530,000 residents and forcing nearly 15,000 into shelters. Officials reported extensive infrastructure damage, trapped families in Black River and unconfirmed fatalities. After lingering, it weakened to Cat 4 and is advancing toward Cuba, the Bahamas and Bermuda, prompting evacuations of 500,000+ in Cuba. Jamaica’s prime minister declared a disaster area. Meteorologists warn of catastrophic surge and structure failures. Rapid intensification—doubling winds from 70 mph to 140 mph—is linked to record-warm oceans driven by climate change, raising concerns over recovery and long-term resilience.",
+      "summaryTokens": 596,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/paris-bataclan-terror-attack-drama-director-rejects-accusations-of-indecency",
+      "title": "Director of Bataclan terror attack drama rejects accusations of ‘indecency’",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/paris-bataclan-terror-attack-drama-director-rejects-accusations-of-indecency",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/paris-bataclan-terror-attack-drama-director-rejects-accusations-of-indecency",
+      "section": "world",
+      "publishedDate": "2025-10-29T05:00:33Z",
+      "trailText": "Jean-Xavier de Lestrade defends decision to film mini-series inside Paris theatre where 130 people died in 2015",
+      "summary": "Jean-Xavier de Lestrade, Oscar-winning director of the eight-part dramatisation Des Vivants, defends filming inside Paris’s Bataclan—scene of the 2015 ISIS attack that killed 130—arguing the seven former hostages (“les potages”) demanded authentic re-creation and a joint letter secured permission. Critics like Life for Paris president Arthur Dénouveaux denounce this “indecent” blend of fiction and trauma, while victims’ association 13onze15 reports mixed feelings. Lestrade insists location shooting was vital to honour survivors’ accounts, not exploit tragedy for commercial gain ahead of the 10th anniversary.",
+      "summaryTokens": 762,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
+      "title": "Israel strikes Gaza after Netanyahu accuses Hamas of breaching ceasefire",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
+      "section": "world",
+      "publishedDate": "2025-10-29T02:38:35Z",
+      "trailText": "Prime minister accuses Hamas of ‘clear violation’ of truce as far-right ministers clamour to resume war",
+      "summary": "After accusing Hamas of breaching the US-brokered ceasefire by returning remains of a hostage recovered two years earlier, PM Netanyahu ordered powerful airstrikes on Gaza City and Khan Younis, killing at least seven, including two children. The strikes followed militants’ attack that killed an Israeli soldier and have delayed a planned hostage-remains handover. Far-right ministers are demanding full war; the US backs Israel’s right to retaliate while urging the truce to hold.",
+      "summaryTokens": 403,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running",
+      "title": "Ukraine war briefing: Moscow under drone siege for third night running",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running",
+      "section": "world",
+      "publishedDate": "2025-10-29T01:47:04Z",
+      "trailText": "EU edges towards using ‘reparations loan’ using Russian frozen assets; Kremlin pressing ahead with year-round conscription. What we know on day 1,344",
+      "summary": "Ukraine launched drones at Moscow for a third night, halting flights at Sheremetyevo, Domodedovo and Zhukovsky. Officials claim all UAVs were downed; Russia reported 35 destroyed over two nights. Kyiv targets military-industrial sites, including a fire at a Budyonnovsk petrochemical plant. The EU edges toward a €140bn reparations loan from frozen Russian assets by December. Russia’s parliament moves to adopt year-round conscription, boosting active forces by 180,000 amid reports of coerced volunteers. Zelenskiy will meet EU counterparts on a ceasefire framework, plans limited weapons exports and boosts domestic drone production by 50%. Poland to reopen two Belarus crossings under tighter controls after drone and smuggling incidents.",
+      "summaryTokens": 648,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/nusantara-indonesias-planned-new-political-capital-explained-in-30-seconds",
+      "title": "Nusantara, Indonesia’s planned new political capital – explained in 30 seconds",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/nusantara-indonesias-planned-new-political-capital-explained-in-30-seconds",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/nusantara-indonesias-planned-new-political-capital-explained-in-30-seconds",
+      "section": "world",
+      "publishedDate": "2025-10-29T00:35:23Z",
+      "trailText": "The new city remains under construction, one year on from its scheduled 2024 inauguration, and has been downgraded from its planned status as a replacement for Jakarta",
+      "summary": "Nusantara, the planned $32bn replacement for Jakarta in Borneo’s jungles, was announced in 2019 but its 2024 inauguration has been postponed amid logistical, financial and political setbacks. A new regulation downgraded it to a “political capital” for 2028, with budget cuts under President Prabowo Subianto and failure to secure 80% private foreign funding. Of the 6,600ha core area only 800ha—including a Garuda-shaped presidential palace—are built. Phase two covers transport, civil service housing and government buildings. Critics warn of indigenous rights, biodiversity loss and a looming white elephant by the 2045 completion with 2M residents goal.",
+      "summaryTokens": 1669,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
+    },
+    {
+      "id": "world/2025/oct/29/indonesia-new-capital-city-nusantara",
+      "title": "Indonesia’s new capital, Nusantara, in danger of becoming a ‘ghost city’",
+      "webUrl": "https://www.theguardian.com/world/2025/oct/29/indonesia-new-capital-city-nusantara",
+      "apiUrl": "https://content.guardianapis.com/world/2025/oct/29/indonesia-new-capital-city-nusantara",
+      "section": "world",
+      "publishedDate": "2025-10-29T00:35:00Z",
+      "trailText": "State funding for the project has plunged, while construction has slowed and few civil servants have been eager to move away from Jakarta",
+      "summary": "Nusantara, Indonesia’s planned forest capital launched under Jokowi to replace sinking Jakarta, stands nearly deserted three years in, with boulevards empty and only 2,000 civil servants vs a 1.2 million target. Under President Prabowo, state funding plunged from £2 bn to £700 m in 2025 and private investment missed targets by over £1 bn. Downgraded to a “political capital,” major infrastructure exists but construction slowed, local businesses collapsed, mangroves cleared and indigenous communities face flooding and water shortages. Officials insist funding was reallocated and commitment endures, yet analysts warn Nusantara risks becoming a ghost city or boutique tourism hub. Prabowo prioritises a £15 bn school meals program over the capital.",
+      "summaryTokens": 1106,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/we-had-no-warning-britons-sheltering-from-hurricane-melissa-criticise-lack-of-travel-alerts",
@@ -35,9 +905,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T20:17:01Z",
       "trailText": "Travellers to Jamaica say neither government nor airlines raised concerns before the storm forced them into lockdown",
-      "summary": "British travellers in Jamaica say UK government, airlines and travel agents failed to warn them before slow-moving Category 5 Hurricane Melissa hit with 180 mph winds and killed three. A north London couple at a Sandals resort in Whitehouse and guests from wedding parties around Montego Bay and Negril report being plunged into lockdown, bedding in wardrobes and flooded shelters. With Kingston and Montego Bay airports closed, evacuees await return flights as the FCDO urges registration and Yvette Cooper pledges full UK support.",
-      "summaryTokens": 1123,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "British nationals in Jamaica say no travel warnings were issued by the FCDO, travel agents or airlines before Hurricane Melissa, a slow-moving category 5 storm with 180 mph winds that killed three. Stranded guests at a Sandals resort and Negril hotels report lockdown conditions, anxious families and disrupted return flights amid airport closures. Travellers claim neither British Airways nor agents discouraged their departures and that Heathrow offered minimal storm advice. The FCDO urges Brits on the island to register for updates, has deployed a consular team and stands ready to support Jamaica at its request.",
+      "summaryTokens": 941,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/brazil-rio-at-war-police-drug-raids-favelas",
@@ -47,33 +917,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T19:55:00Z",
       "trailText": "Governor says city ‘at war’ after gunfights between troops and Red Command drug traffickers who reportedly used weaponised drones",
-      "summary": "Rio de Janeiro saw its deadliest violence yet on Oct 28 as 2,500+ officers and special forces launched “Operation Containment” into Alemão and Penha favelas—Red Command’s strongholds—sparking gunfights that left at least 64 dead (including four police) and dozens wounded. Traffickers used weaponized drones and set barricades alight. Governor Cláudio Castro declared the city “at war,” labeling it narco-terrorism, while rights groups decried a “state-sponsored massacre.” Over 80 arrests were made and 75+ rifles seized. Residents described nonstop gunfire. Critics say raids target poverty rather than drug infrastructure, questioning efficacy amid fears of reprisal attacks citywide.",
-      "summaryTokens": 780,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
-    },
-    {
-      "id": "world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
-      "title": "Israel launches strikes on Gaza after Netanyahu accuses Hamas of breaching ceasefire",
-      "webUrl": "https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
-      "apiUrl": "https://content.guardianapis.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
-      "section": "world",
-      "publishedDate": "2025-10-28T19:41:34Z",
-      "trailText": "Prime minister accuses Hamas of ‘clear violation’ of truce as far-right ministers clamour to resume war",
-      "summary": "On Tuesday Israel launched powerful airstrikes on Gaza City and areas near al-Shifa hospital after Prime Minister Benjamin Netanyahu accused Hamas of a “clear violation” of the US-brokered ceasefire by returning body parts of an Israeli hostage recovered two years ago. At least two civilians were killed and four wounded. The bombardment came amid far-right ministers clamouring for full-scale war and US warnings against renewed fighting. Hamas denied responsibility for a separate attack on IDF troops and accused Israel of 80+ truce breaches, warning strikes would delay handing over remains.",
-      "summaryTokens": 1063,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
-    },
-    {
-      "id": "world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
-      "title": "Hurricane Melissa: a visual guide to Jamaica’s strongest storm since 1851",
-      "webUrl": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
-      "apiUrl": "https://content.guardianapis.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
-      "section": "world",
-      "publishedDate": "2025-10-28T18:48:33Z",
-      "trailText": "Slow-moving giant makes landfall and will linger over the island before slamming into Cuba",
-      "summary": "Hurricane Melissa made landfall in Jamaica as a catastrophic category 5 storm—its strongest since records began in 1851. Intensifying from 70 mph to 180 mph within 24 hours and moving just 7 mph, it is poised to linger over Jamaica before tracking to Cuba, Haiti and the Bahamas, triggering life-threatening flash floods, landslides and a 4 m storm surge. Airports are closed, tolls lifted and 850 shelters readied, but resource-strapped authorities warn infrastructure cannot withstand this scale. With tourism vital to the economy, tens of thousands face displacement. Melissa’s rapid intensification over waters 1.4 °C above average highlights links to ocean warming.",
-      "summaryTokens": 1865,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "In Brazil’s deadliest single-day raid, security forces deployed 2,500+ police and special units in pre-dawn assaults on Red Command strongholds in Alemão and Penha favelas near Rio’s airport. Intense gunbattles erupted, traffickers used weaponised drones, and at least 64 people, including four officers, were killed; 80+ arrested and 93 rifles seized. Governor Cláudio Castro declared the city “at war” against “narco-terrorism.” Critics call it a “state-sponsored massacre,” warning the militarized crackdown risks deepening poverty-driven crime rather than curbing it. Violence and road closures persisted into Tuesday.",
+      "summaryTokens": 821,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/false-claims-online-damaged-brigitte-macrons-quality-of-life-daughter-tells-court",
@@ -83,9 +929,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T17:57:53Z",
       "trailText": "Tiphaine Auzière spoke at trial of 10 people accused of harassment by posting claims that French first lady was born a man",
-      "summary": "At a Paris trial of ten individuals accused of harassing Brigitte Macron online with false claims she was born a man, her daughter Tiphaine Auzière testified the posts – including private photos and malicious gender rumors tying her to an invented Jean-Michel Trogneux – have forced the first lady into constant vigilance over her appearance, damaged her health and quality of life, and distressed family and grandchildren. Defendants, ranging from minor social media users to a publicist invoking satire, deny intent to harm. Conviction carries up to two years’ prison; the Macrons are also suing US podcaster Candace Owens.",
-      "summaryTokens": 816,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Tiphaine Auzière told a Paris court that online harassment by ten defendants—eight men and two women aged 41–60—who falsely claimed Brigitte Macron was born a man has undermined the French first lady’s health and forced her into constant self-monitoring of clothing and posture. Private photos were circulated with malicious commentary, impacting her quality of life and family, including grandchildren. Defendants face up to two years in prison. The Macrons have also filed a US defamation suit against podcaster Candace Owens for amplifying the Jean-Michel Trogneux hoax.",
+      "summaryTokens": 1261,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/katy-perry-justin-trudeau-romance-spotlight-actors-singers-politicians",
@@ -95,9 +941,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T17:26:06Z",
       "trailText": "As the singer and former Canadian PM get together, we look at the history of romances between artists and politicians",
-      "summary": "Pop star Katy Perry, 41, and ex-Canadian PM Justin Trudeau, 53, were seen hand-in-hand leaving Le Crazy Horse cabaret in Paris on Perry’s birthday, fueling romance rumors. They join rare singer-politician pairings—like Pierre Trudeau–Barbra Streisand and Lembit Öpik–Gabriela Irimia—amid public fascination with celebrity relationships. Podcast host Gráinne Maguire says such high-profile unions reveal universal relationship dynamics and humanize figures. Both Perry—fresh off a lukewarm album reception and break-up from Orlando Bloom—and Trudeau—recently resigned PM and divorced father—seem to be seeking fresh starts. Their coupling revives comparisons with iconic power pairs and promises media spin-offs.",
-      "summaryTokens": 1609,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Canadian former PM Justin Trudeau, 53, and singer Katy Perry, 41, have been spotted together in Montreal and Paris, sparking speculation about their romance. They join a rare list of politician-singer couples—like Pierre Trudeau and Barbra Streisand—amid more common actor-politician pairings. Comedy writer Gráinne Maguire argues that celebrity relationships follow universal patterns, revealing insecurities and career tensions. Both parties face career lulls—Perry’s latest album underperformed, Trudeau recently resigned from politics and divorced—and are navigating post-peak public lives. Their liaison revives memories of Pierre and Streisand’s 1969 affair, raising questions about what comes next: love story, podcast or foundation.",
+      "summaryTokens": 1221,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/mass-killings-reported-el-fasher-sudan-paramilitary-group-rapid-support-forces",
@@ -107,9 +953,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T17:10:03Z",
       "trailText": "Rapid Support Forces accused of killing more than 2,000 unarmed civilians in El Fasher in recent days",
-      "summary": "Reports emerge of the Rapid Support Forces executing over 2,000 unarmed civilians in El Fasher, Sudan, since seizing the city in Darfur. Open-source videos and Yale Humanitarian Research Lab satellite imagery indicate ethnically targeted killings and forced displacement of Fur, Zaghawa and Berti groups via door-to-door clearance operations. Witnesses describe mass graves, summary executions and burnt vehicles amid a media blackout. UN agencies warn of genocide-like violence as 260,000 civilians remain trapped without aid, many resorting to animal fodder. RSF’s capture marks its control of all Darfur capitals, deepening fears of regional partition and humanitarian collapse.",
-      "summaryTokens": 950,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Rapid Support Forces seized El Fasher, Darfur’s last army-held city, over the weekend. Videos show RSF fighters executing unarmed civilians and burning vehicles. Joint Forces claim more than 2,000 civilians killed; Yale’s Humanitarian Research Lab documents ethnic cleansing of Fur, Zaghawa and Berti communities via door-to-door clearance, comparing it to the first 24 hours of the Rwandan genocide. The UN warns of summary executions and growing ethnic atrocities. Over 260,000 civilians remain trapped, 1 million+ have fled; Tawila hospital admitted 130 wounded. RSF now controls all five Darfur capitals, pushing Sudan toward partition. Satellite imagery shows mass graves and red soil discolouration. Communications are cut; survivors learn of loved ones via social media. Experts warn this may be the final stage of the Darfur genocide.",
+      "summaryTokens": 928,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/uk-steps-up-review-of-headlight-glare-as-drivers-complain-of-being-dazzled",
@@ -119,9 +965,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T14:53:46Z",
       "trailText": "Considerations include changes to headlight standards and clampdown on illegal sale of overly powerful bulbs",
-      "summary": "Facing longer nights and 26% of motorists unnerved by dazzling beams, the UK government is accelerating its road safety strategy to tackle headlight glare. Measures include updating UN vehicle-lighting regulations, tightening DVSA MOT checks, and fining illegal high-lumen retrofit bulbs up to £1,000. Independent research, due before year-end, will probe LED designs and SUV lamp height. Officials stress balancing brighter headlights' fuel-saving benefits against dazzle risks. Optometrists advise clean windscreens, mirror adjustment and slowing or pausing if dazzled.",
-      "summaryTokens": 1442,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "As nights lengthen and clocks go back, the UK government is stepping up a review of headlight glare, considering tighter vehicle lighting standards and a clampdown on illegal high-power bulbs. An RAC survey found over 25% of drivers feel nervous driving at night due to dazzling beams. A new road safety strategy by year-end will draw on 18 months of independent research and propose amendments to UN lighting regulations. Officials will probe design factors—brighter LEDs, higher SUV lights and older drivers’ sensitivity—while DVSA MOT checks and £1,000 fines target illegal retrofits. Eye-care experts advise clean windscreens, adjusted mirrors and slowing or pulling over until vision recovers.",
+      "summaryTokens": 768,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/british-teen-on-georgia-drug-charges-could-give-birth-in-prison-after-plea-bargain",
@@ -131,9 +977,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T14:26:04Z",
       "trailText": "Family of Bella Culley, 19, paid £138,000 in deal that could result in a two-year sentence in former Soviet republic",
-      "summary": "British student nurse Bella Culley, 19, who was arrested at Tbilisi airport in May with 14 kg of cannabis, has agreed a plea bargain after her family raised £138,000. Her parents, living overseas without UK property, had originally been asked for 800,000 lari to secure her immediate release but negotiated the lower sum. The deal, reducing a potential 20-year term to two years and a 500,000-lari fine, may see her give birth in Georgian custody or under house arrest. Her sentencing is scheduled for 3 November. Culley, initially pleading not guilty and alleging torture, faces no separation from her baby, with Georgia’s court deeming her detention conditions acceptable.",
-      "summaryTokens": 1622,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Billingham student nurse Bella Culley, 19, pleaded guilty in Tbilisi to smuggling 14 kg of cannabis after her family paid 500,000 lari (£137,870) under a plea bargain reducing her maximum 20-year term to two years. Arrested in May after being reported missing in Thailand, the pregnant teen could give birth under house arrest rather than in prison. Sentencing is scheduled for 3 November; Culley had claimed she was tortured into carrying drugs and initially faced up to life imprisonment. Her parents lacked property to secure bail.",
+      "summaryTokens": 1141,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/russian-drone-attacks-on-civilians-in-ukraine-are-war-crimes-un-report-concludes",
@@ -143,9 +989,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T12:42:44Z",
       "trailText": "Rights commission inquiry focused on south-east of country found drones targeted gathering points and critical infrastructure",
-      "summary": "UN rights commission finds Russia’s systematic use of short-range drones to intentionally target civilians and critical infrastructure in Kherson, Mykolaiv and Dnipropetrovsk constitutes war crimes and crimes against humanity, including forcible population transfer. Based on 200+ interviews and 500+ videos, the report documents over 200 civilian deaths and 2,000 injuries, repeated strikes on homes, gathering points, ambulances and fire crews. Survivors describe drones as silent executioners designed to terrorise and drive residents beyond the Dnipro frontline.",
-      "summaryTokens": 804,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "A UN inquiry finds Russia’s small, short-range drones systematically targeted civilians and civilian objects in Kherson, Mykolaiv and Dnipropetrovsk—killing over 200 and wounding 2,000 in the past year. Under centralized command, operators struck homes, gathering points, humanitarian distribution sites, critical infrastructure and even ambulances and fire brigades, often repeatedly. The report labels these acts murder, war crimes and crimes against humanity (forcible transfer) intended to terrorize or expel residents near the frontline. Russia denied civilian targeting, refused to cooperate with investigators and blocked examination of alleged Ukrainian strikes in occupied zones.",
+      "summaryTokens": 632,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/netherlands-polls-geert-wilders-faces-political-isolation",
@@ -155,9 +1001,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T11:28:42Z",
       "trailText": "With other parties refusing to govern with the far-right leader, months of political deadlock may lie ahead",
-      "summary": "On Oct 28, Dutch voters return to polls after far-right PVV’s shock 2023 win. Polls show Geert Wilders’ Freedom party may again top the vote but faces political isolation: all major parties, angered by his 10-point refugee crackdown, have ruled out coalition talks. Under proportional rules, topping the ballot won’t guarantee power; centre-right CDA (projected 22 seats), liberal D66 (23) and centre-left GreenLeft–Labour are poised to stitch a majority. With migration dominating but housing shortages and healthcare urgent, coalition talks could drag on for months, testing the resilience of Dutch multiparty democracy.",
-      "summaryTokens": 563,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Netherlands votes again after Geert Wilders’ PVV triggered last year’s collapse over a hardline refugee crackdown. Polls forecast PVV may top ballots but all major parties, repelled by Wilders’ anti-immigrant platform and past government chaos, refuse to join him, effectively isolating him from power. Centre-right CDA and liberal-progressive D66 are surging, pledging “responsible” government, while centre-left GL/PvdA also improves. With 16 parties vying for seats and chronic housing and healthcare crises top voter concerns, analysts expect protracted coalition talks likely to produce a broad-based administration excluding the PVV.",
+      "summaryTokens": 944,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/donald-trump-sanae-takaichi-japan-prime-minister-rare-earths-agreement",
@@ -167,9 +1013,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T10:28:08Z",
       "trailText": "Sanae Takaichi says she will nominate Trump for peace prize as two leaders sign agreement on rare earths",
-      "summary": "During Donald Trump’s Japan visit, PM Sanae Takaichi—Japan’s first female prime minister—pledged a “golden age” in US-Japan ties and signed a rare-earth mining and processing framework to counter China’s export curbs. The accord aims to secure critical minerals through joint investment while both sides expand trade in soybeans, vehicles and military hardware. An Abe protégé, Takaichi nominated Trump for a Nobel Peace Prize, praised his ceasefire achievements and vowed to bolster Japan’s defense. The leaders also vowed US support for North Korean–abducted Japanese returning home.",
-      "summaryTokens": 942,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Japan’s new PM Sanae Takaichi vowed a “golden age” in US ties and stronger defence as Donald Trump opened his Asia tour in Tokyo. They signed a rare earths supply framework to counter China’s export curbs and pledged joint investment in critical minerals resilience. Takaichi, Japan’s first female premier and Abe protégé, offered to nominate Trump for a Nobel peace prize. They exchanged personal gifts honoring Shinzo Abe, discussed trade concessions, North Korean abductees and expanded US arms purchases. Both hailed the US–Japan alliance as key to regional security and prosperity.",
+      "summaryTokens": 809,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/elizabeth-warren-urges-us-regulators-to-investigate-jes-staley-ties-to-epstein",
@@ -179,9 +1025,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T07:00:22Z",
       "trailText": "Exclusive: Senator asks watchdogs to look at whether US bankers, including ex-Barclays boss, aided late sex offender",
-      "summary": "Senator Elizabeth Warren has urged the Federal Reserve, OCC and FDIC to investigate current and former US banking executives—especially ex-Barclays boss Jes Staley—over their alleged support of Jeffrey Epstein. In a letter seen by the Guardian, Warren cites reports that Staley, during his tenure at JPMorgan in the early 2000s, protected Epstein’s access to the banking system—processing over $1 billion through 134 accounts—and tipped him off about transaction scrutiny. Already banned in the UK for misleading regulators, Staley could face US fines or a banking-sector ban. Warren demands public confirmation of a probe by 7 November and private notice on Staley by 14 November.",
-      "summaryTokens": 774,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Senator Elizabeth Warren has urged the Federal Reserve, OCC and FDIC to probe current and former US banking executives, notably ex-JP Morgan chief Jes Staley, for allegedly facilitating Jeffrey Epstein’s illicit conduct. In a private letter, Warren cites media reports and court evidence that Staley protected Epstein’s access to the banking system, tipped him off to internal concerns and oversaw at least 134 accounts and $1bn in transactions. Already banned from the UK sector in 2023, Staley could face US fines and industry bans. Warren demands public investigation announcements by Nov 7 and private confirmation by Nov 14, also calling for probes of other executives tied to Epstein.",
+      "summaryTokens": 1852,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/tuesday-briefing-what-does-the-accidental-release-of-an-inmate-tell-us-about-the-state-of-the-prison-system",
@@ -191,9 +1037,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T06:27:16Z",
       "trailText": "In today’s newsletter: Rising numbers of prisoners released by accident are laying bare systemic failings in England and Wales, from overworked staff to issues with probation",
-      "summary": "In October 2025, Hadush Kebatu, a sexual assault prisoner due for deportation, was mistakenly freed from HMP Chelmsford, underscoring deep Prison Service failings. Human error—a misflagging for release—occurred amid chronic staff shortages, rising prison churn and record mistaken releases (262 in 2024–25). Experienced officers have departed, leaving inexperienced staff overburdened. An interim five-page release checklist and an inquiry chaired by ex-Met deputy Lynne Owens aim to prevent repeats. Experts warn that without more funding and systemic reform, such ‘slow-motion collapse’ will continue.",
-      "summaryTokens": 766,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "The mistaken release of Hadush Kebatu, a sexual assault prisoner due for deportation, from HMP Chelmsford after officers misflagged him for standard release has laid bare systemic breakdowns in England and Wales’ Prison Service. With 262 inmates inadvertently freed in 2024–25—more than double the previous year—experts cite chronic understaffing, soaring staff turnover (12.5% annual exits), overcrowding and underfunding across prisons, probation (30% officer vacancies) and courts. A five-page release checklist and an inquiry chaired by former deputy commissioner Lynne Owens are under way, but researchers warn that without boosting resources and rebuilding expertise, these “slow-motion collapse” failures will continue.",
+      "summaryTokens": 590,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/spain-deadly-floods-valencia-one-year-after-survivors-carlos-mazon",
@@ -203,9 +1049,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T05:00:21Z",
       "trailText": "Survivors in Valencia call for consequences, particularly for regional president, after country’s worst natural disaster this century",
-      "summary": "Valencia’s deadly October 2024 floods, which claimed 229 lives and destroyed tens of thousands of homes, remain raw one year on. Survivors, mobilised by volunteers like Rut Moyano, blame regional president Carlos Mazón for a four-hour lunch during the crisis and a delayed emergency alert, plastering streets with “Mud on our hands; blood on his” stickers. Tens of thousands protested, demanding his resignation. The catastrophe exposed Spain’s climate vulnerability and political divides: the PP defends Mazón, PSOE unveils a 10-point green plan, and Vox attacks “leftwing” policies. Locals press for judicial accountability, stronger emergency planning and climate-aware reconstruction.",
-      "summaryTokens": 579,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "One year on from 29 October 2024’s unprecedented flash floods in Valencia—which killed 229 people, wrecked 60,000 homes, 105,000 cars and 10,000 shops—survivors remain enraged at regional president Carlos Mazón. Critics note he dined for four hours as waters rose and only issued a mobile alert at 8.11 pm, after most victims had perished. More than 50,000 protested this month demanding his resignation. The disaster has exposed Spain’s climate vulnerability, politicised emergency planning and sparked calls for green urban reforms, judicial inquiries and long-term flood resilience.",
+      "summaryTokens": 503,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/cemetery-cafes-trend-berlin-germany",
@@ -215,9 +1061,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T05:00:19Z",
       "trailText": "While cemeteries in the German capital have long been rooted in communities, some cafe owners have gone one step further",
-      "summary": "In Berlin’s human-scale kiez cemeteries, a dozen cafés—Lisbeth’s cherry-blossom garden by Sophien, Boßmann’s Finovo in Schöneberg, Friedberg in Kreuzberg, 21 Gramm in Neukölln and Mars in a repurposed Wedding crematorium—offer peaceful, life-affirming social hubs amid headstones. Sparked by Finovo’s 2006 founding during the AIDS crisis, these venues repurpose disused chapels, address maintenance funding gaps as cremations rise, and reflect shifting death rituals. Patrons—from mourners to gentrifying creatives and international expats—value the lush greenery, gentle ambience and mindful balance of everyday life and mortality.",
-      "summaryTokens": 700,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "Berlin’s dozen cemetery cafés have transformed historic, community-rooted burial grounds into tranquil coffee retreats. Boßmann opened Germany’s first Finovo in 2006 amid the AIDS crisis at Old St Matthäus cemetery; others, like Lisbeth in Sophien run by Chiara de Martin Topranin, balance reverence for grieving visitors with casual brunch crowds. As cremation rises and grounds face upkeep shortfalls, repurposed chapels and former crematoria—from Kreuzberg’s Cafe Friedberg and Neukölln’s 21 Gramm to Wedding’s Mars—offer green oases where life, empathy and ritual intersect.",
+      "summaryTokens": 998,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/ukraine-war-briefing-russian-drones-hunt-civilians-in-against-humanity-un-inquiry-finds",
@@ -227,9 +1073,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T02:53:27Z",
       "trailText": "Ukraine strengthens Pokrovsk positions amid infiltration by estimated 200 Russian troops; Lukoil selling overseas assets after US sanctions. What we know on day 1,343",
-      "summary": "A UN inquiry finds Russia employed reconnaissance drones to chase and bomb civilians in southern Ukraine, forcing mass displacement—a coordinated crime against humanity. Report based on interviews and videos documents attacks across the Dnipro. Ukraine bolsters Pokrovsk defenses against ~200 infiltrators; US sanctions prompt Lukoil to sell overseas assets. Norway monitors possible radiation from Russia’s new nuclear-powered cruise missile test. Kenya seeks repatriation of nationals recruited to fight for Russia; North Korea affirms support, reportedly sending troops and arms.",
-      "summaryTokens": 930,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "The UN’s independent inquiry finds Russia is deploying camera-equipped drones to chase and bomb civilians near Ukraine’s southern frontline, forcing mass displacement in what it classifies as a crime against humanity of forcible transfer, based on 226 interviews and video evidence. Meanwhile, Ukraine fortifies Pokrovsk amid small-scale Russian infiltration, with ISW assessing tactical Russian gains but no imminent collapse. Lukoil begins selling overseas assets under US sanctions on Russian oil giants. Norway monitors for radiation after Russia’s test of the nuclear-powered Burevestnik missile. Kenya seeks repatriation of nationals lured to fight for Russia, and North Korea reaffirms military backing to Putin.",
+      "summaryTokens": 703,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/28/surfboard-lost-off-australia-drifts-2400km-to-wash-up-in-new-zealand",
@@ -239,9 +1085,9 @@
       "section": "world",
       "publishedDate": "2025-10-28T01:04:34Z",
       "trailText": "Board was found covered in barnacles and mussels in Raglan, nearly 18 months after it was lost during a boat trip near Tasmania",
-      "summary": "French surfer Alvaro Bon discovered on 15 October at Raglan a surfboard encrusted with barnacles and mussels that had drifted 2,400 km from Tasmania after being lost during a boat trip in May 2024. Handmade for big waves, it still carried its bag and rope, suggesting recent detachment from biofouling. Bon posted photos in global surf groups and traced the board to owner Liam. Scientists say it likely crossed the Tasman via the East Australian Current or the Antarctic Circumpolar Current. Bon has now flown it home.",
-      "summaryTokens": 489,
-      "generatedAt": "2025-10-28T20:46:58.915Z"
+      "summary": "French surfer Alvaro Bon discovered a barnacle-coated, custom-shaped surfboard in Raglan, NZ, on 15 October after drifting from a kite surfing mishap. The board, yellowed but intact with wax, was covered in mussels, hinting at a long ocean journey. Bon posted photos in global surfing groups; within hours he identified the owner, Liam, who lost it off Tasmania’s coast on 10 May 2024. Experts suggest the East Australian or Antarctic Circumpolar currents carried it 2,400 km. Returned by air to its grateful owner, the board’s odyssey underscores oceanic connectivity.",
+      "summaryTokens": 886,
+      "generatedAt": "2025-11-02T00:49:21.760Z"
     },
     {
       "id": "world/2025/oct/27/jamaicans-take-shelter-as-hurricane-melissa-bears-down-as-category-5-storm",
@@ -7007,7 +7853,7 @@
       "section": "world",
       "publishedDate": "2025-09-29T20:38:12Z",
       "trailText": "Pair say proposal represents new chapter but Israeli PM threatens to ‘finish the job’ if Hamas officials fail to agree",
-      "summary": "At a White House summit on 29 September, Donald Trump and Benjamin Netanyahu unveiled a 20-point Gaza peace blueprint, demanding Hamas accept ceasefire, hostages-for-prisoners swap, staged Israeli withdrawal, disarmament and a transitional international administration—else Israel will ‘finish the job’ of destroying Hamas with full U.S. backing. The plan, drafted without Hamas input and brokered via Qatari and Egyptian mediators, offers amnesty or safe passage to compliant militants, installs a Trump-led ‘Board of Peace’ with Tony Blair, and promises Gaza reconstruction if terms are met.",
+      "summary": "At a White House summit on 29 September, Donald Trump and Benjamin Netanyahu unveiled a 20-point Gaza peace blueprint, demanding Hamas accept ceasefire, hostages-for-prisoners swap, staged Israeli withdrawal, disarmament and a transitional international administration—else Israel will ‘finish the job��� of destroying Hamas with full U.S. backing. The plan, drafted without Hamas input and brokered via Qatari and Egyptian mediators, offers amnesty or safe passage to compliant militants, installs a Trump-led ‘Board of Peace’ with Tony Blair, and promises Gaza reconstruction if terms are met.",
       "summaryTokens": 356,
       "generatedAt": "2025-10-28T20:46:58.916Z"
     },
