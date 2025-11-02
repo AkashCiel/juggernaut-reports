@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-02T00:28:16.838Z",
+    "generated_at": "2025-11-02T14:04:35.774Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-02"
     },
-    "article_count": 944,
+    "article_count": 948,
     "merge_info": {
-      "previous_count": 853,
-      "new_articles": 91,
-      "updated_articles": 16,
-      "total_count": 944
+      "previous_count": 944,
+      "new_articles": 4,
+      "updated_articles": 35,
+      "total_count": 948
     },
     "batch_info": {
-      "initial_batch_id": "batch_6906a22db67c81909d9efdd5e22a123e",
+      "initial_batch_id": "batch_6907640f696c8190b4cbb783a929bf7f",
       "retry_batches": [],
-      "total_tokens": 241386,
-      "processing_time_hours": 0.2
+      "total_tokens": 89970,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/nov/02/trump-economic-agenda-republican-heartland-tariffs",
+      "title": "Trump policies spur economic anxiety in US Republican heartland: ‘Tariffs are affecting everything’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/02/trump-economic-agenda-republican-heartland-tariffs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/02/trump-economic-agenda-republican-heartland-tariffs",
+      "section": "us-news",
+      "publishedDate": "2025-11-02T13:00:04Z",
+      "trailText": "Rural US towns reel as policies like tariffs cause global manufacturing companies to reconsider major investment projects",
+      "summary": "Rural Republican strongholds from Jeffersonville, Ohio, to Georgetown, Kentucky, are eyeing billions in EV battery and auto investments—LG-Honda’s $3.5 bn plant promises 2,200 jobs—but Trump-era tariffs, the end of EV tax credits and ICE raids (300 South Korean workers detained) have slowed construction, prompted pausing of future projects (Toyota’s $9.5 bn tariff hit, Stellantis layoffs, Roche rethinking $50 bn), and dented rural Trump approval from 59% to 47%, stoking economic anxiety.",
+      "summaryTokens": 483,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
+    },
+    {
+      "id": "us-news/2025/nov/02/trump-cost-ballroom-government-shutdown",
+      "title": "The luxury gap: Trump builds his palace as Americans face going hungry",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/02/trump-cost-ballroom-government-shutdown",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/02/trump-cost-ballroom-government-shutdown",
+      "section": "us-news",
+      "publishedDate": "2025-11-02T10:00:03Z",
+      "trailText": "Schmoozing the super-rich to fund a $300m ballroom while cutting food aid for those on low incomes threw the president’s architectural folly into sharp relief",
+      "summary": "Donald Trump hosted a $300m White House ballroom fundraiser with a lavish gold-themed dinner for 130 corporate and GOP mega-donors, even as a two-week government shutdown threatens SNAP benefits for 42m Americans. Critics call the project a modern Versailles display that enriches Trump and allies—he’s profited $1.8bn via crypto and emoluments—while low-income families face hunger. Dems accuse Republicans of “weaponising hunger,” warning essential services and ACA enrollment hinge on ending the stalemate. Polls show 56% oppose the ballroom and blame Trump for the shutdown.",
+      "summaryTokens": 992,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
+    },
+    {
+      "id": "us-news/2025/nov/02/marjorie-taylor-greene-real-time-bill-maher",
+      "title": "Marjorie Taylor Greene tells Bill Maher she believes extraterrestrials are demons",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/02/marjorie-taylor-greene-real-time-bill-maher",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/02/marjorie-taylor-greene-real-time-bill-maher",
+      "section": "us-news",
+      "publishedDate": "2025-11-02T09:00:01Z",
+      "trailText": "Georgia Republican lawmaker also claims she didn’t know Rothschild family, of her ‘space laser’ theory, was Jewish",
+      "summary": "On HBO’s Real Time With Bill Maher, Rep. Marjorie Taylor Greene (R-GA) said she believes demons could be fallen angels or extraterrestrials, and admitted she hadn’t realized the Rothschilds in her 2018 ‘space laser’ wildfire conspiracy were Jewish. In a segment on the military’s UFO research prompted by the documentary The Age of Disclosure, podcast host Michael Moynihan openly dissented. Her appearance also underscored recent breaks with her party on healthcare, Gaza, the federal shutdown and handling of Jeffrey Epstein documents.",
+      "summaryTokens": 991,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
+    },
+    {
+      "id": "us-news/2025/nov/02/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: president threatens military action in Nigeria over alleged killings of Christians ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/02/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/02/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2025-11-02T02:11:22Z",
+      "trailText": "President says he has instructed the newly named department of war to “prepare for possible action” in the West African country.",
+      "summary": "On Nov. 2, President Trump, championing his America First doctrine, publicly warned he’s told the newly designated Department of War to “prepare for possible action” in Nigeria, vowing to cut all aid and “go in guns-a-blazing” to “wipe out Islamic terrorists” accused of killing Christians. He also labeled Nigeria a “country of particular concern,” triggering pushback from President Tinubu. The threat, posted on social media, underscores Trump’s hardline, faith-infused foreign policy and raises stakes for US-Nigeria diplomatic ties.",
+      "summaryTokens": 1179,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
+    },
     {
       "id": "us-news/2025/nov/01/barack-obama-democratic-party",
       "title": "As Barack Obama stumps for other Democrats, the party gets to see what it lost",
@@ -29,9 +77,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-02T00:07:19Z",
       "trailText": "The wit and wisdom of the superstar ex-US president make him the best candidate – too bad he can’t run",
-      "summary": "At a Norfolk rally for Democrat Abigail Spanberger, former president Barack Obama re-emerged as a combative campaigner, delivering a scathing alternative State of the Union. Since Trump’s 2024 victory, Obama has broken post-presidency norms with 25 public engagements, tackling issues from USAID to redistricting while skewering Trump’s lawlessness: politicized justice, ICE raids, anti-science health policies and lavish spending with sharp humor. Acknowledging voters’ economic frustrations under inflation and housing costs, he contrasted their plight with Trump’s gains and GOP scapegoating of minorities. His performance highlighted Democrats’ longing for his charisma and exposed a leadership void ahead of 2028.",
-      "summaryTokens": 2226,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Former president Barack Obama has reemerged as a leading Democratic pitchman, mounting 25 public appearances in six months to stump for gubernatorial candidates in New Jersey and Virginia. In Norfolk he delivered an alternative State of the Union, skewering Donald Trump’s “lawlessness”—from Justice Department politicization, unmarked ICE arrests and National Guard deployments, to quack health policies and lavish White House spending—while blending humor with pointed critique. Republicans lack a comparable orator; Democrats now long for Obama’s charisma even as he remains ineligible for 2028.",
+      "summaryTokens": 600,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/obama-virginia-abigail-spanberger",
@@ -41,9 +89,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T22:14:55Z",
       "trailText": "Former US president headlines event for Democratic candidate for Virginia governor, who leads in polls",
-      "summary": "Former President Barack Obama headlined a Norfolk rally on Nov. 1 to boost Democratic governor candidate Abigail Spanberger, who leads Republican Lt. Gov. Winsome Earle-Sears by 14 points. He skewered Trump’s spending on Rose Garden renovations, gold-plating the Oval Office, ICE raids and National Guard deployments, and touted Spanberger’s bipartisan record and plans to cut housing, healthcare and energy costs. Obama then campaigned in Newark for Rep. Mikie Sherrill—criticizing GOP crime rhetoric—and offered support to NYC mayoral frontrunner Zohran Mamdani. Nov. 4 off-year elections seen as bellwether for Trumpism.",
-      "summaryTokens": 699,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Former president Barack Obama headlined a Nov. 1 rally in Norfolk, Virginia, to boost Democratic gubernatorial front-runner Abigail Spanberger, who leads Republican Winsome Earle-Sears by 14 points in an Oct. 17–28 YouGov poll. He humorously criticized President Trump’s spending on the Rose Garden and Oval Office, attacked GOP healthcare and energy policies, and condemned immigration raids. Obama also campaigned for NJ Rep. Mikie Sherrill and offered support to NYC mayoral frontrunner Zohran Mamdani. He urged voters to elect the bipartisan, ex-CIA analyst Spanberger to reverse harmful federal cuts and restore economic stability.",
+      "summaryTokens": 1075,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/jd-vance-usha-christianity",
@@ -53,9 +101,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T18:01:53Z",
       "trailText": "US vice-president announces to 10,000 attenders of Turning Point USA that he prefers wife, who is Hindu, to be Christian",
-      "summary": "At a Turning Point USA event in Mississippi, US Vice President JD Vance reiterated his hope that his Hindu wife, Usha, will convert to Christianity, noting their children attend Christian school and their eight-year-old recently made first communion. Vance, a former Ohio senator baptized Catholic in 2019, said he aligns with Catholic social teaching but respects her free will. Usha maintains her Hindu faith and provides their children access to Hindu traditions. The Hindu American Foundation criticized him for dismissing her religion. Vance later condemned social media claims of anti-Christian bigotry while affirming his right to share his faith.",
-      "summaryTokens": 613,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "At a Turning Point USA rally in Jackson, Mississippi, VP JD Vance reiterated he hopes his Hindu wife, Usha, will one day convert to Christianity, even as she publicly affirms her faith and they agree to raise their two children in the Catholic tradition. Vance, baptized in 2019, praised Catholic social teaching, noted his kids’ school and recent communion, and invoked free will. The Hindu American Foundation criticized his remarks, and he labeled far-right groyper criticism “anti-Christian bigotry.”",
+      "summaryTokens": 467,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/new-jersey-governors-race",
@@ -65,9 +113,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T17:00:39Z",
       "trailText": "Race between Democrat Mikie Sherrill and Republican Jack Ciattarelli is drawing attention as preview of 2026 midterms",
-      "summary": "Democrat Mikie Sherrill, a former navy pilot and prosecutor, faces Republican Jack Ciattarelli, Trump-endorsed ex-lawmaker, in New Jersey’s off-year governor’s race seen as a 2026 midterm bellwether. Early voting shows single-digit margins. Both campaigns stress local issues—cost of living, taxes, healthcare—while tying opponents to Murphy or Trump. National figures from Obama to Ramaswamy have campaigned. Millions in ad spending underscore high stakes. Republicans’ recent inroads and New Jersey’s history of party flips amplify the contest. Voter turnout and unaffiliated votes could decide whether Trumpism prevails or moderates rally behind Democrats, shaping narratives for 2026.",
-      "summaryTokens": 894,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Democrat Mikie Sherrill, former Navy pilot and federal prosecutor representing NJ’s 11th District, faces Republican Jack Ciattarelli, businessman and ex-lawmaker on his third gubernatorial bid with Trump’s endorsement. This off-year contest, with early voting underway, is viewed as a 2026 midterm bellwether and gauge of Trump’s strength. New Jersey, which flips parties in governor’s races and hasn’t seen three straight terms by one party since 1961, saw narrow GOP gains in 2021 and tighter 2024 margins. Recent polls show Sherrill ahead by single digits. They spar over cost of living, taxes, healthcare and immigration as national endorsements pour in. Voter turnout is expected to decide this closely watched race.",
+      "summaryTokens": 1030,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/california-election-voting-shasta",
@@ -77,9 +125,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T16:00:38Z",
       "trailText": "Clint Curtis is overseeing a 4 November ballot that could add five Democratic seats and reshape US politics",
-      "summary": "In rural Shasta County, CA, board-appointed election skeptic Clint Curtis—who once claimed voting machines are hackable—oversees the Nov. 4 special vote on suspending California’s independent redistricting commission to let the legislature redraw congressional maps and potentially add five Democratic seats. Curtis has livestreamed ballot processing, reduced drop boxes, hired local election deniers, and barred a nonpartisan outlet from press releases, despite no state approval. His untested reforms have provoked censure threats from the board and widespread community mistrust.",
-      "summaryTokens": 852,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Shasta County appointed election skeptic Clint Curtis to administer its 4 Nov special vote on redistricting, a measure to suspend California’s independent commission and let the Democratic legislature redraw districts to add five U.S. House seats. Curtis—an out-of-area lawyer with ties to Trump allies, appearances on Flynn and Bannon shows, and no elections experience—installed cameras, cut drop boxes, hired activists who once sued or accused the office of fraud, and barred a local news outlet from press releases. He promotes livestreams as transparency, yet state officials say his hand-count advocacy and unapproved changes risk undermining integrity and trust.",
+      "summaryTokens": 1127,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/missing-louisiana-girl-found-in-box-pennsylvania",
@@ -89,9 +137,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T15:49:09Z",
       "trailText": "Police say Ki-Shawn Crumity, 26, met girl through Snapchat, and charged him with human trafficking and sexual assault",
-      "summary": "A 13-year-old Louisiana girl vanished Oct. 20 after meeting 26-year-old Ki-Shawn Crumity on Snapchat. Pittsburgh police, aided by federal agents, discovered her alive in a sheet-covered box in Crumity’s Brighton Park basement on Oct. 30, with evidence she’d been repeatedly sexually assaulted and given cannabis edibles. Crumity faces human trafficking, sexual assault, unlawful contact with a minor and corruption of a child charges and was denied bail. Two other suspects—Ronald Smith and Alvin Hanson—allegedly drove her north; investigators expect further arrests.",
-      "summaryTokens": 996,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "A 13-year-old Baker, Louisiana girl vanished after connecting with 26-year-old Ki-Shawn Crumity on Snapchat and was found alive in a sheet-covered box in his Pittsburgh basement following a multistate investigation. Authorities recovered evidence of repeated sexual assault and cannabis edibles; Crumity faces human trafficking, sexual assault, unlawful contact with a minor and corruption of a child charges and was denied bail. Two other suspects—62-year-old Ronald Smith in Georgia and 64-year-old Alvin Hanson in Louisiana—are charged with kidnapping and contributing to juvenile delinquency after allegedly transporting her north. Officials anticipate more arrests.",
+      "summaryTokens": 559,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/trump-immigration-chicago-los-angeles-halloween",
@@ -101,9 +149,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T15:11:16Z",
       "trailText": "In Chicago suburb, protesters confront ICE agents, whom Evanston mayor says ‘assaulted’ residents",
-      "summary": "On Halloween night, ICE agents backed by military troops conducted raids in Chicago, its suburbs and Los Angeles, arresting immigrants and detaining protesters. In Evanston, footage shows ICE officers pinning residents near local schools, prompting Mayor Daniel Biss to accuse agents of “assault.” In LA, agents donned costume masks—one like horror character Chucky—drawing criticism amid a “Happy Halloween!” retort from DHS. Illinois Gov. J.B. Pritzker’s plea to pause enforcement over the holiday was rejected by Secretary Kristi Noem. These operations follow months of Trump’s national guard deployments to Democratic cities, including recent Navy Yard actions with arrests of teenagers deemed “disorderly.”",
-      "summaryTokens": 510,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "On Halloween night, ICE agents carried out Trump’s immigration raids in Chicago—backed by National Guard troops—and Los Angeles. In Evanston, video shows officers pinning residents after a car struck an ICE vehicle; Mayor Daniel Biss decried the ‘assault’ of locals. In LA, agents patrolled wearing horror-themed masks, drawing a ‘Happy Halloween!’ response from DHS. Illinois Governor J.B. Pritzker’s plea to pause weekend enforcement was rebuffed by Homeland Security Secretary Kristi Noem. These operations follow months of guard deployments in Democratic cities and related youth arrests in DC.",
+      "summaryTokens": 551,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/daca-texas-ruling-immigration",
@@ -113,9 +161,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T14:00:36Z",
       "trailText": "People brought to US as children have built lives and are raising families – but could lose their ability to work legally",
-      "summary": "A Texas federal judge, Andrew Hanen, will soon decide whether to strip the state’s 86,000 active DACA recipients of work authorization under a Trump administration proposal that blocks renewals and new applications in Texas while leaving other states untouched. Created in 2012, DACA shields over 500,000 people brought to the US as children from deportation and grants two-year work permits; participants must have arrived before 2007, attended school or joined the military, and pass background checks. Critics warn revocation would devastate careers, families and Texas’s economy—97% of its Dreamers are employed—and the program’s fate hinges on Hanen’s imminent ruling amid years of legal standoffs.",
-      "summaryTokens": 699,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "DACA recipients in Texas—86,000 of the nation’s 500,000+ enrollees—face revocation of deportation protections and work permits as US District Judge Andrew Hanen weighs Trump administration and GOP states’ proposals, including reopening DACA to new applicants nationwide but excluding Texas. Created in 2012, DACA allows Dreamers (avg age 31) who arrived as children to study, work and pay $830m in state taxes annually with 97% employed. If approved, Texas recipients lose permits, risking job loss, relocation or underground status; advocates warn economic harm and urge permanent Dream Act legislation.",
+      "summaryTokens": 1577,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/florida-death-penalty-ron-desantis",
@@ -125,9 +173,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T12:00:34Z",
       "trailText": "The state has killed 15 people this year with two more scheduled this month as death penalty in decline across US",
-      "summary": "Florida’s governor Ron DeSantis has presided over 15 lethal injections this year—more than any other state—shattering the previous record of eight executions since 1976, with two more scheduled before November’s end. Critics attribute this surge to DeSantis’s political ambitions, noting Florida’s executions now represent nearly 40 percent of the US total. Opponents decry the secrecy around his decisions, the strain on defense teams, and the mental toll on families. They highlight five veterans among the executed, changes to jury-unanimity rules in 2023, and Florida’s high number of death‐row exonerations as evidence against accelerating capital punishment.",
-      "summaryTokens": 1013,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Florida has executed 15 people so far in 2025 under Gov. Ron DeSantis, shattering its previous annual record of eight and with two more executions scheduled by month’s end. Death penalty critics accuse the lame-duck Republican of wielding lethal injections for political gain ahead of a prospective 2028 bid, noting Florida accounts for nearly 40% of the US’s 41 executions this year. Strained defense teams, five veteran victims and a 2023 law lowering jury unanimity from 12 to eight jurors underscore rising concerns amid a declining national trend and Florida’s 30 exonerations from death row.",
+      "summaryTokens": 875,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/new-york-mayoral-race-democratic-party",
@@ -137,9 +185,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T11:00:34Z",
       "trailText": "The political differences between the two main candidates could have major implications for next year’s midterms",
-      "summary": "With Election Day imminent, NYC’s mayoral contest pits progressive Democrat Zohran Mamdani, a 34-year-old democratic socialist promising rent freezes for 2 million residents, free childcare and free buses, against former governor Andrew Cuomo, now an independent buoyed by corporate and billionaire donations. Mamdani leads by double digits, fueled by 50,000 volunteers and youthful enthusiasm, while Cuomo resorts to personal, Islamophobic attacks and AI-generated racist ads. The outcome could force national Democrats to choose between embracing bold progressive policies or sticking with a centrist, risk-averse strategy.",
-      "summaryTokens": 675,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "New York’s looming mayoral contest pits progressive democratic socialist Zohran Mamdani—whose grassroots campaign on rent freezes, free childcare and transit, and viral videos has propelled him to a double-digit lead—against former governor Andrew Cuomo, now an independent buoyed by ultra-wealthy donors. Their bitter face-off—marked by alleged Islamophobia, racist stereotyping, an AI-generated ad scandal and 9/11 taunts—could reshape the Democratic Party’s midterm strategy: a young, activist-driven agenda or a centrist, establishment playbook. With Trump threatening troop deployment, a Mamdani win could push national Democrats left on affordability, while a Cuomo upset would entrench cautious centrism.",
+      "summaryTokens": 2454,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/food-banks-stock-resources-snap-lapse",
@@ -149,9 +197,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T11:00:33Z",
       "trailText": "Food insecurity for millions of Americans is set to spike, with Trump officials saying Snap benefits will cease as the government shutdown enters its second month",
-      "summary": "As the federal shutdown enters its second month, the Trump administration abruptly halted Supplemental Nutrition Assistance Program (SNAP) benefits beginning November 1, risking food security for 42 million Americans. Food banks—from LA’s Community Space to New York City’s Food Bank for NYC and Second Harvest Heartland—are racing to stock dry, refrigerated and frozen goods, but remain dwarfed by SNAP’s reach. Federal judges temporarily blocked the cutoff, yet the administration may appeal. New York and Minnesota have tapped $65 million and $4 million in emergency funds to mitigate the gap, even as furloughed federal workers and low-income families brace for an unprecedented shortfall.",
-      "summaryTokens": 2231,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "SNAP food aid for 42m Americans is poised to lapse Nov 1—the first funding cutoff in its 50-year history—amid a prolonged US shutdown. Food banks from LA’s Community Space to New York’s Food Bank for NYC and Second Harvest Heartland in Minnesota are scrambling to stock dry goods, refrigerated produce and frozen meats but lack capacity to replace SNAP’s millions of monthly meals. Unpaid federal workers and low-income families face heightened hunger. States like New York and Minnesota have diverted emergency funds, yet hunger relief networks warn of unsustainable strain and partisan threats to SNAP.",
+      "summaryTokens": 1893,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/nov/01/teamsters-union-leadership-trump",
@@ -161,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T10:00:34Z",
       "trailText": "Richard Hooker Jr is running to replace Trump ally Sean O’Brien as president of the Teamsters International union",
-      "summary": "Richard Hooker Jr., secretary-treasurer of Teamsters Local 623, is mounting a bid to unseat Sean O’Brien as president of the 1.3 million-member union, accusing O’Brien of betraying workers by privately meeting with Donald Trump and praising him at the 2024 GOP convention. Hooker condemns cuts in the 2023 UPS contract, allegations of intimidation against critics, and the union’s decision to withhold its first presidential endorsement since 2000. He pledges to reaffiliate with the AFL-CIO and restore labor protections if elected in November 2026.",
-      "summaryTokens": 484,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Richard Hooker Jr., secretary-treasurer of Teamsters Local 623, is challenging incumbent International president Sean O’Brien—who reversed earlier criticism to ally with Donald Trump, spoke at the 2024 RNC and shifted union donations toward Republicans—for the November 2026 election. Hooker accuses O’Brien of betraying 1.3 million members by embracing the employer and billionaire class, undermining pensions, healthcare and worker protections. As the first Black Local 623 leader, Hooker aims to reaffiliate the union with the AFL-CIO, restore Democratic endorsements and is gathering signatures amid reports of intimidation and racist harassment.",
+      "summaryTokens": 937,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/trump-administration-news-updates-today",
@@ -173,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-01T01:01:09Z",
       "trailText": "President Trump received a trio of legal setbacks Friday– key US politics stories from 31 October at a glance",
-      "summary": "President Trump suffered three legal setbacks on Oct 31: federal judges in Rhode Island and Massachusetts ordered continuation of SNAP food stamps via contingency funds, and a DC court struck down his proof-of-citizenship voter registration directive as unconstitutional. Meanwhile DOJ demanded 2020 election records from Fulton County, Georgia. In other news, Harrison Ford decried Trump’s climate stance, Stephen Miller expanded anti-immigration measures at State, Homeland Sec Kristi Noem refused to pause Illinois raids, Trump urged abolishing the Senate filibuster, polls showed majority opposition to his East Wing project, and a new book alleges Miller orchestrated an FBI purge.",
-      "summaryTokens": 1577,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "On October 31, three federal judges dealt legal blows to the Trump administration: Rhode Island and Massachusetts courts ordered continuation of SNAP food stamps via contingency funds, blocking benefit cuts; a DC judge struck down Trump’s proof-of-citizenship voter registration mandate as unconstitutional. Meanwhile, the DOJ sought 2020 election records in Fulton County, Harrison Ford criticized Trump’s climate inaction, immigration czar Stephen Miller tightened visa and refugee rules, and debates swirled over Halloween immigration raids in Illinois, a filibuster repeal, and public backlash to destruction of the White House East Wing.",
+      "summaryTokens": 1251,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/judge-blocks-trump-snap-suspension",
@@ -185,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T23:08:36Z",
       "trailText": "One judge issued temporary restraining order while another judge ruled the government must continue to fund program that helps low-income households",
-      "summary": "Two federal judges in Rhode Island and Massachusetts issued back-to-back rulings preventing the Trump administration from suspending SNAP benefits at Nov 1 amid the partial government shutdown. Plaintiffs—US cities, nonprofits, a union, plus 22 Democratic attorneys general, DC and three governors—argued USDA can tap $5.25 bn in contingency and $23 bn in reserve funds to maintain assistance for nearly 42 million low-income Americans. Trump has appealed, contesting authority to spend without new legislation and warning of administrative hurdles, while states mobilize emergency funding and food banks brace for surging demand.",
-      "summaryTokens": 996,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Two federal judges in Rhode Island (Judge McConnell) and Massachusetts (Judge Talwani) issued back-to-back rulings blocking the Trump administration’s planned suspension of SNAP benefits amid the government shutdown. They ordered USDA to tap $5.25 billion contingency funds (and potentially $23 billion reserves) to sustain November food stamp payments for 42 million low-income Americans. Plaintiffs—US cities, NGOs, a union, 22 states, DC, and governors—argued the suspension was unlawful. The administration, citing lack of authority until a spending bill passes, plans appeals. Trump vowed to comply if courts clarify funding authority, while states deploy emergency aid.",
+      "summaryTokens": 503,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/maine-mother-daughter-wrongful-death-lawsuit",
@@ -197,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T21:27:10Z",
       "trailText": "Verdict delivered in favor of Lyndsey Sutherland over death of daughter ‘Jazzy’ after doctors failed to identify condition",
-      "summary": "Lyndsey Sutherland was awarded $25 m by a Maine civil jury after doctors at Mid Coast Medical Group misdiagnosed her daughter, 15-year-old Jasmine “Jazzy” Vincent, with pneumonia and gynecomastia tied to steroid use. Jazzy died of acute lymphoblastic leukemia in August 2021. The verdict—$10 m for wrongful death, $15 m for pain and suffering—far exceeds Maine’s $750 k cap and may be appealed. Plaintiff’s counsel Meryl Poulin says it underscores accountability for substandard care.",
-      "summaryTokens": 879,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "A Maine civil jury has awarded Lyndsey Sutherland $25m after her 15-year-old daughter Jasmine “Jazzy” Vincent died in 2021, misdiagnosed with pneumonia and gynecomastia before fatal acute lymphoblastic leukemia-induced cardiac arrest. The award comprises $10m for wrongful death and $15m for pain and suffering; Maine’s $750,000 statutory cap may trigger an appeal. Sutherland sued Mid Coast Medical Group for negligence; defense attorneys cited honest mistakes and shared provider responsibility, while jurors underscored accountability for misdiagnoses.",
+      "summaryTokens": 932,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/trump-georgia-2020-election-records",
@@ -209,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T21:04:03Z",
       "trailText": "Request to Fulton county underscores determination to revive president’s falsehoods about election he lost",
-      "summary": "In late October 2025, the DOJ’s civil rights division, led by Trump ally Harmeet Dhillon, formally asked Fulton County, Georgia, to hand over 2020 election files—including voter lists, chain of custody logs, ballot scans and security seal records—that a Republican-majority state board had subpoenaed. Though prior probes cleared Fulton of wrongdoing, the local board reopened its inquiry and appealed to DOJ. Critics note the 22-month retention window lapsed and Dhillon’s letter cites federal statutes without alleging specific violations. Meanwhile, the White House has hired election deniers Kurt Olsen and Heather Honey.",
-      "summaryTokens": 933,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "In late October, DOJ Civil Rights Division chief Harmeet Dhillon demanded Fulton County’s 2020 election records—voter rolls, chain-of-custody logs, ballot images, security seals and scanner paperwork—echoing subpoenas by Georgia’s GOP-led board. Despite prior exoneration, the board reopened probes and sought federal help. Citing the Civil Rights Act, NVRA and HAVA, Dhillon gave 15 days to comply, alleging ongoing transparency obstructions. Critics like law professor Justin Levitt contend the DOJ cited statutes broadly without a specific basis, calling it a fishing expedition. The request joins broader DOJ demands across 40 states and follows White House and DHS hires of 2020 election deniers.",
+      "summaryTokens": 767,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/senate-barred-northern-spotted-owls",
@@ -221,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T21:01:47Z",
       "trailText": "Northern spotted owls are being squeezed out by the westward migration of the larger barred owls",
-      "summary": "Senate rejected Louisiana GOP Sen. John Kennedy’s bid to block the US Fish and Wildlife Service’s plan to cull up to 450,000 invasive barred owls in the Pacific Northwest to protect endangered northern spotted owls, failing 25–72. The decade-old research-backed strategy tasks trained specialists to identify and shoot barred owls to reduce competition driven by westward migration and old-growth forest loss. Critics—over 80 animal welfare groups and some Republicans—denounce it as unethical and costly, while supporters—led by the logging industry and Oregon senators Merkley and Wyden—contend it’s essential. Kennedy accused Interior officials of “playing God” after Secretary Doug Burgum urged him to drop his resolution.",
-      "summaryTokens": 1996,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "On Oct. 31, the Senate voted 25–72 to reject Sen. John Kennedy’s resolution under the Congressional Review Act to block the US Fish and Wildlife Service’s plan to cull up to 450,000 invasive barred owls in Pacific Northwest old-growth forests. Barred owls—slightly larger and more adaptable than imperiled northern spotted owls—have displaced their cousin amid habitat loss. Under the controversial strategy, licensed “removal specialists” will identify and shoot barred owls, sparking an ethical debate among conservationists, animal welfare groups, some Republicans and the logging industry. Oregon’s senators back the decade-long research-based plan.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/the-times-bill-de-blasio-fake-interview",
@@ -233,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T20:58:19Z",
       "trailText": "A Times associate editor reportedly addressed situation in an email to staff, saying: ‘We should have been on our guard’",
-      "summary": "In an email to staff, The Times associate editor Ian Brunskill called the newspaper’s error in quoting a fake Bill de Blasio “humiliating,” admitting ‘serious damage’ to its reputation and linking it to a recent AI-generated fake royal household case. He urged reporters to rigorously verify sources—asking who’s speaking, why, and how to confirm identity. The Times retracted the article after the real de Blasio condemned fabricated quotes, revealing the reporter had actually interviewed a Long Island wine importer of the same name.",
-      "summaryTokens": 923,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "In an internal email, Times associate editor Ian Brunskill termed the misattributed Bill de Blasio interview ‘humiliating’, faulting reporters for failing basic source checks and warning of ‘serious damage’ to the Murdoch-owned paper. He urged staff to verify identities, question plausibility and cross-check information, citing another recent AI-generated fake royal case study. The error occurred when reporter Bevan Hurley attributed critical quotes of Zohran Mamdani to the former NYC mayor, later revealed to be Long Island wine importer Bill DeBlasio. The paper retracted the article after public outcry.",
+      "summaryTokens": 1074,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/prince-andrew-testify-congress-ro-khanna",
@@ -245,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T20:52:00Z",
       "trailText": "Ro Khanna, member of the House oversight panel, said Mountbatten Windsor should provide information",
-      "summary": "Democratic Rep. Ro Khanna urged former Prince Andrew Mountbatten Windsor to testify before the GOP-led House oversight committee probing government handling of Jeffrey Epstein’s case. Backed by UK trade minister Chris Bryant’s call for Andrew to cooperate, Khanna insists the public deserves answers on alleged abuses alongside Epstein. Lacking subpoena power, Khanna and GOP Rep. Thomas Massie introduced a bill to release Epstein files and circulated a discharge petition—signed by all 213 House Democrats and four Republicans—to force a floor vote. Speaker Mike Johnson, amid a shutdown standoff, has refused to advance it.",
-      "summaryTokens": 546,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "California Democrat Ro Khanna, a member of the House oversight committee, urged the former Prince Andrew to testify in the GOP-led inquiry into government handling of the Jeffrey Epstein case. He echoed UK trade minister Chris Bryant’s call for Andrew—stripped of royal titles—to comply with demands for information on alleged abuse with Epstein. Lacking subpoena power, Khanna and GOP Rep. Thomas Massie have filed a bill and discharge petition (213 Dems, 4 GOP) to force document release; Speaker Mike Johnson has blocked a vote amid the shutdown.",
+      "summaryTokens": 792,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/us-electricity-bills-increased-trump",
@@ -257,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T17:49:55Z",
       "trailText": "New analysis prompts letter to Trump from Elizabeth Warren: ‘Your administration has no answers for families hit by high energy costs’",
-      "summary": "Since January, US electricity bills rose 11% under Trump, despite his pledge to halve energy costs. In a letter led by Elizabeth Warren and signed by Senators Ed Markey and Jeff Merkley, Democrats cite a Climate Power–EIA analysis attributing the rise to Trump’s fossil-fuel boost, cancelled wind and solar projects that could have powered 12m homes, stalled or lost 150,000 clean-energy jobs, and chaotic import tariffs. They also warn cuts to LIHEAP and the Energy Star program will worsen the crisis. Trump’s spokesperson blamed blue states’ green policies. The senators demand restored funding, reversed mandates, and continued energy assistance before winter heating spikes.",
-      "summaryTokens": 1076,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Democratic senators Elizabeth Warren, Ed Markey and Jeff Merkley warn that average US electricity prices rose 11% nationally since President Donald Trump’s second term began, contradicting his pledge to halve energy costs by 2026. A Climate Power analysis of US EIA data attributes the rise to Trump’s policies boosting expensive coal, rolling back wind and solar projects that could have powered 12m homes, eliminating or reducing clean energy funding and low-income aid, and imposing inconsistent tariffs that hike transmission material costs. They note 150,000 clean energy jobs lost or stalled and urge the administration to restore project funding, reverse fossil fuel mandates and secure energy-bill assistance before winter.",
+      "summaryTokens": 1074,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/there-is-opposition-to-trump-and-its-growing",
@@ -269,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T17:41:20Z",
       "trailText": "Letter: Linda Rabben and her friends realise that they can’t wait for the Democratic party to save them from tyranny",
-      "summary": "Linda Rabben, a Baltimore resident, rebuts claims that no resistance exists to Trump, pointing to 7 million participants in No Kings demonstrations on October 18 in 2,700 US locations and daily protests condemning the administration’s “lawless” actions. She and sixty friends and neighbors wave signs at a major Baltimore intersection as supportive motorists honk. Thousands more donate to legal advocacy groups filing hundreds of lawsuits against regime measures. Rabben argues Americans must forge a self-reliant opposition, not await the Democratic Party’s intervention.",
-      "summaryTokens": 854,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Linda Rabben refutes claims that there is no opposition to Trump, citing an estimated 7 million participants in 2,700 No Kings demonstrations on 18 October and hundreds of thousands of daily protests against the administration’s lawless actions. In northeast Baltimore, 60 neighbors wave signs to honking motorists, while thousands of Americans fund legal advocacy groups pursuing hundreds of lawsuits challenging the regime’s illegal measures. Rabben argues this rapidly growing mass-opposition proves citizens can’t wait for the Democratic Party—they must save democracy themselves.",
+      "summaryTokens": 599,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/conservative-reaction-tucker-carlson-nick-fuentes-interview",
@@ -281,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T16:36:57Z",
       "trailText": "Heritage Foundation defended former Fox News host, others slammed him for platforming white supremacist",
-      "summary": "Tucker Carlson’s podcast interview with antisemitic white supremacist Nick Fuentes, in which they attacked pro-Israel conservatives, has fractured GOP ranks. Heritage Foundation president Kevin Roberts defended Carlson and warned against ‘canceling’ Fuentes, arguing critiques of Israel aren’t inherently antisemitic. Critics including Senator Ted Cruz, the Republican Jewish Coalition and others condemned platforming Fuentes, citing a rise in far-right antisemitism within the party. The dispute spotlights internal divisions over support for Israel, free speech vs. ‘cancel culture’, and the influence of Project 2025 allies.",
-      "summaryTokens": 426,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Conservatives split over Tucker Carlson’s decision to host antisemite Nick Fuentes, who attacked ‘Christian Zionists’ like Ted Cruz and George W. Bush. Heritage Foundation president Kevin Roberts defended Carlson and condemned ‘cancel culture,’ arguing conservatives need not reflexively back Israel. Senators such as Cruz and groups like the Republican Jewish Coalition blasted the interview as mainstreaming hatred, warning antisemitism poses an ‘existential crisis’ for the GOP. Democrats led by Chuck Schumer also decried the move, while conservative media criticized Carlson for failing to challenge Fuentes’s praise of Hitler and conspiratorial claims.",
+      "summaryTokens": 424,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/trump-republicans-senate-filibuster-shutdown",
@@ -293,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T15:58:43Z",
       "trailText": "Calling Democrats ‘stone cold crazy’, president says ‘nuclear option’ is necessary to end government shutdown",
-      "summary": "Trump has urged Republicans to invoke the “nuclear option” and abolish the Senate filibuster to end the 30-day government shutdown, branding Democrats “stone cold crazy” on Truth Social. The 60-vote rule lets just 41 senators block legislation, but removing it would need only 51 votes—still uncertain with 53 Senate GOP members. Key Republicans like John Thune, John Curtis and Thom Tillis oppose scrapping the filibuster, while Tommy Tuberville and perhaps others signal openness. House Speaker Mike Johnson expressed caution.",
-      "summaryTokens": 794,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Donald Trump urged Republicans to abolish the Senate filibuster—invoking the “nuclear option” to end the 30-day government shutdown amid a standoff with Democrats. He blasted Democrats as “stone cold crazy” on Truth Social and demanded a simple-majority vote to scrap the 60-vote threshold. Senate GOP leader John Thune and senators John Curtis and Thom Tillis oppose weakening the rule, while Tommy Tuberville has signaled conditional support. With 53 Republicans, Trump lacks guaranteed backing. House Speaker Mike Johnson warned of the filibuster’s safeguards but stopped short of outright rejection.",
+      "summaryTokens": 1003,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/kennedy-center-sales-trump",
@@ -305,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T15:08:29Z",
       "trailText": "About 43% of tickets for typical productions remained unsold this fall as people pledge to boycott the institution",
-      "summary": "Between Sept. 3 and Oct. 19, ticket sales across the Kennedy Center’s Opera House, Concert Hall and Eisenhower Theater fell to 43% unsold, down from 7% unsold in fall 2024 and 20% in fall 2023, according to Washington Post data. The slump followed Donald Trump’s February self-appointment as board chair and trustee overhaul; many patrons, donors and performers have boycotted or pulled shows, prompting a 36% ($1.6m) drop in subscription revenue year-on-year. Former president Michael Kaiser warns of lasting revenue and fundraising shortfalls.",
-      "summaryTokens": 677,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Following Donald Trump’s self-appointment as board chair and trustee overhaul in February, Kennedy Center ticket sales across its Opera House, Concert Hall and Eisenhower Theater plunged. A Washington Post analysis of Sept. 3–Oct. 19 data shows just 57% of seats sold or comped this fall—down from 93% in 2024 and 80% in 2023—leaving 43% unsold. The slump reflects patron and performer boycotts, a downturn in DC tourism tied to National Guard deployments, and a $1.6 million (36%) drop in subscription revenue; productions including Hamilton saw cancellations.",
+      "summaryTokens": 616,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/trump-filibuster-explainer-government-shutdown",
@@ -317,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T14:48:13Z",
       "trailText": "US president suggested ending the filibuster to conclude the federal government shutdown. Here is what to know",
-      "summary": "President Trump urged using the \"nuclear option\" to abolish the Senate filibuster and reopen the federal government amid a month-long shutdown. The filibuster allows 41 senators to block legislation, requiring 60 votes to advance bills. Removing it would let Republicans (53 seats) pass a reopening without Democratic concessions on healthcare. Democrats counter the filibuster shields policy wins—on ACA, unemployment, abortion—and warn its origins underpin racial discrimination. While historically defended by minority parties, a simple majority can end the filibuster, reshaping legislative dynamics.",
-      "summaryTokens": 1050,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "President Trump urged invoking the “nuclear option” to abolish the Senate filibuster and break a month-long government shutdown, arguing Republicans, with 53 seats, could reopen the federal government without Democratic votes or concessions on rising Affordable Care Act subsidies. The filibuster allows any 41-member minority to block legislation, historically used to defend and derail policies—from Jim Crow segregation and civil-rights bills to border wall funding. Critics note it lacks constitutional standing, emerged in WWI, and can itself be ended by majority vote. Democrats previously eyed filibuster repeal under Biden, while centrists still defend it as a check against majority overreach.",
+      "summaryTokens": 1010,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/chicago-ice-broadview-facility-lawsuit",
@@ -329,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T13:21:23Z",
       "trailText": "Agents allegedly denied people held at Broadview private calls with attorneys and blocked lawmakers and journalists",
-      "summary": "On Oct 31, 2025, the ACLU of Illinois and the MacArthur Justice Center sued ICE, CBP and DHS alleging “inhumane and torturous” conditions at the Broadview federal immigration facility near Chicago. The lawsuit claims agents denied detainees private attorney calls, blocked lawmakers, faith leaders and journalists from entering, coerced people into signing paperwork that stripped their rights, and withheld food, medical care and basic necessities, creating a “black box” environment. It accuses authorities of violating detainees’ Fifth Amendment due process and First Amendment right to counsel, and seeks a court order to improve conditions. DHS denies the allegations.",
-      "summaryTokens": 685,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "ACLU of Illinois and MacArthur Justice Center sued ICE, CBP and DHS over alleged inhumane conditions at the Broadview facility near Chicago. They claim detainees are denied private attorney calls, blocked from meeting lawmakers, faith leaders and journalists, coerced into signing away rights, and deprived of food, medical care and basic necessities—violating Fifth Amendment due process and First Amendment counsel access. They seek court orders to improve conditions. DHS denies the allegations amid protests and related lawsuits over use of force.",
+      "summaryTokens": 655,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/kristi-noem-halloween-immigration-illinois",
@@ -341,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T12:35:56Z",
       "trailText": "Illinois governor had asked for pause after border patrol agents reportedly used teargas to disrupt Halloween parade",
-      "summary": "DHS Secretary Kristi Noem refused Illinois Gov. JB Pritzker's request to halt federal immigration raids over Halloween, rejecting a pause after ABC News footage showed Border Patrol agents deploying teargas at an Irving Park children's parade. Pritzker warned that aggressive CBP and ICE actions traumatized kids and endangered public safety, accusing agents of ignoring constitutional duties. Noem defended continued enforcement to 'keep communities safe', decried criticism of ICE officers facing threats, and called Pritzker's appeal 'shameful'. The row escalated on social media, with Pritzker mocking Noem's law-enforcement costumes; Noem's past controversies include killing her dog and donning ICE gear.",
-      "summaryTokens": 2616,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "DHS Secretary Kristi Noem has rejected Illinois Gov. J.B. Pritzker’s request to pause federal immigration raids during Halloween after reports that CBP agents used teargas at a children’s parade in northwest Chicago. Pritzker argued that aggressive enforcement endangered residents and traumatized trick-or-treaters, calling for a temporary halt. Noem refused, defending continued operations to “keep communities safe,” lamenting threats against ICE officers and condemning the governor’s plea as “shameful.” Pritzker fired back on social media, mocking Noem’s law enforcement–themed costumes and decrying policies that risk “tear gassing children trick-or-treating.”",
+      "summaryTokens": 505,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/cdc-employees-hiring-firing-limbo",
@@ -353,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T12:00:06Z",
       "trailText": "Americans’ health in jeopardy as agency plunged into tumult and inefficiency even after court ruled firings illegal",
-      "summary": "As repeated reduction-in-force notices swept the CDC during the October shutdown, employees like Aryn Melton Backus faced three firings and reinstatements, underscoring chaos as a quarter of staff have been cut illegally, per AFGE lawsuits. Entire units—HR, ethics, IRB, library, MMWR, the Washington policy office and programs from PRAMS to chronic-disease prevention—were eliminated or gutted, hobbling core surveillance, research and congressional briefings. Workers remain on unpaid administrative leave amid harassment, leadership vacancies and billions in state/local funding clawed back, risking US public health.",
-      "summaryTokens": 549,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Multiple rounds of illegal reduction-in-force notices have left about a quarter of CDC staff fired, reinstated and fired again—sometimes by email—creating chaos and eroding key public-health functions. From ethics and IRB oversight to the MMWR journal, HR, library and Washington office, critical units were eliminated despite legal injunctions. Union lawsuits allege 1,300 layoffs—including HR staff cuts—were wrongly processed. Employees like Aryn Backus face administrative limbo amid ongoing litigation. Staffers have endured harassment and a gun attack at CDC HQ, and claims of coding errors fail to allay fears that vital research and policy work is decimated.",
+      "summaryTokens": 1580,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/ohio-election-pyakurel-subedi-nepal",
@@ -365,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T12:00:06Z",
       "trailText": "Bhuwan Pyakurel and Kamal Subedi’s story charts a Bhutanese refugee community’s rise – and its growing political divide",
-      "summary": "Bhuwan Pyakurel, who at age nine fled mass expulsions in Bhutan and later became the first Bhutanese refugee elected to US office, now serves as a Democratic councilman in Reynoldsburg, Ohio. His former teacher in a Nepal refugee camp, Kamal Subedi, an adjunct physics professor and entrepreneur, is running against him as a Republican. Their face-off has divided the city’s 8,000-strong Bhutanese community and sparked heated discussions on Facebook and WhatsApp about refugee identity, GOP support for Trump, deportations and cultural values. Pyakurel criticizes Republican policies; Subedi contends engagement can reform the party. The race underscores questions of assimilation, belonging and political agency among diaspora groups.",
-      "summaryTokens": 828,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Bhuwan Pyakurel, the first Bhutanese refugee elected to US office as a Reynoldsburg, Ohio Democratic councilman, faces off on Nov. 4 against his former refugee camp teacher, Kamal Subedi, now a Republican candidate. Their contest splits the 8,000-strong local Bhutanese community and ignites global diaspora debates on Facebook and WhatsApp over GOP policies leading to refugee deportations. Pyakurel decries Subedi’s party’s record as betrayal; Subedi says participation can reshape Republican narratives.",
+      "summaryTokens": 1492,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/first-thing-us-to-limit-refugee-numbers-to-7500-with-priority-for-white-south-africans",
@@ -377,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T10:16:34Z",
       "trailText": "US refugee groups say move ‘lowers our moral standing.’ Plus, unionized Starbucks workers to vote on strikes over pay and conditions",
-      "summary": "The Trump administration will cap US refugee admissions at 7,500 for next year—down from 125,000 under Biden—and prioritize white South African applicants citing unproven anti-white land laws, drawing criticism from refugee groups. Meanwhile, ICE agents face federal probes after two shootings in California, and Hurricane Melissa has killed nearly 50 in the Caribbean with 20 missing in Haiti as relief ramps up. New York declares a food emergency; Starbucks union ballots potential strikes over pay; UK’s Prince Andrew to lose royal titles amid Epstein-related allegations; ex-EPA head Gina McCarthy vows resistance to Trump climate rollbacks.",
-      "summaryTokens": 948,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "The Trump administration will cap US refugee admissions at 7,500 for 2025, down from 125,000 under Biden, prioritizing white South Africans amid disputed land expropriation claims. Advocacy groups decry the move as undermining moral standing. Meanwhile, ICE faces a federal probe after two shootings in southern California. Hurricane Melissa has killed at least 49 in the Caribbean as relief efforts intensify. Unionized Starbucks workers are voting on potential strikes over pay and conditions, highlighting a median employee salary of $14,674 versus CEO Brian Niccol’s $97.8m pay.",
+      "summaryTokens": 817,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/stephen-miller-immigration-trump",
@@ -389,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T10:02:42Z",
       "trailText": "Miller is one of the most powerful officials in Trump’s White House, illustrating how it has sought to overcome a ‘deep state’ of professional diplomats",
-      "summary": "Stephen Miller, Trump’s hardline immigration czar-turned-homeland security adviser, has transformed the state department’s visa and refugee operations into a secretive “anti-immigration machine.” In daily 10am “Stephen Miller calls” he micromanages conservative diplomats—many from the Ben Franklin Fellowship—pushing expedited deportations (often to third countries), mass visa revocations of critics of Gaza protests and Israel, full/partial bans on 19 countries, a 7,500-refugee cap favoring white South Africans, and ballooning visa wait times. Deputy Secretary Christopher Landau enforces Miller’s directives. Career diplomats warn the overhaul politicizes foreign service and subordinates legal migration to Trump’s secure-border agenda; the White House defends it as needed policy implementation.",
-      "summaryTokens": 1096,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Stephen Miller, Trump’s homeland security adviser, has transformed the State Department’s visa and refugee processes into an ‘anti-immigration machine’ via daily “Stephen Miller calls” convening conservative diplomats, pressing for mass deportations (even to third countries), visa revocations (targeting Gaza war protesters and critics of conservative figures), caps on refugees and bans on nationals from 19 countries, and prioritizing white South African applicants. Installed allies—often from the Ben Franklin Fellowship—in key consular and PRM posts to override career diplomats, drawing criticism for politicization and racial bias.",
+      "summaryTokens": 797,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/cia-scientist-brothers-halloween",
@@ -401,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T10:00:22Z",
       "trailText": "Jeff and Brian Park spent 40 years working in secret at a CIA lab – but science is just one part of their lives",
-      "summary": "On Crowley Place in Waynewood, VA, ex-CIA scientists Jeff (78) and Brian Park (75) transform their suburban front yards into one of the DC area’s most elaborate Halloween attractions. Over six weeks each October, the brothers, who spent four decades in the CIA’s Office of Technical Services sabotaging Russian weapon systems, repurpose radar, sonar, animatronics, VR and salvaged gear to stage interactive displays—from flying witches and animatronic gremlins that track visitors with doppler sensors to a steam-powered miniature railroad. The spectacle draws thousands and showcases their lifelong passion for covert engineering.",
-      "summaryTokens": 805,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "On Crowley Place in Alexandria, VA, Jeff (78) and Brian Park (75)—ex-CIA technical services scientists with 40-year careers sabotaging Russian weapon systems, engineering bubble-memory spy cameras, drones and night-vision beacons for Special Ops—transform their adjacent front yards each Halloween into a six-week, CIA-inspired animatronic spectacle. Since 1977 they’ve used rescued electronics, radar, sonar, VR rigs, sound systems and smoke machines to build interactive skeletons, robots, creatures and a miniature railway. Thousands visit as the Parks, who retired in 2014, still apply covert tech to delight and spook kids.",
+      "summaryTokens": 891,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/30/americans-disapprove-trump-east-wing-poll",
@@ -413,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T01:50:45Z",
       "trailText": "Survey, in which one-third respondents voted for the president, found 56% disagree with move",
-      "summary": "An Oct. 24–28 Washington Post/ABC News/Ipsos poll finds 56% of Americans oppose Donald Trump’s demolition of the White House East Wing—home of first‐lady offices since 1902 and expanded under FDR—to build a privately funded $300 million, 90 000 sq ft ballroom for 1 000 guests; 28% back it. One‐third of respondents voted for Trump and another third for Harris in 2024. The project reverses Trump’s July pledge to spare existing structures. A Yahoo/YouGov survey similarly showed 61% opposition. Critics like former aide Elaine Kamarck label the plan an “abomination” and a sign of “King Trump.”",
-      "summaryTokens": 641,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "An ABC News/Washington Post/Ipsos poll conducted Oct 24–28 finds 56% of Americans disapprove of President Trump’s demolition of the White House East Wing to build a $300 m, 90,000-sq-ft ballroom, with 28% approval. Respondents—mostly white—split roughly one-third each as 2024 Trump voters, Harris voters, and others. Built in 1902 under Theodore Roosevelt and expanded by FDR in 1942, the East Wing housed the first lady’s staff and a secret war-era bunker. Trump had promised no demolition, claiming personal and private funding. Similar Yahoo/YouGov data show 61% opposition. Critics, including ex-official Elaine Kamarck, decry the project as an “abomination.”",
+      "summaryTokens": 980,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/31/radio-free-asia-suspends-news-operations-amid-cuts-us-government-shutdown",
@@ -425,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T01:13:30Z",
       "trailText": "RFA will begin closing overseas bureaus, as well as laying off and paying severance to staff members, with the hope that it could return in the future",
-      "summary": "Radio Free Asia has suspended all news content production—the first halt in its 29-year history—citing the US government shutdown and Trump administration funding cuts. To preserve cash for a potential restart, it will close overseas bureaus, lay off staff with severance, and has already operated on skeleton crews despite a 20% web traffic rise from 2023 to 2024. Critics, including human rights groups and former diplomats, warn the shutdown plays into authoritarian narratives and jeopardizes uncensored reporting across Asia. Similar outlets RFE/RL and VOA face cuts but continue limited broadcasts.",
-      "summaryTokens": 1067,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Facing the US government shutdown and Trump administration budget cuts to government-funded broadcasters, Radio Free Asia announced it will suspend all news content production for the first time in its 29-year history. To conserve limited resources and preserve the option to resume operations, RFA will close overseas bureaus, lay off staff and pay severance—most employees have been on unpaid leave since March. Known for reporting on China’s Uyghur crackdown, Myanmar’s coup aftermath and North Korean defectors, its closure drew criticism from rights groups and former US envoy Nicholas Burns. In contrast, sister outlet RFE/Radio Liberty remains online using reserves.",
+      "summaryTokens": 558,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/30/trump-news-at-a-glance-latest-updates-news-today",
@@ -437,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T01:01:00Z",
       "trailText": "Despite the rare opposition in the Senate, the House is unlikely to take any similar action – key US politics stories from Thursday 30 October at a glance",
-      "summary": "Four Senate Republicans—Collins, McConnell, Paul and Murkowski—joined Democrats in a 51–47 vote to nullify Trump’s global tariffs on 100+ nations, though House rules bar a floor vote. The administration will cap refugee admissions at 7,500, largely white South Africans. Trump hailed an “amazing” rare-earths deal with Xi and pledged to visit China in April. Gov. Hochul declared an emergency to free $65 m for food banks as SNAP funding lapses. Trump directed the Pentagon to resume nuclear tests to match Russia and China. Other briefs: surgeon general hearing delayed; Illinois governor seeks Halloween ICE moratorium.",
-      "summaryTokens": 1910,
-      "generatedAt": "2025-11-02T00:28:16.264Z"
+      "summary": "Senate Republicans Susan Collins, Mitch McConnell, Rand Paul and Lisa Murkowski joined Democrats in a 51-47 vote to nullify President Trump’s global tariffs on over 100 nations, the third bipartisan rebuke this week; the House, under GOP rules, won't vote on similar resolutions. The administration will cap refugee admissions at 7,500, prioritizing white South Africans; New York freed $65m for food banks amid a looming shutdown; Trump and Xi reached a rare-earths agreement; Trump ordered the Pentagon to resume nuclear tests; the Senate postponed surgeon general nominee Casey Means’s hearing. Briefs: Halloween ICE raids, secret detentions, a California ICE shooting, Prince Andrew’s titles stripped, and candy prices rising.",
+      "summaryTokens": 1989,
+      "generatedAt": "2025-11-02T14:04:35.310Z"
     },
     {
       "id": "us-news/2025/oct/30/stephen-miller-trump-fbi-agents-injustice",
