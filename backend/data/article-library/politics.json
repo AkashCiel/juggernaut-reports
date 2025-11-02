@@ -1,31 +1,361 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2025-10-28T21:17:18.988Z",
+    "generated_at": "2025-11-02T00:07:42.336Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-10-28"
+      "to": "2025-11-01"
     },
-    "article_count": 314,
+    "article_count": 342,
+    "merge_info": {
+      "previous_count": 314,
+      "new_articles": 28,
+      "updated_articles": 6,
+      "total_count": 342
+    },
     "batch_info": {
-      "initial_batch_id": "batch_69012f6f4a088190ad17cb2d80499dc1",
+      "initial_batch_id": "batch_6906a061d6e0819085c067e4fa9847a7",
       "retry_batches": [],
-      "total_tokens": 676068,
-      "processing_time_hours": 0.2
+      "total_tokens": 67520,
+      "processing_time_hours": 0
     }
   },
   "articles": [
     {
+      "id": "politics/2025/nov/01/rachel-reeves-considers-20-tax-on-assets-of-people-deciding-to-leave-uk",
+      "title": "Rachel Reeves considers 20% tax on assets of people deciding to leave UK",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/01/rachel-reeves-considers-20-tax-on-assets-of-people-deciding-to-leave-uk",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/01/rachel-reeves-considers-20-tax-on-assets-of-people-deciding-to-leave-uk",
+      "section": "politics",
+      "publishedDate": "2025-11-01T14:26:28Z",
+      "trailText": "Plans for ‘settling-up charge’ predicted to raise £2bn and would follow policy in place among most G7 countries",
+      "summary": "Chancellor Rachel Reeves is exploring a 20% 'settling-up charge' on business assets for UK residents who emigrate, aiming to align with other G7 countries and raise about £2bn. Currently, expats avoid capital gains tax on assets like shareholdings after departure. The charge would apply at exit valuation, with possible deferral options. Treasury modelling ahead of the budget is also considering reciprocal relief for pre-arrival gains to ensure fair, symmetrical treatment and attract inward investors.",
+      "summaryTokens": 856,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/nov/01/hmrc-likely-to-have-breached-privacy-laws-in-stopping-child-benefit-experts",
+      "title": "HMRC likely to have breached privacy laws in stopping child benefit – experts  ",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/01/hmrc-likely-to-have-breached-privacy-laws-in-stopping-child-benefit-experts",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/01/hmrc-likely-to-have-breached-privacy-laws-in-stopping-child-benefit-experts",
+      "section": "politics",
+      "publishedDate": "2025-11-01T11:00:34Z",
+      "trailText": "Watchdog contacts tax authority after families’ payments stopped based on flawed travel data",
+      "summary": "HMRC suspended child benefit for about 23,500 families based on flawed, incomplete Home Office travel data, triggering distress and prompting the Information Commissioner’s Office to question potential GDPR breaches. By 31 October, 1,979 payments were reinstated. Errors included one-way flight flags on return trips, Dublin border crossings and non-embarked flights. Liberal Democrat MP Steve Darling decries the ‘unacceptable’ failures and urges ministerial accountability. Privacy experts warn the scheme violated data accuracy, necessity and proportionality principles. HMRC denies wrongdoing, has paused suspensions and will cross-check travel data with PAYE records before resuming compliance checks.",
+      "summaryTokens": 635,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/nov/01/reform-councillor-defects-to-tories-after-partys-policies-left-him-uncomfortable",
+      "title": "Reform councillor defects to Tories after party’s policies left him ‘uncomfortable’",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/01/reform-councillor-defects-to-tories-after-partys-policies-left-him-uncomfortable",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/01/reform-councillor-defects-to-tories-after-partys-policies-left-him-uncomfortable",
+      "section": "politics",
+      "publishedDate": "2025-11-01T10:13:35Z",
+      "trailText": "Dartford representative James Buchan says ‘devastating’ immigration plans had created a lot of fear and anxiety",
+      "summary": "Councillor James Buchan has defected from Reform UK to the Conservatives in Dartford’s Stone House ward, criticising Nigel Farage’s party for its hardline anti-immigration stance, notably the plan to scrap indefinite leave to remain. Buchan said he couldn’t reconcile his role with policies that generate “fear and anxiety” among legal residents and lacked the experience to serve local families effectively. Dartford Tory leader Jeremy Kite welcomed his move as service-focused. A Reform source argued Buchan should resign his seat. Farage’s party has faced recent controversies over defended racist remarks and bribery charges in its Welsh branch.",
+      "summaryTokens": 1141,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/nov/01/ex-tory-member-grandfather-archbishop-of-jerusalem-sues-party-bruce-macinnes",
+      "title": "Ex-Tory member sues party over suspension for criticising Israel",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/01/ex-tory-member-grandfather-archbishop-of-jerusalem-sues-party-bruce-macinnes",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/01/ex-tory-member-grandfather-archbishop-of-jerusalem-sues-party-bruce-macinnes",
+      "section": "politics",
+      "publishedDate": "2025-11-01T10:00:33Z",
+      "trailText": "Exclusive: Bruce MacInnes, whose grandfather was archbishop of Jerusalem, told genocide remarks were antisemitic",
+      "summary": "Bruce MacInnes, a former Conservative member and grandson of Jerusalem’s ex-archbishop, is suing the party in the high court for £30,000 after being suspended for alleging Israel is committing genocide in Palestine. Tory officials labeled his remarks antisemitic and imposed a six-month ban and training—sanctions he only learned of months later. MacInnes claims breach of contract and discrimination of belief, decrying the process as McCarthyite, a view echoed by ex-minister Sir Alan Duncan.",
+      "summaryTokens": 991,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/nov/01/bridget-phillipson-unions-oppose-reading-tests-year-8s",
+      "title": "Bridget Phillipson ‘ready to take on unions’ over year 8 reading tests",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/01/bridget-phillipson-unions-oppose-reading-tests-year-8s",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/01/bridget-phillipson-unions-oppose-reading-tests-year-8s",
+      "section": "politics",
+      "publishedDate": "2025-11-01T09:00:29Z",
+      "trailText": "Education secretary says mandatory test needed to tackle ‘shocking outcomes’ for many working-class children",
+      "summary": "Education secretary Bridget Phillipson says she’ll press teaching unions to back compulsory Year 8 reading assessments and informal writing and maths checks, citing a literacy gap—one in four pupils overall and one in three disadvantaged—below standards. Schools must also offer enrichment in five areas (sports, arts, outdoor pursuits, civic engagement, life skills), with Ofsted inspecting compliance. Framing the measures as vital for working-class life chances and to combat student detachment and radicalisation risks, Phillipson will also campaign to scrap the two-child benefit cap, overhaul SEND provision and ensure Labour delivers tangible change ahead of re-election.",
+      "summaryTokens": 817,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/31/keir-starmer-keeps-silver-necklace-donald-melania-trump-gift",
+      "title": "Keir Starmer keeps Trumps’ silver necklace gift – for a price",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/31/keir-starmer-keeps-silver-necklace-donald-melania-trump-gift",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/31/keir-starmer-keeps-silver-necklace-donald-melania-trump-gift",
+      "section": "politics",
+      "publishedDate": "2025-10-31T15:45:55Z",
+      "trailText": "Prime minister paid cabinet office to retain jewellery, but chose not to fork out for cufflinks and golf club",
+      "summary": "Keir Starmer paid to keep a personalised silver necklace from Donald and Melania Trump after their September 2025 state visit, while opting not to purchase other gifts—a golf club, silver cufflinks and cowboy boots for his wife—retained by the Cabinet Office under rules capping free gifts at £140. Downing Street declined to disclose the necklace’s value. During the visit, Starmer gifted Trump a ministerial red box with the presidential seal and a Ukrainian-designed silk scarf for Melania. The exchange echoes past diplomatic gift controversies, from Obama’s film-set reply to Brown to Qatar’s US$400m Air Force One.",
+      "summaryTokens": 882,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/31/young-tories-are-fed-up-the-students-switching-to-reform-in-big-numbers",
+      "title": "‘Young Tories are fed up’: the students switching to Reform in big numbers",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/31/young-tories-are-fed-up-the-students-switching-to-reform-in-big-numbers",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/31/young-tories-are-fed-up-the-students-switching-to-reform-in-big-numbers",
+      "section": "politics",
+      "publishedDate": "2025-10-31T14:31:29Z",
+      "trailText": "A ‘nasty split’ is emerging on campus with one Conservative society opting to merge with their rightwing rivals",
+      "summary": "On campuses from Newcastle to York and Durham, Tory student societies are merging or splintering to form Reform UK branches, boosting membership tenfold at Newcastle after a controversial merger over HQ objections. Disillusioned with leadership like Kemi Badenoch, young right-wingers cite Reform’s resonance under Nigel Farage, as YouGov polls show Reform at 10% vs Tories’ 7% among 18–24s. At York, a 'nasty split' halved Tory membership; at Lancaster, a 750-strong petition sought to block Reform; Labour and Greens now exclude Reform from some events. Reform’s campus growth fuels hopes of a lasting candidate pipeline.",
+      "summaryTokens": 1216,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/31/zarah-sultana-sets-sights-on-replacing-labour-your-party-jeremy-corbyn",
+      "title": "Zarah Sultana sets sights on replacing Labour and gaining power",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/31/zarah-sultana-sets-sights-on-replacing-labour-your-party-jeremy-corbyn",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/31/zarah-sultana-sets-sights-on-replacing-labour-your-party-jeremy-corbyn",
+      "section": "politics",
+      "publishedDate": "2025-10-31T08:45:48Z",
+      "trailText": "MP who left Labour in July to form leftwing grouping with Jeremy Corbyn, says party is not just one of protest",
+      "summary": "Zarah Sultana, who left Labour in July to co-found the leftwing Your Party with Jeremy Corbyn, says her aim is to replace Labour by building a mass, long-term movement to win state power. On BBC’s Political Thinking, she outlined a 10- to 40-year plan for nationalisation, council homes and secure jobs through door-to-door organising. Your Party has struggled with leadership rows, a missing £800,000 in donor funds and a public spat with Corbyn. Sultana also denounced Reform UK leader Nigel Farage as a fascist for anti-union and racist positions, drawing Reform’s sarcastic response.",
+      "summaryTokens": 508,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/31/uk-launches-search-for-town-of-culture-among-places-written-out-of-national-story",
+      "title": "UK launches search for ‘town of culture’ among places ‘written out of national story’",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/31/uk-launches-search-for-town-of-culture-among-places-written-out-of-national-story",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/31/uk-launches-search-for-town-of-culture-among-places-written-out-of-national-story",
+      "section": "politics",
+      "publishedDate": "2025-10-31T05:00:18Z",
+      "trailText": "Lisa Nandy says government hopes to build on success of cities of culture programme, with £3.5m for winner",
+      "summary": "Culture secretary Lisa Nandy has launched a competition to designate the UK’s first Town of Culture, offering £3.5m for the winner to develop a summer 2028 programme, after the success of Cities of Culture in Derry, Hull, Coventry and Bradford. The initiative targets places often “written out of the national story”, inviting towns up to roughly 75,000 inhabitants. Concurrently, the bid for the 2029 UK City of Culture opens with a guaranteed £10m award. Nandy emphasises expanding “access to excellence”, celebrating local artistic talent and civic pride in under-recognised communities from Wigan to Barnsley.",
+      "summaryTokens": 1012,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/rachel-reeves-row-standards-adviser-looking-at-new-infomation",
+      "title": "Lettings agency takes blame in Rachel Reeves licence row",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/rachel-reeves-row-standards-adviser-looking-at-new-infomation",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/rachel-reeves-row-standards-adviser-looking-at-new-infomation",
+      "section": "politics",
+      "publishedDate": "2025-10-30T23:43:02Z",
+      "trailText": "Agency says staff member offered to apply for licence to allow chancellor to rent out family home, but failed to do so",
+      "summary": "Chancellor Rachel Reeves admitted her south London rental fell foul of Southwark’s selective licensing rules after moving into 11 Downing Street. Initially No 10 said an apology sufficed, but Harvey & Wheeler—the lettings agent—has since taken responsibility, revealing a former staffer offered to apply for the licence then failed to do so. Emails between the agent and Reeves’s husband, senior civil servant Nicholas Joicey, corroborate this. Southwark council has no plans for enforcement. Prime Minister Keir Starmer, after consulting ethics adviser Laurie Magnus, ruled the breach inadvertent, but Conservatives press for a full investigation.",
+      "summaryTokens": 501,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/keir-starmer-often-strident-in-opposition-struggles-to-maintain-probity-in-government",
+      "title": "Starmer feels the effects of setting high standards for his party in opposition",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/keir-starmer-often-strident-in-opposition-struggles-to-maintain-probity-in-government",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/keir-starmer-often-strident-in-opposition-struggles-to-maintain-probity-in-government",
+      "section": "politics",
+      "publishedDate": "2025-10-30T20:05:59Z",
+      "trailText": "Despite pledges to run a squeaky clean administration the prime minister and some in his cabinet have been caught out",
+      "summary": "After criticising Tory ministers over Partygate, UK PM Keir Starmer’s pledge to uphold “squeaky clean” ethics has stumbled as he and four senior colleagues faced rules breaches. Starmer drew fire for accepting freebies and Rachel Reeves admitted inadvertently renting out her home without a licence; Louise Haigh, Tulip Siddiq and Angela Rayner resigned after misconduct or underpayment. Downing Street swiftly cleared Reeves but scrutiny persists. These episodes underscore the difficulties of enforcing high probity standards in government and risk undermining Starmer’s reformist credibility.",
+      "summaryTokens": 932,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/what-has-rachel-reeves-done-wrong-break-rules-licence-house",
+      "title": "What has Rachel Reeves done wrong – and how serious are things for her?",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/what-has-rachel-reeves-done-wrong-break-rules-licence-house",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/what-has-rachel-reeves-done-wrong-break-rules-licence-house",
+      "section": "politics",
+      "publishedDate": "2025-10-30T18:39:14Z",
+      "trailText": "A few weeks before she delivers budget, timing of revelation chancellor failed to buy rental licence could not be worse",
+      "summary": "With under a month until the budget, Chancellor Rachel Reeves admitted breaking Southwark council rules by letting her Dulwich home without the £945 licence required under the 2004 Housing Act. An estate agent warned her husband to apply but failed to submit after resigning, prompting Reeves to take full responsibility—apologising to Prime Minister Keir Starmer and applying for the licence. Conservatives call for further scrutiny, accusing her of negligence, but No 10 says her prompt action negates the need for a formal probe. Critics view the timing as a distraction ahead of the budget and a test of Starmer’s ethical stance.",
+      "summaryTokens": 2416,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/how-one-bad-oyster-did-for-the-liberal-party",
+      "title": "How one bad oyster did for the Liberal party | Letter",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/how-one-bad-oyster-did-for-the-liberal-party",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/how-one-bad-oyster-did-for-the-liberal-party",
+      "section": "politics",
+      "publishedDate": "2025-10-30T17:28:23Z",
+      "trailText": "Letters: Responding to a Pass notes article, Michael Meadowcroft writes on how a bad bivalve changed political history in the early 20th century",
+      "summary": "Michael Meadowcroft highlights how in December 1914 Liberal chief whip Percy Illingworth, aged 45, died of typhoid after eating a contaminated oyster, depriving Asquith of a trusted organizer. Subsequent chiefs, notably Vivian Phillipps in the 1923 hung parliament, proved divisive: his fierce loyalty to Asquith and antipathy toward David Lloyd George deepened rifts. Phillipps’s inability to bridge factions during the 1924 Labour minority government accelerated the Liberal Party’s fragmentation and long-term decline.",
+      "summaryTokens": 534,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/lib-dem-members-criticise-trans-exclusionary-rule-change-for-party-elections",
+      "title": "Lib Dem members criticise ‘trans-exclusionary’ rule change for party elections",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/lib-dem-members-criticise-trans-exclusionary-rule-change-for-party-elections",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/lib-dem-members-criticise-trans-exclusionary-rule-change-for-party-elections",
+      "section": "politics",
+      "publishedDate": "2025-10-30T16:40:10Z",
+      "trailText": "Rules on quotas to ensure fair representation of women changed on legal advice in light of supreme court ruling",
+      "summary": "Liberal Democrat members have criticised an abrupt rule change—introduced on legal advice after a supreme court ruling—that ties internal election quotas to sex at birth rather than lived gender. The party’s LGBT+ group labelled it “explicitly trans-exclusionary,” Lib Dem Women expressed “grave concerns,” and Young Liberals called it “unacceptable.” At least five trans or non-binary candidates face direct exclusion. Critics argue the move contradicts Lib Dem values, lacked consultation and risks undermining transgender inclusion despite promised LGBT+ quotas on larger committees.",
+      "summaryTokens": 347,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/kemi-badenoch-smiles-from-the-stump-as-she-heads-towards-oblivion",
+      "title": "Kemi Badenoch smiles from the stump as she heads towards oblivion | John Crace",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/kemi-badenoch-smiles-from-the-stump-as-she-heads-towards-oblivion",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/kemi-badenoch-smiles-from-the-stump-as-she-heads-towards-oblivion",
+      "section": "politics",
+      "publishedDate": "2025-10-30T15:41:07Z",
+      "trailText": "The relaxed demeanour of the Tory leader suggests she is just relieved that things aren’t worse than they could be",
+      "summary": "Kemi Badenoch turned up smiling at a chilly outdoor stump event on London’s South Bank, where low turnout and lacklustre Mel Stride underscored the Tories’ dwindling relevance as Reform dominates the news agenda. Trailing in polls and clinging to official-opposition status, she seized on Rachel Reeves’s Dulwich licensing blunder to demand her resignation, then condemned looming income-tax rises. Wrapping up, Badenoch disowned Katie Lam’s deportation Bill from Chris Philp, deeming it dead in the water but promising alternative enforcement. Despite looming defeat and muted leadership unrest, she appeared unusually relaxed.",
+      "summaryTokens": 818,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/big-public-appointments-such-as-at-bbc-to-be-delegated-in-attempt-to-cut-delays",
+      "title": "Ministers to delegate some public appointments in attempt to cut delays",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/big-public-appointments-such-as-at-bbc-to-be-delegated-in-attempt-to-cut-delays",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/big-public-appointments-such-as-at-bbc-to-be-delegated-in-attempt-to-cut-delays",
+      "section": "politics",
+      "publishedDate": "2025-10-30T14:28:39Z",
+      "trailText": "Under shake-up affecting about 4,000 roles, officials will run more of hiring process but ministers can have final say",
+      "summary": "Ministers to delegate public appointments to senior officials under new Cabinet Office code covering about 4,000 roles in bodies like Ofcom, Environment Agency and BBC. Aims to cut excessive delays—currently only one in seven posts filled within three months—by letting officials run more of the process while ministers retain final selection and job specs. Candidates may stay on a reserve list for two years. The code introduces a ‘public service’ principle, mandates publication of PM and Crown appointments, and preserves ministerial override powers with commissioner consultation when departing from panel advice or appointing without competition.",
+      "summaryTokens": 1129,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/reeves-should-be-sacked-if-she-broke-house-rental-rules-says-badenoch",
+      "title": "No 10 refuses to say if ethics adviser saw proof Reeves’s rental breach was ‘inadvertent’",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/reeves-should-be-sacked-if-she-broke-house-rental-rules-says-badenoch",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/reeves-should-be-sacked-if-she-broke-house-rental-rules-says-badenoch",
+      "section": "politics",
+      "publishedDate": "2025-10-30T14:12:26Z",
+      "trailText": "Pressure mounts on chancellor over failing to get a licence to rent out her south London home",
+      "summary": "Downing Street refused to say whether ministerial conduct adviser Laurie Magnus saw evidence supporting chancellor Rachel Reeves’s claim she “inadvertently” rented out her four-bedroom Southwark home without a required £945 licence, citing confidentiality. Prime minister Keir Starmer, relying on Magnus’s confidential advice, accepted her prompt application for the licence and apology as sufficient. Advertised at £3,200 a month since September 2024, Reeves noted the rental income but said her agency hadn’t informed her of the licensing requirement. Conservative leader Kemi Badenoch demanded Reeves be sacked if she broke the law, warning of political fallout ahead of next month’s budget.",
+      "summaryTokens": 2185,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/tories-will-not-deport-legally-settled-people-kemi-badenoch-katie-lam",
+      "title": "Tories will not deport legally settled people, Badenoch clarifies",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/tories-will-not-deport-legally-settled-people-kemi-badenoch-katie-lam",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/tories-will-not-deport-legally-settled-people-kemi-badenoch-katie-lam",
+      "section": "politics",
+      "publishedDate": "2025-10-30T11:41:16Z",
+      "trailText": "Katie Lam spoke ‘imprecisely’ in stating large number of people would ‘need to go home’, says Conservative leader",
+      "summary": "Kemi Badenoch told reporters the Conservatives will not deport legally settled residents or retrospectively strip indefinite leave to remain (ILR), clarifying shadow minister Katie Lam’s ‘imprecise’ assertion that thousands would ‘go home’ under a proposed draft bill tying ILR loss to benefit claims or income below £38,700. Only criminal convictions can revoke ILR. Exiting the European convention on human rights will allow denying benefits to non-EU migrants. Lam’s comments triggered Tory complaints, Lib Dem and Labour demands for policy clarity on benefits, including maternity pay.",
+      "summaryTokens": 1127,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/30/boris-johnson-conservatives-green-politics-election",
+      "title": "Boris Johnson tells Tories to stop ‘bashing green agenda’ or risk losing next election",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/30/boris-johnson-conservatives-green-politics-election",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/30/boris-johnson-conservatives-green-politics-election",
+      "section": "politics",
+      "publishedDate": "2025-10-30T01:00:48Z",
+      "trailText": "Former PM says he has not seen party ‘soaring in the polls as a result of saying what rubbish net zero is’",
+      "summary": "Boris Johnson has urged the Conservatives to stop ‘bashing the green agenda’ or risk losing the next election, joining Theresa May and John Major in warning that attacking net zero alienates mainstream voters. He criticised Kemi Badenoch’s plan to repeal the Climate Change Act, abandon 2050 net zero targets, scrap carbon budgets and disband the Climate Change Committee in favor of ‘cheap and reliable energy’. Johnson, who backed net zero and hosted COP26, says he saw no polling boost from attacking climate policy and remains committed to long-term CO2 reduction despite post-Ukraine energy challenges.",
+      "summaryTokens": 549,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence",
+      "title": "Rachel Reeves admits breaking rules by renting out her house without a licence ",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence",
+      "section": "politics",
+      "publishedDate": "2025-10-29T23:47:01Z",
+      "trailText": "Chancellor is backed by prime minister after saying she ‘inadvertently’ failed to pay fee required by London council",
+      "summary": "Chancellor Rachel Reeves has admitted inadvertently renting her four-bedroom Southwark home for £3,200 a month without the required £945 selective licence after moving to Downing Street. Using a letting agency that failed to flag the council rule, she notified PM Keir Starmer and ethics authorities, applied for the licence immediately, and apologised. Starmer closed the case after his adviser’s review. Conservatives, led by Kemi Badenoch, and Lib Dems warned the oversight threatens confidence ahead of Reeves’s forthcoming budget, which may include further property tax rises; Reeves has declared rental income since September 2024.",
+      "summaryTokens": 1200,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/29/the-novelty-will-wear-off-labour-hopes-publicity-will-be-farages-downfall",
+      "title": "‘The novelty will wear off’: Labour hopes publicity will be Farage’s downfall",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/29/the-novelty-will-wear-off-labour-hopes-publicity-will-be-farages-downfall",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/29/the-novelty-will-wear-off-labour-hopes-publicity-will-be-farages-downfall",
+      "section": "politics",
+      "publishedDate": "2025-10-29T20:36:53Z",
+      "trailText": "With no sign of Reform’s media strategy slowing down, Labour insiders fret over limiting Nigel Farage’s support",
+      "summary": "Labour insiders are increasingly anxious as Nigel Farage’s Reform UK maintains persistent poll leads by staging back-to-back press conferences during news lulls, dominating headlines with half-truths and uncosted or contested policy claims – from migrant benefit cuts to welfare and government overhauls. MPs admit they underestimated his summer momentum and struggle to counter his agenda or articulate a compelling alternative. Reform plans further big economic policy announcements next week, with Farage vowing pre-tax spending cuts and his deputy Richard Tice headlining at Bloomberg. While some in Labour believe Farage’s novelty will fade, strategists warn against complacency ahead of next May’s election.",
+      "summaryTokens": 1017,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/29/farage-reclaims-centre-stage-as-reforms-sarah-pochin-keeps-the-world-at-bay",
+      "title": "Farage reclaims centre stage as Reform’s Sarah Pochin keeps the world at bay",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/29/farage-reclaims-centre-stage-as-reforms-sarah-pochin-keeps-the-world-at-bay",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/29/farage-reclaims-centre-stage-as-reforms-sarah-pochin-keeps-the-world-at-bay",
+      "section": "politics",
+      "publishedDate": "2025-10-29T18:18:14Z",
+      "trailText": "Nige suffers through lacklustre PMQs to seize the spotlight with drive-by demand to get further away from Europe",
+      "summary": "Reform UK co-leader Sarah Pochin has been absent from three consecutive Commons appearances—allegedly overwhelmed by the sight of MPs of colour—leaving Nigel Farage to dominate Wednesday’s PMQs. He used his allotted 10-minute rule bill to propose exiting the European Convention on Human Rights, a largely performative gesture promptly defeated after Lib Dem leader Ed Davey exposed his misinformation and defended the Convention’s accountability role. Reform’s Russia connections resurfaced in debate, while PMQs otherwise featured predictable spat over tax and economic pledges.",
+      "summaryTokens": 613,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/29/racism-intent-and-the-diversity-in-tv-adverts",
+      "title": "Racism, intent and the diversity in TV adverts | Letters",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/29/racism-intent-and-the-diversity-in-tv-adverts",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/29/racism-intent-and-the-diversity-in-tv-adverts",
+      "section": "politics",
+      "publishedDate": "2025-10-29T17:26:57Z",
+      "trailText": "Letters: Readers respond to the Reform UK MP Sarah Pochin’s remarks about ‘adverts full of black people, full of Asian people’",
+      "summary": "Letters reacting to Reform UK MP Sarah Pochin’s complaints that TV adverts feature “full of black people, full of Asian people.” Contributors note that dismissing racism as unintentional prejudice obscures systemic bias: Nigel Farage’s defense echoes Frank Hester’s violent remarks about Diane Abbott and Robert Jenrick’s “white face” quip. Writers argue everyday language reveals widespread racism, citing James Baldwin’s “innocence constitutes the crime.” They question Pochin’s fixation on demographic ratios, likening it to Ludovic Kennedy’s 2003 critique, and explain diverse casting as marketing logic, not “woke conspiracy.” The letters warn inclusion is contingent and challenge Farage to define racist expulsion criteria.",
+      "summaryTokens": 1021,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/29/letter-lord-taverne-obituary",
+      "title": "Letter: Lord Taverne obituary",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/29/letter-lord-taverne-obituary",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/29/letter-lord-taverne-obituary",
+      "section": "politics",
+      "publishedDate": "2025-10-29T16:48:44Z",
+      "trailText": "Andrew Copson writes: Taverne showed how a humanist outlook can anchor an ethical and courageous public life",
+      "summary": "Dick Lord Taverne pioneered modern humanist public life, blending rigorous reason with ethical courage. As founder of the Institute for Fiscal Studies and co-founder of Sense About Science, he championed evidence-based policy, warned of cultural drift to dogma in his book The March of Unreason, and advocated secularism, humanist marriages, assisted dying, and non-religious rights in the House of Lords. His calm, unsentimental approach rooted tradition in reason, defining a legacy of openness, civilised discourse, and principled reform.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/29/tightened-up-pip-benefit-eligibility-could-save-9bn-a-year-say-reform",
+      "title": "Tightening Pip benefit eligibility could save £9bn a year, says Reform",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/29/tightened-up-pip-benefit-eligibility-could-save-9bn-a-year-say-reform",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/29/tightened-up-pip-benefit-eligibility-could-save-9bn-a-year-say-reform",
+      "section": "politics",
+      "publishedDate": "2025-10-29T13:46:47Z",
+      "trailText": "Lee Anderson says ‘gaming the system’ is too common and jokes about symptoms of anxiety and depression",
+      "summary": "Reform UK proposes tightening PIP (personal independence payment) rules to save up to £9bn annually by excluding claimants with milder mental health issues (eg anxiety), reinstating mandatory face-to-face assessments and clamping down on eligibility 'gaming'. MP Lee Anderson, who admits coaching clients on benefit forms during his Citizens Advice tenure, criticized remote assessments and alleged widespread system manipulation. Policy head Zia Yusuf slammed the absence of reassessments and lifelong labels on young people. The plan, requiring £100m for in-person tests and work support, mirrors delayed government efforts after Conservative rebellions.",
+      "summaryTokens": 1078,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/29/boris-johnson-approved-chinas-super-embassy-proposal-in-2018",
+      "title": "Boris Johnson approved China’s London super-embassy proposal in 2018",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/29/boris-johnson-approved-chinas-super-embassy-proposal-in-2018",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/29/boris-johnson-approved-chinas-super-embassy-proposal-in-2018",
+      "section": "politics",
+      "publishedDate": "2025-10-29T05:00:33Z",
+      "trailText": "Exclusive: Conservatives under Theresa May gave Beijing assurances that it could proceed with the proposal",
+      "summary": "Boris Johnson, then foreign secretary under Theresa May, wrote in May 2018 to China’s top diplomat Wang Yi approving Royal Mint Court in London as the site for China’s “largest overseas diplomatic investment,” a £255m “super-embassy.” He framed it as reciprocal to the UK’s planned embassy redevelopment in Beijing, citing high-level assurances brokered by Eddie Lister. Despite this consent, local planning permission was refused in 2022, the application lapsed, then was resubmitted under Labour. Keir Starmer has vowed to decide independently amid Chinese pressure and local backlash, while Conservatives now demand transparency on the approval process.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/28/britain-can-defy-gloomy-economic-forecasts-says-rachel-reeves",
+      "title": "Britain can defy gloomy economic forecasts, says Rachel Reeves",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/28/britain-can-defy-gloomy-economic-forecasts-says-rachel-reeves",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/28/britain-can-defy-gloomy-economic-forecasts-says-rachel-reeves",
+      "section": "politics",
+      "publishedDate": "2025-10-28T21:19:11Z",
+      "trailText": "Exclusive: Fiscal watchdog predicts productivity downgrade will leave chancellor with £20bn gap to fill in budget",
+      "summary": "Facing a £20bn fiscal shortfall after the OBR’s 0.3pp productivity downgrade, Chancellor Rachel Reeves rejects gloomy forecasts and vows to defy them in next month’s budget. She admits tough choices—possibly a targeted income tax rise, reversing the winter fuel cut and ending the two-child benefit cap—while ruling out a return to austerity. Citing faster wage growth than inflation, potential interest-rate cuts and planned reforms, Reeves criticises rivals for “talking Britain down,” stresses investment in public services and infrastructure, and highlights the IMF’s upgraded 1.3% growth forecast, second-highest in the G7.",
+      "summaryTokens": 886,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
       "id": "politics/2025/oct/28/your-party-to-launch-legal-action-against-three-of-its-founders-sources-say",
-      "title": "Your party to launch legal action against three of its founders, sources say",
+      "title": "Your Party to launch legal action against three of its ‘rogue’ founders, sources say",
       "webUrl": "https://www.theguardian.com/politics/2025/oct/28/your-party-to-launch-legal-action-against-three-of-its-founders-sources-say",
       "apiUrl": "https://content.guardianapis.com/politics/2025/oct/28/your-party-to-launch-legal-action-against-three-of-its-founders-sources-say",
       "section": "politics",
       "publishedDate": "2025-10-28T20:16:02Z",
       "trailText": "Exclusive: Leftwing party seeks to recover donations and data from company run by Andrew Feinstein, Jamie Driscoll and Beth Winter",
-      "summary": "Your party, led by Jeremy Corbyn and Zarah Sultana, plans to sue three founding directors of MoU Operations Ltd—Andrew Feinstein, Jamie Driscoll and Beth Winter—to recover at least £800,000 in membership donations and tens of thousands of supporter records. Under a July agreement tied to the party’s privacy policy, MoU was to hand over funds and data once the party registered with the Electoral Commission on 30 September. After missing a final Friday deadline, insiders say legal action was the last resort. The row risks undermining next month’s Liverpool conference, may force delegate cuts and triggered an ICO probe into an unauthorised membership portal launched on 18 September.",
-      "summaryTokens": 319,
-      "generatedAt": "2025-10-28T21:17:18.987Z"
+      "summary": "Your Party, the leftwing movement led by Jeremy Corbyn and Zarah Sultana, is suing three of its founding directors—Andrew Feinstein, Jamie Driscoll and Beth Winter—via MoU Operations Ltd for refusing to transfer about £800,000 in membership donations and supporter data after a final deadline. The row, stemming from an unauthorized membership portal launch that generated over 20,000 sign-ups, jeopardises next month’s national conference by limiting delegates. Party insiders say legal action was a last resort; the founders deny wrongdoing. An ICO probe is under way.",
+      "summaryTokens": 1129,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
     },
     {
       "id": "politics/2025/oct/28/should-the-home-office-be-broken-up-into-two-units",
@@ -35,9 +365,9 @@
       "section": "politics",
       "publishedDate": "2025-10-28T19:15:18Z",
       "trailText": "The department is once again the subject of debate about whether it is beyond repair after immigration and prison problems",
-      "summary": "Long-standing debate persists over whether to split the 50,000-strong Home Office into separate policing/security and borders/immigration units after recurring scandals (Windrush, asylum hotel chaos). New home secretary Shabana Mahmood and perm sec Antonia Romeo face pressure as MPs like Karen Bradley and parties (Lib Dems, Greens) demand a split, but No 10 resists, fearing disruption. Analysts (Nick Timothy, IG) argue culture, leadership and management failings—not size—undermine performance and propose systemic reform over restructuring. Earlier Windrush reforms—migrant commissioner role and transformation unit—have not been enacted. Mahmood must decide between extensive transformation or continued firefighting amid deep-rooted institutional issues.",
-      "summaryTokens": 1539,
-      "generatedAt": "2025-10-28T21:17:18.987Z"
+      "summary": "The Home Office, beset by dysfunction, scandals from Windrush to asylum hotel failures, and enduring poor morale among its 50,000 staff, faces renewed calls for split into crime/policing/security and borders/immigration units. New Home Secretary Shabana Mahmood and Perm Sec Antonia Romeo confront this debate as politicians from Karen Bradley to the Greens echo past demands, despite No 10’s view that reorganisation would be disruptive. Critics like Nick Timothy and the Institute for Government argue that culture, leadership and policy reforms, not structural overhaul, are essential. Mahmood now weighs a full-scale transformation against continued crisis management.",
+      "summaryTokens": 1004,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
     },
     {
       "id": "politics/2025/oct/28/reform-wheels-out-danny-kruger-brains-nigel-farage-operation",
@@ -47,9 +377,21 @@
       "section": "politics",
       "publishedDate": "2025-10-28T18:29:13Z",
       "trailText": "A man with no experience of government is to prepare the party … to govern. What could possibly go wrong?",
-      "summary": "Danny Kruger, a former Tory MP with minimal government experience, has been unveiled by Reform UK as Nigel Farage’s chief policy architect ahead of the next election. Despite writing a handful of opposition speeches and briefly serving Boris Johnson, Kruger boasts of readying Reform to govern: bolstering parliamentary sovereignty (except for Farage’s handpicked ministers), slashing civil service roles, ending DEI, ending leases on Whitehall departments and launching a “government waste” hotline. His live defence of Sarah Pochin’s “accidental racism” sealed doubts over his judgment.",
-      "summaryTokens": 869,
-      "generatedAt": "2025-10-28T21:17:18.987Z"
+      "summary": "Reform UK has appointed Danny Kruger, an ex-Tory MP with minimal government experience, as Nigel Farage’s chief policy architect ahead of the next election. Despite only writing opposition speeches for David Cameron and briefly serving as Boris Johnson’s political secretary, Kruger outlined plans for a sovereign parliament with half of ministers hand-picked by Farage, a 30% civil service cull, scrapping international treaties and DEI programmes, and a secret anti-waste hotline. At a tightly controlled press conference, he dodged accountability for his Wiltshire constituency and defended Sarah Pochin against “accidental racism” claims. Critics warn his proposals expose Reform’s contradictions and its reliance on personality over substance.",
+      "summaryTokens": 705,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
+    },
+    {
+      "id": "politics/2025/oct/28/john-major-tells-tories-reform-alliance-beyond-stupid",
+      "title": "John Major tells Tories alliance with Reform would be ‘beyond stupid’",
+      "webUrl": "https://www.theguardian.com/politics/2025/oct/28/john-major-tells-tories-reform-alliance-beyond-stupid",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/oct/28/john-major-tells-tories-reform-alliance-beyond-stupid",
+      "section": "politics",
+      "publishedDate": "2025-10-28T17:48:07Z",
+      "trailText": "Former PM says a pact would destroy the Conservatives for good and urges them not to desert centre ground",
+      "summary": "Former PM John Major told a Conservative party lunch that an alliance with Nigel Farage’s Reform UK would ‘for ever destroy’ the Tories, dismissing such a pact as ‘beyond stupid.’ He urged any defectors to leave now and called on the party to reclaim the centre ground, warning that populist nationalism erodes democracy. Major criticised leader Kemi Badenoch’s plans to scrap the net-zero target and cut overseas aid by £7bn, arguing that one-nation Conservatism is under threat. He called for reintegrating right-wing, centre and centre-left Tories to rebuild broad appeal, cautioning that without unity the party risks irrelevance amid a global swing towards authoritarianism.",
+      "summaryTokens": 574,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
     },
     {
       "id": "politics/2025/oct/28/letter-sir-robert-worcester-obituary",
@@ -59,9 +401,9 @@
       "section": "politics",
       "publishedDate": "2025-10-28T16:49:47Z",
       "trailText": "Neil Kinnock writes: Characteristically, Bob was offering kindly reassurance. I was grateful.",
-      "summary": "In his obituary letter for Sir Robert Worcester, former Labour leader Neil Kinnock reflects on Worcester’s unfailing kindness and political insight. Although MORI lost its role as Labour’s pollster to Philip Gould’s agency in the late 1980s, Worcester remained a friend. After Labour’s 1992 election defeat—John Major won a 21-seat majority—Worcester called to console Kinnock, revealing that the combined majorities of the 11 smallest Tory seats amounted to just 1,240 votes out of 31 million cast. By reframing the loss as surprisingly narrow, he offered measured reassurance, for which Kinnock remains grateful.",
-      "summaryTokens": 752,
-      "generatedAt": "2025-10-28T21:17:18.987Z"
+      "summary": "Sir Robert Worcester, founder of the MORI polling firm and former Labour pollster supplanted by Philip Gould, remained a loyal friend to Neil Kinnock. After Labour’s defeat by John Major in 1992, yielding a slim 21-seat majority, Worcester phoned Kinnock to console him with a revealing statistic: the combined Tory margins in the 11 most marginal constituencies totaled just 1,240 votes. By framing 1,240 out of 31 million votes as a narrow loss, Worcester exemplified his hallmark kindness and analytical reassurance.",
+      "summaryTokens": 605,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
     },
     {
       "id": "politics/2025/oct/28/reform-uk-let-ministers-ignore-international-law-danny-kruger",
@@ -70,10 +412,10 @@
       "apiUrl": "https://content.guardianapis.com/politics/2025/oct/28/reform-uk-let-ministers-ignore-international-law-danny-kruger",
       "section": "politics",
       "publishedDate": "2025-10-28T14:15:52Z",
-      "trailText": "Party’s Doge chief says he would cut civil service and close six government offices – most of which are already closing",
-      "summary": "Danny Kruger, Reform UK’s new efficiency tsar, proposes to let ministers disregard international law, rewrite ministerial and civil service codes and grant the cabinet US-style 'hire and fire' powers over civil servants, cutting their ranks by 30% to pre-Brexit levels and shuttering six government offices. He also suggests bringing non-MPs into the Lords, tightening anti-union rules and centralizing authority under ministers. Critics point out most offices are already closing and warn the Trump-inspired overhaul risks undermining institutional checks and fuel party infighting amid recent controversial remarks by Reform MPs.",
-      "summaryTokens": 752,
-      "generatedAt": "2025-10-28T21:17:18.987Z"
+      "trailText": "Party’s efficiency chief says he would cut civil service and close six government offices – most of which are already closing",
+      "summary": "Reform UK’s new efficiency tsar Danny Kruger proposes sweeping powers for ministers, including ignoring international law, rewriting the ministerial and civil service codes, and granting cabinet “hire and fire” control over civil servants. He plans a 30% cut in the civil service, closure of six government offices, political appointments from outside Parliament (notably in the Lords), and tougher anti-union rules to curb “malevolent” staff. Kruger likens his approach to Trump’s, while critics highlight organisational chaos within Reform and question the feasibility of its savings claims.",
+      "summaryTokens": 736,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
     },
     {
       "id": "politics/2025/oct/28/jeremy-corbyn-to-appear-in-north-london-panto",
@@ -83,9 +425,9 @@
       "section": "politics",
       "publishedDate": "2025-10-28T10:55:27Z",
       "trailText": "Former Labour leader will make onscreen cameo as ‘Wizard of Oz-lington’ in drag production of Wicked Witches",
-      "summary": "Former Labour leader Jeremy Corbyn, now an independent Islington North MP, will make an onscreen cameo as the “Wizard of Oz-lington” in Pleasance Theatre’s drag panto Wicked Witches this Christmas. Marking the venue’s 30th anniversary and first panto in over 20 years, the camp show features cabaret, pop parodies and festive sparkle. Corbyn, expelled from Labour in 2024 and co-founder of a new leftwing party with Zarah Sultana, praised the inclusive, community spirit of local theatre.",
-      "summaryTokens": 481,
-      "generatedAt": "2025-10-28T21:17:18.987Z"
+      "summary": "Jeremy Corbyn, the ex-Labour leader turned independent MP for Islington North, will appear onscreen as the “Wizard of Oz-lington” in a drag pantomime of Wicked Witches at north London’s Pleasance theatre. This cameo marks the venue’s first panto in over 20 years and celebrates its 30th anniversary. Corbyn praised local theatre’s inclusive, festive spirit. The production—packed with camp cabaret, pop parody and soaring vocals—promises a gloriously sassy Christmas spectacular. Expelled from Labour in 2024, Corbyn has since co-founded a new leftwing party with ex-MP Zarah Sultana.",
+      "summaryTokens": 952,
+      "generatedAt": "2025-11-02T00:07:41.796Z"
     },
     {
       "id": "politics/2025/oct/27/lammy-tells-labour-to-learn-from-caerphilly-defeat-as-party-seeks-reset",
