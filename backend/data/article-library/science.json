@@ -1,20 +1,86 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-10-28T16:21:27.356Z",
+    "generated_at": "2025-11-02T00:08:56.714Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-10-27"
+      "to": "2025-11-01"
     },
-    "article_count": 74,
+    "article_count": 79,
+    "merge_info": {
+      "previous_count": 74,
+      "new_articles": 5,
+      "updated_articles": 0,
+      "total_count": 79
+    },
     "batch_info": {
-      "initial_batch_id": "batch_6900eb7eee948190af9b965ef1b17f0b",
+      "initial_batch_id": "batch_6906a0d6a7248190b68a327f676683cd",
       "retry_batches": [],
-      "total_tokens": 180614,
-      "processing_time_hours": 0.1
+      "total_tokens": 10174,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/01/unregulated-sperm-joe-donor-still-advertising-services-despite-court-warnings-women",
+      "title": "Unregulated sperm donor still advertising services despite court warnings to women",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/01/unregulated-sperm-joe-donor-still-advertising-services-despite-court-warnings-women",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/01/unregulated-sperm-joe-donor-still-advertising-services-despite-court-warnings-women",
+      "section": "science",
+      "publishedDate": "2025-11-01T07:00:30Z",
+      "trailText": "Exclusive: Behaviour of Robert Albon, or ‘Joe Donor’, described as compulsive by judge who said he targeted vulnerable women",
+      "summary": "Robert Albon (“Joe Donor”), a prolific unregulated sperm donor claiming 180 global offspring, continues advertising on social media—offering UK visits for £20 or sample shipments at £100—despite warnings from two UK family court judges. Named publicly in 2023 for targeting vulnerable women, he has unsuccessfully sought parental responsibility and custody for four of his children against mothers’ wishes. Judges described his behaviour as compulsive, controlling and lacking empathy. Albon faces ongoing high-court litigation and a US warrant over unpaid child maintenance.",
+      "summaryTokens": 994,
+      "generatedAt": "2025-11-02T00:08:56.334Z"
+    },
+    {
+      "id": "science/2025/oct/30/nasa-kim-kardashian-moon-landings",
+      "title": "‘Yes, we’ve been to the moon before’: Nasa rebuffs Kim Kardashian conspiracy theory",
+      "webUrl": "https://www.theguardian.com/science/2025/oct/30/nasa-kim-kardashian-moon-landings",
+      "apiUrl": "https://content.guardianapis.com/science/2025/oct/30/nasa-kim-kardashian-moon-landings",
+      "section": "science",
+      "publishedDate": "2025-10-31T01:25:08Z",
+      "trailText": "Nasa chief Sean Duffy confirms 1969 landing was indeed real after US celebrity on TV show says ‘I think it was fake’",
+      "summary": "Nasa acting administrator Sean Duffy publicly reaffirmed the authenticity of the six Apollo moon landings after reality star Kim Kardashian, on an episode of The Kardashians, cast doubt on the 1969 mission, citing a misreported Buzz Aldrin remark. Duffy tagged her on X with footage, quipped ‘Yes, we’ve been to the Moon before…6 times!’, invited her to the upcoming Artemis launch, and clarified NASA’s observations of interstellar comet 3I/ATLAS. NASA pointed to 382 kg of verified lunar samples and peer-reviewed studies debunking staged-landing theories.",
+      "summaryTokens": 1133,
+      "generatedAt": "2025-11-02T00:08:56.334Z"
+    },
+    {
+      "id": "science/2025/oct/30/researchers-discover-nanotyrannus-tyrannosaur-species-in-duelling-dinosaurs-fossil",
+      "title": "Researchers discover new tyrannosaur species in ‘duelling dinosaurs’ fossil ",
+      "webUrl": "https://www.theguardian.com/science/2025/oct/30/researchers-discover-nanotyrannus-tyrannosaur-species-in-duelling-dinosaurs-fossil",
+      "apiUrl": "https://content.guardianapis.com/science/2025/oct/30/researchers-discover-nanotyrannus-tyrannosaur-species-in-duelling-dinosaurs-fossil",
+      "section": "science",
+      "publishedDate": "2025-10-30T16:03:19Z",
+      "trailText": "Analysis of Montana fossils shows the battling predator was a fully grown Nanotyrannus, not a young T rex",
+      "summary": "Analysis of a 66-million-year-old “duelling dinosaurs” fossil from Montana shows the combatant medium-sized tyrannosaur is a fully grown Nanotyrannus lancensis, not a juvenile Tyrannosaurus rex. Researchers at North Carolina Museum of Natural Sciences (Zanno et al., Nature) cite higher tooth count, enlarged hands, shorter tail, distinct cranial sinuses and 1,500-lb adult size to validate Nanotyrannus as a separate species. They reassign the Cleveland skull (1946) and “Jane” juvenile (2001) to Nanotyrannus, urging reevaluation of studies using these as teenage T. rex models. Some paleontologists remain cautious about distinguishing smaller tyrannosaur species.",
+      "summaryTokens": 1049,
+      "generatedAt": "2025-11-02T00:08:56.334Z"
+    },
+    {
+      "id": "science/2025/oct/29/can-bowhead-whales-with-their-200-year-lifespan-help-us-to-slow-ageing",
+      "title": "Can bowhead whales with their 200-year lifespan help us to slow ageing?",
+      "webUrl": "https://www.theguardian.com/science/2025/oct/29/can-bowhead-whales-with-their-200-year-lifespan-help-us-to-slow-ageing",
+      "apiUrl": "https://content.guardianapis.com/science/2025/oct/29/can-bowhead-whales-with-their-200-year-lifespan-help-us-to-slow-ageing",
+      "section": "science",
+      "publishedDate": "2025-10-29T16:00:00Z",
+      "trailText": "Researchers find Earth’s longest-living mammal is particularly good at fixing faulty DNA – and cold water may help",
+      "summary": "Researchers investigating bowhead whales—Arctic giants living over 200 years—found their cells excel at repairing DNA double-strand breaks, thanks to 100-fold higher levels of the cold-induced protein CIRBP. This enhanced repair reduces mutations, likely underpinning their exceptional longevity and low cancer incidence. Elevating CIRBP in human cells doubled break repair; fruit flies with extra CIRBP showed increased lifespan and radiation resilience. The team plans CIRBP-boosted mice trials, cold-water exposure studies and drug-based induction. Experts note translating this to humans demands balancing repair enhancement with physiological renewal limits, but affirm human DNA repair capacity can improve.",
+      "summaryTokens": 882,
+      "generatedAt": "2025-11-02T00:08:56.334Z"
+    },
+    {
+      "id": "science/2025/oct/29/brain-changes-lapses-of-attention-tired-sleep-deprived",
+      "title": "Scans shed light on changes in brain when we zone out while tired",
+      "webUrl": "https://www.theguardian.com/science/2025/oct/29/brain-changes-lapses-of-attention-tired-sleep-deprived",
+      "apiUrl": "https://content.guardianapis.com/science/2025/oct/29/brain-changes-lapses-of-attention-tired-sleep-deprived",
+      "section": "science",
+      "publishedDate": "2025-10-29T10:27:19Z",
+      "trailText": "Study finds lapses of attention in sleep-deprived people coincide with wave of fluid flowing out of the brain",
+      "summary": "Using simultaneous EEG and fMRI in 26 volunteers, MIT scientists led by Dr Laura Lewis and Dr Zinong Yang identified that sleep deprivation induces brief attention lapses coinciding with a pulse of cerebrospinal fluid expelled from the brain seconds after focus is lost and returning upon recovery. These events, marked by pupil constriction ~12s beforehand and slower heart and breathing rates, resemble deep-sleep waste-clearance waves. Published in Nature Neuroscience, the study suggests the tired brain intermittently pauses external focus to perform crucial maintenance—’forced pit stops’, as UCL’s Dr Ria Kodosaki terms them—though the functional impact remains unclear according to UK Dementia Research Institute’s Prof Bill Wisden.",
+      "summaryTokens": 895,
+      "generatedAt": "2025-11-02T00:08:56.334Z"
+    },
     {
       "id": "science/2025/oct/27/did-you-solve-it-wordplay-wizardry-by-the-uks-king-of-quiz",
       "title": "Did you solve it? Wordplay wizardry by the UK’s king of quiz",
