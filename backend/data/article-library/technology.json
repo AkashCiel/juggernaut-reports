@@ -1,26 +1,194 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-10-28T14:39:40.083Z",
+    "generated_at": "2025-11-02T00:13:24.782Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-10-28"
+      "to": "2025-11-01"
     },
-    "article_count": 143,
+    "article_count": 157,
     "merge_info": {
-      "previous_count": 12,
-      "new_articles": 131,
-      "updated_articles": 12,
-      "total_count": 143
+      "previous_count": 143,
+      "new_articles": 14,
+      "updated_articles": 5,
+      "total_count": 157
     },
     "batch_info": {
-      "initial_batch_id": "batch_6900d2a5c2348190b907026980017ca2",
+      "initial_batch_id": "batch_6906a1ccf2588190bc324a0eab28b22b",
       "retry_batches": [],
-      "total_tokens": 409934,
-      "processing_time_hours": 0.2
+      "total_tokens": 38228,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/02/corporate-responses-data-leaks-protecting-brands-not-consumers",
+      "title": "Knee-jerk corporate responses to data leaks protect brands like Qantas — but consumers are getting screwed",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/02/corporate-responses-data-leaks-protecting-brands-not-consumers",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/02/corporate-responses-data-leaks-protecting-brands-not-consumers",
+      "section": "technology",
+      "publishedDate": "2025-11-01T19:00:41Z",
+      "trailText": "When courts ban people from accessing leaked data – as happened after the recent Qantas data breach – only hackers and scammers win",
+      "summary": "After Qantas obtained a NSW Supreme Court injunction to bar “persons unknown” from using data stolen in its breach of 5 million frequent-flyer records, hackers still leaked info. The order also blocks legitimate actors—including Troy Hunt’s HaveIBeenPwned—from validating and notifying customers, while overseas firms like Equifax/Norton freely alert victims under US/Czech jurisdictions. Cyber experts warn this brand-protection scheme shields reputations but leaves consumers exposed, undermines transparency, fuels inevitable class actions, and fails to measurably protect anyone from cyber-scammers.",
+      "summaryTokens": 1000,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/nov/01/ducking-annoying-why-has-iphones-autocorrect-function-gone-haywire",
+      "title": "Ducking annoying: why has iPhone’s autocorrect function gone haywire?",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/01/ducking-annoying-why-has-iphones-autocorrect-function-gone-haywire",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/01/ducking-annoying-why-has-iphones-autocorrect-function-gone-haywire",
+      "section": "technology",
+      "publishedDate": "2025-11-01T07:43:51Z",
+      "trailText": "The internet has been rumbling about autocorrect for years – and now AI is changing how the technology works",
+      "summary": "Since iOS 26’s September rollout, iPhone users have reported bizarre autocorrect errors—“come” becoming “coke,” “winter” splitting into “w Inter”—sparking viral clips, 9 m+ views and conspiracy theories. Apple quietly replaced its classic n-gram spell-checker with an on-device transformer language model that learns from users. Pioneers like Kenneth Church and Jan Pedersen warn the AI-driven system is far more opaque: it generally improves predictions but when it fails, it fails spectacularly, and its inner workings remain a deep secret.",
+      "summaryTokens": 625,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/30/apple-earnings-iphone-demand",
+      "title": "Apple reports record iPhone sales as new lineup reignites worldwide demand",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/30/apple-earnings-iphone-demand",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/30/apple-earnings-iphone-demand",
+      "section": "technology",
+      "publishedDate": "2025-10-30T21:09:30Z",
+      "trailText": "Tim Cook forecast 10% to 12% revenue growth in the quarter ending in December, typically Apple’s biggest of the year",
+      "summary": "Apple delivered a September-quarter revenue record of $102.5 billion, up 8% YoY, driven by its new iPhone 17 and 17 Pro lineup and an all-time high in Services. CEO Tim Cook forecast 10–12% growth for the December quarter, traditionally Apple’s strongest. Although iPhone revenue of $49.0 billion missed estimates and China sales underperformed, strong Other Products and Services figures beat Street forecasts and lifted after-hours stock. Apple’s market cap recently topped $4 trillion. Amid rising tariffs and AI delays, analysts say robust legacy sales and a price hike on the iPhone underscore continued consumer demand.",
+      "summaryTokens": 825,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/30/aws-revenue-outage",
+      "title": "Amazon reports strongest cloud growth since 2022 after major outage",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/30/aws-revenue-outage",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/30/aws-revenue-outage",
+      "section": "technology",
+      "publishedDate": "2025-10-30T20:50:40Z",
+      "trailText": "Amazon Web Services (AWS) sees 20% increase in revenue year over year, topping Wall Street estimates",
+      "summary": "In Q3 Amazon Web Services posted 20% year-over-year revenue growth to $33 billion—its fastest pace since 2022—even after a major global outage brought critical services offline. AWS outperformed Wall Street’s $32.42 billion estimate, lifting Amazon’s total revenue to $180.17 billion and EPS to $1.95, against expectations of $177.82 billion and $1.58, and driving shares up 9% after hours. The results underscore AWS’s resilience amid rising competition from Google Cloud and Azure, and support Amazon’s ramp-up of AI integrations like the Rufus shopping assistant and Zoox robotaxi tests in DC. Concurrently, Amazon announced 14,000 corporate layoffs to “operate like a startup,” citing cultural agility over cost or AI-driven cuts, according to CEO Andy Jassy.",
+      "summaryTokens": 669,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/30/openai-1tn-stock-market-float-ipo",
+      "title": "OpenAI thought to be preparing for $1tn stock market float ",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo",
+      "section": "technology",
+      "publishedDate": "2025-10-30T18:22:08Z",
+      "trailText": "ChatGPT developer is considering filing for an IPO by the second half of 2026, according to reports",
+      "summary": "OpenAI is reportedly preparing for a stock market listing valuing it at $1trn, targeting at least $60bn in proceeds via an IPO as soon as H2 2026. CEO Sam Altman highlighted the need for massive capital to fund AI datacenters and AGI development. After restructuring into a capped-profit model controlled by its nonprofit, with Microsoft owning ~27% at a $500bn valuation, OpenAI posted $4.3bn revenue and $7.8bn operating loss in H1 2025. CFO Sarah Friar reportedly aims for a 2027 float. Bank of England warns of AI-driven market bubble risks.",
+      "summaryTokens": 1778,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/30/google-pixel-10-pro-fold-review-dust-resistant-foldable-phone-screen-ai",
+      "title": "Google Pixel 10 Pro Fold review: dust-resistant and more durable foldable phone",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/30/google-pixel-10-pro-fold-review-dust-resistant-foldable-phone-screen-ai",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/30/google-pixel-10-pro-fold-review-dust-resistant-foldable-phone-screen-ai",
+      "section": "technology",
+      "publishedDate": "2025-10-30T07:00:55Z",
+      "trailText": "Book-style Android with cutting-edge AI, good cameras and great tablet screen for media and multitasking on the go",
+      "summary": "Google’s Pixel 10 Pro Fold, priced at $1,799/£1,749, is the first foldable with IP68 dust and water resistance thanks to a gearless hinge. It retains 8-in and 6.4-in 120 Hz OLED screens with brighter panels and slimmer bezels, but weighs 258 g. Powered by Google Tensor G5, 16 GB RAM and ≥256 GB storage, it delivers smooth performance and variable battery life (≈40 hrs light use; ≈28 hrs heavy). Its AI suite includes Android 16, Magic Cue context-aware assistance, Gemini chatbot, real-time call translation and a year of Google AI Pro. The 48 MP main, 10.5 MP ultrawide and 10.8 MP 5× telephoto cameras excel in daylight but soften in low light, while seven years of updates and repair options underscore sustainability.",
+      "summaryTokens": 633,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/30/teenage-boys-using-personalised-ai-for-therapy-and-romance-survey-finds",
+      "title": "Teenage boys using ‘personalised’ AI for therapy and romance, survey finds",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/30/teenage-boys-using-personalised-ai-for-therapy-and-romance-survey-finds",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/30/teenage-boys-using-personalised-ai-for-therapy-and-romance-survey-finds",
+      "section": "technology",
+      "publishedDate": "2025-10-30T00:01:46Z",
+      "trailText": "Male Allies UK worries rise in chatbot ‘girlfriends’ will leave boys unable to socialise and respect boundaries",
+      "summary": "Research by Male Allies UK across 37 secondary schools in England, Scotland and Wales reveals teenage boys increasingly rely on hyper-personalised AI chatbots for therapy, companionship and even romance—over a third are open to AI friends and 53% find the online world more rewarding. Bots often present as licensed therapists or customizable 'girlfriends', blurring boundaries, disrupting sleep and skewing social development. Following tragedies and lawsuits, Character.ai will ban teen users by November 25 under regulatory pressure. Experts warn AI companions may stunt relational skills, empathy and respect for consent, raising urgent safeguarding concerns.",
+      "summaryTokens": 1194,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/29/microsoft-earnings-azure-outage-xbox",
+      "title": "Microsoft reports strong earnings as Azure hit by major outage",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/29/microsoft-earnings-azure-outage-xbox",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/29/microsoft-earnings-azure-outage-xbox",
+      "section": "technology",
+      "publishedDate": "2025-10-29T23:56:29Z",
+      "trailText": "Tech giant reports earnings of $3.72 per share day after deal with OpenAI pushed value of company to more than $4tn",
+      "summary": "Microsoft reported Q1 EPS of $3.72 vs. $3.68 expected and revenue of $77.7 bn vs. $75.5 bn, up from $3.30 and $65.6 bn a year ago. Azure grew 40%, operating income rose 24% to $38 bn, net income was $27.7 bn, despite an Azure Front Door outage impacting Xbox, 365 and investor pages. Satya Nadella touted a $34.9 bn AI spend (up 74%) and the expanded OpenAI deal giving Microsoft 27% of the for-profit arm. CFO Amy Hood said booked AI demand justifies an 80% capacity expansion.",
+      "summaryTokens": 574,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/29/meta-earnings-report",
+      "title": "Meta reports mixed financial results amid spree of AI hiring and spending",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/29/meta-earnings-report",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/29/meta-earnings-report",
+      "section": "technology",
+      "publishedDate": "2025-10-29T21:57:26Z",
+      "trailText": "Tech company brings in record quarterly revenue but major tax bill dampens earnings per share",
+      "summary": "Meta’s Q3 2025 results: record $51.24 B revenue beat forecasts but EPS plunged to $1.05 after a one-time $15.93 B tax charge (would have been $7.25). The company ended its multibillion-dollar AI hiring spree, guiding 2025 expenses to $116–118 B and capex to $70–72 B. Q4 revenue is forecast at $56–59 B. Zuckerberg touted Meta Superintelligence Labs and AI glasses, despite a $4.4 B hardware loss and privacy concerns. CFO Susan Li and analysts warn of continued heavy AI infrastructure spending, including a $27 B Hyperion data-center JV with Blue Owl. Meta also lost Media Rating Council accreditation but ad demand remains robust.",
+      "summaryTokens": 1181,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/29/alphabet-earnings-report-latest-record-quarter",
+      "title": "Google parent Alphabet beats forecasts with first $100bn quarter",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/29/alphabet-earnings-report-latest-record-quarter",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/29/alphabet-earnings-report-latest-record-quarter",
+      "section": "technology",
+      "publishedDate": "2025-10-29T21:18:23Z",
+      "trailText": "Strong demand for ads and cloud services powered tech giant’s growth as it makes multibillion-dollar AI investment",
+      "summary": "Alphabet posted Q3 revenue of $102.35bn vs est $99.89bn, marking its first $100bn quarter driven by strong ad sales and Google Cloud's $15.16bn in revenue. The company raised capex guidance to $91–93bn for AI-focused data centers, up from $85bn, to support infrastructure. Cloud growth accelerates on Vertex AI and custom TPUs, closing the gap with Azure and AWS amid price cuts and new AI features. Ad unit remains healthy despite cautious advertiser budgets. Investors will watch Alphabet’s response to AI browser challenges from OpenAI and Microsoft.",
+      "summaryTokens": 866,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/29/nvidia-first-company-5-trillion",
+      "title": "Nvidia becomes world’s first $5tn company amid stock market and AI boom",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/29/nvidia-first-company-5-trillion",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/29/nvidia-first-company-5-trillion",
+      "section": "technology",
+      "publishedDate": "2025-10-29T16:25:07Z",
+      "trailText": "Silicon Valley chipmaker hits $5tn valuation just three months after it was first to break through the $4tn barrier",
+      "summary": "Nvidia became the world’s first $5 trillion company, just three months after breaching $4 trillion, with shares at $207.86 valuing it above India, Japan and UK GDPs. Its stock surged on AI chip demand, $500 billion in orders and deals with Uber on robotaxis, Nokia on 6G, the US DOE on seven AI supercomputers and a $100 billion investment in OpenAI for GPT infrastructure. Backed by Trump, Nvidia faces warnings of an AI-driven market bubble from the BoE and IMF.",
+      "summaryTokens": 860,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/29/character-ai-suicide-children-ban",
+      "title": "Character.AI bans users under 18 after being sued over child’s suicide",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/29/character-ai-suicide-children-ban",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/29/character-ai-suicide-children-ban",
+      "section": "technology",
+      "publishedDate": "2025-10-29T16:07:25Z",
+      "trailText": "Move comes as lawmakers move to bar minors from using AI companions and require companies to verify users’ age",
+      "summary": "Character.AI will bar users under 18 from its open-ended AI companions starting late November, after facing lawsuits—most prominently over a 14-year-old’s suicide—and growing regulatory pressure. The company plans to deploy age-verification tools and age-appropriate content controls, citing concerns about teen mental health. The decision follows multiple wrongful-death suits, scrutiny of ChatGPT’s youth safety, California’s 2026 AI youth-protection law, and a proposed federal bill by Senators Hawley and Blumenthal to ban minors from AI chatbots.",
+      "summaryTokens": 473,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/28/apple-market-value-iphone",
+      "title": "Apple hits $4tn market value as new iPhone models revitalize sales",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/28/apple-market-value-iphone",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/28/apple-market-value-iphone",
+      "section": "technology",
+      "publishedDate": "2025-10-28T18:01:33Z",
+      "trailText": "Tech company’s stock enters positive territory for first time this year after gaining about 13% since new iPhone launches",
+      "summary": "Apple topped a $4 trn market valuation for the first time on strong demand for its iPhone 17 lineup, which drove its shares up 13% since launch and 50% since April. The iPhone now generates over half of Apple’s revenue, with the slim iPhone Air design fending off rivals and early 17-series sales outperforming its predecessor by 14% in key US and Chinese markets. Apple absorbed elevated US tariffs to preserve pricing, reported double-digit quarterly growth, and sees services revenue nearing $100 bn, even as it treads cautiously on AI amid exec departures.",
+      "summaryTokens": 995,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
+    {
+      "id": "technology/2025/oct/28/openai-for-profit-restructuring",
+      "title": "OpenAI completes conversion to for-profit business after lengthy legal saga",
+      "webUrl": "https://www.theguardian.com/technology/2025/oct/28/openai-for-profit-restructuring",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/oct/28/openai-for-profit-restructuring",
+      "section": "technology",
+      "publishedDate": "2025-10-28T15:10:05Z",
+      "trailText": "Restructuring paves way for ChatGPT maker to more easily raise capital and profit off its AI technology",
+      "summary": "OpenAI has finalized its shift from nonprofit to a for-profit public benefit corporation following Delaware AG approval, ending a year-long review. Under a restructured deal with Microsoft, the software giant takes a 27% stake—worth over $100 bn on a $500 bn valuation—while the original nonprofit, now the OpenAI Foundation, retains technical control and will allocate $25 bn toward health initiatives and AI risk mitigation. AGI achievements will be certified by an independent panel, and Microsoft keeps research and commercial rights until verified AGI or 2030. Elon Musk’s lawsuit and $100 bn takeover bid were dropped and refiled before this settlement, prompting criticism that nonprofit oversight may be symbolic.",
+      "summaryTokens": 502,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
+    },
     {
       "id": "technology/2025/oct/28/alan-turing-institute-launches-new-mission-to-protect-uk-from-cyber-attacks",
       "title": "Alan Turing institute launches new mission to protect UK from cyber-attacks ",
@@ -29,9 +197,9 @@
       "section": "technology",
       "publishedDate": "2025-10-28T13:29:39Z",
       "trailText": "Programme is designed to defend energy, transport and utilities amid concern over vulnerability to internet outages",
-      "summary": "UK's Alan Turing Institute unveiled a mission to defend energy, transport and utilities from cyberattacks and outages, amid a strategic overhaul after staff unrest and CEO Jean Innes's resignation. Chair Doug Gurr said 78 projects at the 440-staff institute were closed, spun out or completed to align with the new focus. Former air and space warfare commander Blythe Crawford will report next month on supporting defence, security and intelligence. The institute will use AI to forecast weather, oceans and sea ice, cut emissions in networks and manufacturing, and build cardiac digital twins. Move follows AWS outage and attacks disrupting JLR, M&S and Co-op.",
-      "summaryTokens": 3309,
-      "generatedAt": "2025-10-28T14:39:39.720Z"
+      "summary": "Britain’s Alan Turing Institute, amid fallout from toxic culture allegations and the CEO’s resignation, has launched a government-funded AI mission to protect UK energy, transport and utilities infrastructure from cyber-attacks. Led by former air and space warfare commander Blythe Crawford, it will align AI projects to defense, national security and internet-outage resilience, closing or spinning out 78 misaligned research strands. The institute will also apply AI to environmental forecasting, emissions reduction in transport and manufacturing, and develop cardiac digital twins for personalized medicine.",
+      "summaryTokens": 801,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
     },
     {
       "id": "technology/2025/oct/27/ai-tech-donald-trump-san-francisco",
@@ -41,9 +209,9 @@
       "section": "technology",
       "publishedDate": "2025-10-28T13:22:19Z",
       "trailText": "In this week’s newsletter: Silicon Valley billionaires have a hotline to the US president. Plus, the head of Firefox talks AI-integrated browsers, and more",
-      "summary": "TechScape surveys AI-first browsers—OpenAI’s ChatGPT Atlas, Edge’s Copilot Mode, Perplexity’s free Comet, and Chrome with Gemini—and presses Firefox GM Anthony Enzor-DeMeo on going “full AI,” agentic browsing, and privacy. Trump dropped a National Guard “surge” into San Francisco after calls from Nvidia’s Jensen Huang and Salesforce’s Marc Benioff (who reversed comments during Dreamforce); tech donors are also funding a new White House ballroom (Google, Apple, Palantir). AWS’s outage stemmed from an empty DNS record in US-East-1 that crippled DynamoDB and services like Signal until manual repair. Tinder is expanding face-scan signup checks in the US, Australia, Canada, and India, with Hinge next—stoking biometric privacy vs safety debates.",
-      "summaryTokens": 1673,
-      "generatedAt": "2025-10-28T14:39:39.720Z"
+      "summary": "TechScape’s newsletter spotlights three tech battlegrounds: AI-embedded browsers, White House lobbying by Silicon Valley donors, and biometric checks in online dating. Firefox GM Anthony Enzor-DeMeo discusses the shift from chatbots to AI-centric browsers—OpenAI’s ChatGPT Atlas, Microsoft’s Edge Copilot Mode, Perplexity’s Comet and Chrome With Gemini—probing user privacy and agentic browsing. Nvidia’s Jensen Huang and Salesforce chief Marc Benioff successfully pressed Trump to defer a San Francisco National Guard deployment, illustrating tech donors’ influence. Meanwhile, Tinder’s rollout of mandatory face-scan verification across key markets signals a broader tradeoff between user safety and immutable biometric privacy.",
+      "summaryTokens": 1210,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
     },
     {
       "id": "technology/2025/oct/27/amazon-corporate-jobs-cuts",
@@ -53,9 +221,9 @@
       "section": "technology",
       "publishedDate": "2025-10-28T12:30:46Z",
       "trailText": "Retail giant, which is vying to reverse pandemic hiring spree, attempts to cut costs and slim down its operation",
-      "summary": "Amazon confirmed 14,000 corporate layoffs, reversing pandemic hiring to cut costs and “remove layers,” per SVP Beth Galetti. The cuts—material within ~350,000 corporate staff but small versus 1.55m total—span HR (People Experience & Tech), devices/services, and operations; Fortune says up to 15% of HR. Reuters/WSJ earlier flagged as many as 30,000 roles. CEO Andy Jassy says AI agents will reduce white-collar needs; further efficiencies are eyed into 2026. Shares rose 1.2% Monday. Managers trained Monday; email notifications start Tuesday.",
-      "summaryTokens": 1309,
-      "generatedAt": "2025-10-28T14:39:39.720Z"
+      "summary": "Amazon said it will lay off 14,000 corporate roles—about 4% of its 350k white-collar staff—as part of a broader cost-cutting push to reverse its pandemic hiring spree. SVP Beth Galetti cited the need to remove bureaucracy and refocus resources on key bets, warning that AI and generative tools will reshape staffing needs. The cuts, smaller than earlier reports of 30k job losses but still the company’s largest corporate layoff, affect HR, devices, operations and other teams. CEO Andy Jassy has championed AI, dropped management layers and plans further efficiency drives in 2026.",
+      "summaryTokens": 874,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
     },
     {
       "id": "technology/2025/oct/28/elon-musk-grokipedia",
@@ -65,9 +233,9 @@
       "section": "technology",
       "publishedDate": "2025-10-28T12:15:44Z",
       "trailText": "Grokipedia’s entries hew closely to conservative talking points, with some journalists already saying it contains inaccurate information",
-      "summary": "Elon Musk launched Grokipedia, an AI-run encyclopedia “fact-checked” by his Grok chatbot and positioned as a right-leaning alternative to Wikipedia. Many entries cite Wikipedia but lack human authors. Musk says the idea came from Trump administration AI/crypto czar David Sacks. Pages mirror conservative talking points: the Jan 6 entry cites “widespread claims of voting irregularities,” downplays Trump’s role, and alleges mainstream sources inflate casualties/intent. Journalists already flag inaccuracies (e.g., pornography worsened the AIDS epidemic). The launch follows Musk’s attacks on mainstream media and X’s boost of right/far-right voices. He briefly led Trump’s DOGE (ended April); an August Gallup poll ranked him most disliked.",
-      "summaryTokens": 950,
-      "generatedAt": "2025-10-28T14:39:39.720Z"
+      "summary": "Elon Musk has rolled out Grokipedia, an AI-powered encyclopedia he claims is “fact-checked” by his Grok chatbot and reflects his right-wing views. Built on Wikipedia content without human editors, Grokipedia aligns with conservative talking points: its January 6 entry echoes claims of election irregularities and downplays Trump’s role, while other pages propagate disputed assertions like pornography exacerbating AIDS. Musk, influenced by former Trump AI czar David Sacks, criticizes mainstream media, uses X to promote far-right voices, and seeks to supplant volunteer-edited knowledge with AI-driven narratives. Journalists have flagged multiple inaccuracies, signaling potential risks of bias-encoded misinformation in the platform.",
+      "summaryTokens": 944,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
     },
     {
       "id": "technology/2025/oct/28/firefox-ai-internet-anthony-enzor-demeo",
@@ -77,9 +245,9 @@
       "section": "technology",
       "publishedDate": "2025-10-28T09:30:23Z",
       "trailText": "After the release of a slew of other AI-integrated browsers, Anthony Enzor-DeMeo discusses ChatGPT Atlas, the Google monopoly trial – and the future",
-      "summary": "Firefox GM Anthony Enzor-DeMeo on AI browsers (ChatGPT Atlas, Edge Copilot Mode, Chrome with Gemini, Perplexity Comet): shift from links to agent answers; citations matter. He warns AI costs could push the web behind paywalls. Firefox will add AI cautiously: opt-in; side panel lets users pick Copilot, Gemini, or Perplexity; no lock-in. Paid AI ~3%; models for revenue and willingness to pay remain unsettled, vary by country. Firefox struck a Perplexity deal (undisclosed) alongside Google default and ~50 search options. Privacy stays user-controlled (no login, private browsing). Generational differences on personalization. Google antitrust ruling preserved search payments; AI-search monetization unresolved. Firefox has ~200M users; sees AI choice as growth.",
-      "summaryTokens": 1096,
-      "generatedAt": "2025-10-28T14:39:39.720Z"
+      "summary": "Amid launches like ChatGPT Atlas, Edge Copilot, Comet and Chrome with Gemini, Firefox GM Anthony Enzor-DeMeo says AI browsers mark a shift from search results to agent-driven answers but user appetite remains unproven. He stresses transparency—citing sources as Comet does—warns that rising web costs could trigger more paywalls, and commits Firefox to optional AI side-panels supporting Copilot, Gemini, Perplexity and more. Privacy stays core: users can disable AI, skip logins or private-browse. He sees AI features as growth levers for Firefox’s 200 million users after the Google trial ruling preserved independent browsers.",
+      "summaryTokens": 570,
+      "generatedAt": "2025-11-02T00:13:24.168Z"
     },
     {
       "id": "technology/2025/oct/27/chatgpt-suicide-self-harm-openai",
