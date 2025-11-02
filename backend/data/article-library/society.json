@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2025-11-02T00:11:48.983Z",
+    "generated_at": "2025-11-02T13:59:00.141Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-01"
+      "to": "2025-11-02"
     },
-    "article_count": 197,
+    "article_count": 199,
     "merge_info": {
-      "previous_count": 174,
-      "new_articles": 23,
-      "updated_articles": 6,
-      "total_count": 197
+      "previous_count": 197,
+      "new_articles": 2,
+      "updated_articles": 7,
+      "total_count": 199
     },
     "batch_info": {
-      "initial_batch_id": "batch_6906a1218ca8819095f5b48375e6aaac",
+      "initial_batch_id": "batch_6907634b60a48190a9408b43912984ab",
       "retry_batches": [],
-      "total_tokens": 58928,
+      "total_tokens": 22357,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "society/2025/nov/02/why-do-i-feel-tired-iron-deficiency-symptoms-anaemia-fatique-exhaustion",
+      "title": "Tired all the time? There may be a simple reason for that",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/02/why-do-i-feel-tired-iron-deficiency-symptoms-anaemia-fatique-exhaustion",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/02/why-do-i-feel-tired-iron-deficiency-symptoms-anaemia-fatique-exhaustion",
+      "section": "society",
+      "publishedDate": "2025-11-02T11:00:01Z",
+      "trailText": "Levels of fatigue among women in Britain are soaring, and this isn’t the kind that can be cured by a nap. What lies behind the exhaustion epidemic?",
+      "summary": "Britain’s widespread fatigue among women often stems from unrecognised iron deficiency: one-third of women 19–49 have low ferritin, yet GPs frequently miss diagnosis by checking only haemoglobin. Symptoms—severe exhaustion, brain fog, hair loss, heavy periods—are dismissed as lifestyle or mental-health issues. Oral iron supplements help only some; many need costly IV infusions (£600/NHS) but face long waits. Experts cite medical misogyny, dietary shifts (non-heme vs heme iron), and lack of routine screening. Advocates urge ferritin tests for symptomatic women and streamlined infusion pathways to restore women’s health and productivity.",
+      "summaryTokens": 1088,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
+    },
+    {
+      "id": "society/2025/nov/02/how-to-beat-the-winter-blues-seasonal-affective-disorder",
+      "title": "How scientists are shining light on the biology behind seasonal affective disorder",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/02/how-to-beat-the-winter-blues-seasonal-affective-disorder",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/02/how-to-beat-the-winter-blues-seasonal-affective-disorder",
+      "section": "society",
+      "publishedDate": "2025-11-02T10:00:03Z",
+      "trailText": "Researchers tracking large cohorts are discovering the effects of sleep, light and therapy on people impacted by winter’s arrival",
+      "summary": "Researchers have shown that seasonal affective disorder (SAD)—a winter-onset subtype of depression marked by low energy, hypersomnia and carb cravings—stems from endogenous shifts in circadian biology triggered by reduced daylight. Large-scale cohorts like the UK Biobank reveal seasonal gene expression changes and sleep pattern drift. Bright light therapy (10,000 lux for 20–30 minutes at dawn) and early outdoor exposure help reset the circadian clock by suppressing excess melatonin, while CBT for SAD reframes winter expectations. Simple measures—consistent sleep–wake times, morning sun, outdoor activity and cosy rituals—can mitigate the winter blues, but persistent symptoms warrant professional help.",
+      "summaryTokens": 894,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
+    },
     {
       "id": "society/2025/nov/01/hate-crimes-australia-laws-police",
       "title": "Everyone says they are worried about hate crimes. But Australia’s laws to combat them are all over the place",
@@ -29,9 +53,9 @@
       "section": "society",
       "publishedDate": "2025-11-01T19:00:45Z",
       "trailText": "Some state police forces have specific laws and units relating to hate crime, others have neither. Experts say a national definition is needed",
-      "summary": "Australia’s hate-crime framework is patchwork: some states/territories have dedicated offences (e.g. vilification in Qld, Nazi symbols in WA) and specialist units in NSW and WA, while others only treat bias as a sentencing aggravator. Guardian Australia found 435+ hate-crime charges since 2020, though conviction data is sparse. High-profile AFP operations (Avalite, Strike Force Pearl) generated hundreds of reports but few charges. Experts and a Senate inquiry urge a national definition and database for consistent reporting. Data gaps and misclassification hinder monitoring of antisemitism, Islamophobia and other abuses.",
-      "summaryTokens": 935,
-      "generatedAt": "2025-11-02T00:11:48.307Z"
+      "summary": "Australia’s hate-crime laws vary by state: while NSW and WA now have dedicated units, Northern Territory, South Australia and Tasmania rely on prejudice as sentencing aggravators. Since 2020 researchers identified 435 charges nationwide (unknown convictions); Queensland led with 125 vilification charges. Federal AFP’s Operation Avalite has yielded seven antisemitism prosecutions. A Senate inquiry has urged a nationally consistent definition and database, but data gaps and misclassification persist. Experts say uniform legislation and improved tracking are essential to gauge rising antisemitism and Islamophobia amid global conflicts.",
+      "summaryTokens": 859,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
     },
     {
       "id": "society/2025/nov/01/ministers-were-warned-of-errors-hmp-chelmsford-released-sex-offender-by-mistake",
@@ -41,9 +65,9 @@
       "section": "society",
       "publishedDate": "2025-11-01T13:43:19Z",
       "trailText": "Chaotic release procedures at HMP Chelmsford were flagged to the prisons minister last year",
-      "summary": "A December report by HMP Chelmsford’s independent monitoring board warned of multiple procedural errors—missed briefings, a cancelled release meeting, and date mix-ups—that led to the mistaken release of Hadush Kebatu, a convicted child sex offender due for immigration detention. Kebatu, an Ethiopian asylum seeker convicted of sexually assaulting a 14-year-old and a woman, was arrested in London days later and deported. Prisons minister James Timpson received the report but offered no specific remedies. Justice Secretary David Lammy blamed human error, suspended a staff member, and launched an independent inquiry chaired by Lynne Owens.",
-      "summaryTokens": 1144,
-      "generatedAt": "2025-11-02T00:11:48.307Z"
+      "summary": "An independent monitoring board report warned last year that chaotic release procedures at HMP Chelmsford risked prisoners “falling through the cracks” after a mix-up of release dates and missed briefings led to the accidental freedom of convicted child sex offender Hadush Kebatu. Kebatu, an Ethiopian asylum seeker convicted of sexual assaults on a 14-year-old and a woman, was re-arrested days later in London and deported. Prisons minister James Timpson acknowledged local concerns but did not address procedure failings. Justice secretary David Lammy has since launched an inquiry chaired by Lynne Owens and pledged the strongest release checks ever.",
+      "summaryTokens": 443,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
     },
     {
       "id": "society/2025/oct/31/stalled-newbuilds-labour-social-housing-target-out-of-reach-uk",
@@ -53,9 +77,9 @@
       "section": "society",
       "publishedDate": "2025-10-31T10:00:23Z",
       "trailText": "As some families face a 200-year wait for an affordable home, what exactly has gone wrong?",
-      "summary": "Families in Bath face 200-year waits as England builds just 10,153 social-rent homes vs the 90,000/year needed. Labour’s pledge to deliver 1.5m homes in five years and the government’s £39bn plan for 300,000 affordable units, with London cutting fast-track affordable quotas from 35% to 20%, are faltering amid high costs, interest rates, Brexit-hit labour shortages, and 10,000 homes stalled without housing-association contracts. Quality concerns delay handovers. Debates over densification – notably Basingstoke’s SNG plans – and mixed industry credit ratings underscore the crisis.",
-      "summaryTokens": 1019,
-      "generatedAt": "2025-11-02T00:11:48.307Z"
+      "summary": "England builds just over 10,000 social homes a year—far below the 90,000 needed and Labour’s pledge of 1.5 million new homes in five years—leaving some families facing 200-year waits. London developments have stalled, prompting a cut in affordable quotas from 35% to 20% for fast-track sites. High interest rates, surging material costs, Brexit-linked labour shortages and retrofit bills squeeze housing associations. Planning delays and missing landlord contracts stall 10,000 homes, while community resistance to densification further impedes progress. Despite a £39 billion investment and planning reforms, delivery remains painfully slow and targets out of reach.",
+      "summaryTokens": 641,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
     },
     {
       "id": "society/2025/oct/31/woman-flight-italy-did-not-board-child-benefits-stopped",
@@ -65,9 +89,9 @@
       "section": "society",
       "publishedDate": "2025-10-31T07:00:20Z",
       "trailText": "Family denied entry at gate after one of their children had epileptic seizure – but HMRC said she took a one-way trip",
-      "summary": "Sally had her UK child benefit wrongly suspended after HMRC recorded her as taking a one-way flight to Italy when she and her family were refused boarding after her child’s epileptic seizure. HMRC’s crackdown, affecting 23,500 families flagged by Home Office travel data, demanded extensive proof of return. Amid complaints over inaccurate airline and border data—return journeys via different airports, ferries or Eurostar went unrecorded—HMRC has apologized, halted suspensions until confirmation and pledged to cross-check correctly, estimating £10m–£30m annual fraud savings.",
-      "summaryTokens": 801,
-      "generatedAt": "2025-11-02T00:11:48.307Z"
+      "summary": "Sally and her family were denied boarding on a July holiday flight to Italy after her child suffered an epileptic seizure. Sixteen months later HMRC halted her child benefit for three children, misinterpreting a one-way flight booking as emigration. She submitted airline letters and insurance claims to prove they never left the UK. This error is one of 23,500 similar cases triggered by a government crackdown using border and booking data. HMRC has apologised, pledging not to suspend payments before contacting recipients. Critics warn data inaccuracies and process flaws risk penalising law-abiding families and question Home Office data sources.",
+      "summaryTokens": 684,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
     },
     {
       "id": "society/2025/oct/31/celebrities-mps-charities-government-child-poverty-targets-emilia-clarke",
@@ -77,9 +101,9 @@
       "section": "society",
       "publishedDate": "2025-10-31T06:00:19Z",
       "trailText": "Signatories of open letter include National Children’s Bureau, Barnardo’s and celebrities such as Emilia Clarke",
-      "summary": "Dozens of celebrities (Emilia Clarke, Chris Packham, George Clarke), MPs and leading charities (National Children’s Bureau, Barnardo’s, Child Poverty Action Group, Amnesty UK, Trussell) have signed an open letter led by John Bird urging the UK government to set legally binding child poverty reduction targets. They warn that without clear benchmarks, warm words will not translate into progress. Bird will reintroduce his amendment in the House of Lords when the children’s wellbeing and schools bill returns. The government’s delayed child poverty strategy, due around the November budget amid proposed benefit reforms, faces criticism as rising costs could push 100,000 more children into poverty annually, reaching nearly 5 million by 2029.",
-      "summaryTokens": 709,
-      "generatedAt": "2025-11-02T00:11:48.307Z"
+      "summary": "An open letter coordinated by Big Issue founder Lord John Bird and signed by Emilia Clarke, Chris Packham, George Clarke, over 20 MPs and peers (Labour, Greens, SNP) and leading charities (National Children’s Bureau, Child Poverty Action Group, Barnardo’s, Amnesty UK, Trussell) urges the UK government to set binding child poverty reduction targets. Critics warn warm words won’t deliver change amid delays to Labour’s child poverty strategy and growing hardship—100,000 more children fall into poverty annually, nearly 5 million projected by 2029. Bird’s amendment to legally mandate targets was rejected in June but will be reintroduced in the Lords. The strategy, now slated for the November budget alongside a two-child benefit overhaul, risks half-measures, charity and think-tank analysis warns. The government pledges a £500 m investment in Best Start hubs, extended free meals and a £1 bn holiday crisis fund but has yet to set quantifiable benchmarks.",
+      "summaryTokens": 509,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
     },
     {
       "id": "society/2025/oct/31/drone-blocking-technology-jails-england-wales",
@@ -89,9 +113,9 @@
       "section": "society",
       "publishedDate": "2025-10-31T06:00:17Z",
       "trailText": "Ability to maintain control in prisons ‘critically undermined’ by scale of illicit drug trade, MPs say",
-      "summary": "MPs urge immediate rollout of drone-jamming systems like SkyFence across all England and Wales prisons, especially Category A facilities within two years, to curb organised gangs smuggling drugs via drones. The Commons justice select committee warns illicit drug use—39% of inmates finding drugs easy to obtain—undermines safety, with a 770% rise in drone sightings since 2019 and rising in-prison addiction rates. Existing police and NCA partnerships are inadequate; the MoJ must adopt comprehensive anti-drone tech and enhance physical security.",
-      "summaryTokens": 984,
-      "generatedAt": "2025-11-02T00:11:48.307Z"
+      "summary": "The Commons justice select committee warns organised gangs exploit sophisticated drones—sightings up 770% since 2019—to smuggle drugs into prisons, with 39% of inmates reporting easy access and 11–19% developing new addictions. It demands urgent rollout of SkyFence or equivalent drone-jamming systems in all category A facilities within two years and estate-wide within 24 months, deeming current police and NCA measures inadequate. Government figures show 38,042 inmates freed early under an overcrowding scheme since September 2024.",
+      "summaryTokens": 672,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
     },
     {
       "id": "society/2025/oct/31/nearly-150000-aged-90-and-above-wait-12-hours-england",
@@ -101,9 +125,9 @@
       "section": "society",
       "publishedDate": "2025-10-31T00:01:10Z",
       "trailText": "Older people left in their own excrement and wet beds for hours and forced to watch others die, Age UK report finds",
-      "summary": "Age UK warns nearly 150,000 patients aged 90+ in England endure waits over 12 hours in A&Es annually, often stuck in corridors for days, denied pain relief, left in soiled beds and forced to watch others die. Among one million aged 60+ waiters, 33% (149,293) waited over 12h in 2024-25. Accounts include corridor deaths, loss of dignity and delayed transfers. Charities, nurses and MPs demand government targets, funding, inspection and alternatives to end the “moral stain” of corridor care. Ministers pledge £450m for urgent care centres but Age UK says stronger leadership and clear targets are needed.",
-      "summaryTokens": 955,
-      "generatedAt": "2025-11-02T00:11:48.307Z"
+      "summary": "An Age UK report reveals that 149,293 people aged 90+ in England waited over 12 hours in A&E departments in 2024-25—one-third of attendances—amid more than one million 60+ patients facing similar delays. Many spent days in corridors, left in soiled beds, denied pain relief and forced to witness deaths. Caroline Abrahams called it “a crisis hiding in plain sight,” urging a government plan with clear targets and funding to end corridor care. MPs, nursing bodies and NHS leaders demand urgent action; ministers pledge £450 m for new urgent care centres.",
+      "summaryTokens": 620,
+      "generatedAt": "2025-11-02T13:58:59.660Z"
     },
     {
       "id": "society/2025/oct/30/jaywicks-continued-decline-and-intensifying-london-poverty-tell-same-story-of-broken-britain",
