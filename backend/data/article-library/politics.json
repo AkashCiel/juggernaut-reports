@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2025-11-02T00:07:42.336Z",
+    "generated_at": "2025-11-02T13:54:52.002Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-01"
+      "to": "2025-11-02"
     },
-    "article_count": 342,
+    "article_count": 343,
     "merge_info": {
-      "previous_count": 314,
-      "new_articles": 28,
-      "updated_articles": 6,
-      "total_count": 342
+      "previous_count": 342,
+      "new_articles": 1,
+      "updated_articles": 9,
+      "total_count": 343
     },
     "batch_info": {
-      "initial_batch_id": "batch_6906a061d6e0819085c067e4fa9847a7",
+      "initial_batch_id": "batch_69076253a5148190862a76a45fcc98aa",
       "retry_batches": [],
-      "total_tokens": 67520,
+      "total_tokens": 18816,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "politics/2025/nov/02/tory-patience-wears-thin-as-badenochs-critics-count-down-to-may-elections",
+      "title": "Tory patience wears thin as Badenoch’s critics count down to May elections",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/02/tory-patience-wears-thin-as-badenochs-critics-count-down-to-may-elections",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/02/tory-patience-wears-thin-as-badenochs-critics-count-down-to-may-elections",
+      "section": "politics",
+      "publishedDate": "2025-11-02T05:00:54Z",
+      "trailText": "With the party adrift and Reform surging, Jenrick’s allies are sharpening their pitch for a post-election reset",
+      "summary": "Conservative MPs are quietly mobilising against Kemi Badenoch ahead of a Sunday deadline when a challenge could be triggered if 36 letters of no confidence are submitted. At a high-profile Spectator awards event, Robert Jenrick — last year’s runner-up and the largest internal threat — joked about manoeuvres but is quietly preparing for a post-May leadership reboot if local elections deliver heavy losses. While MPs lament Badenoch’s public ratings (-22%), many prefer to wait until after May’s predicted Tory council wipeout before forcing a contest. Potential candidates include Jenrick, James Cleverly and Mel Stride, and some insiders even contemplate a pact with Reform UK to stem its surge.",
+      "summaryTokens": 388,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
+    },
     {
       "id": "politics/2025/nov/01/rachel-reeves-considers-20-tax-on-assets-of-people-deciding-to-leave-uk",
       "title": "Rachel Reeves considers 20% tax on assets of people deciding to leave UK",
@@ -29,9 +41,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T14:26:28Z",
       "trailText": "Plans for ‘settling-up charge’ predicted to raise £2bn and would follow policy in place among most G7 countries",
-      "summary": "Chancellor Rachel Reeves is exploring a 20% 'settling-up charge' on business assets for UK residents who emigrate, aiming to align with other G7 countries and raise about £2bn. Currently, expats avoid capital gains tax on assets like shareholdings after departure. The charge would apply at exit valuation, with possible deferral options. Treasury modelling ahead of the budget is also considering reciprocal relief for pre-arrival gains to ensure fair, symmetrical treatment and attract inward investors.",
-      "summaryTokens": 856,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "Chancellor Rachel Reeves is weighing a ‘settling-up charge’ to levy a 20% exit tax on business assets of individuals renouncing UK residency, aligning Britain with G7 peers. Projected to raise £2bn, the charge would apply to gains on shares and other non-property assets upon departure, closing the loophole that currently lets ex-residents sell UK holdings tax-free. Proposals include payment deferrals and matching exemptions for pre-arrival gains to ensure fairness and preserve inward investment, though no final decision has been made ahead of the budget.",
+      "summaryTokens": 808,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/nov/01/hmrc-likely-to-have-breached-privacy-laws-in-stopping-child-benefit-experts",
@@ -41,9 +53,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T11:00:34Z",
       "trailText": "Watchdog contacts tax authority after families’ payments stopped based on flawed travel data",
-      "summary": "HMRC suspended child benefit for about 23,500 families based on flawed, incomplete Home Office travel data, triggering distress and prompting the Information Commissioner’s Office to question potential GDPR breaches. By 31 October, 1,979 payments were reinstated. Errors included one-way flight flags on return trips, Dublin border crossings and non-embarked flights. Liberal Democrat MP Steve Darling decries the ‘unacceptable’ failures and urges ministerial accountability. Privacy experts warn the scheme violated data accuracy, necessity and proportionality principles. HMRC denies wrongdoing, has paused suspensions and will cross-check travel data with PAYE records before resuming compliance checks.",
-      "summaryTokens": 635,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "HMRC suspended child benefit payments for about 23,500 families using incomplete Home Office travel data, triggering the ICO to investigate potential data protection breaches. Legal experts say inaccurate data use likely violates GDPR’s accuracy and proportionality rules. Labour and Lib Dem MPs raised concerns, and HMRC has reinstated nearly 2,000 payments while urging wrongly sanctioned claimants to contact its helpline. HMRC defends its data-sharing arrangement, pledges to cross-check travel records with PAYE data and temporarily halted suspensions until recipients are contacted.",
+      "summaryTokens": 865,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/nov/01/reform-councillor-defects-to-tories-after-partys-policies-left-him-uncomfortable",
@@ -53,9 +65,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T10:13:35Z",
       "trailText": "Dartford representative James Buchan says ‘devastating’ immigration plans had created a lot of fear and anxiety",
-      "summary": "Councillor James Buchan has defected from Reform UK to the Conservatives in Dartford’s Stone House ward, criticising Nigel Farage’s party for its hardline anti-immigration stance, notably the plan to scrap indefinite leave to remain. Buchan said he couldn’t reconcile his role with policies that generate “fear and anxiety” among legal residents and lacked the experience to serve local families effectively. Dartford Tory leader Jeremy Kite welcomed his move as service-focused. A Reform source argued Buchan should resign his seat. Farage’s party has faced recent controversies over defended racist remarks and bribery charges in its Welsh branch.",
-      "summaryTokens": 1141,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "James Buchan, elected as a Reform UK councillor in Dartford in July, has defected to the Conservatives, citing discomfort with Nigel Farage’s party’s hardline immigration stance—particularly plans to scrap indefinite leave to remain and force non-EU residents to reapply for visas—which he says spread fear and anxiety in his community. He argues Reform lacks the local governance experience and relies on rhetoric rather than delivering for families. Dartford Tories have welcomed his focus on public service, while Reform insiders accuse him of opportunism and vow to reclaim the seat.",
+      "summaryTokens": 1449,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/nov/01/ex-tory-member-grandfather-archbishop-of-jerusalem-sues-party-bruce-macinnes",
@@ -65,9 +77,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T10:00:33Z",
       "trailText": "Exclusive: Bruce MacInnes, whose grandfather was archbishop of Jerusalem, told genocide remarks were antisemitic",
-      "summary": "Bruce MacInnes, a former Conservative member and grandson of Jerusalem’s ex-archbishop, is suing the party in the high court for £30,000 after being suspended for alleging Israel is committing genocide in Palestine. Tory officials labeled his remarks antisemitic and imposed a six-month ban and training—sanctions he only learned of months later. MacInnes claims breach of contract and discrimination of belief, decrying the process as McCarthyite, a view echoed by ex-minister Sir Alan Duncan.",
-      "summaryTokens": 991,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "Bruce MacInnes, a former Conservative member and grandson of the archbishop of Jerusalem, has launched a £30,000 lawsuit against the Tory party after his suspension for labelling Israel’s actions in Gaza as genocide. MacInnes says he was not informed of disciplinary proceedings until six months later, barred from a party leadership vote, and accused of antisemitism despite citing an ICJ ruling. Former minister Sir Alan Duncan denounced his treatment as “McCarthyism.” MacInnes alleges breach of contract and discrimination based on belief.",
+      "summaryTokens": 1121,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/nov/01/bridget-phillipson-unions-oppose-reading-tests-year-8s",
@@ -77,9 +89,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T09:00:29Z",
       "trailText": "Education secretary says mandatory test needed to tackle ‘shocking outcomes’ for many working-class children",
-      "summary": "Education secretary Bridget Phillipson says she’ll press teaching unions to back compulsory Year 8 reading assessments and informal writing and maths checks, citing a literacy gap—one in four pupils overall and one in three disadvantaged—below standards. Schools must also offer enrichment in five areas (sports, arts, outdoor pursuits, civic engagement, life skills), with Ofsted inspecting compliance. Framing the measures as vital for working-class life chances and to combat student detachment and radicalisation risks, Phillipson will also campaign to scrap the two-child benefit cap, overhaul SEND provision and ensure Labour delivers tangible change ahead of re-election.",
-      "summaryTokens": 817,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "Bridget Phillipson, UK Education Secretary, plans compulsory Year 8 reading tests to address low literacy among working-class children (one in four overall, one in three disadvantaged) and mandates enrichment in five areas (sports, arts/culture, outdoors, civic engagement, life skills) under Ofsted oversight. She challenges unions opposing tests, warns of student detachment’s risks—including radicalisation—and urges scrapping the two-child benefit cap to cut child poverty. Phillipson also pledges SEN reform and insists on delivering tangible improvements before the next election.",
+      "summaryTokens": 737,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/oct/31/keir-starmer-keeps-silver-necklace-donald-melania-trump-gift",
@@ -89,9 +101,9 @@
       "section": "politics",
       "publishedDate": "2025-10-31T15:45:55Z",
       "trailText": "Prime minister paid cabinet office to retain jewellery, but chose not to fork out for cufflinks and golf club",
-      "summary": "Keir Starmer paid to keep a personalised silver necklace from Donald and Melania Trump after their September 2025 state visit, while opting not to purchase other gifts—a golf club, silver cufflinks and cowboy boots for his wife—retained by the Cabinet Office under rules capping free gifts at £140. Downing Street declined to disclose the necklace’s value. During the visit, Starmer gifted Trump a ministerial red box with the presidential seal and a Ukrainian-designed silk scarf for Melania. The exchange echoes past diplomatic gift controversies, from Obama’s film-set reply to Brown to Qatar’s US$400m Air Force One.",
-      "summaryTokens": 882,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "Keir Starmer paid to retain a personalized silver necklace gifted by Donald and Melania Trump during their September state visit, making it the only gift he kept. The Trumps’ personalized golf club, silver cufflinks and cowboy boots for Victoria Starmer were held by the Cabinet Office under the £140 retention rule, with Starmer covering the difference. Downing Street declined to disclose the necklace’s value. Starmer had presented Trump a ministerial red box embossed with the presidential seal and gave Melania a silk scarf by Ukrainian children. Gift exchanges between UK prime ministers and US presidents often spark controversy, recalling Gordon Brown’s ornamental pen holder to Obama, Qatar’s $400m Boeing 747 gift to Trump and past accusations that Trump gave fake jewellery.",
+      "summaryTokens": 521,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/oct/31/young-tories-are-fed-up-the-students-switching-to-reform-in-big-numbers",
@@ -101,9 +113,9 @@
       "section": "politics",
       "publishedDate": "2025-10-31T14:31:29Z",
       "trailText": "A ‘nasty split’ is emerging on campus with one Conservative society opting to merge with their rightwing rivals",
-      "summary": "On campuses from Newcastle to York and Durham, Tory student societies are merging or splintering to form Reform UK branches, boosting membership tenfold at Newcastle after a controversial merger over HQ objections. Disillusioned with leadership like Kemi Badenoch, young right-wingers cite Reform’s resonance under Nigel Farage, as YouGov polls show Reform at 10% vs Tories’ 7% among 18–24s. At York, a 'nasty split' halved Tory membership; at Lancaster, a 750-strong petition sought to block Reform; Labour and Greens now exclude Reform from some events. Reform’s campus growth fuels hopes of a lasting candidate pipeline.",
-      "summaryTokens": 1216,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "Student Conservative societies at Newcastle, York, Durham and beyond are merging or losing members to Reform UK amid dwindling Tory interest and HQ pushback; Newcastle’s merged society saw tenfold growth, while polls show Reform leads Conservatives 10% to 7% among 18-24s. Former Tory presidents like Henry Bateson, Xavier Hale and Jack Eccles drive new Reform branches, sparking feuds (“nasty split” at York) and exclusion from cross-party events. Reform’s campus surge doubles attendance, positioning student wings as a pipeline for future candidates.",
+      "summaryTokens": 612,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/oct/31/zarah-sultana-sets-sights-on-replacing-labour-your-party-jeremy-corbyn",
@@ -113,9 +125,9 @@
       "section": "politics",
       "publishedDate": "2025-10-31T08:45:48Z",
       "trailText": "MP who left Labour in July to form leftwing grouping with Jeremy Corbyn, says party is not just one of protest",
-      "summary": "Zarah Sultana, who left Labour in July to co-found the leftwing Your Party with Jeremy Corbyn, says her aim is to replace Labour by building a mass, long-term movement to win state power. On BBC’s Political Thinking, she outlined a 10- to 40-year plan for nationalisation, council homes and secure jobs through door-to-door organising. Your Party has struggled with leadership rows, a missing £800,000 in donor funds and a public spat with Corbyn. Sultana also denounced Reform UK leader Nigel Farage as a fascist for anti-union and racist positions, drawing Reform’s sarcastic response.",
-      "summaryTokens": 508,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "Zarah Sultana, MP who left Labour in July to co-found leftwing “Your Party” with Jeremy Corbyn, says her vision is to replace Labour over the next 10–40 years by winning state power and implementing socialist policies—nationalisation, council housing, secure jobs—through grassroots organising. The new group has faced leadership rows, funding shortfalls and a name dispute ahead of a conference to settle its permanent title. Tensions flared with Corbyn over a paid membership system, prompting defamation threats before reconciliation. Sultana also accused Nigel Farage and Reform UK of fascist tactics, warning against a “fascist government,” a claim Reform UK dismissed, telling her to “go back to school or buy a dictionary.”",
+      "summaryTokens": 655,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/oct/31/uk-launches-search-for-town-of-culture-among-places-written-out-of-national-story",
@@ -125,9 +137,9 @@
       "section": "politics",
       "publishedDate": "2025-10-31T05:00:18Z",
       "trailText": "Lisa Nandy says government hopes to build on success of cities of culture programme, with £3.5m for winner",
-      "summary": "Culture secretary Lisa Nandy has launched a competition to designate the UK’s first Town of Culture, offering £3.5m for the winner to develop a summer 2028 programme, after the success of Cities of Culture in Derry, Hull, Coventry and Bradford. The initiative targets places often “written out of the national story”, inviting towns up to roughly 75,000 inhabitants. Concurrently, the bid for the 2029 UK City of Culture opens with a guaranteed £10m award. Nandy emphasises expanding “access to excellence”, celebrating local artistic talent and civic pride in under-recognised communities from Wigan to Barnsley.",
-      "summaryTokens": 1012,
-      "generatedAt": "2025-11-02T00:07:41.796Z"
+      "summary": "Culture secretary Lisa Nandy has launched a competition to crown the UK’s first “town of culture,” offering the winning community £3.5m to stage a cultural programme in summer 2028. Modelled on the successful cities of culture scheme that boosted Derry, Hull, Coventry and Bradford, the initiative aims to spotlight places “written out of the national story,” with towns under 75,000 population encouraged to apply. The government also opened bids for the 2029 UK City of Culture, promising a £10m award. Nandy, representing Wigan, argued this would give “access to excellence,” amplify local pride and ensure communities from Barnsley to Wigan can see their creative contributions reflected in Britain’s shared narrative.",
+      "summaryTokens": 774,
+      "generatedAt": "2025-11-02T13:54:51.513Z"
     },
     {
       "id": "politics/2025/oct/30/rachel-reeves-row-standards-adviser-looking-at-new-infomation",
