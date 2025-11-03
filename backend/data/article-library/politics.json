@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2025-11-02T13:54:52.002Z",
+    "generated_at": "2025-11-03T03:36:22.911Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-02"
     },
-    "article_count": 343,
+    "article_count": 344,
     "merge_info": {
-      "previous_count": 342,
+      "previous_count": 343,
       "new_articles": 1,
-      "updated_articles": 9,
-      "total_count": 343
+      "updated_articles": 6,
+      "total_count": 344
     },
     "batch_info": {
-      "initial_batch_id": "batch_69076253a5148190862a76a45fcc98aa",
+      "initial_batch_id": "batch_690822a8baf08190822d850f17a1c6e1",
       "retry_batches": [],
-      "total_tokens": 18816,
+      "total_tokens": 14708,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "politics/2025/nov/02/nigel-farage-business-deregulation-economic-policy-speech",
+      "title": "Nigel Farage to promise business deregulation in economic policy speech",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/02/nigel-farage-business-deregulation-economic-policy-speech",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/02/nigel-farage-business-deregulation-economic-policy-speech",
+      "section": "politics",
+      "publishedDate": "2025-11-02T20:00:11Z",
+      "trailText": "Reform UK leader to set out ‘pro-entrepreneurship’ agenda while rowing back on tax cuts pledge",
+      "summary": "Reform UK leader Nigel Farage will unveil a pro-entrepreneurship agenda in a London speech, promising a post-Brexit ‘bonfire’ of business regulation while shelving his previous £90 billion tax-cut pledge. He argues that only after controlling public spending and lowering borrowing costs can tax cuts fuel growth, countering criticism that his £350 billion spending-cut target is unachievable. The address is designed to broaden Reform’s appeal beyond migration, reassert its deregulatory roots and signal a shift towards expert-driven government, higher-paid jobs and a new attitude to work and success.",
+      "summaryTokens": 624,
+      "generatedAt": "2025-11-03T03:36:22.715Z"
+    },
     {
       "id": "politics/2025/nov/02/tory-patience-wears-thin-as-badenochs-critics-count-down-to-may-elections",
       "title": "Tory patience wears thin as Badenoch’s critics count down to May elections",
@@ -29,9 +41,9 @@
       "section": "politics",
       "publishedDate": "2025-11-02T05:00:54Z",
       "trailText": "With the party adrift and Reform surging, Jenrick’s allies are sharpening their pitch for a post-election reset",
-      "summary": "Conservative MPs are quietly mobilising against Kemi Badenoch ahead of a Sunday deadline when a challenge could be triggered if 36 letters of no confidence are submitted. At a high-profile Spectator awards event, Robert Jenrick — last year’s runner-up and the largest internal threat — joked about manoeuvres but is quietly preparing for a post-May leadership reboot if local elections deliver heavy losses. While MPs lament Badenoch’s public ratings (-22%), many prefer to wait until after May’s predicted Tory council wipeout before forcing a contest. Potential candidates include Jenrick, James Cleverly and Mel Stride, and some insiders even contemplate a pact with Reform UK to stem its surge.",
-      "summaryTokens": 388,
-      "generatedAt": "2025-11-02T13:54:51.513Z"
+      "summary": "Conservative backbench unrest is mounting around Kemi Badenoch’s leadership as critics, led by Robert Jenrick, await the May local elections to trigger a contest. A social-media countdown clock marks when 36 MPs can submit letters under new rules. Jenrick, who won 28 nominations last year, is pitching hard to right-wing voters and even considering a Reform UK pact. Many MPs remain wary of an early coup but agree Badenoch’s ratings and Tory poll numbers risk collapse in May, prompting debate over whether to replace her pre- or post-election. Alternatives like James Cleverly, Mel Stride or Claire Coutinho are mooted in case of a leadership vacuum.",
+      "summaryTokens": 514,
+      "generatedAt": "2025-11-03T03:36:22.715Z"
     },
     {
       "id": "politics/2025/nov/01/rachel-reeves-considers-20-tax-on-assets-of-people-deciding-to-leave-uk",
@@ -41,9 +53,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T14:26:28Z",
       "trailText": "Plans for ‘settling-up charge’ predicted to raise £2bn and would follow policy in place among most G7 countries",
-      "summary": "Chancellor Rachel Reeves is weighing a ‘settling-up charge’ to levy a 20% exit tax on business assets of individuals renouncing UK residency, aligning Britain with G7 peers. Projected to raise £2bn, the charge would apply to gains on shares and other non-property assets upon departure, closing the loophole that currently lets ex-residents sell UK holdings tax-free. Proposals include payment deferrals and matching exemptions for pre-arrival gains to ensure fairness and preserve inward investment, though no final decision has been made ahead of the budget.",
-      "summaryTokens": 808,
-      "generatedAt": "2025-11-02T13:54:51.513Z"
+      "summary": "Chancellor Rachel Reeves is exploring a ‘settling-up charge’ requiring wealthy UK residents who emigrate to pay 20% tax on their retained business assets, aligning the UK with most G7 nations and potentially raising £2bn. Currently, non-UK residents pay 20% CGT on UK property over £6,000 but can avoid tax on other assets like shareholdings after departure. The proposed measure would tax unrealised gains on assets at exit, with options to defer payment. Treasury modelling is underway ahead of the budget, balancing risks of capital flight against fairness. A complementary plan could waive CGT on pre-arrival gains to attract investors.",
+      "summaryTokens": 1019,
+      "generatedAt": "2025-11-03T03:36:22.715Z"
     },
     {
       "id": "politics/2025/nov/01/hmrc-likely-to-have-breached-privacy-laws-in-stopping-child-benefit-experts",
@@ -53,9 +65,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T11:00:34Z",
       "trailText": "Watchdog contacts tax authority after families’ payments stopped based on flawed travel data",
-      "summary": "HMRC suspended child benefit payments for about 23,500 families using incomplete Home Office travel data, triggering the ICO to investigate potential data protection breaches. Legal experts say inaccurate data use likely violates GDPR’s accuracy and proportionality rules. Labour and Lib Dem MPs raised concerns, and HMRC has reinstated nearly 2,000 payments while urging wrongly sanctioned claimants to contact its helpline. HMRC defends its data-sharing arrangement, pledges to cross-check travel records with PAYE data and temporarily halted suspensions until recipients are contacted.",
-      "summaryTokens": 865,
-      "generatedAt": "2025-11-02T13:54:51.513Z"
+      "summary": "HMRC suspended child benefit for some 23,500 families under an anti-fraud crackdown using incomplete Home Office travel data, reinstating 1,979 payments so far after legal experts warned the flawed information breached UK data protection rules. The ICO has opened inquiries, urging that inter-departmental data sharing be necessary, accurate and proportionate. HMRC halted suspensions pending further checks, now cross-referencing travel records with PAYE data. Ministers face calls to explain failures and compensate affected households.",
+      "summaryTokens": 732,
+      "generatedAt": "2025-11-03T03:36:22.715Z"
     },
     {
       "id": "politics/2025/nov/01/reform-councillor-defects-to-tories-after-partys-policies-left-him-uncomfortable",
@@ -65,9 +77,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T10:13:35Z",
       "trailText": "Dartford representative James Buchan says ‘devastating’ immigration plans had created a lot of fear and anxiety",
-      "summary": "James Buchan, elected as a Reform UK councillor in Dartford in July, has defected to the Conservatives, citing discomfort with Nigel Farage’s party’s hardline immigration stance—particularly plans to scrap indefinite leave to remain and force non-EU residents to reapply for visas—which he says spread fear and anxiety in his community. He argues Reform lacks the local governance experience and relies on rhetoric rather than delivering for families. Dartford Tories have welcomed his focus on public service, while Reform insiders accuse him of opportunism and vow to reclaim the seat.",
-      "summaryTokens": 1449,
-      "generatedAt": "2025-11-02T13:54:51.513Z"
+      "summary": "James Buchan, Reform UK councillor for Dartford’s Stone House ward in Kent, has defected to the Conservatives, citing discomfort with Nigel Farage’s anti-immigration agenda—particularly a plan to remove indefinite leave to remain for non-EU residents. Elected in a July by-election to serve local families, Buchan said fear-based rhetoric created anxiety and clashed with community service. A Reform source claims he should resign, while Tory council leader Jeremy Kite welcomed him. The move follows scrutiny of Farage over a racist MP defense and a bribery plea by his former Welsh leader.",
+      "summaryTokens": 1339,
+      "generatedAt": "2025-11-03T03:36:22.715Z"
     },
     {
       "id": "politics/2025/nov/01/ex-tory-member-grandfather-archbishop-of-jerusalem-sues-party-bruce-macinnes",
@@ -77,9 +89,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T10:00:33Z",
       "trailText": "Exclusive: Bruce MacInnes, whose grandfather was archbishop of Jerusalem, told genocide remarks were antisemitic",
-      "summary": "Bruce MacInnes, a former Conservative member and grandson of the archbishop of Jerusalem, has launched a £30,000 lawsuit against the Tory party after his suspension for labelling Israel’s actions in Gaza as genocide. MacInnes says he was not informed of disciplinary proceedings until six months later, barred from a party leadership vote, and accused of antisemitism despite citing an ICJ ruling. Former minister Sir Alan Duncan denounced his treatment as “McCarthyism.” MacInnes alleges breach of contract and discrimination based on belief.",
-      "summaryTokens": 1121,
-      "generatedAt": "2025-11-02T13:54:51.513Z"
+      "summary": "Bruce MacInnes, a member since 2018 and grandson of Jerusalem’s former Anglican archbishop, is suing the Conservative party for £30,000 after a six-month suspension for labeling Israel’s actions in Gaza “genocide”. Party officials deemed his repeated references to the ICC’s plausible genocide finding antisemitic and say they emailed him, though he received no notices. MacInnes claims breach of contract and belief-based discrimination, highlighting opaque governance and suppression of pro-Palestinian views. Former foreign minister Sir Alan Duncan brands the suspension “McCarthyism”. MacInnes awaits a high-court date, having already incurred substantial legal fees.",
+      "summaryTokens": 572,
+      "generatedAt": "2025-11-03T03:36:22.715Z"
     },
     {
       "id": "politics/2025/nov/01/bridget-phillipson-unions-oppose-reading-tests-year-8s",
@@ -89,9 +101,9 @@
       "section": "politics",
       "publishedDate": "2025-11-01T09:00:29Z",
       "trailText": "Education secretary says mandatory test needed to tackle ‘shocking outcomes’ for many working-class children",
-      "summary": "Bridget Phillipson, UK Education Secretary, plans compulsory Year 8 reading tests to address low literacy among working-class children (one in four overall, one in three disadvantaged) and mandates enrichment in five areas (sports, arts/culture, outdoors, civic engagement, life skills) under Ofsted oversight. She challenges unions opposing tests, warns of student detachment’s risks—including radicalisation—and urges scrapping the two-child benefit cap to cut child poverty. Phillipson also pledges SEN reform and insists on delivering tangible improvements before the next election.",
-      "summaryTokens": 737,
-      "generatedAt": "2025-11-02T13:54:51.513Z"
+      "summary": "In a Guardian interview, education secretary Bridget Phillipson commits to compulsory Year 8 reading tests to address one-in-four children failing literacy, rising to one-in-three among disadvantaged pupils. She challenges teaching unions resisting “unnecessary” mandatory assessments, arguing they must justify poor outcomes for working-class kids. Following next week’s curriculum review, schools will also conduct informal writing and maths checks and must offer extracurricular enrichment across sports, arts, outdoor, civic and life-skills, partly to combat student detachment and radicalisation. Ofsted will inspect compliance. Phillipson also urges scrapping the two-child benefit cap to cut child poverty and insists Labour deliver tangible improvements ahead of the election.",
+      "summaryTokens": 1911,
+      "generatedAt": "2025-11-03T03:36:22.715Z"
     },
     {
       "id": "politics/2025/oct/31/keir-starmer-keeps-silver-necklace-donald-melania-trump-gift",
