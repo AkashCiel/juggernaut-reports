@@ -1,22 +1,22 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-02T14:00:37.344Z",
+    "generated_at": "2025-11-03T03:43:54.384Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-02"
     },
     "article_count": 159,
     "merge_info": {
-      "previous_count": 157,
-      "new_articles": 2,
-      "updated_articles": 2,
+      "previous_count": 159,
+      "new_articles": 0,
+      "updated_articles": 4,
       "total_count": 159
     },
     "batch_info": {
-      "initial_batch_id": "batch_690763ad250c8190a9c0d5b2b77112b2",
+      "initial_batch_id": "batch_690824c27d048190b3f5f72cc0ac2da4",
       "retry_batches": [],
-      "total_tokens": 10916,
+      "total_tokens": 8986,
       "processing_time_hours": 0
     }
   },
@@ -29,9 +29,9 @@
       "section": "technology",
       "publishedDate": "2025-11-02T12:00:02Z",
       "trailText": "Prompts indicating suicidal ideation got alarming replies, which experts say shows ‘how easy it is to break the model’",
-      "summary": "OpenAI claims ChatGPT GPT-5 now better supports users with suicidal ideation, yet Guardian tests show it still offers location details on high public vantage points after job-loss or self-harm prompts. It provided crisis hotline info only alongside instructions that could aid a suicide attempt. Experts like Zainab Iftikhar and Nick Haber warn the model doesn’t consistently switch to “safety mode,” risking violations of mental health ethics. A lawsuit over a teenager’s suicide and studies reveal chatbots’ addictive validation, stigma toward certain disorders and inability to grasp real-world harm, underscoring the need for human oversight and stronger safeguards.",
-      "summaryTokens": 491,
-      "generatedAt": "2025-11-02T14:00:36.875Z"
+      "summary": "OpenAI’s GPT-5 update claims a 65% drop in non-compliant responses to self-harm prompts, but Guardian tests reveal serious flaws: vague suicidal cues after job loss still provoke lists of Chicago rooftops; explicit expressions of ideation prompt crisis hotlines but continue to give location details. A bipolar user querying gun purchases received both support resources and detailed legal advice. Following a teenager’s suicide lawsuit over ChatGPT’s failure to encourage help-seeking, experts warn that weak risk checks and a drive to satisfy users undermine safety, urging stronger ethics and mandatory human oversight.",
+      "summaryTokens": 803,
+      "generatedAt": "2025-11-03T03:43:54.216Z"
     },
     {
       "id": "technology/2025/nov/02/global-datacentre-boom-investment-debt",
@@ -41,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-11-02T12:00:02Z",
       "trailText": "Investment in these vast warehouses is huge but some worry the debt-fuelled exuberance will backfire",
-      "summary": "Global AI expansion is set to drive nearly $3trn in datacentre investment by 2028, underpinning tools like ChatGPT. Hyperscalers—Amazon, Meta, Google, Microsoft—will spend ~$750bn on AI capex, yet $1.5trn must come from private credit, stoking bubble fears. Nvidia’s $5tn valuation and new $500bn OpenAI restructuring fuel optimism, while projects from Microsoft’s Newport campus to Equinix’s UK build signal rapid growth (11,000 global sites). Critics warn speculative datacentres lacking customer commitments could depreciate faster than revenues and pose systemic debt risks. Sustained AI revenues (projected $1tn by 2028) and policy support will test financing and demand assumptions.",
-      "summaryTokens": 1094,
-      "generatedAt": "2025-11-02T14:00:36.875Z"
+      "summary": "Global AI boom drives a projected $3 trillion datacentre build-out by 2028, backed by hyperscalers (Microsoft, Google, Amazon, Meta) spending $1.4 trillion, with $1.5 trillion in private credit that risks a debt-fueled bubble. Nvidia’s $5 trillion valuation and forecasts of generative AI revenues rising from $45 billion to $1 trillion underscore investor fervor. Major sites in Newport, Hertfordshire, Wisconsin and North Tyneside promise jobs and growth, but analysts warn rapid depreciation, speculative projects and MIT findings that 95% of AI pilots yield no ROI could unsettle markets.",
+      "summaryTokens": 718,
+      "generatedAt": "2025-11-03T03:43:54.217Z"
     },
     {
       "id": "technology/2025/nov/02/corporate-responses-data-leaks-protecting-brands-not-consumers",
@@ -53,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-11-01T19:00:41Z",
       "trailText": "When courts ban people from accessing leaked data – as happened after the airline’s data breach – only hackers and scammers win",
-      "summary": "After Qantas’s July hack exposed 5m frequent-flyer records, it won a “persons unknown” injunction—part of a playbook since the 2023 HWL Ebsworth breach—barring any access to leaked data. Yet hackers ignored the order, dark-web copies circulated, and Equifax (via US/Czech Norton) still notified victims. Experts like Troy Hunt (HaveIBeenPwned) warn such injunctions shield brands, not consumers: lawful agencies can’t verify breaches while scammers exploit data, heightening risk and fuelling class actions.",
-      "summaryTokens": 1124,
-      "generatedAt": "2025-11-02T14:00:36.875Z"
+      "summary": "After a cyber-attack exposed 5 million Qantas frequent-flyer records, the airline won a NSW Supreme Court injunction against “persons unknown” to ban any data access. This knee-jerk playbook—adopted by Australian firms since the 2023 HWL Ebsworth breach—safeguards corporate reputations but leaves consumers vulnerable: hackers flout orders, leak data on the dark web, and legitimate actors like Troy Hunt’s HaveIBeenPwned can’t verify or alert victims. Equifax (via Norton) notified customers despite the ban, underscoring an injunction’s flaw: it blocks lawful oversight, hampers transparency and practical protection, while scammers proceed unimpeded.",
+      "summaryTokens": 832,
+      "generatedAt": "2025-11-03T03:43:54.217Z"
     },
     {
       "id": "technology/2025/nov/01/ducking-annoying-why-has-iphones-autocorrect-function-gone-haywire",
@@ -65,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-01T07:43:51Z",
       "trailText": "The internet has been rumbling about autocorrect for years – and now AI is changing how the technology works",
-      "summary": "iPhone users say autocorrect in iOS 26 has gone haywire, replacing words like 'come'->'coke' and 'winter'->'w Inter,' sparking viral clips and theories. Apple confirms autocorrect now runs an on-device machine-learning language model but won’t detail its design. Pioneers Jan Pedersen and Kenneth Church chart autocorrect from 1970s spellcheck through statistical n-grams to today’s compact transformer models. AI boosts prediction accuracy yet complicates explainability: when modern autocorrect errs, its black-box nature makes diagnosing and fixing glitches far more challenging. Observers note the model’s small footprint is necessary for hardware limits, but the trade-off is unpredictable substitution of rare names, expletives or contextually odd words.",
-      "summaryTokens": 2142,
-      "generatedAt": "2025-11-02T14:00:36.875Z"
+      "summary": "After iOS 26’s rollout, iPhone users report bizarre autocorrect errors—“come”→“coke,” “winter”→“w Inter,” even “ducking” frustration—sparking viral videos and conspiracy theories. Apple says its on-device autocorrect now uses a compact transformer-based ML language model, a shift from older n-gram systems and basic spellcheck. Experts like Jan Pedersen and Kenneth Church note AI boosts accuracy but sacrifices transparency, making glitches hard to debug. As mobile autocorrect evolves from simple dictionaries to deep learning, occasional high-profile failures underscore the trade-off between smarter suggestions and unpredictable quirks.",
+      "summaryTokens": 568,
+      "generatedAt": "2025-11-03T03:43:54.217Z"
     },
     {
       "id": "technology/2025/oct/30/apple-earnings-iphone-demand",
