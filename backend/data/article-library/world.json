@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "world",
-    "generated_at": "2025-11-02T14:06:13.413Z",
+    "generated_at": "2025-11-03T03:54:06.698Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-02"
     },
-    "article_count": 886,
+    "article_count": 888,
     "merge_info": {
-      "previous_count": 881,
-      "new_articles": 5,
-      "updated_articles": 30,
-      "total_count": 886
+      "previous_count": 886,
+      "new_articles": 2,
+      "updated_articles": 20,
+      "total_count": 888
     },
     "batch_info": {
-      "initial_batch_id": "batch_690764fcee4c8190b2b807b56e12ef4b",
+      "initial_batch_id": "batch_6908263a76f88190b2c8958ca252b3b4",
       "retry_batches": [],
-      "total_tokens": 79344,
-      "processing_time_hours": 0
+      "total_tokens": 54544,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "world/2025/nov/02/louvre-jewel-heist-petty-criminals-paris-prosecutor",
+      "title": "Louvre jewel heist by petty criminals, not organised professionals, says Paris prosecutor",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/02/louvre-jewel-heist-petty-criminals-paris-prosecutor",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/02/louvre-jewel-heist-petty-criminals-paris-prosecutor",
+      "section": "world",
+      "publishedDate": "2025-11-02T17:07:25Z",
+      "trailText": "Laure Beccuau said ‘upper echelons of organised crime’ unlikely to be involved as one perpetrator remains at large",
+      "summary": "Paris prosecutor Laure Beccuau says last month’s brazen Louvre heist was executed in under seven minutes by a small group of local petty criminals, not organised crime. Using a stolen truck, furniture lift and scooters, they made off with €88 m of crown jewels—including an emerald-diamond necklace of Napoleon I and Empress Eugénie’s pearls and diamonds diadem. Four suspects from Seine-Saint-Denis—two remanded, two partially admitting involvement—face charges, while one remains at large. DNA on dropped tools and the lost crown hint at amateur mistakes. Investigators are probing parallel-market and money-laundering leads.",
+      "summaryTokens": 1085,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
+    },
+    {
+      "id": "world/2025/nov/02/five-german-mountaineers-die-in-northern-italy-after-being-hit-by-avalanche",
+      "title": "Five German climbers die in Italian Alps after being swept away by avalanche",
+      "webUrl": "https://www.theguardian.com/world/2025/nov/02/five-german-mountaineers-die-in-northern-italy-after-being-hit-by-avalanche",
+      "apiUrl": "https://content.guardianapis.com/world/2025/nov/02/five-german-mountaineers-die-in-northern-italy-after-being-hit-by-avalanche",
+      "section": "world",
+      "publishedDate": "2025-11-02T14:47:15Z",
+      "trailText": "Bodies of missing man and 17-year-old daughter who had fallen 200 metres found on Sunday morning in South Tyrol",
+      "summary": "Five German climbers, including a 17-year-old girl, died after an avalanche struck near the 3,500 m summit of Cima Vertana in South Tyrol on Nov 2, 2025. Three in one group were buried and recovered Saturday; two ahead escaped with shock. A man and his daughter, who fell 200 m, were found dead Sunday after searches using helicopter, drone and thermal imaging. Climbing with crampons and ice axes, they were a few hundred metres from the summit at 4 pm when shifting wind and fresh snowdrift triggered the slide. Rescuers warn worsening high-altitude conditions; Alps avalanche deaths are rising with growing backcountry tourism.",
+      "summaryTokens": 1031,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
+    },
     {
       "id": "world/2025/nov/02/firefighters-charities-animal-rescue-callouts-england",
       "title": "More pets being abandoned in England as food and vet bills soar, say charities",
@@ -29,9 +53,9 @@
       "section": "world",
       "publishedDate": "2025-11-02T13:19:37Z",
       "trailText": "Firefighters report rise in rescue callouts as RSPCA says some who got pets during Covid have ‘realised it costs a lot more money than they want it to’",
-      "summary": "Firefighters in England saw animal rescue callouts rise by 27% over five years, with domestic rescues up 38%. The RSPCA logged a record 22,503 abandonment reports last year amid vet fees nearly 50% higher since 2020 and dog food prices jumping from 60p to £1.03. In 2024–25 London accounted for over a third of 3,462 rescues (£686,475 spent). Charities warn many pandemic adopters underestimated lifetime pet costs (PDSA: £11,000 cat care). The CMA is probing vet sector consolidation after finding 16.6% higher fees at corporate groups. Falling neutering rates fuel unwanted litters, says Cats Protection.",
-      "summaryTokens": 511,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Fire service animal rescues rose 27% (38% for domestic pets) in five years, with 3,462 callouts to June 2025 and London accounting for over one-third, costing £686,475 (up from £261,253). The RSPCA logged a record 22,503 abandonments as vet fees surged nearly 50% and dog food prices rose from £0.60 to £1.03 since 2020. A pandemic pet boom (3.2m new owners) amid the cost-of-living crisis, falling neutering rates and corporate vet consolidation prompted CMA scrutiny and strained rescue charities.",
+      "summaryTokens": 944,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/02/the-grim-task-of-recovering-thousands-of-bodies-from-the-rubble-of-gaza",
@@ -41,9 +65,9 @@
       "section": "world",
       "publishedDate": "2025-11-02T11:15:10Z",
       "trailText": "Relatives and experts tell of the human and societal need to find and identify the dead, while images and data shed light on the scale of the job",
-      "summary": "As Gaza families and civil defence teams painstakingly search 61m tonnes of rubble — 20x post-2008 conflicts — for an estimated 10,000–14,000 bodies, they rely on shovels and bare hands amid ongoing denial of heavy machinery by Israel. Recovery has yielded 472 bodies in 16 days plus 195 returned, but large buildings remain inaccessible, prolonging efforts up to nine months. Lack of DNA tools hampers identification, compounding mental trauma, while unexploded ordnance and asbestos pose further hazards.",
-      "summaryTokens": 736,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Palestinian civil defence and families in Gaza face one of modern warfare’s most gruelling recovery efforts: sifting through 61 million tonnes of debris—20 times post-2008 volume—to locate an estimated 10,000–14,000 bodies still buried. Using only shovels, pickaxes and wheelbarrows, teams await Israeli approval for excavators; even with heavy machinery, officials say recovery could take nine months. So far 472 bodies were recovered in 16 days and 195 returned by Israel. Identification is hindered by the absence of DNA testing materials, forcing families to endure an ‘ambiguous loss’ amid hazardous, cratered landscapes.",
+      "summaryTokens": 505,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/02/you-can-do-hard-things-the-young-cycling-enthusiasts-reclaiming-the-streets-of-johannesburg",
@@ -53,9 +77,9 @@
       "section": "world",
       "publishedDate": "2025-11-02T09:31:16Z",
       "trailText": "Bike culture, once seen as an elite hobby or a last resort for the poor, is flourishing in the post-apartheid City of Gold",
-      "summary": "Karabo Mashele, who learned to cycle at 29, founded Girls on Bikes, leading bi-monthly rides for 25 women through Johannesburg and Pretoria suburbs. Facing sparse bike infrastructure and apartheid-era spatial divides, the group reclaims city streets, challenging perceptions of cycling as an elite pastime or transport of last resort. Meanwhile, in Soweto, Percy Zimuto’s Sentech Croozers mix performance and art with lowrider ‘Stance culture,’ customizing frames and wheels for spinning tricks. These diverse crews, blending social activism and cultural expression, are redefining urban mobility and identity for young South Africans of colour.",
-      "summaryTokens": 1403,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Karabo Mashele, founder of Girls on Bikes, leads bi-monthly rides for black women through Johannesburg and Pretoria, challenging apartheid-era car-centric infrastructure and stereotypes that cycling is an elite hobby or poor person’s last resort. With under 1.5% of commuters cycling, Mashele’s group and co-founder Titi Mashele’s Banditz Bicycle Club use rides as political statements reclaiming suburbs. Parallel youth-driven Stance culture in townships—from Sentech Croozers crews welding lowrider frames to stunt across Soweto streets—blends art and movement, drawing sponsors and media attention, while reshaping perceptions of cycling among South Africans.",
+      "summaryTokens": 1215,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/02/ukraine-war-briefing-ukraine-says-its-troops-still-holding-out-in-embattled-pokrovsk",
@@ -65,9 +89,9 @@
       "section": "world",
       "publishedDate": "2025-11-02T02:59:54Z",
       "trailText": "Ukraine military says it has improved positions in several districts, while Moscow says its troops are enclosing in on Ukrainian forces.",
-      "summary": "Ukraine’s army chief reports troops still holding Pokrovsk despite Russian pincer assault; Kyiv says it’s fortified positions and boosted 7th Rapid Response Corps assault units, while Russia claims to have encircled Ukrainian contingents and downed a helicopter, killing 11. October saw Russia fire 270 missiles—the highest monthly total since 2023—targeting Ukraine’s energy grid. Recent strikes killed civilians in Dnipropetrovsk region. Kyiv’s drone attack ignited a tanker at Russia’s Tuapse oil terminal. Meanwhile, Gazprom’s TurkStream supplies rose 5%, and Germany advances a voluntary service plan to bolster defenses.",
-      "summaryTokens": 959,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Ukraine’s army chief Oleksandr Syrskyi says his forces remain entrenched in Pokrovsk despite Russia’s reported pincer maneuver, with Kyiv reinforcing positions via the 7th Rapid Response Corps. Russia claims to have downed a Ukrainian special-forces helicopter, killing all 11 aboard, while Ukrainian sources report successful landings in contested districts. October saw Russia launch 270 missiles—its highest monthly total since early 2023—targeting Ukraine’s energy grid and killing civilians in Dnipropetrovsk. A Ukrainian drone strike hit Russia’s Tuapse oil terminal. Meanwhile, Gazprom’s TurkStream exports to Europe rose 5% in October, and Germany advances plans for voluntary military service to bolster readiness.",
+      "summaryTokens": 1232,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith",
@@ -77,9 +101,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T17:38:50Z",
       "trailText": "Seventy-year-old, who died in incident near Bentley, said by family to be ‘a beloved husband, father and grandfather’",
-      "summary": "Peter Smith, 70, died in a helicopter crash near Bentley, Doncaster. His family described him as a beloved family man who loved aviation, crafts with grandchildren and meals out with his wife. Three others—a 41-year-old pilot, a 58-year-old woman and a 10-year-old boy—sustained minor injuries. Flight data indicates the helicopter departed at 10am, circled Doncaster for seven minutes, then crashed near homes, railway lines and industrial units. South Yorkshire police and the AAIB have launched a joint investigation, supported by owner Kuki Helicopters. The family requests privacy as inquiries continue.",
-      "summaryTokens": 1267,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "South Yorkshire Police named the 70-year-old man killed in a Doncaster helicopter crash as Peter Smith. His family described him as a passionate aviator, devoted husband, father and grandfather who loved crafts with grandchildren, time with his son and dining outings with his wife. Three others aboard—a 41-year-old pilot, a 58-year-old woman and a 10-year-old boy—sustained minor injuries. The AAIB and police have launched a joint probe after flight-path analysis showed the craft abruptly stopped near Bentley. Kuki Helicopters and Smith’s family are cooperating and urge privacy and no speculation.",
+      "summaryTokens": 835,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/chelsea-defender-wesley-fofana-gets-driving-ban-for-speeding-on-hard-shoulder",
@@ -89,9 +113,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T14:53:45Z",
       "trailText": "Footballer pleads guilty to one count of driving dangerously after his offence was caught on camera",
-      "summary": "Chelsea defender Wesley Fofana (24) pleaded guilty to dangerous driving on 20 April after dashcam footage showed him racing a Lamborghini on the A3 Esher bypass hard shoulder at 50mph. North East Surrey magistrates sentenced him to an 18-month community order (300 hours of unpaid work), £85 costs and £114 victim surcharge, plus a two-year driving ban. The offence predates eight other speeding convictions that previously triggered a separate two-year disqualification and £5,328 fine. Judge Julie Cooper warned any breach would risk imprisonment and that high-profile misconduct endangers new drivers.",
-      "summaryTokens": 952,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Chelsea defender Wesley Fofana, 24, pleaded guilty at North East Surrey magistrates court to dangerous driving after dashcam footage showed him speeding his Lamborghini Urus on the A3 Esher bypass hard shoulder on April 20. Judge Julie Cooper imposed an 18-month community order with 300 hours’ service, an 18-month driving ban and £199 costs. This offence predates eight May convictions for speeding in his Rolls-Royce, Audi and Lamborghini, resulting in a two-year ban, £5,328 in fines and 38 penalty points. Fofana apologised for the 15-20 second reckless manoeuvre; any breach of his ban risks imprisonment and could end his career.",
+      "summaryTokens": 3106,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/how-al-qaida-linked-jihadist-group-jnim-is-bringing-mali-to-its-knees",
@@ -101,9 +125,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T14:00:35Z",
       "trailText": "Political instability and fuel shortages caused by rebel group is driving Mali to brink of becoming Islamist republic",
-      "summary": "Al-Qaida-linked JNIM has blocked key fuel routes into Bamako, triggering a two-week scarcity that has grounded transport, shuttered shops and schools, and cut power across the capital. The jihadist group’s intensified attacks on army convoys and enforcement of strict sharia courts in occupied areas signal its aim to establish an Islamist state. The US, Australia, Germany and Italy have urged citizens to evacuate, warning of a looming coup and Mali’s drift toward isolation under its embattled junta, now reliant on Wagner mercenaries and crumbling amid internal dissent.",
-      "summaryTokens": 556,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Al-Qaida-linked JNIM has blocked fuel routes from Ivory Coast, Mauritania and Senegal, triggering severe shortages in Bamako, where queueing, blackouts and business closures have stalled daily life. The group’s expanding offensive, including attacks on army convoys and imposition of dress codes and summary sharia courts, risks pushing Mali into an Islamist republic. US, Australian, German and Italian advisories urge citizens to evacuate amid fears of a third coup by year-end. Isolated junta, tied to Wagner and pro-junta militias, struggles under sanctions and an ECOWAS break. Analysts warn of domino instability across the Sahel. JNIM eyes Benin and Nigeria expansions.",
+      "summaryTokens": 962,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/huge-crowds-gather-to-commemorate-victims-of-serbian-train-station-disaster",
@@ -113,9 +137,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T13:58:44Z",
       "trailText": "Student-led movement continues to demand political change as embattled president issues rare apology",
-      "summary": "Tens of thousands gathered in Novi Sad on Nov 1 to mark the first anniversary of the railway station canopy collapse that killed 16 people. A student-led movement—now Serbia’s largest youth protests since Milošević—observed a 16-minute silence, laid flowers and candles, and renewed calls for a transparent investigation, anti-corruption measures and early elections. The rallies forced ex-PM Miloš Vučević to resign and prompted a rare apology from President Vučić, who called for dialogue. The EU’s enlargement commissioner praised citizens’ demands for accountability as criminal charges and inquiries into the disaster and EU fund misuse proceed.",
-      "summaryTokens": 633,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Tens of thousands rallied in Novi Sad on the first anniversary of the lethal 2024 railway station canopy collapse that killed 16. The student-led movement, Serbia’s largest youth uprising since Milošević, began by demanding a transparent probe but swiftly broadened into protests against corruption, nepotism and for early elections. Marchers traversed 340 km from Novi Pazar over 16 days; residents greeted them with flags and whistles. Their pressure forced ex-PM Vučević’s January resignation and elicited a rare apology from President Vučić. Serbia, now in EU accession talks, observed a national day of mourning as investigations and anti-corruption inquiries continue.",
+      "summaryTokens": 1153,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/mpx-variant-us-public-health",
@@ -125,9 +149,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T13:00:37Z",
       "trailText": "Risk to general public is low but cases in California suggest virus is spreading undetected in some communities",
-      "summary": "A newly identified mpox clade Ib is now spreading undetected in US communities, with three hospitalized cases in California (Los Angeles, Long Beach) lacking travel links, signaling local transmission. Europe (Spain, Italy, the Netherlands, Portugal) also reports community spread. WHO notes over 44,000 cases in 2025, surpassing 2024. Low detection rates (~3%) and milder, vaccine-modified illness complicate surveillance. Officials urge proactive monitoring (e.g., wastewater), targeted vaccination for high-risk groups (MSM, transgender, sex-event attendees), and strengthened public health networks amid CDC staffing cuts.",
-      "summaryTokens": 934,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "US health authorities warn that clade Ib, a newer mpox variant first detected mid-2023 in DRC, is spreading undetected in US and Europe. In October, California reported three hospitalized cases (two in LA, one in Long Beach) with no travel or known links, marking first community transmission. WHO data show over 44,000 mpox cases in 2025, surpassing 2024 totals. Low detection (<3%) and vaccine-attenuated mild illness hamper surveillance, prompting calls for proactive testing and wastewater monitoring. Risk to the public remains low, but gay, bisexual and MSM, transgender and nonbinary individuals—especially with multiple partners or attending sex venues—face higher risk. CDC staffing cuts complicate response, boosting reliance on community-based outreach and vaccination.",
+      "summaryTokens": 2189,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/argentinians-struggling-milei-chainsaw-austerity",
@@ -137,9 +161,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T13:00:37Z",
       "trailText": "Despite falling inflation, a majority are failing to make ends meet as wages and purchasing power have nosedived",
-      "summary": "Under President Javier Milei’s “chainsaw” austerity, Argentina devalued the peso 55% and cut spending, freezing wages and pensions. Inflation fell from 211% to 32%, but poverty spiked above 50% (now 31.6%), 230,000 formal jobs vanished and informal work hit 43.2%. Delivery courier Francisco Jiménez and shopkeeper Nicolás Pedrosa regret their 2023 votes. A $20bn IMF loan and $40bn US bailout have stabilized the peso but undermined industry: textiles lost 300 firms and 12,000 jobs; wine exports dropped 8.4%. Milei’s allied bloc lacks a congressional majority for labour, tax and pension reforms.",
-      "summaryTokens": 1279,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Amid a decisive midterm win backed by fears of losing a $40 bn US bailout, President Javier Milei’s deep “chainsaw” austerity—massive spending cuts, wage and pension freezes, 55 % peso devaluation and a $20 bn IMF loan—has tamed inflation from 211 % to 32 % but gutted real incomes, drove poverty above 50 % (now 31.6 %), erased the middle class and eliminated some 200 000 formal jobs. Delivery riders like Francisco Jiménez face rent crises, shop owners like Nicolás Pedrosa diversify to survive, informality climbs to 43.2 % and sectors from textiles to wine reel under a stark rich-poor divide.",
+      "summaryTokens": 708,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/german-museum-grumpy-guide-kunstpalast-dusseldorf",
@@ -149,9 +173,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T13:00:35Z",
       "trailText": "Performance artist’s aggressive art historian shouts at visitors and insults curators – and his tours are sold out",
-      "summary": "At Düsseldorf’s Kunstpalast, performance artist Carl Brandi embodies Joseph Langelinck, a self-styled ‘grumpy guide’ who storms through the galleries insulting visitors’ ignorance and scolding curators’ high-low art mashups. His €7, 70-minute tours—part rude-waiter satire, part avant-garde anti-play—launched in May and now sell out months in advance. By inverting the usual museum-visitor power dynamic, Langelinck both skewers contemporary curation trends and offers audiences an unexpected emotional thrill amid Europe’s push for novel, youth-oriented museum experiences.",
-      "summaryTokens": 499,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Performance artist Carl Brandi’s alter ego Joseph Langelinck spearheads the Kunstpalast Düsseldorf’s twice-monthly “Grumpy Guide” tour: a 70-minute, €7 walk in which he berates visitors for their “inferred ignorance,” shouts at phone-checking patrons and lampoons curators for mixing “Aldi to Rubens” exhibits. Launched in May and sold out through next year, it riffs on rude-waiter restaurants and high-brow provocateurs like Peter Handke, subverting museum etiquette and flipping the power imbalance between institution and audience. Visitors emerge amused, chastened and debating niche curation—though few plan an immediate return.",
+      "summaryTokens": 1020,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/gaza-ceasefire-bombings-people-losing-faith",
@@ -161,9 +185,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T13:00:34Z",
       "trailText": "After initial enthusiasm, people fear ceasefire does not mean end to war but just less frequent, more unpredictable violence",
-      "summary": "In northern Gaza, initial joy over the three-week ceasefire has given way to fear and disillusionment after Israel’s airstrikes killed 115 people and injured 352 in 24 hours. Locals cite Ameen al-Zein, killed minutes after urging families home; nurse Hussain Abu Munir, who faces random shelling on his commute through Netzarim checkpoint; and teacher Ikram Nasser, who’s seen students regress amid intermittent violence. Despite US officials’ assurances, these unpredictable violations erode trust in the truce, leaving families unable to plan or feel safe and casting doubt on any lasting calm.",
-      "summaryTokens": 559,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "After a three-week ceasefire that began 10 October, Gazans’ hopes have been shattered by renewed Israeli bombardments: in 24 hours this week, 115 civilians were killed and 352 injured, including Ameen al-Zein, who was killed minutes after urging his return from exile. Strikes followed Hamas’s return of a hostage’s remains and militant attacks, breaking the fragile truce. Healthcare workers, like nurse Hussain Abu Munir, risk daily passing Netzarim checkpoint, while teacher Ikram Nasser sees children’s fleeting return to tents-as-classrooms undone. Random violence and over 1,722 medical staff killed fuel growing distrust that the ceasefire will hold.",
+      "summaryTokens": 1092,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/spain-expresses-regret-over-injustice-suffered-by-mexicos-indigenous-people-during-conquest",
@@ -173,9 +197,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T11:31:02Z",
       "trailText": "Acknowledgment shows shift in tone after six years of diplomatic spats over colonial-era abuses",
-      "summary": "Spain has formally expressed regret for the pain and injustices inflicted on Mexico's Indigenous populations during the 500-year-old conquest, marking a diplomatic shift after six years of tension. In 2019 President López Obrador demanded apologies from King Felipe VI and Pope Francis for colonial-era massacres and oppression; Spain initially resisted. At a Madrid exhibition on Indigenous Mexican women, Foreign Minister José Manuel Albares acknowledged “pain and injustice” and offered sorrow as part of shared history. President Sheinbaum hailed the statement as an ennobling first step. The 1519–21 conquest by Hernán Cortés decimated and converted local societies, sowing lasting impacts.",
-      "summaryTokens": 1151,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Spain’s foreign minister, José Manuel Albares, has for the first time publicly expressed regret for the ‘pain and injustice’ inflicted on Mexico’s Indigenous peoples during the 1519–21 conquest, marking a shift after six years of diplomatic tensions following Andrés Manuel López Obrador’s 2019 letter to King Felipe VI and Pope Francis demanding apologies for colonial-era massacres and oppression. Spain had initially rejected judging 16th-century acts by contemporary standards. Speaking at a Madrid exhibition on Indigenous Mexican women, Albares acknowledged shared history’s “shadows.” Mexico’s president, Claudia Sheinbaum, welcomed the admission as “a first step,” saying “apologies ennoble governments and peoples.”",
+      "summaryTokens": 1608,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/trump-maduro-venezuela-coups",
@@ -185,9 +209,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T11:00:32Z",
       "trailText": "US forces and CIA actions target Venezuela’s leader, recalling coups and assassinations across the region",
-      "summary": "Under Donald Trump’s administration, the US has mounted its largest naval and air buildup near Venezuela since the 1962 Cuban missile crisis, coupled with covert CIA operations and a $50m bounty on Nicolás Maduro, intensifying threats reminiscent of past Latin American coups against Salvador Allende, Rafael Trujillo and Jacobo Arbenz. Reports describe imminent strikes on drug‐smuggling facilities and possible assassination or capture plans. While some US officials hope to incite a coup by disaffected Venezuelan generals, analysts warn that domestic resistance and nationalist sentiment make such an outcome unlikely.",
-      "summaryTokens": 923,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Under Trump, the US has deployed its largest naval force in Latin America since the 1962 missile crisis—aircraft carrier, destroyers, bombers—and authorized the CIA to target Nicolás Maduro, branding him a narcoterrorist. Washington doubled its bounty to $50m dead-or-alive and pre-positioned strikes on Venezuelan military sites. Analysts warn parallels to CIA-backed coups in Chile (1973), Guatemala (1954) and assassination plots against Trujillo, Arbenz and Castro. US plans hinge on fomenting a military coup even as experts doubt an internal uprising, warning any snatch would likely prove fatal for Maduro.",
+      "summaryTokens": 939,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/thousands-join-protests-in-rio-favela-after-deadliest-ever-police-race",
@@ -197,9 +221,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T09:21:39Z",
       "trailText": "Demonstrators demand inquiry after operation on Tuesday in which at least 121 people were killed",
-      "summary": "After Brazil’s deadliest ever police raid—121 killed including four officers—residents of the Complexos da Penha and do Alemão favelas rallied by the thousands in Vila Cruzeiro, demanding a probe, the removal of Governor Cláudio Castro and an end to militarized “war zone” tactics. Protesters invoked “Favela Lives Matter” as Amnesty International and civil rights activists condemned the massacre of predominantly Black, working-class communities. Police framed the operation as a decisive strike against the Red Command, while security experts and critics warned the bloodshed would perpetuate Rio’s entrenched cycle of drug-related violence, despite praise from conservative politicians.",
-      "summaryTokens": 828,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "After a police assault killed 121 people, including four officers, in Rio’s Complexo da Penha and Alemão favelas, thousands rallied demanding an independent inquiry, removal of governor Cláudio Castro, and an end to militarized security policies turning the neighborhoods into “war zones.” Activists and Amnesty International decried a “massacre” targeting poor Black communities, while authorities defended the raid as a blow to the Red Command drug faction. Critics warn that such operations fuel violence rather than curb it; many rightwing politicians praised the crackdown as effective law-and-order.",
+      "summaryTokens": 744,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet",
@@ -209,9 +233,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T07:00:32Z",
       "trailText": "Abdulrahman al-Qaradawi has been imprisoned in the UAE for almost a year for criticising Emirati, Egyptian and Saudi governments",
-      "summary": "Legal counsel for Egyptian-Turkish poet and activist Abdulrahman al-Qaradawi has petitioned the UN special rapporteur on torture to probe Lebanon’s role in his abduction and extradition to the UAE. Arrested in December 2024 after posting a video from Syria criticising the UAE, Egypt and Saudi Arabia, Qaradawi was handed over by Lebanon on “fake news” charges despite holding no Lebanese or Emirati citizenship. Held in solitary confinement for over 10 months without access to legal counsel or sunlight, rights groups and UN experts warn his treatment amounts to torture. They urge Lebanon’s current government to right its predecessor’s wrongs, secure his safe return and prevent a chilling precedent for cross-border repression of dissent.",
-      "summaryTokens": 584,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Legal team for Egyptian-Turkish poet Abdulrahman al-Qaradawi has urged the UN special rapporteur on torture to probe Lebanon’s role in his arrest and transfer to the UAE, where he’s been held over 10 months in solitary confinement without charge or legal counsel. Arrested in December 2024 after a Syria trip and extradited under UAE’s request via the Arab Interior Ministers Council, the dissident faces alleged “fake news” charges after criticizing Emirati, Egyptian and Saudi regimes online. Rights groups warn his conditions violate human rights and set a chilling precedent for regional free speech.",
+      "summaryTokens": 1002,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/tanzanias-hassan-declared-landslide-winner-in-election-that-triggered-violent-protests",
@@ -221,9 +245,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T06:51:37Z",
       "trailText": "The result hands Hassan, who took power in 2021, a five-year term following opposition repression",
-      "summary": "President Samia Suluhu Hassan secured a five-year term after Tanzania’s electoral commission awarded her over 97% of the vote in contested Nov. 1 polls. Major opposition contenders from Chadema and ACT-Wazalendo were disqualified—vice-chair Tundu Lissu arrested on treason and cybercrime charges—amid reports of enforced disappearances, arbitrary arrests and extrajudicial killings. A UN panel logged more than 200 disappearances since 2019. Protests over repression saw banners torn down, government buildings torched and police fire teargas and live rounds; opposition claims hundreds killed, while the UN confirms at least ten deaths. The government denies human rights abuses and rejects the higher toll.",
-      "summaryTokens": 708,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Tanzania’s President Samia Suluhu Hassan secured a controversial landslide with over 97% of votes, extending CCM’s decades-long rule for another five years after excluding her two main opponents—Chadema’s Tundu Lissu and ACT-Wazalendo’s Luhaga Mpina—from the ballot. The election was preceded by a pattern of enforced disappearances, arbitrary arrests and extrajudicial killings, documented by Amnesty International and a UN panel citing 200+ disappearances since 2019. Protests on voting day saw demonstrators tear down banners and set fire to buildings, met with teargas and gunfire; the UN confirmed at least 10 deaths while opposition claims run into the hundreds. The government dismisses these figures as exaggerated.",
+      "summaryTokens": 1362,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/xi-jinpings-moment-and-whirlwind-diplomatic-tours-key-takeaways-from-the-apec-summit-in-south-korea",
@@ -233,9 +257,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T06:14:35Z",
       "trailText": "With Trump electing to fly back to Washington on the eve of the main summit, what did Apec’s remaining leaders achieve in his absence?",
-      "summary": "With President Trump’s early departure, Xi Jinping seized the stage at Gyeongju, promoting free and open trade as an alternative to “America first” protectionism. The 21-member forum delivered only a vague communique that omitted any reference to the WTO or multilateralism, underscoring Apec’s deep fault lines. Concurrently, Canadian PM Mark Carney and Xi hailed a “turning point” in Canada-China relations despite recent US tariffs. In Tokyo-Gyeongju visits, Japan’s new PM Sanae Takaichi made a low-key but pragmatic debut, endorsing future-oriented Japan-South Korea ties while voicing concerns over China’s human rights record and South China Sea activities.",
-      "summaryTokens": 855,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "In Gyeongju, Trump’s early departure left Xi Jinping to assert leadership at APEC, positioning himself as a free-trade champion in contrast to US protectionism. The summit yielded only a vague, non-committal declaration on resilient, inclusive trade, underscoring deep rifts within the 21-member forum. Canada and China seized a diplomatic breakthrough as PM Mark Carney and Xi agreed on a “turning point” in bilateral ties despite US tariffs. Japan’s newly appointed PM Sanae Takaichi navigated her first multilateral stage deftly, securing “future-oriented” cooperation with South Korea and balancing ties with Washington and Beijing. The summit highlighted APEC’s struggle to uphold its founding multilateral ethos in a fractured geopolitical climate.",
+      "summaryTokens": 1184,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/sudan-massacre-rsf-rampage-el-fasher",
@@ -245,9 +269,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T06:00:27Z",
       "trailText": "Atrocities unfolding in El Fasher since it fell to paramilitary forces follow a bleak pattern seen in Rwanda, Liberia and Sudan itself, including lack of international action",
-      "summary": "Since RSF seized El Fasher on 26 October after an 18-month siege, fighters have massacred patients, staff and unarmed men at hospitals, extorted fleeing civilians and filmed mass executions, echoing 2023’s Geneina slaughter (15,000 Masalit civilians killed) and the 72-hour Zamzam camp massacre of 1,500 people. Testimonies and satellite imagery confirm ethnically targeted killings. International experts warned of a “predictable” bloodbath; ICC prosecutors cite war crimes and genocide. A Quad-mediated truce failed as civilians remain trapped or displaced. Aid groups urge sanctions on UAE, Saudi Arabia and Egypt for arming the RSF.",
-      "summaryTokens": 1031,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "After RSF captured El Fasher on 26 October, fighters executed hundreds of civilians—including patients and staff at two hospitals—targeting primarily non-Arab Masalit, extorting fleeing residents and filming killings as psychological warfare. Since an 18-month siege, estimates of deaths run into the thousands amid a communications blackout. The rampage mirrors RSF-led massacres at Geneina (2023) and Zamzam IDP camp (1,500 killed in 72 hours), echoing historic genocide in Darfur, Rwanda and Liberia. Despite UN warnings and a stalled Quad truce roadmap, international inaction persists; experts urge sanctions on UAE, Saudi Arabia and Egypt over arms support to RSF.",
+      "summaryTokens": 1018,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
@@ -257,9 +281,9 @@
       "section": "world",
       "publishedDate": "2025-11-01T02:52:48Z",
       "trailText": "Ukrainian foreign ministry says deliberate strikes on civilian energy facilities violate international law as fears of a winter crisis grow. What we know on day 1,347",
-      "summary": "Ukraine’s foreign ministry accuses Russia of targeting substations that supply external power to South Ukraine and Khmelnitskyi nuclear plants, calling such strikes “nuclear terrorism” and breaches of international law. The IAEA confirmed loss of external lines at two plants and power reductions at Rivne. With winter looming, the UN warns attacks on energy infrastructure threaten civilian survival. G7 energy ministers condemned strikes on gas networks. Ukraine deployed special forces to defend Pokrovsk against advancing Russian troops. Meanwhile, Russia claims to have downed dozens of Ukrainian drones near Moscow, Crimea and southern regions, prompting airport drone-alert shutdowns across Europe.",
-      "summaryTokens": 890,
-      "generatedAt": "2025-11-02T14:06:12.957Z"
+      "summary": "Ukraine’s foreign ministry condemned Russian strikes on power substations feeding its nuclear plants as \"nuclear terrorism\" and violations of humanitarian law, echoing IAEA reports of damage to lines at South Ukraine and Khmelnitskyi plants and reduced output at Rivne. With UN warnings of looming winter hardship, G7 energy ministers denounced Moscow’s assaults on gas networks and pledged Ukraine support. Kyiv deployed special forces to defend Pokrovsk amid a Russian advance. Meanwhile Russia reported downing dozens of Ukrainian drones, and Berlin and other European airports briefly closed after unidentified drone sightings blamed on Moscow.",
+      "summaryTokens": 1390,
+      "generatedAt": "2025-11-03T03:54:06.434Z"
     },
     {
       "id": "world/2025/oct/31/black-river-jamaica-residents-assess-damage-after-hurricane-melissa",
@@ -269,7 +293,7 @@
       "section": "world",
       "publishedDate": "2025-10-31T17:59:01Z",
       "trailText": "People of Jamaican coastal town described as storm’s ground zero are traumatised and desperate for help",
-      "summary": "In Black River, Jamaica—ground zero for Category 5 Hurricane Melissa—nearly every building lost its roof amid flooding, landslides and silt-choked roads. Residents face a humanitarian crisis: 19 Jamaicans dead, 462,000 without power, communications down. Families shelter in bus stops and scavenge debris. Locals and tourists report unprecedented winds, damaged boats and hotels, and urgent calls for zinc, cement and food aid. Military convoys deliver supplies while officials warn that stronger, wetter storms driven by climate change will make rebuilding costly and protracted.",
+      "summary": "In Black River, Jamaica��ground zero for Category 5 Hurricane Melissa—nearly every building lost its roof amid flooding, landslides and silt-choked roads. Residents face a humanitarian crisis: 19 Jamaicans dead, 462,000 without power, communications down. Families shelter in bus stops and scavenge debris. Locals and tourists report unprecedented winds, damaged boats and hotels, and urgent calls for zinc, cement and food aid. Military convoys deliver supplies while officials warn that stronger, wetter storms driven by climate change will make rebuilding costly and protracted.",
       "summaryTokens": 869,
       "generatedAt": "2025-11-02T14:06:12.957Z"
     },
@@ -3797,7 +3821,7 @@
       "section": "world",
       "publishedDate": "2025-10-16T04:00:57Z",
       "trailText": "Its influence over Hamas has been crucial but Doha will want formal multilateral mechanisms for what happens next",
-      "summary": "Qatar, as one of four guarantors of Gaza’s July ceasefire, leverages decades of ties with Hamas—hosting its leadership, funding Gaza, and restructuring Al Jazeera’s coverage—to pressure disarmament and hostage releases. By signing the New York declaration, it condemned Hamas’s October attacks and endorsed transition of control and weapons to the PA. Israeli strikes on Qatari-mediated talks triggered US-brokered apologies, a new trilateral security mechanism and expanded US protection. Qatar now faces detailed negotiations on Hamas’s arsenal and a shift toward formal multilateral frameworks.",
+      "summary": "Qatar, as one of four guarantors of Gaza���s July ceasefire, leverages decades of ties with Hamas—hosting its leadership, funding Gaza, and restructuring Al Jazeera’s coverage—to pressure disarmament and hostage releases. By signing the New York declaration, it condemned Hamas’s October attacks and endorsed transition of control and weapons to the PA. Israeli strikes on Qatari-mediated talks triggered US-brokered apologies, a new trilateral security mechanism and expanded US protection. Qatar now faces detailed negotiations on Hamas’s arsenal and a shift toward formal multilateral frameworks.",
       "summaryTokens": 1635,
       "generatedAt": "2025-10-28T20:46:58.915Z"
     },
