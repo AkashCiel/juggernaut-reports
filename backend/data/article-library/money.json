@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-03T03:30:49.955Z",
+    "generated_at": "2025-11-04T04:56:22.098Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-02"
+      "to": "2025-11-03"
     },
-    "article_count": 80,
+    "article_count": 81,
     "merge_info": {
       "previous_count": 80,
-      "new_articles": 0,
-      "updated_articles": 4,
-      "total_count": 80
+      "new_articles": 1,
+      "updated_articles": 2,
+      "total_count": 81
     },
     "batch_info": {
-      "initial_batch_id": "batch_690821b15940819086fc5b4daf3f7593",
+      "initial_batch_id": "batch_690987134b308190bbee94b5a2656abc",
       "retry_batches": [],
-      "total_tokens": 14607,
+      "total_tokens": 6445,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/03/consumer-champions-hmrc-refund-tax-repayment-fraud",
+      "title": "HMRC gave a refund from my tax account to fraudster making repayment claim",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/03/consumer-champions-hmrc-refund-tax-repayment-fraud",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/03/consumer-champions-hmrc-refund-tax-repayment-fraud",
+      "section": "money",
+      "publishedDate": "2025-11-03T07:00:25Z",
+      "trailText": "I was in credit but HMRC handed £2,500 over to someone impersonating me on the phone, and says I’m in debt",
+      "summary": "Since January, EF from London has been chased for £2,500 plus interest after HMRC mistakenly refunded that sum to a fraudster impersonating him. HMRC paid a bogus repayment claim over the phone using personal data sourced externally, then pursued EF for the resulting arrears. The error mirrored a wider £47m repayment fraud affecting 100,000 accounts. EF’s accountants flagged 13 similar cases, but HMRC only acknowledged the issue after Guardian intervention, apologising and clearing his balance. The incident exposes HMRC’s lax phone verification and communication lapses in combating rebate scams.",
+      "summaryTokens": 867,
+      "generatedAt": "2025-11-04T04:56:21.801Z"
+    },
     {
       "id": "money/2025/nov/02/uk-to-lose-600000-workers-to-illness-without-better-health-support-at-work",
       "title": "UK ‘to lose 600,000 workers to illness without better health support at work’",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-02T12:00:04Z",
       "trailText": "Exclusive: Royal Society of Public Health says ‘fundamental shift’ needed in how firms help those with health conditions",
-      "summary": "Without a fundamental shift in employer-led health support, the UK workforce could shrink by 600,000 due to long-term conditions over the next decade, the Royal Society of Public Health warns. They project 3.3 million adults inactive by 2035 at a £36 billion annual cost. Ahead of Sir Charlie Mayfield’s Keep Britain Working review, the RSPH calls for a national health-and-work standard—universal minimum support including musculoskeletal, mental health and cardiovascular care—and broader caseworker access. Health Foundation experts stress early employer action reduces presenteeism and turnover while boosting productivity; government cites its 10-year prevention-focused health plan.",
-      "summaryTokens": 697,
-      "generatedAt": "2025-11-03T03:30:49.828Z"
+      "summary": "RSPH analysis warns that without a “fundamental shift” in employer health support, an extra 600,000 workers will leave the UK workforce over the next decade. Economically inactive adults could rise by 26% to 3.3m by 2035—equivalent to Bristol’s population—and cost the UK £36bn annually. The RSPH calls for a national health-and-work standard guaranteeing minimum employer support for musculoskeletal, mental and cardiovascular care, ahead of Sir Charlie Mayfield’s Keep Britain Working review. Experts say clearer standards, early intervention and specialist caseworker access can curb inactivity, boost productivity and reduce turnover. Government highlights its 10-year plan shifting from treatment to prevention as it awaits review recommendations.",
+      "summaryTokens": 1415,
+      "generatedAt": "2025-11-04T04:56:21.801Z"
     },
     {
       "id": "money/2025/nov/02/weight-loss-jabs-scam-ads-fake-products-fraud",
@@ -41,9 +53,9 @@
       "section": "money",
       "publishedDate": "2025-11-02T07:00:03Z",
       "trailText": "As texts and social media offer cheap offers, buying from unverified sellers can cause serious health problems",
-      "summary": "Scam weight-loss jabs are proliferating on messaging apps and social media, offering cheap injectables (eg Mounjaro) without prescriptions. UK’s MHRA warns these products—sold via fake pharmacy sites, beauty salons or social posts—may be empty or contain toxins causing serious health harm. Santander data show losses to such scams involving injections, pens, tablets and fat-dissolving products more than doubled July–Sept, averaging £120 per victim. Fraudsters exploit urgency cues (“limited-time offer”) and mimic brand details. Victims risk financial, emotional and medical damage. Experts urge buying obesity meds only via registered pharmacies with GP prescriptions and verifying GPhC registration.",
-      "summaryTokens": 1654,
-      "generatedAt": "2025-11-03T03:30:49.828Z"
+      "summary": "Fraudsters hawking cheap weight-loss injections via texts, messaging apps and faux social accounts are duping buyers into scams or dangerous fakes with unknown toxins. As Mounjaro prices soar, scammers lure buyers with low-cost jabs sans prescription. The MHRA warns illegal products from beauty salons, fake pharmacies or social media can harm health. Santander data shows losses from jab, pen, tablet and fat-dissolver scams more than doubled July–Sept, averaging £120 per victim. Scammers mimic brands, use urgency pitches and undercut legit prices. Advice: only buy prescription meds from General Pharmaceutical Council–registered pharmacies and verify authenticity.",
+      "summaryTokens": 1518,
+      "generatedAt": "2025-11-04T04:56:21.801Z"
     },
     {
       "id": "money/2025/nov/01/workaholic-signs-am-i-addicted-to-work",
