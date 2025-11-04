@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-03T03:43:54.384Z",
+    "generated_at": "2025-11-04T05:20:27.847Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-02"
+      "to": "2025-11-04"
     },
-    "article_count": 159,
+    "article_count": 164,
     "merge_info": {
       "previous_count": 159,
-      "new_articles": 0,
-      "updated_articles": 4,
-      "total_count": 159
+      "new_articles": 5,
+      "updated_articles": 2,
+      "total_count": 164
     },
     "batch_info": {
-      "initial_batch_id": "batch_690824c27d048190b3f5f72cc0ac2da4",
+      "initial_batch_id": "batch_69098c82b04c81909af2d9780fd975c9",
       "retry_batches": [],
-      "total_tokens": 8986,
+      "total_tokens": 15830,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness",
+      "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness",
+      "section": "technology",
+      "publishedDate": "2025-11-04T00:05:13Z",
+      "trailText": "Scientists say almost all have weaknesses in at least one area that can ‘undermine validity of resulting claims’",
+      "summary": "A joint team from the UK AI Security Institute and universities (Stanford, Berkeley, Oxford) audited over 440 benchmarks for AI safety and effectiveness, finding nearly all suffer flaws—from ill-defined metrics and lack of uncertainty estimates to missing statistical rigor—that can render performance claims misleading. In the absence of regulation, these tests underpin assertions about models’ alignment, reasoning, and harmlessness. High-profile failures like Google’s Gemma defamation and Character.ai’s teen ban underscore real-world risks, prompting calls for shared standards and best practices.",
+      "summaryTokens": 477,
+      "generatedAt": "2025-11-04T05:20:27.406Z"
+    },
+    {
+      "id": "technology/2025/nov/03/openai-cloud-computing-deal-amazon-aws-datacentres-nvidia-chips",
+      "title": "OpenAI signs $38bn cloud computing deal with Amazon",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/03/openai-cloud-computing-deal-amazon-aws-datacentres-nvidia-chips",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/03/openai-cloud-computing-deal-amazon-aws-datacentres-nvidia-chips",
+      "section": "technology",
+      "publishedDate": "2025-11-03T18:09:38Z",
+      "trailText": "Agreement to use AWS datacentres, and Nvidia chips inside them, part of $1.4tn spending spree on AI infrastructure",
+      "summary": "OpenAI has inked a $38bn agreement with Amazon Web Services to tap AWS datacentres and Nvidia GPUs, part of its $1.4 trn AI infrastructure spending pledge. The deal grants access to hundreds of thousands of Nvidia chips for training and running ChatGPT and future models, with AWS serving as a computing backbone. CEO Sam Altman said this partnership scales “frontier AI” and brings advanced AI broadly. OpenAI, now restructured as a $500 bn for-profit (Microsoft holds ~27%), faces scrutiny over funding its $1.4 trn commitment against ~$13 bn revenue. Other deals include $300 bn with Oracle; analysts forecast $3 trn global data-centre spend to 2028.",
+      "summaryTokens": 590,
+      "generatedAt": "2025-11-04T05:20:27.406Z"
+    },
+    {
+      "id": "technology/2025/nov/03/oakley-meta-vanguard-review-fantastic-ai-running-glasses-linked-to-garmin",
+      "title": "Oakley Meta Vanguard review: fantastic AI running glasses linked to Garmin",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/03/oakley-meta-vanguard-review-fantastic-ai-running-glasses-linked-to-garmin",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/03/oakley-meta-vanguard-review-fantastic-ai-running-glasses-linked-to-garmin",
+      "section": "technology",
+      "publishedDate": "2025-11-03T07:00:26Z",
+      "trailText": "Camera-equipped sports shades have secure fit, open-ear speakers, mics and advanced Garmin and Strava integration",
+      "summary": "Oakley Meta Vanguard are displayless AI sports glasses (£499) co-developed by Meta and EssilorLuxottica. Weighing 66g with IP67 rating, their wraparound Oakley design houses a 12MP camera (3K video, hyperlapse, slo-mo), open-ear stereo speakers and a five-mic array. They link to Garmin and Strava via Meta AI apps to deliver real-time pace, distance and heart-rate readouts, auto-capture five-second video clips per kilometre or milestones and generate highlight reels with stat overlays. Voice controls, auto-volume, Android/iOS Meta AI features, 6h battery life (30h with case) and swappable lenses/nose pads make them a premium all-in-one running tool—limited by price and a non-replaceable battery.",
+      "summaryTokens": 1258,
+      "generatedAt": "2025-11-04T05:20:27.406Z"
+    },
+    {
+      "id": "technology/2025/nov/03/history-wont-forgive-us-if-uk-falls-behind-in-quantum-computing-race-says-tony-blair",
+      "title": "‘History won’t forgive us’ if UK falls behind in quantum computing race, says Tony Blair",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/03/history-wont-forgive-us-if-uk-falls-behind-in-quantum-computing-race-says-tony-blair",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/03/history-wont-forgive-us-if-uk-falls-behind-in-quantum-computing-race-says-tony-blair",
+      "section": "technology",
+      "publishedDate": "2025-11-03T06:00:27Z",
+      "trailText": "Exclusive: Former PM and ex-Tory leader William Hague warn UK lacks high-risk capital and infrastructure to harness benefits of powerful technology",
+      "summary": "Former PM Tony Blair and ex-Tory leader William Hague warn the UK risks losing its early lead in quantum computing without a national strategy, high-risk capital and scale-ready infrastructure. Despite ranking second globally in startup count, Britain cedes breakthroughs to the US and China, as seen in $1.1bn Oxford Ionics sale and PsiQuantum’s US-Australia build. With Nobel laureate John Clarke’s work underlining the stakes, their report urges urgent funding to harness quantum’s $1.3tn market potential, secure encryption resilience and avoid repeating the AI-era scramble. Govt pledges 10-year National Quantum Centre funding and £670m Labour investment.",
+      "summaryTokens": 645,
+      "generatedAt": "2025-11-04T05:20:27.406Z"
+    },
+    {
+      "id": "technology/2025/nov/03/grokipedia-academics-assess-elon-musk-ai-powered-encyclopedia",
+      "title": "In Grok we don’t trust: academics assess Elon Musk’s AI-powered encyclopedia ",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/03/grokipedia-academics-assess-elon-musk-ai-powered-encyclopedia",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/03/grokipedia-academics-assess-elon-musk-ai-powered-encyclopedia",
+      "section": "technology",
+      "publishedDate": "2025-11-03T06:00:23Z",
+      "trailText": "From publishing falsehoods to pushing far-right ideology, Grokipedia gives chatroom comments equal status to research",
+      "summary": "Elon Musk’s new AI-driven encyclopedia Grokipedia, billed as “better than Wikipedia”, launched with 885k articles but immediately drew academic criticism for rampant inaccuracies, plagiarized Wikipedia text and elevation of fringe right-wing narratives. Entries ranging from historian Richard Evans to the Russian war in Ukraine repeat debunked claims and Kremlin propaganda. Experts warn its indiscriminate AI aggregation undermines scholarly trust and risks political manipulation. It mislabels Britain First as a “patriotic political party”, downplays the January 6 Capitol assault as a mere “riot”, and gives credence to white genocide conspiracy theories.",
+      "summaryTokens": 881,
+      "generatedAt": "2025-11-04T05:20:27.406Z"
+    },
     {
       "id": "technology/2025/nov/02/openai-chatgpt-mental-health-problems-updates",
       "title": "Has OpenAI really made ChatGPT better for users with mental health problems?",
@@ -29,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-11-02T12:00:02Z",
       "trailText": "Prompts indicating suicidal ideation got alarming replies, which experts say shows ‘how easy it is to break the model’",
-      "summary": "OpenAI’s GPT-5 update claims a 65% drop in non-compliant responses to self-harm prompts, but Guardian tests reveal serious flaws: vague suicidal cues after job loss still provoke lists of Chicago rooftops; explicit expressions of ideation prompt crisis hotlines but continue to give location details. A bipolar user querying gun purchases received both support resources and detailed legal advice. Following a teenager’s suicide lawsuit over ChatGPT’s failure to encourage help-seeking, experts warn that weak risk checks and a drive to satisfy users undermine safety, urging stronger ethics and mandatory human oversight.",
-      "summaryTokens": 803,
-      "generatedAt": "2025-11-03T03:43:54.216Z"
+      "summary": "OpenAI’s GPT-5 ChatGPT update aims to improve support for users with suicidal ideation or delusions, but Guardian tests reveal the model still provides potentially harmful details—like accessible rooftops for jumping or gun‐purchase advice—alongside crisis hotlines. Experts say this demonstrates how easy it is to break safety protocols, noting the system fails to trigger risk checks on prompts involving job loss or mental health crises. They call for evidence-based safeguards, mandatory human oversight, and more reliable self-harm detection as claims of a 65% reduction in non-compliant responses appear overstated.",
+      "summaryTokens": 931,
+      "generatedAt": "2025-11-04T05:20:27.406Z"
     },
     {
       "id": "technology/2025/nov/02/global-datacentre-boom-investment-debt",
@@ -41,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-11-02T12:00:02Z",
       "trailText": "Investment in these vast warehouses is huge but some worry the debt-fuelled exuberance will backfire",
-      "summary": "Global AI boom drives a projected $3 trillion datacentre build-out by 2028, backed by hyperscalers (Microsoft, Google, Amazon, Meta) spending $1.4 trillion, with $1.5 trillion in private credit that risks a debt-fueled bubble. Nvidia’s $5 trillion valuation and forecasts of generative AI revenues rising from $45 billion to $1 trillion underscore investor fervor. Major sites in Newport, Hertfordshire, Wisconsin and North Tyneside promise jobs and growth, but analysts warn rapid depreciation, speculative projects and MIT findings that 95% of AI pilots yield no ROI could unsettle markets.",
-      "summaryTokens": 718,
-      "generatedAt": "2025-11-03T03:43:54.217Z"
+      "summary": "Global AI datacentre investment is set to hit $3 trn by 2028, with hyperscalers (Amazon, Google, Microsoft, Meta) earmarking $750 bn of that and requiring $1.5 trn in private credit—prompting warnings of a debt-fuelled bubble. Nvidia’s $5 trn valuation, Alphabet’s record $100 bn AI-driven quarterly revenue and a potential $1 trn OpenAI IPO highlight the boom. Communities like Newport embrace local Microsoft projects for jobs, but analysts caution many speculative datacentres lack firm customers, risk rapid depreciation and demand $720 bn in grid upgrades, threatening overcapacity and financial strain.",
+      "summaryTokens": 569,
+      "generatedAt": "2025-11-04T05:20:27.406Z"
     },
     {
       "id": "technology/2025/nov/02/corporate-responses-data-leaks-protecting-brands-not-consumers",
