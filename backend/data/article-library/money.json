@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-04T04:56:22.098Z",
+    "generated_at": "2025-11-05T03:45:53.363Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-03"
+      "to": "2025-11-04"
     },
-    "article_count": 81,
+    "article_count": 82,
     "merge_info": {
-      "previous_count": 80,
+      "previous_count": 81,
       "new_articles": 1,
-      "updated_articles": 2,
-      "total_count": 81
+      "updated_articles": 1,
+      "total_count": 82
     },
     "batch_info": {
-      "initial_batch_id": "batch_690987134b308190bbee94b5a2656abc",
+      "initial_batch_id": "batch_690ac7004a0c81908cd131f81b000d9c",
       "retry_batches": [],
-      "total_tokens": 6445,
-      "processing_time_hours": 0
+      "total_tokens": 3182,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/04/consumer-champions-london-ulez-auto-pay-blunders-fines",
+      "title": "London Ulez auto pay blunders have triggered £11,445 in fines",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/04/consumer-champions-london-ulez-auto-pay-blunders-fines",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/04/consumer-champions-london-ulez-auto-pay-blunders-fines",
+      "section": "money",
+      "publishedDate": "2025-11-04T07:00:21Z",
+      "trailText": "When account was suspended my brother-in-law was caught in debt as 200 penalty charge notices piled up",
+      "summary": "A London van driver set up Ulez auto-pay for his non-compliant vehicle but, after TfL suspended his account over a disputed December charge and misspelled his surname, he unwittingly racked up 200 penalty notices. He’s paid £11,445, owes £1,400 more and faces 70 further fines as rejected appeals branded him a ‘third party’. Dyslexic and battling a stress-triggered autoimmune disease, his mental health collapsed. Contradictory advice and system errors blocked affordable repayment plans. TfL has now corrected the error, reinstated auto-pay, cancelled outstanding charges and agreed to accept the sums already paid.",
+      "summaryTokens": 631,
+      "generatedAt": "2025-11-05T03:45:53.174Z"
+    },
     {
       "id": "money/2025/nov/03/consumer-champions-hmrc-refund-tax-repayment-fraud",
       "title": "HMRC gave a refund from my tax account to fraudster making repayment claim",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-03T07:00:25Z",
       "trailText": "I was in credit but HMRC handed £2,500 over to someone impersonating me on the phone, and says I’m in debt",
-      "summary": "Since January, EF from London has been chased for £2,500 plus interest after HMRC mistakenly refunded that sum to a fraudster impersonating him. HMRC paid a bogus repayment claim over the phone using personal data sourced externally, then pursued EF for the resulting arrears. The error mirrored a wider £47m repayment fraud affecting 100,000 accounts. EF’s accountants flagged 13 similar cases, but HMRC only acknowledged the issue after Guardian intervention, apologising and clearing his balance. The incident exposes HMRC’s lax phone verification and communication lapses in combating rebate scams.",
-      "summaryTokens": 867,
-      "generatedAt": "2025-11-04T04:56:21.801Z"
+      "summary": "London accountant EF was told he owed £2,500 after HMRC paid a fraudulent repayment to a scammer who impersonated him in January. Despite being in credit, his self-assessment account was left in arrears, triggering debt-collection letters. HMRC admitted it issued the cheque after a phone request using personal data “obtained elsewhere” but only corrected his balance and apologised following Guardian intervention. The case mirrors June’s £47m repayment fraud affecting 100,000 accounts and involves 13 other clients of EF’s firm.",
+      "summaryTokens": 922,
+      "generatedAt": "2025-11-05T03:45:53.174Z"
     },
     {
       "id": "money/2025/nov/02/uk-to-lose-600000-workers-to-illness-without-better-health-support-at-work",
