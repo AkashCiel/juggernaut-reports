@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-04T05:15:02.101Z",
+    "generated_at": "2025-11-05T03:52:00.327Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-03"
+      "to": "2025-11-05"
     },
-    "article_count": 80,
+    "article_count": 82,
     "merge_info": {
-      "previous_count": 79,
-      "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 80
+      "previous_count": 80,
+      "new_articles": 2,
+      "updated_articles": 1,
+      "total_count": 82
     },
     "batch_info": {
-      "initial_batch_id": "batch_69098bbe50888190adc5ec05fd6ba044",
+      "initial_batch_id": "batch_690ac93c6fb08190937c6f628b792ef8",
       "retry_batches": [],
-      "total_tokens": 888,
+      "total_tokens": 4203,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/05/ai-research-super-recognisers-identify-faces",
+      "title": "AI study gives insights into why super-recognisers excel at identifying faces",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/05/ai-research-super-recognisers-identify-faces",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/05/ai-research-super-recognisers-identify-faces",
+      "section": "science",
+      "publishedDate": "2025-11-05T00:01:12Z",
+      "trailText": "Research uses eye-tracking data to examine some people’s extraordinary recognition ability",
+      "summary": "Researchers at UNSW Sydney used eye-tracking data from 37 super-recognisers and 68 typical recognisers to reconstruct participants’ retinal glimpses of faces, feeding these partial views into deep neural networks. The AI’s recognition accuracy was highest with super-recogniser data, not merely because they looked at more regions but because they fixated on identity-rich features. Findings suggest superior face recognition arises from smarter sampling of facial information. Experts note the need for dynamic real-world validation, and a free UNSW test can identify super-recognisers.",
+      "summaryTokens": 664,
+      "generatedAt": "2025-11-05T03:52:00.167Z"
+    },
+    {
+      "id": "science/2025/nov/04/trump-jared-isaacman-nasa",
+      "title": "Trump reverses course to renominate billionaire Musk ally to lead Nasa",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/04/trump-jared-isaacman-nasa",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/04/trump-jared-isaacman-nasa",
+      "section": "science",
+      "publishedDate": "2025-11-04T23:18:49Z",
+      "trailText": "President withdrew Jared Isaacman’s nomination in May but says on Truth Social he is ‘ideally suited’ for top role",
+      "summary": "Trump renominated billionaire private astronaut and Musk ally Jared Isaacman as NASA administrator after withdrawing his May bid. Announced on Truth Social, he praised acting chief Sean Duffy’s “incredible job” and called Isaacman “ideally suited” to lead the agency. Ex-Shift4 CEO Isaacman, philanthropist and early SpaceX customer, has strong industry backing but faces congressional scrutiny over Musk ties and past Democratic donations. In April hearings he supported both moon- and Mars-focused goals. He vows to inspire NASA’s workforce and partners, accelerate exploration, and usher in a bold new era in space.",
+      "summaryTokens": 610,
+      "generatedAt": "2025-11-05T03:52:00.167Z"
+    },
     {
       "id": "science/2025/nov/03/starwatch-look-out-for-the-largest-supermoon-of-the-year-on-wednesday",
       "title": "Starwatch: look out for the largest supermoon of the year on Wednesday",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-03T06:00:25Z",
       "trailText": "On 5 November, the moon will be just under 357,000km from Earth, making it appear bigger and brighter",
-      "summary": "On 5 November 2025 the moon reaches perigee at just under 357,000 km, making it the largest supermoon of the year—appearing about 8% larger and 16% brighter than an average full moon. Supermoons occur when a full moon falls within 10% of its closest orbital point. It will rise in the east around sunset (about 15:52 GMT in London) and, aided by the horizon-based “moon illusion,” look especially dramatic as its bright limb emerges against twilight.",
-      "summaryTokens": 414,
-      "generatedAt": "2025-11-04T05:15:01.790Z"
+      "summary": "On 5 November 2025 the full moon reaches just under 357,000 km from Earth—its closest perigee of the year—making it a supermoon. It will appear about 8% larger and 16% brighter than a typical full moon and rise in the east around 15:52 GMT in London. The moon’s elliptical orbit brings it within 10% of perigee, enhancing its size, while the horizon view triggers the moon illusion, amplifying its dramatic appearance at twilight.",
+      "summaryTokens": 536,
+      "generatedAt": "2025-11-05T03:52:00.167Z"
     },
     {
       "id": "science/2025/nov/01/unregulated-sperm-joe-donor-still-advertising-services-despite-court-warnings-women",
