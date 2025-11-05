@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-04T05:20:27.847Z",
+    "generated_at": "2025-11-05T04:37:21.562Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-04"
     },
-    "article_count": 164,
+    "article_count": 165,
     "merge_info": {
-      "previous_count": 159,
-      "new_articles": 5,
-      "updated_articles": 2,
-      "total_count": 164
+      "previous_count": 164,
+      "new_articles": 1,
+      "updated_articles": 5,
+      "total_count": 165
     },
     "batch_info": {
-      "initial_batch_id": "batch_69098c82b04c81909af2d9780fd975c9",
+      "initial_batch_id": "batch_690ad07700e48190907dd51a5e6fd693",
       "retry_batches": [],
-      "total_tokens": 15830,
-      "processing_time_hours": 0
+      "total_tokens": 13531,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/04/google-plans-to-put-datacentres-in-space-to-meet-demand-for-ai",
+      "title": "Google plans to put datacentres in space to meet demand for AI",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/04/google-plans-to-put-datacentres-in-space-to-meet-demand-for-ai",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/04/google-plans-to-put-datacentres-in-space-to-meet-demand-for-ai",
+      "section": "technology",
+      "publishedDate": "2025-11-04T20:08:18Z",
+      "trailText": "US technology company’s engineers want to exploit solar power and the falling cost of rocket launches",
+      "summary": "Google’s Project Suncatcher proposes deploying AI datacentres in space via constellations of around 80 solar-powered satellites at 400 miles altitude, each housing Google TPUs and linked by free-space optical beams. Two prototype satellites are slated for early 2027. Falling rocket launch costs could make orbital datacentres cost-competitive with terrestrial sites by the mid-2030s, while space solar panels deliver up to eight times more power and reduce land-water cooling demands. Key challenges include launch CO2 emissions, thermal management, high-bandwidth ground links, on-orbit reliability and astronomers’ concerns over satellite clutter.",
+      "summaryTokens": 631,
+      "generatedAt": "2025-11-05T04:37:21.379Z"
+    },
     {
       "id": "technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness",
       "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness",
@@ -29,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-11-04T00:05:13Z",
       "trailText": "Scientists say almost all have weaknesses in at least one area that can ‘undermine validity of resulting claims’",
-      "summary": "A joint team from the UK AI Security Institute and universities (Stanford, Berkeley, Oxford) audited over 440 benchmarks for AI safety and effectiveness, finding nearly all suffer flaws—from ill-defined metrics and lack of uncertainty estimates to missing statistical rigor—that can render performance claims misleading. In the absence of regulation, these tests underpin assertions about models’ alignment, reasoning, and harmlessness. High-profile failures like Google’s Gemma defamation and Character.ai’s teen ban underscore real-world risks, prompting calls for shared standards and best practices.",
-      "summaryTokens": 477,
-      "generatedAt": "2025-11-04T05:20:27.406Z"
+      "summary": "Experts from the UK AI Security Institute, Stanford, Berkeley and Oxford reviewed over 440 benchmarks used to assess AI safety and effectiveness, finding almost all have weaknesses—only 16% use uncertainty estimates or statistical tests. Flawed, ill-defined measures risk misleading claims about alignment, reasoning, coding and harmlessness. In regulatory gaps, these benchmarks underpin unchecked AI releases, as highlighted by Google’s withdrawal of its Gemma model for defamatory hallucinations and Character.ai’s teen ban after self-harm controversies. The study urges shared definitions, standards and rigorous validation to ensure credible AI evaluation.",
+      "summaryTokens": 419,
+      "generatedAt": "2025-11-05T04:37:21.379Z"
     },
     {
       "id": "technology/2025/nov/03/openai-cloud-computing-deal-amazon-aws-datacentres-nvidia-chips",
@@ -41,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-11-03T18:09:38Z",
       "trailText": "Agreement to use AWS datacentres, and Nvidia chips inside them, part of $1.4tn spending spree on AI infrastructure",
-      "summary": "OpenAI has inked a $38bn agreement with Amazon Web Services to tap AWS datacentres and Nvidia GPUs, part of its $1.4 trn AI infrastructure spending pledge. The deal grants access to hundreds of thousands of Nvidia chips for training and running ChatGPT and future models, with AWS serving as a computing backbone. CEO Sam Altman said this partnership scales “frontier AI” and brings advanced AI broadly. OpenAI, now restructured as a $500 bn for-profit (Microsoft holds ~27%), faces scrutiny over funding its $1.4 trn commitment against ~$13 bn revenue. Other deals include $300 bn with Oracle; analysts forecast $3 trn global data-centre spend to 2028.",
-      "summaryTokens": 590,
-      "generatedAt": "2025-11-04T05:20:27.406Z"
+      "summary": "OpenAI agreed a $38bn deal with AWS for immediate access to AWS datacentres and hundreds of thousands of Nvidia GPUs, part of its $1.4tn AI infrastructure spree. Sam Altman said this partnership ensures \"massive, reliable compute\" to train ChatGPT and next-gen models. OpenAI plans 30GW capacity and restructured as a $500bn-valued for-profit with Microsoft at 27%. It also signed a $300bn Oracle datacentre pact. Market watchers worry about funding global AI capex, forecast at $3tn by 2028.",
+      "summaryTokens": 1356,
+      "generatedAt": "2025-11-05T04:37:21.379Z"
     },
     {
       "id": "technology/2025/nov/03/oakley-meta-vanguard-review-fantastic-ai-running-glasses-linked-to-garmin",
@@ -53,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-03T07:00:26Z",
       "trailText": "Camera-equipped sports shades have secure fit, open-ear speakers, mics and advanced Garmin and Strava integration",
-      "summary": "Oakley Meta Vanguard are displayless AI sports glasses (£499) co-developed by Meta and EssilorLuxottica. Weighing 66g with IP67 rating, their wraparound Oakley design houses a 12MP camera (3K video, hyperlapse, slo-mo), open-ear stereo speakers and a five-mic array. They link to Garmin and Strava via Meta AI apps to deliver real-time pace, distance and heart-rate readouts, auto-capture five-second video clips per kilometre or milestones and generate highlight reels with stat overlays. Voice controls, auto-volume, Android/iOS Meta AI features, 6h battery life (30h with case) and swappable lenses/nose pads make them a premium all-in-one running tool—limited by price and a non-replaceable battery.",
-      "summaryTokens": 1258,
-      "generatedAt": "2025-11-04T05:20:27.406Z"
+      "summary": "Oakley Meta Vanguard are £499 screenless AI sports glasses combining running shades, open-ear audio and action cam. Their 66g wraparound frame (IP67) fits under helmets, uses a 12MP camera shooting 3K video, stereo open-ear speakers and a 5-mic array. Meta AI handles photos, translations and mid-run metric queries. Deep Garmin pairing delivers real-time pace, heart-rate voice updates, LED zone alerts and auto-capture highlights stitched into Strava-ready reels. 6h battery (30h with case); non-replaceable battery. Requires Meta AI app on phone for full features; no prescription option; swappable lenses and nose pads but unrepairable beyond batteries.",
+      "summaryTokens": 1242,
+      "generatedAt": "2025-11-05T04:37:21.379Z"
     },
     {
       "id": "technology/2025/nov/03/history-wont-forgive-us-if-uk-falls-behind-in-quantum-computing-race-says-tony-blair",
@@ -65,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-11-03T06:00:27Z",
       "trailText": "Exclusive: Former PM and ex-Tory leader William Hague warn UK lacks high-risk capital and infrastructure to harness benefits of powerful technology",
-      "summary": "Former PM Tony Blair and ex-Tory leader William Hague warn the UK risks losing its early lead in quantum computing without a national strategy, high-risk capital and scale-ready infrastructure. Despite ranking second globally in startup count, Britain cedes breakthroughs to the US and China, as seen in $1.1bn Oxford Ionics sale and PsiQuantum’s US-Australia build. With Nobel laureate John Clarke’s work underlining the stakes, their report urges urgent funding to harness quantum’s $1.3tn market potential, secure encryption resilience and avoid repeating the AI-era scramble. Govt pledges 10-year National Quantum Centre funding and £670m Labour investment.",
-      "summaryTokens": 645,
-      "generatedAt": "2025-11-04T05:20:27.406Z"
+      "summary": "Former PM Tony Blair and ex-Tory leader William Hague warn the UK risks squandering its quantum research leadership without a national strategy, high-risk capital and infrastructure to scale startups. Their Tony Blair Institute report draws parallels with AI, urging action to keep pace with the US, China, Germany and others as quantum’s $1.3 trn market looms. Despite hosting the world’s second-largest quantum startup scene, UK firms like Oxford Ionics and PsiQuantum are bought or built abroad. Government pledges include a 10-year National Quantum Computing Centre fund and Labour’s £670m investment.",
+      "summaryTokens": 1013,
+      "generatedAt": "2025-11-05T04:37:21.379Z"
     },
     {
       "id": "technology/2025/nov/03/grokipedia-academics-assess-elon-musk-ai-powered-encyclopedia",
@@ -77,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-11-03T06:00:23Z",
       "trailText": "From publishing falsehoods to pushing far-right ideology, Grokipedia gives chatroom comments equal status to research",
-      "summary": "Elon Musk’s new AI-driven encyclopedia Grokipedia, billed as “better than Wikipedia”, launched with 885k articles but immediately drew academic criticism for rampant inaccuracies, plagiarized Wikipedia text and elevation of fringe right-wing narratives. Entries ranging from historian Richard Evans to the Russian war in Ukraine repeat debunked claims and Kremlin propaganda. Experts warn its indiscriminate AI aggregation undermines scholarly trust and risks political manipulation. It mislabels Britain First as a “patriotic political party”, downplays the January 6 Capitol assault as a mere “riot”, and gives credence to white genocide conspiracy theories.",
-      "summaryTokens": 881,
-      "generatedAt": "2025-11-04T05:20:27.406Z"
+      "summary": "Grokipedia, the AI-powered encyclopedia Musk launched in November 2025 claiming to be “better than Wikipedia”, has been found to lift large chunks of text from Wikipedia, contain false biographical details, and inject right-wing talking points. Experts including Sir Richard Evans warn it gives unverified chatroom content equal weight to scholarly research, lacks transparency on training data, and risks political manipulation. Entries on Ukraine, the US Capitol, and groups like Britain First misstate mainstream consensus, reinforcing critics’ view that Wikipedia’s volunteer oversight and open policies remain more trustworthy.",
+      "summaryTokens": 1315,
+      "generatedAt": "2025-11-05T04:37:21.379Z"
     },
     {
       "id": "technology/2025/nov/02/openai-chatgpt-mental-health-problems-updates",
