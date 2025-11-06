@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-05T03:47:30.226Z",
+    "generated_at": "2025-11-06T03:43:36.568Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-04"
+      "to": "2025-11-05"
     },
-    "article_count": 82,
+    "article_count": 85,
     "merge_info": {
-      "previous_count": 81,
-      "new_articles": 1,
+      "previous_count": 82,
+      "new_articles": 3,
       "updated_articles": 1,
-      "total_count": 82
+      "total_count": 85
     },
     "batch_info": {
-      "initial_batch_id": "batch_690ac879b7c48190a9b15c9b1d5db3eb",
+      "initial_batch_id": "batch_690c18f042908190a359e826c2be6a3e",
       "retry_batches": [],
-      "total_tokens": 3186,
+      "total_tokens": 6874,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/05/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/05/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/05/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-05T21:00:35Z",
+      "trailText": "Portrait of a Man in a Red Suit | Elon Musk",
+      "summary": "Clarifies that the Portrait of a Man in a Red Suit’s sitter remains unidentified, not abolitionist Olaudah Equiano; corrects Elon Musk’s offer to Wikipedia as $1 billion (not £1 billion) for a rebrand to “Dickipedia”; lists other recent corrections spanning UK income tax projections, US mayoral races, TV and Radiohead reviews, criminal justice failures, missing-person rescues and e-reader guides; and directs readers to submit editorial complaints or correction requests to guardian.readers@theguardian.com, to the Readers’ editor at Kings Place, London, or via voicemail at +44 (0)20 3353 4736.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-11-06T03:43:36.411Z"
+    },
+    {
+      "id": "news/2025/nov/05/the-tragedy-of-el-fasher-inside-the-7-november-guardian-weekly",
+      "title": "The tragedy of El Fasher: inside the 7 November Guardian Weekly",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/05/the-tragedy-of-el-fasher-inside-the-7-november-guardian-weekly",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/05/the-tragedy-of-el-fasher-inside-the-7-november-guardian-weekly",
+      "section": "news",
+      "publishedDate": "2025-11-05T18:00:32Z",
+      "trailText": "A Sudanese massacre foretold. Plus Margaret Atwood on our dystopian world",
+      "summary": "This Guardian Weekly issue documents the unfolding El Fasher massacre in Darfur, captured by satellite imagery of burning vehicles, bodies and blood pools as Sudan’s RSF paramilitaries seize the city. With senior UN warnings of a descent into ‘darker hell’, reporters Rachel Savage and Carlos Mureithi chronicle a foretold slaughter aided by UAE arms, while Nesrine Malik exhorts the world not to look away. The edition also features essays on royal scandal, Margaret Atwood’s dystopian insights and COP30 climate leadership.",
+      "summaryTokens": 861,
+      "generatedAt": "2025-11-06T03:43:36.411Z"
+    },
+    {
+      "id": "news/2025/nov/05/the-long-wave-hurrican-melissa-caribbean",
+      "title": "‘At the mercy of nature’: how the Caribbean is dealing with the unprecedented Hurricane Melissa",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/05/the-long-wave-hurrican-melissa-caribbean",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/05/the-long-wave-hurrican-melissa-caribbean",
+      "section": "news",
+      "publishedDate": "2025-11-05T12:21:59Z",
+      "trailText": "The category 5 storm has wreaked havoc in the region, as those affected now reckon with damaged livelihoods and the cost of rebuilding",
+      "summary": "Category 5 Hurricane Melissa battered the Caribbean, striking Jamaica with record-breaking strength after a slow buildup. Landslides, flooding and debris cut off St Elizabeth, obliterating shops and homes. The death toll looms large for a small population, and survivors face ruined livelihoods and trauma. Jamaicans used dark humour online amid anxiety as the storm approached. Experts warn that Atlantic warming “turbo-charged” Melissa, linking its ferocity to climate change driven by wealthy nations that emit 99% of greenhouse gases. Calls grow for reconstruction aid, climate reparations and resilient rebuilding, fueled by diaspora fundraisers and Jamaican celebrities.",
+      "summaryTokens": 489,
+      "generatedAt": "2025-11-06T03:43:36.411Z"
+    },
     {
       "id": "news/2025/nov/04/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +65,9 @@
       "section": "news",
       "publishedDate": "2025-11-04T21:00:06Z",
       "trailText": "Richard Taylor | Lord Taverne",
-      "summary": "Corrections to articles: Richard Taylor’s libel case story mislabels his University of Leicester deputy registrar post as academic; Lord Taverne obituary wrongly calls his mother Anglo-Dutch (both parents were Dutch), misattributes an SDP-only photo and US debating tour line-up omitted Jeremy Thorpe and Robin Day. Other amended pieces include US billionaires’ wealth surge, Brief Encounter at 80, Trump’s tariffs, UK nature-disconnect ranking, Chainsaw Man movie, 90s girlband history, NHS AI prostate tool, Brexit productivity drag. Send corrections to guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU.",
-      "summaryTokens": 1076,
-      "generatedAt": "2025-11-05T03:47:30.084Z"
+      "summary": "Corrections and clarifications: The Guardian corrects its 28 October report on Richard Taylor’s libel victory over The Lost King makers, noting his University of Leicester post is administrative, not academic. In Lord Taverne’s obituary (27 October), parents were both Dutch, the beach photo shows the SDP-Liberal alliance, and the 1951 US debate tour excluded Jeremy Thorpe and Robin Day. The notice also lists recent amendments to pieces on US billionaires’ wealth surge, Brief Encounter’s 80th anniversary, Trump-era economic anxiety, UK nature-connected rankings, Chainsaw Man: The Movie review, 90s girlband history, NHS AI cancer tool trial, and Brexit-linked UK productivity. Readers can send corrections to the Readers’ editor.",
+      "summaryTokens": 1095,
+      "generatedAt": "2025-11-06T03:43:36.411Z"
     },
     {
       "id": "news/2025/nov/03/corrections-and-clarifications",
