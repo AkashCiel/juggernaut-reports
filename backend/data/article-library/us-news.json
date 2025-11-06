@@ -1,37 +1,421 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-05T04:40:25.933Z",
+    "generated_at": "2025-11-06T04:01:53.657Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-05"
+      "to": "2025-11-06"
     },
-    "article_count": 1013,
+    "article_count": 1046,
     "merge_info": {
-      "previous_count": 978,
-      "new_articles": 35,
-      "updated_articles": 21,
-      "total_count": 1013
+      "previous_count": 1013,
+      "new_articles": 33,
+      "updated_articles": 39,
+      "total_count": 1046
     },
     "batch_info": {
-      "initial_batch_id": "batch_690ad48ac35c8190b63b3d9b43cf5af0",
+      "initial_batch_id": "batch_690c1cedcea4819090c8bb9def020e00",
       "retry_batches": [],
-      "total_tokens": 128607,
-      "processing_time_hours": 0
+      "total_tokens": 180824,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/nov/05/government-shutdown-duffy-airspace-closures",
+      "title": "US to cut airline traffic by 10% due to shutdown, Trump transport chief says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/government-shutdown-duffy-airspace-closures",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/government-shutdown-duffy-airspace-closures",
+      "section": "us-news",
+      "publishedDate": "2025-11-06T02:32:08Z",
+      "trailText": "Sean Duffy says cuts at 40 locations to reduce stress on air traffic controllers will start Friday if solution not found",
+      "summary": "Transport Sec. Sean Duffy and FAA Administrator Bryan Bedford warn if the 36-day US government shutdown persists past Friday, the FAA will cut airline traffic 10% at 40 high-volume airports—likely among the top 30 including New York, Washington DC, Chicago, Atlanta, Los Angeles and Dallas—to reduce fatigue among unpaid controllers. Cuts ramp from 4% Friday to 10% next week, exempting international flights. Cirium estimates 1,800 fewer flights (268,000 seats). Facing a 3,500-controller shortfall, FAA offers bonuses and ramps up recruitment; delays could spike before Thanksgiving.",
+      "summaryTokens": 1776,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: supreme court examines president’s global tariffs",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2025-11-06T02:02:27Z",
+      "trailText": "Conservative justices expressing skepticism of the strength of the Trump administration’s position",
+      "summary": "At the US Supreme Court, conservative justices signaled doubts over President Trump’s use of the 1977 International Emergency Economic Powers Act to impose sweeping global tariffs, with Chief Justice Roberts questioning if Congress holds exclusive taxation authority. Some 40 legal briefs—including from the US Chamber of Commerce—oppose the duties. A ruling against the administration could force a major economic-policy pivot. Meanwhile, amid a record government shutdown, the Transportation Secretary warned of a 10% cut in airline traffic, and Trump unleashed a barrage of Truth Social posts following key Democratic election victories and ongoing legal skirmishes.",
+      "summaryTokens": 990,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/los-angeles-immigration-agents-toddler",
+      "title": "Armed US immigration agents drive off with toddler after arrest of father",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/los-angeles-immigration-agents-toddler",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/los-angeles-immigration-agents-toddler",
+      "section": "us-news",
+      "publishedDate": "2025-11-06T01:53:51Z",
+      "trailText": "‘Devastated’ family demands answers after two-year-old driven by armed agents from LA Home Depot parking lot",
+      "summary": "During a major DHS operation at an LA Home Depot in Cypress Park on Nov 5, masked, heavily armed agents arrested a 32-year-old US citizen father in front of his sleeping toddler, then drove off with the one-year-old in the backseat. The child’s grandmother learned hours later where to retrieve her via a Border Patrol call, after waiting at an immigration office and providing a birth certificate. DHS alleges the father threw rocks, wielded a hammer and had a stolen pistol; family and advocates condemn the tactic as traumatizing, racially biased, and part of a pattern of family separations.",
+      "summaryTokens": 1061,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/trump-oval-office-sign",
+      "title": "Trump’s gold sign outside Oval Office prompts backlash",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/trump-oval-office-sign",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/trump-oval-office-sign",
+      "section": "us-news",
+      "publishedDate": "2025-11-06T01:46:04Z",
+      "trailText": "Lawmakers outraged that president gilding White House as Snap food stamps in jeopardy amid longest US shutdown",
+      "summary": "Amid the longest US government shutdown, President Trump affixed a cursive gold Oval Office sign while demolishing the East Wing to build a $300 million ballroom, provoking bipartisan backlash. Rep. Malcolm Kenyatta blasted the gilded lettering as “shit” as SNAP benefits are halved, jeopardizing 43 million recipients. Sen. Lisa Blunt Rochester warned the move underscores misplaced priorities, Rep. Jared Moskowitz joked new signage prevents another teardown, and Gov. Newsom’s office mocked the installation with a “Live, laugh, LOSE” meme.",
+      "summaryTokens": 536,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/ups-plane-crash-louisville-investigation",
+      "title": "Kentucky plane crash: death toll rises to 12 as officials investigate how engine detached",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation",
+      "section": "us-news",
+      "publishedDate": "2025-11-06T01:11:29Z",
+      "trailText": "NTSB agents arrive in Louisville to investigate what caused engine to fall off UPS cargo plane and left wing to catch fire",
+      "summary": "A UPS MD-11 cargo plane bound for Honolulu crashed and exploded after its left-wing engine detached and ignited shortly after taking off from Louisville Muhammad Ali International Airport. The death toll rose to 12, with at least 15 injured and several unaccounted for. NTSB agents recovered black box recorders and the detached engine amid a half-mile debris field and are investigating wing fire and engine failure. Preliminary reports are due in 30 days, with full findings in 12–24 months. Airport operations were suspended, outbound flights canceled, and a quarter-mile shelter-in-place advisory remained. Officials urge residents to report, not move debris. Hospitals treat burn, shrapnel, blast and smoke inhalation injuries.",
+      "summaryTokens": 1033,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/trump-truth-social-posts",
+      "title": "Trump goes on posting frenzy a day after Democrats win key elections",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/trump-truth-social-posts",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/trump-truth-social-posts",
+      "section": "us-news",
+      "publishedDate": "2025-11-06T01:07:37Z",
+      "trailText": "President shares more than 30 Truth Social posts in less than two hours – including series of bizarre AI-generated videos",
+      "summary": "On Nov 5, a day after Democrats swept statewide contests in NY, CA, VA and NJ, Donald Trump unleashed 33 posts on Truth Social in under two hours. He plugged books by Nicole Parker, Gianno Caldwell, Barry Loudermilk, Peter Navarro and Christina Bobb (for whose book he wrote the foreword), and shared AI‐generated videos of himself covering topics from his Japan and China meetings, Walmart’s claimed 25% Thanksgiving‐dinner price drop, threats to cut aid over Nigeria’s treatment of Christians, an Obamacare critique, and calls to use the “nuclear option” against Democrats. He also marked his re-election anniversary with a surreal Vance-side fireworks image, fueling fresh questions about his mental acuity.",
+      "summaryTokens": 642,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/chicago-ice-agents-detain-daycare-worker",
+      "title": "ICE forcibly detains daycare worker amid scrutiny over excessive force use",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/chicago-ice-agents-detain-daycare-worker",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/chicago-ice-agents-detain-daycare-worker",
+      "section": "us-news",
+      "publishedDate": "2025-11-06T00:00:30Z",
+      "trailText": "Videos show ICE agents dragging woman out of Chicago daycare and appearing to slam her face against glass doors",
+      "summary": "ICE agents chased a worker into Rayito de Sol daycare on Chicago’s North Side, dragging her out—one clip shows her face slammed against glass—then pinning her to a car and handcuffing her before children. Bystanders recorded the woman pleading “I have papers,” while staff say no warrant was shown. Parents described terrified kids “huddled together.” Alderman Matt Martin and Rep. Mike Quigley decried the operation. DHS counters agents were executing a targeted traffic stop of an undocumented Colombian driver who fled into the center. The case surfaced alongside a lawsuit hearing on ICE’s “pattern of extreme brutality” in city raids.",
+      "summaryTokens": 1071,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/mamdani-vote-new-york-city",
+      "title": "Where the vote for Mamdani was strongest in New York City ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/mamdani-vote-new-york-city",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/mamdani-vote-new-york-city",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T22:35:22Z",
+      "trailText": "Mamdani performed well citywide, drawing support from a wide range of racial, ethnic, and economic groups",
+      "summary": "Zohran Mamdani, 34-year-old democratic socialist, won the NYC mayoral race with 50.4% against Andrew Cuomo and Republican Curtis Sliwa, boasting a nine-point lead with 90% of ballots counted. He ran the city’s most ambitious mayoral campaign in years on a pledge to make the largest US city affordable. Turnout topped 2 million—the highest since 1969—and over 1 million votes went to the Democratic candidate. Mamdani’s support spanned racial, ethnic and economic lines: he dominated predominantly Black and Hispanic precincts, low- and middle-income districts, and drew his strongest margins in precincts where the median voter was 45 or younger. Cuomo’s base was confined to Staten Island, parts of Queens and ultra-Orthodox Brooklyn.",
+      "summaryTokens": 1748,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/nancy-mace-police-report-south-carolina-airport",
+      "title": "Police report describes Republican Nancy Mace berating airport police and TSA agents",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/nancy-mace-police-report-south-carolina-airport",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/nancy-mace-police-report-south-carolina-airport",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T22:31:36Z",
+      "trailText": "South Carolina firebrand running for governor allegedly abused agents working without pay during shutdown",
+      "summary": "Nancy Mace, GOP US representative and SC governor candidate, allegedly berated Charleston airport police and unpaid TSA agents amid a government shutdown, cursing, invoking senator Tim Scott’s name and prompting staff to file incident reports. Mace denies wrongdoing, vows a defamation suit with attorney Larry Klayman, citing personal safety fears and “coordinated” false claims. Senator Scott and 60+ local lawmakers defend airport staff; the Fraternal Order of Police condemns her conduct. Polls show Mace in a close GOP primary with Lt Gov Pamela Evette.",
+      "summaryTokens": 863,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/la-police-skateboarder-dashcam-video",
+      "title": "Disturbing dash-cam footage shows LA police fatally striking skateboarder",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/la-police-skateboarder-dashcam-video",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/la-police-skateboarder-dashcam-video",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T21:52:18Z",
+      "trailText": "Gerardo ‘Jerry’ Estrada, 30, was hit head-on by weaving car with sirens on that had drifted from correct side of street",
+      "summary": "On September 19 in Highland Park, Los Angeles—amid a carnival—an LAPD cruiser with sirens on veered into the center lane while responding to a felony-warrant perimeter call, fatally striking 30-year-old skateboarder Gerardo “Jerry” Estrada. Dash-cam video shows officers weaving in traffic, casually chatting until collision; Estrada raised his hand in warning. Body-cam audio records expletive-shocked officers and delayed aid. Estrada’s grieving family, recalling his film passion and community work, demand accountability as LAPD’s investigation continues.",
+      "summaryTokens": 1119,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/california-proposition-50-explainer",
+      "title": "What does Prop 50’s passage mean for California, Gavin Newsom and the US?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/california-proposition-50-explainer",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/california-proposition-50-explainer",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T20:43:20Z",
+      "trailText": "Residents overwhelmingly backed the redistricting measure Democrats say is critical to protecting democracy",
+      "summary": "California voters passed Prop 50 with 63.8% in a special election, authorizing the legislature to redraw congressional districts and pausing the independent commission until 2030. The measure aims to counteract Texas’s partisan gerrymander and secure five extra Democratic seats, putting GOP incumbents like Issa, LaMalfa, Calvert, Valadao and Kiley at risk. Republicans have sued, alleging racial targeting, but analyses show minimal change to Latino representation. Cook Political Report forecasts a 3–5 seat Democratic gain in the 2026 midterms. Prop 50’s success also boosts Gov. Gavin Newsom’s national profile as he eyes a 2028 presidential bid.",
+      "summaryTokens": 1014,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/california-redistricting-measure-republican-lawsuit",
+      "title": "Republicans file lawsuit challenging California’s redistricting measure",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/california-redistricting-measure-republican-lawsuit",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/california-redistricting-measure-republican-lawsuit",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T18:27:51Z",
+      "trailText": "Prop 50, passed by voters yesterday, allows legislature to redraw congressional maps to benefit Democrats in House",
+      "summary": "Republicans filed a federal lawsuit Friday challenging Proposition 50’s new congressional maps—approved by California voters Tuesday—as an unconstitutional racial gerrymander designed to flip up to five U.S. House seats to Democrats. Brought by Assemblymember David Tangipa, 18 voters and the state GOP in central California federal court, the suit—handled by Dhillon Law Group—seeks to block the maps temporarily, arguing they improperly boost Latino voting power beyond constitutional limits. Gov. Gavin Newsom’s office dismissed the challenge. The case arrives amid a Supreme Court review of the Voting Rights Act’s redistricting provisions and follows a PPIC analysis finding the number of majority-Latino districts unchanged under Prop 50, which passed 64%–36%.",
+      "summaryTokens": 835,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/zohran-mamdani-transition-team",
+      "title": "Zohran Mamdani announces all-female transition team as he prepares for New York mayoralty",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/zohran-mamdani-transition-team",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/zohran-mamdani-transition-team",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T18:25:03Z",
+      "trailText": "Team includes Lina Khan, the FTC commissioner under Biden, and other Democratic former city officials",
+      "summary": "Zohran Mamdani, the 34-year-old democratic socialist and New York’s mayor-elect, announced an all-female transition team headed by Elana Leopold, with co-chairs including former FTC chair Lina Khan, Maria Torres-Springer, Grace Bonilla and Melanie Hartzog. Mamdani, set to become the city’s first Muslim and youngest mayor in over a century, vows to launch progressive reforms—rent freezes, free transit, universal childcare and city-run groceries—funded by corporate taxes. His campaign raised over $20 million from small donors. He faces fierce Islamophobic attacks and Trump’s threats to withhold federal funding but pledges readiness for Jan. 1.",
+      "summaryTokens": 1209,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/minneapolis-mayoral-election-results",
+      "title": "Minneapolis mayor Jacob Frey fends off progressive challengers to win third term",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/minneapolis-mayoral-election-results",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/minneapolis-mayoral-election-results",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T17:54:06Z",
+      "trailText": "The ranked-choice election went into a second round of tabulations, putting him ahead of state senator Omar Fateh",
+      "summary": "Minneapolis mayor Jacob Frey fended off progressive challengers in a ranked-choice contest to secure a third term. After no candidate reached 50% in round one, Frey picked up crucial second-round votes over state senator Omar Fateh—whose democratic socialist platform mirrored New York’s Zohran Mamdani and campaigned on $20 minimum wage, rent stabilization and police alternatives—despite Fateh’s revoked DFL endorsement and alliance with Jazz Hampton and DeWayne Davis. Frey, backed by business interests, has faced criticism over his handling of post–George Floyd protests, policing and homelessness, serving as a moderate check on a socialist-leaning council.",
+      "summaryTokens": 878,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/04/trump-tariffs-supreme-court-oral-arguments",
+      "title": "US supreme court justices express skepticism over legality of Trump tariffs",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/04/trump-tariffs-supreme-court-oral-arguments",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/04/trump-tariffs-supreme-court-oral-arguments",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T17:53:11Z",
+      "trailText": "Justices grill administration over imposition of steep duties as Sotomayor says: ‘I just don’t understand this argument’",
+      "summary": "US Supreme Court justices expressed skepticism that Trump’s use of the International Emergency Economic Powers Act authorizes tariffs, arguing duties function as taxes reserved to Congress. In oral arguments, liberals Sotomayor and Jackson stressed IEEPA’s intent to limit emergency powers, while Chief Justice Roberts and Justice Kavanaugh noted no presidential precedent. Private businesses and states argued duties withdraw funds from Americans’ pockets and require clear congressional authorization. Lower courts struck down the levies and the high court’s ruling by July 2026 could redefine executive economic authority, reshape tariff policy and decide the fate of over $1,200 in annual household costs.",
+      "summaryTokens": 1709,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/first-year-trump-what-happened",
+      "title": "Which of our warnings came true in the first year after Trump’s second election?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/first-year-trump-what-happened",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/first-year-trump-what-happened",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T17:47:02Z",
+      "trailText": "From military-level force in cities to tens of thousands of federal workers fired by the Trump administration, effects have been felt at every level",
+      "summary": "In the first year of Trump’s second term, his administration deployed military-style force and dismissed thousands of civil servants in Democratic cities. It rescinded Biden-era EMTALA guidance on emergency abortions and re-examined mifepristone access. ICE intensified raids, sealed the southern border and slashed refugee admissions. Federal courts largely upheld shadow-docket rulings favoring Trump. Public lands were opened to oil, gas and mining as endangered species protections were weakened. The press faced lawsuits and access restrictions. LGBTQ+ healthcare and legal rights were rolled back. Gun-violence prevention offices and grants were axed. Foreign policy was marked by erratic tariffs and stalled Ukraine negotiations.",
+      "summaryTokens": 3569,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/zohran-mamdani-new-york-cheers-tears-dsa-chants",
+      "title": "New York parties for Zohran Mamdani: ‘The first time we’ve had hope in so long’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/zohran-mamdani-new-york-cheers-tears-dsa-chants",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/zohran-mamdani-new-york-cheers-tears-dsa-chants",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T17:41:11Z",
+      "trailText": "In the bodegas, bars and clubs of Brooklyn, Queens and the Bronx, the mood was joyous – it was an emotional night",
+      "summary": "Across watch parties from Fort Greene to Bushwick to Astoria, jubilant supporters—DSA members, immigrants, LGBTQ+ activists and gentrified residents—erupted in tears, hugs and chants as Zohran Mamdani, 34, became New York’s youngest and first Muslim mayor in over a century. Celebrations to “I Gotta Feeling” and “Freed from Desire” spilled from clubs and cafes, reflecting relief after long grassroots organizing and a shock win over Cuomo and Sliwa on an affordability-focused, democratic socialist platform. Attendees hailed his victory as proof that progressive, commonsense socialism resonates in the city and could signal a broader leftward shift nationwide.",
+      "summaryTokens": 635,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/mamdani-election-win-rightwing-republicans",
+      "title": "Trump allies erupt over Mamdani win: ‘On your Marx, get set, Zo!’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/mamdani-election-win-rightwing-republicans",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/mamdani-election-win-rightwing-republicans",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T17:22:48Z",
+      "trailText": "Captured on the New York Post cover, Maga allies respond to Democrats’ election sweep with accusations and fury",
+      "summary": "After Democrat Zohran Mamdani’s decisive New York mayoral victory, Trump allies unleashed broad condemnation, denouncing him as a “socialist” or “jihadist.” The Murdoch-backed New York Post splashed a hammer-and-sickle “Red Apple” front page. On Fox, Sean Hannity warned of a resident exodus and the so-called “Mamdani effect.” Steve Bannon decried Republican soft-pedaling on his War Room podcast. Stephen Miller, Jack Posobiec and Laura Loomer blamed immigrant votes and an “Islamic takeover,” while George Santos attacked rival Curtis Sliwa. Hedge-funder Bill Ackman alone offered cautious congratulations.",
+      "summaryTokens": 757,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/zohran-mamdani-victory-uk-labour-india-israel",
+      "title": "Liberal politicians outside US hail Zohran Mamdani victory in New York",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/zohran-mamdani-victory-uk-labour-india-israel",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/zohran-mamdani-victory-uk-labour-india-israel",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T16:31:27Z",
+      "trailText": "Opposition figures in India and Uganda and progressives in UK and France applaud Democrat’s election as mayor",
+      "summary": "Zohran Mamdani’s New York mayoral victory drew praise from liberal figures as a model to combat rightwing populism. Born in Kampala to Indian Hindu and Muslim parents and naturalized in 2018, his diverse background fueled diaspora pride. In India, Abhishek Manu Singhvi lauded its affirmation of youth, quoting Nehru; Uganda’s Joel Ssenyonyi saw new hope against authoritarianism. Britain’s Sadiq Khan and MP Luke Charters credited grassroots, solutions-driven campaigning. France’s MEP Manon Aubry highlighted his rent freeze, free transit and anti-racism agenda. Despite opposition from Israel’s Amichai Chikli and Trump’s last-minute antisemitic smears, Mamdani emphasized solidarity with Jews, tackling affordability and bigotry via radical grassroots outreach.",
+      "summaryTokens": 2603,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/democrats-republicans-reaction-mamdani-win",
+      "title": "Democrats celebrate while Republicans stew over Mamdani’s historic win and others",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/democrats-republicans-reaction-mamdani-win",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/democrats-republicans-reaction-mamdani-win",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T16:13:18Z",
+      "trailText": "Obama said ‘the future looks a little bit brighter’ while the House speaker lied about New York mayor-elect’s policies",
+      "summary": "Democrats celebrated nationwide victories, led by Zohran Mamdani’s historic election as New York mayor, with Barack Obama and Elizabeth Warren lauding bold, forward-looking policies on X and Bluesky. Senators Chris Murphy and Pramila Jayapal cast the wins as a referendum on Trump’s chaos and the GOP shutdown. Republicans responded with nativist attacks—Stephen Miller highlighting immigrant demographics, Trump blaming the shutdown, and figures like Abbott, Rick Scott and Speaker Mike Johnson decrying socialism and falsely accusing Mamdani of radical, defunding-police policies, foreshadowing conservative campaigns ahead.",
+      "summaryTokens": 870,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/san-francisco-waymo-kitkat-cat-death",
+      "title": "Death of beloved neighborhood cat sparks outrage against robotaxis in San Francisco",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/san-francisco-waymo-kitkat-cat-death",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/san-francisco-waymo-kitkat-cat-death",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T15:00:30Z",
+      "trailText": "KitKat, affectionately known as ‘mayor of 16th Street’, was struck and killed by a Waymo in the city’s Mission District",
+      "summary": "KitKat, the self-styled “mayor of 16th Street” in San Francisco’s Mission District, was killed when a Waymo autonomous taxi pulled away at Randa’s Market on October 27. The incident has sparked public outrage, a shrine at the deli, and social media tributes, while opponents of robotaxis seize momentum to introduce legislation—led by Supervisor Jackie Fielder—empowering counties to ban or limit AVs. Waymo expressed condolences, noted its safety record and donated to an animal rights group. KitKat’s owners have launched a memecoin to fund local veterinary and welfare causes.",
+      "summaryTokens": 295,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/election-democrats-historic-first-wins",
+      "title": "Democrats set historic records on election night. Here are six of the firsts they accomplished",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/election-democrats-historic-first-wins",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/election-democrats-historic-first-wins",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T13:55:28Z",
+      "trailText": "From Virginia’s first female governor to New York’s first Muslim mayor, Tuesday’s elections secured trailblazing wins",
+      "summary": "Democratic candidates scored six historic firsts in Tuesday’s elections. In Virginia, Abigail Spanberger became the state’s first female governor with 57% of the vote. Ghazala Hashmi won the lieutenant governor’s race, becoming the nation’s first Muslim American woman elected to statewide office. In New York, 34-year-old Zohran Mamdani was elected the city’s first Muslim mayor. Mary Sheffield became Detroit’s first female mayor by a record margin. Somerville, Massachusetts, voted to divest from Israel—the first U.S. municipality to do so—and California passed Proposition 50, the first state measure to block mid-cycle redistricting aimed at boosting GOP seats.",
+      "summaryTokens": 754,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/zohran-mamdani-victory-speech-transcript",
+      "title": "The full transcript of Zohran Mamdani’s victory speech after being elected NYC mayor",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/zohran-mamdani-victory-speech-transcript",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/zohran-mamdani-victory-speech-transcript",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T13:17:18Z",
+      "trailText": "Mayor-elect centered affordability and the working people of the city in his speech while emphasizing: ‘Hope is alive’",
+      "summary": "After winning the NYC mayoral race, Zohran Mamdani delivered a victory speech promising a new era centered on working families and affordability. He celebrated grassroots volunteers and diverse communities—from Yemeni shopkeepers to taxi drivers—and declared hope “alive.” Mamdani pledged sweeping reforms: freezing rents for 2 million tenants, making buses fast and free, universal childcare, hiring more teachers, improving NYCHA, and creating a community safety department. He vowed to tackle the cost-of-living crisis, fight corruption and big money, protect immigrants and minorities, and model bold, compassionate governance when sworn in on January 1.",
+      "summaryTokens": 491,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/first-thing-zohran-mamdani-elected-new-york-city-mayor",
+      "title": "Zohran Mamdani elected New York City mayor | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/first-thing-zohran-mamdani-elected-new-york-city-mayor",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/first-thing-zohran-mamdani-elected-new-york-city-mayor",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T11:42:15Z",
+      "trailText": "Democratic socialist’s campaign was fueled by small-dollar donations and tens of thousands of volunteers. Plus, Dick Cheney dies aged 84",
+      "summary": "Democratic socialist Zohran Mamdani, powered by small-dollar donations and a massive volunteer base, was elected NYC’s 111th mayor — and its first Muslim mayor — with 50.4% over Andrew Cuomo (41.6%) and Curtis Sliwa (7.1%). He vows rent freezes, a $30 minimum wage, free transit, universal childcare and more affordable housing, though enactment remains uncertain. Elsewhere, former vice-president Dick Cheney dies at 84; Palestinian author Nasser Abu Srour alleges increased torture in Israeli jails; UN chief warns of a spiraling Sudan war; Beckham is knighted; and Norway’s wealth fund opposes Elon Musk’s $1 tn Tesla pay deal.",
+      "summaryTokens": 1293,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/university-anitisemitism-investigations",
+      "title": "Surge in antisemitism investigations at US universities after October 7 attacks, data shows",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/university-anitisemitism-investigations",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/university-anitisemitism-investigations",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T11:00:24Z",
+      "trailText": "A report shared exclusively with the Guardian documents how a civil rights law has become a tool to impose ideological priorities on US schools",
+      "summary": "Data by the Middle East Studies Association and AAUP show Title VI investigations into alleged antisemitism at 89 US universities soared after the October 7 attacks—more probes in late 2023 than in the previous two decades. With at least 126 inquiries since 2004 (39 launched in 2024 and 38 by September 2025), these cases eclipse other civil‐rights complaints, as administrations under Biden and Trump used funding threats to curb pro-Palestinian speech. Critics warn complaints (often from pro-Israel groups) conflate political dissent with hate, stretching discrimination law and prompting debate over academic freedom and the Title VI “hostile environment” standard.",
+      "summaryTokens": 1138,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/california-man-survived-wilderness",
+      "title": "California man who survived 20 days in snowy wilderness says it was walk or die",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/california-man-survived-wilderness",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/california-man-survived-wilderness",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T11:00:23Z",
+      "trailText": "Ron Dailey, who got lost on hunting trip in Sierra national forest, resolved to walk to safety after his food ran out",
+      "summary": "Ron Dailey, a Selma, California hunter, went missing on Oct 13 after his pickup broke down above 10,000 ft in the snowy Sierra National Forest with only two weeks of provisions. Stranded by a snowstorm, he sheltered in his truck and leaned on his Christian faith. When his supplies ran out, he decided to walk out, trekking roughly 12 miles despite fatigue, falls and a lost phone, pausing every 20–100 yards for oxygen. On Nov 1, fellow hunters found him on a trail and alerted authorities. Dailey credits perseverance and faith for surviving 20 days in the wilderness.",
+      "summaryTokens": 427,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/share-your-views-new-york-mayoral-election-results",
+      "title": "Share your views on the New York mayoral election results",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/share-your-views-new-york-mayoral-election-results",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/share-your-views-new-york-mayoral-election-results",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T09:50:55Z",
+      "trailText": "We’d like to hear what people make of Zohran Mamdani’s win of the New York City mayoral election",
+      "summary": "Democratic nominee Zohran Mamdani secured victory in Tuesday’s New York City mayoral contest, becoming the 111th mayor and city’s first Muslim leader after defeating former governor Andrew Cuomo and GOP candidate Curtis Sliwa. His progressive agenda on affordable housing, public transit investment and reform-minded policing drove a surge of youth and minority turnout. The Guardian invites New Yorkers to share their reactions to this historic win and outline their top priorities and hopes for the city’s future.",
+      "summaryTokens": 586,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/democrat-election-wins-across-america-caution-around-hope-mamdani-spanberger",
+      "title": "Democrats have racked up election wins across America – but they would do well not to misread the results",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/democrat-election-wins-across-america-caution-around-hope-mamdani-spanberger",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/democrat-election-wins-across-america-caution-around-hope-mamdani-spanberger",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T06:40:35Z",
+      "trailText": "Zohran Mamdani’s victory in New York and gubernatorial wins in Virginia and New Jersey have given Democrats a night better than they dared hope for",
+      "summary": "Democrats scored unexpected wins on Nov 5, with Zohran Mamdani defeating Trump-backed Andrew Cuomo for NYC mayor, Mikie Sherrill and Abigail Spanberger claiming double-digit gubernatorial victories in New Jersey and Virginia, and flipping 13 seats to secure a VA House majority not seen in 40 years. They also approved CA congressional maps and held PA Supreme Court seats. The wave reflects voter backlash against Trump’s record but masks caution: weak Republican opponents, low GOP turnout sans Trump on ballot, and Democrats’ own approval hitting a 30-year low. The results offer mixed signals for 2026 strategy, balancing progressive and centrist wings.",
+      "summaryTokens": 1091,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
     {
       "id": "us-news/2025/nov/04/california-prop-50-voting-result",
       "title": "Prop 50: Californians pass redistricting measure that helps Democrats flip up to five House seats",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/04/california-prop-50-voting-result",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/04/california-prop-50-voting-result",
       "section": "us-news",
-      "publishedDate": "2025-11-05T04:07:16Z",
+      "publishedDate": "2025-11-05T06:35:32Z",
       "trailText": "Approval of measure could determine if Republicans keep full control of government in next year’s midterm elections",
-      "summary": "California voters passed Prop 50 to discard the independent redistricting commission’s maps and adopt legislature-drawn boundaries designed to help Democrats pick up to five US House seats across the 2026–30 cycles. Championing it as a shield against Trump’s gerrymander in Texas, Gov. Newsom and allies raised $170 million versus $84 million by opponents including Schwarzenegger and GOP donor Charles Munger Jr. New maps target nine Republican-held and swing districts, potentially tipping a razor-thin House majority and shaping control of Congress for Trump’s second term. National Republicans largely sat out; Trump claimed without evidence that California’s voting is “rigged” and threatened to ban mail-in ballots via executive order.",
-      "summaryTokens": 1855,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "California voters approved Proposition 50, overriding an independent redistricting commission to adopt legislature-drawn maps designed to help Democrats flip up to five US House seats. Championed by Gov. Gavin Newsom as a defense against GOP gerrymanders, the measure drew almost $170 m in support (including small-dollar donations, Soros, Steyer, unions) versus $84 m raised by opponents such as former GOP donors. Supporters framed it as protecting democracy from Trump’s “wrecking ball” presidency, while Republicans decried a retaliatory gerrymander. Despite popular support for independent maps, fears of Trump-inspired interference and high turnout sealed a decisive outcome, recalibrating California’s congressional lines through 2030.",
+      "summaryTokens": 1089,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/zohran-mamdani-election-night-party",
+      "title": " ‘Time for a new era’: hope swells in New York as Zohran Mamdani makes history",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/zohran-mamdani-election-night-party",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/zohran-mamdani-election-night-party",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T06:16:20Z",
+      "trailText": "Supporters and high-profile New York Democrats gathered in Brooklyn to celebrate New York’s first Muslim mayor",
+      "summary": "At a jubilant Brooklyn Paramount Theater, hundreds cheered as 34-year-old Democratic Socialist Zohran Mamdani became New York City's first Muslim mayor, winning over 50% of the vote against Andrew Cuomo and Curtis Sliwa. Supporters wore campaign merch, danced to a DJ set, and embraced themes of hope and working-class mandate. High-profile Democrats including Alexandria Ocasio-Cortez, Jumaane Williams, Brad Lander, Letitia James and Cynthia Nixon joined the celebration alongside loyal volunteers. In his victory speech, Mamdani pledged universal childcare, fast free buses, rent-stabilization freezes, and confronted Donald Trump by name, promising a new era of inclusive governance for all New Yorkers.",
+      "summaryTokens": 1278,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/04/mamdani-victory-speech-trump-policies",
+      "title": "‘Turn the volume up’: Mamdani invokes Trump in fiery speech laying out plan of action",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/04/mamdani-victory-speech-trump-policies",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/04/mamdani-victory-speech-trump-policies",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T06:06:21Z",
+      "trailText": "As New York City’s mayor-elect reiterated his policies, the president posted ‘And so it begins!’ on his social media",
+      "summary": "New York City mayor-elect Zohran Mamdani, the city’s first Muslim mayor and a Democratic socialist, invoked Donald Trump in a victory speech after defeating Andrew Cuomo. He pledged to combat division, Islamophobia and cronyism, outline policies to hold landlords accountable, end billionaire-favoring corruption and expand labor protections. Framing New York as a beacon against Trumpism, he directly challenged the former president—“turn the volume up”—vowing to defend immigrants and unions. Trump responded on Truth Social with “And so it begins!”, urging stricter voter ID and a mail-in ballot ban amid Democratic wins.",
+      "summaryTokens": 1576,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/05/andrew-cuomo-zohran-mamdani-new-york",
+      "title": "Nobody likes a sore loser – but Cuomo declines to bow out gracefully",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/05/andrew-cuomo-zohran-mamdani-new-york",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/05/andrew-cuomo-zohran-mamdani-new-york",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T06:00:20Z",
+      "trailText": "Despondency reigned at the Ziegfeld Ballroom – and then the beaten candidate found it hard to praise the victor",
+      "summary": "At his Ziegfeld Ballroom election event, the night’s soundtrack—from “(Sending Out an) SOS” to “Blame It on the Boogie”—mirrored campaign confusion. Former governor Andrew Cuomo refused to concede after Zohran Mamdani clinched 50% to 41%. Amid a free-bar crowd mixing despair and defiance—jeers of “Shame on Sliwa!”, some fearing Mamdani’s “radical” agenda for NYC families, others lauding hope—Cuomo framed his defeat as a fight for Democratic unity. In a ten-minute speech, he warned Mamdani’s “dangerous” policies would turn the NYPD into an enemy and fuel antisemitism, belatedly denouncing Islamophobic attacks. His contrite ending rang hollow as he exits New York politics.",
+      "summaryTokens": 2325,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/04/government-shutdown-longest-history",
+      "title": "US government shutdown enters 36th day to become longest in history",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/04/government-shutdown-longest-history",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/04/government-shutdown-longest-history",
+      "section": "us-news",
+      "publishedDate": "2025-11-05T05:00:17Z",
+      "trailText": "Shutdown beats record set during Trump’s first term as succession of Senate votes fails to yield breakthrough",
+      "summary": "The US federal shutdown entered its 36th day—surpassing the 2018–19 record—after Democratic senators refused to fund the government without renewed ACA tax credits. Midterm victories in New Jersey, Virginia and Pennsylvania, plus favorable California redistricting, have Democrats claiming voter vindication. Schumer, Murphy and MoveOn urged sticking to demands; Trump blamed the shutdown for GOP losses and called to scrap the filibuster. Senate Republicans lack the 60 votes to pass a stopgap. Roughly 700,000 workers furloughed, ACA premiums may rise 26%, and the CBO warns up to $14 billion in GDP loss.",
+      "summaryTokens": 1331,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/louisville-plane-crash-airport-kentucky-latest",
@@ -41,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T04:00:56Z",
       "trailText": "Aircraft erupted into fireball after takeoff at Louisville international airport, and officials say fatalities could rise",
-      "summary": "A UPS MD-11 freighter bound for Honolulu crashed in a fireball shortly after takeoff from Louisville Muhammad Ali International Airport Nov 4, killing at least seven (including four ground victims) and injuring 11 in a nearby industrial park. The 34-year-old aircraft, carrying three crew with no hazardous cargo onboard, ignited fires at a recycling center and auto parts shop. Authorities have ordered a shelter-in-place, closed the airport and cancelled flights. NTSB will lead the probe with Boeing and UPS support; debris reporting is underway.",
-      "summaryTokens": 1445,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "A UPS McDonnell Douglas MD-11 freighter, 34 years old, crashed in a massive fireball shortly after takeoff from Louisville Muhammad Ali International Airport at 5:15 pm local time en route to Honolulu. Flames ignited fires in an adjacent industrial corridor—hitting a recycling center and auto parts shop—and at least seven people (four on the ground, three crew) are confirmed dead, with 11 injured and numbers expected to rise. No hazardous cargo was onboard. The airport is closed, flights canceled, and a shelter-in-place order covers areas north to the Ohio River. The NTSB has opened an investigation.",
+      "summaryTokens": 560,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/virginia-governor-abigail-spanberger",
@@ -53,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T03:57:55Z",
       "trailText": "Former congresswoman beats Republican Winsome Earle-Sears to become Virginia’s first female governor",
-      "summary": "Democrat Abigail Spanberger, an ex-CIA officer and three-term U.S. House member, was elected Virginia’s first female governor, defeating Republican Winsome Earle-Sears 57%-43%. Emphasizing pragmatism, bipartisanship and cost-of-living relief, Spanberger succeeds term-limited Gov. Glenn Youngkin. Her victory capped a Democratic sweep: Ghazala Hashmi became the first Muslim woman in statewide office as lieutenant governor, Jay Jones unseated the GOP attorney general, and Democrats expanded their House of Delegates majority. The trifecta secures redistricting power and positions Virginia against Trump-aligned policies.",
-      "summaryTokens": 499,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Democrat Abigail Spanberger, a former CIA and federal law enforcement officer and three-term US representative, was elected Virginia’s first female governor, defeating Republican Winsome Earle-Sears 57–43% with 89% of votes counted. Spanberger emphasized pragmatism over partisanship, bipartisanship and pledged to protect jobs, healthcare and the economy. Democrats also clinched the lieutenant governor race (Ghazala Hashmi, first Muslim woman in a US statewide office) and appear set to expand their House of Delegates majority, securing a governing trifecta poised to redraw congressional maps and bolster national prospects. Earle-Sears ran on culture-war issues with Trump’s endorsement.",
+      "summaryTokens": 1142,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/new-jersey-election-result-mikie-sherrill-wins-governor-race",
@@ -65,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T03:46:16Z",
       "trailText": "Sherrill defeated Republican Jack Ciattarelli in race that suggests Democratic resilience amid Trump’s second term",
-      "summary": "Democrat Mikie Sherrill, 53, congresswoman and former Navy helicopter pilot, was elected New Jersey’s 57th governor, defeating Republican Jack Ciattarelli in a razor-thin race called two hours after polls closed. Sherrill’s moderate platform—emphasizing solving problems, affordability and LGBTQ rights—contrasts Ciattarelli’s Trump-backed bid mixing culture-war messaging on gender identity and immigration. The contest, one of two 2025 gubernatorial races and a bellwether for the 2026 midterms and Trump’s standing, featured leaked military records, debate defamation threats and highlighted intra-party dynamics between progressives and centrists.",
-      "summaryTokens": 841,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Mikie Sherrill, a 53-year-old former prosecutor, Navy helicopter pilot and NJ-11 congresswoman, was elected New Jersey’s 57th governor, defeating Republican Jack Ciattarelli. The Associated Press called her win two hours after polls closed, marking a test of Democratic resilience under President Trump’s second term and a preview for 2026 midterms. Sherrill, who prevailed after a contested primary between progressives and party moderates, pledged “good government” solutions. Ciattarelli, his second gubernatorial bid with Trump’s endorsement, balanced affordability pledges with culture-war appeals on gender and immigration but stumbled amid a leaking of military records and a debate defamation threat.",
+      "summaryTokens": 1346,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/abigail-spanberger-virginia-governor-profile",
@@ -77,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T03:44:29Z",
       "trailText": "Democrat becomes first female governor in Virginia’s history and placed focus on living costs and public service",
-      "summary": "Abigail Spanberger smashed Virginia’s glass ceiling as its first female governor, winning on cost-of-living relief, public education, infrastructure and defending democratic institutions against Trump’s agenda. Born in New Jersey and raised near Richmond, she served as a US Postal inspector and undercover CIA case officer before returning home—prompted by her daughter’s wish—to pivot to community service. Elected to Congress as a centrist Blue Dog Democrat, she championed rural broadband, drug enforcement and bipartisan cooperation. Her moderate, local-control stance on transgender sports contrasted sharply with her opponent’s cultural hardline.",
-      "summaryTokens": 743,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Abigail Spanberger captured Virginia’s governorship on Nov. 4, becoming the state’s first female governor. The former Democratic congresswoman and ex-CIA case officer built a centrist, public-service–focused campaign emphasizing cost-of-living relief, education, infrastructure and protecting democratic institutions. Born in New Jersey and raised near Richmond, Spanberger drew on her family’s military and law-enforcement roots and pivoted from global CIA service to local community work after her daughter’s plea. After winning a conservative-leaning district in 2018 as a Blue Dog moderate, she beat GOP nominee Winsome Earle-Sears by pitching practical solutions and bipartisan cooperation. She defended local control on transgender sports, fending off cultural attacks on her civil-rights stance.",
+      "summaryTokens": 1607,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/zohran-mamdani-campaign-promises-analysis",
@@ -89,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T03:39:14Z",
       "trailText": "The democratic socialist promised free childcare, fast buses and a rent freeze – can he deliver before New Yorkers lose patience?",
-      "summary": "After an energetic campaign promising free childcare, fast transit and a rent freeze, 34-year-old democratic socialist Zohran Mamdani arrives at Gracie Mansion under intense pressure to deliver on affordability. His insurgent bid, backed by almost 100,000 volunteers and record early-voter turnout, has reinvigorated the US progressive left and rattled the Democratic establishment. To fund his agenda, Mamdani seeks higher corporate taxes and a 2% levy on the city’s wealthiest, but must negotiate with a skeptical state legislature, Governor Hochul and navigate potential White House pushback, including threats from Donald Trump. Early goodwill could vanish if concrete policy victories do not materialize swiftly in New York’s notoriously challenging political environment.",
-      "summaryTokens": 769,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Zohran Mamdani, 34, democratic socialist and global sensation, swept New York’s mayoral primary against establishment centrist Andrew Cuomo by promising free childcare, fast buses and a rent freeze, mobilizing 100,000 volunteers and record early voters. His victory reinvigorated progressives nationwide, inspiring 10,000 insurgent campaigns and challenging the Democratic Party’s centrist wing. Taking office in January at Gracie Mansion, Mamdani must deliver his agenda by securing a corporate tax hike and a 2% wealth tax, negotiating with Gov. Hochul and a split legislature, while facing Trump’s funding threats. Success depends on overcoming institutional hurdles and maintaining New Yorkers’ dwindling patience.",
+      "summaryTokens": 1016,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/pennsylvania-supreme-court-election",
@@ -101,33 +485,33 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T03:07:04Z",
       "trailText": "Democrats maintain 5-2 majority as three judges win 10-year terms in a key swing-state court",
-      "summary": "Three liberal justices—Christine Donohue, Kevin Dougherty, and David Wecht—secured 10-year retention on the Pennsylvania Supreme Court, preserving a 5-2 Democratic majority in the battleground state. Their reelection safeguards future rulings on abortion and voting rights after the court struck down gerrymandered maps and upheld mail-in ballot rules. High turnout and over $15m in outside spending, plus last-minute appeals from Trump, Obama and Gov. Josh Shapiro, underscored the stakes.",
-      "summaryTokens": 861,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Three liberal justices—Christine Donohue, Kevin Dougherty and David Wecht—won 10-year retention terms on the Pennsylvania Supreme Court, preserving Democrats’ 5-2 majority. The win secures a potential swing-state bloc for future rulings on abortion, voting rights and election law, after the court struck down gerrymandered maps in 2018. Retention races, historically low-turnout, attracted over $15 million in combined spending this cycle. With Trump urging ouster and Obama, Gov. Shapiro and DNC chair Ken Martin campaigning for retention, the contest underscores rising stakes in state supreme court elections.",
+      "summaryTokens": 877,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/zohran-mamdani-profile",
-      "title": "Zohran Mamdani: meteoric rise of New York’s visionary new mayor",
+      "title": "Who is Zohran Mamdani, New York’s Democratic socialist new mayor?",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/04/zohran-mamdani-profile",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/04/zohran-mamdani-profile",
       "section": "us-news",
       "publishedDate": "2025-11-05T02:39:25Z",
       "trailText": "Charismatic and relatable, the 34-year old energized voters – and provided a blueprint for other progressives to follow",
-      "summary": "Just months after winning the Democratic primary on 24 June, 34-year-old Zohran Mamdani, a democratic socialist and former community organizer, will become New York’s first Muslim and first South Asian mayor. Born in Uganda and naturalized in 2018, Mamdani leveraged viral TikTok and Instagram videos—coining “halalflation,” freezing rent pledges, marathon rants on affordability—and a grassroots campaign to mobilize thousands of young and first-time voters across NYC’s diverse communities. Championing rent freezes, $30 minimum wage, fare-free buses, universal childcare, and tax hikes on the wealthy, he outpaced scandal-plagued opponents. His progressive blueprint now reshapes NYC politics amid national debates over inequality, immigration, and rising nativism.",
-      "summaryTokens": 1092,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "New York’s 34-year-old Zohran Mamdani, a democratic socialist and community organizer, became the city’s first Muslim and South Asian mayor-elect after a grassroots, social-media-savvy campaign emphasizing economic justice. He energized thousands of young and first-time voters with viral videos, multilingual outreach in Urdu, Hindi, Arabic and Spanish, and staked his rise on rent freezes, a $30 minimum wage, universal childcare, fare-free buses, city-owned grocery stores and higher taxes on the wealthy. Born in Uganda to Indian parents, he naturalized in 2018 after studying Africana studies. His ascent contrasts with the Cuomo-backed establishment, offering a blueprint for progressives amid rising nativism.",
+      "summaryTokens": 819,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/zohran-mamdani-mayor-new-york-city",
-      "title": "Zohran Mamdani elected mayor of New York City in historic win",
+      "title": "Zohran Mamdani elected mayor of New York on winning night for Democrats",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/04/zohran-mamdani-mayor-new-york-city",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/04/zohran-mamdani-mayor-new-york-city",
       "section": "us-news",
       "publishedDate": "2025-11-05T02:37:20Z",
-      "trailText": "Democratic nominee beats Andrew Cuomo and Republican Curtis Sliwa, becoming city’s first Muslim mayor",
-      "summary": "Zohran Mamdani, 34, a democratic socialist and Queens state assembly member, won NYC's mayoral race with over 50% of the vote, defeating Andrew Cuomo (≈40%) and Curtis Sliwa (≈7%). He becomes the city's first Muslim, first South Asian and youngest mayor in over a century. His grassroots, small-donation campaign focused on rent freezes, affordable housing, a $30 minimum wage, free buses and higher taxes on top earners. Endorsed by Sanders, AOC, Nadler, James and Hochul, he overcame Islamophobic attacks, Cuomo's independent bid, age-inexperience critiques and Trump's intervention amid a national Democratic surge.",
-      "summaryTokens": 1212,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "trailText": "Democratic socialist, 34, becomes city’s first Muslim mayor as Democrats triumph in several other key races",
+      "summary": "Zohran Mamdani, 34, a Queens state assembly member and democratic socialist, was elected New York City’s 111th mayor with over 50% of the vote, defeating former governor Andrew Cuomo and Republican Curtis Sliwa. He is the city’s first Muslim, South Asian and youngest mayor in a century. His grassroots campaign, fueled by small-dollar donations, pledged rent freezes, affordable housing, a $30 minimum wage, free buses and higher taxes on the wealthy. Endorsed by Bernie Sanders, Alexandria Ocasio-Cortez, Gov. Kathy Hochul and Hakeem Jeffries, he overcame Islamophobic attacks and Cuomo’s independent bid amid a broader Democratic wave.",
+      "summaryTokens": 2041,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/nyc-mayoral-election-results-zohran-mamdani-andrew-cuomo-voting-polls",
@@ -137,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T02:01:12Z",
       "trailText": "Check here for results as they come in, as leftwing Democrat wins race to become city’s next mayor",
-      "summary": "Zohran Mamdani, a 34-year-old democratic socialist and Queens assemblyman, has been elected New York City’s next mayor, defeating independent Andrew Cuomo and Republican Curtis Sliwa. Pre-election polls aggregated by the New York Times showed Mamdani leading by 5–25 points after his decisive Democratic primary win. Early voting tallied over 732,000 ballots—65% of the total cast in 2021. Mamdani’s platform centers on rent freezes, free childcare and fare-free buses; his victory makes him the city’s first Muslim mayor. Cuomo, backed by establishment donors but shadowed by past scandals, fell short, while Sliwa mounted a fringe crime-focused bid.",
-      "summaryTokens": 970,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Zohran Mamdani, a 34-year-old Queens assemblyman and democratic socialist, has won NYC mayoral race, defeating independent Andrew Cuomo and Republican Curtis Sliwa. Mamdani, first Muslim mayor, campaigned on rent freeze, free childcare, free buses and affordability. Early voting delivered 732,000 ballots, 65% of 2021 turnout. Cuomo, 67, ex-governor, ran independent after primary loss, backed by landlords, Bloomberg, Clinton and Trump, but tarnished by past scandals. Sliwa, 71, Guardian Angels founder, ran as crime-prevention outsider.",
+      "summaryTokens": 1209,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/trump-administration-news-updates-today",
@@ -149,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T01:51:31Z",
       "trailText": "Decisive races in New York City, Virginia and New Jersey in US government shutdown’s 35th day – key US politics stories from 4 November 2025 at a glance",
-      "summary": "On the 35th day of a federal shutdown under President Trump’s second term, Tuesday’s local elections served as an early referendum on his party’s standing. Voters in New York City chose a new mayor, New Jersey elected a governor, and Democrat Abigail Spanberger won Virginia’s top office. In California, Proposition 50 could give Democrats five more congressional seats by ending the independent redistricting commission. Shutdown funding failed in the Senate for a 14th time, risking airspace closures. Meanwhile, Rep. Jamie Raskin alleged a DOJ cover-up of the Epstein inquiry, and former vice-president Dick Cheney died at 84.",
-      "summaryTokens": 1257,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "On US election day, voters faced the first post–Trump 2nd term test in key contests: New York’s mayoral race, New Jersey’s gubernatorial election and Virginia (Abigail Spanberger’s victory). California’s Proposition 50 could reassign congressional districts, potentially adding five Democratic seats before the 2026 midterms. The federal shutdown entered its 35th day after a 14th Senate funding rejection, threatening airspace closures amid a 3,000-controller shortfall. House Democrat Jamie Raskin accused the DOJ of covering up the Epstein probe. Former vice-president Dick Cheney died at age 84.",
+      "summaryTokens": 941,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/05/a-cultural-revolution-trumps-america-feels-oddly-familiar-to-those-watching-from-china",
@@ -161,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-05T00:13:13Z",
       "trailText": "Demands of absolute loyalty and attacks on institutions have raised memories of Mao-style chaos from US watchers in China",
-      "summary": "Chinese expatriates and observers liken Trump’s second presidency to a Mao-style Cultural Revolution: comedian Vickie Wang self-censors like in Shanghai; Peking Univ. scholar Zhang Qianfan warns of grassroots mobilisation against elites; Trump’s bonhomie with Xi and trade-war truce signal a Sino-pull. Crackdowns on free speech and social-media vigilantism—ex-cop Deng Haiyan was doxxed after mocking Charlie Kirk—mirror authoritarian surveillance. US investors fret over government equity stakes in strategic firms, and universities enforce loyalty. Yet court rulings and press refusals remain key safeguards.",
-      "summaryTokens": 1523,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Chinese expatriates and observers liken Trump’s second presidency to Mao’s Cultural Revolution, noting demands for absolute loyalty, institutional purges via his ‘Doge’ efficiency bureau, and social-media vigilantism. Comedian Vickie Wang says she self-censors like in Shanghai, while former Chinese police officer Deng Haiyan was doxed after criticising US influencer Charlie Kirk. Peking University professor Zhang Qianfan warns of grassroots mobilisation against elites, and social surveillance echoes China’s public reporting. Though US courts still check executive overreach, expanding free-speech crackdowns, government stakes in critical firms and campus censorship have dimmed America’s liberal beacon for Chinese intellectuals.",
+      "summaryTokens": 575,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/government-shutdown-airspace-flight-delays",
@@ -173,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T21:27:45Z",
       "trailText": "Transport secretary says 35-day shutdown is causing severe air traffic controller shortages and warns of ‘mass chaos’",
-      "summary": "Transportation Sec. Sean Duffy warns that after 35 days of the federal shutdown—tying a record—the US may close parts of its airspace amid shortages of 2,000–3,000 air traffic controllers and 11,000 unpaid essential workers, risking “mass chaos,” delays and cancellations. Nearly half of the 30 busiest hubs and 35 FAA facilities, including NYC and Phoenix, are critically understaffed. TSA officers likewise work without pay, fueling 1–5-hour security lines. Political gridlock persists: Republicans fault Democrats for “chaos,” while the latter insist on extending healthcare tax credits. FlightAware logged 2,565 delays Tuesday versus 5,897 Sunday. A Reagan National bomb threat briefly halted operations.",
-      "summaryTokens": 1218,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Transport Sec. Sean Duffy warns that the 35-day federal shutdown has left 2,000–3,000 air traffic controllers and 50,000 TSA officers unpaid, triggering severe shortages at 35 FAA facilities and nearly half of the 30 busiest US airports. He cautioned that if Congress fails to resolve its healthcare tax-credit dispute—Democrats insist on extending credits to prevent 2026 premium hikes—mass flight cancellations, widespread delays, and partial airspace closures could follow. Security waits reached 1–5 hours at LaGuardia, JFK, San Diego, and Houston, and Tuesday’s flight delays totaled 2,565. Reagan National briefly halted operations after a bomb threat.",
+      "summaryTokens": 1271,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/government-shutdown-35th-day-senate-funding-vote",
@@ -185,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T21:06:41Z",
       "trailText": "But talks between factions are under way as Democrats and Republicans try to bring standoff to a close",
-      "summary": "The Senate on day 35 of the US federal shutdown defeated for the 14th time a GOP House–passed funding bill, leaving it poised to surpass the 2018 record. With a 53–47 Republican majority but a 60-vote filibuster hurdle, behind-the-scenes negotiations among centrist senators aim to reopen government, restore the annual appropriations process and avert expiring ACA subsidies. Meanwhile, the Trump administration moved to partially fund SNAP at 50%, then threatened to withhold benefits until Democrats support funding. Senate leaders John Thune and Chuck Schumer are pushing for a deal; labour unions and healthcare interests press for resolution.",
-      "summaryTokens": 954,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "The US federal shutdown reached a record-equalling 35th day after the Senate rejected for the 14th time a GOP House–passed funding bill. Democrats and Republicans are holding behind-the-scenes talks to avert surpassing the 35-day closure under Trump’s first term in 2018, amid furloughs and service disruptions—including cuts to SNAP, now at 50% capacity for 42 million Americans via emergency funds. President Trump threatened to withhold benefits until Democrats back the package and urged GOP senators to abolish the filibuster. Centrist lawmakers are negotiating a broader funding roadmap, including expiring ACA subsidies, while the White House demands an initial vote to reopen government.",
+      "summaryTokens": 952,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/jamie-raskin-justice-department-epstein-investigation",
@@ -197,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T20:52:01Z",
       "trailText": "Jamie Raskin in letter questions why justice department abruptly ended investigation into Epstein co-conspirators",
-      "summary": "Rep. Jamie Raskin (D–Md.) has accused the Trump DOJ of orchestrating a “shameful and gigantic cover-up” by abruptly ending the SDNY’s criminal probe into Jeffrey Epstein’s alleged co-conspirators in July 2025 after survivors identified at least 20 individuals. In a letter to former AG Pam Bondi, Raskin demands answers on why the investigation was transferred to DOJ headquarters, why those women were deemed “not credible,” and what investigative steps followed. DOJ spokesperson Natalie Baldassarre blamed a government shutdown and pledged further cooperation once Congress reopens funding.",
-      "summaryTokens": 619,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "In a letter to AG Pam Bondi, Rep. Jamie Raskin (D-MD) accuses the Trump DOJ of abruptly ending a long-running FBI/SDNY probe into Jeffrey Epstein’s alleged co-conspirators, calling it a “shameful and gigantic cover-up.” Raskin notes nearly 50 survivors identified around 20 powerful figures aiding Epstein’s sex-trafficking ring and detailed its sophisticated structure and financing, yet the inquiry ceased in January 2025 after files moved to DOJ HQ. He demands records of post-transfer investigative steps and challenges DOJ/FBI claims that no evidence exists against uncharged third parties.",
+      "summaryTokens": 766,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/liz-cheney-trump",
@@ -209,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T20:36:48Z",
       "trailText": "Republicans ousted her after she dogged Trump for January 6, but the Cheneys’ influence lingers in his administration",
-      "summary": "Weeks before Trump’s inauguration, Wyoming Rep. Liz Cheney, daughter of former VP Dick Cheney, aligned with neoconservative principles but supported Trump until the January 6 insurrection. As the highest-ranking Republican to vote to impeach him and co-vice chair the House January 6 committee, she was stripped of leadership in May 2021 and lost her primary in 2022 at Trump’s behest. Though she stayed conservative on issues from waterboarding to abortion, her defiance cut short her career, even as Cheney-style hawkish influence persists in Trump’s renewed actions against Iran and Venezuela.",
-      "summaryTokens": 927,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Wyoming Rep. Liz Cheney, scion of Dick Cheney’s neoconservative legacy, initially backed Trump despite his Iraq repudiation but broke with him after the Jan. 6 insurrection—impeaching him and serving on the House committee investigating the riot. Republicans stripped her of leadership in May 2021 and she lost her 2022 primary to pro-Trump challengers. Though her father’s hawkish influence endures—Trump has ordered bombing raids on Iran and naval deployments off Venezuela—Cheney remains excluded, later receiving Biden’s Presidential Citizens Medal and a pre-emptive pardon after Trump threatened prosecution.",
+      "summaryTokens": 867,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/dick-cheney-trump",
@@ -221,9 +605,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T19:35:09Z",
       "trailText": "The ironies of Cheney’s parting of ways with Donald Trump and modern day Republicans are numerous",
-      "summary": "Former vice-president Dick Cheney, once the driving force behind Bush’s post-9/11 wars in Afghanistan and Iraq, championed an empowered presidency through the USA Patriot Act, Guantánamo detentions, extraordinary rendition, and harsh interrogations. Though estranged from today’s GOP—he endorsed Democrat Kamala Harris and joined his daughter Liz Cheney at the January 6 anniversary—Cheney’s expansion of executive authority and appointment of rightwing justices (Roberts, Alito) laid groundwork for Trump’s own excesses. In later years he warned of unchecked presidential power, but his hawkish legacy and its fallout remain deeply controversial.",
-      "summaryTokens": 999,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Before his death, Dick Cheney, architect of the Bush administration’s assertive presidency and early ‘war on terror’—from the USA Patriot Act, Guantánamo and Iraq invasion to installing right-wing justices—became estranged from the modern GOP he helped shape. Deeply alarmed by Trump’s threats to democracy, he broke with Republicans, endorsing Democrat Kamala Harris, joining Liz Cheney on the Capitol steps after January 6. His legacy of seizing executive power and expanding counterterror measures laid the groundwork for the very presidential excesses he later decried.",
+      "summaryTokens": 670,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/mainehealth-death-notices",
@@ -233,9 +617,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T19:21:40Z",
       "trailText": "More than 500 people received letters from MaineHealth expressing condolences and providing estate instructions",
-      "summary": "On October 20, MaineHealth—Maine’s largest non-profit healthcare system—mailed condolence letters to 531 living patients after an estate-vendor software glitch falsely flagged them as deceased and provided next-of-kin estate instructions. Shocked recipients reported distress and worried their deaths might be officially recorded. MaineHealth issued apology letters, confirmed no medical records listed those patients as dead, and resolved the error. The incident follows a $25 million negligence verdict against its Mid Coast Medical Group subsidiary.",
-      "summaryTokens": 526,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "MaineHealth mailed condolence and estate-instruction letters to 531 living patients due to a computer glitch on October 20. Though none were flagged deceased in their records, recipients were told how to settle their estates, prompting shock and calls to verify their status. MaineHealth apologized, sent formal apologies, and resolved the system fault. One patient, worried about a pending bill, confirmed her well-being with staff, who quipped: “I’m glad to hear you’re still alive.” The incident follows a $25 million jury verdict against a MaineHealth subsidiary in October.",
+      "summaryTokens": 921,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/dick-cheney-war-on-terror-may-have-paved-way-trumpism",
@@ -245,9 +629,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T19:11:01Z",
       "trailText": "Former US vice-president a key figure in expanding White House’s power and ‘corrupting the intelligence-policy relationship’ to sell Iraq war",
-      "summary": "Dick Cheney, vice-president under George W. Bush, expanded presidential power via torture, warrant-free surveillance, Guantánamo and the USA Patriot Act. He coerced intelligence analysts to back false WMD claims, driving the 2003 Iraq invasion and eroding agency independence. His actions entrenched executive‐branch prerogatives and legal precedents—extraordinary surveillance, black‐site interrogations and indefinite detention—that successive administrations, including Trump’s, exploited against dissenters, migrants and terror suspects. Despite denouncing Trump’s excesses, Cheney defended his record in Exceptional, claiming enhanced interrogation kept America safe, a contention unsubstantiated by evidence.",
-      "summaryTokens": 634,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Dick Cheney, Bush’s vice-president (2001–09), seized on 9/11 to expand executive power—eroding intelligence independence, sidestepping international law, enforcing the Patriot Act, and overseeing CIA black-site torture. He personally browbeat CIA analysts at Langley, corrupting the intelligence-policy relationship to justify the 2003 Iraq invasion and lauded “enhanced interrogation” despite no evidence of thwarted attacks. His precedents at Guantánamo and warrantless surveillance paved the way for Trump-era ICE tactics and branding dissent as “terrorism.” Unapologetic, he championed unfettered presidential authority, laying foundations for executive overreach and Trumpism.",
+      "summaryTokens": 1801,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/dick-cheney-obituary",
@@ -257,9 +641,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T18:29:23Z",
       "trailText": "US vice-president who served under George W Bush and pushed hard for the invasion of Iraq",
-      "summary": "Dick Cheney, former White House chief of staff (1975-77) and defense secretary (1989-93), served as US vice-president (2001-2009) under George W. Bush. Dubbed the “real president,” he led neo-conservatives in the invasions of Afghanistan and especially Iraq after 9/11, authorised emergency shoot-down orders and championed “enhanced interrogation.” His tenure was shadowed by Halliburton ties—earning him millions from Iraq contracts—and accusations of misleading intelligence. Once a hard-line conservative, he later broke with Donald Trump, endorsing Democrats in 2020 and 2024. He is survived by wife Lynne and daughters Liz and Mary.",
-      "summaryTokens": 1603,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Dick Cheney, who died aged 84, was vice-president under George W Bush. Exercising unprecedented influence, he led the neo-conservative push for the 2003 Iraq invasion and backing \"enhanced interrogation\" post-9/11. As head of key policy hawks including Rumsfeld and Wolfowitz, Cheney drove decisions on Afghanistan and Iraq despite thin intelligence. Before that, he served as Nixon’s youngest White House chief of staff, Reagan-era defense secretary and was Halliburton CEO, profiting billions amid controversial Iraq contracts. After leaving office, he denounced Trump’s election denial, backing Democrats in 2024. Survived by wife Lynne and daughters Liz and Mary.",
+      "summaryTokens": 1139,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/michelle-obama-fashion-look-photo-book",
@@ -269,9 +653,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T17:54:22Z",
       "trailText": "The Look, a new photo book, aims to offer insight into how the former first lady used fashion as a tool for visibility and representation",
-      "summary": "In The Look, Michelle Obama’s new photo book, the former first lady reflects on how media fixation on her bare arms—most famously in Michael Kors’s sleeveless shift at her official portrait and before Congress—was wielded to otherize her. Alongside stylist Meredith Koop and a foreword by Farah Jasmine Griffin, Obama shows how she used a high-low fashion philosophy and strategic gowns—from Jason Wu to Target—to assert visibility, support emerging Black, Asian and Latina designers, and redefine the role of First Lady against restrictive stereotypes.",
-      "summaryTokens": 532,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Michelle Obama’s new photo book, The Look, explores how media fixation on her bare arms—highlighted by her sleeveless Michael Kors inaugural portrait—was weaponized to otherize the first Black First Lady. Featuring insights from stylist Meredith Koop and designers, plus a Farah Jasmine Griffin foreword, it shows how Obama leveraged fashion—choosing Jason Wu over Oscar de la Renta, championing Black, Asian and Latina talent, and embracing high-low labels—to shape her public identity, resist “angry Black woman” tropes, invite inclusivity and underscore substance alongside style during her White House tenure.",
+      "summaryTokens": 867,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/prop-50-california-redistricting-vote-maps-latest",
@@ -281,9 +665,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T17:37:05Z",
       "trailText": "Ballot measure would let legislature redraw congressional districts to carve out five more Democratic seats",
-      "summary": "Californians vote on Proposition 50, which would suspend the independent redistricting commission and empower the legislature to redraw U.S. House districts to add five Democratic seats, a direct response to a Trump-backed Republican gerrymander in Texas. Gov. Gavin Newsom, former president Barack Obama and leading Democrats back the measure as critical to defending democracy. Polls show 57%-62% approval, early returns hit 29%, and federal observers monitor voting amid Trump’s false fraud claims. Passage is widely expected.",
-      "summaryTokens": 792,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "California’s Prop 50 asks voters to scrap the independent redistricting commission and hand mapmaking to the legislature to carve out five additional Democratic seats—directly countering Texas’s pro-GOP gerrymander. Championed by Governor Gavin Newsom, Barack Obama and leading Democrats as a defense of democratic norms, the measure leads in polls (57–62% support) and outpaces opponents in fundraising. Amid ICE raids, federal election observers in five counties and Trump’s false rigging claims, Prop 50 serves as a high-stakes bid to shape the 2026 House majority. Elections close at 8 pm; early returns showed 29% of mail ballots returned, and campaign spending by pro-Prop 50 groups far exceeds opposition.",
+      "summaryTokens": 1290,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/dick-cheney-vice-president-republican-bush-dies",
@@ -293,9 +677,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T16:42:09Z",
       "trailText": "Cheney, who served under presidents from Nixon to George W Bush, will be remembered for controversial role after 9/11",
-      "summary": "Dick Cheney, 84, died Monday. He served as Nixon’s aide, Ford’s White House chief of staff, Reagan congressman, HW Bush’s defense secretary and W Bush’s powerful vice-president. After 9/11 he helped direct the military response in Afghanistan and championed the Iraq invasion on false WMD and al-Qaida links, while defending detainee torture. A Yale dropout turned GOP kingmaker, he survived multiple heart attacks and a 2012 transplant, once shot a hunting partner, and later broke with Trump—voting for Harris in 2024—while his daughter Liz was censured for opposing Trump after January 6.",
-      "summaryTokens": 567,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Dick Cheney, 84, died Monday. A longtime Republican power broker, Cheney served Nixon, Ford, Reagan and George H.W. Bush as House member, White House chief of staff and defense secretary before becoming George W. Bush’s powerful vice-president. He steered post-9/11 policy with Donald Rumsfeld—launching the Afghanistan war—and championed the 2003 Iraq invasion on flawed WMD/al-Qaida claims later discredited. Cheney defended detainee torture, survived multiple heart attacks, a 2012 transplant and a hunting accident. His daughter Liz was censured for criticizing Trump, and in 2024 Cheney backed Democrat Kamala Harris, calling Trump an existential threat.",
+      "summaryTokens": 1088,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/pennsylvania-artist-apologizes-nazi-camp-arch",
@@ -305,9 +689,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T16:26:59Z",
       "trailText": "‘I made a mistake,’ says artist who included cloned archway on Halloween float for a Catholic school",
-      "summary": "Local Pennsylvania artist Galen Shelly apologized after inadvertently replicating Auschwitz’s ‘Arbeit Macht Frei’ gate on a Halloween parade float for St Joseph’s Catholic School in Hanover. He’d ordered generic cemetery gates, but when supplies failed to arrive, he downloaded and cloned the infamous Nazi camp arch. Images of the float surfaced online, prompting Bishop Timothy Senior and school leaders to issue formal apologies, condemn antisemitism and outline plans to strengthen approval processes and Holocaust education. Shelly told PennLive he meant only to illustrate life’s mortality and had no ill intent.",
-      "summaryTokens": 1245,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Pennsylvania artist Galen Shelly apologized after his Halloween parade float for Hanover’s St Joseph’s Catholic school inadvertently featured a replica of Auschwitz’s Arbeit Macht Frei gate. Shelly said a delayed shipment led him to source a cemetery arch online without realizing its Nazi origins. The Diocese of Harrisburg’s Bishop Timothy Senior condemned the “profoundly offensive” imagery, apologized to Jewish communities and vowed to tighten approval processes. School leaders also apologized for failing to review the float, calling for education and reflection.",
+      "summaryTokens": 849,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/dick-cheney-death-legacy",
@@ -317,9 +701,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T14:52:22Z",
       "trailText": "Leaders from Bush to Barrasso paid tribute to the former vice-president, whose career drew praise and controversy",
-      "summary": "Former Vice President Dick Cheney died at 84, prompting tributes from Republicans—George W. Bush hailed him as a “calm and steady” public servant; Senators John Barrasso, Jon Husted, Joni Ernst, John Thune, Gov. Mike DeWine and AEI’s Robert Doar praised his national security leadership from Congress to the Pentagon and White House. Democrats Abigail Spanberger and Betty McCollum offered personal condolences. Donald Trump remained silent. On the left, activists Omar Suleiman and Hasan Piker blamed him for Iraq war casualties; far-right voices like Alex Jones and ex-Rep. George Santos denounced him as a war criminal, underscoring his deeply divisive legacy in U.S. policy and politics.",
-      "summaryTokens": 1855,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Dick Cheney died at 84, prompting high-profile tributes and fierce condemnation. Former president George W. Bush lauded him as “a calm and steady presence” and “among the finest public servants” of his generation. Senators John Barrasso, Joni Ernst, Jon Husted and Majority Leader John Thune praised his leadership in Congress, Defense and the vice presidency. Governors Mike DeWine and Abigail Spanberger offered condolences. Critics—from activists Omar Suleiman and Hasan Piker to Alex Jones and George Santos—denounced his role in the Iraq War, torture programs and neocon agenda, underscoring his enduring divisiveness.",
+      "summaryTokens": 999,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/listeria-outbreak-deaths-pasta-kroger-trader-joes",
@@ -329,9 +713,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T14:12:46Z",
       "trailText": "Listeria found in pasta sold by Trader Joe’s, Kroger and others as CDC urges people to check fridges and seek care if ill",
-      "summary": "An outbreak of listeria in precooked pasta meals sold by Trader Joe’s, Kroger, Albertsons, Sprouts and others has been linked to six deaths, including one pregnancy-associated fetal loss, and 25 hospitalizations across 18 states, prompting CDC recalls of linguine, farfalle and deli salads sourced from Nate’s Fine Foods. Affected products include FreshRealm Home Chef and Marketside Alfredo dishes, Albertsons and Safeway deli pasta salads, Trader Joe’s Cajun-style blackened chicken fettuccine, Demer’s Scott & Jon’s shrimp scampi and smoked mozzarella salads from Kroger, Giant Eagle and Sprouts. High-risk consumers should discard recalled items, thoroughly clean surfaces and seek immediate care for fever, muscle aches, diarrhea or headache.",
-      "summaryTokens": 1036,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Six people have died and 25 hospitalized in an ongoing listeria monocytogenes outbreak linked to precooked pasta meals sold at Kroger, Trader Joe’s, Albertsons, Sprouts and Walmart across 18 states, including one pregnancy-associated fetal loss. The CDC traced contamination to Nate’s Fine Foods products and has issued recalls of various linguine, farfalle, Alfredo and deli pasta salads. Consumers—especially seniors, pregnant women and immunocompromised—should check refrigerators, sanitize surfaces and seek medical care if symptomatic.",
+      "summaryTokens": 539,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/judge-memphis-national-guard-tennessee",
@@ -341,9 +725,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T14:00:33Z",
       "trailText": "City government declines to raise objection in court but state leaders and ACLU seek to block deployment of troops",
-      "summary": "Democratic Tennessee officials led by Shelby County mayor Lee Harris, state reps Gabby Salinas and GA Hardaway, with ACLU support, sued to block Trump’s September memo deploying National Guard troops to Memphis, arguing state law requires general assembly approval and guards are subject to militia limits. Plaintiffs contend Memphis’s crime drop and lack of civil unrest don’t justify deployment without legislative approval. Memphis city government declined to intervene, citing federal and gubernatorial authority. At a Nashville chancery court hearing, Judge Moskal pressed Tennessee’s counsel on whether troop deployment is a political question, while state defended the activation as federal-funded and necessary operational response to crime. Decision pending.",
-      "summaryTokens": 1391,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Democratic officials, led by Shelby County Mayor Lee Harris and state representatives, sued over President Trump’s September deployment of the National Guard to Memphis, arguing it exceeds state militia authority without legislative approval and lacks required civil unrest. Backed by the ACLU, they challenge Tennessee’s redefinition of the guard as an 'army' exempt from militia limits and say deployment is political overreach. As part of the Memphis Safe Task Force, troops have aided in 1,500+ arrests; Memphis Mayor Paul Young declined to join, instead seeking to shape troop operations despite doubts about effectiveness.",
+      "summaryTokens": 1886,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/gavin-newsom-prop-50-democrats-hope",
@@ -353,9 +737,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T14:00:32Z",
       "trailText": "The ballot measure win would be a significant political gain for the Golden state governor eyeing the White House",
-      "summary": "Gavin Newsom, California’s term-limited governor eyeing a 2028 presidential bid, spearheaded Proposition 50—a retaliatory gerrymander to strip the independent redistricting commission, add five Democratic House seats and counter GOP maps in Texas. Backed by national figures like Obama and AOC and fueled by anti-Trump fundraising, Prop 50’s expected passage could boost Dem House odds by 10–15%. The initiative has elevated Newsom as a leading anti-Trump voice, showcased his campaign savvy across social media and early-voting states, and cemented his front-runner status despite criticism of opportunism and a mixed record.",
-      "summaryTokens": 1010,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "California Governor Gavin Newsom, positioning himself for a 2028 presidential run, has cast Proposition 50—a ballot measure to suspend the state’s independent redistricting commission and allow the legislature to redraw congressional districts for five additional Democratic seats—as a national “fight fire with fire” response to GOP gerrymanders. Inspired by Texas Democrats’ summer walkout, Prop 50 has drawn endorsements from Barack Obama, Alexandria Ocasio-Cortez and millions in small-dollar donations. If approved, it could boost Democrats’ odds of regaining the House by 10–15%, elevate Newsom’s profile as an anti-Trump leader and reshape his image beyond California’s liberal enclave.",
+      "summaryTokens": 1152,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/trump-department-of-justice-weaponization-enemies",
@@ -365,9 +749,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T12:00:30Z",
       "trailText": "President’s pressure on the department to prosecute his enemies is hurting US law and violating policies, say experts",
-      "summary": "Trump has aggressively directed the DOJ to pursue politically motivated charges against former FBI chief James Comey and New York AG Letitia James—cases critics say lack evidence—and pressed U.S. attorneys to target opponents like Adam Schiff. He installed loyalists (Lindsey Halligan, Ed Martin) to override career prosecutors and weaponize DOJ policy, prompting amicus briefs by 100+ ex-DOJ officials and ethics advisors. Experts warn this overt politicization threatens the rule of law and DOJ independence.",
-      "summaryTokens": 911,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Donald Trump is pressuring the DOJ to prosecute his political enemies using weak evidence and installed loyalists to file charges against James Comey, New York AG Letitia James and others. Over 100 ex-DOJ officials and multiple bipartisan amicus briefs argue these prosecutions violate departmental policies and the Constitution’s due process clause. Interim U.S. attorney Lindsey Halligan and MAGA lawyer Ed Martin have spearheaded these cases. Critics say Trump’s overt involvement and retaliation-driven agenda break DOJ tradition, threaten rule of law and may prompt dismissals before trial. Congressional Democrats liken it to Nixonian revenge and foresee lasting damage to the justice system.",
+      "summaryTokens": 1068,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/first-thing-trump-administration-to-fund-just-half-of-food-stamp-benefits",
@@ -377,9 +761,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T11:23:08Z",
       "trailText": "Department of Agriculture using contingency funds to keep benefits going amid government shutdown. Plus, economists warn $70tn in inherited wealth over next decade will widen inequality",
-      "summary": "In response to the 35-day government shutdown that exhausted SNAP funding Saturday, the USDA will tap contingency reserves to cover only half of usual benefits for nearly 42 million recipients. This marks the first time in the program’s 60-year history that benefits face a cut rather than suspension, after a federal judge blocked the USDA’s attempt to halt SNAP altogether. Long food-bank lines have formed nationwide, with recipients reporting forced rationing and decrying the ‘cruelty’ of partial relief.",
-      "summaryTokens": 985,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "With congressional Republicans and Democrats deadlocked in a 35-day shutdown, USDA’s SNAP funding officially ran out Saturday, prompting the Department of Agriculture to deploy contingency reserves to finance only 50% of benefits for nearly 42 million recipients. This marks the first partial cut in SNAP’s 60-year history after President Trump threatened a full suspension—blocked by a federal judge. Food banks nationwide report surges and long lines as recipients scramble amid legal debate over executive impoundment versus Congressional appropriation authority, leaving low-income families facing heightened food insecurity.",
+      "summaryTokens": 1763,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/new-york-city-mayoral-election",
@@ -389,9 +773,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T11:00:31Z",
       "trailText": "Race has gained national attention with Trump threatening to pull federal funds from the city if Zohran Mamdani wins",
-      "summary": "New York City voters cast ballots in a high-stakes mayoral election featuring Democratic socialist Zohran Mamdani (leading by double digits in polls), independent ex-governor Andrew Cuomo (launched a comeback after losing the Democratic primary), and Republican Guardian Angels founder Curtis Sliwa. Incumbent mayor Eric Adams dropped out in September. Early voting shattered records with 735,000+ ballots. Mamdani beat Cuomo by 13 points focusing on affordability; Cuomo calls him inexperienced. Donald Trump backed Cuomo and threatened to withhold federal funds if Mamdani wins, calling him a 'communist'. Polls close at 9pm ET.",
-      "summaryTokens": 1264,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "New York City voters on Nov. 4 face a three-way mayoral race: Democratic nominee Zohran Mamdani, a 34-year-old democratic socialist assemblyman leading by double digits on affordability; former Gov. Andrew Cuomo, ousted in June’s primary now running as an independent; and Republican Curtis Sliwa, founder of the Guardian Angels. Early voting has shattered records with over 735,000 ballots cast. National figures including former President Donald Trump have weighed in, with Trump urging support for Cuomo and threatening to withhold federal funds if Mamdani wins, labeling him a communist. Polls close at 9 pm ET.",
+      "summaryTokens": 1139,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/voters-polls-trump-democrats-republicans",
@@ -401,9 +785,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T11:00:30Z",
       "trailText": "Off-year elections, including Zohran Mamdani’s high-profile New York race, could reshape the political map",
-      "summary": "Voters from New York to California, including key contests in Virginia, New Jersey, Pennsylvania and Minneapolis, head to the polls Nov. 4 in off-year elections that could reshape the national political map. Zohran Mamdani, a 34-year-old democratic socialist, may become New York City’s mayor. Californians will vote on Proposition 50 to redraw congressional districts favorably for Democrats. Tight governor and legislative contests in New Jersey and Virginia, Virginia’s attorney general race, Pennsylvania supreme court retention votes and the Minneapolis mayoral rematch will provide critical insight into Donald Trump’s influence and both parties’ momentum ahead of 2026.",
-      "summaryTokens": 756,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Off-year elections on Nov. 4 will test Trump’s sway and reshape the political map. In New York City, democratic socialist Zohran Mamdani—who upset Cuomo in the primary—could become mayor despite Cuomo’s independent bid. California voters may approve Prop 50 to redraw congressional maps and lock in up to five Democratic seats. New Jersey and Virginia are choosing successors to term-limited governors Phil Murphy and Glenn Youngkin in tight races between Mikie Sherrill and Jack Ciattarelli in NJ, and Abigail Spanberger and Winsome Earle-Sears in VA. Battles over legislative control, Virginia’s attorney general race, Pennsylvania supreme court retention and Minneapolis’s mayoral contest add further intrigue.",
+      "summaryTokens": 2105,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/washington-post-report-veterans-benefits",
@@ -413,9 +797,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T10:00:27Z",
       "trailText": "Veterans groups say recent Washington Post stories on VA disability payments paint a misleading picture. The paper stands by its reporting",
-      "summary": "Washington Post investigative series alleged widespread fraud in VA disability claims, citing convictions from 2017–2024. Veterans groups (American Legion, VFW, DAV, IAVA), former VA Sec. Shulkin and legal experts counter fraud is minimal (<0.005% of $193bn payouts) and highlight systemic complexity causing delays and denials. Critics fear the series could justify benefit cuts under Project 2025. Senate hearing saw bipartisan rebuke from Sen. Duckworth and Sen. Sheehy, while Chair Moran urged reform. Experts note rising claims reflect Iraq/Afghanistan injuries, PTSD and multisymptom illness, not exploitation. The Post defends its data-driven reporting; opponents call its framing misleading and harmful to veterans.",
-      "summaryTokens": 900,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "The Washington Post’s year-long investigation claimed “rampant” VA disability fraud, citing 30 convictions and soaring payouts. Veterans groups, former VA officials and legal experts counter that the reporting overlooks genuine service-related injuries, mental health tolls and onerous documentation requirements that delay or deny rightful claims. They argue that prosecutions demonstrate an effective fraud deterrent and that cost spikes stem from prolonged Iraq/Afghanistan deployments, aging veterans and complex multi-symptom conditions. Bipartisan lawmakers and the VA have condemned the series as misleading and warn it may fuel proposals to slash benefits. The Post defends its data-driven findings; advocates call for streamlined, veteran-friendly reforms instead.",
+      "summaryTokens": 757,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/democrats-trump-election-win-voting",
@@ -425,9 +809,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T10:00:26Z",
       "trailText": "With polls showing signs of recovery after a popularity slump, Tuesday’s results will test whether the party can regain voters’ trust",
-      "summary": "One year after Trump's return to the White House, Tuesday’s off-year elections in New Jersey, Virginia, New York City and California’s Prop 50 referendum test whether Democrats can rebound from 2024 losses. With party favorability at record lows but recent polls showing improvements on economic issues, Democrats pin hopes on locally focused campaigns: Zohran Mamdani’s progressive bid in NYC, Mikie Sherrill’s tax-cut pitch in NJ, and Abigail Spanberger’s affordability message in VA. Republicans counter with crime, immigration and education culture-war themes. Voter priorities—cost of living, public safety and schools—will decide if Democrats rebuild or if GOP momentum endures into 2026.",
-      "summaryTokens": 1343,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "One year after Trump’s return to the White House, Tuesday’s off-year contests in New York, New Jersey and Virginia—and California’s Prop 50 vote—will test whether Democrats can rebound from historic lows and capitalize on improving economic ratings. In NYC, socialist Zohran Mamdani leads a three-way race by 25 points; in New Jersey, Congresswoman Mikie Sherrill and Republican Jack Ciattarelli are in a dead heat; and in Virginia, Abigail Spanberger holds a double-digit advantage. Voter concerns center on affordability, public safety and education as parties fight for narratives ahead of 2026.",
+      "summaryTokens": 425,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/04/randall-alberto-gamboa-esquivel-ice-family",
@@ -437,9 +821,21 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T09:00:24Z",
       "trailText": "Randall Alberto Gamboa Esquivel’s family alleges negligence and inhumane treatment",
-      "summary": "Randall Alberto Gamboa Esquivel, 52, a Costa Rican migrant, was detained by ICE in Texas in February and diagnosed with psychosis before vanishing from family contact in June. Found in August in a vegetative state after legal delays and attorney scams, he was airlifted back to Costa Rica on Sept. 3. He died Oct. 26. His family accuses ICE of negligence and inhumane treatment; ICE, via Tricia McLaughlin, calls its care exemplary. Former president Óscar Arias and Costa Rican advocates demand answers amid perceived governmental silence.",
-      "summaryTokens": 808,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Randall Alberto Gamboa Esquivel, a 52-year-old Costa Rican national, was detained by ICE in Texas in February after allegedly reentering the US illegally. His family lost contact in June, later learning he’d been diagnosed with unspecified psychosis, hospitalized, and flown home in September in a vegetative state. He died in Costa Rica on October 26. Relatives and human rights advocates accuse ICE of negligence and inhumane treatment; the Trump administration defends his care. In Costa Rica, former president Óscar Arias has called for transparency as the family demands answers.",
+      "summaryTokens": 870,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
+    },
+    {
+      "id": "us-news/2025/nov/04/they-take-the-money-and-go-why-not-everyone-is-mourning-the-end-of-usaid",
+      "title": "‘They take the money and go’: why not everyone is mourning the end of USAID ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/04/they-take-the-money-and-go-why-not-everyone-is-mourning-the-end-of-usaid",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/04/they-take-the-money-and-go-why-not-everyone-is-mourning-the-end-of-usaid",
+      "section": "us-news",
+      "publishedDate": "2025-11-04T05:00:20Z",
+      "trailText": "The long read: When Donald Trump set about dismantling USAID, many around the world were shocked. But on the ground in Sierra Leone, the latest betrayal was not unexpected",
+      "summary": "After Trump’s appointee Jeremy Lewin vowed to dismantle USAID—decrying a “global humanitarian complex” that breeds dependency—experts warned cuts could cost millions of lives. On the ground in Sierra Leone, vendors, electricians and health workers voiced resignation, not panic, accustomed to erratic aid flows and dizzyingly byzantine funding. Deputy medical officer Mustapha Kabba admits he can’t track US grants funnelled through NGOs. Long-time observer David Kpakiwa, who’s seen Peace Corps volunteers, war interventions and Ebola responses come and go, laments “they take the money and go” and urges reform that learns from past failures without abandoning the vulnerable.",
+      "summaryTokens": 709,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/03/senate-republicans-snap-funds-resolution",
@@ -449,9 +845,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T03:03:23Z",
       "trailText": "Democratic leaders decry ‘unbelievably cruel’ move, saying ‘Trump is using food as a weapon’ during shutdown",
-      "summary": "During the US government shutdown, Senate Republicans blocked a unanimous consent resolution by Democrats Jeff Merkley and Chuck Schumer to fully fund November SNAP benefits for 42 million Americans. GOP leaders, led by John Barrasso, dismissed it as a “political stunt,” insisting reopening the government is the only solution. The USDA announced a partial $4.65 billion contingency fund—covering roughly half of monthly $8 billion food assistance—as food banks face surging demand. Democrats decry the move as ‘cruel,’ accusing the administration of using hunger as leverage.",
-      "summaryTokens": 743,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Senate Republicans blocked a unanimous‐consent resolution by Democrats to fully fund November SNAP benefits for 42 million recipients during the shutdown. GOP Whip John Barrasso called it a political stunt and insisted benefits hinge on reopening the government. The administration will tap $4.65 billion in USDA contingency funds—covering just half of the $8 billion monthly need. Democrats led by Schumer and Merkley decried the move as “unbelievably cruel,” accusing Trump of weaponizing hunger amid a potential record‐long shutdown.",
+      "summaryTokens": 731,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/03/trump-administration-news-daily-update",
@@ -461,9 +857,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T02:15:03Z",
       "trailText": "Trump backs Cuomo on Truth Social post on election eve as Mamdani hits back – key US politics stories from 3 November",
-      "summary": "On the eve of NYC’s mayoral election, Trump urged GOPers to vote for Cuomo over socialist Zohran Mamdani, threatening to withhold most federal funds if Mamdani wins. His administration cut SNAP benefits by half, sparking outcry as Americans face hunger. A federal judge barred troop deployments in Portland. CBS heavily edited Trump’s 60 Minutes interview, while he feigned ignorance of crypto tycoon Changpeng Zhao despite pardoning him. Other briefs: threats of intervention in Nigeria, royal drama over Prince Andrew, an FDA official’s resignation, and record wealth gains for billionaires.",
-      "summaryTokens": 928,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "On the eve of the NYC mayoral vote, Trump endorsed independent Andrew Cuomo over socialist Zohran Mamdani on Truth Social, warning he’ll withhold most federal funding if Mamdani wins. Mamdani retorted that Trump’s pick serves his interests, not New Yorkers’. Meanwhile, the administration is halving November SNAP benefits for 42m recipients amid legal battles, a federal judge barred deploying the National Guard in Portland, and CBS aired an edited 60 Minutes interview in which Trump later feigned ignorance about pardoning Binance’s Changpeng Zhao. Plus brief updates on Nigeria, the royal family, a DC protester, an FDA resignation and billionaire wealth gains.",
+      "summaryTokens": 1838,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/03/trump-mamdani-new-york-election-mayor-cuomo",
@@ -473,9 +869,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T02:12:59Z",
       "trailText": "President backs Cuomo in election eve Truth Social post as Mamdani hits back at Trump’s ‘threat – it is not the law’",
-      "summary": "On the eve of New York’s mayoral election, Donald Trump warned on Truth Social and CBS’s 60 Minutes that he’ll withhold non‐essential federal funds if self‐declared “communist” Zohran Mamdani wins. While Congress, not the president, controls appropriations and impoundment is illegal, the White House has already withheld $18bn in tunnel funding and tried to rescind $34m in counterterrorism aid (a federal judge ordered its restoration). Trump endorsed Andrew Cuomo over Mamdani, and Cuomo echoed the threat. Mamdani dismissed it as unlawful and said he’ll secure funds owed to the city. Recent polls give Mamdani a double-digit lead.",
-      "summaryTokens": 1277,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "On the eve of New York’s mayoral election, former president Donald Trump warned on Truth Social that he would withhold federal funding from NYC if the “communist” candidate Zohran Mamdani wins, despite Congress controlling appropriations and impoundment bans. The administration has already blocked $18bn for a tunnel project and contested congestion-pricing funds; a judge ordered reversal of a $34m counterterrorism cut. Trump backed independent Andrew Cuomo over Mamdani, urging Republicans to follow suit. Mamdani denounced the threat as unlawful political coercion and leads polls by about 7 points.",
+      "summaryTokens": 936,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/03/subu-vedam-ice-deportation-overturned-conviction",
@@ -485,9 +881,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-04T00:21:37Z",
       "trailText": "Legal resident ‘Subu’ Vedam being held in short-term center after getting murder conviction overturned earlier this year",
-      "summary": "Two courts urged ICE to halt deportation of Subramanyam “Subu” Vedam, a 64-year-old legal permanent resident from Pennsylvania, wrongfully imprisoned over 40 years for a 1983 murder conviction recently overturned. An immigration judge stayed his removal while the Board of Immigration Appeals considers his case; a federal stay was also granted. Vedam, detained in Louisiana since his October release, faces deportation over a 1982 no-contest plea to LSD delivery when he was 20. His lawyers argue his decades of wrongful incarceration and rehabilitation outweigh the old drug conviction; DHS maintains one vacated conviction doesn’t bar enforcement.",
-      "summaryTokens": 944,
-      "generatedAt": "2025-11-05T04:40:25.614Z"
+      "summary": "Two courts—an immigration judge and a Pennsylvania federal judge—have stayed the deportation of 64-year-old legal permanent resident Subramanyam “Subu” Vedam, who spent 43 years incarcerated for a murder conviction overturned this year. Currently held at an ICE center in Louisiana, Vedam faces deportation over a 1983 no-contest plea for LSD delivery. His lawyers argue his wrongful imprisonment, community ties since infancy, and pursuit of citizenship outweigh the decades-old drug offense, while DHS insists the vacated murder ruling doesn’t nullify the drug conviction. The Board of Immigration Appeals’ review is pending.",
+      "summaryTokens": 812,
+      "generatedAt": "2025-11-06T04:01:53.378Z"
     },
     {
       "id": "us-news/2025/nov/03/los-angeles-celebrations-parade-world-series-victory",
