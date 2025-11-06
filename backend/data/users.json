@@ -3,7 +3,7 @@
     "userId": "akashsingh0762",
     "email": "akashsingh0762@gmail.com",
     "isActive": true,
-    "createdAt": "2025-11-05T16:17:13.262Z",
+    "createdAt": "2025-11-06T12:58:09.143Z",
     "lastReportDate": "2025-11-01",
     "updatedAt": "2025-11-01T00:42:20.820Z",
     "description": "I’m deeply engaged in AI alignment and existential risks, concerned that advanced models might drift from their intended goals, so I monitor safety research breakthroughs—methods, benchmarks, and protocols—empirical experiments that reveal misalignment, policy and regulatory updates, and documented failures or accidents across sources like the AI 2027 blog and Guardian reporting to spot early warning signals. I’m also interested in quantum computing’s practical and scientific applications and their broader societal, economic, and ethical impacts.",
@@ -26,26 +26,35 @@
       "law",
       "government-computing-network"
     ],
-    "userInterests": "The user wants to stay informed about the Russia-Ukraine war across multiple dimensions. They follow frontline military developments, the humanitarian crisis (refugee flows and aid efforts), and international diplomacy including sanctions. They also track economic and energy impacts on global markets, as well as information and cyber-warfare aspects. Their goal is comprehensive, up-to-date coverage rather than a specific academic or activist focus.",
-    "selectedSections": "world|global-development|politics|business|technology",
+    "userInterests": "The user is closely following the Russia–Ukraine war with a specific eye on diplomatic developments and economic impacts. They want to track how negotiations, sanctions, and policy shifts shape energy security across Europe. Their motivation stems from understanding both the strategic and practical implications of these changes for European governance and market stability.",
+    "selectedSections": "world|politics|business|money|environment",
     "curatedArticles": [
       {
-        "id": "world/2025/oct/12/ukraine-war-briefing-latest-refinery-strike-shows-no-safe-places-in-russias-deep-rear",
-        "title": "Ukraine war briefing: Latest refinery strike shows ‘no safe places in Russia’s deep rear’",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/12/ukraine-war-briefing-latest-refinery-strike-shows-no-safe-places-in-russias-deep-rear",
-        "trailText": "Bashneft oil refinery in Ufa is 1,400km from Ukrainian border; Zelenskyy says Trump can repeat Middle East peace success in Ukraine. What we know on day 1,327",
+        "id": "world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
+        "title": "Ukraine war briefing: Russian attacks on substations are ‘nuclear terrorism’, says Ukraine",
+        "webUrl": "https://www.theguardian.com/world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
+        "trailText": "Ukrainian foreign ministry says deliberate strikes on civilian energy facilities violate international law as fears of a winter crisis grow. What we know on day 1,347",
         "relevanceScore": 95,
         "section": "world",
-        "publishedDate": "2025-10-12T00:58:31Z"
+        "publishedDate": "2025-11-01T02:52:48Z"
       },
       {
-        "id": "world/2025/oct/10/russian-attack-kyiv-ukraine-capital-blackouts-sets-high-rise-alight",
-        "title": "‘Massive’ Russian attack on Ukraine capital causes widespread blackout",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/10/russian-attack-kyiv-ukraine-capital-blackouts-sets-high-rise-alight",
-        "trailText": "At least 20 injured after hundreds of drones and dozens of missiles target energy infrastructure in Kyiv",
+        "id": "world/2025/oct/25/ukraine-war-briefing-zelenskyy-urges-us-to-expand-russia-oil-sanctions",
+        "title": "Ukraine war briefing: Zelenskyy urges US to expand Russia oil sanctions",
+        "webUrl": "https://www.theguardian.com/world/2025/oct/25/ukraine-war-briefing-zelenskyy-urges-us-to-expand-russia-oil-sanctions",
+        "trailText": "At a meeting with European leaders, the Ukrainian president also discusses the supply of long-range missiles. What we know on day 1,340",
         "relevanceScore": 95,
         "section": "world",
-        "publishedDate": "2025-10-10T10:01:56Z"
+        "publishedDate": "2025-10-25T00:17:36Z"
+      },
+      {
+        "id": "world/2025/oct/20/ukraine-war-briefing-energy-war-continues-with-strikes-on-russian-oil-and-gas-plants",
+        "title": "Ukraine war briefing: Energy war continues with strikes on Russian oil and gas plants",
+        "webUrl": "https://www.theguardian.com/world/2025/oct/20/ukraine-war-briefing-energy-war-continues-with-strikes-on-russian-oil-and-gas-plants",
+        "trailText": "Russian attacks hit coal mine in Dnipropetrovsk region and Chernihiv power grid; Trump flips back to accommodating Putin. What we know on day 1,335",
+        "relevanceScore": 95,
+        "section": "world",
+        "publishedDate": "2025-10-20T01:32:13Z"
       },
       {
         "id": "business/2025/oct/26/trump-sanctions-impact-russian-oil-gas",
@@ -57,467 +66,62 @@
         "publishedDate": "2025-10-26T12:00:02Z"
       },
       {
-        "id": "world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk",
-        "title": "Ukraine war briefing: Zelenskyy visits troops near embattled Pokrovsk ",
-        "webUrl": "https://www.theguardian.com/world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk",
-        "trailText": "Deep Ukrainian drone strikes hit petrochemical plant 1,300km inside Russia and Lukoil refinery east of Moscow. What we know on day 1,351",
-        "relevanceScore": 92,
-        "section": "world",
-        "publishedDate": "2025-11-05T01:52:57Z"
-      },
-      {
-        "id": "world/2025/nov/04/ukraine-war-briefing-kyiv-gets-more-us-made-patriots-and-says-its-forces-are-holding-on-in-pokrovsk",
-        "title": "Ukraine war briefing: Kyiv gets more US-made Patriots and says its forces are holding on in Pokrovsk",
-        "webUrl": "https://www.theguardian.com/world/2025/nov/04/ukraine-war-briefing-kyiv-gets-more-us-made-patriots-and-says-its-forces-are-holding-on-in-pokrovsk",
-        "trailText": "Zelenskyy says the air defence systems being put into action while in embattled eastern city Russian troops haven’t advanced over past day. What we know on day 1,350",
-        "relevanceScore": 92,
-        "section": "world",
-        "publishedDate": "2025-11-04T01:27:33Z"
-      },
-      {
-        "id": "world/2025/nov/03/ukraine-war-briefing-trump-not-really-considering-supplying-tomahawks",
-        "title": "Ukraine war briefing: Trump ‘not really’ considering supplying Tomahawks",
-        "webUrl": "https://www.theguardian.com/world/2025/nov/03/ukraine-war-briefing-trump-not-really-considering-supplying-tomahawks",
-        "trailText": "Turkish refineries cut back on Russian oil in response to sanctions; Ukrainian special forces join defence of embattled Pokrovsk. What we know on day 1,349",
-        "relevanceScore": 92,
-        "section": "world",
-        "publishedDate": "2025-11-03T01:04:10Z"
-      },
-      {
-        "id": "world/2025/nov/02/ukraine-deploys-special-forces-to-pokrovsk-in-effort-to-hold-key-city",
-        "title": "Ukraine deploys special forces to Pokrovsk in effort to hold key city",
-        "webUrl": "https://www.theguardian.com/world/2025/nov/02/ukraine-deploys-special-forces-to-pokrovsk-in-effort-to-hold-key-city",
-        "trailText": "Escalating battle for city comes as overnight Russian drone and missile strikes kill six people, including two children",
-        "relevanceScore": 92,
-        "section": "world",
-        "publishedDate": "2025-11-02T11:47:14Z"
-      },
-      {
-        "id": "world/2025/nov/02/ukraine-war-briefing-ukraine-says-its-troops-still-holding-out-in-embattled-pokrovsk",
-        "title": "Ukraine war briefing: Ukraine says its troops still holding out in embattled Pokrovsk ",
-        "webUrl": "https://www.theguardian.com/world/2025/nov/02/ukraine-war-briefing-ukraine-says-its-troops-still-holding-out-in-embattled-pokrovsk",
-        "trailText": "Ukraine military says it has improved positions in several districts, while Moscow says its troops are enclosing in on Ukrainian forces.",
-        "relevanceScore": 92,
-        "section": "world",
-        "publishedDate": "2025-11-02T02:59:54Z"
-      },
-      {
-        "id": "world/2025/oct/16/russia-strikes-ukraine-gas-sites-zelenskyy-us-trump-meeting-cruise-missiles",
-        "title": "Russia bombards Ukraine’s gas sites as Zelenskyy flies to US for Trump meeting",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/16/russia-strikes-ukraine-gas-sites-zelenskyy-us-trump-meeting-cruise-missiles",
-        "trailText": "Strikes cause outages in eight regions before Washington talks to discuss US providing Kyiv with cruise missiles",
-        "relevanceScore": 92,
-        "section": "world",
-        "publishedDate": "2025-10-16T16:23:36Z"
-      },
-      {
-        "id": "world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
-        "title": "Ukraine war briefing: Russian attacks on substations are ‘nuclear terrorism’, says Ukraine",
-        "webUrl": "https://www.theguardian.com/world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine",
-        "trailText": "Ukrainian foreign ministry says deliberate strikes on civilian energy facilities violate international law as fears of a winter crisis grow. What we know on day 1,347",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-11-01T02:52:48Z"
-      },
-      {
-        "id": "world/2025/oct/30/ukraine-war-briefing-putin-boasts-of-nuclear-driven-torpedo-that-would-swamp-cities-with-radioactive-tsunami",
-        "title": "Ukraine war briefing: Putin boasts of nuclear-driven torpedo that would swamp cities with radioactive tsunami",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/30/ukraine-war-briefing-putin-boasts-of-nuclear-driven-torpedo-that-would-swamp-cities-with-radioactive-tsunami",
-        "trailText": "Russian president proclaims test of Poseidon which would launch from submarine and carry nuclear engine and warhead. What we know on day 1,345",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-30T02:02:06Z"
-      },
-      {
-        "id": "world/2025/oct/28/russian-drone-attacks-on-civilians-in-ukraine-are-war-crimes-un-report-concludes",
-        "title": "Russian drone attacks on civilians in Ukraine are war crimes, UN report concludes",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/28/russian-drone-attacks-on-civilians-in-ukraine-are-war-crimes-un-report-concludes",
-        "trailText": "Rights commission inquiry focused on south-east of country found drones targeted gathering points and critical infrastructure",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-28T12:42:44Z"
-      },
-      {
-        "id": "world/2025/oct/28/ukraine-war-briefing-russian-drones-hunt-civilians-in-against-humanity-un-inquiry-finds",
-        "title": "Ukraine war briefing: Russian drones hunt civilians in crime against humanity, UN inquiry finds",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/28/ukraine-war-briefing-russian-drones-hunt-civilians-in-against-humanity-un-inquiry-finds",
-        "trailText": "Ukraine strengthens Pokrovsk positions amid infiltration by estimated 200 Russian troops; Lukoil selling overseas assets after US sanctions. What we know on day 1,343",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-28T02:53:27Z"
-      },
-      {
-        "id": "world/2025/oct/23/ukraine-war-briefing-ukrainians-may-get-gripen-fighter-jets-bought-with-russian-money",
-        "title": "Ukraine war briefing: Ukrainians may get Gripen fighter jets bought with Russian money",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/23/ukraine-war-briefing-ukrainians-may-get-gripen-fighter-jets-bought-with-russian-money",
-        "trailText": "Double dose of Russian oil sanctions from EU and US; freezing war at current frontlines is ‘good compromise’, says Zelenskyy. What we know on day 1,338",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-23T02:05:55Z"
-      },
-      {
-        "id": "world/2025/oct/19/ukraine-war-briefing-repairs-begin-in-bid-to-restore-power-to-zaporizhzhia-nuclear-plant",
-        "title": "Ukraine war briefing: Repairs begin in bid to restore power to Zaporizhzhia nuclear plant",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/19/ukraine-war-briefing-repairs-begin-in-bid-to-restore-power-to-zaporizhzhia-nuclear-plant",
-        "trailText": "UN watchdog says Russia and Ukraine have established special ceasefire zones to allow the repairs to be safely carried out. What we know on day 1,334",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-19T00:53:54Z"
-      },
-      {
-        "id": "world/2025/oct/18/ukraine-war-briefing-zelenskyy-realistic-about-chances-of-tomahawk-missile-deal",
-        "title": "Ukraine war briefing: Zelenskyy ‘realistic’ about chances of Tomahawk missile deal",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/18/ukraine-war-briefing-zelenskyy-realistic-about-chances-of-tomahawk-missile-deal",
-        "trailText": "Ukraine president suggests after talks that the door may not be entirely closed on deal for US long-range missiles; Zelenskyy has ‘productive’ call with European leaders. What we know on day 1,333",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-18T02:47:52Z"
-      },
-      {
-        "id": "world/2025/oct/17/ukrainian-defenders-struggling-to-stem-russia-air-assault",
-        "title": "‘The key to success is in the sky’: the Ukrainian defenders struggling to stem Russia’s air assault",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/17/ukrainian-defenders-struggling-to-stem-russia-air-assault",
-        "trailText": "War in the air is becoming increasingly significant as conflict on the ground becomes bogged down",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-17T08:59:31Z"
-      },
-      {
-        "id": "world/2025/oct/16/zelenskyy-tomahawk-missiles-trump-putin-budapest",
-        "title": "Trump says he plans to meet Putin in Budapest as Zelenskyy prepares to make missiles case at White House",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/16/zelenskyy-tomahawk-missiles-trump-putin-budapest",
-        "trailText": "US president has repeatedly hinted at supplying Kyiv with Tomahawks but some in Moscow say Kremlin sees it as negotiating gambit",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-16T23:26:47Z"
-      },
-      {
-        "id": "world/2025/oct/15/ukraine-war-briefing-poland-minister-shows-shahed-drone-and-warns-of-deep-russian-threat",
-        "title": "Ukraine war briefing: Poland minister shows Shahed drone and warns of ‘deep’ Russian threat",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/15/ukraine-war-briefing-poland-minister-shows-shahed-drone-and-warns-of-deep-russian-threat",
-        "trailText": "Radosław Sikorski, speaking in London, urges drone wall and three-year plan to back Ukraine; Odesa mayor’s ‘citizenship suspended’. What we know on day 1,330",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-15T01:04:34Z"
-      },
-      {
-        "id": "world/2025/oct/14/ukraine-war-briefing-crimea-oil-refinery-burns-as-russia-feels-effects-on-fuel-supply",
-        "title": "Ukraine war briefing: Crimea oil depot burns as Russia feels effects on fuel supply",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/14/ukraine-war-briefing-crimea-oil-refinery-burns-as-russia-feels-effects-on-fuel-supply",
-        "trailText": "Glide bombs knock out power supply and hit hospital in Kharkiv; Zelenskyy lining up Trump meeting with Tomahawks hot topic. What we know on day 1,329",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-14T00:22:41Z"
-      },
-      {
-        "id": "world/2025/oct/13/ukraine-war-briefing-moscow-voices-extreme-concern-at-trump-threat-to-send-tomohawk-missiles-to-kyiv",
-        "title": "Ukraine war briefing: Moscow voices ‘extreme concern’ at Trump threat to send Tomahawk missiles to Kyiv",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/13/ukraine-war-briefing-moscow-voices-extreme-concern-at-trump-threat-to-send-tomohawk-missiles-to-kyiv",
-        "trailText": "US president says he may warn Russian counterpart ‘look, if this war is not going to get settled, I’m going to send them Tomahawks’. What we know on day 1,328",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-12T23:56:13Z"
-      },
-      {
-        "id": "world/2025/oct/11/zelenskyy-urges-trump-to-use-gaza-ceasefire-momentum-to-broker-peace-in-ukraine",
-        "title": "Zelenskyy urges Trump to use Gaza ceasefire momentum to broker peace in Ukraine",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/11/zelenskyy-urges-trump-to-use-gaza-ceasefire-momentum-to-broker-peace-in-ukraine",
-        "trailText": "Ukrainian leader discussed request for Tomahawk cruise missiles in phone call with US president",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-11T15:41:21Z"
-      },
-      {
-        "id": "world/2025/oct/11/how-ukraine-forces-attempt-claw-back-russian-advances-donetsk",
-        "title": "‘Our job is to maximise their losses’: how Ukraine’s forces attempt to claw back against Russian advances",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/11/how-ukraine-forces-attempt-claw-back-russian-advances-donetsk",
-        "trailText": "Along Donetsk’s frontline, a small counteroffensive by Ukrainian troops aims to help change perceptions about the war among Kyiv’s western allies",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-11T05:00:18Z"
-      },
-      {
-        "id": "world/2025/oct/11/ukraine-war-briefing-power-restored-to-kyiv-after-russia-drone-attacks",
-        "title": "Ukraine war briefing: Power restored to Kyiv after Russia drone attacks",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/11/ukraine-war-briefing-power-restored-to-kyiv-after-russia-drone-attacks",
-        "trailText": "Zelenskyy says attacks targeted energy infrastructure as winter looms; boy killed as drones and missiles hit Zaporizhzhia. What we know on day 1,326",
-        "relevanceScore": 90,
-        "section": "world",
-        "publishedDate": "2025-10-11T01:20:06Z"
-      },
-      {
-        "id": "business/2025/oct/23/oil-price-jumps-after-trump-imposes-sanctions-on-two-russian-producers-rosneft-lukoil",
-        "title": "Oil price jumps and FTSE 100 hits new high after Trump puts sanctions on Russian firms",
-        "webUrl": "https://www.theguardian.com/business/2025/oct/23/oil-price-jumps-after-trump-imposes-sanctions-on-two-russian-producers-rosneft-lukoil",
-        "trailText": "Assets in US belonging to Rosneft and Lukoil frozen as shares in Shell and BP rise by 3%",
-        "relevanceScore": 90,
-        "section": "business",
-        "publishedDate": "2025-10-23T14:11:07Z"
-      },
-      {
-        "id": "world/2025/oct/25/ukraine-war-briefing-zelenskyy-urges-us-to-expand-russia-oil-sanctions",
-        "title": "Ukraine war briefing: Zelenskyy urges US to expand Russia oil sanctions",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/25/ukraine-war-briefing-zelenskyy-urges-us-to-expand-russia-oil-sanctions",
-        "trailText": "At a meeting with European leaders, the Ukrainian president also discusses the supply of long-range missiles. What we know on day 1,340",
-        "relevanceScore": 88,
-        "section": "world",
-        "publishedDate": "2025-10-25T00:17:36Z"
-      },
-      {
-        "id": "world/2025/oct/22/this-is-europe-coalition-of-the-willing-reparations-loan",
-        "title": "As the US flip-flops on the path to peace, Europe’s ‘coalition of the willing’ rallies round Ukraine",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/22/this-is-europe-coalition-of-the-willing-reparations-loan",
-        "trailText": "From unanimity on a reparations loan to the unpredictability of Trump, EU leaders will gather this week with agreement on ending the war still fraught with hurdles",
-        "relevanceScore": 88,
-        "section": "world",
-        "publishedDate": "2025-10-22T14:30:11Z"
-      },
-      {
-        "id": "world/2025/oct/17/trump-putin-phone-call-sinks-kyiv-ukraine-hopes-for-us-tomahawk-missiles",
-        "title": "Trump downplays hopes he will supply Ukraine with US missiles after meeting with Zelenskyy",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/17/trump-putin-phone-call-sinks-kyiv-ukraine-hopes-for-us-tomahawk-missiles",
-        "trailText": "US president seemed more intent on brokering a peace deal after surprise phone call with Putin earlier in day",
-        "relevanceScore": 88,
-        "section": "world",
-        "publishedDate": "2025-10-17T19:08:55Z"
-      },
-      {
-        "id": "world/2025/oct/17/ukraine-war-briefing-putin-back-in-trumps-ear-as-soon-as-tomahawks-came-up-says-zelenskyy",
-        "title": "Ukraine war briefing: Putin back in Trump’s ear as soon as Tomahawks came up, says Zelenskyy",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/17/ukraine-war-briefing-putin-back-in-trumps-ear-as-soon-as-tomahawks-came-up-says-zelenskyy",
-        "trailText": "US president reveals plan to meet Russian ruler again as Ukrainian president visits Washington; EU’s fuel importers will have to prove it’s not Russian. What we know on day 1,332",
-        "relevanceScore": 88,
-        "section": "world",
-        "publishedDate": "2025-10-17T00:36:47Z"
-      },
-      {
-        "id": "world/2025/oct/31/ukraine-war-briefing-british-ex-soldier-arrested-in-kyiv-and-accused-of-spying-for-russia",
-        "title": "Ukraine war briefing: British ex-soldier arrested in Kyiv and accused of spying for Russia",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/31/ukraine-war-briefing-british-ex-soldier-arrested-in-kyiv-and-accused-of-spying-for-russia",
-        "trailText": "Prosecutors allege man was conducting training for Ukraine’s army when he was recruited by the FSB, Moscow’s spy bureau. What we know on day 1,346",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-31T07:00:26Z"
-      },
-      {
-        "id": "world/2025/oct/30/russian-army-chiefs-torturing-and-executing-soldiers-who-refuse-to-fight-in-ukraine-report-says",
-        "title": "Russian army chiefs torturing and executing soldiers who refuse to fight in Ukraine, report says",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/30/russian-army-chiefs-torturing-and-executing-soldiers-who-refuse-to-fight-in-ukraine-report-says",
-        "trailText": "Investigation lists 101 superiors accused of tactics such as using drones to ‘finish’ off retreating troops and sending soldiers on death missions",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-30T10:45:36Z"
-      },
-      {
-        "id": "world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running",
-        "title": "Ukraine war briefing: Moscow under drone siege for third night running",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running",
-        "trailText": "EU edges towards using ‘reparations loan’ using Russian frozen assets; Kremlin pressing ahead with year-round conscription. What we know on day 1,344",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-29T01:47:04Z"
-      },
-      {
-        "id": "world/2025/oct/27/ukraine-war-briefing-russian-claims-test-of-nuclear-powered-missile-known-as-flying-chornobyl",
-        "title": "Ukraine war briefing: Russia claims test of nuclear-powered missile condemned as ‘flying Chornobyl’",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/27/ukraine-war-briefing-russian-claims-test-of-nuclear-powered-missile-known-as-flying-chornobyl",
-        "trailText": "Burevestnik stayed in air for 15 hours, defence minister tells Vladimir Putin; Ukrainian drones close Moscow airports. What we know on day 1,342",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-27T02:42:52Z"
-      },
-      {
-        "id": "world/2025/oct/26/ukraine-war-briefing-us-reportedly-mulling-further-sanctions-on-russia-that-could-hit-banking-sector",
-        "title": "Ukraine war briefing: US reportedly mulling further sanctions on Russia that could hit banking sector",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/26/ukraine-war-briefing-us-reportedly-mulling-further-sanctions-on-russia-that-could-hit-banking-sector",
-        "trailText": "Trump said he would not schedule any talks with Putin unless it was clear that the Russian leader was serious about ending the war. What we know on day 1,341",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-26T00:22:27Z"
-      },
-      {
-        "id": "world/2025/oct/23/eu-has-a-plan-to-use-frozen-russian-assets-to-fund-ukraine-how-will-it-work",
-        "title": "EU has a plan to use frozen Russian assets to fund Ukraine – how will it work?",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/23/eu-has-a-plan-to-use-frozen-russian-assets-to-fund-ukraine-how-will-it-work",
-        "trailText": "What are the legal implications, and why does Belgium fear being left alone with the bill?",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-23T10:30:24Z"
-      },
-      {
-        "id": "world/2025/oct/22/zelenskyy-calls-trumps-proposal-to-freeze-war-at-current-frontlines-good-compromise",
-        "title": "Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/22/zelenskyy-calls-trumps-proposal-to-freeze-war-at-current-frontlines-good-compromise",
-        "trailText": "US president’s remark seen as modest win for Ukrainian leader, who acknowledges Russia will not accept proposal",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-22T15:42:28Z"
-      },
-      {
-        "id": "world/2025/oct/21/ukraine-war-briefing-zelenskyy-paints-trump-meeting-as-positive-with-patriot-missile-deal-in-works",
-        "title": "Ukraine war briefing: Zelenskyy paints Trump meeting as ‘positive’, with Patriot missile deal in works",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/21/ukraine-war-briefing-zelenskyy-paints-trump-meeting-as-positive-with-patriot-missile-deal-in-works",
-        "trailText": "Zelenskyy’s comments are in contrast to reports that Trump berated the Ukrainian leader and pushed him to concede territory to Russia. What we know on day 1,336",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-21T00:26:12Z"
-      },
-      {
-        "id": "world/2025/oct/20/monday-briefing-new-levels-of-misery-for-ukraines-soldiers-as-diplomatic-wrangling-drags-on",
-        "title": "Monday briefing: ‘New levels of misery’ for Ukraine’s soldiers as diplomatic wrangling drags on",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/20/monday-briefing-new-levels-of-misery-for-ukraines-soldiers-as-diplomatic-wrangling-drags-on",
-        "trailText": "In today’s newsletter: Trump’s stance on the war continues to oscillate while Zelenskyy’s infantry face gruelling stints at the ‘zero line’ amid increasingly lethal Russian attacks",
-        "relevanceScore": 85,
-        "section": "world",
-        "publishedDate": "2025-10-20T05:24:17Z"
+        "id": "environment/2025/oct/20/germany-dash-for-gas-climate-targets-wadden-sea",
+        "title": "‘A punch in the face’: Germany’s dash for gas raises questions over climate targets",
+        "webUrl": "https://www.theguardian.com/environment/2025/oct/20/germany-dash-for-gas-climate-targets-wadden-sea",
+        "trailText": "Plans for a fossil fuel project in Wadden Sea nature reserve have angered local people and campaigners, as political enthusiasm for renewables wanes",
+        "relevanceScore": 95,
+        "section": "environment",
+        "publishedDate": "2025-10-20T15:00:16Z"
       },
       {
         "id": "world/2025/oct/20/european-leaders-near-deal-to-use-frozen-russian-assets-for-ukraine",
         "title": "European leaders near deal to use frozen Russian assets for Ukraine",
         "webUrl": "https://www.theguardian.com/world/2025/oct/20/european-leaders-near-deal-to-use-frozen-russian-assets-for-ukraine",
         "trailText": "Plans to secure loan with Russian funds ‘moving to happy resolution’, says Polish foreign minister",
-        "relevanceScore": 85,
+        "relevanceScore": 92,
         "section": "world",
         "publishedDate": "2025-10-20T04:00:33Z"
       },
       {
-        "id": "world/2025/oct/20/ukraine-war-briefing-energy-war-continues-with-strikes-on-russian-oil-and-gas-plants",
-        "title": "Ukraine war briefing: Energy war continues with strikes on Russian oil and gas plants",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/20/ukraine-war-briefing-energy-war-continues-with-strikes-on-russian-oil-and-gas-plants",
-        "trailText": "Russian attacks hit coal mine in Dnipropetrovsk region and Chernihiv power grid; Trump flips back to accommodating Putin. What we know on day 1,335",
-        "relevanceScore": 85,
+        "id": "world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk",
+        "title": "Ukraine war briefing: Zelenskyy visits troops near embattled Pokrovsk ",
+        "webUrl": "https://www.theguardian.com/world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk",
+        "trailText": "Deep Ukrainian drone strikes hit petrochemical plant 1,300km inside Russia and Lukoil refinery east of Moscow. What we know on day 1,351",
+        "relevanceScore": 90,
         "section": "world",
-        "publishedDate": "2025-10-20T01:32:13Z"
+        "publishedDate": "2025-11-05T01:52:57Z"
       },
       {
-        "id": "world/2025/oct/17/what-are-tomahawk-missiles-and-why-does-ukraine-want-them",
-        "title": "What are Tomahawk missiles and why does Ukraine want them?",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/17/what-are-tomahawk-missiles-and-why-does-ukraine-want-them",
-        "trailText": "Ukraine argues missiles would compel Russia to take Donald Trump’s calls for negotiations to end war more seriously",
-        "relevanceScore": 85,
+        "id": "world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running",
+        "title": "Ukraine war briefing: Moscow under drone siege for third night running",
+        "webUrl": "https://www.theguardian.com/world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running",
+        "trailText": "EU edges towards using ‘reparations loan’ using Russian frozen assets; Kremlin pressing ahead with year-round conscription. What we know on day 1,344",
+        "relevanceScore": 90,
         "section": "world",
-        "publishedDate": "2025-10-17T12:34:46Z"
+        "publishedDate": "2025-10-29T01:47:04Z"
       },
       {
-        "id": "world/2025/oct/10/ukraine-war-briefing-23-children-and-adolescents-brought-out-of-russian-occupied-areas",
-        "title": "Ukraine war briefing: 23 children and adolescents brought out of Russian-occupied areas",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/10/ukraine-war-briefing-23-children-and-adolescents-brought-out-of-russian-occupied-areas",
-        "trailText": "Rescue carried out under the president’s ‘Bring Kids Back UA’ programme; power cut in capital and several injured - What we know on day 1,325",
-        "relevanceScore": 85,
+        "id": "world/2025/oct/26/ukraine-war-briefing-us-reportedly-mulling-further-sanctions-on-russia-that-could-hit-banking-sector",
+        "title": "Ukraine war briefing: US reportedly mulling further sanctions on Russia that could hit banking sector",
+        "webUrl": "https://www.theguardian.com/world/2025/oct/26/ukraine-war-briefing-us-reportedly-mulling-further-sanctions-on-russia-that-could-hit-banking-sector",
+        "trailText": "Trump said he would not schedule any talks with Putin unless it was clear that the Russian leader was serious about ending the war. What we know on day 1,341",
+        "relevanceScore": 90,
         "section": "world",
-        "publishedDate": "2025-10-09T23:50:25Z"
+        "publishedDate": "2025-10-26T00:22:27Z"
       },
       {
-        "id": "world/2025/oct/22/ukraine-war-briefing-storm-shadow-missiles-hit-gunpowder-plant-in-russia",
-        "title": "Ukraine war briefing: Storm Shadow missiles ‘hit gunpowder plant in Russia’",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/22/ukraine-war-briefing-storm-shadow-missiles-hit-gunpowder-plant-in-russia",
-        "trailText": "Russians confirm attack on Bryansk region home to explosives factory; Trump-Putin talks shelved, US diplomacy ‘going in circles’. What we know on day 1,337",
-        "relevanceScore": 82,
+        "id": "world/2025/oct/24/zelenskyy-ukraine-russia-london-meeting-european-leaders",
+        "title": "Ukraine wants US to stay involved, says Zelenskyy after meeting western allies",
+        "webUrl": "https://www.theguardian.com/world/2025/oct/24/zelenskyy-ukraine-russia-london-meeting-european-leaders",
+        "trailText": "Ukrainian leader joined ‘coalition of the willing’ in London to discuss how to ramp up pressure on Russia",
+        "relevanceScore": 90,
         "section": "world",
-        "publishedDate": "2025-10-22T01:06:39Z"
-      },
-      {
-        "id": "world/2025/oct/23/latest-eu-sanctions-against-russia-target-liquified-natural-gas",
-        "title": "Latest EU sanctions against Russia target liquefied natural gas",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/23/latest-eu-sanctions-against-russia-target-liquified-natural-gas",
-        "trailText": "Measures also add 117 shadow fleet vessels to list of those suspected of illegal oil shipments and banned from ports",
-        "relevanceScore": 80,
-        "section": "world",
-        "publishedDate": "2025-10-23T10:29:39Z"
-      },
-      {
-        "id": "world/2025/oct/22/kyiv-russian-missile-drone-strike-attack-people-killed",
-        "title": "Children among six killed in Kyiv after Russian missile and drone attack",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/22/kyiv-russian-missile-drone-strike-attack-people-killed",
-        "trailText": "Strikes, involving over 400 drones and 28 missiles, launched hours after Putin-Trump meeting in Budapest cancelled",
-        "relevanceScore": 80,
-        "section": "world",
-        "publishedDate": "2025-10-22T11:03:45Z"
-      },
-      {
-        "id": "world/2025/oct/20/zelenskyy-calls-for-more-us-patriot-air-defences-after-trump-again-sides-with-putin",
-        "title": "Zelenskyy to visit London for talks before expected Trump-Putin summit",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/20/zelenskyy-calls-for-more-us-patriot-air-defences-after-trump-again-sides-with-putin",
-        "trailText": "Ukrainian president will seek to win security guarantees at ‘coalition of the willing’ meeting before any US-Russia talks",
-        "relevanceScore": 80,
-        "section": "world",
-        "publishedDate": "2025-10-20T17:15:14Z"
-      },
-      {
-        "id": "world/2025/oct/20/trump-zelenskyy-ukraine-donbas-region-end-russia-invasion",
-        "title": "Trump suggests carving up Ukraine’s Donbas region to end war after meeting with Zelenskyy",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/20/trump-zelenskyy-ukraine-donbas-region-end-russia-invasion",
-        "trailText": "Trump made the comments after a tense meeting with Zelenskyy in which the Ukraine leader failed to secure supplies of Tomahawk missiles",
-        "relevanceScore": 80,
-        "section": "world",
-        "publishedDate": "2025-10-20T03:30:48Z"
-      },
-      {
-        "id": "world/2025/oct/15/russian-drone-incursion-tactically-stupid-and-counterproductive-says-polish-minister",
-        "title": "Russian drone incursion ‘tactically stupid and counterproductive’ says Polish minister",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/15/russian-drone-incursion-tactically-stupid-and-counterproductive-says-polish-minister",
-        "trailText": "Poland’s foreign minister, Radek Sikorski, has said that Vladimir Putin had consolidated western opinion against him with the incursion",
-        "relevanceScore": 80,
-        "section": "world",
-        "publishedDate": "2025-10-15T16:03:14Z"
-      },
-      {
-        "id": "world/2025/nov/03/ukrainian-computer-game-style-drone-attack-system-goes-viral",
-        "title": "Ukrainian computer game-style drone attack system goes ‘viral’",
-        "webUrl": "https://www.theguardian.com/world/2025/nov/03/ukrainian-computer-game-style-drone-attack-system-goes-viral",
-        "trailText": "System rewards soldiers who achieve strikes with points that can be used to buy more weapons in an online store",
-        "relevanceScore": 75,
-        "section": "world",
-        "publishedDate": "2025-11-03T05:00:25Z"
-      },
-      {
-        "id": "world/2025/oct/23/drones-ukraine-wildfires-russia-heat-mines-shelling",
-        "title": "Wildfires have consumed vast chunks of Ukraine. Is Russia deliberately fuelling the flames?",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/23/drones-ukraine-wildfires-russia-heat-mines-shelling",
-        "trailText": "In 2024, nearly a million hectares of Ukraine’s land burned. Heat, mines and shelling contributed, but footage of drones targeting firefighters has raised the question of war crimes",
-        "relevanceScore": 75,
-        "section": "world",
-        "publishedDate": "2025-10-23T04:00:57Z"
-      },
-      {
-        "id": "world/2025/oct/16/russian-cyber-attacks-against-nato-states-up-by-25-in-a-year-analysis-finds",
-        "title": "Russian cyber-attacks against Nato states up by 25% in a year, analysis finds",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/16/russian-cyber-attacks-against-nato-states-up-by-25-in-a-year-analysis-finds",
-        "trailText": "Microsoft report says sector most targeted by Russian state cyber-activity was government amid warnings of Kremlin’s ‘hybrid warfare’",
-        "relevanceScore": 75,
-        "section": "world",
-        "publishedDate": "2025-10-16T14:44:29Z"
-      },
-      {
-        "id": "world/2025/oct/30/ukraine-women-wartime-wives-mothers-fighters-activists",
-        "title": "Wives, mothers, fighters, activists: the millennial women keeping Ukraine going ",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/30/ukraine-women-wartime-wives-mothers-fighters-activists",
-        "trailText": "Born into an independent Ukraine, the lives of these young women changed for ever when Russia invaded their country, forcing them to shoulder huge burdens of responsibility",
-        "relevanceScore": 70,
-        "section": "world",
-        "publishedDate": "2025-10-30T05:00:52Z"
-      },
-      {
-        "id": "world/2025/oct/27/russia-cruise-missile-test-trump-putin",
-        "title": "Trump describes Russia’s new cruise missile test as ‘not appropriate’",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/27/russia-cruise-missile-test-trump-putin",
-        "trailText": "US president says Vladimir Putin should focus on ending war with Ukraine rather than testing missiles",
-        "relevanceScore": 70,
-        "section": "world",
-        "publishedDate": "2025-10-27T11:36:29Z"
-      },
-      {
-        "id": "world/2025/oct/20/i-was-doing-nothing-at-home-the-chinese-nationals-fighting-for-ukraine",
-        "title": "‘I wanted to do something more meaningful’: the Chinese nationals fighting for Ukraine",
-        "webUrl": "https://www.theguardian.com/world/2025/oct/20/i-was-doing-nothing-at-home-the-chinese-nationals-fighting-for-ukraine",
-        "trailText": "Volunteers defy their government and public opinion in China to risk their lives for an adversary of Beijing’s main geopolitical partner",
-        "relevanceScore": 70,
-        "section": "world",
-        "publishedDate": "2025-10-20T14:50:30Z"
+        "publishedDate": "2025-10-24T17:42:38Z"
       }
     ],
-    "articleCount": 54,
-    "lastUpdated": "2025-11-05T16:17:13.262Z"
+    "articleCount": 10,
+    "lastUpdated": "2025-11-06T12:58:09.143Z"
   },
   {
     "userId": "akashadroitsingh",
