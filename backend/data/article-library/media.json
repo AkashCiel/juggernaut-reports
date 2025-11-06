@@ -1,37 +1,73 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2025-11-05T03:39:36.151Z",
+    "generated_at": "2025-11-06T03:34:17.973Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-05"
     },
-    "article_count": 76,
+    "article_count": 79,
     "merge_info": {
-      "previous_count": 74,
-      "new_articles": 2,
-      "updated_articles": 7,
-      "total_count": 76
+      "previous_count": 76,
+      "new_articles": 3,
+      "updated_articles": 4,
+      "total_count": 79
     },
     "batch_info": {
-      "initial_batch_id": "batch_690ac5fd99548190989ba59c08003554",
+      "initial_batch_id": "batch_690c16ac28d48190b6aa44e306b53d05",
       "retry_batches": [],
-      "total_tokens": 17204,
-      "processing_time_hours": 0.1
+      "total_tokens": 14356,
+      "processing_time_hours": 0
     }
   },
   "articles": [
     {
+      "id": "media/commentisfree/2025/nov/06/reddit-downvote-australia-social-media-ban",
+      "title": "From AusLegal to AmItheAsshole: why I’m downvoting the social media ban on Reddit | Deirdre Fidge",
+      "webUrl": "https://www.theguardian.com/media/commentisfree/2025/nov/06/reddit-downvote-australia-social-media-ban",
+      "apiUrl": "https://content.guardianapis.com/media/commentisfree/2025/nov/06/reddit-downvote-australia-social-media-ban",
+      "section": "media",
+      "publishedDate": "2025-11-05T23:03:02Z",
+      "trailText": "We know young people are dancing on Tik Tok, and doing whatever the hell is happening on Kick, but my sympathies are with those about to be booted off Reddit",
+      "summary": "Deirdre Fidge critiques Australia’s upcoming under-16 social media ban expanding to include Reddit alongside Facebook, Instagram, X, Snapchat and Kick. She highlights Reddit’s diverse, text-based “subreddits”—from AITA jokes to AusLegal and Centrelink forums—where 23-year-old average users, many teens, find support, legal advice and queer community. While protecting youth from online harms, the ban risks shutting them out of safe spaces. Fidge warns prohibition breeds circumvention—bootleg platforms, fake ages or sibling accounts—and questions whether the policy will backfire.",
+      "summaryTokens": 875,
+      "generatedAt": "2025-11-06T03:34:17.817Z"
+    },
+    {
+      "id": "media/2025/nov/05/cnn-election-night-all-access-streaming",
+      "title": "CNN’s All Access election night ‘watch party’ might not be the network’s future",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/05/cnn-election-night-all-access-streaming",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/05/cnn-election-night-all-access-streaming",
+      "section": "media",
+      "publishedDate": "2025-11-05T19:58:29Z",
+      "trailText": "Its subscriber-only election special, aiming to make politics fun and fresh, instead felt offbeat and out of touch",
+      "summary": "CNN’s $6.99 All Access streaming service debuted an election-night “watch party” livecast hosted by Harry Enten with Ben Shapiro, Charlamagne tha God, Ana Kasparian and Isabel Brown. Filmed in a game-room set with couches and arcade tables, it infrequently relayed real-time results—subscribers learned of Zohran Mamdani’s NYC mayor victory late—and panelists stayed seated until a final, unenthusiastic pop-a-shot challenge. A shared critique of Biden and doubts about Mamdani revealed limited ideological variety. The offbeat, under-utilized format felt out of touch, driving Enten back to CNN’s main broadcast for analysis.",
+      "summaryTokens": 692,
+      "generatedAt": "2025-11-06T03:34:17.817Z"
+    },
+    {
+      "id": "media/2025/nov/05/bbc-must-change-or-be-a-titanic-the-sidemen-youtubers-manager-jordan-schwarzenberger",
+      "title": "BBC must change or be ‘a Titanic’, says manager of the Sidemen YouTubers ",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/05/bbc-must-change-or-be-a-titanic-the-sidemen-youtubers-manager-jordan-schwarzenberger",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/05/bbc-must-change-or-be-a-titanic-the-sidemen-youtubers-manager-jordan-schwarzenberger",
+      "section": "media",
+      "publishedDate": "2025-11-05T14:00:27Z",
+      "trailText": "Jordan Schwarzenberger says BBC is becoming irrelevant to gen Z and risks crashing unless it attracts younger viewers",
+      "summary": "Jordan Schwarzenberger, manager of YouTube collective the Sidemen (100 million subscribers), warns the BBC risks becoming “the Titanic” of media—irrelevant to Gen Z—unless it embraces a radical shift to digital-first distribution and invests in next-gen creators. He criticises broadcasters’ “defeatist” push for enforced prominence on YouTube instead of adapting to pre-TikTok/post-TikTok consumption habits, highlighting a disconnect between executives and youth. Schwarzenberger urges leaning into platforms and formats young viewers prefer, rather than protecting traditional shows, to regain relevance and justify the licence fee.",
+      "summaryTokens": 1208,
+      "generatedAt": "2025-11-06T03:34:17.817Z"
+    },
+    {
       "id": "australia-news/2025/nov/04/reddit-included-australia-under-16-social-media-ban",
-      "title": "Reddit targeted by Australia’s under-16s social media ban as ‘dynamic’ list of online services grows",
+      "title": "Reddit added to Australia’s under-16s social media ban as ‘dynamic’ list of online services grows",
       "webUrl": "https://www.theguardian.com/australia-news/2025/nov/04/reddit-included-australia-under-16-social-media-ban",
       "apiUrl": "https://content.guardianapis.com/australia-news/2025/nov/04/reddit-included-australia-under-16-social-media-ban",
       "section": "media",
       "publishedDate": "2025-11-05T01:02:48Z",
       "trailText": "Popular platform added to list of companies required to restrict access for children, along with video streaming site Kick",
-      "summary": "Australia’s social media ban for under-16s, effective Dec 10, now includes Reddit and streaming site Kick alongside Facebook, Snapchat, Instagram, X, YouTube and TikTok. The federal eSafety commissioner says this “dynamic list” could expand to platforms like Roblox, Discord, OpenAI’s Sora and Bluesky, with companies expected to self-assess compliance or incur fines up to A$49.5 m. Critics warn late additions risk confusing users, while ministers pledge robust age-verification and monitoring of user migration across services.",
-      "summaryTokens": 543,
-      "generatedAt": "2025-11-05T03:39:36.000Z"
+      "summary": "From 10 December Australia will require Reddit and Kick to block users under 16 under a ‘dynamic list’ expanding its social media ban beyond Facebook, Snapchat, Instagram, X, YouTube and TikTok. Communications minister Anika Wells and eSafety commissioner Julie Inman Grant said platforms face up to A$49.5m fines if they fail to self-assess and enforce age checks. Roblox, Discord, OpenAI’s Sora, Steam and Bluesky are being monitored for future inclusion, sparking Coalition warnings over late changes, age-verification hurdles and digital ID concerns.",
+      "summaryTokens": 1060,
+      "generatedAt": "2025-11-06T03:34:17.817Z"
     },
     {
       "id": "media/2025/nov/04/tell-us-what-90s-dance-track-would-you-gift-to-your-teenager",
@@ -41,9 +77,9 @@
       "section": "media",
       "publishedDate": "2025-11-04T11:19:47Z",
       "trailText": "The John Lewis Christmas ad boy buys his dad a vinyl copy of the house track Where Love Lives by Alison Limerick. But what would be your choice?",
-      "summary": "In its new Christmas ad, John Lewis shows a boy buying his dad a vinyl of Alison Limerick’s 1990 house hit “Where Love Lives.” The retailer then asks readers to share the 90s club or dance track they’d gift to a teenager today, inviting personal stories and photos through an on-page submission form. Participants are prompted to check the site’s terms of service and privacy policy before sending entries, with a troubleshooting link for form issues. The initiative seeks to combine nostalgia and intergenerational connection by crowdsourcing iconic 90s anthems.",
-      "summaryTokens": 1446,
-      "generatedAt": "2025-11-05T03:39:36.000Z"
+      "summary": "In its 2025 Christmas advert, John Lewis features a boy gifting his father a vinyl of Alison Limerick’s 1990 house hit “Where Love Lives.” Noting that music lovers might choose different anthems, the Guardian invites readers to nominate the 90s club track they’d gift to a teenager in their family, sharing personal stories and photos. The community callout closed on 5 November 2025, with respondents’ picks published in a follow-up article. Readers can still join future calls via the Community callouts or Share a story pages.",
+      "summaryTokens": 492,
+      "generatedAt": "2025-11-06T03:34:17.817Z"
     },
     {
       "id": "media/2025/nov/04/bbc-kingdom-series-tv-drama-techniques-david-attenborough",
@@ -53,9 +89,9 @@
       "section": "media",
       "publishedDate": "2025-11-04T00:01:13Z",
       "trailText": "New David Attenborough show’s use of drones and moving cameras creates immersive experience like Adolescence",
-      "summary": "BBC’s new six-part natural history series Kingdom uses TV-drama techniques—moving cameras, silent “flying cinematographer” drones and cliffhanger endings—to immerse viewers on a Zambian riverbank. Over five years, the BBC Studios NHU tracked lions, leopards, wild dogs and hyenas, revealing how the arrival of a wild-dog pack shifts each species’ fortunes. Innovations include light-sensitive cameras for extra shooting hours, a solar-powered base camp and character-driven storylines (notably Flint, a three-legged hound). Narrated by David Attenborough, Kingdom aims to set a new gold standard in immersive wildlife filmmaking.",
-      "summaryTokens": 633,
-      "generatedAt": "2025-11-05T03:39:36.000Z"
+      "summary": "BBC’s six-part natural history series Kingdom follows four predator families—lions, leopards, wild dogs and hyenas—around a Zambian river, documenting their ecological interplay when wild dogs encroach. Producers deploy small, quiet 'flying cinematographer' drones and vehicle-mounted moving cameras to capture continuous, intimate footage, mimicking drama conventions like cliffhangers and dynamic shots popularised by shows such as Netflix’s Adolescence. Innovations include light-sensitive rigs for longer shoots, a solar-powered base camp, and five years of on-site filming. Executive producer Mike Gunton and series producer Felicity Lanchester tout a new \"gold standard\" in immersive wildlife storytelling, underpinned by David Attenborough’s reassuring narration.",
+      "summaryTokens": 1475,
+      "generatedAt": "2025-11-06T03:34:17.817Z"
     },
     {
       "id": "media/2025/nov/04/john-lewis-christmas-advert-countdown-90s-club-classic-where-love-lives",
@@ -65,9 +101,9 @@
       "section": "media",
       "publishedDate": "2025-11-04T00:01:13Z",
       "trailText": "Department store chain banks on nostalgia to get customers into festive mood with Where Love Lives",
-      "summary": "John Lewis kicks off Christmas on Nov 4 with its 2025 advert set to Alison Limerick’s 1990s club hit “Where Love Lives,” reimagined by Labrinth. Created by Saatchi & Saatchi, the film forgoes cute characters to show a middle-aged dad transported back to the dancefloor when his teenage son gifts him a vinyl record. Launching 10 days earlier than last year alongside an online shop open since August, a £14.99 limited-edition record will raise funds for the partnership’s Building Happier Futures care programme. Amid rising festive ad spend and rivals’ early campaigns, the spot underscores nostalgia, family bonds and shifting retail marketing trends.",
-      "summaryTokens": 518,
-      "generatedAt": "2025-11-05T03:39:36.000Z"
+      "summary": "John Lewis has launched its 2025 Christmas advert – 10 days earlier than last year – to the 1990s club hit “Where Love Lives” by Alison Limerick, remixed by Labrinth. Created by Saatchi & Saatchi, the spot follows a middle-aged dad who rediscovers his youth after his son gifts him a vinyl record, underlining family bonds over cute characters. A limited edition £14.99 vinyl, sold via Rough Trade sections and its app, supports the Partnership’s Building Happier Futures programme. The campaign debuts to loyalty members, on YouTube and during The Great British Bake Off finale as retailers vie for early festive spend amid rising ad budgets.",
+      "summaryTokens": 1159,
+      "generatedAt": "2025-11-06T03:34:17.817Z"
     },
     {
       "id": "media/2025/nov/03/david-gow-former-guardian-germany-correspondent-dies",
