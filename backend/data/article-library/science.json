@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-05T03:52:00.327Z",
+    "generated_at": "2025-11-06T03:49:10.085Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-05"
+      "to": "2025-11-06"
     },
-    "article_count": 82,
+    "article_count": 84,
     "merge_info": {
-      "previous_count": 80,
+      "previous_count": 82,
       "new_articles": 2,
-      "updated_articles": 1,
-      "total_count": 82
+      "updated_articles": 2,
+      "total_count": 84
     },
     "batch_info": {
-      "initial_batch_id": "batch_690ac93c6fb08190937c6f628b792ef8",
+      "initial_batch_id": "batch_690c1a1217e8819098fc9e3378369bfe",
       "retry_batches": [],
-      "total_tokens": 4203,
+      "total_tokens": 7782,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/06/universe-expansion-slowing-not-accelerating-nobel-prize",
+      "title": "Universe expansion may be slowing, not accelerating, study suggests",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/06/universe-expansion-slowing-not-accelerating-nobel-prize",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/06/universe-expansion-slowing-not-accelerating-nobel-prize",
+      "section": "science",
+      "publishedDate": "2025-11-06T00:01:38Z",
+      "trailText": "Astronomers cast doubt on Nobel prize-winning theory and suggest universe could end in ‘big crunch’",
+      "summary": "A new study led by Prof Young-Wook Lee re-evaluates Type Ia supernova data, finding host-galaxy age biases yield fainter early supernovae. Correcting for this, the universe shows decelerating expansion and a time-varying dark energy that may become negative, pointing to a potential ‘big crunch’ rather than eternal acceleration. These findings challenge the 2011 Nobel-winning dark energy paradigm, echoing similar results from the Desi consortium. Published in MNRAS, the work sparks a fierce debate over cosmic fate and dark energy’s nature.",
+      "summaryTokens": 802,
+      "generatedAt": "2025-11-06T03:49:09.845Z"
+    },
+    {
+      "id": "science/2025/nov/05/archaeologists-discover-how-oldest-american-civilisation-survived-a-climate-catastrophe",
+      "title": "Archaeologists discover how oldest American civilisation survived a climate catastrophe",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/05/archaeologists-discover-how-oldest-american-civilisation-survived-a-climate-catastrophe",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/05/archaeologists-discover-how-oldest-american-civilisation-survived-a-climate-catastrophe",
+      "section": "science",
+      "publishedDate": "2025-11-05T13:50:37Z",
+      "trailText": "Experts find artefacts left behind in Caral showing how population survived drought without resorting to violence",
+      "summary": "Archaeologists led by Ruth Shady reveal that 4,200 years ago, Caral’s inhabitants survived a severe drought by abandoning their city and founding two peaceful settlements, Vichama on the coast and Peñico inland. They transported decorative pyramid-building techniques and left three-dimensional friezes depicting famine victims, pregnant women, fish, toads symbolizing water’s return, and anthropomorphic seed figures. Excavations show extensive trade networks, gender parity, shamans’ use of exotic fauna, and an ideological structure free of violence, illustrating resilience and adaptation to climate crisis.",
+      "summaryTokens": 810,
+      "generatedAt": "2025-11-06T03:49:09.845Z"
+    },
     {
       "id": "science/2025/nov/05/ai-research-super-recognisers-identify-faces",
       "title": "AI study gives insights into why super-recognisers excel at identifying faces",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-05T00:01:12Z",
       "trailText": "Research uses eye-tracking data to examine some people’s extraordinary recognition ability",
-      "summary": "Researchers at UNSW Sydney used eye-tracking data from 37 super-recognisers and 68 typical recognisers to reconstruct participants’ retinal glimpses of faces, feeding these partial views into deep neural networks. The AI’s recognition accuracy was highest with super-recogniser data, not merely because they looked at more regions but because they fixated on identity-rich features. Findings suggest superior face recognition arises from smarter sampling of facial information. Experts note the need for dynamic real-world validation, and a free UNSW test can identify super-recognisers.",
-      "summaryTokens": 664,
-      "generatedAt": "2025-11-05T03:52:00.167Z"
+      "summary": "Using eye-tracking data from 37 super-recognisers and 68 typical observers, researchers reconstructed the retinal information participants gathered when viewing faces. They fed these glimpses into deep neural networks trained for face recognition, comparing performance at varied visibility levels. Networks achieved consistently higher accuracy with super-recogniser data, even when sampling area was equal, indicating super-recognisers select regions richer in identity cues. The study implies exceptional face recognition arises from smarter visual sampling rather than just quantity. Training replicable tactics remains unproven. A free UNSW Face Test is available.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-11-06T03:49:09.845Z"
     },
     {
       "id": "science/2025/nov/04/trump-jared-isaacman-nasa",
@@ -41,9 +65,9 @@
       "section": "science",
       "publishedDate": "2025-11-04T23:18:49Z",
       "trailText": "President withdrew Jared Isaacman’s nomination in May but says on Truth Social he is ‘ideally suited’ for top role",
-      "summary": "Trump renominated billionaire private astronaut and Musk ally Jared Isaacman as NASA administrator after withdrawing his May bid. Announced on Truth Social, he praised acting chief Sean Duffy’s “incredible job” and called Isaacman “ideally suited” to lead the agency. Ex-Shift4 CEO Isaacman, philanthropist and early SpaceX customer, has strong industry backing but faces congressional scrutiny over Musk ties and past Democratic donations. In April hearings he supported both moon- and Mars-focused goals. He vows to inspire NASA’s workforce and partners, accelerate exploration, and usher in a bold new era in space.",
-      "summaryTokens": 610,
-      "generatedAt": "2025-11-05T03:52:00.167Z"
+      "summary": "Trump has renominated private astronaut and billionaire Jared Isaacman to lead NASA after withdrawing his May nomination amid concerns over his ties to Elon Musk and SpaceX. Posting on Truth Social, Trump praised Isaacman’s entrepreneurial, philanthropic and piloting background and applauded interim head Sean Duffy. Isaacman, former Shift4 CEO, won backing across the space community but faces scrutiny from lawmakers over past donations to Democrats and Musk associations. At his April hearing he balanced lunar and Martian exploration priorities. He thanked supporters on X and pledged to advance NASA’s mission, inspire innovation and steer the agency into a new era of space exploration.",
+      "summaryTokens": 997,
+      "generatedAt": "2025-11-06T03:49:09.845Z"
     },
     {
       "id": "science/2025/nov/03/starwatch-look-out-for-the-largest-supermoon-of-the-year-on-wednesday",
