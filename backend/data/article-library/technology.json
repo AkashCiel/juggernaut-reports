@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-05T04:37:21.562Z",
+    "generated_at": "2025-11-06T03:58:28.878Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-04"
+      "to": "2025-11-05"
     },
-    "article_count": 165,
+    "article_count": 168,
     "merge_info": {
-      "previous_count": 164,
-      "new_articles": 1,
-      "updated_articles": 5,
-      "total_count": 165
+      "previous_count": 165,
+      "new_articles": 3,
+      "updated_articles": 2,
+      "total_count": 168
     },
     "batch_info": {
-      "initial_batch_id": "batch_690ad07700e48190907dd51a5e6fd693",
+      "initial_batch_id": "batch_690c1c82021c819091f04b937f000332",
       "retry_batches": [],
-      "total_tokens": 13531,
-      "processing_time_hours": 0.3
+      "total_tokens": 11513,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/05/amazon-perplexity-ai-lawsuit",
+      "title": "Amazon sues AI startup over browser’s automated shopping and buying feature",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/05/amazon-perplexity-ai-lawsuit",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/05/amazon-perplexity-ai-lawsuit",
+      "section": "technology",
+      "publishedDate": "2025-11-05T16:17:44Z",
+      "trailText": "Amazon accuses Perplexity of covertly accessing customer accounts and disguising AI activity as human browsing",
+      "summary": "Amazon filed suit against AI startup Perplexity, alleging its Comet browser covertly accesses and uses customer accounts to automate orders, disguising AI-driven activity as human browsing and posing security risks. Amazon claims Perplexity ignored requests to cease, degrading tailored shopping experiences. Perplexity denies wrongdoing, accusing Amazon of market bullying and defending user choice, noting credentials stay local. The dispute spotlights broader debates over autonomous AI agents’ regulation and competition as both firms race to deploy shopping assistants, from Amazon’s Buy For Me and Rufus to Perplexity’s CometAI.",
+      "summaryTokens": 794,
+      "generatedAt": "2025-11-06T03:58:28.702Z"
+    },
     {
       "id": "technology/2025/nov/04/google-plans-to-put-datacentres-in-space-to-meet-demand-for-ai",
       "title": "Google plans to put datacentres in space to meet demand for AI",
@@ -29,9 +41,33 @@
       "section": "technology",
       "publishedDate": "2025-11-04T20:08:18Z",
       "trailText": "US technology company’s engineers want to exploit solar power and the falling cost of rocket launches",
-      "summary": "Google’s Project Suncatcher proposes deploying AI datacentres in space via constellations of around 80 solar-powered satellites at 400 miles altitude, each housing Google TPUs and linked by free-space optical beams. Two prototype satellites are slated for early 2027. Falling rocket launch costs could make orbital datacentres cost-competitive with terrestrial sites by the mid-2030s, while space solar panels deliver up to eight times more power and reduce land-water cooling demands. Key challenges include launch CO2 emissions, thermal management, high-bandwidth ground links, on-orbit reliability and astronomers’ concerns over satellite clutter.",
-      "summaryTokens": 631,
-      "generatedAt": "2025-11-05T04:37:21.379Z"
+      "summary": "Google’s Project Suncatcher envisions deploying compact constellations of ~80 solar-powered AI datacentre satellites at 400 miles altitude, with prototype launches planned for early 2027. Leveraging falling rocket costs and solar panels up to eight times more productive than Earth-bound arrays, space-based centres could match terrestrial operating expenses by the mid-2030s while reducing land and water cooling demands. Data would travel via free-space optical links. Obstacles include high launch CO2 emissions, orbital congestion concerns, thermal management, high-bandwidth ground communications and on-orbit reliability. Elon Musk’s Starlink/SpaceX and Nvidia’s planned AI chips in orbit underscore broader industry momentum.",
+      "summaryTokens": 1096,
+      "generatedAt": "2025-11-06T03:58:28.702Z"
+    },
+    {
+      "id": "technology/2025/nov/04/elon-musk-tesla-pay-deal-norway-wealth-fund-annual-shareholder-meeting",
+      "title": "Elon Musk’s $1tn Tesla pay deal to be rejected by huge Norway wealth fund",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/04/elon-musk-tesla-pay-deal-norway-wealth-fund-annual-shareholder-meeting",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/04/elon-musk-tesla-pay-deal-norway-wealth-fund-annual-shareholder-meeting",
+      "section": "technology",
+      "publishedDate": "2025-11-04T11:09:40Z",
+      "trailText": "Carmaker’s seventh biggest single investor will vote against package at annual shareholder meeting",
+      "summary": "Norway’s sovereign wealth fund, Tesla’s seventh-largest shareholder with a $17bn stake, will oppose Elon Musk’s unprecedented $1tn pay package at the upcoming annual meeting. Despite acknowledging Musk’s “visionary role,” Norges Bank cites concerns over award size, share dilution, lack of key-person risk mitigation and seeks governance dialogue. The package would boost Musk’s stake from 16% to over 25% if Tesla’s market cap rises from $1tn to $8.5tn, potentially making him a $2tn billionaire. Shareholder advisers Glass Lewis, ISS and major pension funds also oppose. Tesla faces sales declines in Europe, China and a US slowdown post-incentives.",
+      "summaryTokens": 1857,
+      "generatedAt": "2025-11-06T03:58:28.702Z"
+    },
+    {
+      "id": "technology/2025/nov/04/apple-watch-se-3-review-bargain-smartwatch-iphone-screen-watchos-26",
+      "title": "Apple Watch SE 3 review: the bargain smartwatch for iPhone",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/04/apple-watch-se-3-review-bargain-smartwatch-iphone-screen-watchos-26",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/04/apple-watch-se-3-review-bargain-smartwatch-iphone-screen-watchos-26",
+      "section": "technology",
+      "publishedDate": "2025-11-04T07:00:22Z",
+      "trailText": "Cut-price watch offers most of what makes the Series 11 great, including an always-on screen, watchOS 26 and wrist-flick gesture",
+      "summary": "Apple’s new Watch SE 3 starts at £219 (€269/$249), undercutting Series 11 by about 40% yet adds an always-on display, S10 chip, watchOS 26 and wrist-flick/double-tap gestures. It uses the Series 6 design (40/44 mm cases, larger bezels) with slightly lower peak brightness but delivers a sharp OLED screen, 1.5-day battery life (7 h GPS workout), 64 GB storage, Bluetooth 5.3, GPS and NFC. Lacking ECG, blood-oxygen and hypertension sensors, it keeps optical HR and skin-temp for sleep/cycle tracking. Water-resistant to 50 m, built with 40% recycled materials, supports Apple Pay, offline maps and music—an unbeatable bargain for iPhone owners.",
+      "summaryTokens": 1193,
+      "generatedAt": "2025-11-06T03:58:28.702Z"
     },
     {
       "id": "technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness",
@@ -41,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-11-04T00:05:13Z",
       "trailText": "Scientists say almost all have weaknesses in at least one area that can ‘undermine validity of resulting claims’",
-      "summary": "Experts from the UK AI Security Institute, Stanford, Berkeley and Oxford reviewed over 440 benchmarks used to assess AI safety and effectiveness, finding almost all have weaknesses—only 16% use uncertainty estimates or statistical tests. Flawed, ill-defined measures risk misleading claims about alignment, reasoning, coding and harmlessness. In regulatory gaps, these benchmarks underpin unchecked AI releases, as highlighted by Google’s withdrawal of its Gemma model for defamatory hallucinations and Character.ai’s teen ban after self-harm controversies. The study urges shared definitions, standards and rigorous validation to ensure credible AI evaluation.",
-      "summaryTokens": 419,
-      "generatedAt": "2025-11-05T04:37:21.379Z"
+      "summary": "Researchers from the UK AI Security Institute, Stanford, Berkeley and Oxford reviewed over 440 AI safety and effectiveness benchmarks and found critical flaws in almost every test—weak definitions, missing uncertainty estimates and misleading scores that undermine claims about alignment, reasoning, coding and harmlessness. With no formal AI regulation in the US or UK, firms depend on these benchmarks to vet new models, yet incidents like Google’s Gemma defaming Senator Blackburn and harmful Character.ai chatbots highlight real-world risks. Authors urge shared definitions, statistical rigor and industry-wide standards to restore validity and trust in AI evaluation.",
+      "summaryTokens": 1570,
+      "generatedAt": "2025-11-06T03:58:28.702Z"
     },
     {
       "id": "technology/2025/nov/03/openai-cloud-computing-deal-amazon-aws-datacentres-nvidia-chips",
