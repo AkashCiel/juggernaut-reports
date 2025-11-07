@@ -1,22 +1,22 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-06T03:49:10.085Z",
+    "generated_at": "2025-11-07T04:26:13.217Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-06"
     },
     "article_count": 84,
     "merge_info": {
-      "previous_count": 82,
-      "new_articles": 2,
-      "updated_articles": 2,
+      "previous_count": 84,
+      "new_articles": 0,
+      "updated_articles": 3,
       "total_count": 84
     },
     "batch_info": {
-      "initial_batch_id": "batch_690c1a1217e8819098fc9e3378369bfe",
+      "initial_batch_id": "batch_690d748d3ee08190bca6988c73f52a48",
       "retry_batches": [],
-      "total_tokens": 7782,
+      "total_tokens": 5783,
       "processing_time_hours": 0
     }
   },
@@ -29,9 +29,9 @@
       "section": "science",
       "publishedDate": "2025-11-06T00:01:38Z",
       "trailText": "Astronomers cast doubt on Nobel prize-winning theory and suggest universe could end in ‘big crunch’",
-      "summary": "A new study led by Prof Young-Wook Lee re-evaluates Type Ia supernova data, finding host-galaxy age biases yield fainter early supernovae. Correcting for this, the universe shows decelerating expansion and a time-varying dark energy that may become negative, pointing to a potential ‘big crunch’ rather than eternal acceleration. These findings challenge the 2011 Nobel-winning dark energy paradigm, echoing similar results from the Desi consortium. Published in MNRAS, the work sparks a fierce debate over cosmic fate and dark energy’s nature.",
-      "summaryTokens": 802,
-      "generatedAt": "2025-11-06T03:49:09.845Z"
+      "summary": "A team led by Prof Young-Wook Lee (Yonsei University) challenges the 1998 Nobel Prize–winning claim of accelerating cosmic expansion, reporting deceleration at the present epoch. By reanalyzing 300 type Ia supernova host galaxies and correcting for evolving stellar population biases, they find dark energy is weakening over time. If it continues to decline and becomes negative, the universe could reverse into a ‘big crunch.’ Independent DESI consortium results lend support, sparking debate in Monthly Notices of the Royal Astronomical Society on dark energy’s true nature.",
+      "summaryTokens": 417,
+      "generatedAt": "2025-11-07T04:26:13.027Z"
     },
     {
       "id": "science/2025/nov/05/archaeologists-discover-how-oldest-american-civilisation-survived-a-climate-catastrophe",
@@ -41,9 +41,9 @@
       "section": "science",
       "publishedDate": "2025-11-05T13:50:37Z",
       "trailText": "Experts find artefacts left behind in Caral showing how population survived drought without resorting to violence",
-      "summary": "Archaeologists led by Ruth Shady reveal that 4,200 years ago, Caral’s inhabitants survived a severe drought by abandoning their city and founding two peaceful settlements, Vichama on the coast and Peñico inland. They transported decorative pyramid-building techniques and left three-dimensional friezes depicting famine victims, pregnant women, fish, toads symbolizing water’s return, and anthropomorphic seed figures. Excavations show extensive trade networks, gender parity, shamans’ use of exotic fauna, and an ideological structure free of violence, illustrating resilience and adaptation to climate crisis.",
-      "summaryTokens": 810,
-      "generatedAt": "2025-11-06T03:49:09.845Z"
+      "summary": "Peruvian archaeologists led by Ruth Shady have uncovered evidence that 4,200 years ago the Caral civilisation survived a severe drought without violence by relocating to two new coastal settlements, Vichama and Peñico. There they reproduced Caral’s monumental pyramids, sunken plazas, and political-ideological layout, and left three-dimensional friezes depicting emaciated corpses, pregnant women, fish, toads and snakes to warn future generations. Artifacts show thriving trade networks across coast, Andes and Amazon, gender parity, open-air markets and Andean ritual symbols like pututu trumpets. Their peaceful, adaptive response to the 4.2ka mega-drought offers lessons on resilience to climate crises.",
+      "summaryTokens": 1032,
+      "generatedAt": "2025-11-07T04:26:13.027Z"
     },
     {
       "id": "science/2025/nov/05/ai-research-super-recognisers-identify-faces",
@@ -53,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-05T00:01:12Z",
       "trailText": "Research uses eye-tracking data to examine some people’s extraordinary recognition ability",
-      "summary": "Using eye-tracking data from 37 super-recognisers and 68 typical observers, researchers reconstructed the retinal information participants gathered when viewing faces. They fed these glimpses into deep neural networks trained for face recognition, comparing performance at varied visibility levels. Networks achieved consistently higher accuracy with super-recogniser data, even when sampling area was equal, indicating super-recognisers select regions richer in identity cues. The study implies exceptional face recognition arises from smarter visual sampling rather than just quantity. Training replicable tactics remains unproven. A free UNSW Face Test is available.",
-      "summaryTokens": 925,
-      "generatedAt": "2025-11-06T03:49:09.845Z"
+      "summary": "Using eye-tracking data from 37 super-recognisers and 68 typical recognisers, UNSW researchers reconstructed participants’ retinal samples and fed them into deep neural networks (DNNs) alongside full-face images. The AI’s face-matching accuracy increased with visibility, peaking on data from super-recognisers at all visibility levels. Even when retinal samples covered equal areas, DNNs performed better with super-recogniser data, showing their advantage lies in selecting regions rich in identity clues, not simply sampling more pixels. Experts note these results reveal superior face recognition stems from smarter visual sampling. Future work will assess these patterns in dynamic settings and explore trainability. A free UNSW Face Test identifies super-recognisers.",
+      "summaryTokens": 1021,
+      "generatedAt": "2025-11-07T04:26:13.027Z"
     },
     {
       "id": "science/2025/nov/04/trump-jared-isaacman-nasa",
