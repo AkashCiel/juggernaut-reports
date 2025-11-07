@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-06T03:58:28.878Z",
+    "generated_at": "2025-11-07T04:33:01.422Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-05"
+      "to": "2025-11-07"
     },
-    "article_count": 168,
+    "article_count": 170,
     "merge_info": {
-      "previous_count": 165,
-      "new_articles": 3,
-      "updated_articles": 2,
-      "total_count": 168
+      "previous_count": 168,
+      "new_articles": 2,
+      "updated_articles": 1,
+      "total_count": 170
     },
     "batch_info": {
-      "initial_batch_id": "batch_690c1c82021c819091f04b937f000332",
+      "initial_batch_id": "batch_690d75ef8a308190895ec688222dc8fc",
       "retry_batches": [],
-      "total_tokens": 11513,
+      "total_tokens": 6333,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/06/how-tesla-shareholders-elon-musk-trillionaire",
+      "title": "How Tesla shareholders put Elon Musk on path to be world’s first trillionaire",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/06/how-tesla-shareholders-elon-musk-trillionaire",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/06/how-tesla-shareholders-elon-musk-trillionaire",
+      "section": "technology",
+      "publishedDate": "2025-11-07T00:46:26Z",
+      "trailText": "A staggering compensation package has been approved – but what does Musk have to do to reap the full rewards?",
+      "summary": "At its Nov 6 annual meeting, over 75% of Tesla shareholders approved Elon Musk’s historic compensation package: nearly $1tn in stock options tied to ambitious 10-year milestones. To fully vest, Musk must grow Tesla’s market cap from ~$1tn today to $8.5tn by 2035 across 12 “tranches,” hitting $2tn then adding $500bn incrementally, and achieve 20m EV deliveries, 10m FSD subscriptions, 1m Optimus humanoid robots, 1m robotaxis in service, plus $400bn in annual net income for four consecutive quarters. The vote underscores investor faith despite falling sales, market share, and governance critiques over concentrated power in Musk.",
+      "summaryTokens": 831,
+      "generatedAt": "2025-11-07T04:33:01.264Z"
+    },
+    {
+      "id": "technology/2025/nov/06/tesla-1tn-pay-package-elon-musk",
+      "title": "Tesla shareholders approve $1tn pay package for Elon Musk",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/06/tesla-1tn-pay-package-elon-musk",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/06/tesla-1tn-pay-package-elon-musk",
+      "section": "technology",
+      "publishedDate": "2025-11-06T23:14:48Z",
+      "trailText": "Chants of ‘Elon’ erupt after compensation plan approved despite opposition from several high-profile investors",
+      "summary": "Tesla shareholders approved a record $1 tn, 12-tranche compensation plan for CEO Elon Musk, requiring him to lift Tesla’s market cap to $8.5 tn, deliver 20 m EVs, 10 m FSD subscriptions, 1 m humanoid robots and robotaxis, and hit $400 bn in annual earnings over four quarters. Over 75% backed it at the Austin AGM despite protests from investors warning of concentrated power amid sales declines and safety risks. Musk touted Optimus robots as humanity’s future. The vote revives his 2018 pay plan overturned in Delaware, following Tesla’s HQ move to Texas. If goals are met he’d become the first trillionaire and earn 12% of Tesla’s stock, boosting his stake to 25%.",
+      "summaryTokens": 912,
+      "generatedAt": "2025-11-07T04:33:01.264Z"
+    },
     {
       "id": "technology/2025/nov/05/amazon-perplexity-ai-lawsuit",
       "title": "Amazon sues AI startup over browser’s automated shopping and buying feature",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-11-05T16:17:44Z",
       "trailText": "Amazon accuses Perplexity of covertly accessing customer accounts and disguising AI activity as human browsing",
-      "summary": "Amazon filed suit against AI startup Perplexity, alleging its Comet browser covertly accesses and uses customer accounts to automate orders, disguising AI-driven activity as human browsing and posing security risks. Amazon claims Perplexity ignored requests to cease, degrading tailored shopping experiences. Perplexity denies wrongdoing, accusing Amazon of market bullying and defending user choice, noting credentials stay local. The dispute spotlights broader debates over autonomous AI agents’ regulation and competition as both firms race to deploy shopping assistants, from Amazon’s Buy For Me and Rufus to Perplexity’s CometAI.",
-      "summaryTokens": 794,
-      "generatedAt": "2025-11-06T03:58:28.702Z"
+      "summary": "Amazon filed suit against AI startup Perplexity, accusing its Comet browser and AI agent of covertly accessing private customer accounts and disguising automated shopping as human browsing. Amazon claims security risks, interference with curated experiences and ignored cease requests. Perplexity rejects the allegations, accusing Amazon of abusing dominance to stifle competition and defend user choice. The case highlights a wider debate on regulation of autonomous AI assistants on the web. Both firms are racing to build AI shopping tools like Perplexity’s CometAI and Amazon’s “Buy For Me” and Rufus assistants.",
+      "summaryTokens": 793,
+      "generatedAt": "2025-11-07T04:33:01.264Z"
     },
     {
       "id": "technology/2025/nov/04/google-plans-to-put-datacentres-in-space-to-meet-demand-for-ai",
