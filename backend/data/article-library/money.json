@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-06T03:41:27.000Z",
+    "generated_at": "2025-11-07T04:20:29.851Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-04"
+      "to": "2025-11-06"
     },
-    "article_count": 82,
+    "article_count": 84,
     "merge_info": {
       "previous_count": 82,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 82
+      "new_articles": 2,
+      "updated_articles": 0,
+      "total_count": 84
     },
     "batch_info": {
-      "initial_batch_id": "batch_690c17422b70819093224cd8f8dae867",
+      "initial_batch_id": "batch_690d7335c6e08190825372f02bce2d45",
       "retry_batches": [],
-      "total_tokens": 2991,
-      "processing_time_hours": 0.1
+      "total_tokens": 4713,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/06/how-employers-can-help-their-staff-stay-in-work",
+      "title": "How employers can help their staff stay in work | Letters",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/06/how-employers-can-help-their-staff-stay-in-work",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/06/how-employers-can-help-their-staff-stay-in-work",
+      "section": "money",
+      "publishedDate": "2025-11-06T17:52:50Z",
+      "trailText": "Letters: Readers respond to the government’s Keep Britain Working review that aims to tackle the growing worklessness crisis",
+      "summary": "Respondents to the Keep Britain Working review warn that while improved occupational health and early intervention are welcome, the UK must also overhaul poor-quality work that relies on low wages, insecure hours and little support for ill staff. They call for public procurement to enforce real living wages and Good Work standards, manager training to handle long Covid and disabilities, and proper funding for the Access to Work scheme. Proposals include reserving contracts for inclusive employers, equipping work coaches and dismantling structural barriers faced by disabled, older and flexible-hours workers. Personal cases highlight ongoing dismissal risks.",
+      "summaryTokens": 1119,
+      "generatedAt": "2025-11-07T04:20:29.701Z"
+    },
+    {
+      "id": "money/2025/nov/06/electric-vehicles-pay-per-mile-tax-rachel-reeves-budget",
+      "title": "Rachel Reeves considering pay-per-mile tax for electric vehicles in budget",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/06/electric-vehicles-pay-per-mile-tax-rachel-reeves-budget",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/06/electric-vehicles-pay-per-mile-tax-rachel-reeves-budget",
+      "section": "money",
+      "publishedDate": "2025-11-06T11:28:12Z",
+      "trailText": "EV drivers would face 3p-a-mile charge on top of other road taxes to offset falling revenue from petrol and diesel cars",
+      "summary": "Chancellor Rachel Reeves is set to propose a 3p-per-mile levy on electric vehicles in her November budget—about £250 a year per driver—to match average £600 petrol-duty receipts and plug a projected £20–30 bn revenue gap by 2030. After a consultation, the scheme would launch in 2028, covering some 4 million EVs. The Society of Motor Manufacturers and Traders and fleet firms warn it risks derailing EV uptake; industry and analysts call for smarter, collaborative road-pricing and infrastructure support.",
+      "summaryTokens": 1568,
+      "generatedAt": "2025-11-07T04:20:29.701Z"
+    },
     {
       "id": "money/2025/nov/04/consumer-champions-london-ulez-auto-pay-blunders-fines",
       "title": "London Ulez auto pay blunders have triggered £11,445 in fines",
