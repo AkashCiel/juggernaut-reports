@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2025-11-07T04:24:36.914Z",
+    "generated_at": "2025-11-08T03:42:37.737Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-06"
+      "to": "2025-11-07"
     },
-    "article_count": 361,
+    "article_count": 365,
     "merge_info": {
-      "previous_count": 355,
-      "new_articles": 6,
-      "updated_articles": 5,
-      "total_count": 361
+      "previous_count": 361,
+      "new_articles": 4,
+      "updated_articles": 6,
+      "total_count": 365
     },
     "batch_info": {
-      "initial_batch_id": "batch_690d7416dc1c819080d8235f0df61a4f",
+      "initial_batch_id": "batch_690ebb4a34008190a704cfe52f661080",
       "retry_batches": [],
-      "total_tokens": 26858,
-      "processing_time_hours": 0
+      "total_tokens": 19923,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "politics/2025/nov/07/remaining-four-rebel-labour-mps-have-whip-restored",
+      "title": "Remaining four ‘rebel’ Labour MPs have whip restored",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/07/remaining-four-rebel-labour-mps-have-whip-restored",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/07/remaining-four-rebel-labour-mps-have-whip-restored",
+      "section": "politics",
+      "publishedDate": "2025-11-07T20:35:13Z",
+      "trailText": "Neil Duncan-Jordan, Chris Hinchliff, Brian Leishman and Rachael Maskell are last of series of penalised backbenchers to return to the party",
+      "summary": "Four Labour MPs – Neil Duncan-Jordan, Chris Hinchliff, Brian Leishman and Rachael Maskell – had the whip restored after being suspended in July for repeatedly opposing government policies on welfare reform, winter fuel allowance cuts and the planning bill’s environmental impact. Following meetings with chief whip Jonathan Reynolds, they rejoined the parliamentary party; all but Maskell are from Labour’s 2024 intake. Their return follows earlier reinstatements of other rebels over benefit cap votes. Remaining independents include Zarah Sultana, Diane Abbott and others sidelined over ideological splits or misconduct inquiries.",
+      "summaryTokens": 1126,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
+    },
+    {
+      "id": "politics/2025/nov/07/boris-johnson-trying-to-undermine-bbc-leadership-insiders-fear-after-leak",
+      "title": "Boris Johnson trying to undermine BBC leadership, insiders fear after leak",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/07/boris-johnson-trying-to-undermine-bbc-leadership-insiders-fear-after-leak",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/07/boris-johnson-trying-to-undermine-bbc-leadership-insiders-fear-after-leak",
+      "section": "politics",
+      "publishedDate": "2025-11-07T18:40:46Z",
+      "trailText": "Director general under pressure after release of memo criticising reporting on Trump, trans rights and Gaza",
+      "summary": "After a leaked memo from ex-adviser Michael Prescott accused the BBC of skewed reporting on Donald Trump, trans rights and Gaza, Boris Johnson and allies—including board member Robbie Gibb—have intensified pressure on director general Tim Davie. Parliament’s culture, media and sport committee has demanded the BBC’s response by Monday as critics fret the leak is a bid to undermine the corporation ahead of charter renewal. Prescott, appointed via a panel including Gibb, will testify, while senior Tories call for resignations over alleged left-wing bias in Panorama and BBC Arabic.",
+      "summaryTokens": 1258,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
+    },
+    {
+      "id": "politics/2025/nov/07/nicola-sturgeon-on-alleged-snp-embezzlement",
+      "title": "Nicola Sturgeon: I understand why people doubt my ignorance of alleged SNP embezzlement",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/07/nicola-sturgeon-on-alleged-snp-embezzlement",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/07/nicola-sturgeon-on-alleged-snp-embezzlement",
+      "section": "politics",
+      "publishedDate": "2025-11-07T15:20:27Z",
+      "trailText": "‘Trust me, I had no idea’ about potential wrongdoing in Scottish National party, says former first minister",
+      "summary": "Ex-first minister Nicola Sturgeon insists she was unaware of alleged SNP embezzlement by ex-husband and former SNP CEO Peter Murrell. She says her relaxed post-resignation demeanour proves she had no suspicions. Murrell was arrested and charged; Sturgeon is no longer under investigation and has since separated and divorced. In a Politics Weekly UK podcast she warned of the UK union’s potential collapse amid resurging national parties and championed her blocked gender recognition reform as consistent with feminist and trans rights. She predicted a future ‘confederation’ of the British Isles or independent Scotland, Wales and Ireland.",
+      "summaryTokens": 938,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
+    },
+    {
+      "id": "politics/2025/nov/07/kemi-badenoch-to-relaunch-exclusive-advisory-board-for-high-value-donors",
+      "title": "Kemi Badenoch to relaunch exclusive ‘advisory board’ for high-value donors",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/07/kemi-badenoch-to-relaunch-exclusive-advisory-board-for-high-value-donors",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/07/kemi-badenoch-to-relaunch-exclusive-advisory-board-for-high-value-donors",
+      "section": "politics",
+      "publishedDate": "2025-11-07T07:00:21Z",
+      "trailText": "Exclusive: Tory leader has plans to reinstate group that provided top donors with direct access to senior ministers",
+      "summary": "Kemi Badenoch plans to reinstate the Conservatives’ once-closed high-value donors’ advisory board under a new name, restoring exclusive access to her and shadow cabinet ministers. The original board, shut down in 2021 after a ‘cash for access’ scandal involving donors contributing over £250,000 a year and meeting Boris Johnson and Rishi Sunak, will allow top backers to lobby on tax cuts and spending restraint. With rival Reform UK courting wealthy ex-Tories and party coffers under strain post-election, Badenoch has raised over £500,000 since conference and £8.4m in 2025 so far.",
+      "summaryTokens": 822,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
+    },
     {
       "id": "politics/2025/nov/06/lisa-nandy-apologises-keir-starmer-football-regulator-governance-code",
       "title": "Nandy breached code over appointment of donor to lead football regulator",
@@ -29,9 +77,9 @@
       "section": "politics",
       "publishedDate": "2025-11-06T19:42:55Z",
       "trailText": "Culture secretary ‘deeply regrets error’ after inquiry finds failures in declaring past donations by watchdog nominee",
-      "summary": "Culture Secretary Lisa Nandy apologized to PM Keir Starmer after a public appointments review found she failed to declare that David Kogan, her nominee for head of the Independent Football Regulator, had previously donated to her and Labour. Commissioner William Shawcross reprimanded Nandy and her department for breaching the governance code by not disclosing Kogan’s donations during selection. Nandy said the omission was inadvertent and stepped aside from the appointment process. Starmer accepted her apology, welcomed lessons to tighten conflict-of-interest guidance, and confirmed Kogan’s role remains unaffected.",
-      "summaryTokens": 804,
-      "generatedAt": "2025-11-07T04:24:36.695Z"
+      "summary": "Culture secretary Lisa Nandy apologised to PM Keir Starmer after William Shawcross’s report found she failed to declare David Kogan’s past donations to her and Labour before nominating him to head the new Independent Football Regulator. The 18-page inquiry cited three governance code breaches, including omission of Kogan’s donations in interview discussions. Starmer accepted her inadvertent error, praised her integrity and willingness to learn lessons, while Kogan keeps his role. Shawcross recommended clearer conflict-of-interest guidance and reminded ministers to declare all relevant interests promptly.",
+      "summaryTokens": 1057,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
     },
     {
       "id": "politics/2025/nov/06/lucy-powell-says-labour-must-stand-by-promise-not-to-raise-key-taxes",
@@ -41,9 +89,9 @@
       "section": "politics",
       "publishedDate": "2025-11-06T18:43:25Z",
       "trailText": "New deputy leader also calls on government to lift two-child benefit cap urgently and in full",
-      "summary": "Labour deputy leader Lucy Powell has urged the party to honour its manifesto pledge and refrain from raising income tax, national insurance or VAT as the Treasury considers a potential income tax hike to plug a £30bn fiscal shortfall. Speaking on BBC Radio 5 Live, she also demanded the immediate, full repeal of the two-child benefit cap to prevent 40,000 children entering deep poverty each year. Powell framed a “budget of fairness” boosting living standards, challenging Chancellor Rachel Reeves and Keir Starmer ahead of the budget. Though she pledged support for final decisions, her remarks amplify backbench trust concerns over broken promises.",
-      "summaryTokens": 1078,
-      "generatedAt": "2025-11-07T04:24:36.695Z"
+      "summary": "Labour deputy leader Lucy Powell urged her party to honour its manifesto pledge not to raise income tax, national insurance or VAT, warning that breaking it would erode trust. Positioning herself as an independent voice unbound by collective responsibility, she demanded a “budget of fairness” boosting household incomes and a full, urgent repeal of the two-child benefit cap to curb child poverty. Her BBC intervention ramps up pressure on Rachel Reeves’s budget choices and highlights internal tensions over funding public services versus upholding election promises.",
+      "summaryTokens": 672,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
     },
     {
       "id": "politics/2025/nov/06/why-doesnt-lammy-just-bring-in-a-new-policy-of-accidentally-jailing-people",
@@ -53,9 +101,9 @@
       "section": "politics",
       "publishedDate": "2025-11-06T18:32:38Z",
       "trailText": "Justice secretary seemed to be the only person not being released, as he hid from questions about latest prison mishaps",
-      "summary": "John Crace lampoons justice secretary David Lammy’s handling of repeated prison blunders as his department juggles multiple accidental prisoner releases. After a disastrous PMQs appearance, Lammy goes into hiding under civil servant watch, while staff struggle to locate fugitives including an Algerian sex offender and fraudster William “Billy” Smith—who voluntarily returns to jail. Crace mocks a rightwing fantasy policy of randomly incarcerating migrants to curb crime figures and skew stats, and highlights Lammy’s excuses about doppelgangers, forgotten briefings, and work-life balance. Ultimately, amidst chaos and media pressure, Lammy insists none of the security lapses were his fault.",
-      "summaryTokens": 1024,
-      "generatedAt": "2025-11-07T04:24:36.695Z"
+      "summary": "John Crace skewers justice secretary David Lammy’s chaotic handling of repeated accidental prisoner releases—from an Algerian sex offender to the reformed con Billy Smith—while he’s effectively imprisoned by civil servants on 15-minute observation. Lammy dodges PMQs, blames a doppelgänger and Tory underfunding, and forgets crucial updates. The satirical piece even proposes a right-wing dream policy of “accidentally jailing” migrants, lampooning his PR blunders as emblematic of a collapsing prison system.",
+      "summaryTokens": 487,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
     },
     {
       "id": "politics/2025/nov/06/reform-uk-suspends-another-member-kent-county-council-isabella-kemp",
@@ -65,9 +113,9 @@
       "section": "politics",
       "publishedDate": "2025-11-06T17:35:28Z",
       "trailText": "Isabella Kemp’s departure means party has lost nine of 57 councillors elected in May, including four after video leak",
-      "summary": "Reform UK suspended councillor Isabella Kemp, its data protection officer, over internal tensions exposed in a leaked video. Kemp’s exit marks the ninth of 57 elected in May and follows four suspensions after the leak revealed leader Linden Kemkaran berating dissenters. Kemp plans an unfair dismissal claim, contacting Acas and Protect. The turmoil has disrupted adult social care, school transport appeals and committee leadership. Opposition groups urge reinstatement and press on council tax plans, with uncertainty over a potential 5% rise. Critics accuse Reform of undermining Kent’s £2.5bn budget governance.",
-      "summaryTokens": 876,
-      "generatedAt": "2025-11-07T04:24:36.695Z"
+      "summary": "Reform UK has suspended Kent county councillor Isabella Kemp, its ninth loss since May, amid fallout from a leaked video of leader Linden Kemkaran berating colleagues. Kemp, former adult social care chair and party data protection officer, intends to take unfair dismissal claims to a tribunal via Acas. Four councillors were earlier suspended after the leak, with two forming an Independent Reformers group. The turmoil forced cancellation of key committee meetings and cast doubt on promised savings, while prompting questions over a possible 5% council tax rise and drawing criticism from opposition and local leaders.",
+      "summaryTokens": 487,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
     },
     {
       "id": "politics/2025/nov/06/badenoch-accused-of-interfering-cameron-lobbying-scandal",
@@ -77,9 +125,9 @@
       "section": "politics",
       "publishedDate": "2025-11-06T17:00:02Z",
       "trailText": "Lex Greensill alleges current Tory leader used business secretary position to protect former PM from scrutiny",
-      "summary": "Lex Greensill has accused Tory leader and former business secretary Kemi Badenoch of politically interfering in the Insolvency Service’s 2023 inquiry into his collapsed firms to shield ex-PM David Cameron—elevated to the House of Lords and appointed foreign secretary—from scrutiny over his role in the Greensill lobbying scandal. In a letter to current business secretary Peter Kyle, Greensill argues that omitting Cameron’s involvement renders the case against him meritless and requests a re-evaluation amid his possible 15-year disqualification from UK company directorships. Greensill firms collapsed in 2021, prompting cross-border criminal probes, but investigations now exclude Cameron; the Insolvency Service later admitted data breaches after speaking to a Times journalist.",
-      "summaryTokens": 1353,
-      "generatedAt": "2025-11-07T04:24:36.695Z"
+      "summary": "Lex Greensill has accused Tory leader Kemi Badenoch of ‘interfering’ in a 2023 insolvency inquiry to protect David Cameron from scrutiny over his Greensill lobbying role. In a letter to new business secretary Peter Kyle, Greensill alleges Badenoch, as business secretary, restructured the Insolvency Service case to omit Cameron’s involvement ahead of his elevation to the Lords and appointment as foreign secretary. He argues this political intervention undermines the disqualification proceedings against him and calls for a full review amid ongoing UK, German and Swiss probes.",
+      "summaryTokens": 673,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
     },
     {
       "id": "politics/2025/nov/06/labour-mps-revive-tribune-to-take-on-reform",
@@ -89,9 +137,9 @@
       "section": "politics",
       "publishedDate": "2025-11-06T14:00:02Z",
       "trailText": "Exclusive: Tribune hopes over 100 MPs join group led by Vicky Foxcroft and former cabinet minister Louise Haigh",
-      "summary": "Labour MPs including Louise Haigh and Vicky Foxcroft have relaunched the Tribune group to reassert the party’s soft left, aiming to enlist over 100 MPs. Key figures—Justin Madders, Sarah Owen, Debbie Abrahams, Yuan Yang and Beccy Cooper—plan to pressure for progressive budget measures, notably reversing the two-child benefit cap. Rooted in 1960s origins and revived under Clive Efford in 2017, Tribune seeks to offer a muscular, organised centre-left voice within the PLP, countering Reform and Green parties. Allies like Lucy Powell praise its bold economic messaging, positioning the caucus as a significant force ahead of the upcoming budget.",
-      "summaryTokens": 898,
-      "generatedAt": "2025-11-07T04:24:36.695Z"
+      "summary": "Labour MPs led by Louise Haigh and Vicky Foxcroft have relaunched the Tribune group to organise the party’s soft left ahead of the budget, targeting over 100 supporters. Architects of last year’s welfare rebellion—including Justin Madders, Sarah Owen and Debbie Abrahams—and new intake MPs Yuan Yang and Beccy Cooper will steer the caucus. They aim to pressurise the government to abandon the two-child benefit cap, adopt a more muscular centre-left stance against Reform and the Greens, and revive Tribune’s 1960s progressive legacy after years of dormancy under Starmer.",
+      "summaryTokens": 426,
+      "generatedAt": "2025-11-08T03:42:37.492Z"
     },
     {
       "id": "politics/2025/nov/05/lancashires-reform-run-council-plans-to-close-care-homes-to-save-4m-a-year",
