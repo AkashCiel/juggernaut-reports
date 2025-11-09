@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-08T03:36:01.446Z",
+    "generated_at": "2025-11-09T03:26:11.630Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-07"
+      "to": "2025-11-08"
     },
-    "article_count": 86,
+    "article_count": 87,
     "merge_info": {
-      "previous_count": 84,
-      "new_articles": 2,
+      "previous_count": 86,
+      "new_articles": 1,
       "updated_articles": 2,
-      "total_count": 86
+      "total_count": 87
     },
     "batch_info": {
-      "initial_batch_id": "batch_690eba3e5b7081908dcaf8a6eb776a34",
+      "initial_batch_id": "batch_6910098158e08190826cc700e5020b9b",
       "retry_batches": [],
-      "total_tokens": 7485,
+      "total_tokens": 6029,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/08/electric-cars-leasing-used-ev-secondhand",
+      "title": "Electric cars: could leasing a used EV help you afford one?",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/08/electric-cars-leasing-used-ev-secondhand",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/08/electric-cars-leasing-used-ev-secondhand",
+      "section": "money",
+      "publishedDate": "2025-11-08T07:00:02Z",
+      "trailText": "With more secondhand cars available and salary sacrifice schemes offering extra savings, the lease option is taking off",
+      "summary": "UK used EV leasing has surged, up 166% in Q2 2025, as 1m electric vehicles hit the secondhand market and rapid depreciation drives cheap lease offers. Major lessors (Lex Autolease, Arval, Zenith) now sell no-deposit two- to three-year contracts that include maintenance, road tax and breakdown cover, while salary sacrifice cuts monthly costs by 20–45%. Example deals: Mercedes-Benz EQA at £360 vs £570 new, Škoda Enyaq at £292 vs £567, VW ID.4 at £296 vs £506. Lessees face damage and excess-mileage charges, credit checks and potential early-termination fees (often waived for salary sacrifice users). Leasing helps firms offload depreciating EVs and benefits from low repair rates.",
+      "summaryTokens": 991,
+      "generatedAt": "2025-11-09T03:26:11.345Z"
+    },
     {
       "id": "money/2025/nov/07/nsi-increases-interest-rates-on-fixed-term-savings-accounts",
       "title": "NS&I increases interest rates on fixed-term savings accounts",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-07T14:18:59Z",
       "trailText": "Treasury-backed provider raises returns by up to 0.31 percentage points but experts say better deals are available",
-      "summary": "NS&I has raised fixed-term savings rates by up to 0.31 percentage points, boosting its five-year bond to 4.15% (from 3.84%). One-, two- and three-year guaranteed growth and income bonds now pay 4.2%, 4.1% and 4.16% respectively. Available to new or rolling-over savers investing £500–£1 million, these government-backed, 100% guaranteed products prohibit early withdrawal. Hargreaves Lansdown flags the move is aimed at hitting funding targets but notes better market deals: LHV Bank 4.46%, JN Bank 4.39% (two- and three-year) and Chetwood 4.35% (five-year).",
-      "summaryTokens": 910,
-      "generatedAt": "2025-11-08T03:36:01.285Z"
+      "summary": "NS&I has raised interest rates on its one-, two-, three- and five-year fixed-term savings bonds by up to 0.31 percentage points (one year: 4.04→4.20%; two years: 3.85→4.10%; three years: 3.88→4.16%; five years: 3.84→4.15%), bucking the market’s downward trend. New and maturing customers can invest £500–£1 million with no early withdrawals, backed by a 100% Treasury guarantee. The move aims to meet government funding targets, but experts note better rates elsewhere—LHV Bank at 4.46%, JN Bank at 4.39%, Chetwood Bank at 4.35%—and Treasury discussions on cutting the annual ISA allowance continue.",
+      "summaryTokens": 729,
+      "generatedAt": "2025-11-09T03:26:11.345Z"
     },
     {
       "id": "money/2025/nov/07/uk-house-prices-rise-at-fastest-rate-since-january-2025",
@@ -41,9 +53,9 @@
       "section": "money",
       "publishedDate": "2025-11-07T08:33:40Z",
       "trailText": "Halifax says October increase pushes average cost of home to £300k despite uncertainty over possible budget tax changes",
-      "summary": "In October 2025, UK house prices rose 0.6% month-on-month—the fastest pace since January—pushing the average home cost to a record £299,862, Halifax reports. Annual growth hit 1.9%, beating the 1.5% forecast. Robust mortgage approvals, smaller deposits and longer terms have underpinned demand despite jitters over Chancellor Reeves’s proposed budget levy on homes above £500k. With fixed rates near 4% and living costs squeezing incomes, buyers feel stretched but market resilience points to renewed activity post-budget. Separately, Rightmove shares slid amid warnings of slower profit growth in 2026.",
-      "summaryTokens": 567,
-      "generatedAt": "2025-11-08T03:36:01.285Z"
+      "summary": "In October UK house prices rose 0.6% month-on-month—the fastest pace since January 2025—pushing the average home cost to £299,862, reversing September’s 0.3% drop and beating forecasts. Annual growth hit 1.9% vs 1.5% expected. Mortgage approvals reached their highest level this year despite 4% fixed rates and squeezed disposable incomes, with many buyers opting for smaller deposits and longer terms. Uncertainty over possible stamp duty reforms on homes over £500k in Rachel Reeves’s upcoming budget has paused some activity but market resilience suggests a rebound once details are clear. Separately, Rightmove shares slid on slower profit growth projections, though AI investments promise long-term gains.",
+      "summaryTokens": 455,
+      "generatedAt": "2025-11-09T03:26:11.345Z"
     },
     {
       "id": "money/2025/nov/06/how-employers-can-help-their-staff-stay-in-work",
