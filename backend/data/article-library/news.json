@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-09T03:27:56.082Z",
+    "generated_at": "2025-11-10T11:45:52.673Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-07"
+      "to": "2025-11-09"
     },
-    "article_count": 90,
+    "article_count": 91,
     "merge_info": {
       "previous_count": 90,
-      "new_articles": 0,
-      "updated_articles": 3,
-      "total_count": 90
+      "new_articles": 1,
+      "updated_articles": 0,
+      "total_count": 91
     },
     "batch_info": {
-      "initial_batch_id": "batch_691009de553c819093ddc5d4cf35d537",
+      "initial_batch_id": "batch_6911cc504d108190913a8224392cfd88",
       "retry_batches": [],
-      "total_tokens": 4327,
-      "processing_time_hours": 0
+      "total_tokens": 2322,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/09/corrections-and-clarifications1",
+      "title": "Corrections and clarifications ",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/09/corrections-and-clarifications1",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/09/corrections-and-clarifications1",
+      "section": "news",
+      "publishedDate": "2025-11-09T21:00:41Z",
+      "trailText": "British Airways | Nicky Hayen",
+      "summary": "Guardian issues corrections: British Airways’ new wi-fi launch is next year, not next month. A profile of Club Brugge’s manager Nicky Hayen mis-stated his British football debut despite his prior Haverfordwest County tenure. Other updates include corrections to “‘What are they going to do, chase someone up?’”, “Victorian rock climbers scorn ban on Mount Arapiles Indigenous sites” and “Death by Lightning review – absolutely nobody plays losers like Matthew Macfadyen”. Readers can send feedback to guardian.readers@theguardian.com, Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or +44 20 3353 4736.",
+      "summaryTokens": 1921,
+      "generatedAt": "2025-11-10T11:45:52.198Z"
+    },
     {
       "id": "news/2025/nov/07/corrections-and-clarifications",
       "title": "Corrections and clarifications",
