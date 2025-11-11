@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-10T12:42:40.125Z",
+    "generated_at": "2025-11-11T03:35:26.429Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-10"
     },
-    "article_count": 90,
+    "article_count": 91,
     "merge_info": {
-      "previous_count": 85,
-      "new_articles": 5,
-      "updated_articles": 1,
-      "total_count": 90
+      "previous_count": 90,
+      "new_articles": 1,
+      "updated_articles": 5,
+      "total_count": 91
     },
     "batch_info": {
-      "initial_batch_id": "batch_6911d10831848190963abf26ddf6f5fd",
+      "initial_batch_id": "batch_6912aeb136e481908e1a056542413464",
       "retry_batches": [],
-      "total_tokens": 12175,
-      "processing_time_hours": 0.9
+      "total_tokens": 11347,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/10/did-you-solve-it-two-dead-at-the-drink-off-a-brilliant-new-lateral-thinking-puzzle",
+      "title": "Did you solve it? Two dead at the drink-off – a brilliant new lateral thinking puzzle",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/10/did-you-solve-it-two-dead-at-the-drink-off-a-brilliant-new-lateral-thinking-puzzle",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/10/did-you-solve-it-two-dead-at-the-drink-off-a-brilliant-new-lateral-thinking-puzzle",
+      "section": "science",
+      "publishedDate": "2025-11-10T17:00:53Z",
+      "trailText": "The solution to today’s poison puzzler",
+      "summary": "In this Michael Rabin lateral-thinking puzzle (revived by Timothy Chow), Smith and Jones must each bring their strongest poison to a royal ceremony: they swap vials, then drink their own. Fearful of losing, both secretly pre-ingest a weak poison beforehand and bring water instead of a toxin: they expect the rival’s strong poison to act as an antidote to their own weak poison while water kills the other. Because both adopt the same plan, they swap and self-drink water, then die of their initial poison.",
+      "summaryTokens": 612,
+      "generatedAt": "2025-11-11T03:35:26.211Z"
+    },
     {
       "id": "science/2025/nov/10/can-you-solve-it-two-dead-at-the-drink-off-a-brilliant-new-lateral-thinking-puzzle",
       "title": "Can you solve it? Two dead at the drink-off – a brilliant new lateral thinking puzzle",
@@ -29,9 +41,9 @@
       "section": "science",
       "publishedDate": "2025-11-10T07:10:54Z",
       "trailText": "Who poisoned who?",
-      "summary": "Michael Rabin’s classic lateral-thinking puzzle revived by Timothy Chow: Smith and Jones, sole poison producers in a kingdom, are forced by the Queen to exchange and then self-ingest vials one week after choosing their strongest toxins. Ingesting a weaker poison followed by a stronger one acts as an antidote. Fearing the other has the single most potent toxin, both pick the maximal-strength poison; after swapping and drinking, neither’s dose can be neutralized, and both die. Readers must deduce the game-theoretic twist.",
-      "summaryTokens": 933,
-      "generatedAt": "2025-11-10T12:42:39.632Z"
+      "summary": "This classic lateral-thinking puzzle, credited to computer scientist Michael Rabin and revived by Timothy Chow, pits two poison-makers, Smith and Jones, in a royal challenge: bring your strongest poison to drink each other’s and then your own; stronger poison cures the weaker. Neither knows who truly has the most potent toxin. Despite game-theoretic incentives, both perish. The puzzle invites solvers to deduce what overlooked assumption leads to their mutual demise. Published in an 1980s CMU bulletin and later in Mathematics Magazine, it tests strategic reasoning and lateral logic.",
+      "summaryTokens": 935,
+      "generatedAt": "2025-11-11T03:35:26.211Z"
     },
     {
       "id": "science/2025/nov/10/starwatch-the-leonids-meteor-shower-reaches-its-peak",
@@ -41,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-10T06:00:53Z",
       "trailText": "Wrap up warm, grab a deck chair and take your place to spot about 10-15 bright meteors an hour",
-      "summary": "Between early November and early December, the Leonids meteor shower peaks on the night of 16–17 November 2025. Originating from dust in comet 55P/Tempel-Tuttle’s trail, these fast meteors—70 km/s—radiate from Leo’s sickle, yielding about 10–15 bright streaks per hour. Although capable of storms, none is forecast this year. Observers in the UK and northern hemisphere should watch before dawn when Leo is highest. Dress warmly and use a recliner to maximize comfort and visibility as you scan the eastern sky after midnight.",
-      "summaryTokens": 617,
-      "generatedAt": "2025-11-10T12:42:39.632Z"
+      "summary": "The Leonids meteor shower, active early November to December, peaks on the night of Nov 16–17 with about 10–15 bright meteors per hour. Originating from comet 55P/Tempel-Tuttle’s dust trail, these fast meteors (70 km/s) leave vivid, lingering trails radiating from Leo’s “sickle” asterism. No major storm is expected in 2025. For UK and northern-hemisphere observers, the best pre-dawn viewing is when Leo rises high; wrap up warmly, grab a deck chair, and be patient. The chart shows the eastward London sky at midnight on Nov 16–17.",
+      "summaryTokens": 760,
+      "generatedAt": "2025-11-11T03:35:26.211Z"
     },
     {
       "id": "science/2025/nov/10/investors-transhumanist-ideas-neurotech-progress-elon-musk",
@@ -53,9 +65,9 @@
       "section": "science",
       "publishedDate": "2025-11-10T05:00:54Z",
       "trailText": "Fascination of investors such as Elon Musk with uploading their brains to computers is hindering progress in curing disease, say scientists",
-      "summary": "Experts warn that high-profile backers like Elon Musk and Sam Altman are skewing public perception of neurotechnology by hyping remote brain uploads and AI mergers, overshadowing real progress: recent implants decoding inner speech and restoring vision. While medical BCI devices offer near–term treatments for ALS, paralysis and vision loss, consumer EEG wearables raise privacy concerns but lack robust data, and sci-fi ventures like Nectome remain technically implausible. Critics fear hype-driven narratives could spur overbroad regulation and distract from therapeutic aims.",
-      "summaryTokens": 924,
-      "generatedAt": "2025-11-10T12:42:39.632Z"
+      "summary": "Experts Marcello Ienca and Michael Hendricks warn that Elon Musk’s and Sam Altman’s transhumanist hype—brain uploading, AI merges—distorts neurotech discourse and could provoke restrictive, fear-driven regulation. This narrative overshadows genuine progress: inner-speech decoding implants for paralysis, eye prostheses restoring vision, and promising treatments for ALS and Parkinson’s. While tech giants pursue wearables (EEG earbuds, wristbands), critics urge focusing on realistic medical devices, clear evidence standards for consumer neurotech, and abandoning sci-fi brain-uploading dreams.",
+      "summaryTokens": 1704,
+      "generatedAt": "2025-11-11T03:35:26.211Z"
     },
     {
       "id": "science/2025/nov/09/older-people-playing-pickleball-isnt-risky-its-medicine",
@@ -65,9 +77,9 @@
       "section": "science",
       "publishedDate": "2025-11-09T17:01:05Z",
       "trailText": "Letters: I’d rather see active, smiling people with the odd strain than a generation glued to the sofa, says physiotherapist Christien Bird",
-      "summary": "Physiotherapist Christien Bird argues that pickleball and other strength-based activities offer medicine, not risk, for the over-50s. Despite a 2020 study citing 91% of pickleball injuries in this age group, Bird emphasizes that inactivity, not occasional strains, fuels frailty. Fitness predicts long-term health—especially for menopausal women losing bone and muscle—yet most would exercise if guided professionally. She calls out societal acceptance of elderly fragility, urging support for supervised strength training, dancing or hiking to build confidence, manage injuries and prevent dependence.",
-      "summaryTokens": 800,
-      "generatedAt": "2025-11-10T12:42:39.632Z"
+      "summary": "Physiotherapist Christien Bird contends that while a 2020 study found 91% of pickleball injuries involve those over 50, the real crisis is inactivity. Fitness is the top predictor of long-term health and independence, and ageing need not mean fragility. Women face accelerated bone and muscle loss during menopause, yet the majority of inactive women want professional guidance to become active. Bird argues supervised strength training and joyful movement—pickleball, hiking, dancing—are ‘medicine’: injuries are manageable, but frailty is not.",
+      "summaryTokens": 474,
+      "generatedAt": "2025-11-11T03:35:26.211Z"
     },
     {
       "id": "science/2025/nov/09/sperm-selling-donation-social-media-facebook-they-treat-men-like-vending-machines",
@@ -77,9 +89,9 @@
       "section": "science",
       "publishedDate": "2025-11-09T07:00:25Z",
       "trailText": "Parenthood can seem&nbsp;an impossible dream for many, and online sperm donor groups offer&nbsp;a solution, but they can be a murky world",
-      "summary": "On Facebook, unregulated sperm-donor groups like Sperm Donors UK and Start a Family Here have surged—driven by high HFEA clinic costs, donor shortages, and long waits—attracting thousands of often desperate women and couples. Without oversight, transactions risk exploitation, sexual coercion under the guise of “natural insemination,” STIs, genetic disorders (e.g. fragile X), and legal battles: notably unregulated donor Robert Albon’s claims to 180 children. Young donors and influencer-donors cash in, while recipients cite mental-health struggles and unknowable sibling webs. Judges warn of court disputes, and Facebook is now probing unsafe content.",
-      "summaryTokens": 832,
-      "generatedAt": "2025-11-10T12:42:39.632Z"
+      "summary": "UK Facebook groups such as Sperm Donors UK and Start a Family Here enable informal sperm donations, sidestepping costly HFEA-regulated clinics. Membership has surged to over 10,000, but participants face harassment, scams and coercion—sometimes pressured into sexual ‘natural insemination’—and risks including STDs, genetic disorders and legal battles over parental rights. High-profile donors like German influencer Daniel Bayen promote global donation networks, raising ethics and incest concerns as untraceable half-sibling pools grow. Family courts and Facebook are now investigating these unregulated, exploitative shortcuts to parenthood.",
+      "summaryTokens": 494,
+      "generatedAt": "2025-11-11T03:35:26.211Z"
     },
     {
       "id": "science/2025/nov/09/retired-australian-teacher-discovers-new-fossil-species-oldest-in-southern-hemisphere",
