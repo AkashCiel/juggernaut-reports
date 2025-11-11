@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-10T12:43:57.928Z",
+    "generated_at": "2025-11-11T03:40:46.606Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-08"
+      "to": "2025-11-10"
     },
-    "article_count": 173,
+    "article_count": 176,
     "merge_info": {
       "previous_count": 173,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 173
+      "new_articles": 3,
+      "updated_articles": 0,
+      "total_count": 176
     },
     "batch_info": {
-      "initial_batch_id": "batch_6911ddf549248190900b47ca2e09e931",
+      "initial_batch_id": "batch_6912afb11c688190bc8dc12188e7a306",
       "retry_batches": [],
-      "total_tokens": 3211,
+      "total_tokens": 8402,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/10/data-centers-latin-america",
+      "title": "Data centers meet resistance over environmental concerns as AI boom spreads in Latin America",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/10/data-centers-latin-america",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/10/data-centers-latin-america",
+      "section": "technology",
+      "publishedDate": "2025-11-10T23:58:06Z",
+      "trailText": "An expert describes how communities in some of the world’s driest areas are demanding transparency as secretive governments court billions in foreign investment",
+      "summary": "Mozilla researcher Paz Peña reveals mounting local resistance in Latin America to massive AI data centers built in arid regions of Chile, Brazil and Uruguay. Governments courting foreign investment through tax breaks and deregulated environmental assessments—such as raising diesel-emission thresholds in Chile—keep site data secret under corporate-secrecy claims. Communities, lacking transparency on water, energy and pollution impacts, are invoking the Escazú Agreement and suing to obtain information. In Uruguay, Montevideo residents successfully sued for Google’s water-use data amid a drought. Activists see an opening to raise environmental standards against both big tech and polluting local industries.",
+      "summaryTokens": 873,
+      "generatedAt": "2025-11-11T03:40:46.434Z"
+    },
+    {
+      "id": "technology/2025/nov/10/sam-altman-can-openai-profits-keep-pace",
+      "title": "Can OpenAI keep pace with industry’s soaring costs?",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/10/sam-altman-can-openai-profits-keep-pace",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/10/sam-altman-can-openai-profits-keep-pace",
+      "section": "technology",
+      "publishedDate": "2025-11-10T16:37:08Z",
+      "trailText": "As investor jitters grow, the loss-making ChatGPT firm’s vast spending commitments test the limits of Silicon Valley optimism",
+      "summary": "OpenAI’s $1.4 trn eight-year compute bill dwarfs its $13 bn annual revenue, stoking investor jitters over its ability to fund AI infrastructure. CEO Sam Altman’s tense exchange with investor Brad Gerstner and CFO Sarah Friar’s brief call for government guarantees—coupled with circular Oracle and Nvidia partnerships—underscore funding gymnastics. Altman now expects revenues to rise above $20 bn this year and “hundreds of billions” by 2030, betting on consumer subscriptions, enterprise ChatGPT, datacentre services and hardware devices. Skeptics cite slowing corporate AI adoption and model performance risks, warning that demand may not cover mounting costs.",
+      "summaryTokens": 1467,
+      "generatedAt": "2025-11-11T03:40:46.434Z"
+    },
+    {
+      "id": "technology/2025/nov/10/apple-whatsapp-spyware-paragon",
+      "title": "Tech giants vow to defend users in US as spyware companies make inroads with Trump administration",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/10/apple-whatsapp-spyware-paragon",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/10/apple-whatsapp-spyware-paragon",
+      "section": "technology",
+      "publishedDate": "2025-11-10T16:00:52Z",
+      "trailText": "Apple and WhatsApp say they will keep warning users if their phones are targeted by governments using hacking software against them",
+      "summary": "Apple and WhatsApp have vowed to keep alerting users, including in the US, when their phones face government hacking attempts after spyware firms Paragon Solutions and NSO Group pursue US contracts. Paragon’s Graphite spyware has been approved for ICE use, while NSO Group has recruited former US ambassador David Friedman as executive chairman and seeks to lift US sanctions. Both companies claim to fight crime, but their tools have been abused to spy on journalists, activists and executives, raising due-process and privacy concerns domestically.",
+      "summaryTokens": 783,
+      "generatedAt": "2025-11-11T03:40:46.434Z"
+    },
     {
       "id": "technology/2025/nov/08/elon-musk-global-far-right",
       "title": "Elon Musk makes himself far-right fixture after White House departure",
