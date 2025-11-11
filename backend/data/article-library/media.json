@@ -1,37 +1,85 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2025-11-10T11:26:30.070Z",
+    "generated_at": "2025-11-11T03:27:57.234Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-10"
     },
-    "article_count": 96,
+    "article_count": 100,
     "merge_info": {
-      "previous_count": 93,
-      "new_articles": 3,
-      "updated_articles": 8,
-      "total_count": 96
+      "previous_count": 96,
+      "new_articles": 4,
+      "updated_articles": 9,
+      "total_count": 100
     },
     "batch_info": {
-      "initial_batch_id": "batch_6911cb6c36908190b5042d730a188b12",
+      "initial_batch_id": "batch_6912ac2427d08190827c02c67a256501",
       "retry_batches": [],
-      "total_tokens": 24805,
-      "processing_time_hours": 0
+      "total_tokens": 28688,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "media/2025/nov/10/bbc-board-member-tory-links-led-charge-systemic-bias-claims",
+      "title": "BBC board member with Tory links ‘led charge’ in systemic bias claims, say insiders",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/10/bbc-board-member-tory-links-led-charge-systemic-bias-claims",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/10/bbc-board-member-tory-links-led-charge-systemic-bias-claims",
+      "section": "media",
+      "publishedDate": "2025-11-10T19:23:29Z",
+      "trailText": "Sources say Robbie Gibb amplified criticisms of Trump, Gaza and trans rights coverage, and had ‘a lot of oxygen in the room’",
+      "summary": "Robbie Gibb, a former Tory communications chief and BBC board member, is accused of ‘leading the charge’ by amplifying ex-adviser Michael Prescott’s memo alleging systemic bias in coverage of Donald Trump, Gaza and trans rights. His interventions preceded the surprise resignations of DG Tim Davie and news chief Deborah Turness. Lib Dem leader Ed Davey calls for Gibb’s removal before appointing a new director general. Chair Samir Shah apologised for a disputed Panorama Trump‐speech edit as Trump threatens a $1 billion lawsuit.",
+      "summaryTokens": 608,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
+    },
+    {
+      "id": "media/2025/nov/10/witnessing-the-wrath-of-richard-gott-in-chile",
+      "title": "Witnessing the wrath of Richard Gott in Chile | Letter",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/10/witnessing-the-wrath-of-richard-gott-in-chile",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/10/witnessing-the-wrath-of-richard-gott-in-chile",
+      "section": "media",
+      "publishedDate": "2025-11-10T17:59:55Z",
+      "trailText": "Letter: Neal Ascherson on one of the lowest points in British postwar diplomacy",
+      "summary": "Neal Ascherson recalls Richard Gott’s searing confrontation with the British ambassador in Santiago in the aftermath of Pinochet’s 1973 coup. As desperate fugitives clambered over embassy walls seeking refuge, the British mission – unlike most others – turned them away, even while it sold Hawker Hunter jets to Pinochet’s forces. The ambassador and his wife lauded the putsch and the weapons deal. Outraged, Gott erupted in a blistering denunciation that left staff stunned and etched one of the lowest points of British postwar diplomacy.",
+      "summaryTokens": 1311,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
+    },
+    {
+      "id": "media/2025/nov/10/who-could-replace-tim-davie-bbc-director-general",
+      "title": "Who could replace Tim Davie as BBC director general?",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/10/who-could-replace-tim-davie-bbc-director-general",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/10/who-could-replace-tim-davie-bbc-director-general",
+      "section": "media",
+      "publishedDate": "2025-11-10T15:30:25Z",
+      "trailText": "Corporation may seek a candidate with news experience but commercial credentials could also be a prerequisite",
+      "summary": "As Tim Davie prepares to leave amid bias controversies and ahead of the 2027 royal charter renewal, BBC chair Samir Shah seeks a successor with strong news credentials and commercial savvy. Leading contenders are Alex Mahon, ex-Channel 4 CEO known for cost cuts and crisis management; Charlotte Moore, former BBC content director now at Sony’s Left Bank; Jay Hunt, Apple TV creative head with decades in UK broadcasting; and ITV boss Carolyn McCall, eyeing a major Sky-Comcast deal. Other names include All3Media’s Jane Turton, producer-turned-governor Sophie Turner Laing, ex-Dow Jones chief Will Lewis (phone-hacking risk) and interim regulator chair Doug Gurr.",
+      "summaryTokens": 450,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
+    },
+    {
+      "id": "media/2025/nov/10/slugs-can-be-why-bbc-apologising-trump-documentary-what-happens-next",
+      "title": "Why the BBC is apologising over a Trump documentary – and what happens next",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/10/slugs-can-be-why-bbc-apologising-trump-documentary-what-happens-next",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/10/slugs-can-be-why-bbc-apologising-trump-documentary-what-happens-next",
+      "section": "media",
+      "publishedDate": "2025-11-10T14:47:07Z",
+      "trailText": "Fallout continues over BBC’s editorial standards and claims that exit of bosses is result of ‘campaign by political enemies’",
+      "summary": "The BBC chair Samir Shah apologised for an “error of judgment” in editing Donald Trump’s Panorama speech after Michael Prescott’s leaked report alleged selective cuts, prompting the resignations of news chief Deborah Turness and director general Tim Davie amid claims of a right-wing campaign against the broadcaster. A new DG will be appointed by the BBC board, which handles governance independently of ministers, though government sets the charter and licence fee. With the BBC charter due for renewal in 2027, the DG will lead key negotiations on funding, governance and impartiality.",
+      "summaryTokens": 1574,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
+    },
+    {
       "id": "media/2025/nov/10/bbc-resignations-internal-coup-says-former-sun-editor-david-yelland",
-      "title": "BBC resignations are result of internal ‘coup’, says former Sun editor ",
+      "title": "BBC chair apologises for Trump speech edit but defends corporation against bias claims",
       "webUrl": "https://www.theguardian.com/media/2025/nov/10/bbc-resignations-internal-coup-says-former-sun-editor-david-yelland",
       "apiUrl": "https://content.guardianapis.com/media/2025/nov/10/bbc-resignations-internal-coup-says-former-sun-editor-david-yelland",
       "section": "media",
-      "publishedDate": "2025-11-10T08:49:17Z",
-      "trailText": "David Yelland says Tim Davie and Deborah Turness were undermined by people close to BBC board",
-      "summary": "Former Sun editor David Yelland told Radio 4’s Today programme that the departures of BBC director-general Tim Davie and head of news Deborah Turness over alleged bias amounted to an inside coup by board insiders who systematically undermined their leadership. He blamed a failure of governance by chair Samir Shah, noting Davie walked rather than was fired. Their resignations followed right-wing and White House attacks over a leaked Telegraph report on a Panorama Trump speech edit. Shah is set to apologize to MPs, while senior BBC journalists maintain no intent to mislead viewers.",
-      "summaryTokens": 867,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "publishedDate": "2025-11-10T14:09:13Z",
+      "trailText": "Samir Shah says BBC ‘must champion impartiality’, as Ed Davey warns UK must ‘defend our democracy from foreign interference’",
+      "summary": "BBC chair Samir Shah apologised for an “error of judgment” in the way Panorama spliced two sections of Donald Trump’s speech, conceded the edit gave the impression of urging violence, but defended the corporation’s impartiality amid claims of bias. His letter to MPs followed 500+ complaints and a critical memo by former adviser Michael Prescott. The controversy spurred the resignations of director-general Tim Davie and head of news Deborah Turness, drew a legal threat from Trump, and prompted critics—former Sun editor David Yelland calling it an “internal coup,” Ed Davey warning against foreign interference and Nigel Farage denouncing institutional bias.",
+      "summaryTokens": 1145,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/why-is-the-bbc-expected-to-apologise-over-a-donald-trump-speech-edit",
@@ -41,9 +89,9 @@
       "section": "media",
       "publishedDate": "2025-11-10T08:28:30Z",
       "trailText": "Director general and head of news quit amid accusations of bias over Trump and trans issues at broadcaster",
-      "summary": "After a Telegraph-published 19-page memo by former adviser Michael Prescott alleged that the BBC selectively edited Donald Trump’s January 6 speech on Panorama, demonstrated anti-Israel bias in BBC Arabic and showed a Stonewall-aligned approach to transgender issues, director general Tim Davie and news chief Deborah Turness resigned. Chair Samir Shah faces calls to apologise for the manipulated clip. Senior Conservatives including Boris Johnson and Kemi Badenoch decried ‘leftwing bias’, while figures like Nick Robinson and John Simpson warned against partisan assaults on the corporation’s impartiality.",
-      "summaryTokens": 1126,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "BBC director general Tim Davie and head of news Deborah Turness abruptly resigned after a 19-page dossier by former adviser Michael Prescott accused the corporation of breaching impartiality. Prescott alleged Panorama selectively spliced Trump’s January 6 speech—juxtaposing “fight like hell” remarks while omitting his call for peaceful protest—highlighted anti-Israel bias in BBC Arabic and criticised an LGBT unit for promoting a Stonewall-aligned stance on trans issues. Board chair Samir Shah is set to apologise. Senior Conservatives and Trump’s team label the BBC left-wing, while insiders warn of a right-wing campaign led by Robbie Gibb to undermine editorial standards.",
+      "summaryTokens": 765,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/tim-davies-resignation-restore-public-trust-in-bbc",
@@ -53,9 +101,9 @@
       "section": "media",
       "publishedDate": "2025-11-09T20:47:32Z",
       "trailText": "Senior insiders admit concern about big editorial errors and fear attacks are part of ongoing campaign to undermine the broadcaster",
-      "summary": "Tim Davie and Deborah Turness resigned amid fallout from a leaked Panorama report by Michael Prescott accusing the BBC of \"serious and systemic\" bias for editing Donald Trump's speech to imply he encouraged the January 6 Capitol riots. The revelations sparked demands for resignations from Boris Johnson and Kemi Badenoch and US White House attacks branding the BBC \"fake news.\" Insiders warn both real editorial lapses and a political campaign risk eroding trust. Culture Secretary Lisa Nandy and opposition figures like Lib Dem leader Ed Davey stress the broadcaster’s vital democratic role. A royal charter review before 2027 seeks to future-proof independence and accountability, yet public confidence remains in jeopardy.",
-      "summaryTokens": 1465,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "In early November 2025, director-general Tim Davie and news chief Deborah Turness resigned after a leaked report by former adviser Michael Prescott alleged Panorama misedited a Donald Trump speech, triggering right-wing criticism and internal alarm over ‘serious and systemic’ bias. Culture Secretary Lisa Nandy and senior BBC staff privately warn of politically motivated campaigns undermining the broadcaster. Facing a 2027 charter review, government insiders seek reforms to secure editorial independence while boosting accountability. Restoring public trust now depends on fair, accurate reporting free from ideological bias.",
+      "summaryTokens": 1117,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/tim-davie-bbc-resignation-statement-deborah-turness",
@@ -65,9 +113,9 @@
       "section": "media",
       "publishedDate": "2025-11-09T19:58:12Z",
       "trailText": "Full text of director general’s note to staff and the resignation statement from head of news Deborah Turness",
-      "summary": "After a former adviser accused the BBC of “serious and systemic” bias in coverage of Trump, Gaza and trans rights, director general Tim Davie and news chief Deborah Turness have resigned. Davie, after 20 years at the corporation, accepted “ultimate responsibility” for editorial mistakes, praised the BBC’s public service value, thanked the board for unwavering support and outlined plans for an orderly handover to shape the next Royal Charter. Turness, stepping down over the Panorama–Trump controversy, defended BBC News’ impartiality, highlighted growing trust and pledged a smooth transition.",
-      "summaryTokens": 802,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "BBC Director-General Tim Davie and News CEO Deborah Turness have resigned amid accusations of “serious and systemic” bias in the corporation’s coverage of Donald Trump, Gaza and trans rights. After 20 years, Davie said he would step down to allow a successor to shape the next Royal Charter, thanked the board, staff and global audiences, and took “ultimate responsibility” for recent mistakes. Turness, who led BBC News since 2022, also offered her resignation over the Panorama–Trump controversy, defended the impartiality of BBC journalism, praised her team’s work and pledged an orderly handover.",
+      "summaryTokens": 1002,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/tim-davie-expected-to-resign-bbc-director-general",
@@ -77,9 +125,9 @@
       "section": "media",
       "publishedDate": "2025-11-09T19:35:00Z",
       "trailText": "Davie says departure is ‘my own decision’, while head of news also quits. Insiders say it ‘feels like a coup’ by broadcaster’s enemies",
-      "summary": "BBC director general Tim Davie and news chief Deborah Turness have resigned after former adviser Michael Prescott alleged “serious and systemic” bias in coverage of Trump, Gaza and trans rights, notably over an edited Trump Capitol speech. Their departures follow criticism from Trump allies who labelled the BBC “fake news” and UK politicians demanding reform. The BBC board, chaired by Samir Shah, plans apologies amid scrutiny over past errors including antisemitic contributors, Glastonbury livestreams and Gary Lineker comments, as funding talks loom.",
-      "summaryTokens": 1494,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "BBC director-general Tim Davie and head of News Deborah Turness resigned after ex-adviser Michael Prescott accused the corporation of “serious and systemic” bias in coverage of Trump, Gaza and trans rights. Their departures come as the BBC prepares to apologise for splicing Donald Trump’s January 6 speech on Panorama, despite board support from chairman Samir Shah. Critics from Trump’s press secretary Karoline Leavitt to UK politicians Nigel Farage, Ed Davey and Kemi Badenoch demand top-to-bottom reform. Prescott’s letter also highlighted antisemitic contributors on BBC Arabic amid wider debates over impartiality and funding.",
+      "summaryTokens": 561,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/tim-davie-the-marketing-man-who-became-the-bbcs-director-general",
@@ -89,9 +137,9 @@
       "section": "media",
       "publishedDate": "2025-11-09T19:28:21Z",
       "trailText": "The media boss navigated the corporation through years of crisis and controversy",
-      "summary": "Tim Davie, former PepsiCo marketing VP, joined the BBC in 2005, rising to head audio & music, where his bid to close 6 Music and the Asian Network was reversed after public outcry. As BBC Worldwide chief and acting director-general in 2012–13, he navigated the Newsnight McAlpine fallout and the £80 m Lonely Planet loss. As DG since 2020, he merged BBC Studios, faced the Gary Lineker suspension, Glastonbury ‘death to IDF’ stream and Ofcom Gaza sanctions. A CBE and board member of EBU, he earned £525 k in 2021.",
-      "summaryTokens": 1338,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "Tim Davie, a former PepsiCo marketing executive, joined the BBC in 2005 to lead marketing and later its audio and music division, where he controversially proposed closing 6 Music and the Asian Network and managed the Russell Brand prank fallout. After stints as BBC Worldwide chief and acting director-general during the Savile/McAlpine crises, he merged Worldwide into BBC Studios in 2018. Appointed director-general in 2020, Davie has since navigated high-profile controversies—from Gary Lineker’s 2023 suspension to Ofcom sanctions over Gaza coverage—while overseeing governance roles and earning a CBE in 2018.",
+      "summaryTokens": 1078,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/bbc-bias-row-timeline-a-week-of-hostile-headlines-and-calls-for-heads-to-roll",
@@ -101,9 +149,9 @@
       "section": "media",
       "publishedDate": "2025-11-09T16:13:16Z",
       "trailText": "Rightwing media have published a series of attacks on the corporation after a memo from a former BBC adviser critical of its output",
-      "summary": "Over one week, rightwing outlets led by the Daily Telegraph and Daily Mail steadily published front-page exposés based on a leaked memo from Michael Prescott alleging BBC editorial bias, including doctored Panorama edits of Trump’s speech, Gaza and transgender coverage slants. Tory MPs Caroline Dinenage and Kemi Badenoch demanded answers, former PM Boris Johnson joined calls for Tim Davie to explain or quit, and Ofcom patron Lord Grade urged an inquiry. Amid mounting pressure, DG Tim Davie and BBC News head Deborah Turness resigned.",
-      "summaryTokens": 1187,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "Rightwing outlets led by The Telegraph launched a week-long campaign over a leaked memo by ex-advisor Michael Prescott alleging BBC editorial bias—accusing Panorama of doctoring Trump’s speech, minimizing Israeli suffering and censoring transgender reporting. Successive front pages from Daily Telegraph, Daily Mail and Sunday titles demanded Tim Davie’s ousting as Tory figures (Kemi Badenoch, Lord Grade) and Boris Johnson amplified claims, and White House press secretary Karoline Leavitt branded the corporation \"100% fake news.\" Culture secretary Lisa Nandy vowed scrutiny, but Davie and BBC News head Deborah Turness resigned under mounting pressure.",
+      "summaryTokens": 1714,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/lisa-nandy-says-she-still-has-confidence-in-bbc-leaders-after-trump-speech-edit",
@@ -113,9 +161,9 @@
       "section": "media",
       "publishedDate": "2025-11-09T11:43:46Z",
       "trailText": "Culture secretary has spoken to BBC chair Samir Shah about criticised edit of US president’s 6 January 2021 speech",
-      "summary": "Culture secretary Lisa Nandy has reiterated her confidence in BBC chair Samir Shah and DG Tim Davie as the corporation prepares to apologise for misleadingly editing a 6 January Trump speech in Panorama. The Commons select committee has demanded the BBC’s response to allegations by former adviser Michael Prescott, who accused it of systemic bias in reporting on Gaza, trans rights and other issues. Nandy, who has spoken with Shah, will review the BBC’s submission. Critics, including Trump’s press secretary and opponents of the BBC, have seized on the affair amid ongoing funding and governance debates.",
-      "summaryTokens": 1129,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "Culture secretary Lisa Nandy affirmed her confidence in BBC chair Samir Shah and director-general Tim Davie after Panorama spliced clips from Donald Trump’s January 6, 2021 speech to imply he told supporters 'we fight like hell,' prompting a forthcoming apology. The edit, revealed alongside a letter by former external adviser Michael Prescott accusing the BBC of systemic bias on Gaza, trans rights and antisemitism in BBC Arabic, has drawn criticism from Trump’s press secretary and scrutiny by the Commons culture, media and sport select committee. Nandy, who has discussed the matter with Shah, warned that blurred lines between fact and opinion threaten public trust.",
+      "summaryTokens": 1143,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/john-laws-australian-radios-golden-tonsils-who-dominated-airwaves-for-six-decades-obituary",
@@ -125,9 +173,9 @@
       "section": "media",
       "publishedDate": "2025-11-09T09:47:51Z",
       "trailText": "Unapologetically provocative broadcaster’s ability to connect with his audience significantly influenced talkback radio",
-      "summary": "John Laws, nicknamed “Golden Tonsils,” was a trailblazing Australian talkback radio broadcaster whose six-decade career saw him become one of the world’s highest-paid hosts. His warm, melodious voice and unapologetically provocative style built a devoted audience and enormous political influence, as premiers and prime ministers lined up for his morning show. Despite his commercial success, Laws courted controversy—most notably the 1999 cash-for-comment scandal—and faced multiple regulatory breaches. Born in 1935, he began broadcasting at 18, authored books and songs, and returned from retirement in 2011. He died aged 90, survived by his wife Caroline and their blended family.",
-      "summaryTokens": 1092,
-      "generatedAt": "2025-11-10T11:26:29.602Z"
+      "summary": "John Laws, dubbed the “Golden Tonsils”, died aged 90, leaving a six-decade legacy as Australia’s highest-paid talkback broadcaster. From his 1953 debut in regional Victoria to primetime slots on 2UE, 2GB and 2SM, his rich voice and candid style drove record ratings and turned advertisers into loyal sponsors. He influenced politicians, faced the 1999 cash-for-comment scandal, contempt and decency breaches, yet retained a devoted audience. Married to Caroline Cameron Waller for 43 years, Laws overcame polio, battled depression and penned poetry, songs and cookbooks. Inducted into the Radio Hall of Fame, he shaped modern talk radio.",
+      "summaryTokens": 976,
+      "generatedAt": "2025-11-11T03:27:56.818Z"
     },
     {
       "id": "media/2025/nov/09/abc-chair-kim-williams-warns-autocratic-tech-owners-artificial-intelligence-dangerous-sinister-outcomes",
