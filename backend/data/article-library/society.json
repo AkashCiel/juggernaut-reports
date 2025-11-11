@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2025-11-10T12:43:24.313Z",
+    "generated_at": "2025-11-11T03:38:17.425Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-10"
+      "to": "2025-11-11"
     },
-    "article_count": 246,
+    "article_count": 251,
     "merge_info": {
-      "previous_count": 239,
-      "new_articles": 7,
-      "updated_articles": 3,
-      "total_count": 246
+      "previous_count": 246,
+      "new_articles": 5,
+      "updated_articles": 7,
+      "total_count": 251
     },
     "batch_info": {
-      "initial_batch_id": "batch_6911ddc974e081909d284edeaa834b24",
+      "initial_batch_id": "batch_6912af066b8081908fa56eebc16a2773",
       "retry_batches": [],
-      "total_tokens": 17992,
+      "total_tokens": 23067,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "society/2025/nov/11/nhs-staff-who-visit-patients-at-home-say-st-georges-flags-can-mean-no-go-zones",
+      "title": "NHS staff who visit patients at home say St George’s flags can mean ‘no-go zones’",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/11/nhs-staff-who-visit-patients-at-home-say-st-georges-flags-can-mean-no-go-zones",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/11/nhs-staff-who-visit-patients-at-home-say-st-georges-flags-can-mean-no-go-zones",
+      "section": "society",
+      "publishedDate": "2025-11-11T00:01:03Z",
+      "trailText": "Black and Asian staff left feeling ‘deliberately intimidated’, according to chief executive of one NHS trust",
+      "summary": "NHS staff visiting patients at home report feeling deliberately intimidated by summer displays of St George’s flags, with Black and Asian carers describing some areas as ‘no-go zones’. Two anonymous trust chief executives detailed harassment incidents, including abusive filming of a mixed-race nurse’s car. The Royal College of Nursing warned that anti-migrant rhetoric fuels racism, urging employers to protect lone community nurses. The Department of Health and Social Care asked staff to report threats to police, while ministers defended the flags as national symbols. Trust leaders also warned upcoming junior doctor strikes risk undermining fragile NHS improvements.",
+      "summaryTokens": 1529,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
+    },
+    {
+      "id": "society/2025/nov/11/england-children-commissioner-rachel-de-souza-calls-for-closure-of-young-offender-institutions",
+      "title": "England’s children’s commissioner calls for closure of young offender institutions",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/11/england-children-commissioner-rachel-de-souza-calls-for-closure-of-young-offender-institutions",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/11/england-children-commissioner-rachel-de-souza-calls-for-closure-of-young-offender-institutions",
+      "section": "society",
+      "publishedDate": "2025-11-11T00:01:03Z",
+      "trailText": "Dame Rachel de Souza says hundreds of children are being locked up unnecessarily due to failing services",
+      "summary": "England’s children’s commissioner, Dame Rachel de Souza, warns that young offender institutions (YOIs) have become ‘waiting rooms’ for children remanded due to failing support services, not risk. In her Longford Lecture and new report she reveals that in 2023–24, 62% of remanded children received no custodial sentence and 17% had charges dropped, while average time in remand rose to 125 nights. She highlights overrepresentation of ethnic minorities (56%), a collapse in secure home and specialist foster placements (from 13% to 5%), and serious violence and safeguarding failures at Oakhill and Feltham. De Souza calls for urgent closure of all YOIs and investment in community-based alternatives.",
+      "summaryTokens": 530,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
+    },
+    {
+      "id": "society/2025/nov/11/councillors-in-england-face-suspensions-for-misconduct-as-part-of-government-overhaul",
+      "title": "Councillors in England face suspensions for misconduct as part of government overhaul",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/11/councillors-in-england-face-suspensions-for-misconduct-as-part-of-government-overhaul",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/11/councillors-in-england-face-suspensions-for-misconduct-as-part-of-government-overhaul",
+      "section": "society",
+      "publishedDate": "2025-11-11T00:01:02Z",
+      "trailText": "Local authorities to be given powers to suspend rule-breaking officials and to withhold allowances",
+      "summary": "Under new legislation, English councils can suspend mayors and councillors up to six months for serious misconduct—including bullying, assault or rule breaches—and withhold allowances. A mandatory code of conduct will apply across all local authorities after 94% consultation support. Cases cited include a Devon councillor jailed for harassment and a Tewkesbury member convicted of child sexual assault. Ministers aim to boost public trust, root out abuse, and bar officials from parallel foreign campaigns. Additional reforms cover remote meetings and curbing four-day-week trials.",
+      "summaryTokens": 668,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
+    },
+    {
+      "id": "society/2025/nov/10/ai-chatbots-stop-prisoner-release-errors",
+      "title": "AI chatbots could help stop prisoner release errors, says justice minister",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/10/ai-chatbots-stop-prisoner-release-errors",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/10/ai-chatbots-stop-prisoner-release-errors",
+      "section": "society",
+      "publishedDate": "2025-11-10T18:54:59Z",
+      "trailText": "HMP Wandsworth gets ‘green light’ to use AI after team sent in to find ‘quick fixes’ after spate of mistakes",
+      "summary": "James Timpson, the justice minister, announced that HMP Wandsworth has been given the green light to use AI chatbots following a double manhunt triggered by the mistaken release of a sex offender and a fraudster. A specialised team will deploy AI to read and process paper records, cross-reference aliases, merge datasets and calculate sentences and release dates—replacing manual calculations by inexperienced staff. With 262 erroneous releases in the year to March (a 128% rise), the AI pilot is part of wider tech upgrades designed to stem systemic failures in the UK’s paper-bound prison system.",
+      "summaryTokens": 935,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
+    },
+    {
+      "id": "society/2025/nov/10/a-neet-way-to-help-youth-in-dudley",
+      "title": "A Neet way to help youth in Dudley | Brief letters",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/10/a-neet-way-to-help-youth-in-dudley",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/10/a-neet-way-to-help-youth-in-dudley",
+      "section": "society",
+      "publishedDate": "2025-11-10T17:59:33Z",
+      "trailText": "Brief letters: Black Country jobs crisis | DWP calculations | Renaming roads | Old letter writers",
+      "summary": "Four letters address youth unemployment in Dudley, DWP winter fuel payment rules, street renaming tactics and changing letter styles. Kartar Uppal, a Black Country teacher of 24 years, highlights Dudley’s leading NEET rate and urges early investment in technical education to equip working-class youth with employer-attractive skills. Godfrey Keller explains DWP calculates winter fuel payments in the qualifying week based on age and region, with final entitlement contingent on 2025–26 income. John Starbuck proposes simple street-name tweaks, and Lynn Fotheringham notes her own letters have shortened over four decades.",
+      "summaryTokens": 1003,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
+    },
     {
       "id": "society/2025/nov/10/crisis-charity-to-become-a-landlord-in-attempt-to-rectify-catastrophic-housing-in-uk",
       "title": "Crisis charity to become a landlord in attempt to rectify ‘catastrophic’ housing in UK",
@@ -29,9 +89,9 @@
       "section": "society",
       "publishedDate": "2025-11-10T05:00:54Z",
       "trailText": "Exclusive: Homelessness charity planning to buy properties as it can no longer rely on access to social housing",
-      "summary": "Crisis, the UK homelessness charity, will become a landlord for the first time, launching a fundraising appeal to buy at least 1,000 homes in London and Newcastle and provide Housing First tenancy support. It says social housing access has collapsed amid a ‘catastrophic’ crisis: 299,100 households suffered acute homelessness in 2024, up 21% since 2022 and 45% since 2012; hospital, prison and asylum‐eviction homelessness rose by over 20%. Crisis urges ministers to deliver a promised homelessness strategy, boost housing benefit and guarantee large-scale social housing building.",
-      "summaryTokens": 435,
-      "generatedAt": "2025-11-10T12:43:23.697Z"
+      "summary": "Homelessness charity Crisis will become a landlord for the first time, launching a fundraising appeal to buy 1,000+ homes in London and Newcastle with bespoke Housing First support after social housing access collapsed. Its study found 299,100 English households in acute homelessness in 2024—a 21% rise since 2022 and 45% since 2012—with evictions from asylum accommodation up 37% and post-institution homelessness up 22%. CEO Matt Downie warns average homeless male lifespan is now 44. Crisis urges ministers to publish a homelessness strategy by Christmas, increase housing benefit and guarantee social housing scale amid the government’s £39 billion, 10-year, 180,000-home programme.",
+      "summaryTokens": 845,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
     },
     {
       "id": "society/2025/nov/10/similar-pressure-to-london-the-housing-crisis-reaches-newcastle",
@@ -41,9 +101,9 @@
       "section": "society",
       "publishedDate": "2025-11-10T05:00:53Z",
       "trailText": "In the north-east city, charity Crisis is having to buy its own housing stock to meet sharp rise in homelessness",
-      "summary": "Charity Crisis in Newcastle has seen daily queues of rough sleepers, sofa-surfers, families facing eviction, domestic violence survivors and refugees seeking help as rental costs surge from room rentals (£500–550) to one-bed flat rates. Social housing waits now range from three months for urgent cases to two–three years for low priority, matching pressures once unique to London. In response, Crisis will for the first time acquire its own housing stock in Newcastle and London to bridge gaps left by private and social sectors, aiming to relieve staff and clients amid dwindling face-to-face council services.",
-      "summaryTokens": 804,
-      "generatedAt": "2025-11-10T12:43:23.697Z"
+      "summary": "Newcastle’s charity Crisis reports daily queues of rough sleepers, sofa-surfers, families facing eviction and refugees as local rents soar to £500–550 for a single room. Social housing waits now range from three months for urgent cases up to two or three years for low-priority applicants. The gap between housing benefit and private rents is highest in the north-east, mirroring pressures once seen only in London. In response, Crisis will become a landlord for the first time, buying property in Newcastle (and London) to boost supply, even as council advice services remain largely remote.",
+      "summaryTokens": 485,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
     },
     {
       "id": "society/2025/nov/09/gren-gaskell-obituary",
@@ -53,9 +113,9 @@
       "section": "society",
       "publishedDate": "2025-11-09T17:51:25Z",
       "trailText": "Other lives: Office manager and former miner who wrote three books inspired by his experiences in the Nottinghamshire mining community",
-      "summary": "Gren Gaskell, 89, rose from Nottinghamshire miner to Thorn EMI branch manager, championing leftwing causes and the less fortunate. Born in Bulwell, he overcame childhood hardship after his miner father died, influenced by headteacher’s secretary Mrs Gunn who sparked his love of literature. After retirement he moved to Malvern, married Arline Lillis, chaired local U3A and writers’ circle, and published three books drawing on mining heritage. A singer under the stage name Tony Firelli, he travelled across Europe and managed Lewy body dementia with resilience. Survived by his wife, Arline.",
-      "summaryTokens": 992,
-      "generatedAt": "2025-11-10T12:43:23.697Z"
+      "summary": "Gren Gaskell (1925–2025), former Bulwell miner turned Thorn EMI branch manager, whose childhood hunger after his father’s pit death fueled his advocacy for the disadvantaged. Encouraged by a school secretary to read Shakespeare, he rose from the Nottinghamshire pits to office life in the 1960s while moonlighting as pub singer Tony Firelli. A lifelong Labour member and later Quaker, he chaired Malvern Writers’ Circle and U3A, publishing three collections of mining-inspired poetry and stories including Tales from the Golden Bull (2017). Retiring to Malvern with second wife Arline, he traveled across Europe and Kazakhstan. He endured Lewy body dementia with fortitude. Survived by Arline.",
+      "summaryTokens": 894,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
     },
     {
       "id": "society/2025/nov/09/it-pays-to-support-womens-health-in-the-workplace",
@@ -65,9 +125,9 @@
       "section": "society",
       "publishedDate": "2025-11-09T17:02:13Z",
       "trailText": "Letter: Prof Geeta Nargund says employers need to take action on health inequality as research shows more than 32% of women aren’t receiving enough help to stay in work",
-      "summary": "Prof Geeta Nargund urges UK employers to address women’s health inequality after the Keep Britain Working review spotlighted £6bn annual cost from worklessness due to ill health. Joint research by NHS Confederation and Create Health Foundation finds £11bn lost annually to gynaecological absenteeism; 15% of women shift to part-time roles, 14% quit entirely, and 32% report insufficient employer support. She calls for urgent employer investment with clear policies and welcomes the government’s plan to refresh the women’s health strategy, arguing combined guidelines and funding could transform retention, equity and strengthen the UK economy.",
-      "summaryTokens": 682,
-      "generatedAt": "2025-11-10T12:43:23.697Z"
+      "summary": "Prof Geeta Nargund warns UK employers incur an £11bn annual cost from absenteeism tied to gynaecological conditions. Her research shows 15% of women shift to part-time roles and 14% quit due to women’s health issues, while 32% lack adequate employer support. Citing the Keep Britain Working review and an NHS Confederation partnership, she frames health inequality as a barrier to career aspirations and welcomes new government policy to guide workplace support.",
+      "summaryTokens": 1103,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
     },
     {
       "id": "society/2025/nov/09/milburn-review-mental-health-disability-youth-unemployment",
@@ -77,21 +137,21 @@
       "section": "society",
       "publishedDate": "2025-11-09T14:37:37Z",
       "trailText": "Former health secretary Alan Milburn’s review is exploring reasons for rising inactivity among young people",
-      "summary": "Alan Milburn’s government-commissioned review will examine how mental health conditions and disabilities drive rising UK youth economic inactivity, with nearly one million 16–24-year-olds classified as NEET. Slated for summer publication, it complements Charlie Mayfield’s finding of a 75% surge (190,000) in mental-health-related long-term sickness among 16–34-year-olds between 2019–24 and the Timms review of personal independence payments. The chancellor is set to unveil budget funding for a paid “youth guarantee” for Universal Credit claimants after 18 months, aiming to break a cycle of unemployment and disengagement.",
-      "summaryTokens": 882,
-      "generatedAt": "2025-11-10T12:43:23.697Z"
+      "summary": "Alan Milburn, former Labour health secretary, will lead a review into the impact of mental health issues and disability on UK youth unemployment, focusing on nearly one million 16–24-year-olds classified as NEET. Due summer, it aims to identify barriers and propose practical measures to prevent long-term detachment from work, training or education. It follows Charlie Mayfield’s findings of a 75% rise (190,000) in economically inactive 16–34-year-olds with mental health conditions since 2019. The government plans a ‘youth guarantee’ for paid work under universal credit, complementing the Timms review of personal independence payments.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
     },
     {
       "id": "society/2025/nov/09/hmrc-trial-child-benefit-crackdown",
-      "title": "HMRC trial of child benefit crackdown wrongly suspected fraud in 46% of cases",
+      "title": "Home Office data in HMRC benefit fraud trial wrong in 46% of cases",
       "webUrl": "https://www.theguardian.com/society/2025/nov/09/hmrc-trial-child-benefit-crackdown",
       "apiUrl": "https://content.guardianapis.com/society/2025/nov/09/hmrc-trial-child-benefit-crackdown",
       "section": "society",
       "publishedDate": "2025-11-09T12:00:42Z",
       "trailText": "Exclusive: Almost half of families flagged as emigrants based on Home Office travel data were still living in UK",
-      "summary": "Home Office travel records used in an HMRC pilot incorrectly flagged 46% of families as emigrants, suspending child benefit despite them living in the UK. The trial saved £17m but exceeded acceptable error margins (1–5%), with Northern Ireland error at 78%, sparking MP calls for urgent probe. Critics warned that using flawed Home Office data for punitive fraud checks was “alarming” and “problematic”. Affected parents described distress, long helpline waits and extensive evidence demands. HMRC has apologized, updated procedures to cross-check PAYE records, and ceased using Dublin travel data.",
-      "summaryTokens": 484,
-      "generatedAt": "2025-11-10T12:43:23.697Z"
+      "summary": "An HMRC pilot using flawed Home Office travel data to suspend child benefit wrongly flagged 46% of families still in the UK, far above acceptable limits. The scheme saved £17m but in Northern Ireland misidentified 78% of emigrants (129 flagged vs 28 actual). Labour MP Kim Johnson called for an investigation; experts warn the data is unreliable. After parents lost payments, HMRC dropped Dublin data, updated procedures, apologised and added a one-month response window.",
+      "summaryTokens": 2777,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
     },
     {
       "id": "society/2025/nov/09/royal-college-of-psychiatrists-faces-member-backlash-over-qatar-partnership",
@@ -101,9 +161,9 @@
       "section": "society",
       "publishedDate": "2025-11-09T06:00:25Z",
       "trailText": "More than 150 psychiatrists sign letter condemning contract to host exams in country with well-documented human rights abuses",
-      "summary": "More than 150 UK psychiatrists have condemned the Royal College of Psychiatrists’ new contract with Qatar’s state-owned Hamad Medical Corporation to host clinical membership exams (mock patient consultations) in Doha (10–13 November) for about 120 candidates. Signatories cite Qatar’s documented human rights abuses—criminalisation of same-sex relations, lack of legal protection for women and domestic abuse, and migrant-worker exploitation—and warn the partnership risks reputational damage and conflicts with the college’s values. The college defends the move as an anti-discriminatory effort to expand global-south access under the same standards used in the UK and Singapore.",
-      "summaryTokens": 697,
-      "generatedAt": "2025-11-10T12:43:23.697Z"
+      "summary": "The Royal College of Psychiatrists signed a contract with Qatar’s state‐run Hamad Medical Corporation to host membership exams in Doha, prompting over 150 UK members to protest human rights concerns—from criminalisation of same‐sex relations and migrant worker abuses to gender inequality. Critics warn of reputational damage and moral conflict, while the college argues the move expands global south access, upholds UK‐standard exam integrity and includes LGBTQ+ mental health competencies.",
+      "summaryTokens": 462,
+      "generatedAt": "2025-11-11T03:38:17.178Z"
     },
     {
       "id": "society/2025/nov/08/having-open-conversations-with-boys-is-key-to-fending-off-the-manosphere-threat",
