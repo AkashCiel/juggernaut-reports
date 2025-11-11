@@ -1,37 +1,301 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-10T15:15:39.471Z",
+    "generated_at": "2025-11-11T03:44:16.486Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-10"
+      "to": "2025-11-11"
     },
-    "article_count": 1126,
+    "article_count": 1152,
     "merge_info": {
-      "previous_count": 1110,
-      "new_articles": 16,
-      "updated_articles": 17,
-      "total_count": 1126
+      "previous_count": 1126,
+      "new_articles": 26,
+      "updated_articles": 18,
+      "total_count": 1152
     },
     "batch_info": {
-      "initial_batch_id": "batch_6911de17bed0819093791057132c9326",
+      "initial_batch_id": "batch_6912b04cfee881909ac7ff9491b69143",
       "retry_batches": [],
-      "total_tokens": 78164,
-      "processing_time_hours": 2.5
+      "total_tokens": 103129,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "us-news/2025/nov/10/charlie-kirk-turning-point-usa-berkeley",
+      "title": "Protests as rightwing Charlie Kirk activist group makes final campus tour stop",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/charlie-kirk-turning-point-usa-berkeley",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/charlie-kirk-turning-point-usa-berkeley",
+      "section": "us-news",
+      "publishedDate": "2025-11-11T03:22:03Z",
+      "trailText": "People shout ‘Fascists out of Berkeley’ as Turning Point USA brings message to college with history of leftwing activism",
+      "summary": "Two months after Charlie Kirk’s fatal shooting, Turning Point USA capped its American Comeback tour at UC Berkeley, a historic leftwing stronghold, in a sold-out memorial event headlined by comedian Rob Schneider and author Frank Turek. Hundreds of protesters—chanting “Fascists out of Berkeley” and bearing Palestinian flags—clashed with attendees amid a heavy police and helicopter presence outside Zellerbach Hall. Berkeley students expressed anxiety over potential violence after a car broadcast fake gunshots and four students were arrested for vandalism earlier that day. Trump allies have leveraged Kirk’s death to denounce Democrats as an “enemy within,” prompting debates on free speech, partisan polarization and campus activism.",
+      "summaryTokens": 440,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/trump-administration-news-updates-today-latest",
+      "title": "Trump news at a glance: Senate passes funding package to end shutdown after Democrats break ranks",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/trump-administration-news-updates-today-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/trump-administration-news-updates-today-latest",
+      "section": "us-news",
+      "publishedDate": "2025-11-11T03:11:55Z",
+      "trailText": "Trump said he would “abide by the deal” struck by US lawmakers",
+      "summary": "Senate advanced a 60-40 compromise funding bill to end the longest US shutdown after seven Democrats and an independent joined Republicans; it now moves to the House amid calls to replace Minority Leader Schumer. Trump said he’d “abide by the deal.” Elsewhere, Trump threatened the BBC with a $1bn lawsuit over a speech edit; the Supreme Court rejected a same-sex marriage appeal and will hear a late-mail-ballot case; Defense Sec. Hegseth said six alleged drug boats were sunk; plus updates on Trump’s Fox interview, Ghislaine Maxwell’s commutation bid, a $7.5m US payment to Equatorial Guinea, halted Thai-Cambodia peace, and partial Syria-sanctions relief.",
+      "summaryTokens": 1669,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/donald-trump-interview-laura-ingraham-economy",
+      "title": "Trump scolds air traffic controllers and blames rivals for economy in interview",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/donald-trump-interview-laura-ingraham-economy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/donald-trump-interview-laura-ingraham-economy",
+      "section": "us-news",
+      "publishedDate": "2025-11-11T02:47:53Z",
+      "trailText": "President put forth his version of ‘Trump Care’ and insisted ‘we have the greatest economy we ever had’",
+      "summary": "In an exclusive Fox News interview with Laura Ingraham aired as Congress ended the longest shutdown, President Trump lambasted unpaid air traffic controllers, praised his economy as “the greatest we ever had,” and deflected poor indicators onto Biden, rivals like Newsom and Schumer, and “lousy Fed person” Powell. He unveiled a “Trump Care” plan to shift health-care subsidies into personal accounts, opposed ACA tax-credit extensions, and vowed a $10,000 shutdown bonus for controllers without specifying funding. Trump also derided 30-to-50-year mortgages, credited GOP lawmakers for stalling Schumer, and reaffirmed MAGA base priorities.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/senate-approves-funding-package-government-shutdown",
+      "title": "Senate approves funding deal to end longest US government shutdown",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/senate-approves-funding-package-government-shutdown",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/senate-approves-funding-package-government-shutdown",
+      "section": "us-news",
+      "publishedDate": "2025-11-11T02:07:37Z",
+      "trailText": "Bill, which passed 60-40 but does not include key health concession demanded by Democrats, now heads to House",
+      "summary": "The US Senate approved a 60-40 continuing resolution, with seven Democrats and one independent joining Republicans to fund most federal agencies through January 2026, ending the 40-day shutdown. The deal—headed to the House—omits expiring Affordable Care Act premium tax credits, though Majority Leader John Thune promises a later vote. It includes three‐year VA, USDA and FDA funding, bars further furloughs, reverses recent cuts and guarantees back pay. President Trump and Speaker Mike Johnson urge swift House action, while Democrats who backed the compromise face fierce backlash and calls for Schumer’s resignation for conceding on healthcare.",
+      "summaryTokens": 683,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/deportations-equatorial-guinea-money",
+      "title": "US has sent $7.5m to Equatorial Guinea to accept noncitizens deportees ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/deportations-equatorial-guinea-money",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/deportations-equatorial-guinea-money",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T23:18:05Z",
+      "trailText": "Country is one of world’s most repressive and corrupt, raising concerns over rights abuses of those deported",
+      "summary": "Under the Trump administration’s third-country deportation strategy, the State Department sent $7.5 million from the Migration and Refugee Assistance fund to Equatorial Guinea’s repressive government to accept noncitizen deportees. Critics note the fund is meant for humanitarian crises, not removals. Democrats like Jeanne Shaheen flagged Obiang’s regime—accused of massive corruption, embezzlement and human trafficking—and demanded safeguards against abuse. Deputy Secretary Landau met Vice-President Nguema Obiang—convicted of laundering tens of millions—to finalize 'orderly reception' protocols, alarming UN experts about legal and transparency gaps.",
+      "summaryTokens": 1853,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/chuck-schumer-resign-calls-shutdown-vote-democrats",
+      "title": "Angry Democrats call on Schumer to resign after eight vote to end shutdown",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/chuck-schumer-resign-calls-shutdown-vote-democrats",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/chuck-schumer-resign-calls-shutdown-vote-democrats",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T23:14:09Z",
+      "trailText": "Some lawmakers and progressive groups blame minority leader after eight senators defect",
+      "summary": "After eight Senate Democrats broke ranks to back a shutdown-ending deal funding the government through January without extending ACA tax credits, progressive groups and three House Democrats—Mike Levin, Ro Khanna and Rashida Tlaib—demanded Minority Leader Chuck Schumer’s resignation, calling his leadership a “colossal failure.” Anti-Trump strategist Rick Wilson and Our Revolution executive director Joseph Geevarghese joined in. No Senate Democrats or House leader Hakeem Jeffries have called for his ouster. Schumer voted “no” on the compromise but faces fierce blame for its passage.",
+      "summaryTokens": 677,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/sami-hamdi-to-be-released",
+      "title": "UK commentator detained by ICE after Israel criticism to be released, family says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/sami-hamdi-to-be-released",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/sami-hamdi-to-be-released",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T23:12:19Z",
+      "trailText": "Sami Hamdi’s visa was revoked in what appeared to be retaliation for criticism of Israel while touring the US",
+      "summary": "Sami Hamdi, a British Muslim political commentator, was detained by ICE at San Francisco airport on October 26 after his visa was revoked—a move critics say retaliates against his criticism of Israel. CAIR and his legal team argued the only charge was visa overstay, with no criminal or security grounds, and that video clips were edited to misrepresent his stance. Hamdi has accepted voluntary departure, and his family says he will be released and return home soon. DHS describes him as a terrorist sympathizer and is arranging his removal.",
+      "summaryTokens": 916,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/democrat-candidate-congress-criticizes-deal-end-shutdown-mother",
+      "title": "Democratic candidate for Congress criticizes deal to end shutdown – which her mother voted to advance",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/democrat-candidate-congress-criticizes-deal-end-shutdown-mother",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/democrat-candidate-congress-criticizes-deal-end-shutdown-mother",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T19:23:30Z",
+      "trailText": "Stefany Shaheen omitted to mention that her mother, Jeanne Shaheen, was among party’s rebel senators who voted to approve bill",
+      "summary": "Stefany Shaheen, NH Democratic House candidate, condemned the bipartisan funding deal ending a 40-day shutdown, accusing Speaker Mike Johnson of blocking a vote on ACA premium tax-credit extensions. She omitted that her mother, Senator Jeanne Shaheen, was one of seven Democrats who advanced the bill without securing healthcare guarantees. The measure funds the government through Jan. 30 and only promises a future Senate vote on healthcare. Critics on X highlighted her oversight. Stefany, a mother of four and entrepreneur, makes healthcare reform the centerpiece of her 2026 campaign. CBPP warns millions could lose coverage if credits lapse.",
+      "summaryTokens": 751,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/ghislaine-maxwell-commutation-prison-sentence",
+      "title": "Ghislaine Maxwell eyeing commutation, whistleblower tells House Democrats",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/ghislaine-maxwell-commutation-prison-sentence",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/ghislaine-maxwell-commutation-prison-sentence",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T18:22:45Z",
+      "trailText": "Epstein associate is also receiving special treatment in prison, Democrats say, according to whistleblower",
+      "summary": "Ghislaine Maxwell, serving a 20-year sex-trafficking sentence, is reportedly preparing a commutation application for review by the Trump administration, alleges a whistleblower shared with House Democrats. According to Rep. Jamie Raskin, Maxwell has received special treatment at federal prison camp Bryan: the warden printing, copying and transmitting her documents, arranging private visits in cordoned-off areas, delivering customized meals, permitting computers and a service dog, and offering after-hours exercise. Democrats have demanded answers from Trump and DOJ, urging rejection of any clemency. The White House declined comment.",
+      "summaryTokens": 814,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/why-bbc-resignations-trump-speech-edit",
+      "title": "The BBC’s editing of Trump’s January 6 speech caused controversy – but what did he really say?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/why-bbc-resignations-trump-speech-edit",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/why-bbc-resignations-trump-speech-edit",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T18:20:55Z",
+      "trailText": "The scandal has provided Trump another avenue to attack the media, and to relitigate his involvement in January 6",
+      "summary": "BBC’s Panorama spliced two sentences from Trump’s Jan 6 speech—54 minutes apart—to imply he urged supporters to “walk to the Capitol” and “fight like hell.” A leaked dossier on alleged bias prompted resignations of director-general Tim Davie and chair Samir Shah, who called it an “error in judgment.” Trump used the controversy to attack UK media, relitigate the 2020 election and threaten a $1 billion lawsuit. The episode highlights enduring clashes over BBC impartiality, Trump’s incendiary rhetoric and efforts to rewrite the narrative of January 6.",
+      "summaryTokens": 419,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/food-stamps-snap-benefits-teens-las-vegas",
+      "title": "‘We need this food’: Las Vegas teens on hunger and anxiety amid Snap cuts",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/food-stamps-snap-benefits-teens-las-vegas",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/food-stamps-snap-benefits-teens-las-vegas",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T18:10:40Z",
+      "trailText": "Children may not understand politics of shutdown, but fear of future hunger can affect young brains, research reveals",
+      "summary": "On Halloween in downtown Las Vegas, neighbors handed out six varieties of meal kits to teens in the distressed Naked City as SNAP benefits were delayed by a federal shutdown. Fifteen-year-old Lola, her brother Andre and friends loaded bags for their mothers, worried that without EBT funds their families would face empty fridges and missed rent. Their mother Naomi, earning about $18 an hour with irregular shifts, must choose between groceries and bills. Studies reveal chronic food insecurity triggers fight-or-flight stress in young brains, undermining cognitive development, emotional regulation and fueling anxiety, insomnia and behavioral issues among teens.",
+      "summaryTokens": 423,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/zohran-mamdani-victory-speech-writer",
+      "title": "Zohran Mamdani’s writer on crafting a historic victory speech: ‘In New York, inspiration is everywhere’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/zohran-mamdani-victory-speech-writer",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/zohran-mamdani-victory-speech-writer",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T18:06:52Z",
+      "trailText": "The mayor-elect’s address pulled from Socialist titans, Astoria’s uncles and his rival’s father. Julian Gerson explains how the two collaborated on the ‘love letter to New York’",
+      "summary": "Julian Gerson, 29-year-old campaign writer for mayor-elect Zohran Mamdani, crafted his victory speech a week in advance. He wove in a quote from socialist icon Eugene Debs, nods to Senegalese taxi drivers and Uzbek nurses, an Arabic line ana minkum wa ilaykum, hip-hop cadences and references to Nehru and Fiorello La Guardia. Collaborating closely with Mamdani and consultants, Gerson drew on Astoria uncles, Obama’s 2008 address and musical inspirations to produce a combative yet inclusive oration hailed as a ‘love letter to New York.’",
+      "summaryTokens": 1005,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/supreme-court-mail-in-ballots",
+      "title": "US supreme court to decide if states can accept late-arriving mail ballots ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/supreme-court-mail-in-ballots",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/supreme-court-mail-in-ballots",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T17:01:46Z",
+      "trailText": "Case involves a challenge to a Mississippi law that allows ballots to count if they are received days after election day",
+      "summary": "Supreme Court to decide Watson v RNC on Mississippi law allowing mail ballots received up to five days after Election Day if postmarked in time. Sixteen states, DC, Guam and Puerto Rico have similar rules. Mississippi argues votes are cast when postmarked; the Fifth Circuit struck down the law, holding federal law requires ballots by Election Day. Justices may defer to Bost v Illinois, an Illinois late-ballot case. They’re also considering a major Voting Rights Act challenge. Republicans led by Trump oppose late-arriving ballots; some states ended the practice and an executive order penalizing states is tied up in court.",
+      "summaryTokens": 2407,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/florida-falling-iguanas-cold-weather",
+      "title": "Floridians warned about falling iguanas as wintry weather hits eastern US",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/florida-falling-iguanas-cold-weather",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/florida-falling-iguanas-cold-weather",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T16:09:23Z",
+      "trailText": "Cold and snow take hold in eastern two-thirds of the US, from the Great Lakes to Florida and Texas",
+      "summary": "An early-November Arctic blast is sweeping across the eastern two-thirds of the US, from the Great Lakes—where up to 18 inches of snow and thundersnow are forecast—to Florida and Texas. Meteorologists warn of record-breaking lows, gusty winds raising fire risk along the Gulf coast, and lake-effect bands dumping heavy snow in Chicago, Milwaukee and Detroit. In Florida, sub-50 °F temperatures can immobilize iguanas, causing them to fall from trees—prompting safety alerts after a 2023 injury. The prolonged cold is poised to hasten the end of the Atlantic hurricane season by chilling ocean waters.",
+      "summaryTokens": 879,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/senate-democrats-government-shutdown-vote",
+      "title": "Senate Democrats who defected in shutdown vote: ‘This was the only deal’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/senate-democrats-government-shutdown-vote",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/senate-democrats-government-shutdown-vote",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T15:39:04Z",
+      "trailText": "Seven Democrats and an independent face fury over support to advance funding bill amid 40-day shutdown",
+      "summary": "After weeks of stalemate, the US Senate passed a 60-vote continuing resolution, reopening the federal government through January 30, 2026, after seven Democrats (Shaheen, Hassan, Kaine, Durbin, Cortez Masto, Rosen, Fetterman) and independent Angus King joined Republicans. The deal halts mass federal worker firings, restores those dismissed during the shutdown, guarantees back pay and prohibits further layoffs. Defectors defended it as the only viable option to resume talks on extending ACA premium tax credits, but Senate and House Democratic leaders including Schumer and Jeffries denounced the compromise for ceding leverage. The measure heads back to a narrowly divided House, where Republican unity is vital.",
+      "summaryTokens": 1146,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/us-government-shutdown-update-senate-funding-bill",
+      "title": "Senate advances funding bill to end longest-ever US government shutdown",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/us-government-shutdown-update-senate-funding-bill",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/us-government-shutdown-update-senate-funding-bill",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T14:49:00Z",
+      "trailText": "The amended package will still have to be passed by the House and sent to Trump for his signature, a process that could take days",
+      "summary": "Senate on Sunday advanced, 60–40, a bipartisan compromise to end the 40-day government shutdown, reauthorizing funding through Jan. 30, 2026, undoing federal layoffs, guaranteeing retroactive pay and approving three appropriations for agriculture, veterans affairs and more—yet omitting Democrats’ sought Affordable Care Act premium tax credits. Eight Democrats joined all Republicans. The measure now needs House approval and President Trump’s signature. GOP leaders say healthcare subsidies must wait; Democrats vow to block the bill in the House over the subsidy cliff.",
+      "summaryTokens": 859,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/trump-pardons-giuliani-meadows-2020-election",
+      "title": "Trump pardons Giuliani, Meadows and others over plot to steal 2020 election",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/trump-pardons-giuliani-meadows-2020-election",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/trump-pardons-giuliani-meadows-2020-election",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T14:09:20Z",
+      "trailText": "Federal clemency towards president’s close allies largely symbolic as some still face legal exposure at state level",
+      "summary": "President Trump granted full, unconditional federal pardons to 77 associates—including Rudy Giuliani, former chief of staff Mark Meadows, Sidney Powell, Jenna Ellis and John Eastman—for orchestrating a fake-elector scheme to overturn the 2020 election. Announced by pardon attorney Ed Martin, the clemencies, which mirror his Jan. 6 rioter pardons, don’t shield recipients from state prosecutions in Georgia, Arizona, Michigan and elsewhere. Several have pending charges or punishments—Giuliani was disbarred and hit with a $150 m defamation judgment; Ellis pleaded guilty in Georgia. Trump lauds the move as “national reconciliation.”",
+      "summaryTokens": 1015,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/trump-bbc-legal-action",
+      "title": "Trump threatens BBC with $1bn legal action over edit of speech in documentary",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/trump-bbc-legal-action",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/trump-bbc-legal-action",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T14:06:24Z",
+      "trailText": "Leaked BBC report said film had ‘completely misled’ viewers by splicing two parts of January 6 speech together",
+      "summary": "Donald Trump has threatened a $1bn lawsuit against the BBC unless it retracts its Panorama documentary edit of his Jan. 6 speech by Friday, calling the spliced footage misleading. Two senior BBC figures—Director General Tim Davie and News CEO Deborah Turness—resigned after a leaked standards report cited failings on issues from Gaza coverage to the Trump edit. Trump and allies, including White House press secretary Karoline Leavitt, have blasted the publicly funded broadcaster as “fake news” and a liberal propaganda machine. The spat underscores Trump’s ongoing attacks on press freedom and media outlets labeled “enemy of the people.”",
+      "summaryTokens": 868,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/hegseth-boat-attacks",
+      "title": "Hegseth says six people killed in two new US attacks on alleged drug boats",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/hegseth-boat-attacks",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/hegseth-boat-attacks",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T13:41:18Z",
+      "trailText": "US defense secretary says without providing evidence that dead from strikes in eastern Pacific were ‘narco-terrorists’",
+      "summary": "US defense secretary Pete Hegseth announced two lethal kinetic strikes on alleged drug‐trafficking boats in international waters off South America, killing six men he labeled ‘narco‐terrorists’ at President Trump’s direction. Hegseth claimed intelligence showed each vessel carried illicit narcotics along known routes. No evidence has been publicly released, prompting UN human rights chief and Venezuela’s Nicolás Maduro to condemn the actions as illegal extrajudicial killings and aggression. The strikes follow a US military buildup in the Caribbean, including a nuclear submarine and carrier strike group, which has driven Venezuela to bolster troop deployments and security measures.",
+      "summaryTokens": 421,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/11/zohran-mamdani-new-york-policies-cost-explainer",
+      "title": "How could Zohran Mamdani pay for his bold agenda for New York? We broke it down",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/11/zohran-mamdani-new-york-policies-cost-explainer",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/11/zohran-mamdani-new-york-policies-cost-explainer",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T13:00:50Z",
+      "trailText": "A look at the realities the mayor-elect will face to pay for his progressive policies – and whose support he needs",
+      "summary": "Mayor-elect Zohran Mamdani’s progressive platform aims to fund free, fast buses (≥$700m/year), universal childcare ($2.5bn–$12bn annually), a 10-year, $100bn plan for 200,000 affordable units, a rent freeze, and five city-owned grocery stores ($60m pilot), by raising about $10bn via a 2% millionaire surcharge, lifting the corporate tax rate from 7.25% to 11.5%, and reallocating within the $116bn city budget. He must secure state legislative and Gov. Hochul approval amid potential Trump administration cuts, fill rent board vacancies, and win over moderate Democrats, though strong popular support and Democratic majorities in Albany may produce negotiated compromises.",
+      "summaryTokens": 976,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/first-thing-senate-advances-funding-bill-to-end-longest-us-government-shutdown-in-history",
+      "title": "First Thing: Senate advances funding bill to end longest US government shutdown in history",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/first-thing-senate-advances-funding-bill-to-end-longest-us-government-shutdown-in-history",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/first-thing-senate-advances-funding-bill-to-end-longest-us-government-shutdown-in-history",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T12:47:39Z",
+      "trailText": "Amended package must be passed by the house and signed by the president. Plus, Volodymyr Zelenskyy on why he’s not afraid of Donald Trump",
+      "summary": "Senate advances a bipartisan funding bill 60–0 to end the longest US government shutdown, but omits the healthcare subsidies Democrats demanded; it now needs House passage and the president’s signature. Senate leader Chuck Schumer decried the failure to address a mounting healthcare crisis. Other First Thing highlights: Israeli soldiers describe unrestrained Gaza civilian killings; Syria’s new president Ahmed al-Sharaa will meet Trump to seek sanctions relief; Zelenskyy says he isn’t afraid of Trump; BBC bosses quit amid bias claims; paracetamol-autism review; Typhoon Fung-Wong’s toll; climate inaction concerns; and features on a record thru-hiker and the Louvre’s “Fedora Man.”",
+      "summaryTokens": 1043,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/10/snap-workers-trump-administration-funding",
+      "title": "Snap workers say Trump administration is ‘using country’s poorest as pawns’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/snap-workers-trump-administration-funding",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/snap-workers-trump-administration-funding",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T12:46:28Z",
+      "trailText": "Employees providing assistance to recipients expressed fears on how lack of aid will affect those who need it most",
+      "summary": "After the federal shutdown paused SNAP benefits for the first time ever on Nov 1, state and local eligibility workers report desperate lines of elderly, disabled and low-income clients denied November payments. With 42 million Americans relying on SNAP, food banks are overwhelmed and school meals halted, heightening hardship as holidays approach. The Trump administration has appealed court orders mandating full funding, creating legal limbo over partial payments. Frontline staff warn this “punitive” pause uses the country’s poorest as political pawns and risks dire consequences if aid remains stalled.",
+      "summaryTokens": 856,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
       "id": "us-news/2025/nov/10/medicaid-head-mispending-claims",
-      "title": "Medicaid head falsely claims $1bn is being spent on healthcare for ‘illegal immigrants’, say experts",
+      "title": "Medicaid chief’s claim $1bn is spent on healthcare for ‘illegal immigrants’ is false, say experts",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/medicaid-head-mispending-claims",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/medicaid-head-mispending-claims",
       "section": "us-news",
       "publishedDate": "2025-11-10T12:00:49Z",
       "trailText": "Mehmet Oz made claim about audits, but experts say he misidentified routine administrative errors",
-      "summary": "CMS administrator Mehmet Oz claimed an audit showed over $1bn in federal funds spent on Medicaid for undocumented immigrants. Experts including Leo Cuello (Georgetown) and Nina Yamanis (American University) say the audits were routine reviews of state administrative errors (e.g., false claims for state-funded programs like Meals on Wheels), unrelated to immigration. Oz’s X post conflated this with debates over ACA tax credits and the One Big Beautiful Bill Act. Misleading rhetoric risks deterring immigrant families—legal or not—from seeking care, potentially worsening public health outcomes like rising HIV rates among Latino gay and trans communities.",
-      "summaryTokens": 1128,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "CMS head Mehmet Oz claimed an audit found over $1 billion in Medicaid spending on ‘illegal immigrants,’ but experts say it reflects routine state–federal matching errors, not undocumented care. Georgetown’s Leo Cuello and reporting from Oregon Live and KFF confirm these audits are standard oversight—tracking claims like Meals on Wheels reimbursements—and unrelated to immigration or HR1 and ACA tax credit debates. Nina Yamanis notes undocumented applicants face strict eligibility checks, making the $1 billion figure highly unlikely. Such rhetoric fuels fear among immigrant families, deterring them from essential medical services and worsening public health outcomes.",
+      "summaryTokens": 488,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/10/rightwing-czech-republic-poland-hungary-democrats",
@@ -41,21 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-10T12:00:48Z",
       "trailText": "As Democrats bask in electoral success the Czech Republic, Slovakia, Poland and Hungary offer a cautionary tale",
-      "summary": "Europe’s populist right has proven resilient, mounting comebacks after electoral defeats in the Czech Republic, Slovakia and Poland, offering US Democrats a cautionary example. In the Czech Republic Andrej Babiš’s ANO party is poised to return to power in coalition with a far-right bloc; Slovakia’s Robert Fico reclaimed the premiership in 2023 after mass protests; Poland’s Law and Justice candidate narrowly won the presidency following PiS’s parliamentary ousting. These surges exploit polarization, economic discontent and an animating nationalist vision, while centrist and left-liberal parties struggle to offer comparable narratives. Scholars warn that urban-rural cleavages and anti-incumbency further fuel populist rebounds, underscoring that even electoral victories may not permanently blunt MAGA-style movements.",
-      "summaryTokens": 1313,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
-    },
-    {
-      "id": "us-news/2025/nov/10/snap-workers-trump-administration-funding",
-      "title": "Snap workers rebuke Trump administration over funding: ‘using our country’s poorest as pawns’",
-      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/snap-workers-trump-administration-funding",
-      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/snap-workers-trump-administration-funding",
-      "section": "us-news",
-      "publishedDate": "2025-11-10T11:00:49Z",
-      "trailText": "Employees providing assistance to recipients expressed fears on how lack of aid will affect those who need it most",
-      "summary": "Amid the federal shutdown, the Trump administration halted SNAP benefits for the first time ever, pausing aid to 42 million low-income Americans after funding lapsed on November 1. Eligibility technicians like Stacy Smith (AFSCME Local 2882) report elderly and disabled clients arriving at offices unaware their food stamps were frozen, with some fearing they’ll resort to eating pet food. Partial funding granted by two courts faces a Supreme Court appeal, while states and local agencies—already coping with budget cuts—race to meet soaring demand at food banks and pantries. USDA has cut November allotments by half. Workers decry using the nation’s poorest as political pawns.",
-      "summaryTokens": 369,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Recent elections in the Czech Republic, Slovakia and Poland show rightwing populists—Babiš’s ANO, Fico’s Smer and PiS—bouncing back after scandals and protests, fueled by polarization, economic grievances and a nationalist vision absent on the center-left. Harvard’s Steven Levitsky and former diplomat Eric Rubin warn this resilience of MAGA-style movements, reinforced by anti-incumbency sentiment and a rural–urban cleavage, mirrors risks for US Democrats: electoral wins may not stave off a Trump comeback or curb illiberal tactics like gerrymandering. Parallels with Hungary’s Orbán model underscore the threat of entrenched authoritarianism despite democratic forms, as voters trade freedoms for security.",
+      "summaryTokens": 892,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/10/coffee-irregular-heartbeat-protection-study",
@@ -65,21 +317,33 @@
       "section": "us-news",
       "publishedDate": "2025-11-10T10:00:04Z",
       "trailText": "Trial’s findings go against common beliefs that people with atrial fibrillation should avoid caffeinated coffee",
-      "summary": "Drinking coffee may lower recurrence of atrial fibrillation according to the six-month Does Eliminating Coffee Avoid Fibrillation (Decaf) trial of 200 patients. Those randomized to at least one daily cup had a 47% recurrence rate versus 64% in the caffeine-abstaining group—a 17% reduced risk and delayed first event. Published in JAMA and presented at AHA, the study tracked episodes via ECGs and wearable monitors across US, Canada and Australia. Limitations include other caffeine sources and untracked diet/exercise. Experts now say moderate coffee is safe for A-fib patients.",
-      "summaryTokens": 682,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "A six-month Decaf randomized trial involving 200 adults with persistent atrial fibrillation found those assigned to drink at least one cup of caffeinated coffee daily had a 47% recurrence rate of irregular heartbeat versus 64% in the abstention group. Overall, coffee consumers were 17% less likely to experience a recurrence and had longer symptom-free intervals. Published in JAMA and presented at AHA 2025, the study used ECGs and wearable monitors but did not track other caffeine sources or lifestyle factors. Experts now consider moderate coffee intake safe for A-fib patients.",
+      "summaryTokens": 479,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
-      "id": "us-news/2025/nov/10/us-government-shutdown-update-senate-funding-bill",
-      "title": "Senate advances funding bill to end longest US government shutdown in history",
-      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/us-government-shutdown-update-senate-funding-bill",
-      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/us-government-shutdown-update-senate-funding-bill",
+      "id": "us-news/2025/nov/10/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: eight Democrats join Republicans to advance funding bill",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/10/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/10/trump-administration-news-updates-today",
       "section": "us-news",
-      "publishedDate": "2025-11-10T03:52:09Z",
-      "trailText": "The amended package will still have to be passed by the House and sent to Trump for his signature, a process that could take days",
-      "summary": "Senate advanced a 60-40 vote on a bipartisan compromise to fund the government through Jan. 30, 2026, end the record 40-day shutdown, undo federal layoffs, and guarantee retroactive pay, but omitted Affordable Care Act tax credits. All Republicans and eight moderate Democrats backed the bill; most Democrats rejected it over healthcare subsidies. The measure now awaits House approval and President Trump’s signature. Senators agreed to a December vote on ACA credits, though House Speaker Mike Johnson opposes it. The shutdown furloughed 700,000+ workers and triggered flight cuts and food aid pauses.",
-      "summaryTokens": 998,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "publishedDate": "2025-11-10T05:29:43Z",
+      "trailText": "Bill, a first step to ending the shutdown, will still need to be deliberated and passed by the Senate, and win approval in the house. Key US politics stories from 9 November at a glance",
+      "summary": "Senate narrowly advanced a compromise funding bill 60–40 to end the longest US government shutdown, with almost all Republicans and eight moderate/final-term Democrats supporting it. The measure omits Democrats’ demanded health-care subsidies, prompting opposition from the party’s majority. It now heads to the House. Concurrently, US flight cancellations surged after the FAA ordered traffic cuts amid the shutdown, Trump floated $2,000 tariffs dividends, repeated a debunked Obama royalty claim, attacked the BBC post–Tim Davie resignation, and drew mixed NFL game reactions.",
+      "summaryTokens": 860,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/09/senate-moves-vote-federal-government-shutdown",
+      "title": "US Senate vote marks step towards ending federal shutdown",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/09/senate-moves-vote-federal-government-shutdown",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/09/senate-moves-vote-federal-government-shutdown",
+      "section": "us-news",
+      "publishedDate": "2025-11-10T02:46:09Z",
+      "trailText": "Senators vote on advancing House-passed stopgap funding bill, suggesting end to historic 40-day shutdown in reach",
+      "summary": "On day 40 of the shutdown, the Senate advanced a House-passed stopgap funding bill to reopen federal agencies immediately—without extending expiring Affordable Care Act tax credits Democrats demand. Majority Leader John Thune said lawmakers would hold a later vote on healthcare subsidies, a ‘vague promise’ that drew bipartisan skepticism. Senate and House Democrats, including Blumenthal, Warren, Sanders and Jeffries, vowed to oppose the package unless ACA credits are guaranteed. If enacted, the measure must clear the House and secure the president’s signature. The shutdown has grounded parks, slowed travel, threatened air traffic control and risked negative Q4 growth.",
+      "summaryTokens": 300,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/trump-obama-obamacare-royalties-claim",
@@ -89,9 +353,21 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T22:09:27Z",
       "trailText": "US president promoted fictional claim from satirical website that has been debunked repeatedly since 2017",
-      "summary": "Trump posted on Truth Social a debunked claim — sourced to satirical sites America’s Last Line of Defense and Dunning-Kruger-Times — that Obama has received $40m in Obamacare royalties (a fake $2.5m annual payment since 2010). The hoax, which resurfaced in February via Facebook and fooled supporters, was captioned “WOW!” as Senate Democrats debated ACA tax credits. The White House declined to say if he knew it was fictional. Christopher Blair, who runs both sites, previously saw Gov. Greg Abbott share his fabrications.",
-      "summaryTokens": 1246,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "President Donald Trump posted on Truth Social that Barack Obama has earned $40 million in annual “royalties linked to Obamacare” since 2010, citing a screenshot from the satirical site America’s Last Line of Defense. The claim, first debunked in 2017 and republished by Christopher Blair’s network (including the Dunning-Kruger-Times), alleges $2.5 million yearly payments halted by DOGE. Despite questions, a White House spokesperson refused to say if Trump knew the claim was false.",
+      "summaryTokens": 597,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/09/usda-trump-undo-snap-food-aid-payments",
+      "title": "US agriculture department tells states to ‘undo’ Snap benefits for families in need",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/09/usda-trump-undo-snap-food-aid-payments",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/09/usda-trump-undo-snap-food-aid-payments",
+      "section": "us-news",
+      "publishedDate": "2025-11-09T21:37:34Z",
+      "trailText": "Directive comes after supreme court order allowing Trump officials to pause food aid payments amid shutdown",
+      "summary": "After the Supreme Court paused a lower court ruling requiring full November SNAP funding amid a 40-day government shutdown, USDA instructed states to “undo” any issued full benefits as unauthorized, threatening to withhold admin costs and recoup overpayments. The memo, sent by Deputy Undersecretary Patrick Penn, has drawn ire from governors and senators—Wisconsin’s Tony Evers, Oregon’s Tina Kotek, Massachusetts’ Maura Healey and Sen. Amy Klobuchar—who vow legal resistance, question applicability to state-funded benefits, and decry the move as cruel amid a hunger crisis.",
+      "summaryTokens": 869,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/trump-tariffs-refund",
@@ -100,10 +376,22 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/09/trump-tariffs-refund",
       "section": "us-news",
       "publishedDate": "2025-11-09T19:50:15Z",
-      "trailText": "Congressional approval would likely be required for plan to take effect, an idea Trump has floated before",
-      "summary": "Former President Donald Trump proposed distributing $2,000 stimulus checks to most Americans (excluding high earners), funded by tariffs he imposed, aiming to boost public support. He posted the plan on Truth Social, calling opponents “FOOLS!” Congressional approval is needed. Critics note tariffs raised $195 billion so far, but $2,000 to roughly 150 million adults would cost an estimated $300 billion–$513 billion. Treasury Secretary Scott Bessent prioritizes using tariff revenue to pay down the $38.12 trillion national debt. The Supreme Court is reviewing the legality of Trump’s global tariffs.",
-      "summaryTokens": 744,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "trailText": "Congressional approval would probably be required for plan to take effect, an idea Trump has floated before",
+      "summary": "Donald Trump proposed a $2,000 per-person “tariff dividend” funded by the administration’s collected duties—excluding high-income recipients—to boost public backing, though bipartisan congressional approval is required. Earlier in 2025, Sen. Josh Hawley introduced a $600 tariff-rebate bill. Treasury Secretary Scott Bessent favors using $195 billion in duties to reduce the $38 trillion federal debt instead. Analysts warn a $2,000 payout to 150 million adults could cost $300–513 billion, far exceeding net tariff revenues. Consumers face an average 18% effective tariff rate—the highest since 1934—as firms pass costs onto buyers. The Supreme Court has expressed skepticism about the legality of Trump’s tariffs.",
+      "summaryTokens": 1690,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
+    },
+    {
+      "id": "us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer",
+      "title": "Ghislaine Maxwell reportedly ‘much happier’ after prison transfer by Trump officials",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer",
+      "section": "us-news",
+      "publishedDate": "2025-11-09T18:07:18Z",
+      "trailText": "Jeffrey Epstein associate, serving 20 years for sex-trafficking crimes, is now in minimum-security federal prison in Texas",
+      "summary": "Emails obtained by NBC News and shared with the House Judiciary Committee reveal that Ghislaine Maxwell, serving a 20-year sentence for sex-trafficking, told friends she’s “much, much happier” after a Trump administration-ordered move in August from a low-security Florida prison to the minimum-security Federal Prison Camp Bryan in Texas. In her messages, Maxwell praised clean facilities, better food, responsive staff and an orderly environment, likening it to “Alice in Wonderland.” Experts and victims criticized the transfer as unprecedented VIP treatment. Her lawyer and brother denounced the leaks as privacy breaches. The U.S. Supreme Court recently refused to hear her appeal.",
+      "summaryTokens": 372,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles",
@@ -113,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T17:00:37Z",
       "trailText": "Activists in Los Angeles say the energy from the Hollywood strikes has been reignited by the success of the mayor-elect",
-      "summary": "Following New York mayor-elect Zohran Mamdani’s surprise win, a group of around 4,000 young DSA-LA activists, including screenwriter Neda Davarpanah, organizer Leslie Chang, and animator Paul Zappia, flew to canvass in NYC’s Upper East Side, Chinatown, Bushwick and Red Hook. They returned with campaign tactics—phone banking, high-engagement volunteer socials, call-and-response policy messaging—and hope to import these strategies into LA’s distinct council-driven races, aiming to revitalize local organizing around universal childcare, free transit and community-first development.",
-      "summaryTokens": 931,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Los Angeles-based DSA members like screenwriter Neda Davarpanah, organizer Leslie Chang and animator Paul Zappia flew to New York to canvass for mayor-elect Zohran Mamdani, drawing energy from his grassroots, policy-driven campaign. They encountered high voter enthusiasm and strong field tactics—group canvassing, direct council member engagement, call-and-response rallies—contrasting with waning momentum in local struggles. Planning to adapt these lessons back home, the 4,000-member DSA–LA chapter aims to replicate Mamdani’s organizing model in LA’s geographically sprawling city council and school board races, turning New York’s hope into California action.",
+      "summaryTokens": 1144,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/zohran-mamdani-has-made-the-future-a-bit-brighter",
@@ -125,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T17:00:35Z",
       "trailText": "Brief letters: New York’s mayor-elect | Foxhunting | Local shops | Where’s cool? | Guardian letter writers",
-      "summary": "Letters to the Guardian reflect on New York’s mayor-elect Zohran Mamdani, hailed for uniting voters with bold, inclusive policies—echoing Barack Obama’s “future looks a little bit brighter”—as a lesson for centre-left politicians. Other correspondents lament illicit foxhunting still practised despite the 2004 ban; fault local consumers rather than chains like Morrisons for killing community shops, proposing alternatives like e-cargo bikes; celebrate Holger Czukay’s playful definition of “cool in the pool”; and mock the self-satisfied tone of Guardian letter writers, before inviting further submissions.",
-      "summaryTokens": 1133,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Readers draw lessons from Zohran Mamdani’s New York mayoral upset, arguing that bold, progressive solutions and an inclusive message of hope—echoing Barack Obama’s remark that “the future looks a little bit brighter”—can galvanize centre-left politics. Other letters lament that foxhunting persists illegally 252 years after its ban, blame local shoppers (not chains) for killing community shops by chasing lower prices and deliveries, cite Holger Czukay’s declaration that real “cool” is “in the pool,” and taunt the smugness of Guardian letter writers.",
+      "summaryTokens": 611,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/flight-cancellations-government-shutdown",
@@ -137,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T16:34:24Z",
       "trailText": "More than 2,500 flights cancelled as transportation secretary says flight reductions could reach 20% if shutdown persists",
-      "summary": "Over the first weekend of the 40-day government shutdown, the FAA ordered a 4% cut in daily flights at 40 high-traffic airports, canceling over 2,500 flights. Airlines must reduce 6% on Tuesday and 10% by Nov 14, with Transportation Secretary Sean Duffy warning cuts could reach 20%, reducing travel to a “trickle” and imperiling holiday plans. Unpaid air traffic controllers—20% to 40% absent—face extended shifts, raising safety concerns. Airlines offer full refunds. Controllers’ union and lawmakers trade blame as freight, tourism and retail sectors brace for broader economic fallout if the shutdown persists.",
-      "summaryTokens": 943,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "FAA ordered 4% flight cuts at 40 major US airports amid the 40-day government shutdown, causing over 2,500 cancellations through Sunday. Sean Duffy warns reductions could climb to 20% if the impasse endures, potentially grounding many travelers before the holidays. With 20–40% of air traffic controllers absent and working unpaid extended shifts, safety concerns rise. Airlines offer full refunds while the controllers’ union delivered 1,600 letters urging Congress to reopen the government. Lawmakers trade blame as analysts warn broader economic fallout—from freight and shipping costs to tourism and manufacturing—if disruptions persist into Thanksgiving.",
+      "summaryTokens": 934,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/birmingham-alabama-homicide-rate",
@@ -149,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T13:00:33Z",
       "trailText": "Local observers cite a reversal of social dynamics, a revitalized police department and violence intervention",
-      "summary": "Despite Trump’s calls for National Guard deployments, Birmingham slashed its homicide rate by 52.3%—from 132 killings during the first 286 days of 2024 (86.3 per 100,000) to 63 in the same period of 2025—without federal troops. Observers attribute the drop to post-pandemic social shifts, revamped police leadership, a new violence-intervention program and the arrest of alleged contract killer Damien McDaniel III (charged with 18 murders). Aggravated assaults fell only 1.4%, indicating fewer deadly shootings rather than a broad crime decline. Mayor Randall Woodfin’s 2024 commission targeted chronic offenders and poverty in six census tracts above 50%. Yet residents say street shootings persist and fear remains high despite fewer murders.",
-      "summaryTokens": 842,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Birmingham cut homicides by more than half in the first 286 days of 2025 (from 132 to 63 murders, rate down from 86.3 to ~42 per 100,000) without National Guard deployment. Officials credit a reversal of pandemic-era social dynamics, a revamped police force, a robust violence-intervention program and last year’s arrest of alleged contract killer Damien McDaniel (accused of 18 slayings). Despite the drop in killings, aggravated assaults remain flat, shootings persist amid high poverty and easy gun access, and residents still report feeling unsafe. Mayor Woodfin’s commission calls for focused deterrence, community investment and expanded support services.",
+      "summaryTokens": 754,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/california-salton-sea-drying-health-effects",
@@ -161,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T13:00:33Z",
       "trailText": "Experts suspect that dust from the sea contains endotoxic bacteria membranes caused by fertilizer runoff",
-      "summary": "Chemical-laden dust from the shrinking Salton Sea, laden with pesticide residues, nutrients and bacterial endotoxin membranes, is harming nearby residents’ lung health, especially children, studies by UC Irvine and UC Riverside show. The UCI trial of 500 ten-year-olds linked proximity to the lake with reduced lung capacity and increased wheezing, echoing Dust Bowl pneumonia. UCR’s mouse research reveals altered lung microbiomes triggering non-allergic asthma. Contamination stems from fertilizer runoff on exposed lakebed amid drought and mismanagement. Advocates urge wetlands restoration, masks and air filtration to mitigate risks.",
-      "summaryTokens": 864,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Peer-reviewed UC Irvine research on 500 children living near the shrinking Salton Sea finds chemical-laden dust from exposed, pesticide- and fertilizer-contaminated lakebed impairs lung capacity, with closer proximity linked to wheezing and reduced forced expiratory volume. A UC Riverside study in mice shows the dust’s endotoxin-rich bacterial membranes alter lung microbiome, triggering non-allergic asthma. The findings highlight a public health crisis for low-income, largely Latino communities downwind up to 100 miles. Advocates call for nutrient-removing wetlands, masks, home air filtration and improved water management to curb toxic dust exposure.",
+      "summaryTokens": 808,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/ingrid-newkirk-peta-interview-animal-rights",
@@ -173,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T12:00:34Z",
       "trailText": "After 45 years as chief fake blood thrower, Ingrid Newkirk is still waging war on everything from leather to cashmere. Is she still relevant?",
-      "summary": "Ingrid Newkirk, 76, co-founder of PETA, still stages dramatic protests—from a “bloody goat” stunt to gifting Anna Wintour a human-hair scarf—to expose animal cruelty. Over 45 years her high-profile tactics, including nude anti-fur campaigns and contentious Holocaust and slavery analogies, have marginally reduced testing, spurred some 25 million people toward veganism and pressured brands like H&M, Kering and Prada to ban fur, down and leather. Today PETA combines shareholder activism with shock stunts, boasting 10 million supporters and 800 staff. Newkirk insists her outré methods remain essential to cut through media clutter amid growing environmental and ethical debates.",
-      "summaryTokens": 902,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Ingrid Newkirk, 76, PETA co-founder, remains agitator-in-chief after 45 years of graphic stunts—from fake-blood protests to a hair-infused scarf for Anna Wintour—to challenge animal exploitation in fashion, food and research. Drawing headlines with “I’d rather go naked” campaigns, plane-crash will gags and Holocaust analogies, she pioneered shareholding and boardroom tactics alongside theatrical direct action. With over 10 million supporters and 800 staff, her methods helped spur Gucci, H&M and others to drop fur and down, yet critics question PETA’s relevance amid climate and sustainability priorities.",
+      "summaryTokens": 1586,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/godfather-of-the-trump-presidency-the-direct-through-line-from-dick-cheney-to-donald-trump",
@@ -185,21 +473,21 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T12:00:33Z",
       "trailText": "A proponent of the unitary executive theory, Cheney helped expand the vast presidential powers Trump enjoys today",
-      "summary": "Dick Cheney, exponent of the unitary executive theory, pioneered expansive presidential powers after 9/11—pre-emptive war doctrine, warrantless NSA spying, Patriot Act excesses and 'enemy combatant' categories—that Donald Trump now exploits against immigrants, drug cartels and political opponents. Scholars trace a direct through-line from Bush–Cheney’s muscular national security agenda to Trump’s unleashed unilateral actions: deadly strikes on narco-traffickers, mass firings, deployment of national guard, and attacks on institutions. While Cheney himself later denounced Trump’s personal uses of executive power, the ideological legacy he built endures in the Supreme Court’s recent tilt toward executive supremacy. His daughter Liz Cheney’s opposition underscores the ongoing fight over checks.",
-      "summaryTokens": 2191,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Dick Cheney, vice-president under George W Bush, championed the “unitary executive theory” to vastly expand presidential power after 9/11—pre-emptive war, warrantless NSA wiretaps, Patriot Act, enemy combatant doctrine and “torture memos.” Those precedents paved the way for Donald Trump’s aggressive use of unilateral authority against immigrants, narco-traffickers and dissenters, exploiting a polarized, gridlocked Congress and recent Supreme Court rulings. Though Cheney later condemned Trump’s excesses, his institutional assault on checks and balances remains the “godfather” of the current presidency’s authoritarian reach.",
+      "summaryTokens": 954,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/trump-midterm-elections-voting-system",
-      "title": "Trump’s assault on voting intensifies as midterms loom: ‘a wholesale attack on free and fair elections’",
+      "title": "Trump’s assault on voting intensifies as midterms loom: ‘A wholesale attack on free and fair elections’",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/09/trump-midterm-elections-voting-system",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/09/trump-midterm-elections-voting-system",
       "section": "us-news",
       "publishedDate": "2025-11-09T12:00:32Z",
-      "trailText": "White House is manipulating voting system, from redistricting to rule changes, to affect midterms",
-      "summary": "Over a year before the 2026 midterms, Trump and allies are mounting a sweeping effort to reshape US voting: pushing for off-cycle redistricting to lock in GOP seats, abandoning DOJ’s defense of the Voting Rights Act, slashing DHS election security funding, demanding birth certificates, purging voter rolls and ending mail-in ballots. Prominent advisers propose invoking emergency powers, deploying federal agents and the military at polling sites and criminally targeting poll workers. Courts have blocked several measures, but states face intense White House pressure and activists warn of a wholesale subversion of free and fair elections.",
-      "summaryTokens": 997,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "trailText": "The White House is manipulating voting system, from redistricting to rule changes, to affect the midterms",
+      "summary": "Over a year before the 2026 midterms, Trump and allies are mounting a comprehensive effort to reshape US voting: pressing redistricting beyond the decennial cycle to gerrymander additional GOP seats, pushing emergency-powers doctrines to station federal agents or military at polls, demanding purges of voter rolls, strict ID rules and an end to mail-in ballots, while DOJ abandons voting-rights defenses and DHS cuts election security. Experts warn this \"wholesale attack on free and fair elections\" leverages intimidation and misinformation, fueling legal challenges and community fears of disenfranchisement and authoritarian overreach.",
+      "summaryTokens": 1769,
+      "generatedAt": "2025-11-11T03:44:16.197Z"
     },
     {
       "id": "us-news/2025/nov/09/canada-snowbirds-florida",
@@ -209,9 +497,33 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T12:00:31Z",
       "trailText": "Annual migration from frigid Canadian winter to Florida sunshine could become thinner as travellers look elsewhere",
-      "summary": "Donald Trump’s tariffs and tougher US immigration rules have slashed bookings by Canadian “snowbirds”—retirees who winter in states like Florida—threatening the $20.5 billion they pump into the US economy. Only 26% of Canadians plan US vacations this winter, down from 41% last year, and over half of those owning US properties are considering selling, citing political tensions. New border measures (biometric scans, mandatory stay registration) add confusion and fear. Meanwhile, Canada’s tourism sector enjoys record revenues as experts warn any significant decline could cripple local businesses and shift snowbird travel to destinations like Mexico.",
-      "summaryTokens": 555,
-      "generatedAt": "2025-11-10T15:15:38.625Z"
+      "summary": "Canada’s 'snowbirds' winter migration to Florida is thinning due to Trump’s tariffs and stricter US immigration measures. Bookings at Fort Lauderdale rentals have declined, deposits forfeited, and many older Canadians abandoning plans: only 26% plan US trips this winter, down from 41%, and just 10% of those 61+ versus 33% last year. New US rules mandate biometric data, photos on entry/exit and mandatory registration. Snowbirds’ $20.5bn spending supports US hospitality and retail; even a 10% drop risks $2.1bn lost. Meanwhile Canada’s tourism revenue rose 6% as some travelers stay home or shift to Mexico.",
+      "summaryTokens": 1012,
+      "generatedAt": "2025-11-11T03:44:16.198Z"
+    },
+    {
+      "id": "us-news/2025/nov/09/california-hunter-rescued-ron-dailey",
+      "title": "Rescued California hunter thought he’d have to watch family ‘from heaven’ – and offers advice",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/09/california-hunter-rescued-ron-dailey",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/09/california-hunter-rescued-ron-dailey",
+      "section": "us-news",
+      "publishedDate": "2025-11-09T11:00:31Z",
+      "trailText": "Ron Dailey, 65, survived nearly three weeks in the frosty, mountainous wilderness after taking a wrong turn",
+      "summary": "Ron Dailey, 65, endured 21 days stranded in the snowbound Sierra National Forest after a wrong turn damaged his truck. Rationing 900 calories into under 70 per day, melting snow for water and using a solar charger with no signal, he twice texted farewell to his family, fearing death. Building fires with flint, toilet paper and wood, he eventually hiked nearly five miles before spotting fellow hunters who rescued him on Nov. 1. Treated and released, Dailey advises always carrying extra supplies.",
+      "summaryTokens": 983,
+      "generatedAt": "2025-11-11T03:44:16.198Z"
+    },
+    {
+      "id": "us-news/2025/nov/09/zohran-mamdani-politics-immigrant-identity",
+      "title": "How Mamdani is defying immigrant expectations by embracing his identity: ‘His boldness resonates’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/09/zohran-mamdani-politics-immigrant-identity",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/09/zohran-mamdani-politics-immigrant-identity",
+      "section": "us-news",
+      "publishedDate": "2025-11-09T10:00:29Z",
+      "trailText": "New York City mayor-elect refused to ‘be in the shadows’ in the face of Islamophobic attacks during his campaign",
+      "summary": "New York’s mayor-elect Zohran Mamdani, a Muslim Ugandan immigrant and democratic socialist, openly embraced his identity amid Islamophobic smears and smear ads during his campaign. Born in Kampala to a Muslim father and Hindu mother, he vowed “not to be in the shadows,” rejecting extremist labels. Supported by groups like the Indian American Muslim Council and CAAAV, he mobilized working-class immigrants on housing and affordability and united Jews, Muslims, Hindus and Christians. In his victory speech he quoted Eugene Debs and Jawaharlal Nehru. His parents—scholar-activist Mahmood Mamdani and filmmaker Mira Nair—embody pluralism that informs his inclusive platform.",
+      "summaryTokens": 1217,
+      "generatedAt": "2025-11-11T03:44:16.198Z"
     },
     {
       "id": "us-news/2025/nov/09/trump-news-at-a-glance-president-suggests-scrapping-obamacare-as-shutdown-flight-chaos-continues",
@@ -221,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T02:00:54Z",
       "trailText": "Trump urged Republican senators to redirect federal money toward direct payments to individuals. Key US politics stories from 8 November at a glance",
-      "summary": "On day 39 of the US government shutdown, President Trump urged Senate Republicans to scrap Obamacare subsidies, redirecting hundreds of billions in ACA funds into direct health savings accounts—an approach welcomed by GOP senators but unlikely to secure Democratic votes. Meanwhile, 1,460 flights were canceled under shutdown–driven federal cuts; Trump lobbies to name Washington’s new NFL stadium after himself; global industries brace for expanded steel tariffs; Olivia Rodrigo condemns DHS for using her song in deportation clips; DHS mistakenly orders engine-less jets.",
-      "summaryTokens": 741,
-      "generatedAt": "2025-11-10T15:15:38.626Z"
+      "summary": "President Donald Trump urged Senate Republicans to redirect hundreds of billions used to subsidize Obamacare into direct payments so individuals can buy private health plans—an idea backed by Graham, Scott and Cassidy but requiring eight Democratic votes and still dependent on insurers—on the 39th day of the federal shutdown. Airlines canceled 1,460 flights on day two of mandatory cuts, raising Thanksgiving travel concerns. Meanwhile, GOP senators floated ACA repeal, Trump pressed to name Washington’s new NFL stadium after himself, global firms braced for extra steel tariffs, and controversies erupted over Olivia Rodrigo and a DHS jet purchase.",
+      "summaryTokens": 749,
+      "generatedAt": "2025-11-11T03:44:16.198Z"
     },
     {
       "id": "us-news/2025/nov/08/border-patrol-gregory-bovino-chicago",
@@ -233,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-09T00:35:55Z",
       "trailText": "Gregory Bovino was called out by a judge only two days earlier for lying about being assaulted by a protester",
-      "summary": "Border Patrol chief Gregory Bovino, the Trump administration’s high-profile face of mass deportations, claimed his agents came under gunfire, vehicular and physical assaults during enforcement near 26th Street and Kedzie in Chicago, but CPD found no evidence of gunshots or firearm injuries. Just two days earlier, a federal judge reprimanded Bovino for falsely claiming he’d been struck by a rock before deploying tear gas in Little Village. His pattern of misleading statements on raids—over 3,000 arrests to date—has sparked protests and legal challenges.",
-      "summaryTokens": 541,
-      "generatedAt": "2025-11-10T15:15:38.626Z"
+      "summary": "Border Patrol chief Gregory Bovino, a prominent Trump administration enforcement figure, claimed in early November that agents were “shot at” during Chicago raids, citing DHS statements. Chicago police found no evidence of gunfire; one officer was only struck by a vehicle. This allegation came days after Judge Sara Ellis concluded Bovino lied about being hit by a rock before deploying tear gas in Little Village. Critics highlight a pattern of false statements amid aggressive raids that have led to over 3,000 arrests, including US citizens.",
+      "summaryTokens": 849,
+      "generatedAt": "2025-11-11T03:44:16.198Z"
     },
     {
       "id": "us-news/2025/nov/08/senate-republicans-trump-obamacare",
@@ -12521,7 +12833,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-21T21:25:20Z",
       "trailText": "Pennsylvania’s Josh Shapiro says US stands at ‘inflection point’ after Charlie Kirk killing and urges unity over division",
-      "summary": "Pennsylvania governor Josh Shapiro told NBC’s Meet the Press Americans must 'universally condemn political violence' after the killing of commentator Charlie Kirk and a York County shoot-out that killed three police officers. Warning of a national 'inflection point', he recounted his mansion’s April firebombing—allegedly by an Israel-war critic—and referenced the June murders of Minnesota House speaker Melissa Hortman and her husband by a suspect previously registered as a Republican. Shapiro distinguished protected speech from incitement, urged unity over division, criticized Benjamin Netanyahu’s Gaza war leadership, defended his 2024 ticket role from Harris memoir claims and declined to confirm a 2028 bid.",
+      "summary": "Pennsylvania governor Josh Shapiro told NBC��s Meet the Press Americans must 'universally condemn political violence' after the killing of commentator Charlie Kirk and a York County shoot-out that killed three police officers. Warning of a national 'inflection point', he recounted his mansion’s April firebombing—allegedly by an Israel-war critic—and referenced the June murders of Minnesota House speaker Melissa Hortman and her husband by a suspect previously registered as a Republican. Shapiro distinguished protected speech from incitement, urged unity over division, criticized Benjamin Netanyahu’s Gaza war leadership, defended his 2024 ticket role from Harris memoir claims and declined to confirm a 2028 bid.",
       "summaryTokens": 4302,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
