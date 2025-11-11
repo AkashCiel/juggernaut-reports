@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-10T11:28:07.500Z",
+    "generated_at": "2025-11-11T03:29:44.328Z",
     "date_range": {
       "from": "2025-09-19",
       "to": "2025-11-10"
     },
-    "article_count": 90,
+    "article_count": 91,
     "merge_info": {
-      "previous_count": 89,
+      "previous_count": 90,
       "new_articles": 1,
       "updated_articles": 3,
-      "total_count": 90
+      "total_count": 91
     },
     "batch_info": {
-      "initial_batch_id": "batch_6911cbef18d48190b3854c1393371c17",
+      "initial_batch_id": "batch_6912ad45b3d4819098a105b63c3f978f",
       "retry_batches": [],
-      "total_tokens": 8181,
+      "total_tokens": 7025,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/10/charging-electric-vehicle-at-home-kit-cost",
+      "title": "Charging an electric car at home: what kit do you need and what is the cost?",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/10/charging-electric-vehicle-at-home-kit-cost",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/10/charging-electric-vehicle-at-home-kit-cost",
+      "section": "money",
+      "publishedDate": "2025-11-10T12:00:47Z",
+      "trailText": "Installing a dedicated charger is good option – so too is switching to an EV tariff and charging at night or smartly",
+      "summary": "Home EV charging requires a dedicated 7.4 kW AC charger (£800–£1 200 installed; £350 government grant) and a smart meter. Off-street parking simplifies fitting; 9.3 m households without it can use on-street lamp-post chargers or await pavement gully rule changes. EV tariffs include classic night-only rates (7–9 p/kWh from midnight to 5–6 am), smart time-of-use plans (e.g. Octopus Go at 7 p/kWh) and subscriptions (£27.50–£30/mth). Peak rates may exceed 26 p/kWh. Long-distance drivers should prioritise cheap overnight windows; city users benefit from automated smart charging.",
+      "summaryTokens": 458,
+      "generatedAt": "2025-11-11T03:29:44.143Z"
+    },
     {
       "id": "money/2025/nov/10/metro-bank-credit-file-late-payment-markers",
       "title": "Metro Bank’s credit file markers are adding to the pain of our son’s death",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-10T07:00:56Z",
       "trailText": "Bank refuses to remove late payment markers after we were twice late repaying our mortgage in last months of his life",
-      "summary": "After their 19-year-old son’s death following a prolonged illness, a family missed two mortgage payments to Metro Bank in early 2025, then caught up in April. Metro initially refused to remove late-payment markers from their credit file despite their good record, causing a Nationwide remortgage rejection. Following intervention by a Guardian consumer champion, Metro agreed to delete the markers, but Nationwide still declined due to lingering balance issues after funeral costs. The adviser recommends waiting to rebuild funds before reapplying, warning that multiple recent applications could further harm credit.",
-      "summaryTokens": 665,
-      "generatedAt": "2025-11-10T11:28:07.032Z"
+      "summary": "After their 19-year-old son’s death in July following a five-year mental health crisis that saw hospitalisations, secure care placements and 120-mile weekly commutes, bereaved parents fell behind two mortgage repayments with Metro Bank in Feb–Mar. Metro flagged late payment markers, derailing a planned remortgage with Nationwide. They requested removal on goodwill grounds; Metro initially refused, then agreed when circumstances were highlighted. Nationwide reconfirmed refusal citing depleted balances after funeral costs and affordability concerns. Advice: disclose hardship early and rebuild finances before reapplying. Credit agencies note lenders can amend files in exceptional cases. Metro now advises customers to discuss personal circumstances early.",
+      "summaryTokens": 1456,
+      "generatedAt": "2025-11-11T03:29:44.143Z"
     },
     {
       "id": "money/2025/nov/09/uk-divisions-of-ticket-resale-website-viagogo-hit-with-15m-bill-over-tax-shortfall",
@@ -41,9 +53,9 @@
       "section": "money",
       "publishedDate": "2025-11-09T12:00:35Z",
       "trailText": "Company already under scrutiny on ‘secondary ticketing’ amid outcry over touts using such platforms to exploit fans",
-      "summary": "HMRC’s transfer pricing inquiry into Viagogo’s UK units VGL Services and IFOT Services for 2016-18 has triggered a £15 mn tax liability, including interest and penalties, after the firms under-charged for intra-group technology and support services. The companies, now having already paid £5.5 mn, attribute the assessment to “double taxation” and have amended their transfer pricing policy while seeking cross-border remediation. The development coincides with intensifying government scrutiny of secondary ticketing and a proposed cap on resale prices, at a time when Viagogo’s parent, StubHub Holdings, has seen its Nasdaq valuation fall from $8.6 bn to $6.6 bn.",
-      "summaryTokens": 1165,
-      "generatedAt": "2025-11-10T11:28:07.032Z"
+      "summary": "HMRC has levied a combined £15m bill on two UK arms of Viagogo—VGL Services and IFOT Services—for underpaid duties linked to 2016–18 transfer-pricing practices. The firms, part of US-listed StubHub Holdings but legally separate, had provided technology and customer-service support to group entities and now face interest and late-payment charges. They dispute “double taxation,” have paid £5.5m so far, updated transfer-pricing policies and plan to seek treaty relief. This emerges as Viagogo confronts UK secondary-ticketing reforms and a CMA-mandated split from StubHub International.",
+      "summaryTokens": 636,
+      "generatedAt": "2025-11-11T03:29:44.143Z"
     },
     {
       "id": "money/2025/nov/09/black-friday-scams-ai-fake-sites",
@@ -53,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-11-09T07:00:24Z",
       "trailText": "Experts say to avoid unrealistic prices or requests for bank transfers, as AI makes it hard to tell real from fake sites",
-      "summary": "With Black Friday approaching on Nov 28, cybersecurity experts warn of a surge in AI-driven scams posing as legitimate retailers. Malicious emails and social media links lead to replica sites offering unrealistically low prices but lack privacy policies and ask for bank transfers or crypto. Fraudsters exploit AI to generate brand logos, URLs with minor typos (eg J0hn Lewis), urgency messages and fake small-business identities. The UK’s NCSC and Darktrace urge consumers to spot red flags, use credit cards for purchases, forward suspicious emails to 7726/Reporting Service, and report losses to Action Fraud.",
-      "summaryTokens": 937,
-      "generatedAt": "2025-11-10T11:28:07.032Z"
+      "summary": "With Black Friday on 28 Nov fast approaching, UK authorities warn of a surge in AI-powered scams mimicking genuine retailers. NCSC’s Jonathon Ellison and cybersecurity firm Darktrace report a spike in malicious emails and fake sites offering unrealistically low prices, seeking bank transfers or crypto payments. Scam sites often lack privacy policies, use typosquatting URLs (eg, J0hn Lewis), and pressure shoppers with urgency. Which? advises checking domain legitimacy and price consistency; NCSC recommends forwarding suspicious emails to the Suspicious Email Reporting Service (7726 for texts) and using credit cards for consumer protection.",
+      "summaryTokens": 804,
+      "generatedAt": "2025-11-11T03:29:44.143Z"
     },
     {
       "id": "money/2025/nov/08/electric-cars-leasing-used-ev-secondhand",
