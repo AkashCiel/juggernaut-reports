@@ -1,37 +1,97 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-11T03:40:46.606Z",
+    "generated_at": "2025-11-12T03:37:10.367Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-10"
+      "to": "2025-11-12"
     },
-    "article_count": 176,
+    "article_count": 181,
     "merge_info": {
-      "previous_count": 173,
-      "new_articles": 3,
-      "updated_articles": 0,
-      "total_count": 176
+      "previous_count": 176,
+      "new_articles": 5,
+      "updated_articles": 3,
+      "total_count": 181
     },
     "batch_info": {
-      "initial_batch_id": "batch_6912afb11c688190bc8dc12188e7a306",
+      "initial_batch_id": "batch_6914006df2a88190a7f5d496b7059d16",
       "retry_batches": [],
-      "total_tokens": 8402,
+      "total_tokens": 20379,
       "processing_time_hours": 0
     }
   },
   "articles": [
     {
+      "id": "technology/2025/nov/12/tech-companies-child-safety-agencies-test-ai-tools-abuse-images-ability",
+      "title": "Tech companies and UK child safety agencies to test AI tools’ ability to create abuse images",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/12/tech-companies-child-safety-agencies-test-ai-tools-abuse-images-ability",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/12/tech-companies-child-safety-agencies-test-ai-tools-abuse-images-ability",
+      "section": "technology",
+      "publishedDate": "2025-11-12T00:01:10Z",
+      "trailText": "New law will allow technology to be examined and ensure tools have safeguards to stop creation of material",
+      "summary": "New UK legislation amends the crime and policing bill, granting designated tech firms and child safety agencies legal permission to probe AI models—such as ChatGPT and Google’s Veo 3—before release to verify safeguards against generating child sexual abuse material (CSAM). This follows a rise in AI‐generated CSAM reports from 199 in 2024 to 426 in 2025 and an increase in category A images from 2,621 to 3,086. The law also bans creating, possessing or distributing AI tools designed for CSAM. The Internet Watch Foundation and Childline report girls account for 94% of victims, newborn depictions spiked, and AI‐related counselling sessions have quadrupled.",
+      "summaryTokens": 896,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
+    },
+    {
+      "id": "culture/2025/nov/11/matthew-mcconaughey-michael-caine-ai-voice",
+      "title": "Matthew McConaughey and Michael Caine sign voice deal with AI company",
+      "webUrl": "https://www.theguardian.com/culture/2025/nov/11/matthew-mcconaughey-michael-caine-ai-voice",
+      "apiUrl": "https://content.guardianapis.com/culture/2025/nov/11/matthew-mcconaughey-michael-caine-ai-voice",
+      "section": "technology",
+      "publishedDate": "2025-11-11T18:10:29Z",
+      "trailText": "The voices of the Oscar-winning actors can now be used to create AI-generated versions in a new deal with ElevenLabs",
+      "summary": "Matthew McConaughey and Michael Caine have inked deals with ElevenLabs, granting the AI audio startup official rights to synthesize their distinctive voices. McConaughey, an investor since 2022, will leverage the platform to produce a Spanish-language version of his \"Lyrics of Livin'\" newsletter, while Caine joins ElevenLabs’ new Iconic Voices Marketplace—designed for brands to license celebrity voice models. ElevenLabs, valued at $6.6 billion, says these contracts address AI’s ethical challenges by preserving and amplifying human voices, not replacing them. The marketplace also features historical and Hollywood figures, following similar partnerships announced by Meta and other AI investors.",
+      "summaryTokens": 1344,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
+    },
+    {
+      "id": "technology/2025/nov/11/john-tymukas-obituary",
+      "title": "John Tymukas obituary",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/11/john-tymukas-obituary",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/11/john-tymukas-obituary",
+      "section": "technology",
+      "publishedDate": "2025-11-11T17:56:22Z",
+      "trailText": "Other lives : Structural engineer who trained in Australia and worked on big infrastructure projects across London",
+      "summary": "John Tymukas, 73, was an Adelaide-born structural engineer who trained at Downlands School and the Queensland Institute of Technology before moving to London in 1990. He worked on Canning Town station, Heathrow Terminal 5, GlaxoSmithKline HQ and Crossrail’s Bond Street via SKB and WSP. The eldest of six children of a Lithuanian refugee father and Irish-descended mother, he travelled Europe to trace family roots. An avid cyclist and runner with Dulwich Paragon and Dulwich running clubs, he ran sub-3-hour marathons, placing among the top 1,000 in the 1993 London Marathon. After retiring before Covid, a 2020 stroke forced his return to Adelaide. He is survived by five siblings, 14 nieces and nephews, and eight great-nieces and great-nephews.",
+      "summaryTokens": 1809,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
+    },
+    {
+      "id": "technology/2025/nov/11/chatgpt-violated-copyright-laws-german-court-rules",
+      "title": "ChatGPT violated copyright law by ‘learning’ from song lyrics, German court rules",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/11/chatgpt-violated-copyright-laws-german-court-rules",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/11/chatgpt-violated-copyright-laws-german-court-rules",
+      "section": "technology",
+      "publishedDate": "2025-11-11T17:00:39Z",
+      "trailText": "OpenAI ordered to pay undisclosed damages for training its language models on artists’ work without permission",
+      "summary": "A Munich regional court ruled that OpenAI’s ChatGPT infringed German copyright law by harvesting protected lyrics from nine top-selling songs—including Herbert Grönemeyer’s Männer and Helene Fischer’s Atemlos Durch die Nacht—to train its language models without permission. In a landmark decision favoring music rights society GEMA (representing 100,000 composers and lyricists), the judge ordered undisclosed damages and rejected OpenAI’s claim that users, not the company, bear liability. GEMA and its counsel at Berlin’s Raue firm hailed the ruling as a clear signal to global tech firms, while OpenAI says it will appeal, argues the decision covers only a limited dataset and reaffirms respect for creators’ rights.",
+      "summaryTokens": 1150,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
+    },
+    {
+      "id": "technology/2025/nov/10/waymo-baidu-apollo-go-china-elon-musk-tesla",
+      "title": "The race begins to make the world’s best self-driving cars",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/10/waymo-baidu-apollo-go-china-elon-musk-tesla",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/10/waymo-baidu-apollo-go-china-elon-musk-tesla",
+      "section": "technology",
+      "publishedDate": "2025-11-11T14:27:20Z",
+      "trailText": "Chinese search giant Baidu challenges Google’s Waymo’s driverless vehicles and Musk aims for a $1tn pay package",
+      "summary": "Google’s Waymo and Baidu’s Apollo Go are escalating a global race to roll out self-driving robotaxis, each logging about 250,000 weekly rides as they expand from US hubs into China, Europe and the Middle East. Lower hardware costs give Chinese firms an edge, but transparency and safety data remain sticking points. Meanwhile, Tesla’s profits dropped 37% despite an EV tax-credit rush, yet shareholders approved a record $1 trillion compensation plan for Elon Musk, whose far-right political interventions and AI ventures fuel debate over his influence.",
+      "summaryTokens": 810,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
+    },
+    {
       "id": "technology/2025/nov/10/data-centers-latin-america",
-      "title": "Data centers meet resistance over environmental concerns as AI boom spreads in Latin America",
+      "title": "Datacenters meet resistance over environmental concerns as AI boom spreads in Latin America",
       "webUrl": "https://www.theguardian.com/technology/2025/nov/10/data-centers-latin-america",
       "apiUrl": "https://content.guardianapis.com/technology/2025/nov/10/data-centers-latin-america",
       "section": "technology",
       "publishedDate": "2025-11-10T23:58:06Z",
       "trailText": "An expert describes how communities in some of the world’s driest areas are demanding transparency as secretive governments court billions in foreign investment",
-      "summary": "Mozilla researcher Paz Peña reveals mounting local resistance in Latin America to massive AI data centers built in arid regions of Chile, Brazil and Uruguay. Governments courting foreign investment through tax breaks and deregulated environmental assessments—such as raising diesel-emission thresholds in Chile—keep site data secret under corporate-secrecy claims. Communities, lacking transparency on water, energy and pollution impacts, are invoking the Escazú Agreement and suing to obtain information. In Uruguay, Montevideo residents successfully sued for Google’s water-use data amid a drought. Activists see an opening to raise environmental standards against both big tech and polluting local industries.",
-      "summaryTokens": 873,
-      "generatedAt": "2025-11-11T03:40:46.434Z"
+      "summary": "In Latin America, surging AI-driven datacenter investments in Chile and Brazil, concentrated in arid regions, face mounting community resistance over massive water and energy use, diesel emissions, and opaque operations. Leftwing governments carve out environmental exemptions and tax incentives to attract datacenters, contradicting ecological pledges and sparking protests and legal challenges under the Escazú Agreement. Activists, obstructed by corporate secrecy, are suing authorities for data on resource consumption. While some locals view big tech as leverage to raise regional environmental standards, widespread distrust persists as secretive infrastructure expansion threatens scarce water supplies and local autonomy.",
+      "summaryTokens": 2528,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
     },
     {
       "id": "technology/2025/nov/10/sam-altman-can-openai-profits-keep-pace",
@@ -41,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-11-10T16:37:08Z",
       "trailText": "As investor jitters grow, the loss-making ChatGPT firm’s vast spending commitments test the limits of Silicon Valley optimism",
-      "summary": "OpenAI’s $1.4 trn eight-year compute bill dwarfs its $13 bn annual revenue, stoking investor jitters over its ability to fund AI infrastructure. CEO Sam Altman’s tense exchange with investor Brad Gerstner and CFO Sarah Friar’s brief call for government guarantees—coupled with circular Oracle and Nvidia partnerships—underscore funding gymnastics. Altman now expects revenues to rise above $20 bn this year and “hundreds of billions” by 2030, betting on consumer subscriptions, enterprise ChatGPT, datacentre services and hardware devices. Skeptics cite slowing corporate AI adoption and model performance risks, warning that demand may not cover mounting costs.",
-      "summaryTokens": 1467,
-      "generatedAt": "2025-11-11T03:40:46.434Z"
+      "summary": "OpenAI faces investor unease over its $1.4 trn, eight-year compute spend—over 100× its $13 bn annual revenue—needed to train and run future ChatGPT models. CEO Sam Altman rebuffed calls for financing guarantees after CFO Sarah Friar floated government or bank backing, clarifying OpenAI won’t seek federal bailouts. Instead it relies on partner deals—Oracle’s $300 bn data-centre build and Nvidia chip investments—and forecasts to exceed $20 bn in annualised revenue in 2025, targeting “hundreds of billions” by 2030. Losses persist, but OpenAI bets on growing consumer subscriptions, enterprise AI uptake, cheaper hardware and model advances; skeptics cite slowing US adoption and possible market correction.",
+      "summaryTokens": 459,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
     },
     {
       "id": "technology/2025/nov/10/apple-whatsapp-spyware-paragon",
@@ -53,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2025-11-10T16:00:52Z",
       "trailText": "Apple and WhatsApp say they will keep warning users if their phones are targeted by governments using hacking software against them",
-      "summary": "Apple and WhatsApp have vowed to keep alerting users, including in the US, when their phones face government hacking attempts after spyware firms Paragon Solutions and NSO Group pursue US contracts. Paragon’s Graphite spyware has been approved for ICE use, while NSO Group has recruited former US ambassador David Friedman as executive chairman and seeks to lift US sanctions. Both companies claim to fight crime, but their tools have been abused to spy on journalists, activists and executives, raising due-process and privacy concerns domestically.",
-      "summaryTokens": 783,
-      "generatedAt": "2025-11-11T03:40:46.434Z"
+      "summary": "Apple and WhatsApp reaffirm they will alert users worldwide—including in the US—if governments deploy spyware like Paragon’s Graphite or NSO’s Pegasus. Paragon, whose Graphite tool hacked journalists and activists in Italy, secured an ICE contract in September when DHS lifted a Biden-era freeze; NSO named former Trump ambassador David Friedman as chairman. Despite legal ambiguities over domestic spyware use, both tech giants insist threat notifications ignore geography. Experts warn US agencies, businesses and citizens remain unprepared for a potential “silent spyware epidemic.”",
+      "summaryTokens": 1298,
+      "generatedAt": "2025-11-12T03:37:09.840Z"
     },
     {
       "id": "technology/2025/nov/08/elon-musk-global-far-right",
