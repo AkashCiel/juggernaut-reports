@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2025-11-11T03:27:57.234Z",
+    "generated_at": "2025-11-12T03:25:16.216Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-10"
+      "to": "2025-11-11"
     },
-    "article_count": 100,
+    "article_count": 104,
     "merge_info": {
-      "previous_count": 96,
+      "previous_count": 100,
       "new_articles": 4,
-      "updated_articles": 9,
-      "total_count": 100
+      "updated_articles": 6,
+      "total_count": 104
     },
     "batch_info": {
-      "initial_batch_id": "batch_6912ac2427d08190827c02c67a256501",
+      "initial_batch_id": "batch_6913fdeeeb388190aa69232b0d0a56d2",
       "retry_batches": [],
-      "total_tokens": 28688,
-      "processing_time_hours": 0.1
+      "total_tokens": 19992,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "media/2025/nov/11/mps-and-bbc-staff-call-for-robbie-gibb-to-leave-broadcasters-board",
+      "title": "MPs and BBC staff call for Robbie Gibb to leave broadcaster’s board",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/11/mps-and-bbc-staff-call-for-robbie-gibb-to-leave-broadcasters-board",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/11/mps-and-bbc-staff-call-for-robbie-gibb-to-leave-broadcasters-board",
+      "section": "media",
+      "publishedDate": "2025-11-11T20:09:55Z",
+      "trailText": "Boris Johnson’s appointee is accused of pushing claims of institutional bias at the corporation after shock resignations",
+      "summary": "BBC board member Robbie Gibb, appointed by Boris Johnson, faces mounting calls from MPs and staff for ouster after he was accused of instigating claims of institutional bias tied to the resignations of director-general Tim Davie and news chief Deborah Turness. The controversy stems from a leaked memo by ex-adviser Michael Prescott criticizing Panorama’s Trump coverage and alleging liberal bias on trans rights and Gaza. Gibb and Prescott are summoned to testify before the Commons culture committee. Labour, Lib Dem and SNP MPs back removal; Conservatives and the corporation defend the board’s diversity and legal safeguards.",
+      "summaryTokens": 1065,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
+    },
+    {
+      "id": "media/2025/nov/11/the-bbc-is-flawed-but-fundamentally-truthful",
+      "title": "The BBC is flawed, but fundamentally truthful | Letters",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/11/the-bbc-is-flawed-but-fundamentally-truthful",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/11/the-bbc-is-flawed-but-fundamentally-truthful",
+      "section": "media",
+      "publishedDate": "2025-11-11T17:32:48Z",
+      "trailText": "Letters: Readers react to the resignation of director general Tim Davie, and Donald Trump’s threat to sue the corporation for $1bn",
+      "summary": "In readers’ letters triggered by DG Tim Davie’s resignation amid bias allegations, former executives call for a leaner, flatter BBC to speed crisis response and cut licence-fee waste. Contributors defend BBC staff’s integrity and argue impartiality requires a purpose-driven agenda of accuracy and public service, warning that attacks by Trump and UK populists risk eroding its truth-telling mission. US readers echo fears of media control loss. Some urge the BBC to countersue Trump’s $1bn fake-news threat, while others see the smear campaign as proof of the corporation’s fundamental honesty.",
+      "summaryTokens": 483,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
+    },
+    {
+      "id": "media/2025/nov/11/tim-davie-defends-bbc-against-weaponisation-of-criticism",
+      "title": "Tim Davie defends BBC against ‘weaponisation’ of criticism",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/11/tim-davie-defends-bbc-against-weaponisation-of-criticism",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/11/tim-davie-defends-bbc-against-weaponisation-of-criticism",
+      "section": "media",
+      "publishedDate": "2025-11-11T12:23:53Z",
+      "trailText": "Outgoing director general tells staff ‘we have to be very clear and stand up for our journalism’",
+      "summary": "Outgoing BBC director general Tim Davie, following his shock resignation, urged staff to resist the “weaponisation” of political attacks after revelations in a leaked Prescott memo alleged a Panorama edit breaching impartiality. Facing criticism from Boris Johnson, Nigel Farage and Liz Truss, Davie insisted the BBC’s trust and integrity have strengthened and vowed the corporation’s narrative will not be dictated by its detractors. He acknowledged mistakes and took responsibility for his departure, emphasising the need to defend the BBC’s journalism amid pressure over licence fee and alleged internal bias. BBC chair Samir Shah dismissed claims of a rightwing coup on the board as fanciful and stressed healthy diversity of opinion.",
+      "summaryTokens": 761,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
+    },
+    {
+      "id": "media/2025/nov/11/virgin-media-transfer-account",
+      "title": "My wife died but Virgin Media seems unable to transfer account to my name",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/11/virgin-media-transfer-account",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/11/virgin-media-transfer-account",
+      "section": "media",
+      "publishedDate": "2025-11-11T07:00:10Z",
+      "trailText": "Transferring names and moving to a cheaper deal should not require the bereaved to repeatedly explain a death",
+      "summary": "As he tried to inherit his late wife’s broadband account, a customer faced repeated Virgin Media errors and delays. Over 18 weeks, he was told he must cancel the existing contract and endure a 14-day service blackout or transfer first then wait 30 days before downgrading from £69.21 to £33.99 per month. Multiple calls to bereavement and webchat services forced him to repeatedly explain his wife’s death with no resolution. Virgin Media later acknowledged staff mistakes, apologised and offered the promised lower-cost package. The ordeal exposes callous, inefficient bereavement procedures in telecoms. This ordeal underscores the emotional toll on bereaved customers and corporate incompetence in processing sensitive account changes.",
+      "summaryTokens": 1469,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
+    },
     {
       "id": "media/2025/nov/10/bbc-board-member-tory-links-led-charge-systemic-bias-claims",
       "title": "BBC board member with Tory links ‘led charge’ in systemic bias claims, say insiders",
@@ -29,9 +77,9 @@
       "section": "media",
       "publishedDate": "2025-11-10T19:23:29Z",
       "trailText": "Sources say Robbie Gibb amplified criticisms of Trump, Gaza and trans rights coverage, and had ‘a lot of oxygen in the room’",
-      "summary": "Robbie Gibb, a former Tory communications chief and BBC board member, is accused of ‘leading the charge’ by amplifying ex-adviser Michael Prescott’s memo alleging systemic bias in coverage of Donald Trump, Gaza and trans rights. His interventions preceded the surprise resignations of DG Tim Davie and news chief Deborah Turness. Lib Dem leader Ed Davey calls for Gibb’s removal before appointing a new director general. Chair Samir Shah apologised for a disputed Panorama Trump‐speech edit as Trump threatens a $1 billion lawsuit.",
-      "summaryTokens": 608,
-      "generatedAt": "2025-11-11T03:27:56.818Z"
+      "summary": "Robbie Gibb, Theresa May’s ex–communications chief and BBC governor appointed under Boris Johnson, spearheaded board pressure over alleged systemic bias in coverage of Trump, Gaza and trans rights, insiders say. His interventions preceded director-general Tim Davie and news head Deborah Turness’s resignations. Liberal Democrat leader Ed Davey urged Gibb’s immediate removal ahead of the DG search. Meanwhile, legal threats from Donald Trump demand retraction of an allegedly misleading Panorama edit and $1bn in damages. Chair Samir Shah apologized for the error but dismissed Michael Prescott’s memo as partial. Critics warn Gibb’s Tory ties and the board’s lack of editorial expertise risk political interference in BBC impartiality.",
+      "summaryTokens": 1017,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
     },
     {
       "id": "media/2025/nov/10/witnessing-the-wrath-of-richard-gott-in-chile",
@@ -41,9 +89,9 @@
       "section": "media",
       "publishedDate": "2025-11-10T17:59:55Z",
       "trailText": "Letter: Neal Ascherson on one of the lowest points in British postwar diplomacy",
-      "summary": "Neal Ascherson recalls Richard Gott’s searing confrontation with the British ambassador in Santiago in the aftermath of Pinochet’s 1973 coup. As desperate fugitives clambered over embassy walls seeking refuge, the British mission – unlike most others – turned them away, even while it sold Hawker Hunter jets to Pinochet’s forces. The ambassador and his wife lauded the putsch and the weapons deal. Outraged, Gott erupted in a blistering denunciation that left staff stunned and etched one of the lowest points of British postwar diplomacy.",
-      "summaryTokens": 1311,
-      "generatedAt": "2025-11-11T03:27:56.818Z"
+      "summary": "Neal Ascherson recalls Grace Livingstone’s letter about Richard Gott’s explosive confrontation with the British ambassador in Santiago in the immediate aftermath of Pinochet’s 1973 coup. As death squads hunted dissidents, desperate fugitives scaled foreign embassies, but Britain’s mission alone refused them refuge. The ambassador, elated, celebrated the putsch and the sale of Hawker Hunters to Pinochet’s forces, even the ambassador’s wife lauding the jets overhead. Gott erupted in rage and shame, blasting British policy and leaving the diplomat pale and staff seething, marking a nadir in postwar diplomacy.",
+      "summaryTokens": 811,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
     },
     {
       "id": "media/2025/nov/10/who-could-replace-tim-davie-bbc-director-general",
@@ -53,9 +101,9 @@
       "section": "media",
       "publishedDate": "2025-11-10T15:30:25Z",
       "trailText": "Corporation may seek a candidate with news experience but commercial credentials could also be a prerequisite",
-      "summary": "As Tim Davie prepares to leave amid bias controversies and ahead of the 2027 royal charter renewal, BBC chair Samir Shah seeks a successor with strong news credentials and commercial savvy. Leading contenders are Alex Mahon, ex-Channel 4 CEO known for cost cuts and crisis management; Charlotte Moore, former BBC content director now at Sony’s Left Bank; Jay Hunt, Apple TV creative head with decades in UK broadcasting; and ITV boss Carolyn McCall, eyeing a major Sky-Comcast deal. Other names include All3Media’s Jane Turton, producer-turned-governor Sophie Turner Laing, ex-Dow Jones chief Will Lewis (phone-hacking risk) and interim regulator chair Doug Gurr.",
-      "summaryTokens": 450,
-      "generatedAt": "2025-11-11T03:27:56.818Z"
+      "summary": "Amid bias accusations and ahead of the 2027 charter renewal, BBC chair Samir Shah seeks a successor to Tim Davie with news expertise and commercial acumen. Front-runners include Alex Mahon, former Channel 4 CEO now at Superstruct; Charlotte Moore, ex-BBC content director now at Left Bank; Jay Hunt, Apple TV+ creative chief with 20 years at the BBC; and ITV’s Carolyn McCall. Other possibles: All3Media’s Jane Turton, Sophie Turner Laing, ex-Dow Jones boss Will Lewis and ex-Amazon UK head Doug Gurr.",
+      "summaryTokens": 1008,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
     },
     {
       "id": "media/2025/nov/10/slugs-can-be-why-bbc-apologising-trump-documentary-what-happens-next",
@@ -65,9 +113,9 @@
       "section": "media",
       "publishedDate": "2025-11-10T14:47:07Z",
       "trailText": "Fallout continues over BBC’s editorial standards and claims that exit of bosses is result of ‘campaign by political enemies’",
-      "summary": "The BBC chair Samir Shah apologised for an “error of judgment” in editing Donald Trump’s Panorama speech after Michael Prescott’s leaked report alleged selective cuts, prompting the resignations of news chief Deborah Turness and director general Tim Davie amid claims of a right-wing campaign against the broadcaster. A new DG will be appointed by the BBC board, which handles governance independently of ministers, though government sets the charter and licence fee. With the BBC charter due for renewal in 2027, the DG will lead key negotiations on funding, governance and impartiality.",
-      "summaryTokens": 1574,
-      "generatedAt": "2025-11-11T03:27:56.818Z"
+      "summary": "BBC chair Samir Shah apologised for an “error of judgment” after Panorama broadcast a selectively edited Donald Trump speech, prompting the resignations of DG Tim Davie and News CEO Deborah Turness following Michael Prescott’s leaked memo on bias. Backers claim a right-wing campaign targeted the BBC. The board, chaired by Shah with ten non-exec and four exec members, will appoint Davie’s successor. Although ministers have no formal role, government shapes the BBC charter and licence fee. With the charter expiring in 2027, the new DG’s appointment will influence funding, governance and impartiality ahead of renewal negotiations.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
     },
     {
       "id": "media/2025/nov/10/bbc-resignations-internal-coup-says-former-sun-editor-david-yelland",
@@ -77,9 +125,9 @@
       "section": "media",
       "publishedDate": "2025-11-10T14:09:13Z",
       "trailText": "Samir Shah says BBC ‘must champion impartiality’, as Ed Davey warns UK must ‘defend our democracy from foreign interference’",
-      "summary": "BBC chair Samir Shah apologised for an “error of judgment” in the way Panorama spliced two sections of Donald Trump’s speech, conceded the edit gave the impression of urging violence, but defended the corporation’s impartiality amid claims of bias. His letter to MPs followed 500+ complaints and a critical memo by former adviser Michael Prescott. The controversy spurred the resignations of director-general Tim Davie and head of news Deborah Turness, drew a legal threat from Trump, and prompted critics—former Sun editor David Yelland calling it an “internal coup,” Ed Davey warning against foreign interference and Nigel Farage denouncing institutional bias.",
-      "summaryTokens": 1145,
-      "generatedAt": "2025-11-11T03:27:56.818Z"
+      "summary": "BBC chair Samir Shah apologised to culture committee chair Caroline Dinenage for an “error of judgment” in a Panorama edit that spliced two parts of Donald Trump’s speech—creating the false impression of violent incitement—after ex-adviser Michael Prescott’s leaked memo sparked over 500 complaints. The uproar prompted DG Tim Davie and news head Deborah Turness to resign, though Turness insisted BBC News isn’t institutionally biased. Shah defended the corporation’s impartiality and review process, while ex-Sun editor David Yelland dubbed the shake-up an “internal coup”. Lib Dem leader Ed Davey and No 10 backed the BBC against Trump’s legal threats and Farage’s calls for privatization.",
+      "summaryTokens": 1158,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
     },
     {
       "id": "media/2025/nov/09/why-is-the-bbc-expected-to-apologise-over-a-donald-trump-speech-edit",
@@ -89,9 +137,9 @@
       "section": "media",
       "publishedDate": "2025-11-10T08:28:30Z",
       "trailText": "Director general and head of news quit amid accusations of bias over Trump and trans issues at broadcaster",
-      "summary": "BBC director general Tim Davie and head of news Deborah Turness abruptly resigned after a 19-page dossier by former adviser Michael Prescott accused the corporation of breaching impartiality. Prescott alleged Panorama selectively spliced Trump’s January 6 speech—juxtaposing “fight like hell” remarks while omitting his call for peaceful protest—highlighted anti-Israel bias in BBC Arabic and criticised an LGBT unit for promoting a Stonewall-aligned stance on trans issues. Board chair Samir Shah is set to apologise. Senior Conservatives and Trump’s team label the BBC left-wing, while insiders warn of a right-wing campaign led by Robbie Gibb to undermine editorial standards.",
-      "summaryTokens": 765,
-      "generatedAt": "2025-11-11T03:27:56.818Z"
+      "summary": "BBC director-general Tim Davie and news head Deborah Turness resigned after a dossier by ex-adviser Michael Prescott accused the corporation of impartiality breaches—including selectively editing Donald Trump’s January 6 speech for Panorama, alleged anti-Israel bias in BBC Arabic, and a narrow ‘Stonewall’ line on trans issues. Chair Samir Shah is set to apologise. Senior Conservatives and Trump’s press secretary attacked the BBC. Presenters Nick Robinson and John Simpson acknowledged errors amid what they called a partisan campaign.",
+      "summaryTokens": 920,
+      "generatedAt": "2025-11-12T03:25:15.747Z"
     },
     {
       "id": "media/2025/nov/09/tim-davies-resignation-restore-public-trust-in-bbc",
