@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-11T03:31:20.400Z",
+    "generated_at": "2025-11-12T03:28:08.990Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-11"
     },
-    "article_count": 93,
+    "article_count": 95,
     "merge_info": {
-      "previous_count": 91,
+      "previous_count": 93,
       "new_articles": 2,
-      "updated_articles": 1,
-      "total_count": 93
+      "updated_articles": 2,
+      "total_count": 95
     },
     "batch_info": {
-      "initial_batch_id": "batch_6912adb04d4881909eed84056cbbb743",
+      "initial_batch_id": "batch_6913fe65d2a481908ea948b558638db6",
       "retry_batches": [],
-      "total_tokens": 5625,
+      "total_tokens": 11771,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/11/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/11/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/11/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-11T21:00:04Z",
+      "trailText": "Frankie Boyle – an apology",
+      "summary": "An apology clarifies that the earlier opinion piece (‘Silence over Sudan shows the power of sportswashing’, 8 November) mistakenly claimed comedian Frankie Boyle performed in Dubai this year; he has not appeared there for over 25 years. The notice also lists recent article amendments: the US Senate advancing a funding bill to end its record government shutdown; plans to cut airline traffic by 10% at 40 airports amid the shutdown; and relief coverage after super typhoon Fung-wong killed eight and displaced over a million in the Philippines. Readers can send corrections or complaints by email, post or voicemail.",
+      "summaryTokens": 1120,
+      "generatedAt": "2025-11-12T03:28:08.455Z"
+    },
+    {
+      "id": "news/2025/nov/11/when-i-met-craig-he-was-13-and-homeless-i-still-thought-his-life-might-turn-around-i-was-tragically-wrong",
+      "title": "When I met Craig he was 13 and homeless. I still thought his life might turn around. I was tragically wrong",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/11/when-i-met-craig-he-was-13-and-homeless-i-still-thought-his-life-might-turn-around-i-was-tragically-wrong",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/11/when-i-met-craig-he-was-13-and-homeless-i-still-thought-his-life-might-turn-around-i-was-tragically-wrong",
+      "section": "news",
+      "publishedDate": "2025-11-11T05:00:10Z",
+      "trailText": "The long read: I knew he was running away from something. It wasn’t until many years later that I discovered the truth",
+      "summary": "In 1998, 13-year-old Craig ran away from a Nottingham children’s home, living rough in alleys, derelict squats and short-term hostels. Documentary filmmaker Pam traced his life: unaddressed sexual and physical abuse at Beechwood House, fractured family ties and systemic neglect. As an adult, Craig cycled through prison sentences, heroin addiction and low-level crime, briefly finding stability via church housing and art therapy with prison chaplains. Despite intermittent support, institutionalisation and mental health struggles persisted. Found dead at 41 in June 2025, his story exposes failures in child care, social services, housing and the justice system.",
+      "summaryTokens": 524,
+      "generatedAt": "2025-11-12T03:28:08.455Z"
+    },
     {
       "id": "news/2025/nov/11/the-crunch-the-decline-of-australian-childrens-tv-rivers-in-the-sky-and-where-is-western-europe",
       "title": "The Crunch: the decline of Australian children’s TV; rivers in the sky; and where is western Europe?",
@@ -29,9 +53,9 @@
       "section": "news",
       "publishedDate": "2025-11-11T01:27:48Z",
       "trailText": "Streaming services may be forced to produce Australian content if the Labor’s long-awaited legislation passes parliament this week",
-      "summary": "The Crunch’s latest installment delivers six chart-based analyses: Australian children’s TV fell to 35 hours in 2023-24 after 2020 quota cuts, with Labor’s content mandate set to boost drama, kids’ shows and docs; Gaza’s rebuild will clear over 61 million tonnes of war debris—20× post-2008 conflict rubble—to exhume at least 10,000 bodies; NOAA hurricane-hunter planes penetrate storms like Melissa to collect wind, pressure and humidity data; rising integrated vapour transport intensifies “rivers in the sky” floods, per Washington Post modelling; Sebastian Gräff maps contest Western Europe’s borders using diverse datasets; and Pew Research charts US census race categories from 1790’s singular classifications to multi-race options in 2000.",
-      "summaryTokens": 1439,
-      "generatedAt": "2025-11-11T03:31:20.229Z"
+      "summary": "Australia’s streaming giants (Netflix, Stan, Disney+) could be mandated to produce local drama, children’s and documentary content if Labor’s bill passes, aiming to reverse the slump to just 35 hrs of kids’ TV in 2023/24 after the Coalition scrapped quotas in 2020. Five charts spotlight: Gaza’s monumental recovery beneath 61 m t of rubble; hurricane-hunter aircraft probing storms like Melissa; rising integrated vapour transport fuelling floods (e.g., Spain 2024); conflicting definitions of western Europe; and the US census’s race categories evolving from a single ‘white’ option in 1790 to multiple identities after 2000.",
+      "summaryTokens": 1412,
+      "generatedAt": "2025-11-12T03:28:08.455Z"
     },
     {
       "id": "news/2025/nov/10/corrections-and-clarifications",
@@ -41,9 +65,9 @@
       "section": "news",
       "publishedDate": "2025-11-10T21:00:01Z",
       "trailText": "Chris Hinchliff MP | Compliment/complement homophone",
-      "summary": "Corrections and clarifications: The MP Chris Hinchliff represents North East Hertfordshire, not North East Herefordshire (print editions, 8 Nov). In “Passage to India” we corrected the homophone ‘compliment’/‘complement’ describing raita and mango chutney. We also amended stories on Aaron Rai’s playoff win over Tommy Fleetwood, the ICJ climate ruling’s Cop30 impact, a Virginia Republican’s re-election loss over shared texts, Lee Tamahori’s directorial flair and a 3,541-mile trek from Mexico to Canada. Contact corrections: guardian.readers@theguardian.com or Readers’ editor, Kings Place, London N1 9GU, +44 20 3353 4736.",
-      "summaryTokens": 1089,
-      "generatedAt": "2025-11-11T03:31:20.229Z"
+      "summary": "Guardian issues corrections: MP Chris Hinchliff represents North East Hertfordshire (not Herefordshire); homophone ‘compliment/complement’ fixed in the raita-and-mango-chutney quote. Other amended pieces cover Aaron Rai’s playoff win over Tommy Fleetwood in Abu Dhabi, the ICJ climate ruling’s Cop30 impact, a Virginia Republican’s texting defeat, Lee Tamahori’s debut film Once Were Warriors and a 3,541-mile Mexico-Canada trek. Readers can send complaints or corrections to guardian.readers@theguardian.com, write to the Readers’ editor at Kings Place, York Way, London N1 9GU, or leave voicemail at +44 (0)20 3353 4736.",
+      "summaryTokens": 639,
+      "generatedAt": "2025-11-12T03:28:08.455Z"
     },
     {
       "id": "news/2025/nov/09/corrections-and-clarifications1",
