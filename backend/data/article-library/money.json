@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-11T03:29:44.328Z",
+    "generated_at": "2025-11-12T03:26:21.049Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-10"
+      "to": "2025-11-11"
     },
-    "article_count": 91,
+    "article_count": 93,
     "merge_info": {
-      "previous_count": 90,
-      "new_articles": 1,
-      "updated_articles": 3,
-      "total_count": 91
+      "previous_count": 91,
+      "new_articles": 2,
+      "updated_articles": 2,
+      "total_count": 93
     },
     "batch_info": {
-      "initial_batch_id": "batch_6912ad45b3d4819098a105b63c3f978f",
+      "initial_batch_id": "batch_6913fe24de9c8190a899eec5603af2c6",
       "retry_batches": [],
-      "total_tokens": 7025,
+      "total_tokens": 6742,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/11/uk-to-reconsider-decision-to-deny-waspi-women-pension-payouts",
+      "title": "UK to reconsider decision to deny Waspi women pension payouts",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/11/uk-to-reconsider-decision-to-deny-waspi-women-pension-payouts",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/11/uk-to-reconsider-decision-to-deny-waspi-women-pension-payouts",
+      "section": "money",
+      "publishedDate": "2025-11-11T17:58:15Z",
+      "trailText": "Millions born in 1950s lost out because of government failings over changes to state retirement age, campaigners say",
+      "summary": "UK government will reconsider its December decision to deny compensation to as many as 3.6 million 'Waspi' women born in the 1950s after fresh evidence emerged ahead of a high court hearing due on 9 December. Campaigners say women lost thousands when the state pension age rose from 60 to 65 and 66 amid DWP maladministration. A 2024 PHSO report urged payouts of £1,000–£2,950 per person (total £3.5–£10.5 billion), but ministers, led by Rachel Reeves and Liz Kendall, rejected it to protect public services. Work and Pensions Secretary Pat McFadden will 'retake' the decision, though he cautioned it may still refuse redress.",
+      "summaryTokens": 1045,
+      "generatedAt": "2025-11-12T03:26:20.644Z"
+    },
+    {
+      "id": "money/2025/nov/11/tell-us-have-you-moved-to-another-country-for-your-partner",
+      "title": "Tell us: have you moved to another country for your partner?",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/11/tell-us-have-you-moved-to-another-country-for-your-partner",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/11/tell-us-have-you-moved-to-another-country-for-your-partner",
+      "section": "money",
+      "publishedDate": "2025-11-11T15:58:07Z",
+      "trailText": "We’d like to hear from people who have moved to another country for their partner and the impact on your relationship",
+      "summary": "Consumer Money invites readers who have relocated abroad for a partner to share stories of challenges and relationship impact. Following an advice column by Annalisa Barbieri, they seek accounts from those who found the move difficult or regretful. Contributors should detail their origin and destination countries, timing of relocation, specific struggles faced and how the transition has changed their partnership dynamics. The feature will explore emotional, cultural and relational effects of love-driven migration. Submissions will inform an upcoming feature highlighting the emotional toll, cultural friction and adjustments of love-driven relocation, offering support and insights for prospective expat partners.",
+      "summaryTokens": 1057,
+      "generatedAt": "2025-11-12T03:26:20.644Z"
+    },
     {
       "id": "money/2025/nov/10/charging-electric-vehicle-at-home-kit-cost",
       "title": "Charging an electric car at home: what kit do you need and what is the cost?",
@@ -29,9 +53,9 @@
       "section": "money",
       "publishedDate": "2025-11-10T12:00:47Z",
       "trailText": "Installing a dedicated charger is good option – so too is switching to an EV tariff and charging at night or smartly",
-      "summary": "Home EV charging requires a dedicated 7.4 kW AC charger (£800–£1 200 installed; £350 government grant) and a smart meter. Off-street parking simplifies fitting; 9.3 m households without it can use on-street lamp-post chargers or await pavement gully rule changes. EV tariffs include classic night-only rates (7–9 p/kWh from midnight to 5–6 am), smart time-of-use plans (e.g. Octopus Go at 7 p/kWh) and subscriptions (£27.50–£30/mth). Peak rates may exceed 26 p/kWh. Long-distance drivers should prioritise cheap overnight windows; city users benefit from automated smart charging.",
-      "summaryTokens": 458,
-      "generatedAt": "2025-11-11T03:29:44.143Z"
+      "summary": "Guide to home EV charging covers hardware, installation costs and tariffs. A dedicated 7.4 kW AC charger (25–30 miles/hour) costs £800–£1,200 to fit, with a £350 grant for eligible homes; a smart meter unlocks time-of-use rates. Default tariffs average 26p/kWh, while specialist EV plans drop to 7–9p/kWh overnight (e.g. British Gas, E.ON, Scottish Power) or offer fully automated smart charging at ~7p/kWh (Octopus Go) or via £27.50–£30 monthly subscriptions. Off-street parking users benefit most, though on-street and lamppost chargers serve those without driveways.",
+      "summaryTokens": 517,
+      "generatedAt": "2025-11-12T03:26:20.644Z"
     },
     {
       "id": "money/2025/nov/10/metro-bank-credit-file-late-payment-markers",
@@ -41,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-11-10T07:00:56Z",
       "trailText": "Bank refuses to remove late payment markers after we were twice late repaying our mortgage in last months of his life",
-      "summary": "After their 19-year-old son’s death in July following a five-year mental health crisis that saw hospitalisations, secure care placements and 120-mile weekly commutes, bereaved parents fell behind two mortgage repayments with Metro Bank in Feb–Mar. Metro flagged late payment markers, derailing a planned remortgage with Nationwide. They requested removal on goodwill grounds; Metro initially refused, then agreed when circumstances were highlighted. Nationwide reconfirmed refusal citing depleted balances after funeral costs and affordability concerns. Advice: disclose hardship early and rebuild finances before reapplying. Credit agencies note lenders can amend files in exceptional cases. Metro now advises customers to discuss personal circumstances early.",
-      "summaryTokens": 1456,
-      "generatedAt": "2025-11-11T03:29:44.143Z"
+      "summary": "After their 19-year-old son’s prolonged illness and death, a family fell behind on two mortgage repayments with Metro Bank. Metro placed late-payment markers on their credit file despite their prior clean record. When they applied to remortgage with Nationwide, the markers triggered refusal. Following a Guardian intervention, Metro agreed to remove the markers as a goodwill gesture, acknowledging their exceptional circumstances. Nationwide will review the case but remains concerned about depleted funds. The family is advised to rebuild finances before reapplying, and lenders urge customers to disclose personal hardships early to avoid credit penalties.",
+      "summaryTokens": 797,
+      "generatedAt": "2025-11-12T03:26:20.644Z"
     },
     {
       "id": "money/2025/nov/09/uk-divisions-of-ticket-resale-website-viagogo-hit-with-15m-bill-over-tax-shortfall",
