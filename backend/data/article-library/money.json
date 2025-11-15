@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-12T03:26:21.049Z",
+    "generated_at": "2025-11-15T03:27:36.619Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-11"
+      "to": "2025-11-14"
     },
-    "article_count": 93,
+    "article_count": 96,
     "merge_info": {
-      "previous_count": 91,
-      "new_articles": 2,
-      "updated_articles": 2,
-      "total_count": 93
+      "previous_count": 93,
+      "new_articles": 3,
+      "updated_articles": 0,
+      "total_count": 96
     },
     "batch_info": {
-      "initial_batch_id": "batch_6913fe24de9c8190a899eec5603af2c6",
+      "initial_batch_id": "batch_6917f20fa9c881908b37a413ef27a80d",
       "retry_batches": [],
-      "total_tokens": 6742,
-      "processing_time_hours": 0
+      "total_tokens": 5852,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/14/people-in-the-uk-tell-us-if-youve-borrowed-money-from-friends-or-family",
+      "title": "People in the UK: tell us if you’ve borrowed money from friends or family",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/14/people-in-the-uk-tell-us-if-youve-borrowed-money-from-friends-or-family",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/14/people-in-the-uk-tell-us-if-youve-borrowed-money-from-friends-or-family",
+      "section": "money",
+      "publishedDate": "2025-11-14T10:55:24Z",
+      "trailText": "We’d like to hear from people in Britain who have turned to family or friends to borrow money instead of to banks, and how this has affected them",
+      "summary": "A Guardian survey commissioned by Fair4All Finance of over 4,000 UK adults reveals that 26% borrowed from family and 15% from friends this year, while 25% used Buy Now Pay Later schemes. Many turned to loved ones after bank rejections. Younger adults, households with children, zero-hours contract workers and lower-paid employees are most likely to need informal loans. One in four households couldn’t cover a £500 emergency without borrowing. The Guardian is calling on people who’ve borrowed from friends or family to explain why they did so and how it’s shaped their finances and relationships.",
+      "summaryTokens": 1074,
+      "generatedAt": "2025-11-15T03:27:36.452Z"
+    },
+    {
+      "id": "money/2025/nov/13/british-music-stars-urge-starmer-to-tackle-pernicious-ticket-tout-websites",
+      "title": "British music stars urge Starmer to tackle ‘pernicious’ ticket tout websites",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/13/british-music-stars-urge-starmer-to-tackle-pernicious-ticket-tout-websites",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/13/british-music-stars-urge-starmer-to-tackle-pernicious-ticket-tout-websites",
+      "section": "money",
+      "publishedDate": "2025-11-13T05:00:15Z",
+      "trailText": "Radiohead, Dua Lipa and Coldplay among dozens of artists calling for cap on resale prices to stop exploitation of fans",
+      "summary": "Radiohead, Dua Lipa, Coldplay and 35 other British artists, who have sold over half a billion albums, have urged PM Keir Starmer to use the next king’s speech to impose a statutory cap (0–30% above face value) on ticket resale via platforms such as Viagogo and StubHub to curb “extortionate and pernicious” practices. The call follows Guardian and Which? exposés of bot bulk buying, “speculative selling” and extremes of up to £114,666 markups. While tout sites warn caps could spur unregulated fraud, signatories—including UK Music and FanFair Alliance—say limits would protect genuine fans and restore trust in live events. Government consultation ends imminently.",
+      "summaryTokens": 1609,
+      "generatedAt": "2025-11-15T03:27:36.452Z"
+    },
+    {
+      "id": "money/2025/nov/12/property-experts-urge-rachel-reeves-to-abolish-sin-tax-of-stamp-duty-in-budget",
+      "title": "Property experts urge Rachel Reeves to abolish ‘sin tax’ of stamp duty in budget",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/12/property-experts-urge-rachel-reeves-to-abolish-sin-tax-of-stamp-duty-in-budget",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/12/property-experts-urge-rachel-reeves-to-abolish-sin-tax-of-stamp-duty-in-budget",
+      "section": "money",
+      "publishedDate": "2025-11-13T00:01:00Z",
+      "trailText": "Chancellor advised to replace levy with an annual property tax as Treasury considers overhaul of system",
+      "summary": "Property experts, led by TV presenter Kirstie Allsopp, have urged Chancellor Rachel Reeves to abolish stamp duty—labelled a ‘sin tax’—in the November budget, warning it punishes upward moves and stifles economic activity. MPs heard proposals to replace SDLT (levied on purchases above £125,000) with an annual property tax—0.54% on homes over £500,000, higher above £1m—to boost mobility and GDP. Zoopla data shows 40% of first-time buyers (80% in London) face an average £16,000 bill, while Taylor Wimpey links autumn sales dips to budget uncertainty. RICS reports further market cooling in October.",
+      "summaryTokens": 583,
+      "generatedAt": "2025-11-15T03:27:36.452Z"
+    },
     {
       "id": "money/2025/nov/11/uk-to-reconsider-decision-to-deny-waspi-women-pension-payouts",
       "title": "UK to reconsider decision to deny Waspi women pension payouts",
