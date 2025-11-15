@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-12T03:33:11.955Z",
+    "generated_at": "2025-11-15T03:35:36.932Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-11"
+      "to": "2025-11-14"
     },
-    "article_count": 92,
+    "article_count": 95,
     "merge_info": {
-      "previous_count": 91,
-      "new_articles": 1,
-      "updated_articles": 4,
-      "total_count": 92
+      "previous_count": 92,
+      "new_articles": 3,
+      "updated_articles": 0,
+      "total_count": 95
     },
     "batch_info": {
-      "initial_batch_id": "batch_6913ff49c82881908f51339ab92fb0a4",
+      "initial_batch_id": "batch_6917f4a68a588190baad30e2462cff38",
       "retry_batches": [],
-      "total_tokens": 11053,
+      "total_tokens": 5640,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/14/lorazepam-benzos-internet-searches-increased-white-lotus-data",
+      "title": "Searches for lorazepam surged after release of The White Lotus, data shows",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/14/lorazepam-benzos-internet-searches-increased-white-lotus-data",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/14/lorazepam-benzos-internet-searches-increased-white-lotus-data",
+      "section": "science",
+      "publishedDate": "2025-11-14T16:00:43Z",
+      "trailText": "Third series of TV drama spiked interest in anti-anxiety drug amid warnings over illicit production of ‘benzos’",
+      "summary": "After the 16 Feb debut of The White Lotus season 3, UC San Diego researchers report lorazepam searches nearly doubled over 12 weeks—about 1.6 million extra—with 64% more queries on how to obtain it (~30,000). No similar spikes occurred for alprazolam or clonazepam, which the show didn’t mention. Experts warn illicit benzodiazepines often contain inconsistent doses or dangerous additives like nitazenes, raising overdose and withdrawal risks. Published in JAMA Health Forum, the study calls for safer on-screen drug portrayals and stricter action against unregulated online pharmacies.",
+      "summaryTokens": 944,
+      "generatedAt": "2025-11-15T03:35:36.772Z"
+    },
+    {
+      "id": "science/2025/nov/14/rare-iron-bronze-age-log-boat-cambridgeshire-archaeology-history",
+      "title": "Rare bronze and iron age log boats reveal details of Cambridgeshire prehistory",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/14/rare-iron-bronze-age-log-boat-cambridgeshire-archaeology-history",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/14/rare-iron-bronze-age-log-boat-cambridgeshire-archaeology-history",
+      "section": "science",
+      "publishedDate": "2025-11-14T00:01:12Z",
+      "trailText": "Well-preserved oak and maple boats used for transport and fishing to be displayed in Peterborough",
+      "summary": "At Must Farm near Whittlesey, Cambridgeshire, three of nine Bronze- and Iron-Age (c.1500–500 BC) log boats—crafted from oak and field maple and preserved for over 3,000 years—have been conserved in a wax-and-water matrix and go on permanent display at Flag Fen archaeology park on 14 Nov. Excavated from an ancient creek in 2012, the 6.3 m oak canoe (with interior charring), a 2.2 m oak fragment with hull repair and a 0.8 m maple fragment reveal prehistoric felling methods, tool use, carpentry techniques and waterborne transport/fishing practices. Project partners include York Archaeological Trust, Peterborough City Council, Historic England and Forterra.",
+      "summaryTokens": 1380,
+      "generatedAt": "2025-11-15T03:35:36.772Z"
+    },
+    {
+      "id": "science/2025/nov/13/stunning-aurora-australis-lights-up-sky-above-new-zealand-and-australia-after-cannibal-solar-storm",
+      "title": "Stunning aurora australis lights up sky above New Zealand and Australia after ‘cannibal’ solar storm",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/13/stunning-aurora-australis-lights-up-sky-above-new-zealand-and-australia-after-cannibal-solar-storm",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/13/stunning-aurora-australis-lights-up-sky-above-new-zealand-and-australia-after-cannibal-solar-storm",
+      "section": "science",
+      "publishedDate": "2025-11-13T02:05:08Z",
+      "trailText": "The geomagnetic storm, caused by powerful bursts of energy from the sun, also postponed the launch of two Mars-bound Nasa spacecraft in the US",
+      "summary": "Skywatchers across Australia and New Zealand witnessed a vivid aurora australis on Nov 13 after a “cannibal” solar storm—two coronal mass ejections on Nov 9 and 10 merged before arrival. The storm reached G4 geomagnetic levels in Australia and peaked at G5 in the UK, triggering the strongest induced geoelectric field recorded there since 2012 and posing grid‐damage risks. Elevated solar activity also forced NASA to postpone two Mars‐bound launches.",
+      "summaryTokens": 610,
+      "generatedAt": "2025-11-15T03:35:36.772Z"
+    },
     {
       "id": "science/2025/nov/11/uk-plan-to-cut-animal-testing-artificial-intelligence-ai-3d-bioprinting",
       "title": "UK minister unveils plan to cut animal testing through greater use of AI",
