@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-12T03:28:08.990Z",
+    "generated_at": "2025-11-15T03:30:38.142Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-11"
+      "to": "2025-11-14"
     },
-    "article_count": 95,
+    "article_count": 99,
     "merge_info": {
-      "previous_count": 93,
-      "new_articles": 2,
-      "updated_articles": 2,
-      "total_count": 95
+      "previous_count": 95,
+      "new_articles": 4,
+      "updated_articles": 0,
+      "total_count": 99
     },
     "batch_info": {
-      "initial_batch_id": "batch_6913fe65d2a481908ea948b558638db6",
+      "initial_batch_id": "batch_6917f3308624819095235d6301a51f80",
       "retry_batches": [],
-      "total_tokens": 11771,
+      "total_tokens": 11926,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/14/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/14/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/14/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-14T21:00:50Z",
+      "trailText": "Donald Trump and the BBC | Douglas Jardine | Penacook, New Hampshire",
+      "summary": "This notice corrects earlier Guardian pieces: Donald Trump threatened but did not file suit against the BBC; Douglas Jardine was not knighted; and Penacook, New Hampshire is a real town. It also lists recent amendments on algorithmic YouTube content ‘sedating’ children, White House-approved oil and gas drilling in Alaska’s wildlife refuge, Australians’ promised free solar power hours, and a student’s wrong-Caesar exam error. Readers may send editorial complaints or correction requests to guardian.readers@theguardian.com, post to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or leave a voicemail at +44 20 3353 4736.",
+      "summaryTokens": 885,
+      "generatedAt": "2025-11-15T03:30:37.930Z"
+    },
+    {
+      "id": "news/2025/nov/13/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/13/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/13/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-13T21:00:09Z",
+      "trailText": "Fossil fuel subsidies | Santa Olga de Kyiv",
+      "summary": "This note corrects an earlier article: fossil fuel subsidies in 2023 are $2.5bn/day to consumers and producers—not only companies; Santa Olga de Kyiv (10th century) converted to Christianity and was not a Protestant. It lists recent amendments to articles on: Reform Party support and Farage, protests at a Kushner-linked Belgrade site, South Australia’s abortion restriction defeat, Utah’s new district map, a Florida base Christmas décor order, Epstein’s impact on MAGA, Trump on the National Guard, Birmingham’s homicide drop and olive brine reuse. Contact details provided.",
+      "summaryTokens": 801,
+      "generatedAt": "2025-11-15T03:30:37.930Z"
+    },
+    {
+      "id": "news/2025/nov/13/survivors-tadamon-massacres-justice-syria",
+      "title": "‘We were forced to burn bodies’: will survivors of the Tadamon massacres see justice?",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/13/survivors-tadamon-massacres-justice-syria",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/13/survivors-tadamon-massacres-justice-syria",
+      "section": "news",
+      "publishedDate": "2025-11-13T13:00:43Z",
+      "trailText": "The long read: During the conflict, the Damascus suburb became a killing field. But some of Assad’s henchmen are still around – and even working with the new government",
+      "summary": "In Damascus’s Tadamon district, survivors recount daily torture pits and burning of bodies by Assad’s military intelligence and allied paramilitaries between 2012 and 2015. Leaked footage identified 288 civilians executed in a single massacre and exposed the shooter, Amjad Youssef, who remains unpunished. Despite Assad’s fall in December 2024, many perpetrators—like NDF commander Fadi Saqr—operate openly under Syria’s new government, fueling public outrage and sporadic revenge killings. Residents describe mass graves unearthed by stray dogs, forced child labor to incinerate remains, and ongoing fear. With only a handful of arrests, Tadamon’s quest for accountability and transitional justice remains fraught and incomplete.",
+      "summaryTokens": 1026,
+      "generatedAt": "2025-11-15T03:30:37.930Z"
+    },
+    {
+      "id": "news/2025/nov/13/weatherwatch-britains-dedicated-band-of-rainfall-measurers",
+      "title": "Weatherwatch: Britain’s dedicated band of rainfall measurers",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/13/weatherwatch-britains-dedicated-band-of-rainfall-measurers",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/13/weatherwatch-britains-dedicated-band-of-rainfall-measurers",
+      "section": "news",
+      "publishedDate": "2025-11-13T06:00:16Z",
+      "trailText": "From Anglesey to Ben Nevis and Burnley, observers have been gathering invaluable data for hundreds of years",
+      "summary": "Since Richard Towneley’s first systematic rain gauge in 1677 at Burnley, Britain’s rainfall observers have amassed centuries-long records. By 1860, George Symons founded the British Rainfall Organisation to collate hundreds of gauges nationwide. Mountaineer Clement Wragge walked a 14-mile round trip daily to Ben Nevis in 1881 for data, while Tom Bown, observing since age ten in 1948 on Anglesey, holds 75 years of records and an MBE. These rich archives underpin weather forecasting and climate models, but scientists warn volunteer contributions have declined, resulting in more data collected in the 1880s than in the past decade.",
+      "summaryTokens": 1415,
+      "generatedAt": "2025-11-15T03:30:37.930Z"
+    },
     {
       "id": "news/2025/nov/11/corrections-and-clarifications",
       "title": "Corrections and clarifications",
