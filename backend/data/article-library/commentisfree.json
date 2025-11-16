@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "commentisfree",
-    "generated_at": "2025-11-15T03:11:56.104Z",
+    "generated_at": "2025-11-16T03:15:33.978Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-14"
+      "to": "2025-11-15"
     },
-    "article_count": 662,
+    "article_count": 667,
     "merge_info": {
-      "previous_count": 638,
-      "new_articles": 24,
-      "updated_articles": 0,
-      "total_count": 662
+      "previous_count": 662,
+      "new_articles": 5,
+      "updated_articles": 10,
+      "total_count": 667
     },
     "batch_info": {
-      "initial_batch_id": "batch_6917edb6bc58819084262262e2f93f86",
+      "initial_batch_id": "batch_69194152bcb08190b5f6a73264799ad6",
       "retry_batches": [],
-      "total_tokens": 59258,
-      "processing_time_hours": 0.1
+      "total_tokens": 35878,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "commentisfree/2025/nov/15/coalition-climate-action-australian-economy",
+      "title": "The Coalition is spinning a line that climate action is economically bad. How are they getting away with it? | Zoe Daniel",
+      "webUrl": "https://www.theguardian.com/commentisfree/2025/nov/15/coalition-climate-action-australian-economy",
+      "apiUrl": "https://content.guardianapis.com/commentisfree/2025/nov/15/coalition-climate-action-australian-economy",
+      "section": "commentisfree",
+      "publishedDate": "2025-11-15T23:39:42Z",
+      "trailText": "In this post-truth environment, the interests of coal and gas are somehow able to win the hearts and minds of voters",
+      "summary": "Zoe Daniel critiques the Coalition’s false narrative that climate action harms Australia’s economy. She recalls her amendment locking in emissions targets, describes how the Nationals and Liberals propagate fact-free claims that renewables increase power costs, amplified by figures like Bridget McKenzie and Sussan Ley. She cites AEMO, CSIRO and Climate Council data showing renewable power at $74/MWh vs $135/MWh for coal and gas, pinning price spikes on gas. Daniel warns misinformation risks eroding support for net zero and undermining regional economies set to benefit from climate mitigation.",
+      "summaryTokens": 800,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
+    },
+    {
+      "id": "commentisfree/2025/nov/15/chuck-schumer-government-shutdown",
+      "title": "Chuck Schumer should quit – but would his imaginary friends agree? | Arwa Mahdawi",
+      "webUrl": "https://www.theguardian.com/commentisfree/2025/nov/15/chuck-schumer-government-shutdown",
+      "apiUrl": "https://content.guardianapis.com/commentisfree/2025/nov/15/chuck-schumer-government-shutdown",
+      "section": "commentisfree",
+      "publishedDate": "2025-11-15T14:00:05Z",
+      "trailText": "The US government was shut down for weeks – and then Democrats shrugged their shoulders and gave up",
+      "summary": "Senate Minority Leader Chuck Schumer’s reliance on fictional Long Island couple Joe and Eileen Bailey shaped his strategy—but not its outcome. Democrats forced a 43-day government shutdown over expiring enhanced Affordable Care Act subsidies, only to reopen the government without securing the credits, leaving 24 million Americans facing steep premium hikes. Haunted by polls blaming Republicans, nine Democrats now demand Schumer’s resignation for poor leadership and miscalculation on healthcare and Middle East policy, with potential challengers eyeing his seat.",
+      "summaryTokens": 912,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
+    },
+    {
+      "id": "commentisfree/2025/nov/15/big-content-ai-entertainment-media-conglomerates-tech",
+      "title": "Big content is taking on AI – but it’s far from the David v Goliath tale they’d have you believe | Alexander Avila ",
+      "webUrl": "https://www.theguardian.com/commentisfree/2025/nov/15/big-content-ai-entertainment-media-conglomerates-tech",
+      "apiUrl": "https://content.guardianapis.com/commentisfree/2025/nov/15/big-content-ai-entertainment-media-conglomerates-tech",
+      "section": "commentisfree",
+      "publishedDate": "2025-11-15T10:00:06Z",
+      "trailText": "Deals between media conglomerates and tech companies serve both sets of interests, while leaving artists by the wayside, says video essayist, writer and researcher Alexander Avila",
+      "summary": "Alexander Avila argues that media giants like UMG, Sony and Warner partner with AI startups while suing them, striking exclusive licensing deals that marginalize artists. Landmark cases—UMG’s pact with Udio, Stability AI and Andersen lawsuits—highlight judges wrestling with copyright in generative AI. Campaigns like Human Artistry and the NO FAKES Act claim to protect creatives but often favor big content. Multimillion-dollar AI licensing sidelined writers, actors and musicians, and voice actors face coercive training-rights contracts. Avila urges organised labour—WGA, SAG-AFTRA strikes—as the only avenue securing meaningful AI safeguards, not antiquated copyright litigation.",
+      "summaryTokens": 883,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
+    },
+    {
+      "id": "commentisfree/2025/nov/15/burned-out-physics-helped-understand-hard-work-success-science",
+      "title": "After I burned out, physics helped me understand what had happened to me – and to move on | Zahaan Bharmal",
+      "webUrl": "https://www.theguardian.com/commentisfree/2025/nov/15/burned-out-physics-helped-understand-hard-work-success-science",
+      "apiUrl": "https://content.guardianapis.com/commentisfree/2025/nov/15/burned-out-physics-helped-understand-hard-work-success-science",
+      "section": "commentisfree",
+      "publishedDate": "2025-11-15T08:00:05Z",
+      "trailText": "I thought hard work equalled success. I had to realise that’s not always how it works, in science or in life, says Google employee Zahaan Bharmal",
+      "summary": "Google senior director Zahaan Bharmal recounts burning out after a redundancy and realises life—and careers—don’t follow Newton’s neat cause-and-effect. He applies physics concepts such as chaotic systems, surge capacity and phase transitions to show that operating at maximum output without slack makes us fragile. Just as power grids need reserve capacity to avoid blackouts and stress builds until a sudden tipping point, people require downtime to prevent burnout. Bharmal argues against a culture that equates effort with success, urging individuals and organisations to embed resilience through inefficiency and margin for error.",
+      "summaryTokens": 548,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
+    },
+    {
+      "id": "commentisfree/2025/nov/15/great-unwokening-hollywood-righwing-cultural-domination-sydney-sweeney",
+      "title": "Welcome to the great unwokening of Hollywood! Shame no one can be bothered to turn up | Jason Okundaye",
+      "webUrl": "https://www.theguardian.com/commentisfree/2025/nov/15/great-unwokening-hollywood-righwing-cultural-domination-sydney-sweeney",
+      "apiUrl": "https://content.guardianapis.com/commentisfree/2025/nov/15/great-unwokening-hollywood-righwing-cultural-domination-sydney-sweeney",
+      "section": "commentisfree",
+      "publishedDate": "2025-11-15T06:00:06Z",
+      "trailText": "Sydney Sweeney has become the poster child of a predicted rightwing cultural domination. So why is no one watching her films, asks Guardian assistant newsletter editor Jason Okundaye",
+      "summary": "Guardian’s Jason Okundaye critiques the so-called ‘great unwokening’ of Hollywood, using Sydney Sweeney—recently cast in a Reagan-Bush ’84–style campaign and hailed by MAGA influencers—as a case study in conservative cultural posturing. Despite proclamations that ‘woke is dead,’ Sweeney’s Christy Martin biopic and other right-leaning projects have flopped, suggesting ideological branding alone won’t drive audiences. True cultural influence, Okundaye argues, depends on artistic quality and broad resonance rather than manufactured conservative cool.",
+      "summaryTokens": 933,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
+    },
     {
       "id": "commentisfree/2025/nov/14/the-guardian-view-on-cop30-someone-has-to-pay-for-the-end-of-the-oil-and-gas-age",
       "title": "The Guardian view on Cop30: someone has to pay for the end of the oil and gas age | Editorial",
@@ -29,9 +89,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T18:30:47Z",
       "trailText": "Editorial: The fossil-fuel era is drawing to a close, but at a pace far too slow for the planet’s good or a fair transition to a clean energy future",
-      "summary": "Editorial uses Belém’s sunny mornings and Amazon storms to frame COP30’s hopeful start and looming conflicts over climate finance and fossil-fuel phase-out. The IEA confirms coal, oil and gas will peak this decade as renewables gain, but global emissions cuts lag. Developing nations invoke Paris article 9.1 to demand $1.3tn/year from rich states for adaptation, resilience and just transition; they’ve secured only $300bn by 2035, mostly loans. G77+China seek a just transition mechanism, while wealthy countries push market-based carbon solutions. COP30 will test if the global north pays its fair share or falters as warming approaches 2.6C.",
-      "summaryTokens": 1416,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "At Cop30 in Belém, initial optimism gave way to rifts over climate finance, carbon tariffs and the gap to the Paris 1.5 °C target. The IEA reports fossil fuels will peak this decade as renewables win on cost, but emissions cuts lag. Developing nations cite Article 9.1 to demand $1.3 trn/year in grants for adaptation and just transition; rich states push Article 6 carbon markets, blended loans and private capital. Of last year’s $300 bn pledge, only a third materialised and under 3% funded worker transition. Cop30’s test: will wealthy emitters finally pay their fair share or prolong the fossil-fuel era?",
+      "summaryTokens": 1555,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/the-guardian-view-on-the-booker-prize-winner-putting-masculinity-back-at-the-centre-of-literary-fiction",
@@ -41,9 +101,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T18:25:47Z",
       "trailText": "Editorial: David Szalay’s Flesh breaks from a decade of female-centred interiors and reopens a genre many thought closed to men",
-      "summary": "David Szalay’s Booker-winning novel Flesh reclaims male desire and exteriority in literary fiction, tracing a Hungarian immigrant István’s life through acts of sex, violence, migration and emotional numbness. Eschewing interior monologue, Szalay objectifies his everyman with stark realism, challenging the decade-long dominance of female-introspective narratives by Rooney and Moshfegh. By turning the tables on gender power and interrogating what it means to inhabit a body, Flesh speaks to modern anxieties around masculinity, identity and history.",
-      "summaryTokens": 685,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "David Szalay’s Flesh, the 2025 Booker winner, breaks a decade-long trend of female-focused interiority by offering an unapologetically external portrait of masculinity through the life of István, a working-class Hungarian immigrant. Told in terse, one-line paragraphs, the realist narrative strips away interior thought, focusing on István’s casual sex, violence and emotional numbness. Szalay rejects Amis-era machismo, positioning men as the objectified and exploring desire, migration and identity. Flesh’s minimalist style and Homeric scope probe what it means to live in a “machine made of meat”, reinvigorating male-centred literary fiction for our moment.",
+      "summaryTokens": 1027,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/trump-bbc-epstein-vulnerability-us-president-maga",
@@ -53,9 +113,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T17:12:51Z",
       "trailText": "In attacking a vital broadcaster, the US president is once again holding others to standards he flouts. But the Maga faithful might not let his links to the disgraced financier go, says Guardian columnist Jonathan Freedland",
-      "summary": "Jonathan Freedland argues Donald Trump exploits an ‘asymmetry’ of truth: he lies freely while critics must be error-free, as shown by the BBC’s apology over a misleading Panorama edit. That mistake lets Trump dismiss valid scrutiny as “fake news,” undermining the BBC’s role as Britain’s factual backbone. Freedland stresses the BBC must be ‘bulletproof’ to prevent a US-style ‘tribal facts’ split and applauds internal efforts to tackle broader bias findings. He warns only one battlefield is level for Trump: the Jeffrey Epstein scandal, where new documents could confirm his closeness to Epstein and shatter the MAGA base’s belief in his crusade against elite child-abusers, a liability even he can’t evade.",
-      "summaryTokens": 1742,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "Jonathan Freedland argues Trump’s habitual lies grant him license to attack critics, forcing institutions like the BBC to be 'bulletproof'—a standard he ignores. After a misleading Panorama edit on Trump’s Jan 6 rhetoric, the White House branded the BBC ‘fake news’, undermining trust in shared facts. Freedland warns this asymmetry endangers democracy. His one check? Jeffrey Epstein: new documents suggest Trump’s deeper ties to the disgraced financier, potentially shattering QAnon-fueled loyalty. Republicans plan to block full release of DOJ Epstein files, fearing this remains Trump’s sole vulnerability.",
+      "summaryTokens": 870,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/keir-starmer-labour-briefing-tax-rise",
@@ -65,9 +125,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T14:45:18Z",
       "trailText": "Chaos and ineptitude dog our poor PM. Perhaps the explanation lies (very) close to home, says Guardian columnist Marina Hyde",
-      "summary": "Marina Hyde skewers Keir Starmer’s Downing Street for bungled phantom briefing against Wes Streeting – prompting a grovelling apology for a smear apparently never authorized – and a pre-budget U-turn on planned income tax rises that sparked gilt-market panic. Hyde quips that markets made “emergency calls for Andrex” as No 10 replaces its “news grid” with an “apology grid”. She ridicules Rachel Reeves’s shift from major levies to a patchwork of minor “smorgasbord” taxes, likening it to reheated, past-date deli scraps. Starmer’s amateur sleuthing into the leak, involving only McSweeney and Allan, yields no culprit. Westminster chaos continues.",
-      "summaryTokens": 1671,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "Guardian columnist Marina Hyde skewers the UK government’s mid-budget implosion: a reported U-turn on basic and higher income tax hikes triggered gilt market turmoil, while Downing Street flailed between apology grids and a “smorgasbord” of minor levies. Meanwhile Opposition Leader Keir Starmer’s inquiry into a phantom No 10 briefing against Wes Streeting produced only denials from aides, exposing his “team of weevils.” Hyde lampoons Labour’s procedural dramatics, fiscal dithering and Starmer’s overseas absences as undermining credibility ahead of the budget.",
+      "summaryTokens": 869,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/15/somebody-to-love-should-ai-relationships-stay-taboo-or-will-they-become-the-intelligent-choice",
@@ -77,9 +137,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T14:00:47Z",
       "trailText": "How will AI destroy the world as we know it? Not through evil. My guess is it will do it through love",
-      "summary": "Brigid Delaney describes a pub chat with Gen X parents—staunch supporters of marriage equality—who balk at the thought of their children in serious relationships with AI chatbots. She references surveys finding 28% of Americans, 19% of adults and up to 16% of 25–34 year-olds have pursued AI romance, yet taboo persists. AI partners’ constant availability, flattery and emotional tuning can elicit genuine chemical responses, prompting some writers (e.g. Ian McEwan) to call for regulatory guardrails. Delaney shares her own self-imposed AI limits, warning that AI could “destroy the world” not by malice, but through love.",
-      "summaryTokens": 1359,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "Brigid Delaney examines how AI chatbots are evolving into romantic partners, citing surveys showing around 19–28% of adults have pursued AI relationships and Irish research indicating 16% of 25–34 year olds have tried chatbot romances. She portrays Gen X parents’ shock at the notion of their children proposing to digital “partners,” revealing a new taboo around AI love. Delaney argues that because bots offer constant attention, care and flattering feedback without demands, they meet deep human needs and blur emotional boundaries. As society hesitates to accept non-human significant others, she warns that AI won’t destroy the world with malice but through love itself.",
+      "summaryTokens": 1026,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/republicans-democrats-congress-shutdown",
@@ -89,9 +149,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T11:00:54Z",
       "trailText": "Democrats finally had bargaining power and they caved. It’s nothing new – but it’s proof voters must make our demands clear",
-      "summary": "In his Guardian column, Robert Reich argues that the recent government shutdown exposed a chronic asymmetry: Senate Democrats, led by Chuck Schumer, lacked discipline and caved despite public pressure on Republicans, reflecting a longstanding pattern from 1994 healthcare to Manchin and Sinema blocking Biden. By contrast, Republicans march to a single drummer. Drawing on Lakoff’s “nurturing mother” vs “strict father” framework, Reich warns Democratic voters must explicitly demand unity and toughness or risk a weak, garbled brand against a unified GOP.",
-      "summaryTokens": 789,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "Robert Reich argues that Senate Democrats, led by Chuck Schumer, failed to stay unified during the 2025 government shutdown despite holding leverage, caving on healthcare subsidies. He attributes this to a deep-rooted asymmetry: Democrats’ \"big tent\" tolerance versus Republicans’ disciplined hierarchy. Historical parallels include Clinton’s stalled healthcare in 1994 and Manchin–Sinema blocking Biden’s agenda. Linguist George Lakoff’s \"nurturing mother\" vs \"strict father\" framing explains Democrats’ garbled messaging and Republicans’ sharper brand. Reich urges Democratic voters to demand toughness and hold their representatives accountable to match Republican unity.",
+      "summaryTokens": 1256,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/homelessness-hard-to-ignore-labour-party",
@@ -101,9 +161,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T10:00:24Z",
       "trailText": "The government is focused on building new homes for floating voters, while landlordism is discouraged and homes stand empty, says Guardian columnist Simon Jenkins",
-      "summary": "Simon Jenkins warns Britain’s homelessness crisis is intensifying: rough sleeping will be decriminalised under a scrapped 19th-century Vagrancy Act but the government’s cross-departmental strategy and focus on newbuilds neglect urgent need for shelter. Homelessness in England rose 21% from 2022–24 and 45% since 2012, reaching 300,000 households, driven by welfare gaps, court and parole chaos, immigration surges and loss of community housing like Stratford’s Clays Lane co-op. Starmer’s push for 1.5m new homes, rural deregulation and landlord taxation sidelines bottom-end rentals while housebuilding starts plunged 55% and 1m homes stand empty. Homelessness remains a visible policy failure.",
-      "summaryTokens": 654,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "Simon Jenkins highlights a soaring homelessness crisis—rough sleeping up 21% since 2022 (45% since 2012), 300,000 households homeless, 25% more street sleepers in Westminster—only to be met with policy missteps by Labour. Decriminalisation of rough sleeping via Vagrancy Act repeal and Starmer’s focus on 1.5m newbuilds and stricter landlord regulations overlooks a 55% drop in starts, 1m empty homes, and the welfare-state failures behind individual tragedies. He warns new towns and deregulated executive developments ignore urgent reuse of existing housing.",
+      "summaryTokens": 1128,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/wes-streeting-no-10-reforms-nhs-health-secretary-public-services-labour",
@@ -113,9 +173,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T08:00:23Z",
       "trailText": "The health secretary has embarked on a high-stakes reorganisation. It could be a model for rebuilding public services – or a nail in his and Labour’s coffin, says Guardian columnist Gaby Hinsliff",
-      "summary": "In this Guardian column, Gaby Hinsliff argues that health secretary Wes Streeting’s NHS overhaul in England is a higher-stakes gamble than any play for Downing Street. He’s approved axing around 18,000 back-office roles—at a one-off £1bn cost—to save £1bn annually, merging NHS England into the Department of Health and Social Care to devolve power to strong hospital trusts. Done amid doctors’ strikes, delayed social care reforms and winter pressures, success could cement falling waiting lists, revive faith in public services and bolster Labour; failure risks staff morale, political revolt and jeopardises both NHS prospects and the party’s future.",
-      "summaryTokens": 699,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "Health secretary Wes Streeting has launched a bold NHS England shake-up: axing 18,000 back-office roles to net £1 billion annually for frontline care, merging NHS England into the Department of Health and Social Care and devolving power to high-performing trusts. This follows falling waiting lists (61.8 % seen within 18 weeks, aiming for 92 % by 2029) but comes amid doctors’ strikes, delayed social care reform and winter pressures. Success could model efficient, low-tax public-service renewal; failure risks political and institutional fallout.",
+      "summaryTokens": 367,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/climate-crisis-communication-super-rich",
@@ -125,9 +185,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T06:00:20Z",
       "trailText": "The fundamental problem is this: that most of the means of communication are owned or influenced by the very rich, says Guardian columnist George Monbiot",
-      "summary": "Monbiot argues that climate action falters not for lack of tech or funding but due to an epistemic crisis: the super-rich control most communication channels, deploying propaganda, funding denialist platforms (PragerU, Daily Wire), engineering algorithmic bias (X), and exploiting media impartiality (BBC, junk-tank balance) to conflate lobbyists with scientists. This systematic assault on knowledge shores up right-wing, fossil fuel interests, fueling misinformation feedback loops that sap political will and stall measures from local policy to Cop30. He cites fracking billionaires pouring $8m into PragerU, research on X’s pro-right skew, BBC hosting fossil-funded think-tanks without disclosure, and New York Times’ false-balance traps, all fueling diluted commitments at Cop30.",
-      "summaryTokens": 978,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "George Monbiot argues climate action is hampered not by lack of technology but by an epistemic crisis: the ultra-rich control most communication, skewing public knowledge. Through media ownership, funding of denialist platforms (PragerU, Daily Wire), algorithmic bias on X, and false-balance journalism in outlets like the BBC and New York Times, they amplify climate denial, manufacture controversy (e.g., heat pump “debates”) and suppress expert consensus. This systematic assault on truth fuels political paralysis, undermines COP negotiations and makes defending accurate information essential to avert environmental collapse.",
+      "summaryTokens": 416,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/global-leader-climate-action-eu-right-green-bashing",
@@ -137,9 +197,9 @@
       "section": "commentisfree",
       "publishedDate": "2025-11-14T05:00:19Z",
       "trailText": "From deforestation to emissions trading, vital policies are being watered down in the name of ‘competitiveness’, says Guardian Europe columnist Nathalie Tocci",
-      "summary": "Once the EU spearheaded global climate action—driving COP21’s 1.5°C goal and enshrining the 2019 European Green Deal with binding net-zero targets—it now faces internal and external pushback. Post-COVID and Ukraine invasion, nationalist right-wing and fossil-fuel lobbies reframed the Green Deal as a threat to competitiveness, prompting diluted 2040 emissions cuts, reliance on questionable carbon credits, and delays to emissions trading extension, deforestation regulation, and the 2035 combustion engine ban. Threats to CBAM and omnibus rollbacks risk undermining EU credibility, empowering China’s renewable leadership and weakening Europe’s leverage with the global south.",
-      "summaryTokens": 948,
-      "generatedAt": "2025-11-15T03:11:55.758Z"
+      "summary": "Once a climate action leader, the EU is backsliding under “greenlash”: right-wing and nationalist forces, backed by fossil-fuel and agri lobbies plus US and Gulf pressure, have reframed the Green Deal as a threat and pushed policymakers to drop robust targets and introduce review clauses for 2040, rely on dubious carbon credits, delay emissions-trading expansion and deforestation rules, and potentially dilute the 2035 combustion engine ban. The Green Deal language has been replaced by “competitiveness” and “technological neutrality,” weakening CBAM prospects. This retreat undermines Europe’s energy security, economic prosperity and global standing, even as China accelerates renewables and the EU risks losing influence with the global south.",
+      "summaryTokens": 1030,
+      "generatedAt": "2025-11-16T03:15:33.586Z"
     },
     {
       "id": "commentisfree/2025/nov/14/labor-must-not-partner-with-climate-vandals-on-australias-new-environmental-laws",
