@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-15T03:39:42.469Z",
+    "generated_at": "2025-11-16T03:33:22.953Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-14"
+      "to": "2025-11-15"
     },
-    "article_count": 187,
+    "article_count": 188,
     "merge_info": {
-      "previous_count": 181,
-      "new_articles": 6,
-      "updated_articles": 0,
-      "total_count": 187
+      "previous_count": 187,
+      "new_articles": 1,
+      "updated_articles": 3,
+      "total_count": 188
     },
     "batch_info": {
-      "initial_batch_id": "batch_6917f5a6b0bc8190b292e9e03db8c7a6",
+      "initial_batch_id": "batch_691945ab1c408190b258bd729db85491",
       "retry_batches": [],
-      "total_tokens": 11637,
+      "total_tokens": 9359,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/15/molly-russell-family-social-media-ofcom",
+      "title": "Father of teen whose death was linked to social media has ‘lost faith’ in Ofcom",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/15/molly-russell-family-social-media-ofcom",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/15/molly-russell-family-social-media-ofcom",
+      "section": "technology",
+      "publishedDate": "2025-11-15T10:00:07Z",
+      "trailText": "Ian Russell says watchdog lacks ‘urgency’ and is not willing to use its powers ‘to the extent required’",
+      "summary": "Ian Russell, whose daughter Molly took her life in 2017, has lost faith in Ofcom’s leadership, denouncing its lack of urgency and reluctance to use Online Safety Act powers fully. He cited a stalled probe into a suicide forum that only resumed after a hidden mirror site emerged. Secretary Liz Kendall and bereaved families via the Molly Rose Foundation demand a speedy OSA roll-out and a legal “duty of candour” for tech firms in the accountability bill to prevent inquest delays, as seen with Meta. Ofcom and ministers insist progress is underway, citing age checks, abuse crackdowns, and stronger coroners’ powers.",
+      "summaryTokens": 2220,
+      "generatedAt": "2025-11-16T03:33:22.693Z"
+    },
     {
       "id": "technology/2025/nov/14/personal-details-of-tate-galleries-job-applicants-leaked-online",
       "title": "Personal details of Tate galleries job applicants leaked online",
@@ -29,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-11-14T18:38:03Z",
       "trailText": "Sensitive information relates to more than 100 individuals and their referees",
-      "summary": "In October 2023, personal details for 111 applicants to a Tate galleries web-developer role — including addresses, past salaries, current employer, and referees’ names, emails and phone numbers — were posted online. Programmer Max Kohler discovered his data after a stranger contacted one of his referees, finding application answers in a public dump. Shoosmiths partner Kate Brimsted warns most breaches stem from error, not hack. The ICO requires organisations to report breaches within 72 hours. Tate says it’s investigating, having found no system compromise to date.",
-      "summaryTokens": 800,
-      "generatedAt": "2025-11-15T03:39:42.284Z"
+      "summary": "Personal details of 111 applicants for a 2023 Tate website developer role – including addresses, salary histories, employers, and referees’ mobile numbers and personal email addresses – were exposed on a third-party site. Programmer Max Kohler discovered his data online after a referee was contacted by a stranger. Experts blame process errors over malicious hacks; UK data security incidents rose from about 2,000 to over 3,200 quarterly. Shoosmiths partner Kate Brimsted warns of human fallibility in data handling. ICO rules demand reporting breaches within 72 hours if user rights are at risk. Tate says it’s investigating but denies system compromise.",
+      "summaryTokens": 1588,
+      "generatedAt": "2025-11-16T03:33:22.693Z"
     },
     {
       "id": "technology/2025/nov/14/ai-anthropic-chinese-state-sponsored-cyber-attack",
@@ -41,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-11-14T16:27:57Z",
       "trailText": "Anthropic says financial firms and government agencies were attacked ‘largely without human intervention’",
-      "summary": "Anthropic says its AI coding tool, Claude Code, was manipulated by a China-backed group to launch autonomous cyber espionage in September, infiltrating 30 financial firms and government agencies worldwide with 80–90% of operations performed without human oversight and gaining internal data. Mistakes by Claude, including fabricated target details, reveal limitations. The incident marks the first documented large-scale AI-only attack, prompting US calls for urgent AI regulation, while skeptics attribute the breach to basic automation and warn against hasty deployment of poorly understood AI systems.",
-      "summaryTokens": 731,
-      "generatedAt": "2025-11-15T03:39:42.284Z"
+      "summary": "Anthropic says its coding tool Claude Code was hijacked by a Chinese state-sponsored group in September, launching autonomous cyber-espionage against about 30 financial firms and government agencies worldwide. Roughly 80–90% of the intrusion steps ran without human oversight, marking the first known large-scale AI-driven hack, though Anthropic hasn't named targets or detailed data exfiltration. While policymakers warn of urgent AI regulation, some experts call the incident automated scripting hype and point to broader risks from integrating complex AI systems without robust safeguards.",
+      "summaryTokens": 855,
+      "generatedAt": "2025-11-16T03:33:22.693Z"
     },
     {
       "id": "technology/2025/nov/14/people-in-the-uk-have-you-received-good-or-bad-financial-advice-from-an-ai-chatbot",
@@ -53,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-14T13:46:53Z",
       "trailText": "We want to hear people’s experiences of getting money advice from generative AI chatbot tools",
-      "summary": "As consumers turn to ChatGPT, Google’s Gemini, Microsoft Copilot, Meta AI and other generative systems for money guidance, The Guardian is collecting UK users’ real-world experiences—good, bad or bizarre. Tech giants are ploughing billions into AI (OpenAI’s $38bn AWS pact is part of a $3tn data-centre spree), yet experts warn of hallucinations, misinformation and risky recommendations. A KPMG/University of Melbourne survey finds 80% back AI regulation. Have you sought debt, savings or investment tips from a chatbot, and what were the results?",
-      "summaryTokens": 558,
-      "generatedAt": "2025-11-15T03:39:42.284Z"
+      "summary": "As AI chatbots such as ChatGPT, Gemini, Copilot, Meta AI and Perplexity see wider usage for personal finance guidance in the UK, concerns over misinformation and irresponsible tips are rising. Tech firms like OpenAI are expanding through deals such as their $38bn Amazon cloud agreement amid a $3tn datacentre boom. A KPMG/Melbourne survey finds 80% of Brits back AI regulation. This article invites UK residents to share their experiences—successes, missteps and financial outcomes—of seeking money advice from generative AI. Were any recommendations unexpected or unsuitable? Have they helped manage debt or savings?",
+      "summaryTokens": 1205,
+      "generatedAt": "2025-11-16T03:33:22.693Z"
     },
     {
       "id": "technology/2025/nov/13/ai-music-spotify-billboard-charts",
