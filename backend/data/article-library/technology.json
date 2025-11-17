@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-16T03:33:22.953Z",
+    "generated_at": "2025-11-17T03:33:38.479Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-15"
+      "to": "2025-11-16"
     },
-    "article_count": 188,
+    "article_count": 189,
     "merge_info": {
-      "previous_count": 187,
+      "previous_count": 188,
       "new_articles": 1,
-      "updated_articles": 3,
-      "total_count": 188
+      "updated_articles": 1,
+      "total_count": 189
     },
     "batch_info": {
-      "initial_batch_id": "batch_691945ab1c408190b258bd729db85491",
+      "initial_batch_id": "batch_691a973a3f188190b03d07e53bdb7a51",
       "retry_batches": [],
-      "total_tokens": 9359,
+      "total_tokens": 4164,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/16/google-deepmind-hurricane-forecast",
+      "title": "How Google’s DeepMind tool is ‘more quickly’ forecasting hurricane behavior",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/16/google-deepmind-hurricane-forecast",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/16/google-deepmind-hurricane-forecast",
+      "section": "technology",
+      "publishedDate": "2025-11-16T13:00:32Z",
+      "trailText": "‘Less expensive and time consuming’ model helps with fast and accurate predictions, possibly saving lives and property",
+      "summary": "Google’s new DeepMind hurricane model, released in June, uses machine-learning to predict storm tracks and intensification faster and cheaper than physics-based systems. Forecasters at the US National Hurricane Center credited it with accurately forecasting Tropical Storm Melissa’s rapid escalation to Category 5 and leading in track accuracy across 13 Atlantic storms this season. Despite occasional intensity misses, former NHC experts hail its performance. Critics warn of its “black box” nature and urge more transparency. Meanwhile, governments and startups are racing to deploy AI-powered weather tools for improved sub-seasonal outlooks, tornado and flood warnings under US funding.",
+      "summaryTokens": 1004,
+      "generatedAt": "2025-11-17T03:33:38.307Z"
+    },
     {
       "id": "technology/2025/nov/15/molly-russell-family-social-media-ofcom",
       "title": "Father of teen whose death was linked to social media has ‘lost faith’ in Ofcom",
@@ -29,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-11-15T10:00:07Z",
       "trailText": "Ian Russell says watchdog lacks ‘urgency’ and is not willing to use its powers ‘to the extent required’",
-      "summary": "Ian Russell, whose daughter Molly took her life in 2017, has lost faith in Ofcom’s leadership, denouncing its lack of urgency and reluctance to use Online Safety Act powers fully. He cited a stalled probe into a suicide forum that only resumed after a hidden mirror site emerged. Secretary Liz Kendall and bereaved families via the Molly Rose Foundation demand a speedy OSA roll-out and a legal “duty of candour” for tech firms in the accountability bill to prevent inquest delays, as seen with Meta. Ofcom and ministers insist progress is underway, citing age checks, abuse crackdowns, and stronger coroners’ powers.",
-      "summaryTokens": 2220,
-      "generatedAt": "2025-11-16T03:33:22.693Z"
+      "summary": "Ian Russell, father of 14-year-old Molly Russell who died by suicide after viewing harmful online content, says he has “lost faith” in Ofcom’s leadership, accusing the watchdog of lacking urgency and under-using its new Online Safety Act powers. Russell highlighted stalled probes into a UK-accessible suicide forum and delays in rolling out OSA rules—concerns echoed by tech secretary Liz Kendall. His Molly Rose Foundation calls for extending a legal “duty of candour” to tech companies, boosting transparency in coroner inquests where social media use is implicated.",
+      "summaryTokens": 542,
+      "generatedAt": "2025-11-17T03:33:38.307Z"
     },
     {
       "id": "technology/2025/nov/14/personal-details-of-tate-galleries-job-applicants-leaked-online",
