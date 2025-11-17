@@ -1,26 +1,146 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-16T03:36:42.253Z",
+    "generated_at": "2025-11-17T03:36:09.047Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-16"
+      "to": "2025-11-17"
     },
-    "article_count": 1237,
+    "article_count": 1247,
     "merge_info": {
-      "previous_count": 1224,
-      "new_articles": 13,
-      "updated_articles": 23,
-      "total_count": 1237
+      "previous_count": 1237,
+      "new_articles": 10,
+      "updated_articles": 19,
+      "total_count": 1247
     },
     "batch_info": {
-      "initial_batch_id": "batch_6919460cfa1c81908f7fe54e7eb175e7",
+      "initial_batch_id": "batch_691a979ae40c8190b45b343895785e8d",
       "retry_batches": [],
-      "total_tokens": 82252,
-      "processing_time_hours": 0.1
+      "total_tokens": 69661,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/nov/17/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: Another Republican challenges Trump over Epstein files ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/17/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/17/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2025-11-17T00:27:59Z",
+      "trailText": "Thomas Massie has criticized Trump for ordering attorney general Pam Bondi to examine Democrats with ties to Epstein – key US politics stories from 16 November at a glance",
+      "summary": "Republican Rep. Thomas Massie and Democrat Ro Khanna urged full release of government Epstein files, accusing Trump of ordering AG Pam Bondi to probe Democrats with ties to Epstein as a 'last-ditch smokescreen' to keep records sealed. Massie told ABC’s This Week that new investigations could legally block disclosure. In related news, Marjorie Taylor Greene criticized Trump’s 'traitor' slur; 17 transgender Air Force members sued over pension denials; US forces killed three suspected drug smugglers in the eastern Pacific; border patrol intensified arrests in Charlotte; and the White House aims to onshore rare-earth mining.",
+      "summaryTokens": 2217,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/trump-epstein-files-republican",
+      "title": "Trump’s investigation into Epstein ties to political foes might be ‘smokescreen’, Republican says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/trump-epstein-files-republican",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/trump-epstein-files-republican",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T21:20:33Z",
+      "trailText": "Thomas Massie says move could be Trump’s ‘last-ditch effort’ to keep Epstein files from becoming public",
+      "summary": "Republican Rep. Thomas Massie says Trump’s order for AG Pam Bondi to investigate Democrats linked to Jeffrey Epstein may be a ‘last-ditch smokescreen’ to block release of full Epstein files, arguing open probes stave off public disclosure. Massie and Democrat Ro Khanna lead a bipartisan push to free Justice Department records on Epstein’s sex-trafficking network. Over 100 House Republicans could back a vote this week, though Senate approval remains doubtful. Survivor advocates plan to meet Trump, while GOP leaders defend the probe as clearing the president.",
+      "summaryTokens": 344,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/charlotte-north-carolina-immigration-crackdown",
+      "title": "Dozens reportedly arrested in Charlotte, North Carolina, amid immigration crackdown",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/charlotte-north-carolina-immigration-crackdown",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/charlotte-north-carolina-immigration-crackdown",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T20:13:17Z",
+      "trailText": "Trump administration has made Democratic-led city its latest target despite fierce objections from local leaders",
+      "summary": "CBP’s \"Operation Charlotte's Web\" deployed 81 agents on Nov 16, arresting 81 migrants in 5 hours near churches and apartments in Charlotte, a Democratic-led city with falling crime. Commander Gregory Bovino touted arrests of people with alleged criminal and immigration records on social media. Local leaders, including Mayor Vi Lyles, decried the raids as fear-mongering, citing unwarranted detentions; activists distributed whistles to warn neighbors. Nonprofits reported school and clinic cancellations; immigrant advocates called the crackdown a \"shameful\" NC GOP-driven operation. Past NC daily high was 30 arrests. DHS offers few details; previous similar actions in Chicago and LA spurred lawsuits.",
+      "summaryTokens": 1595,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/trans-air-force-trump-administration-lawsuit-retirement-pension-benefits",
+      "title": "Trans air force members sue Trump administration over denied pension",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/trans-air-force-trump-administration-lawsuit-retirement-pension-benefits",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/trans-air-force-trump-administration-lawsuit-retirement-pension-benefits",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T19:37:00Z",
+      "trailText": "Complaint slams government’s actions as ‘unlawful and invalid’ after air force revoked early retirement benefits",
+      "summary": "A group of 17 transgender USAF members, including Logan Ireland, Ashley Davis, Kira Brimhall and Lindell Walley, sued the Trump administration in federal court after the Air Force rescinded their early retirement pensions and TRICARE benefits, labeling the move “unlawful and invalid.” Represented by GLAD Law, plaintiffs argue the revocation violates Air Force retirement rules and costs each $1–2 million in lifetime benefits, endangering families’ economic security. They seek reinstatement of retirement orders, correction of service records, and coverage of interest, costs and attorney’s fees. The suit joins broader challenges to the Pentagon’s transgender military bans after a federal judge blocked the 2017 exclusion.",
+      "summaryTokens": 1026,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/marjorie-taylor-greene-trump-remarks",
+      "title": "Marjorie Taylor Greene says Trump’s remarks hurtful but hopes they can make up",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/marjorie-taylor-greene-trump-remarks",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/marjorie-taylor-greene-trump-remarks",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T15:48:41Z",
+      "trailText": "Congresswoman, a longtime Trump ally, pushes back against president’s remarks labeling her a traitor and a lunatic",
+      "summary": "Georgia congresswoman Marjorie Taylor Greene described Donald Trump’s recent labeling of her as a “traitor” and “lunatic” as hurtful but expressed hope for reconciliation following his withdrawal of endorsement. She reported receiving private security warnings amid threats she attributes to his rhetoric, and warned such language could radicalize attackers. Greene, once Trump’s staunch ally, now diverges on key issues—urging transparency in Jeffrey Epstein’s files, backing a House vote demanding their release, and pressing Trump to prioritize inflation and toughen immigration policy. She apologized for past aggressive rhetoric, called for bipartisan kindness, and invoked Christian forgiveness as she seeks to mend their alliance.",
+      "summaryTokens": 625,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/jeffrey-epstein-powerful-friends",
+      "title": "The banality of evil: how Epstein’s powerful friends normalised him",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/jeffrey-epstein-powerful-friends",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/jeffrey-epstein-powerful-friends",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T14:00:36Z",
+      "trailText": "Long after his conviction for sexual abuse, people in royalty, academia, business, journalism and politics sought his ear",
+      "summary": "House committee disclosures reveal that between 2009 and 2019, convicted sex offender Jeffrey Epstein retained influence in elite circles—royalty, politics, academia, finance and media—offering political strategy and scandal counsel to figures like Steve Bannon, Larry Summers, Kathryn Ruemmler and Prince Andrew. Michael Wolff, Lawrence Krauss, Peter Thiel and others sought his advice on PR, diplomacy and personal matters. Rather than ostracize him, his vast wealth and connections normalized his presence, exposing how privileged networks insulated offenders from accountability.",
+      "summaryTokens": 984,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/ghislaine-maxwell-low-security-prison-treatment",
+      "title": "A puppy and unlimited toilet paper? Legal experts say Ghislaine Maxwell’s alleged prison life is uncommon",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/ghislaine-maxwell-low-security-prison-treatment",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/ghislaine-maxwell-low-security-prison-treatment",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T13:00:32Z",
+      "trailText": "Maxwell is serving a 20-year sentence for her role in Jeffrey Epstein’s sex-trafficking of teen girls – and her treatment is prompting speculation",
+      "summary": "Ghislaine Maxwell’s transfer to Texas’s FPC Bryan, a low-security prison, has sparked allegations of unusual perks: custom meals, unlimited toilet paper, a visitor area stocked with snacks, a puppy from the prison’s service-dog program and the warden acting as her assistant. In a Nov. 9 letter, Rep. Jamie Raskin accused the Trump administration of arranging these favors in exchange for a commutation application. Legal experts say such treatment for a sex-trafficking convict is unprecedented and suggests cooperation or a quid pro quo. The BOP denies any improper favoritism; Maxwell’s team denies seeking clemency and plans a habeas petition.",
+      "summaryTokens": 1907,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/la-fire-palisades-report",
+      "title": "Scrutiny grows over LA fire origins after bombshell report: ‘Our Pearl Harbor moment’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/la-fire-palisades-report",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/la-fire-palisades-report",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T12:00:34Z",
+      "trailText": "Reports that fire crews were ordered to leave original site of blaze prompt tough questions for city and LAFD leaders",
+      "summary": "Recent LA Times revelations that firefighters were ordered to leave the smoldering Lachman fire days before it reignited into the devastating Palisades fire have triggered scrutiny of LAFD leadership. Texts show crews warned the ground was still hot before hoses were rolled up. The initial fire broke out Jan. 1, was declared “dead out,” then flared five days later, fueled by 100 mph winds, destroying 6,800+ structures and killing 12. Mayor Bass has ordered an independent probe led by interim chief Ronnie Villanueva to examine decision-making, reform protocols and restore trust. Critics call it a “Pearl Harbor moment,” urging analysis of interagency coordination, communications failures and leadership accountability.",
+      "summaryTokens": 1976,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/thanksgiving-air-travel-us-government-reopen",
+      "title": "It’s all gravy: Thanksgiving air traffic to be normal after US government reopens",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/thanksgiving-air-travel-us-government-reopen",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/thanksgiving-air-travel-us-government-reopen",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T12:00:33Z",
+      "trailText": "Experts say air traffic controllers quickly returning to work, with promise of full back pay, and even $10,000 bonus",
+      "summary": "After the 16-day shutdown, US air travel is stabilizing as essential air traffic controllers return with promised back pay—70% within 48 hours, rest in a week—and $10,000 bonuses for controllers and TSA. Flight-trigger delays fell from 81 on Nov 8 to 4 by mid-Nov, cancellations dropped to 3.5%, and 94% of flights now depart within 15 minutes. With staffing still 3,800 controllers below target, experts expect normal Thanksgiving schedules by early next week despite lingering pilot and weather risks.",
+      "summaryTokens": 411,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
+    {
+      "id": "us-news/2025/nov/16/new-orleans-school-desegregation-gail-etienne",
+      "title": "‘I was just going to school’: legacy of New Orleans’ other desegregation pioneers",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/16/new-orleans-school-desegregation-gail-etienne",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/16/new-orleans-school-desegregation-gail-etienne",
+      "section": "us-news",
+      "publishedDate": "2025-11-16T11:00:30Z",
+      "trailText": "Leona Tate has built a center at the former school she and her two six-year-old friends braved angry crowds to attend – the same day as Ruby Bridges’ better-known experience",
+      "summary": "On November 14, 1960, Gail Etienne, Leona Tate and Tessie Prevost, aged six, became ‘The McDonogh Three’ when federal marshals escorted them into New Orleans’ all-white McDonogh 19 school amid violent protests. Unlike Ruby Bridges, their story remained hidden until Tate purchased and restored the Katrina-damaged building as the TEP Center museum and community hub, housing senior apartments and civil-rights exhibits. Their New Orleans Four LLC now works to correct the historical record, emphasizing their lifelong bond, the sacrifices they made for desegregation and ongoing efforts to promote racial equality through education and dialogue.",
+      "summaryTokens": 816,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
+    },
     {
       "id": "us-news/2025/nov/16/trump-administration-news-updates-today",
       "title": "Trump news at a glance: Marjorie Taylor Greene raises fears for her safety as row with Donald Trump escalates",
@@ -29,9 +149,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-16T02:16:43Z",
       "trailText": "President’s one-time ally says she has been contacted by private security firms after denunciation by president. Key US politics stories from Saturday 15 November at a glance",
-      "summary": "Georgia congresswoman Marjorie Taylor Greene says private security firms warned her after Donald Trump withdrew his endorsement, accusing him of fueling threats over her stance on military aid to Israel, cost-of-living and Epstein file votes. Meanwhile, House oversight texts reveal Steve Bannon aided Jeffrey Epstein’s PR strategy; ICE agents conducted a sweep in Charlotte; Democrat Justin Douglas, a pastor, launches a Christian-left congressional bid; the Justice Department reissued pardon signatures amid auto-signing disputes; Trump threatened tariffs on Thailand over a Cambodia ceasefire; NYC’s mayor-elect tapped Lina Khan for his transition team.",
-      "summaryTokens": 929,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Longtime Trump ally Marjorie Taylor Greene says she’s received private security warnings after Trump publicly withdrew his endorsement, calling her a “disgrace” amid disputes over Israel aid, the government shutdown and release of Epstein documents ahead of a planned House vote. Elsewhere, a trove of texts shows Steve Bannon advising Jeffrey Epstein; ICE agents raided a Charlotte church in an immigration sweep; minister-turned-Democrat Justin Douglas mounts a “Christian left” congressional bid; the DOJ replaced autopen-signed pardons; and Trump signaled tariff threats to pressure Thailand into a Cambodia ceasefire.",
+      "summaryTokens": 738,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/alice-wong-disability-rights-activist-dies-aged-51",
@@ -41,9 +161,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-16T00:35:05Z",
       "trailText": "Daughter of immigrants advocated for people with disabilities to have full autonomy over their lives",
-      "summary": "Alice Wong, a writer and disability rights activist born with muscular dystrophy, died at 51 in San Francisco on Nov. 15 from an infection. The daughter of Hong Kong immigrants and self-described “disabled cyborg,” Wong chronicled discrimination growing up in Indiana and advocated for full autonomy for disabled people, especially people of color, LGBTQ individuals and immigrants. She founded the Disability Visibility Project in 2014, edited and authored memoir Year of the Tiger (2022), Disability Visibility and Disability Intimacy, and won a 2024 MacArthur “genius” grant. Sandy Ho hailed her as a disability justice luminary.",
-      "summaryTokens": 1455,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Alice Wong, 51, the daughter of Hong Kong immigrants and author of Year of the Tiger, died Nov. 15 in San Francisco from an infection. Born with muscular dystrophy, she used a powered wheelchair and assistive breathing device and championed disability justice—especially for people of color, LGBTQ+ and immigrant communities—advocating autonomy and community integration. In 2014, she founded the Disability Visibility Project and edited two anthologies (Disability Visibility, Disability Intimacy). Awarded a MacArthur “genius grant” in 2024, Wong’s witty, personal activism reshaped narratives by centering disabled voices.",
+      "summaryTokens": 1073,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/charlotte-north-carolina-federal-immigration-sweep",
@@ -53,9 +173,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-16T00:02:24Z",
       "trailText": "Local reports say targets include church parishioners doing yard work and workers hanging Christmas lights",
-      "summary": "On Nov. 15 federal DHS officers carried out a surprise sweep across Charlotte, targeting a church in east Charlotte where masked agents arrested a parishioner doing yard work without showing ID, and later questioned Christmas-light installers in a private yard. A Honduran-born U.S. citizen was briefly detained after agents broke his car window despite proof of citizenship. Mayor Vi Lyles, Gov. Josh Stein and local nonprofits condemned the raids as rights violations sowing fear, while DHS and GOP officials defended them as needed to remove violent criminal aliens. The affected church suspended services amid rising anxiety.",
-      "summaryTokens": 546,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Federal officers began a sweep in Charlotte targeting church parishioners doing yard work and holiday light installers, allegedly without ID or warrants. A Honduran-born US citizen had his window broken and was briefly detained. DHS said the raids remove safety threats, but Mayor Vi Lyles and Gov. Josh Stein condemned the tactics as unconstitutional and fear-inducing. Republican leaders praised border enforcement. The action follows similar operations in other US cities. East Charlotte’s church halted services until congregants feel safe.",
+      "summaryTokens": 1422,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/suspect-arrested-oakland-football-coach",
@@ -65,9 +185,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T21:31:01Z",
       "trailText": "Cedric Irving Jr, 27, is alumnus of high school where John Beam taught before gaining fame on Netflix’s Last Change U",
-      "summary": "Cedric Irving Jr, 27, a Skyline High alumnus known to frequent Laney College, was arrested at San Leandro BART in the pre-dawn hours for the targeted killing of 66-year-old Oakland football coach and former Last Chance U standout John Beam. Beam, who had led Skyline to 15 Oakland Athletic League titles before coaching and directing athletics at Laney, had publicly warned administrators about rising thefts and unarmed security lapses just a day before being shot at the campus field house. Acting Oakland Police Chief James Beere confirmed the two were acquainted and that Irving acted for a “specific reason.” Beam’s death, following five years of national prominence on Netflix, has drawn widespread sports community tributes and underscored the epidemic of campus gun violence.",
-      "summaryTokens": 522,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Police arrested 27-year-old Cedric Irving Jr., a Skyline High alumnus, at San Leandro BART station before dawn for the targeted killing of John Beam, the 66-year-old Oakland football coach fatally shot Thursday at Laney College’s field house. Beam, who gained national recognition on Netflix’s Last Chance U, had warned campus officials a day earlier about security lapses and urged reinstatement of armed guards. Oakland acting police chief James Beere said Beam and Irving were acquainted but not close, and that the suspect came to campus “for a specific reason.” Beam, who won 15 Oakland Athletic League titles at Skyline and led Laney’s program before becoming athletic director, died the following day, prompting tributes across scholastic and pro sports communities.",
+      "summaryTokens": 714,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/marjorie-taylor-greene-safety-trump",
@@ -76,10 +196,10 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/15/marjorie-taylor-greene-safety-trump",
       "section": "us-news",
       "publishedDate": "2025-11-15T20:07:08Z",
-      "trailText": "One-time Maga loyalist diverges with Trump on issues including Epstein, so US president has withdrawn support",
-      "summary": "After Donald Trump withdrew his endorsement, Georgia Rep. Marjorie Taylor Greene says private security firms warned her about threats allegedly stoked by Trump’s rhetoric. Once a staunch MAGA ally, Greene clashed with him over releasing Jeffrey Epstein files, military aid to Israel and the government shutdown. She warns GOP colleagues that blocking the Epstein documents will cost them women’s votes and equates rising grocery prices to Congressional action. Trump branded her a “traitor” and plans to back a primary challenger next cycle.",
-      "summaryTokens": 402,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "trailText": "One-time Maga loyalist diverges from Trump on issues including Epstein, so US president has withdrawn support",
+      "summary": "After Donald Trump withdrew his endorsement, Marjorie Taylor Greene says private security firms have warned her about threats fueled by the former president’s rhetoric. Greene accuses Trump of radicalizing paid trolls and likens her fears to those of Epstein victims as she presses for full release of Jeffrey Epstein documents. Her break with Trump spans disagreements over Israel aid, government shutdowns and cost-of-living votes. Trump labels her a “ranting lunatic” and vows to support a primary challenger if one emerges.",
+      "summaryTokens": 337,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/salt-lake-city-tim-ballard",
@@ -89,21 +209,21 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T18:52:31Z",
       "trailText": "District attorney cites ‘insufficient admissible evidence’ against Tim Ballard in connection with allegations",
-      "summary": "Salt Lake City DA Sim Gill declined to file sexual assault charges against Tim Ballard, founder of anti-child-trafficking group Operation Underground Railroad and subject of the film Sound of Freedom, citing “insufficient admissible evidence.” Multiple women sued, alleging Ballard exploited his position and a “Couples Ruse” on overseas missions to coerce sexual contact; one suit was dismissed, another is on appeal. Ballard resigned amid the claims, and the LDS Church also publicly rebuked him for moral misconduct.",
-      "summaryTokens": 593,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Salt Lake City DA Sim Gill announced no charges will be filed against anti-child-trafficking activist Tim Ballard, founder of Operation Underground Railroad and the subject of the film Sound of Freedom, citing insufficient admissible evidence in two sexual assault lawsuits. Plaintiffs allege Ballard used a “couples ruse” to coerce female staff during rescue missions; one suit was dismissed with appeal pending, the other remains active. Ballard, who resigned amid the allegations, denies wrongdoing and seeks action against false accusers.",
+      "summaryTokens": 466,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/christian-democrat-candidates-trump-republicans",
-      "title": "���Trump is inconsistent with Christian principles’: why the Democratic party is seeing a rise of white clergy candidates",
+      "title": "‘Trump is inconsistent with Christian principles’: why the Democratic party is seeing a rise of white clergy candidates",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/15/christian-democrat-candidates-trump-republicans",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/15/christian-democrat-candidates-trump-republicans",
       "section": "us-news",
       "publishedDate": "2025-11-15T17:00:07Z",
       "trailText": "From Texas and Iowa to Arkansas, faith leaders are wading into politics to counter the rise of Christian nationalism",
-      "summary": "Amid Christian nationalist influence and Trump’s dominance among white evangelicals, roughly 30 white clergy – pastors, seminary students and faith leaders – are running or exploring Democratic bids in 2026 midterms from Texas and Iowa to Arkansas and Pennsylvania. Leaders like Justin Douglas, James Talarico and Sarah Trone Garriott aim to reconnect working-class white churchgoers with Democrats by framing policies on social justice, LGBTQ+ inclusion and economic equality as integral to faith. Groups like Vote Common Good coach these candidates to counter Republican mobilization, seek faith-based narratives that prioritize separation of church and state and challenge the narrative that Christianity equals conservatism.",
-      "summaryTokens": 1011,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Across Texas, Iowa, Arkansas and Pennsylvania, around 30 white Christian clergy—pastors, seminary students and other faith leaders—are running as Democrats in the 2026 midterms to counter Christian nationalism and reconnect the party with white working-class churchgoers. Figures like former Liberty grad Justin Douglas in PA’s 10th, Texas state rep James Talarico, Iowa pastor-senator Sarah Trone Garriott and Arkansas pastor Robb Ryerse challenge GOP incumbents, arguing Trump’s faith rhetoric is sacrilegious and manipulative. Progressive group Vote Common Good supports these candidates in navigating partisan divides and mobilizing faith-based voters.",
+      "summaryTokens": 624,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/trump-signatures-clemency-orders",
@@ -113,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T15:21:53Z",
       "trailText": "Seemingly identical signatures appeared on clemency orders, which White House blamed on technical error",
-      "summary": "The DOJ replaced online copies of seven Trump pardons—covering Darryl Strawberry, Glen Casada, Michael McMahon, Changpeng Zhao and Jan. 6 militia member Dan Wilson—after commenters noted identical signatures. Officials blamed a “technical error” and staffing issues, insisting Trump personally signed each order while criticizing media focus and mocking Biden’s autopen pardons. Experts say identical signatures defy handwriting science but affirm autopen use doesn’t void clemency, noting presidential intent matters. Republicans continue to assail Biden’s autopenned orders even as calls for oversight of Trump’s process mount.",
-      "summaryTokens": 992,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Online commenters flagged identical versions of Trump’s signature on seven pardons granted Nov. 7—including Darryl Strawberry, Glen Casada and Michael McMahon—leading the DOJ to replace them on its website. Officials cited a “technical error” and staffing issues for uploading one signature repeatedly, while the White House accused media of ignoring Biden’s autopen pardons. Handwriting experts note no two genuine signatures match exactly, though legal scholars say autopen use doesn’t invalidate clemency. The saga fuels Republicans’ bid to undermine Biden’s autopen, even as Trump issues further controversial pardons, such as to Capitol rioter Dan Wilson.",
+      "summaryTokens": 998,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/mamdani-lina-khan-transition-team-private-equity",
@@ -125,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T13:00:09Z",
       "trailText": "Ex-FTC chair was among first to go after practice of folding local firms into larger ones leading to higher prices",
-      "summary": "New York mayor-elect Zohran Mamdani named former FTC chair Lina Khan to his transition team, signaling a crackdown on private equity \"roll-ups\" that monopolize local healthcare and real estate, drive up rents, and lower service quality. Khan, known for lawsuits against big tech and PE-backed buyouts in industries from anesthesia to mobile home parks, is expected to advise on transparency mandates, land-use permits, and bolstering public hospitals. Experts call the move largely symbolic but warn firms to prepare for tougher disclosure rules and municipal actions deterring rent hikes and monopolistic consolidations.",
-      "summaryTokens": 736,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Mamdani’s pick of Lina Khan, former FTC chair known for challenging private equity roll-ups in healthcare and tech, signals NYC’s intent to curb rent hikes and monopolies. Experts say Khan’s track record—suits against US Anesthesia Partners, scrutiny of mobile home park investors and big-tech mergers—may deter aggressive PE tactics in housing and health. Though advisory-only, she could push municipal disclosure rules on clinic acquisitions and strengthen public hospitals to counter PE-backed firms. Observers view the appointment as a populist shift among younger Democrats challenging Wall Street’s grip on local markets.",
+      "summaryTokens": 869,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/fda-us-healthcare",
@@ -137,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T12:00:10Z",
       "trailText": "Scramble to find replacement for George Tidmarsh shines light on dysfunction at US regulatory agency",
-      "summary": "After George Tidmarsh’s abrupt ousting as CDER director in early November over retaliation allegations and internal clashes, the FDA has scrambled to replace him, laying bare deep agency dysfunction. Richard Pazdur, a veteran oncology expert, declined the position, forcing leadership to solicit candidates broadly—an unusual, ‘desperate’ move. Tidmarsh had opposed the new “Commissioner’s National Priority Voucher” rapid-review program and repeatedly clashed with Vinay Prasad, the reinstated chief medical officer. Observers warn that these leadership reversals, power struggles and a rush to accelerate approvals threaten the FDA’s stability, predictability and scientific credibility.",
-      "summaryTokens": 1125,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "After George Tidmarsh’s sudden November resignation amid retaliation allegations and clashes over a new \"Commissioner’s National Priority Voucher\" rapid-approval program, the FDA’s CDER director post remains vacant. HHS approached oncology veteran Richard Pazdur, who declined, exposing deep rifts between CDER and CBER chiefs—particularly Vinay Prasad—and sparking a desperate internal search. Experts warn such repeated upheavals—from Prasad’s brief July firing and return—threaten the FDA’s stability, predictability and credibility in drug review, fueling industry unease and public distrust.",
+      "summaryTokens": 1690,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/steve-bannon-jeffrey-epstein-text-messages-publicity",
@@ -149,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T11:00:09Z",
       "trailText": "Pair devised responses to public outrage about Epstein’s criminal history, his treatment by the justice system and his friendships with powerful people",
-      "summary": "Hundreds of texts released by the House oversight committee show Steve Bannon advising Jeffrey Epstein from June 2018 through mid-2019 on media and legal tactics to deflect outrage over his sex-trafficking history, lenient plea deal and elite connections. Bannon described scrutiny as a “sophisticated op,” urged Epstein to ignore critics, produce pro-Epstein content, hire crisis-communications experts and film a reputation-rehabilitation documentary. Their exchanges reference Ken Starr, coordinated with right-wing outlets, attacked victims, countered #MeToo and plotted to undermine figures like Ben Sasse and Christine Blasey Ford.",
-      "summaryTokens": 628,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Between June 2018 and June 2019 hundreds of text messages between ex-White House strategist Steve Bannon and convicted sex offender Jeffrey Epstein reveal Bannon crafting PR and legal strategies to deflect scrutiny of Epstein’s underage sex trafficking, lenient plea deal and powerful connections. They discussed framing the scandal as a “sophisticated op,” coordinating media intercepts, hiring crisis communications, producing a documentary, attacking victims, and shaping narratives in outlets from Fox News to Zero Hedge. These exchanges also intersected with efforts to bolster Trump’s populist agenda and influence Kavanaugh’s confirmation hearings.",
+      "summaryTokens": 940,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/jeffrey-epstein-survivor-marina-lacerda",
@@ -161,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T11:00:09Z",
       "trailText": "Marina Lacerda, 37, recounts the abuse she experienced and what inspired her to speak publicly amid new revelations",
-      "summary": "Marina Lacerda, 37, formerly Minor Victim-1, recounts being groomed at 14 by Jeffrey Epstein, abused until 17 and coerced to recruit other girls. A key witness in Epstein’s 2019 indictment, she waived anonymity in September and is calling—after House Republicans released thousands of documents—for the Justice Department’s full files, criticizing Donald Trump’s labeling of the case as a “hoax” and his resistance to disclosure. Lacerda argues transparency will bring survivors closure, ensure accountability for enablers and powerful figures linked to Epstein, and urges bipartisan support ahead of a crucial House vote.",
-      "summaryTokens": 1647,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Marina Lacerda, once known as “Minor Victim-1,” woke to news House Republicans released thousands of Epstein documents and urged President Trump—implicated in new emails—to free all files. A key 2019 witness, Lacerda recounts being groomed at 14, raped until 17, coerced into recruiting other teens and threatened over her immigration status while Epstein boasted of owning governments. Inspired by Virginia Giuffre’s legacy, she waived anonymity to demand full transparency, closure and accountability, decrying the political stalemate that stalls survivors and shields influential enablers.",
+      "summaryTokens": 937,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/15/trump-says-he-will-take-legal-action-against-bbc-despite-its-apology",
@@ -173,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T10:54:41Z",
       "trailText": "US president says he will sue the corporation for ‘anywhere between a billion and $5bn’",
-      "summary": "Donald Trump plans to sue BBC for $1bn–$5bn despite its apology for a misleading Panorama edit of his 6 Jan speech. The misquote omitted cheering on legislators and fused “fight like hell” remarks, prompting director general Tim Davie and news chief Deborah Turness to resign. BBC maintains no legal basis, noting the segment aired only in the UK and Trump suffered no harm, while offering to withdraw repeat broadcasts. Trump threatens action next week and plans to call PM Keir Starmer; past media settlements include YouTube’s $24.5m payout. BBC chair Samir Shah apologized; culture minister Lisa Nandy endorsed it.",
-      "summaryTokens": 954,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Donald Trump announced he will sue the BBC for $1 billion to $5 billion despite its apology over a misleading 12-second edit of his January 6 “Save America” speech on Panorama. The row led to the resignations of BBC director-general Tim Davie and news chief Deborah Turness. The BBC, which has agreed not to rebroadcast the episode, rejected Trump’s damage claims, citing lack of UK harm. Trump plans to call UK PM Keir Starmer and pursue compensation.",
+      "summaryTokens": 545,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/14/trump-marjorie-taylor-greene-support",
@@ -185,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T03:02:00Z",
       "trailText": "President turns on ‘Wacky Marjorie’ after representative criticizes effort to block release of key Epstein documents",
-      "summary": "President Donald Trump formally withdrew his endorsement of Rep. Marjorie Taylor Greene on Truth Social, denouncing “Wacky Marjorie” for publicly criticizing his effort to block release of Jeffrey Epstein files. Trump said he’d support a primary challenger “if the right person runs.” Greene, of Georgia’s 14th district, argued healthcare costs and affordability, not shielding Epstein documents, should top the agenda, and urged full disclosure to aid victims. The split underscores her recent clashes with GOP leadership over Ukraine weapons, Gaza policy, government shutdown healthcare subsidies and foreign priorities.",
-      "summaryTokens": 987,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Donald Trump announced he was withdrawing his endorsement of Rep. Marjorie Taylor Greene (R-Ga.) on Truth Social, branding her “Wacky Marjorie” and later a “disgrace,” after she called his effort to block Jeffrey Epstein files “insanely the wrong direction.” He pledged to back a primary challenger. Greene, once a staunch ally, has split with Trump on healthcare, rising costs, Ukraine aid, Gaza, sided with Democrats on subsidies and transparency and criticized party leaders during this week’s government shutdown.",
+      "summaryTokens": 1623,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/14/epstein-texting-house-member-cohen-hearing",
@@ -197,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T02:39:10Z",
       "trailText": "Newly revealed documents show sex offender messaged lawmaker, and may have influenced their questioning",
-      "summary": "Estate documents released from Jeffrey Epstein’s files show he texted a member of Congress—identified by Washington Post analysis as US Virgin Islands Delegate Stacey Plaskett—during Michael Cohen’s February 2019 House oversight hearing. By matching message timestamps to live video, analysts say Epstein guided Plaskett’s questioning of Cohen on figures like Rhona Graff and other Trump associates. Plaskett’s office declined to confirm the exchange. The texts are part of over 20,000 newly disclosed pages fueling renewed scrutiny of Epstein’s ties to powerful figures and Democratic claims that Trump may have known more about Epstein’s activities.",
-      "summaryTokens": 549,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "Newly released documents from Jeffrey Epstein’s estate reveal he texted a member of Congress—most likely US Virgin Islands delegate Stacey Plaskett—during the February 2019 House oversight hearing with Michael Cohen. By matching message timestamps to hearing footage, transcripts suggest real-time coordination: Epstein prompted “RONA” about Rhona Graff and even commented on the rep’s chewing. Plaskett’s questions on Trump associates Allen Weisselberg and Graff echoed these texts. Part of 20,000+ pages disclosed this week, the messages and accompanying emails have Democrats arguing Trump may have known more about Epstein’s network, reigniting investigations into his ties.",
+      "summaryTokens": 1012,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/14/trump-administration-news-updates-today",
@@ -209,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T02:03:36Z",
       "trailText": "US attorney general names Jay Clayton as lead investigator, hours after direction from US president – key US politics stories from 14 November 2025",
-      "summary": "AG Pam Bondi tapped Jay Clayton to lead an urgent probe into Trump’s political rivals’ ties to Jeffrey Epstein, reversing a July DOJ/FBI memo that found no basis for further inquiries. President Trump pressed GOP lawmakers to block full release of Epstein files, singled out Democrats (Clinton, Summers, Hoffman) even as he dubbed the “Epstein hoax” a scam, and vowed to sue the BBC over a documentary. Newly released texts show Epstein advising Steve Bannon in 2018. Meanwhile, US planners map a divided Gaza with a secured “green zone,” Georgia prosecutors revive the last Trump case, and Trump cut food import tariffs and trimmed Swiss duties.",
-      "summaryTokens": 686,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "US attorney general Pam Bondi tapped former SEC chair Jay Clayton to probe Donald Trump’s political rivals and their ties to Jeffrey Epstein after a direct presidential order, reversing a July DOJ–FBI finding that no further inquiries were warranted. Trump has ramped up pressure on GOP lawmakers to block full Epstein file disclosures and called for investigations into Democrats including Bill Clinton, Larry Summers and Reid Hoffman. He also threatened a BBC lawsuit, cut food import tariffs, struck a Swiss tariff deal, backed U.S. military plans for a divided Gaza, and saw Georgia prosecutors revive the last criminal case against him.",
+      "summaryTokens": 477,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/14/netflix-documentary-coach-injured-oakland-campus-shooting",
@@ -221,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T01:50:59Z",
       "trailText": "Mayor Barbara Lee calls John Beam ‘a man who dedicated himself to building up the young people of this city’",
-      "summary": "John Beam, Laney College’s athletics director and former coach featured on Netflix’s Last Chance U, died after a targeted shooting at the school’s Oakland field house on Nov. 14. Oakland police say the suspect, known to Beam, was arrested with a firearm after a campus lockdown. Beam, who coached from 2004–24 and helped send over 20 players to the NFL, was praised by Mayor Barbara Lee for his community mentorship. His death is the latest in a surge of US campus gun violence—460 incidents and 73 fatalities nationwide this year.",
-      "summaryTokens": 737,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "John Beam, longtime director of athletics at Oakland’s Laney College and former Last Chance U coach, died after being shot in a targeted attack on campus. Police arrested a known acquaintance, lifted the lockdown and said the motive was specific. Beam, who coached since 2004 and mentored multiple NFL players, retired from coaching in 2024. Mayor Barbara Lee and community leaders mourned and called for action against rising campus gun violence—his was the second Oakland school shooting in two days and part of a nationwide surge.",
+      "summaryTokens": 920,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/14/southern-california-weather-atmospheric-river-rains",
@@ -233,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T00:27:35Z",
       "trailText": "Los Angeles, Santa Barbara and Ventura counties prepare for deluge and possible landslides this weekend",
-      "summary": "Southern California braces for a powerful atmospheric river storm delivering two rain surges through Sunday, with 2–5 inches expected low-lying, up to 6 inches in coastal slopes. Coastal Santa Barbara has already seen over 4 inches. Flood, debris-flow and mudslide warnings target burn-scar zones in Santa Barbara, Ventura and Los Angeles counties, where evacuation alerts run through Sunday. Forecasts include severe thunderstorms, localized tornado risk and major road closures. Preparations include festival postponements, theme-park closures and canyon road shutdowns. Heavy Sierra Nevada snow and further systems into next week follow this wettest November threat since the 1980s.",
-      "summaryTokens": 1093,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "A powerful atmospheric river storm is sweeping into Southern California Friday through Sunday, dumping 2–6+ inches of rain in Los Angeles, Ventura and Santa Barbara counties. Areas scarred by recent wildfires face elevated flood and debris‐flow risks, prompting evacuation warnings around burn zones. Forecasters predict heavy river and creek flows, localized tornado‐capable thunderstorms, road closures and damage to infrastructure. The second surge Saturday night is expected to bring the most intense rainfall. Already, Tyler the Creator postponed his Dodgers Stadium gig and parks like Knott’s Berry Farm closed. While the rain will replenish reservoirs, it also threatens mudslides and flash floods.",
+      "summaryTokens": 1069,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/14/south-carolina-firing-squad-execution",
@@ -245,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-15T00:09:47Z",
       "trailText": "Stephen Bryant, 44, convicted over 2004 murder, was shot dead despite growing backlash against ‘barbaric’ method",
-      "summary": "South Carolina on Nov. 14 executed Stephen Bryant, 44, by firing squad—the state’s third gunfire execution this year—despite his lawyers’ appeals citing prenatal brain damage and severe childhood abuse. Convicted in 2008 for a 2004 murder and two other killings, Bryant’s final appeals were denied by the state Supreme Court. Witnesses saw three shooters fire after a hood was placed over Bryant’s head, and death was pronounced one minute later. Since resuming capital punishment after a 13-year pause, SC has killed seven people, now allowing inmates to choose electric chair, lethal injection or firing squad amid criticism that gunfire is a “barbaric” method.",
-      "summaryTokens": 565,
-      "generatedAt": "2025-11-16T03:36:41.939Z"
+      "summary": "South Carolina executed 44-year-old death-row inmate Stephen Bryant by firing squad—its third gunfire execution in 2025 and seventh killing since reinstating capital punishment after a 13-year hiatus. Bryant, convicted of the 2004 torture murder of Willard “TJ” Tietjen, saw appeals over fetal-alcohol–induced brain damage and childhood abuse rejected. Under state law, inmates choose between firing squad, electrocution or lethal injection; rights groups condemn gunfire as “barbaric” amid broader US concerns over botched executions and painful methods. SC now rivals Utah in modern-era shooting executions.",
+      "summaryTokens": 1645,
+      "generatedAt": "2025-11-17T03:36:08.708Z"
     },
     {
       "id": "us-news/2025/nov/14/trump-tariffs-food",
@@ -14465,7 +14585,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-19T10:14:45Z",
       "trailText": "Exclusive: Democratic candidate lays bare tensions with then president during 2024 election campaign",
-      "summary": "In her memoir 107 Days, Kamala Harris recounts feeling “angry and disappointed” when President Biden urged her—hours before her high-stakes debate with Trump—to worry that his brother’s Philadelphia power brokers were withholding support. She criticizes Biden’s self-focus on past debate stumbles, his faltering debate prep, and his muted leadership on Roe v. Wade’s overturn. Harris describes growing campaign tensions: being sidelined, the zero-sum view that her success dimmed his, and advisers urging her to distance from an embattled Biden, who ultimately withdrew and endorsed her. She also rebuffs Trump’s racist jabs about her heritage.",
+      "summary": "In her memoir 107 Days, Kamala Harris recounts feeling “angry and disappointed” when President Biden urged her—hours before her high-stakes debate with Trump—to worry that his brother��s Philadelphia power brokers were withholding support. She criticizes Biden’s self-focus on past debate stumbles, his faltering debate prep, and his muted leadership on Roe v. Wade’s overturn. Harris describes growing campaign tensions: being sidelined, the zero-sum view that her success dimmed his, and advisers urging her to distance from an embattled Biden, who ultimately withdrew and endorsed her. She also rebuffs Trump’s racist jabs about her heritage.",
       "summaryTokens": 377,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
