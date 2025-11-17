@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-16T03:26:46.902Z",
+    "generated_at": "2025-11-17T03:23:52.581Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-15"
+      "to": "2025-11-16"
     },
-    "article_count": 100,
+    "article_count": 101,
     "merge_info": {
-      "previous_count": 99,
+      "previous_count": 100,
       "new_articles": 1,
       "updated_articles": 1,
-      "total_count": 100
+      "total_count": 101
     },
     "batch_info": {
-      "initial_batch_id": "batch_6919441f07c88190aa5bc6a14d2ea223",
+      "initial_batch_id": "batch_691a95264df88190923434f04a0b428e",
       "retry_batches": [],
-      "total_tokens": 3767,
+      "total_tokens": 3959,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/16/corrections-and-clarifications1",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/16/corrections-and-clarifications1",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/16/corrections-and-clarifications1",
+      "section": "news",
+      "publishedDate": "2025-11-16T21:00:41Z",
+      "trailText": "CPRE brownfield report",
+      "summary": "This correction revises CPRE figures: brownfield land in England can accommodate 1.41m homes (not 1.49m), 770k with planning permission (not 790k); 27,200 sites spanning 29,977ha (not 30,257 sites/32,884ha). Online chart updated for London, south-east and north-west. It also notes other amended pieces including on the Czech PM-elect’s conflict row. Readers may submit complaints via guardian.readers@theguardian.com, post or voicemail.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-11-17T03:23:52.317Z"
+    },
     {
       "id": "news/2025/nov/15/hurricane-melissa-a-real-time-case-study-of-colonialisms-legacies",
       "title": "Hurricane Melissa a ‘real-time case study’ of colonialism’s legacies ",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-11-15T09:25:32Z",
       "trailText": "Destruction in Jamaica shows why climate justice cannot be separated from reparatory justice, campaigners say",
-      "summary": "Hurricane Melissa, a category 5 storm, devastated rural Hanover, Jamaica, inflicting major to severe damage to 15% of 146,000 assessed buildings, killing 45, leaving 13 missing and affecting 360,000 people. Iconic Gurney’s Mount Baptist church lost its roof yet preserved its 1838 freedom stone. At COP30, Jamaican economist Mariama Williams and the Global Afrodescendant Climate Justice Collaborative highlighted how colonialism and enslavement created these vulnerabilities, urging reparatory justice, debt relief and sustained climate funding beyond insurance payouts. Caribbean academics and CARICOM’s Reparations Commission argued climate justice is inseparable from historical reparations.",
-      "summaryTokens": 1015,
-      "generatedAt": "2025-11-16T03:26:46.667Z"
+      "summary": "Category 5 Hurricane Melissa devastated Jamaica’s Hanover parish, destroying heritage sites like Cold Spring’s Gurney’s Mount Baptist church, wrecking 146,000 buildings (15% surveyed), killing 45, displacing 360,000. At UN Cop30, Jamaican economist Mariama Williams and activists from Global Afrodescendant Climate Justice Collaborative and Caricom Reparations Commission argued that colonialism’s extraction created current climate vulnerabilities, linking climate justice with reparatory justice. PM Holness estimates $6–7bn damage; $150m insurance payout and UK’s £7.5m pledge fall short of calls for debt relief, scaled loss-and-damage funding and formal reparations.",
+      "summaryTokens": 1148,
+      "generatedAt": "2025-11-17T03:23:52.317Z"
     },
     {
       "id": "news/2025/nov/14/corrections-and-clarifications",
