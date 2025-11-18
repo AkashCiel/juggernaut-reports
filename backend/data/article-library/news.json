@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-17T03:23:52.581Z",
+    "generated_at": "2025-11-18T03:37:44.258Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-16"
+      "to": "2025-11-17"
     },
-    "article_count": 101,
+    "article_count": 102,
     "merge_info": {
-      "previous_count": 100,
+      "previous_count": 101,
       "new_articles": 1,
       "updated_articles": 1,
-      "total_count": 101
+      "total_count": 102
     },
     "batch_info": {
-      "initial_batch_id": "batch_691a95264df88190923434f04a0b428e",
+      "initial_batch_id": "batch_691be8ef663c8190ac9de7ed6316fbe1",
       "retry_batches": [],
-      "total_tokens": 3959,
-      "processing_time_hours": 0
+      "total_tokens": 2667,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/17/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/17/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/17/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-17T21:00:14Z",
+      "trailText": "Irish emigration | Georgia Gould",
+      "summary": "This corrections note clarifies that Catherine Connolly referred to forced emigration, not ‘forced immigration’, and that Georgia Gould served as a Cabinet Office minister when launching an anti–child benefit fraud drive. It also lists amendments to features on percussionist James Blades, Leicester’s budget crisis and war photographer Don McCullin. Readers can direct editorial complaints and correction requests by email to guardian.readers@theguardian.com, by post to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or voicemail at +44 (0)20 3353 4736.",
+      "summaryTokens": 1055,
+      "generatedAt": "2025-11-18T03:37:44.100Z"
+    },
     {
       "id": "news/2025/nov/16/corrections-and-clarifications1",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-11-16T21:00:41Z",
       "trailText": "CPRE brownfield report",
-      "summary": "This correction revises CPRE figures: brownfield land in England can accommodate 1.41m homes (not 1.49m), 770k with planning permission (not 790k); 27,200 sites spanning 29,977ha (not 30,257 sites/32,884ha). Online chart updated for London, south-east and north-west. It also notes other amended pieces including on the Czech PM-elect’s conflict row. Readers may submit complaints via guardian.readers@theguardian.com, post or voicemail.",
-      "summaryTokens": 925,
-      "generatedAt": "2025-11-17T03:23:52.317Z"
+      "summary": "Following errors in CPRE data, brownfield housing capacity is corrected to 1.41 million homes (not 1.49 million), with 770,000 already having planning permission (not 790,000). Available brownfield land now stands at 27,200 sites over 29,977 ha, not 30,257 sites over 32,884 ha. The article’s online chart for London, the South-East and North-West has been updated. Other recent corrections include coverage of the Czech PM-elect’s conflict-of-interest row. Readers can send editorial complaints to guardian.readers@theguardian.com, post to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 785,
+      "generatedAt": "2025-11-18T03:37:44.100Z"
     },
     {
       "id": "news/2025/nov/15/hurricane-melissa-a-real-time-case-study-of-colonialisms-legacies",
