@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-17T03:23:10.328Z",
+    "generated_at": "2025-11-18T03:32:55.314Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-16"
+      "to": "2025-11-18"
     },
-    "article_count": 99,
+    "article_count": 102,
     "merge_info": {
-      "previous_count": 97,
-      "new_articles": 2,
-      "updated_articles": 1,
-      "total_count": 99
+      "previous_count": 99,
+      "new_articles": 3,
+      "updated_articles": 2,
+      "total_count": 102
     },
     "batch_info": {
-      "initial_batch_id": "batch_691a9490889c81909a5a20f35e86067c",
+      "initial_batch_id": "batch_691be844a9a88190a770ccb8acf72977",
       "retry_batches": [],
-      "total_tokens": 6694,
+      "total_tokens": 10791,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/18/uk-bank-building-society-customer-protection-limit-rise-fscs",
+      "title": "UK bank and building society customer protection limit to rise to £120,000",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/18/uk-bank-building-society-customer-protection-limit-rise-fscs",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/18/uk-bank-building-society-customer-protection-limit-rise-fscs",
+      "section": "money",
+      "publishedDate": "2025-11-18T00:01:18Z",
+      "trailText": "Increase of more than 40% from current figure of £85,000 will give more cover if financial firm goes bust",
+      "summary": "FSCS protection for UK bank and building society deposits rises from £85,000 to £120,000 (41% boost) from 1 December, the first increase in eight years. The PRA cited higher-than-target inflation in raising the cap beyond an initial £110,000 proposal. Temporary high balances cover jumps from £1m to £1.4m for six months. Under FSCS, customers typically recoup funds within seven days, per person and per firm. Average UK savings hover around £16,000, so most savers fall within the guarantee. The change follows savers’ record inflows ahead of possible cash ISA tweaks in the government’s 26 November budget.",
+      "summaryTokens": 1849,
+      "generatedAt": "2025-11-18T03:32:55.118Z"
+    },
+    {
+      "id": "money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown",
+      "title": "Reselling tickets for profit to be outlawed in UK government crackdown",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/17/reselling-tickets-for-profit-to-be-outlawed-in-uk-government-crackdown",
+      "section": "money",
+      "publishedDate": "2025-11-17T17:53:05Z",
+      "trailText": "Touts, and ordinary consumers, will no longer be able to charge anything more than price at which they bought ticket",
+      "summary": "UK government will ban secondary ticket sales above original purchase price under measures due this week, targeting touts and resale platforms like Viagogo and StubHub. Sellers may only charge face value; platforms can levy capped service fees. The law, enforced by the CMA, extends to social media and restricts ticket quantities per original box-office limits. No licensing regime for resellers will be introduced; platforms face legal liability for user breaches. World-renowned artists lobbied for change amid examples of extreme markups (Oasis tickets sold for £3,500+; festival passes at £114,666). Industry warns of illicit markets.",
+      "summaryTokens": 1009,
+      "generatedAt": "2025-11-18T03:32:55.118Z"
+    },
+    {
+      "id": "money/2025/nov/17/i-have-hit-the-barriers-trying-to-get-my-accident-claim-settled-with-autonet",
+      "title": "I have hit the barriers trying to get my accident claim settled with Autonet",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/17/i-have-hit-the-barriers-trying-to-get-my-accident-claim-settled-with-autonet",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/17/i-have-hit-the-barriers-trying-to-get-my-accident-claim-settled-with-autonet",
+      "section": "money",
+      "publishedDate": "2025-11-17T07:00:01Z",
+      "trailText": "My van was hurtled into motorway barriers by a driver who did not stop and the vehicle is still being held in a compound along with the tools of my trade",
+      "summary": "My van was rear-ended by a hit-and-run driver, spun into barriers and burned. I, a self-employed tradesman, lodged a claim with Autonet in mid-May; six weeks of silence left my tools trapped in a compound charging £25/day. Despite promises in July to handle costs and communication, Autonet delayed, underpaid expenses and mis-classified a courtesy van as credit hire, making me legally liable. Only after 169 days, 30 emails and intervention from a consumer champion did I receive full van value and expenses—but liability for hire charges remains unresolved.",
+      "summaryTokens": 884,
+      "generatedAt": "2025-11-18T03:32:55.118Z"
+    },
     {
       "id": "money/2025/nov/16/two-thirds-of-english-councils-have-not-prosecuted-a-single-landlord-in-past-three-years",
       "title": "Two-thirds of English councils have not prosecuted a single landlord in past three years",
@@ -29,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-11-16T15:12:05Z",
       "trailText": "Exclusive: Councils prosecuted just 64 landlords despite receiving 300,000 complaints from tenants in unfit homes",
-      "summary": "Between 2022–24, 66% of English councils didn’t prosecute any landlords despite 300,000 tenant complaints about unfit homes; only 640 prosecutions and 4,702 civil penalties (<2% enforcement) yielded £26.4m in fines. Enforcement teams have endured a 41% funding cut and a one-third staff decline since 2010, hampering legal action. From May 2026 the Renters’ Rights Act mandates tougher sanctioning, yet ministers’ £18m ‘burdens’ fund faces warnings it’s inadequate. Case: Ealing tenant Maya Jagger endured mould, illegal eviction and council inaction. Enforcement rates vary sharply; Leeds acts on 28% of complaints, Birmingham on 0.4%.",
-      "summaryTokens": 1041,
-      "generatedAt": "2025-11-17T03:23:10.148Z"
+      "summary": "Between 2022 and 2024, two-thirds of English councils took no enforcement action against landlords despite 300,000 tenant complaints. Authorities prosecuted just 640 landlords, issued 4,702 civil penalty notices and raised £26.4m, with under 2% of complaints leading to formal action. Budget cuts have slashed enforcement teams by over a third since 2010. Although the Renters’ Rights Act (May 2026) pledges stronger powers, councils warn that a one-off £18m in ‘burdens funding’ falls far short of the sustained investment needed to protect renters and hold rogue landlords to account.",
+      "summaryTokens": 443,
+      "generatedAt": "2025-11-18T03:32:55.118Z"
     },
     {
       "id": "money/2025/nov/16/ghost-broking-cut-price-car-insurance-scam-watch",
@@ -41,9 +77,9 @@
       "section": "money",
       "publishedDate": "2025-11-16T07:00:24Z",
       "trailText": "Scammers promise cheaper policies via ads on social media and AI-generated websites but the fake certificate leaves motorists uninsured",
-      "summary": "“Ghost broking” sees fraudsters posing as legitimate insurers on social media and AI-driven websites offering suspiciously low car insurance quotes, targeting mainly 17–25-year-olds. They either send fake certificates or alter and resell real policies, leaving motorists unknowingly uninsured. Aviva detected a 22% rise in ghost-broking since 2023, with victims losing an average £2,000 and some scammers earning six-figure sums. Uninsured drivers risk fines, bans, vehicle seizure and data theft. Drivers should buy from FCA-authorised brokers via official sites and report suspected ghost brokers to the Insurance Fraud Bureau or Action Fraud.",
-      "summaryTokens": 1086,
-      "generatedAt": "2025-11-17T03:23:10.148Z"
+      "summary": "‘Ghost broking’ fraud sells cut-price car insurance via social media ads and AI-generated sites, targeting 17–25-year-olds facing steep premiums (avg £3,100 in London). Scammers post low quotes (e.g. £586 for an Audi A3), collect personal data and bank transfers, then issue fake or tampered certificates. Aviva reports a 22% rise in cases this year, £2,000 average loss and one fraudster earning £150,000. Victims risk fines, bans, vehicle seizure and data exposure. Only use FCA-registered brokers and report scams to the Insurance Fraud Bureau or Action Fraud.",
+      "summaryTokens": 565,
+      "generatedAt": "2025-11-18T03:32:55.118Z"
     },
     {
       "id": "money/2025/nov/15/bereavement-penalty-insurance-premium-rises-ai",
