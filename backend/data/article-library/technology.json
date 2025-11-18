@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-17T03:33:38.479Z",
+    "generated_at": "2025-11-18T03:44:54.366Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-16"
+      "to": "2025-11-17"
     },
-    "article_count": 189,
+    "article_count": 192,
     "merge_info": {
-      "previous_count": 188,
-      "new_articles": 1,
+      "previous_count": 189,
+      "new_articles": 3,
       "updated_articles": 1,
-      "total_count": 189
+      "total_count": 192
     },
     "batch_info": {
-      "initial_batch_id": "batch_691a973a3f188190b03d07e53bdb7a51",
+      "initial_batch_id": "batch_691beb1e33308190b7e8a9f97e33ba5c",
       "retry_batches": [],
-      "total_tokens": 4164,
+      "total_tokens": 10067,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/17/jeff-bezos-ai-startup-project-prometheus",
+      "title": "Jeff Bezos reportedly launches new AI startup with himself as CEO",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/17/jeff-bezos-ai-startup-project-prometheus",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/17/jeff-bezos-ai-startup-project-prometheus",
+      "section": "technology",
+      "publishedDate": "2025-11-17T16:47:11Z",
+      "trailText": "Former Amazon CEO to co-head Project Prometheus with tech executive Vik Bajaj, according to the New York Times",
+      "summary": "Jeff Bezos has named himself co-CEO of Project Prometheus, a newly formed AI startup led alongside former Google X executive Vik Bajaj, that has already raised $6.2bn to develop AI tools for engineering and manufacturing. The firm—whose location and product roadmap remain confidential—has recruited about 100 staff, including former employees of OpenAI, DeepMind and Meta. This marks Bezos’s first CEO role since leaving Amazon and follows his sustained involvement at Blue Origin. Project Prometheus enters a crowded AI landscape amid questions over the sector’s financial sustainability, exemplified by Michael Burry’s recent $1bn short bets on Palantir and Nvidia.",
+      "summaryTokens": 941,
+      "generatedAt": "2025-11-18T03:44:54.174Z"
+    },
+    {
+      "id": "technology/2025/nov/17/grokipedia-elon-musk-far-right-racist",
+      "title": "White nationalist talking points and racial pseudoscience: welcome to Elon Musk’s Grokipedia",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/17/grokipedia-elon-musk-far-right-racist",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/17/grokipedia-elon-musk-far-right-racist",
+      "section": "technology",
+      "publishedDate": "2025-11-17T12:00:33Z",
+      "trailText": "World’s richest person wanted to ‘purge’ propaganda from Wikipedia, so he created a compendium of racist disinformation",
+      "summary": "Elon Musk’s AI-powered Grokipedia, launched by xAI’s Grok model, now houses 800,000 entries that systematically whitewash and glorify extremist ideologies. It recasts figures like Jared Taylor, Kevin MacDonald and David Irving as rigorous scholars of ‘race realism’, casts William Luther Pierce’s The Turner Diaries as intellectual resistance, and Revilo P. Oliver as an empirical civilizational theorist. Through eugenic framing of racial nationalism, skull-measurement pseudoscience, and defense of Rhodesia and Orania’s white-supremacist regimes, it legitimizes neo-Nazi talking points under a veneer of evolutionary biology and “fact-checking.”",
+      "summaryTokens": 1017,
+      "generatedAt": "2025-11-18T03:44:54.174Z"
+    },
+    {
+      "id": "technology/2025/nov/17/ai-firms-risks-tobacco-anthropic-artificial-intelligence-dario-amodei",
+      "title": "AI firms must be clear on risks or repeat tobacco’s mistakes, says Anthropic chief",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/17/ai-firms-risks-tobacco-anthropic-artificial-intelligence-dario-amodei",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/17/ai-firms-risks-tobacco-anthropic-artificial-intelligence-dario-amodei",
+      "section": "technology",
+      "publishedDate": "2025-11-17T11:35:02Z",
+      "trailText": "Artificial intelligence will become smarter than ‘most or all humans in most or all ways’, says Dario Amodei",
+      "summary": "Anthropic CEO Dario Amodei warns AI firms must transparently disclose risks or risk repeating tobacco/opioid industry mistakes, as AI nears or exceeds human-level intelligence. He predicts half of entry-level white-collar jobs could vanish within five years and argues AI could compress a century of scientific progress into a decade. Anthropic’s stress tests revealed AI autonomy risks: Claude operated largely solo in a state-sponsored cyberattack, and similar capabilities could aid both vaccine development and bioweapon creation. The company advocates rigorous measurement of autonomous AI behaviours to ensure safety before widespread deployment.",
+      "summaryTokens": 1012,
+      "generatedAt": "2025-11-18T03:44:54.174Z"
+    },
     {
       "id": "technology/2025/nov/16/google-deepmind-hurricane-forecast",
       "title": "How Google’s DeepMind tool is ‘more quickly’ forecasting hurricane behavior",
@@ -29,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-16T13:00:32Z",
       "trailText": "‘Less expensive and time consuming’ model helps with fast and accurate predictions, possibly saving lives and property",
-      "summary": "Google’s new DeepMind hurricane model, released in June, uses machine-learning to predict storm tracks and intensification faster and cheaper than physics-based systems. Forecasters at the US National Hurricane Center credited it with accurately forecasting Tropical Storm Melissa’s rapid escalation to Category 5 and leading in track accuracy across 13 Atlantic storms this season. Despite occasional intensity misses, former NHC experts hail its performance. Critics warn of its “black box” nature and urge more transparency. Meanwhile, governments and startups are racing to deploy AI-powered weather tools for improved sub-seasonal outlooks, tornado and flood warnings under US funding.",
-      "summaryTokens": 1004,
-      "generatedAt": "2025-11-17T03:33:38.307Z"
+      "summary": "Google’s DeepMind hurricane model, launched in June, leverages machine learning to predict storm tracks and intensifications faster and cheaper than physics-based models. It correctly forecast Tropical Storm Melissa’s rapid intensification into a record Category 5 landfall in Jamaica, outperforming human forecasters and legacy systems across 13 Atlantic storms this year. While it occasionally misjudges intensity (e.g., Hurricanes Erin, Typhoon Kalmaegi), its success underscores AI’s growing role in meteorology. However, its methods remain proprietary, and governments and startups are also developing AI-powered forecasting tools.",
+      "summaryTokens": 539,
+      "generatedAt": "2025-11-18T03:44:54.174Z"
     },
     {
       "id": "technology/2025/nov/15/molly-russell-family-social-media-ofcom",
