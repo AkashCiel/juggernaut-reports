@@ -1,26 +1,122 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-18T03:44:54.366Z",
+    "generated_at": "2025-11-19T03:45:57.039Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-17"
+      "to": "2025-11-18"
     },
-    "article_count": 192,
+    "article_count": 200,
     "merge_info": {
-      "previous_count": 189,
-      "new_articles": 3,
-      "updated_articles": 1,
-      "total_count": 192
+      "previous_count": 192,
+      "new_articles": 8,
+      "updated_articles": 3,
+      "total_count": 200
     },
     "batch_info": {
-      "initial_batch_id": "batch_691beb1e33308190b7e8a9f97e33ba5c",
+      "initial_batch_id": "batch_691d3be5ee288190a04cbaa64201751d",
       "retry_batches": [],
-      "total_tokens": 10067,
-      "processing_time_hours": 0
+      "total_tokens": 25774,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/18/meta-antitrust-win-whatsapp-instagram",
+      "title": "Meta wins major US antitrust case and won’t have to break off WhatsApp or Instagram",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/meta-antitrust-win-whatsapp-instagram",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/meta-antitrust-win-whatsapp-instagram",
+      "section": "technology",
+      "publishedDate": "2025-11-18T21:43:44Z",
+      "trailText": "Challenge to Meta could have forced it to spin off Instagram and WhatsApp, but judge ruled company did not hold social networking monopoly",
+      "summary": "US District Judge James Boasberg ruled that Meta does not hold a social-networking monopoly, rejecting the FTC’s bid to force a spin-off of Instagram and WhatsApp. The FTC alleged a “buy or bury” strategy against rivals, but Boasberg pointed to TikTok’s rise and YouTube as evidence of robust competition. The 2014 $19 bn WhatsApp acquisition and Instagram’s revenue contribution were central to the FTC’s argument, but the judge found the agency failed to prove Meta’s continued monopoly power. The decision marks a setback for regulators amid parallel antitrust actions against Google, Amazon and Apple.",
+      "summaryTokens": 293,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
+    {
+      "id": "technology/2025/nov/18/what-is-cloudflare-and-why-did-its-outage-take-down-so-many-websites",
+      "title": "What is Cloudflare – and why did its outage take down so many websites?",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/what-is-cloudflare-and-why-did-its-outage-take-down-so-many-websites",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/what-is-cloudflare-and-why-did-its-outage-take-down-so-many-websites",
+      "section": "technology",
+      "publishedDate": "2025-11-18T15:23:42Z",
+      "trailText": "Bet365, League of Legends, Sage, YouTube and Google were among those taken offline as provider tried to fix problem",
+      "summary": "Cloudflare, the global cybersecurity and cloud services firm processing traffic for one in five websites, suffered an “internal service degradation” on November 18, knocking offline high-profile clients including Bet365, League of Legends, Sage, YouTube, Google, ChatGPT and X for nearly three hours. The outage, traced to an unexplained traffic spike that forced the disabling of London-based encryption services, was investigated from 11.20 am UK time and resolved by 2.42 pm. Generating over $500 m in quarterly revenue from 300,000 customers across 125 countries, Cloudflare’s failure underscores the internet’s dependency on a handful of infrastructure providers—alongside AWS, Azure and Google Cloud—highlighting calls for greater supply diversity.",
+      "summaryTokens": 1043,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
+    {
+      "id": "technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
+      "title": "Cloudflare outage causes error messages across the internet",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
+      "section": "technology",
+      "publishedDate": "2025-11-18T15:11:51Z",
+      "trailText": "US company that defends millions of websites against malicious attacks says it believes issue ‘is now resolved’",
+      "summary": "Cloudflare, the US company defending millions of websites against malicious attacks, suffered a global outage on Nov 18 that blocked access to customers’ sites—including X and OpenAI—and performance dashboards. The incident, detected at 11:48 GMT, was traced to an auto-generated threat-traffic configuration file that grew beyond limits and crashed core traffic-handling software. Engineers disabled the Warp encryption service in London before deploying a fix at 14:48 GMT. Cloudflare apologized, ruled out malicious activity, and pledged a postmortem. Security expert Alan Woodward called its brief shutdown a reminder of concentrated internet infrastructure risk after recent AWS failures.",
+      "summaryTokens": 1202,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
+    {
+      "id": "technology/2025/nov/18/amazon-vs-perplexity-the-ai-agent-war-has-arrived",
+      "title": "Amazon vs Perplexity: the AI agent war has arrived",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/amazon-vs-perplexity-the-ai-agent-war-has-arrived",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/amazon-vs-perplexity-the-ai-agent-war-has-arrived",
+      "section": "technology",
+      "publishedDate": "2025-11-18T14:02:50Z",
+      "trailText": "A lawsuit over automated shopping reveals a deeper struggle over who will control the next generation of AI and what happens when autonomous agents start acting on our behalf",
+      "summary": "Amazon has sued AI startup Perplexity over its Comet browser’s automated shopping feature, accusing it of covertly accessing customer accounts and disguising AI activity as human browsing. The clash highlights a broader debate over who controls autonomous digital agents, their regulation, liability and security risks. Perplexity—valued at $20 billion and backed by $1.5 billion in funding—faces its own controversies around unauthorized data scraping and alleged plagiarism. The lawsuit’s outcome could determine the future governance of AI agents across e-commerce, content creation and beyond amid rising concerns over ethics, competition and consumer protection.",
+      "summaryTokens": 489,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
+    {
+      "id": "technology/2025/nov/18/crypto-market-tech-bubble-bitcoin-price-ai-boom",
+      "title": "Crypto market sheds more than $1tn in six weeks amid fears of tech bubble",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/crypto-market-tech-bubble-bitcoin-price-ai-boom",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/crypto-market-tech-bubble-bitcoin-price-ai-boom",
+      "section": "technology",
+      "publishedDate": "2025-11-18T12:03:57Z",
+      "trailText": "Bitcoin price at lowest level since April while FTSE 100 falls as Google boss warns there is ‘irrationality’ in AI boom",
+      "summary": "Cryptocurrencies shed over $1 trn (25%) in six weeks as bitcoin plunged 27% to $91,212—its lowest since April—on fading US rate-cut hopes. Equity markets wobbled: FTSE 100 fell 1.3%, Stoxx 600 down 1.8%, US and Asian indices slid up to 3.2%. Alphabet’s Sundar Pichai, JPMorgan’s Daniel Pinto and Klarna’s Sebastian Siemiatkowski warned of “irrational” AI valuations and an impending correction. A Bank of America survey found 45% of fund managers see an AI bubble as the biggest tail risk. Gold dipped amid higher yields, though UBS predicts a rebound with eventual Fed rate cuts and central-bank demand.",
+      "summaryTokens": 2012,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
+    {
+      "id": "technology/2025/nov/18/fear-really-drives-him-is-alex-karp-of-palantir-the-worlds-scariest-ceo",
+      "title": "‘Fear really drives him’: is Alex Karp of Palantir the world’s scariest CEO?",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/fear-really-drives-him-is-alex-karp-of-palantir-the-worlds-scariest-ceo",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/fear-really-drives-him-is-alex-karp-of-palantir-the-worlds-scariest-ceo",
+      "section": "technology",
+      "publishedDate": "2025-11-18T10:00:30Z",
+      "trailText": "His company is potentially creating the ultimate state surveillance tool, and Karp has recently been on a striking political and philosophical journey. His biographer reveals what makes him tick",
+      "summary": "Palantir CEO Alex Karp, profiled in Michael Steinberger’s new biography, emerges as an eccentric, angst-driven visionary whose AI-powered data platform—compiling tax records, biometrics and social profiles—fuels U.S. immigration raids, military drone strikes and surveillance by ICE, IDF and Western police. A philosophically trained outsider battling dyslexia and ADHD, Karp mixes combative media appearances, anti-woke, pro-Western supremacy rhetoric and multi-million-dollar donations to Trump to secure Pentagon, DHS and NHS contracts. His “defend the West” mission belies Orwellian Big Brother fears. Known for unkempt grey hair, 1.25× sped-up diction and combative interviews, he’s raked in $6.8 bn pay and amassed 20 homes while leading tai chi and roller-ski workouts between board meetings.",
+      "summaryTokens": 1601,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
+    {
+      "id": "technology/2025/nov/18/alphabet-boss-sundar-pichai-ai-artificial-intelligence-trust",
+      "title": "Don’t blindly trust everything AI tools say, warns Alphabet boss",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/alphabet-boss-sundar-pichai-ai-artificial-intelligence-trust",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/alphabet-boss-sundar-pichai-ai-artificial-intelligence-trust",
+      "section": "technology",
+      "publishedDate": "2025-11-18T08:17:15Z",
+      "trailText": "Sundar Pichai says artificial intelligence models are ‘prone to some errors’ and warns of impact if AI bubble bursts",
+      "summary": "In a BBC interview, Alphabet CEO Sundar Pichai urged caution with AI, warning that models like Google’s Gemini-powered “AI Mode” in Search are “prone to errors” and should be used alongside traditional tools rather than trusted blindly. He said Google’s forthcoming Gemini 3.0 aims to enhance expert-like responses but underscored AI’s limitations. Pichai also cautioned that an AI investment bubble could burst, affecting all players, though he likened its long-term impact to the transformative internet era.",
+      "summaryTokens": 729,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
+    {
+      "id": "technology/2025/nov/18/warning-ai-chatbots-inaccurate-financial-advice-tips-chatgpt-copilot-uk",
+      "title": "UK consumers warned over AI chatbots giving inaccurate financial advice",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/18/warning-ai-chatbots-inaccurate-financial-advice-tips-chatgpt-copilot-uk",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/18/warning-ai-chatbots-inaccurate-financial-advice-tips-chatgpt-copilot-uk",
+      "section": "technology",
+      "publishedDate": "2025-11-18T06:00:26Z",
+      "trailText": "Which? study of ChatGPT, Copilot and others uncovers incorrect and misleading tips on investments, tax and insurance",
+      "summary": "Which? tested 40 financial and legal queries across ChatGPT, Copilot, Gemini, Meta AI and Perplexity, uncovering mistakes: ChatGPT/Copilot urged oversubscribing ISAs, mis-stated travel insurance rules, Meta misexplained flight delay claims, and Gemini advised withholding payment risking contract breaches. Meta scored lowest, ChatGPT second, Copilot/Gemini slightly higher, Perplexity highest. With 17–50% of UK adults using AI for money advice, the FCA warned general-purpose chatbots aren’t covered by ombudsman schemes. Microsoft, Google and OpenAI emphasise users must verify AI results and consult professionals as models like GPT-5.1 strive for improved accuracy.",
+      "summaryTokens": 968,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
+    },
     {
       "id": "technology/2025/nov/17/jeff-bezos-ai-startup-project-prometheus",
       "title": "Jeff Bezos reportedly launches new AI startup with himself as CEO",
@@ -29,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2025-11-17T16:47:11Z",
       "trailText": "Former Amazon CEO to co-head Project Prometheus with tech executive Vik Bajaj, according to the New York Times",
-      "summary": "Jeff Bezos has named himself co-CEO of Project Prometheus, a newly formed AI startup led alongside former Google X executive Vik Bajaj, that has already raised $6.2bn to develop AI tools for engineering and manufacturing. The firm—whose location and product roadmap remain confidential—has recruited about 100 staff, including former employees of OpenAI, DeepMind and Meta. This marks Bezos’s first CEO role since leaving Amazon and follows his sustained involvement at Blue Origin. Project Prometheus enters a crowded AI landscape amid questions over the sector’s financial sustainability, exemplified by Michael Burry’s recent $1bn short bets on Palantir and Nvidia.",
-      "summaryTokens": 941,
-      "generatedAt": "2025-11-18T03:44:54.174Z"
+      "summary": "Jeff Bezos has named himself co-CEO of Project Prometheus, a newly surfaced AI startup co-led with physicist-chemist Vik Bajaj. Backed by $6.2 billion in funding, the firm will develop AI tools for engineering and manufacturing and has already hired about 100 staff from OpenAI, DeepMind and Meta. Little is disclosed about its technology or location. This marks Bezos’s first formal executive role since leaving Amazon, entering an overcrowded AI sector under scrutiny for financial sustainability as investors like Michael Burry bet against tech valuations.",
+      "summaryTokens": 797,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
     },
     {
       "id": "technology/2025/nov/17/grokipedia-elon-musk-far-right-racist",
@@ -41,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2025-11-17T12:00:33Z",
       "trailText": "World’s richest person wanted to ‘purge’ propaganda from Wikipedia, so he created a compendium of racist disinformation",
-      "summary": "Elon Musk’s AI-powered Grokipedia, launched by xAI’s Grok model, now houses 800,000 entries that systematically whitewash and glorify extremist ideologies. It recasts figures like Jared Taylor, Kevin MacDonald and David Irving as rigorous scholars of ‘race realism’, casts William Luther Pierce’s The Turner Diaries as intellectual resistance, and Revilo P. Oliver as an empirical civilizational theorist. Through eugenic framing of racial nationalism, skull-measurement pseudoscience, and defense of Rhodesia and Orania’s white-supremacist regimes, it legitimizes neo-Nazi talking points under a veneer of evolutionary biology and “fact-checking.”",
-      "summaryTokens": 1017,
-      "generatedAt": "2025-11-18T03:44:54.174Z"
+      "summary": "Guardian analysis reveals Elon Musk’s AI-driven Grokipedia, launched by xAI claiming to 'purge propaganda' from Wikipedia, actually hosts over 800,000 entries that whitewash white supremacists, neo-Nazis and Holocaust deniers. It glorifies figures like Jared Taylor, Kevin MacDonald, David Irving, William Pierce and Revilo P. Oliver, revives eugenics and scientific racism, defends racial nationalism and supremacist slogans with pseudo-evolutionary arguments, lionizes Rhodesia’s minority rule and Orania, and frames mainstream critics as ideologically biased. Extremism experts warn it launders far-right disinformation.",
+      "summaryTokens": 1009,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
     },
     {
       "id": "technology/2025/nov/17/ai-firms-risks-tobacco-anthropic-artificial-intelligence-dario-amodei",
@@ -53,9 +149,9 @@
       "section": "technology",
       "publishedDate": "2025-11-17T11:35:02Z",
       "trailText": "Artificial intelligence will become smarter than ‘most or all humans in most or all ways’, says Dario Amodei",
-      "summary": "Anthropic CEO Dario Amodei warns AI firms must transparently disclose risks or risk repeating tobacco/opioid industry mistakes, as AI nears or exceeds human-level intelligence. He predicts half of entry-level white-collar jobs could vanish within five years and argues AI could compress a century of scientific progress into a decade. Anthropic’s stress tests revealed AI autonomy risks: Claude operated largely solo in a state-sponsored cyberattack, and similar capabilities could aid both vaccine development and bioweapon creation. The company advocates rigorous measurement of autonomous AI behaviours to ensure safety before widespread deployment.",
-      "summaryTokens": 1012,
-      "generatedAt": "2025-11-18T03:44:54.174Z"
+      "summary": "Anthropic CEO Dario Amodei warns AI firms must transparently disclose dangers or risk repeating tobacco and opioid industry failures. He predicts AI will outperform humans in most ways, potentially displacing half of entry-level white-collar roles within five years. Amodei highlights AI’s “compressed 21st century” potential to accelerate medical breakthroughs—and dual-use threats like bioweapons. He cites a recent Chinese state–linked breach where Claude Codeto autonomously conducted most intrusion steps. Anthropic urges robust measurement and testing of autonomous capabilities to balance innovation and safety.",
+      "summaryTokens": 744,
+      "generatedAt": "2025-11-19T03:45:56.820Z"
     },
     {
       "id": "technology/2025/nov/16/google-deepmind-hurricane-forecast",
