@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-18T03:37:44.258Z",
+    "generated_at": "2025-11-19T03:31:59.715Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-17"
+      "to": "2025-11-18"
     },
-    "article_count": 102,
+    "article_count": 104,
     "merge_info": {
-      "previous_count": 101,
-      "new_articles": 1,
+      "previous_count": 102,
+      "new_articles": 2,
       "updated_articles": 1,
-      "total_count": 102
+      "total_count": 104
     },
     "batch_info": {
-      "initial_batch_id": "batch_691be8ef663c8190ac9de7ed6316fbe1",
+      "initial_batch_id": "batch_691d39cd0640819096a1700968572ac9",
       "retry_batches": [],
-      "total_tokens": 2667,
-      "processing_time_hours": 0.1
+      "total_tokens": 5090,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/18/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/18/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/18/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-18T21:00:01Z",
+      "trailText": "Knife crime statistics",
+      "summary": "This corrections and clarifications notice updates knife crime statistics previously cited from an undated ONS graph—contrary to reported increases of 1% in London, 19% in Dorset, 31% in North Yorkshire and 51% in Suffolk, the latest ONS data show a 0% change across these regions except Dorset, where knife crime actually fell by 13%. It also lists other recently amended stories—including legal action over Drax wood-dust asthma claims; additional crime suspect details to counter misinformation; Wes Streeting’s handling of doctors’ strikes; a Sussex plastic bead spill; climate protests in Belém; an Essex photo essay; a global publishing AI scam; and a Michael J Fox film review. Readers can submit corrections via the Guardian’s readers’ editor channels.",
+      "summaryTokens": 643,
+      "generatedAt": "2025-11-19T03:31:59.511Z"
+    },
+    {
+      "id": "news/2025/nov/18/cba-boss-says-repaying-excessive-fees-to-low-income-customers-could-be-seen-as-taking-shareholder-money",
+      "title": "CBA boss says repaying ‘excessive fees’ to low-income customers could be seen as taking shareholder money",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/18/cba-boss-says-repaying-excessive-fees-to-low-income-customers-could-be-seen-as-taking-shareholder-money",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/18/cba-boss-says-repaying-excessive-fees-to-low-income-customers-could-be-seen-as-taking-shareholder-money",
+      "section": "news",
+      "publishedDate": "2025-11-18T05:49:50Z",
+      "trailText": "Commonwealth Bank Australia– which reported a record cash profit of $10.3bn in most recent financial year – charged $270m in ‘excessive fees’ over five years",
+      "summary": "Commonwealth Bank CEO Mat Comyn told a parliamentary committee that reimbursing ASIC-identified ‘excessive fees’—$270m charged over five years to 2.2m low-income customers via account-keeping, dishonour and overdraw fees—would be an appropriation of shareholder funds. He defended the charges as contractually compliant and offered only limited goodwill payments. Choice’s policy head condemned the stance, noting competitors like Westpac have committed nearly $10m in full refunds and automatic low-fee account migrations by March following ASIC’s July cohort identification.",
+      "summaryTokens": 942,
+      "generatedAt": "2025-11-19T03:31:59.511Z"
+    },
     {
       "id": "news/2025/nov/17/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +53,9 @@
       "section": "news",
       "publishedDate": "2025-11-17T21:00:14Z",
       "trailText": "Irish emigration | Georgia Gould",
-      "summary": "This corrections note clarifies that Catherine Connolly referred to forced emigration, not ‘forced immigration’, and that Georgia Gould served as a Cabinet Office minister when launching an anti–child benefit fraud drive. It also lists amendments to features on percussionist James Blades, Leicester’s budget crisis and war photographer Don McCullin. Readers can direct editorial complaints and correction requests by email to guardian.readers@theguardian.com, by post to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or voicemail at +44 (0)20 3353 4736.",
-      "summaryTokens": 1055,
-      "generatedAt": "2025-11-18T03:37:44.100Z"
+      "summary": "Corrections and clarifications: Catherine Connolly’s comment concerned forced emigration of Irish citizens, not forced immigration. Georgia Gould served as a Cabinet Office minister, not a cabinet minister, when she launched an August child benefit fraud crackdown. Other recently amended articles include a profile titled ‘Two more broomsticks please!’ on percussionist James Blades, Leicester’s make-or-break budget crisis, and war photographer Don McCullin’s selection of 19 key images. Readers may send editorial complaints or correction requests via guardian.readers@theguardian.com, mail to Readers’ editor, Kings Place, 90 York Way, London N1 9GU, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 1718,
+      "generatedAt": "2025-11-19T03:31:59.511Z"
     },
     {
       "id": "news/2025/nov/16/corrections-and-clarifications1",
