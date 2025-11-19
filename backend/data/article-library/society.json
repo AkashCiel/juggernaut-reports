@@ -1,26 +1,98 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2025-11-18T03:42:13.521Z",
+    "generated_at": "2025-11-19T03:39:09.470Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-18"
+      "to": "2025-11-19"
     },
-    "article_count": 293,
+    "article_count": 299,
     "merge_info": {
-      "previous_count": 286,
-      "new_articles": 7,
-      "updated_articles": 7,
-      "total_count": 293
+      "previous_count": 293,
+      "new_articles": 6,
+      "updated_articles": 8,
+      "total_count": 299
     },
     "batch_info": {
-      "initial_batch_id": "batch_691beaa823c88190a1b3960516fb5106",
+      "initial_batch_id": "batch_691d3b8536e48190ada4dddb1027236c",
       "retry_batches": [],
-      "total_tokens": 33749,
+      "total_tokens": 28188,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "society/2025/nov/19/coroners-advice-on-maternal-deaths-in-england-and-wales-routinely-ignored-study-finds",
+      "title": "Coroners’ advice on maternal deaths in England and Wales routinely ignored, study finds",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/19/coroners-advice-on-maternal-deaths-in-england-and-wales-routinely-ignored-study-finds",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/19/coroners-advice-on-maternal-deaths-in-england-and-wales-routinely-ignored-study-finds",
+      "section": "society",
+      "publishedDate": "2025-11-19T00:01:01Z",
+      "trailText": "Nearly two-thirds of ‘prevention of future deaths’ reports by coroners are not acted upon, say researchers at King’s College London",
+      "summary": "Study by King’s College London of 29 coroners’ Prevention of Future Deaths reports (PFDs) on maternal deaths in England and Wales (2013–23) finds 65% went unaddressed nationally despite legal mandates to respond within 56 days. Two-thirds of deaths occurred in hospital, over half post-partum; leading causes include haemorrhage, early-pregnancy complications and suicide. Only 38% of PFDs received published replies. Researchers urge incorporation of PFDs into Baroness Amos’ independent NHS maternity inquiry. Government commits taskforce, urgent investigation and safety programmes. Advocates warn that ignoring coroners’ guidance risks further preventable maternal and perinatal fatalities.",
+      "summaryTokens": 846,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
+    },
+    {
+      "id": "society/2025/nov/19/nhs-failing-waiting-times-recovery-plan-pac-report",
+      "title": "NHS failing to cut waiting times as promised in recovery plan, report warns",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/19/nhs-failing-waiting-times-recovery-plan-pac-report",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/19/nhs-failing-waiting-times-recovery-plan-pac-report",
+      "section": "society",
+      "publishedDate": "2025-11-19T00:01:01Z",
+      "trailText": "Public accounts committee finds Labour’s progress ‘appears to have stalled’ despite billions of pounds in investment",
+      "summary": "The PAC warns the NHS has stalled on reducing waiting times despite £billions spent under its 2022 recovery plan, with 7.4m elective care pathways still on the list and 192,000 patients waiting over a year for treatment. A fifth of patients face diagnostic waits over six weeks. It criticises unplanned NHS reorganisation by Starmer and Streeting as imprudent and potentially harmful. The report underscores growing patient harm and political risk ahead of Labour’s 2029 pledge to restore 18-week guarantees. Ministers counter that waiting lists have fallen by over 230,000 and investment is modernising care.",
+      "summaryTokens": 1007,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
+    },
+    {
+      "id": "society/2025/nov/19/starmer-struggling-overhaul-services-lack-of-planning-says-thinktank",
+      "title": "Lack of planning has hit Labour’s efforts to fix public services, says thinktank",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/19/starmer-struggling-overhaul-services-lack-of-planning-says-thinktank",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/19/starmer-struggling-overhaul-services-lack-of-planning-says-thinktank",
+      "section": "society",
+      "publishedDate": "2025-11-19T00:01:00Z",
+      "trailText": "Keir Starmer accused of failing to adequately strategise while in opposition, leading to uncoordinated policymaking",
+      "summary": "An Institute for Government report criticizes PM Keir Starmer for entering office without clear plans for public service reform, leading to disjointed initiatives across health, courts, prisons and adult social care. Aside from improvements in children’s social services, progress has been minimal or negative elsewhere. The IfG warns that incoherent departmental coordination and contradictory decisions—such as funding imbalances and boundary changes—must be addressed urgently to deliver tangible gains before the next election.",
+      "summaryTokens": 844,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
+    },
+    {
+      "id": "society/2025/nov/18/ultra-processed-food-linked-to-harm-in-every-major-human-organ-study-finds",
+      "title": "Ultra-processed food linked to harm in every major human organ, study finds",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/18/ultra-processed-food-linked-to-harm-in-every-major-human-organ-study-finds",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/18/ultra-processed-food-linked-to-harm-in-every-major-human-organ-study-finds",
+      "section": "society",
+      "publishedDate": "2025-11-18T23:30:00Z",
+      "trailText": "World’s largest scientific review warns consumption of UPFs poses seismic threat to global health and wellbeing",
+      "summary": "The world’s largest scientific review finds ultra-processed food (UPF) harms every major organ system and raises risks of obesity, type 2 diabetes, heart disease, depression and early death. Profit-driven corporations aggressively market UPF, displacing fresh food in global diets—sometimes comprising 50–80% of intake in disadvantaged populations. The Lancet series’ authors, creators of the Nova classification, acknowledge research gaps but call for urgent policy: front-of-pack labels, marketing bans, limits in schools and hospitals, taxes and reformulation. A systematic review of 104 long-term studies linked UPF to chronic diseases in 92 cases. Authors warn corporate lobbying blocks strong regulation.",
+      "summaryTokens": 960,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
+    },
+    {
+      "id": "society/2025/nov/18/mar-a-lago-face-plastic-surgery",
+      "title": "Plastic surgeons wrestle with requests for ‘Mar-a-Lago face’: ‘You’re going to look like Maleficent’",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/18/mar-a-lago-face-plastic-surgery",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/18/mar-a-lago-face-plastic-surgery",
+      "section": "society",
+      "publishedDate": "2025-11-18T16:33:28Z",
+      "trailText": "The puffy, artificial look is rising in popularity - thanks to Maga elite such as Kristi Noem and Matt Gaetz",
+      "summary": "Washington DC plastic surgeons report a surge in requests for the ‘Mar-a-Lago face’—the exaggerated, bee-sting lips, frozen brows and taut necks popularized by Trump allies like Kristi Noem and Matt Gaetz. Physicians such as Dr Anita Kulkarni and Dr Kelly Bolden push back, warning patients about overfilling (“you’ll cross over to looking like Maleficent”) and the risks of lumpiness, while others embrace or market the trend. Critics see it as political deference to Trump’s beauty standards, and a broader normalization of overt injectables in 2024’s 28.5 million minimally invasive procedures. The fad may fade—as filler and facelifts aren’t permanent.",
+      "summaryTokens": 892,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
+    },
+    {
+      "id": "society/2025/nov/18/women-describe-lasting-effects-choked-strangled-sex",
+      "title": "‘I knew I was starting to have a seizure’: women describe lasting effects of being ‘choked’ during sex",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/18/women-describe-lasting-effects-choked-strangled-sex",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/18/women-describe-lasting-effects-choked-strangled-sex",
+      "section": "society",
+      "publishedDate": "2025-11-18T05:00:26Z",
+      "trailText": "Three women tell of blacking out, feeling dazed and dizzy, and of ongoing memory issues and fatigue",
+      "summary": "Three women describe enduring physical and cognitive injuries—blackouts, seizures, disorientation, memory loss, fatigue, headaches and tinnitus—after being choked or strangled during consensual sex. Normalized by violent pornography from teenage exposure and reinforced by partner coercion, the practice poses serious brain-injury and fatality risks, yet most avoid medical care due to shame. A major study finds over half of under-35s have experienced it, prompting the UK to ban strangulation porn. Survivors urge awareness of power dynamics and prompt medical evaluation for hypoxic brain damage.",
+      "summaryTokens": 863,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
+    },
     {
       "id": "society/2025/nov/18/sexually-active-young-people-uk-choking-strangulation-sex",
       "title": "Nearly half of sexually active young people in UK have experienced strangulation, study shows",
@@ -29,9 +101,9 @@
       "section": "society",
       "publishedDate": "2025-11-18T00:00:19Z",
       "trailText": "Survey reveals crisis of distress, consent issues and physical harm caused by strangulation during sex",
-      "summary": "An Ifas study finds 43% of sexually active 16-17-year-olds (and over half under 35) in the UK have experienced or performed strangulation during sex. 36% felt scared; 21% reported dangerous symptoms like dizziness or loss of consciousness. A consent gap exists: more perpetrators than recipients believed prior consent. Pornography is cited as the main influence—soon to be banned online. Experts warn that strangulation risks brain damage, stroke, nerve injury and even death. Since 2014, 550 women have been strangled to death, prompting calls for awareness campaigns and legal clarity after 2021’s standalone offence.",
-      "summaryTokens": 1081,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "A survey of 16–17 year-olds by Ifas found 43 % of sexually active teens have experienced choking during sex (over half of under-35s), with 36 % reporting fear and 21 % physical symptoms like dizziness or loss of consciousness. Misperceptions persist: nearly a third believe safe strangulation methods exist, and perpetrators overestimate consent. Both genders are equally likely to be choked, but men more often perform it, sometimes over 50 times. Main influence is violent pornography, soon to face a UK ban on tech platforms by year-end. Experts warn of brain injury, anxiety and even death, urging public awareness and legal recognition that serious harm cannot be consented to.",
+      "summaryTokens": 1155,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/17/children-in-care-who-lash-out-may-no-longer-face-automatic-arrest-under-uk-review",
@@ -41,9 +113,9 @@
       "section": "society",
       "publishedDate": "2025-11-17T22:30:16Z",
       "trailText": "Plan aims to restrict ‘over-policing’ of looked-after young people and ensure challenging behaviour is met with support rather than criminalisation",
-      "summary": "Under new UK government proposals, vulnerable looked-after children who assault carers or damage property would no longer face automatic police arrest or charges; instead, the spring review will tighten a 2018 protocol to restrict ‘over-policing’ and channel young people into trauma-informed support like counselling. Deputies including DPM David Lammy emphasize treating children as children to curb disproportionate criminalisation—looked-after kids face caution or conviction rates ten times higher than peers. England’s children’s commissioner highlights cases where routine behavioural lapses trigger formal charges, exacerbating distress. Research shows first offences typically involve common assault or minor damage, often escalated by a police response that would not occur in family homes.",
-      "summaryTokens": 1152,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "A planned UK government review will require stronger limits on automatic arrest or charging of looked-after children who assault staff or damage property, replacing criminalisation with targeted support such as trauma counselling. Children in care—ten times likelier than peers to receive cautions or convictions—would benefit from a tightened 2018 protocol against over-policing. Deputy PM David Lammy and children’s commissioner Rachel de Souza cite cases like an autistic boy fined over a minor incident. Research shows low-level incidents in care often escalate into criminal records, a trend the review aims to reverse by spring.",
+      "summaryTokens": 620,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/17/woman-killed-herself-after-south-london-hospital-neglect-coroner-concludes",
@@ -53,9 +125,9 @@
       "section": "society",
       "publishedDate": "2025-11-17T19:46:42Z",
       "trailText": "Michelle Sparman, 48, died after staff at Queen Mary’s hospital in Roehampton failed to search her possessions adequately, inquest finds",
-      "summary": "48-year-old personal trainer Michelle Sparman was admitted as a voluntary patient to Rose Ward at Queen Mary’s Hospital in Roehampton after expressing suicidal intent. Despite red flags, staff failed to adequately search her belongings, allowing her to conceal means of self-harm. She died by suicide on 28 August 2021, leading coroner Bernard Richmond KC to conclude that neglect on the psychiatric ward contributed to her hypoxic brain injury and death. The inquest cited her struggles with anxiety, depression, perimenopause, a toxic relationship with her ex-partner, and financial strain. Richmond will issue a prevention-of-future-deaths report recommending a centralised dangerous-items log across mental health units.",
-      "summaryTokens": 958,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "In August 2021 personal trainer and police call dispatcher Michelle Sparman, 48, took her own life at Kingston hospital after staff at Queen Mary’s Roehampton psychiatric Rose Ward failed to adequately search her for harmful items on admission and discharge, despite red flags as a voluntary inpatient. Assistant coroner Bernard Richmond KC ruled 'suicide whilst balance of mind disturbed, contributed by neglect' and cited her anxiety, depression, perimenopausal symptoms, financial strain and toxic ex-partner messaging. He will issue a report recommending centralized records of dangerous items in mental health wards.",
+      "summaryTokens": 1446,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/17/reform-council-proposals-close-lancashire-care-homes-relatives-reactions",
@@ -65,9 +137,9 @@
       "section": "society",
       "publishedDate": "2025-11-17T18:26:46Z",
       "trailText": "Elderly residents of care home left anxious after Reform-led county council started consultation over plans for its closure",
-      "summary": "Fearing closure from budget cuts under the Reform-led council’s Trump-inspired Doge efficiency drive, families of five Lancashire care homes, notably Woodlands in Clayton-le-Moors, have criticised the consultation on moving 50 residents by February as premature and based on outdated data. Relatives of centenarian Ken Ormerod and dementia patients warn of severe emotional distress and lack of alternative capacity. MP Sarah Smith labels it ideological austerity, while cabinet member Graham Dalton stresses no final decisions and calls for public input to secure sustainable, high-quality adult social care.",
-      "summaryTokens": 1188,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "Reform-led Lancashire county council's consultation to close five local authority care homes, including Woodlands in Accrington, has sparked outcry from residents and relatives. Families such as Phil Aspden’s and Dorothy Devereux's accuse the council of prioritizing budgets and ‘Doge’ efficiency over vulnerable elders’ wellbeing, citing outdated data, insufficient alternatives, and dementia patients’ distress. MP Sarah Smith warns the changes may cost more and erode frontline services, while cabinet member Dalton says the review seeks sustainable, high-quality care and invites public input before February’s decision.",
+      "summaryTokens": 487,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/17/why-is-social-mobility-such-an-obsession",
@@ -77,9 +149,9 @@
       "section": "society",
       "publishedDate": "2025-11-17T17:24:03Z",
       "trailText": "Letters: Surely the focus should be on making all occupations viable, rewarded and respected, says Mary Evans",
-      "summary": "Mary Evans, in a Guardian letters page piece, critiques the recurring priority of boosting social mobility through English secondary education reforms—curriculum revisions and revamped examinations—arguing successive governments have failed to question why this goal eclipses a more transformative agenda: ensuring every occupation is economically viable, respected and fairly rewarded. She warns that valorising ‘escape’ from lower-status roles entrenches cut-throat class competition, narrows political perspectives and deepens feelings of failure and exclusion in children. Instead, Evans calls for reorienting societal values toward job diversity, mutual respect and authentic social equality.",
-      "summaryTokens": 996,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "In a Guardian letter Mary Evans critiques the narrow obsession with social mobility in English secondary education reforms. She argues that governments overlook the more socially radical, equitable goal of ensuring every occupation is viable, respected and properly rewarded. By framing jobs as ladders to escape, policy entrenches class competition, diminishes the value of essential roles and excludes children who don’t conform to this success narrative. Evans calls for policymakers to challenge underlying values that foster failure and exclusion, promoting mutual respect and true social equality across all professions.",
+      "summaryTokens": 849,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/17/better-and-cheaper-the-case-for-prostate-cancer-screening-among-black-men",
@@ -89,9 +161,9 @@
       "section": "society",
       "publishedDate": "2025-11-17T16:00:40Z",
       "trailText": "Decision over routine PSA testing is due at end of this month, though some feel the supporting data is unclear",
-      "summary": "Junior Hemans’ 2014 PSA-test diagnosis at age 51 underscores that black men face a one-in-four lifetime risk of prostate cancer versus one-in-eight overall. Despite over 55,000 new cases each year and prostate cancer now England’s most common cancer, the NHS offers no routine screening. Prostate Cancer UK and allied experts argue the National Screening Committee should approve cost-effective, targeted PSA screening for high-risk black men aged 45–69 to reduce late diagnoses and mortality. Opponents warn of potential over-diagnosis, unclear evidence and lack of genomic data. The £42m Transform trial aims to address gaps by recruiting more black participants.",
-      "summaryTokens": 509,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "Junior Hemans diagnosed after requesting a PSA test; black men face a one in four lifetime risk, double the national average. The UK National Screening Committee will decide on NHS screening next month, with Prostate Cancer UK advocating targeted PSA tests for black men aged 45–69, citing strong evidence for earlier detection, cost-effectiveness and equity. Critics warn of unclear data due to higher baseline PSA levels, over-diagnosis concerns and limited genomic research. The Transform trial, including 10% black participants, aims to fill evidence gaps, and experts urge proactive GP outreach if formal screening is delayed.",
+      "summaryTokens": 937,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/17/stephen-dawson-obituary",
@@ -101,9 +173,9 @@
       "section": "society",
       "publishedDate": "2025-11-17T11:55:01Z",
       "trailText": "Other lives: Doctor who established an integrated sexual health service in Slough",
-      "summary": "Stephen Dawson (78), pioneering urologist and genitourinary consultant who navigated early London HIV crisis, established the UK’s first integrated sexual health service in Slough (1988–2016). Trained at University College Hospital and fellow of the Royal College of Physicians, he was son of a Harwell nuclear physicist. He authored film scripts—three shorts shown at European and US festivals and a planned feature—and gained acclaim as an acrylic portrait painter, reaching the final of the 2016 BP Portrait Awards. Retired to Hastings as a Times crossword finalist, he is survived by partner Dimitry Kalinin; brother Geoffrey predeceased him.",
-      "summaryTokens": 812,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "Stephen Dawson (d.2025) was a pioneering urologist who, after charting early HIV-opportunistic diseases in London, in 1988 became the first consultant in genitourinary medicine in east Berkshire. Over 28 years at Upton Hospital he expanded a three-doctor unit into the UK’s first fully integrated sexual health service, later adopted nationwide. Beyond medicine he wrote three short films screened internationally, painted award-shortlisted acrylic portraits and reached the Times crossword final. He retired to Hastings and died of cancer aged 78, survived by partner Dimitry Kalinin.",
+      "summaryTokens": 480,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/17/more-than-66-percent-of-nurses-in-england-working-while-unwell-says-royal-college-of-nursing-union",
@@ -113,9 +185,9 @@
       "section": "society",
       "publishedDate": "2025-11-17T00:01:45Z",
       "trailText": "Understaffing is driving workers to ill health and discouraging them for taking leave, says Royal College of Nursing CEO",
-      "summary": "RCN survey of 20,000+ UK nurses finds 66% worked when too ill for sick leave (up from 49% in 2017), with 65% blaming stress. Seven in ten log extra shifts weekly, half unpaid, amid 25,000 nursing vacancies in England. RCN chief Nicola Ranger warns understaffing is “breaking” staff, citing burnout, panic attacks and chronic illness, and urges urgent investment. NHS and Health Dept stress wellbeing initiatives and a graduate guarantee to cut vacancies.",
-      "summaryTokens": 805,
-      "generatedAt": "2025-11-18T03:42:13.339Z"
+      "summary": "An RCN survey of over 20,000 UK nurses finds 66% worked while ill (up from 49% in 2017), with 65% citing stress (up from 50%). Seven in ten exceed contracted hours weekly, half unpaid. England faces 25,000 nursing vacancies. RCN chief Nicola Ranger warns understaffing is driving burnout, panic attacks and chronic illness and calls for urgent investment to grow staff. Staffing-related helpline calls are set to reach 2,175 this year. The NHS highlights wellbeing advocates and a graduate guarantee to ease pressure.",
+      "summaryTokens": 370,
+      "generatedAt": "2025-11-19T03:39:09.214Z"
     },
     {
       "id": "society/2025/nov/16/cannabis-users-psychosis-clinic-london",
