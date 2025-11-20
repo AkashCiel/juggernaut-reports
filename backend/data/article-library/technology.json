@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-19T03:45:57.039Z",
+    "generated_at": "2025-11-20T03:47:17.871Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-18"
+      "to": "2025-11-20"
     },
-    "article_count": 200,
+    "article_count": 205,
     "merge_info": {
-      "previous_count": 192,
-      "new_articles": 8,
-      "updated_articles": 3,
-      "total_count": 200
+      "previous_count": 200,
+      "new_articles": 5,
+      "updated_articles": 8,
+      "total_count": 205
     },
     "batch_info": {
-      "initial_batch_id": "batch_691d3be5ee288190a04cbaa64201751d",
+      "initial_batch_id": "batch_691e8da17a808190b1b7d241cf0002cb",
       "retry_batches": [],
-      "total_tokens": 25774,
+      "total_tokens": 28265,
       "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/19/nvidia-earning-report",
+      "title": "‘We excel at every phase of AI’: Nvidia CEO quells Wall Street fears of AI bubble amid market selloff",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/19/nvidia-earning-report",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/19/nvidia-earning-report",
+      "section": "technology",
+      "publishedDate": "2025-11-20T03:36:19Z",
+      "trailText": "Jensen Huang opens earnings call with attempt to dispel concerns after his $5tn firm beat Wall Street expectations",
+      "summary": "Nvidia’s Q3 results topped estimates—$1.30 EPS vs $1.26, $57.0bn revenue vs $54.9bn—driven by 62% y/y sales growth and $51.2bn data-center revenue. CEO Jensen Huang led the call with bullish AI outlook, dismissing 'AI bubble' fears and highlighting three platform shifts: accelerated computing, generative AI and agentic/physical AI. Q4 guidance at ~$65bn revenue also beat the $61bn consensus. Shares rose 5% post-hours, offsetting November’s 7.9% selloff by major holders including Thiel Macro and SoftBank. Analysts say demand remains strong, though some warn growth may eventually plateau. Analysts Monteiro and David Meier praised Nvidia’s chip innovation and role in AI infrastructure scaling.",
+      "summaryTokens": 1234,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
+    },
+    {
+      "id": "technology/2025/nov/19/nvidia-earnings-ai-wall-street-relief",
+      "title": "Nvidia earnings: Wall Street sighs with relief after AI wave doesn’t crash",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/19/nvidia-earnings-ai-wall-street-relief",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/19/nvidia-earnings-ai-wall-street-relief",
+      "section": "technology",
+      "publishedDate": "2025-11-19T23:47:31Z",
+      "trailText": "Amid a blackout of data due to the government shutdown, the $5tn chipmaker’s report took on wider significance",
+      "summary": "Nvidia’s Q3 results beat expectations with $57.01bn revenues (+62% YoY) and $31.9bn profit (+65%), driven by data-center sales of $51.2bn. Q4 revenue guidance of ~$65bn also topped forecasts. CEO Jensen Huang downplayed AI bubble fears, citing Nvidia’s leading end-to-end AI acceleration. Investors, previously jittery amid a government shutdown data blackout and peak-AI anxiety, were relieved as shares rose in after-hours trading. Nvidia’s performance reaffirms its pivotal role in tech giants’ AI investments and market confidence tied to the AI buildout.",
+      "summaryTokens": 748,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
+    },
+    {
+      "id": "technology/2025/nov/19/uber-lawsuit-ai-driven-pay-systems",
+      "title": "Uber hit with legal demands to halt use of AI-driven pay systems",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/19/uber-lawsuit-ai-driven-pay-systems",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/19/uber-lawsuit-ai-driven-pay-systems",
+      "section": "technology",
+      "publishedDate": "2025-11-19T16:47:29Z",
+      "trailText": "Proposed legal case understood to allege that app has breached data protection law varying driver pay rates",
+      "summary": "Worker Info Exchange has issued a letter before action accusing Uber of breaching European data protection law by varying driver pay rates with an intrusive AI-driven dynamic pricing algorithm introduced in 2023, following upfront pricing in 2020. Oxford-backed research found drivers’ average pay stagnant or lower in real terms as Uber’s fare share rose. WIE demands Uber revert to transparent, human-overseen pay-setting and compensate drivers, or face collective proceedings in Amsterdam under Dutch collective redress law. Uber denies the study’s findings.",
+      "summaryTokens": 1038,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
+    },
+    {
+      "id": "australia-news/2025/nov/19/meta-starts-notifying-australian-teens-of-account-shutdowns-as-social-media-ban-looms",
+      "title": "Facebook and Instagram to start kicking Australian teenagers off platforms as social media ban looms",
+      "webUrl": "https://www.theguardian.com/australia-news/2025/nov/19/meta-starts-notifying-australian-teens-of-account-shutdowns-as-social-media-ban-looms",
+      "apiUrl": "https://content.guardianapis.com/australia-news/2025/nov/19/meta-starts-notifying-australian-teens-of-account-shutdowns-as-social-media-ban-looms",
+      "section": "technology",
+      "publishedDate": "2025-11-19T13:01:36Z",
+      "trailText": "Meta users under 16 will be sent email, SMS and in-app messages in anticipation of 10 December, when ban will begin",
+      "summary": "Meta will notify Australian Facebook, Instagram and Threads users under 16 starting Thursday that their accounts will be deactivated by 10 December under the Albanese government’s social media ban. From 4 December it will also block new under-16 sign-ups; by 10 December access is cut, though Messenger remains via a new no-account option. Affected teens receive 14 days’ notice through in-app alerts, email and SMS, can download their posts and Reels, and will regain full access on turning 16. Age is estimated privately, with misflagged users able to verify via a video selfie or government ID.",
+      "summaryTokens": 633,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
+    },
+    {
+      "id": "technology/2025/nov/19/tiktok-users-power-reduce-ai-content-on-feeds",
+      "title": "TikTok to give users power to reduce amount of AI content on their feeds",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/19/tiktok-users-power-reduce-ai-content-on-feeds",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/19/tiktok-users-power-reduce-ai-content-on-feeds",
+      "section": "technology",
+      "publishedDate": "2025-11-19T05:00:07Z",
+      "trailText": "Platform reveals it hosts more than 1bn AI videos as it starts testing over next few weeks before global rollout",
+      "summary": "TikTok is rolling out tests over the next weeks of a setting letting users toggle AI-generated content in feeds, addressing more than 1.3 bn AI-labelled videos on its platform. Under its annual trust and safety forum, the app requires realistic AI posts to be watermarked and C2PA-labelled, bans harmful deepfakes, and plans a $2 m AI literacy fund with groups like Girls Who Code. Meanwhile, it’s cutting 439 London trust-and-safety jobs as AI filters cut visual shock content seen by humans by 76 %.",
+      "summaryTokens": 1134,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
+    },
     {
       "id": "technology/2025/nov/18/meta-antitrust-win-whatsapp-instagram",
       "title": "Meta wins major US antitrust case and won’t have to break off WhatsApp or Instagram",
@@ -29,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T21:43:44Z",
       "trailText": "Challenge to Meta could have forced it to spin off Instagram and WhatsApp, but judge ruled company did not hold social networking monopoly",
-      "summary": "US District Judge James Boasberg ruled that Meta does not hold a social-networking monopoly, rejecting the FTC’s bid to force a spin-off of Instagram and WhatsApp. The FTC alleged a “buy or bury” strategy against rivals, but Boasberg pointed to TikTok’s rise and YouTube as evidence of robust competition. The 2014 $19 bn WhatsApp acquisition and Instagram’s revenue contribution were central to the FTC’s argument, but the judge found the agency failed to prove Meta’s continued monopoly power. The decision marks a setback for regulators amid parallel antitrust actions against Google, Amazon and Apple.",
-      "summaryTokens": 293,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "On Nov 18, 2025, US District Judge James Boasberg dismissed the FTC’s claim that Meta holds a social networking monopoly and must divest Instagram or WhatsApp. The FTC alleged a “buy or bury” strategy, noting the $19bn 2014 WhatsApp acquisition and Instagram, which generates half of Meta’s revenue. Boasberg cited competition from TikTok and YouTube, rejecting the FTC’s narrow market definition. The ruling follows antitrust wins against Google but contrasts with ongoing suits against Amazon and Apple, marking a setback for the US crackdown on Big Tech.",
+      "summaryTokens": 1373,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/18/what-is-cloudflare-and-why-did-its-outage-take-down-so-many-websites",
@@ -41,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T15:23:42Z",
       "trailText": "Bet365, League of Legends, Sage, YouTube and Google were among those taken offline as provider tried to fix problem",
-      "summary": "Cloudflare, the global cybersecurity and cloud services firm processing traffic for one in five websites, suffered an “internal service degradation” on November 18, knocking offline high-profile clients including Bet365, League of Legends, Sage, YouTube, Google, ChatGPT and X for nearly three hours. The outage, traced to an unexplained traffic spike that forced the disabling of London-based encryption services, was investigated from 11.20 am UK time and resolved by 2.42 pm. Generating over $500 m in quarterly revenue from 300,000 customers across 125 countries, Cloudflare’s failure underscores the internet’s dependency on a handful of infrastructure providers—alongside AWS, Azure and Google Cloud—highlighting calls for greater supply diversity.",
-      "summaryTokens": 1043,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "Cloudflare, a global cloud services and cybersecurity provider handling billions of threats daily and serving 300,000 clients across 125 countries, suffered an “internal service degradation” on Nov 18 that rendered one-in-five websites unreachable for nearly three hours. High-traffic sites including Bet365, League of Legends, Sage, YouTube, Google, ChatGPT and X reported outages as Cloudflare disabled a London encryption service amid an unexplained traffic spike. The incident, resolved by 2:42pm UK time, underscores internet fragility and dependency on a few dominant infrastructure vendors after recent AWS and Azure disruptions.",
+      "summaryTokens": 1461,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
@@ -53,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T15:11:51Z",
       "trailText": "US company that defends millions of websites against malicious attacks says it believes issue ‘is now resolved’",
-      "summary": "Cloudflare, the US company defending millions of websites against malicious attacks, suffered a global outage on Nov 18 that blocked access to customers’ sites—including X and OpenAI—and performance dashboards. The incident, detected at 11:48 GMT, was traced to an auto-generated threat-traffic configuration file that grew beyond limits and crashed core traffic-handling software. Engineers disabled the Warp encryption service in London before deploying a fix at 14:48 GMT. Cloudflare apologized, ruled out malicious activity, and pledged a postmortem. Security expert Alan Woodward called its brief shutdown a reminder of concentrated internet infrastructure risk after recent AWS failures.",
-      "summaryTokens": 1202,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "On Nov 18 Cloudflare—often described as the internet’s 'gatekeeper' for protecting websites, apps, APIs, and AI workloads against DDoS attacks—suffered a global outage from 11:48 GMT to 14:48 GMT when an auto-generated configuration file grew beyond expected size and crashed its traffic-handling system. The failure blocked access to millions of sites, including X and OpenAI services, disabled London’s Warp encryption service, and prevented site owners from using performance dashboards. Cloudflare apologized, implemented a fix, confirmed no evidence of malicious activity, and vowed improvements. Following an AWS outage last month, the incident underscores risks in centralized cloud infrastructure.",
+      "summaryTokens": 1723,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/18/amazon-vs-perplexity-the-ai-agent-war-has-arrived",
@@ -65,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T14:02:50Z",
       "trailText": "A lawsuit over automated shopping reveals a deeper struggle over who will control the next generation of AI and what happens when autonomous agents start acting on our behalf",
-      "summary": "Amazon has sued AI startup Perplexity over its Comet browser’s automated shopping feature, accusing it of covertly accessing customer accounts and disguising AI activity as human browsing. The clash highlights a broader debate over who controls autonomous digital agents, their regulation, liability and security risks. Perplexity—valued at $20 billion and backed by $1.5 billion in funding—faces its own controversies around unauthorized data scraping and alleged plagiarism. The lawsuit’s outcome could determine the future governance of AI agents across e-commerce, content creation and beyond amid rising concerns over ethics, competition and consumer protection.",
-      "summaryTokens": 489,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "Amazon has sued AI startup Perplexity over Comet browser’s shopping agent, accusing it of covertly accessing user accounts and masking bot behavior. The lawsuit spotlights the fight for control and regulation of autonomous AI agents that shop and interact on behalf of users, raising questions about liability, user versus platform interests, and competitive fairness. Perplexity, valued at $20bn after raising $1.5bn, has faced prior controversies over unauthorized scraping and alleged plagiarism. The case could set precedents for how e-commerce platforms police AI agents as more companies deploy autonomous assistants across retail, media, and cybersecurity.",
+      "summaryTokens": 617,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/18/crypto-market-tech-bubble-bitcoin-price-ai-boom",
@@ -77,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T12:03:57Z",
       "trailText": "Bitcoin price at lowest level since April while FTSE 100 falls as Google boss warns there is ‘irrationality’ in AI boom",
-      "summary": "Cryptocurrencies shed over $1 trn (25%) in six weeks as bitcoin plunged 27% to $91,212—its lowest since April—on fading US rate-cut hopes. Equity markets wobbled: FTSE 100 fell 1.3%, Stoxx 600 down 1.8%, US and Asian indices slid up to 3.2%. Alphabet’s Sundar Pichai, JPMorgan’s Daniel Pinto and Klarna’s Sebastian Siemiatkowski warned of “irrational” AI valuations and an impending correction. A Bank of America survey found 45% of fund managers see an AI bubble as the biggest tail risk. Gold dipped amid higher yields, though UBS predicts a rebound with eventual Fed rate cuts and central-bank demand.",
-      "summaryTokens": 2012,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "Crypto market has lost over $1 trn in six weeks amid fears of a tech bubble and fading US rate-cut expectations. Bitcoin plunged 27% to $91,212, its lowest since April, while global equities slid (FTSE 100 −1.3%, Stoxx Europe 600 −1.8%, US indices ~−1%). AI bubble warnings came from Google’s Sundar Pichai (“irrationality”), JPMorgan’s Daniel Pinto (“correction”) and Klarna’s CEO, nervous about datacentre bets. Nvidia, Apple and Microsoft hit $4 trn valuations; a Bank of America survey finds 45% of fund managers see an AI bubble as the top tail risk. Gold fell on higher rates, with UBS expecting a near-term bottom and eventual recovery.",
+      "summaryTokens": 848,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/18/fear-really-drives-him-is-alex-karp-of-palantir-the-worlds-scariest-ceo",
@@ -89,9 +149,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T10:00:30Z",
       "trailText": "His company is potentially creating the ultimate state surveillance tool, and Karp has recently been on a striking political and philosophical journey. His biographer reveals what makes him tick",
-      "summary": "Palantir CEO Alex Karp, profiled in Michael Steinberger’s new biography, emerges as an eccentric, angst-driven visionary whose AI-powered data platform—compiling tax records, biometrics and social profiles—fuels U.S. immigration raids, military drone strikes and surveillance by ICE, IDF and Western police. A philosophically trained outsider battling dyslexia and ADHD, Karp mixes combative media appearances, anti-woke, pro-Western supremacy rhetoric and multi-million-dollar donations to Trump to secure Pentagon, DHS and NHS contracts. His “defend the West” mission belies Orwellian Big Brother fears. Known for unkempt grey hair, 1.25× sped-up diction and combative interviews, he’s raked in $6.8 bn pay and amassed 20 homes while leading tai chi and roller-ski workouts between board meetings.",
-      "summaryTokens": 1601,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "Alex Karp, CEO of Palantir, has steered his company into global state surveillance, integrating tax, biometric and personal data for governments including ICE, the Pentagon, IDF, and Ukraine. A new biography reveals his fear-driven ambition, dyslexic, ADHD background, obsessive fitness, eclectic lifestyle, and philosophical foundations from Frankfurt. Once championing liberal democracy, he now defends a Judeo-Christian west, courts Trump-era contracts, and rubs shoulders with Starmer. Palantir’s AI tools spark debates over civil liberties, military might and ideological drift as Karp pursues dominance akin to IBM’s 1960s era.",
+      "summaryTokens": 890,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/18/alphabet-boss-sundar-pichai-ai-artificial-intelligence-trust",
@@ -101,9 +161,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T08:17:15Z",
       "trailText": "Sundar Pichai says artificial intelligence models are ‘prone to some errors’ and warns of impact if AI bubble bursts",
-      "summary": "In a BBC interview, Alphabet CEO Sundar Pichai urged caution with AI, warning that models like Google’s Gemini-powered “AI Mode” in Search are “prone to errors” and should be used alongside traditional tools rather than trusted blindly. He said Google’s forthcoming Gemini 3.0 aims to enhance expert-like responses but underscored AI’s limitations. Pichai also cautioned that an AI investment bubble could burst, affecting all players, though he likened its long-term impact to the transformative internet era.",
-      "summaryTokens": 729,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "Alphabet CEO Sundar Pichai cautioned users not to “blindly trust” AI outputs, highlighting that current models, including Google’s forthcoming Gemini 3.0 and its AI Mode search experience, remain prone to errors and should complement traditional tools. Speaking to the BBC, he warned that an AI investment bubble could harm all players, likening the hype cycle to the internet boom. He urged rational use of AI’s creative capabilities, while JPMorgan’s Jamie Dimon separately predicted a serious market correction within two years amid geopolitical and fiscal uncertainties.",
+      "summaryTokens": 861,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/18/warning-ai-chatbots-inaccurate-financial-advice-tips-chatgpt-copilot-uk",
@@ -113,9 +173,9 @@
       "section": "technology",
       "publishedDate": "2025-11-18T06:00:26Z",
       "trailText": "Which? study of ChatGPT, Copilot and others uncovers incorrect and misleading tips on investments, tax and insurance",
-      "summary": "Which? tested 40 financial and legal queries across ChatGPT, Copilot, Gemini, Meta AI and Perplexity, uncovering mistakes: ChatGPT/Copilot urged oversubscribing ISAs, mis-stated travel insurance rules, Meta misexplained flight delay claims, and Gemini advised withholding payment risking contract breaches. Meta scored lowest, ChatGPT second, Copilot/Gemini slightly higher, Perplexity highest. With 17–50% of UK adults using AI for money advice, the FCA warned general-purpose chatbots aren’t covered by ombudsman schemes. Microsoft, Google and OpenAI emphasise users must verify AI results and consult professionals as models like GPT-5.1 strive for improved accuracy.",
-      "summaryTokens": 968,
-      "generatedAt": "2025-11-19T03:45:56.820Z"
+      "summary": "Which? study reveals leading chatbots—Microsoft’s Copilot, OpenAI’s ChatGPT, Google’s Gemini and Meta’s AI—provided misleading financial and legal tips in 40 test questions. Errors ranged from recommending ISA oversubscription and unnecessary travel insurance to faulty flight-compensation and payment-withholding advice risking contract breach. Meta scored lowest, ChatGPT second, Copilot and Gemini slightly higher, with Perplexity topping accuracy. The FCA warns AI tips lack regulatory coverage; tech firms stress reminders to verify advice and ongoing model improvements.",
+      "summaryTokens": 995,
+      "generatedAt": "2025-11-20T03:47:17.550Z"
     },
     {
       "id": "technology/2025/nov/17/jeff-bezos-ai-startup-project-prometheus",
