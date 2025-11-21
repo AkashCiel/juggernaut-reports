@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "law",
-    "generated_at": "2025-11-15T03:18:10.803Z",
+    "generated_at": "2025-11-21T03:24:25.079Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-13"
+      "to": "2025-11-20"
     },
-    "article_count": 31,
+    "article_count": 33,
     "merge_info": {
-      "previous_count": 30,
-      "new_articles": 1,
+      "previous_count": 31,
+      "new_articles": 2,
       "updated_articles": 0,
-      "total_count": 31
+      "total_count": 33
     },
     "batch_info": {
-      "initial_batch_id": "batch_6917f0a5d7d08190bf64c9d69ad846ba",
+      "initial_batch_id": "batch_691fdb1009548190bde06fe8a38e42ef",
       "retry_batches": [],
-      "total_tokens": 3371,
+      "total_tokens": 3921,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "law/2025/nov/20/why-government-curtail-jury-trials-england-wales-brian-leveson",
+      "title": "Why does MoJ want to curtail jury trials in England and Wales?",
+      "webUrl": "https://www.theguardian.com/law/2025/nov/20/why-government-curtail-jury-trials-england-wales-brian-leveson",
+      "apiUrl": "https://content.guardianapis.com/law/2025/nov/20/why-government-curtail-jury-trials-england-wales-brian-leveson",
+      "section": "law",
+      "publishedDate": "2025-11-20T11:47:18Z",
+      "trailText": "Right to trial by jury seen as bedrock of justice system but Sir Brian Leveson says court backlogs could lead to ‘total system collapse’",
+      "summary": "To tackle record crown court backlogs risking ‘total system collapse’, Sir Brian Leveson recommends removing jury trials from thousands of cases in England and Wales. Proposals include a new bench division (judge plus two magistrates) for either-way offences, limiting jury trials to offences with maximum sentences over two years, reclassifying some cases to magistrates’ courts, hearing serious fraud before a judge alone, and allowing all defendants to opt for judge-only trials. Leveson estimates these measures save 9,000 sitting days but face strong opposition over jury rights, diversity and underfunding concerns.",
+      "summaryTokens": 556,
+      "generatedAt": "2025-11-21T03:24:24.923Z"
+    },
+    {
+      "id": "law/2025/nov/20/moj-to-remove-right-to-trial-by-jury-for-thousands-of-cases-in-controversial-overhaul",
+      "title": "MoJ to remove right to trial by jury for thousands of cases in controversial overhaul",
+      "webUrl": "https://www.theguardian.com/law/2025/nov/20/moj-to-remove-right-to-trial-by-jury-for-thousands-of-cases-in-controversial-overhaul",
+      "apiUrl": "https://content.guardianapis.com/law/2025/nov/20/moj-to-remove-right-to-trial-by-jury-for-thousands-of-cases-in-controversial-overhaul",
+      "section": "law",
+      "publishedDate": "2025-11-20T11:05:05Z",
+      "trailText": "Exclusive: Courts minister says change needed to stop criminals opting for juries to delay cases, sometimes by years, and clear huge backlog",
+      "summary": "Courts minister Sarah Sackman will legislate by the next election to remove thousands of defendants’ right to jury trials — especially for minor thefts and less-complex fraud — to tackle a backlog of nearly 80,000 criminal cases projected to swell to 100,000 by 2028. Based on Sir Brian Leveson’s review, the plan creates a judge-only Crown Court division to speed hearing times (victims currently wait up to four years), curb defendants “gaming the system” and deliver swifter justice. However, barristers, the judiciary and racial equality groups warn it undermines a core principle, risks wrongful convictions and concentrates power in an unrepresentative bench.",
+      "summaryTokens": 832,
+      "generatedAt": "2025-11-21T03:24:24.923Z"
+    },
     {
       "id": "law/2025/nov/13/sir-geoffrey-bindman-obituary",
       "title": "Sir Geoffrey Bindman obituary",
