@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-20T03:37:37.818Z",
+    "generated_at": "2025-11-21T03:38:51.275Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-20"
     },
-    "article_count": 101,
+    "article_count": 102,
     "merge_info": {
-      "previous_count": 98,
-      "new_articles": 3,
-      "updated_articles": 2,
-      "total_count": 101
+      "previous_count": 101,
+      "new_articles": 1,
+      "updated_articles": 4,
+      "total_count": 102
     },
     "batch_info": {
-      "initial_batch_id": "batch_691e8c53f97881908790a7329bb33c88",
+      "initial_batch_id": "batch_691fde733ab88190b1247f3d442265a8",
       "retry_batches": [],
-      "total_tokens": 9536,
+      "total_tokens": 10543,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/20/moss-spores-survive-outside-international-space-station-iss",
+      "title": "Moss in space: spores survive nine-month ride on outside of ISS",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/20/moss-spores-survive-outside-international-space-station-iss",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/20/moss-spores-survive-outside-international-space-station-iss",
+      "section": "science",
+      "publishedDate": "2025-11-20T16:00:44Z",
+      "trailText": "Scientists say plant’s resilience suggests it could help with oxygen generation or soil formation on space missions",
+      "summary": "Physcomitrella patens spores encased in sporangia endured a nine-month stint on the ISS exterior (aboard Cygnus NG-17), later germinating at 86% versus 97% ground controls. Ground experiments had shown survival under UVC doses >100 kJ/m2, vacuum, deep freeze and heat. Despite partial chlorophyll degradation, viability suggests moss’s potential for oxygen generation, humidity control and soil formation in long-term missions. Published in iScience, the study underscores moss as a resilient pioneer species, but its growth under various gravities, atmospheres and true deep-space environments remains untested, say authors and external experts.",
+      "summaryTokens": 1280,
+      "generatedAt": "2025-11-21T03:38:51.134Z"
+    },
     {
       "id": "science/2025/nov/20/pinprick-blood-test-could-detect-disease-10-years-before-symptoms-appear-study",
       "title": "Pinprick blood test could detect disease 10 years before symptoms appear, study finds",
@@ -29,9 +41,9 @@
       "section": "science",
       "publishedDate": "2025-11-20T00:01:08Z",
       "trailText": "Molecular profiles will give detailed snapshot of person’s physiology and predict diseases from diabetes to cancer and dementia",
-      "summary": "Researchers completed molecular profiling of 500,000 UK Biobank blood samples, measuring ~250 metabolites via Nightingale Health, enabling pinprick tests to predict diabetes, heart disease, cancer and dementia 10–15 years before symptoms. Metabolic snapshots reflect genetic, environmental and lifestyle factors plus organ function shifts (e.g., ammonia from liver, urea from kidney). Early detection supports preventive interventions in middle age. Teams at Edinburgh, King’s College London and Oxford are exploring sex-specific aging patterns, dementia risk prediction and tailored medication responses.",
-      "summaryTokens": 609,
-      "generatedAt": "2025-11-20T03:37:37.502Z"
+      "summary": "UK Biobank and Nightingale Health profiled nearly 250 proteins, metabolites, lipids and sugars in blood from 500 000 volunteers, creating dynamic molecular snapshots capturing genetic predisposition and exposures. Elevated urea, creatinine and lactate flag organ damage, while glucose profiles reveal cancer. Combined with medical and death records, models forecast diabetes, cardiovascular disease, cancer and neurodegeneration (Alzheimer’s, frontotemporal dementia) 10–15 years pre-symptoms via pinprick tests. Researchers foresee a shift towards personalised prevention, advising midlife lifestyle changes based on biomarkers and exploring sex-specific ageing and drug responses.",
+      "summaryTokens": 1723,
+      "generatedAt": "2025-11-21T03:38:51.134Z"
     },
     {
       "id": "science/2025/nov/20/depression-electroconvulsive-therapy-adverse-effects-study",
@@ -41,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-20T00:01:08Z",
       "trailText": "Study calls for depression treatment to be suspended for more research after reports of heart problems and emotional blunting",
-      "summary": "Study urges suspension of electroconvulsive therapy (ECT) for depression until safety and efficacy are rigorously evaluated. Survey of 747 patients and 201 relatives found 25 additional side effects beyond memory loss, including arrhythmia (22.9%), recurring headaches (53.9%), emotional blunting (76.4%), fatigue and relationship problems. Author Prof John Read argues ECT’s benefits over placebo remain unproven, warning it would not meet today’s MHRA or FDA standards. Critics cite its effectiveness in treatment-resistant mood disorders and urge better-targeted trials. NICE guidelines restrict ECT to severe, life-threatening cases after other treatments fail, requiring patient consent and accredited clinics.",
-      "summaryTokens": 948,
-      "generatedAt": "2025-11-20T03:37:37.502Z"
+      "summary": "Survey of 747 ECT recipients and 201 relatives published in the International Journal of Mental Health identifies 25 adverse effects beyond memory loss—22.9% reported heart problems, 53.9% recurring headaches and 76.4% emotional blunting—prompting Prof John Read to call for suspension pending robust safety and efficacy trials. Critics warn of inconclusive methodology; proponents like Profs Tania Gergel and George Kirov defend ECT’s ~60% response in treatment-resistant depression and bipolar disorder. Campaigners highlight involuntary use among older women and domestic abuse survivors. NICE limits ECT to acute, life-threatening, treatment-resistant cases in accredited clinics.",
+      "summaryTokens": 829,
+      "generatedAt": "2025-11-21T03:38:51.134Z"
     },
     {
       "id": "science/2025/nov/19/plantwatch-bursera-leaves-shoot-toxic-liquid-insects-trying-to-beat-it",
@@ -53,9 +65,9 @@
       "section": "science",
       "publishedDate": "2025-11-19T06:00:08Z",
       "trailText": "The bursera plant’s leaves can squirt chemicals 1.5 metres, but over millions of years, some beetles have learned to disarm it",
-      "summary": "Bursera shrubs and trees defend against leaf-chewing insects by squirting high-pressure resin from an internal canal network when punctured, projecting up to 1.5 m. The resin is repellent, toxic and solidifies on contact, immobilizing small attackers and stunting larger ones. In an evolutionary arms race, some beetles spend up to an hour carving notches in leaf canals to drain the gun before feeding—yet despite this disarmament they still suffer impaired development and reduced lifespan.",
-      "summaryTokens": 1369,
-      "generatedAt": "2025-11-20T03:37:37.502Z"
+      "summary": "Bursera shrubs and trees defend against leaf-chewing insects by firing a high-pressure stream of toxic, resinous liquid—spear-gun style—through a network of leaf canals when bitten, projecting droplets up to 1.5 m that both poison and encapsulate attackers. Exposed resin rapidly solidifies in air, sealing small insects in a resin tomb. Surviving insects suffer stunted growth and reduced lifespan. In a classic evolutionary arms race, specialist beetles have evolved a counterstrategy: meticulously nibbling notches to bleed off the resin and neutralize the squirt gun before feeding, though they still face sublethal costs.",
+      "summaryTokens": 1468,
+      "generatedAt": "2025-11-21T03:38:51.134Z"
     },
     {
       "id": "science/2025/nov/19/neanderthals-early-humans-kissed-research-evolution",
@@ -65,9 +77,9 @@
       "section": "science",
       "publishedDate": "2025-11-19T00:01:00Z",
       "trailText": "Study from University of Oxford looks into evolutionary origins of kissing and its role in relations between species",
-      "summary": "A University of Oxford study defines kissing as directed mouth-to-mouth contact without food transfer. Using YouTube footage of African and Asian primates and phylogenetic analysis, researchers trace kissing back 21.5–16.9 million years ago, implying Neanderthals—and even Neanderthal–modern human pairs—likely kissed. Published in Evolution and Human Behavior, the work reframes kissing as a shared ape trait linked to bonding and mate choice, consistent with genetic evidence of interbreeding and cultural variation.",
-      "summaryTokens": 852,
-      "generatedAt": "2025-11-20T03:37:37.502Z"
+      "summary": "A University of Oxford team led by evolutionary biologist Dr Matilda Brindle used YouTube footage and primate phylogenies to redefine kissing as friendly, non-food-transferring mouth-to-mouth contact. Tracing such behaviour in bonobos, chimpanzees and orangutans, they estimate it evolved 21.5–16.9 million years ago in ape ancestors. Given Neanderthals’ position on that family tree—and evidence of shared mouth microbes and interbreeding with Homo sapiens—the study concludes Neanderthals likely kissed each other and modern humans, serving roles in bonding and mate selection.",
+      "summaryTokens": 429,
+      "generatedAt": "2025-11-21T03:38:51.134Z"
     },
     {
       "id": "science/2025/nov/18/root-canal-treatment-could-significantly-lower-blood-sugar-levels-study-suggests",
