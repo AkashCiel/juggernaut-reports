@@ -1,26 +1,98 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2025-11-20T03:25:17.040Z",
+    "generated_at": "2025-11-21T03:31:54.063Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-19"
+      "to": "2025-11-21"
     },
-    "article_count": 130,
+    "article_count": 136,
     "merge_info": {
-      "previous_count": 125,
-      "new_articles": 5,
-      "updated_articles": 3,
-      "total_count": 130
+      "previous_count": 130,
+      "new_articles": 6,
+      "updated_articles": 5,
+      "total_count": 136
     },
     "batch_info": {
-      "initial_batch_id": "batch_691e89ba35488190a113551b2f5982b8",
+      "initial_batch_id": "batch_691fdc71d2008190aa957d05d15001f9",
       "retry_batches": [],
-      "total_tokens": 16135,
-      "processing_time_hours": 0
+      "total_tokens": 22788,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "media/2025/nov/21/bbc-losing-potential-licence-fee-revenue-say-mps",
+      "title": "BBC is losing £1bn a year in potential licence fee revenue, say MPs",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/21/bbc-losing-potential-licence-fee-revenue-say-mps",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/21/bbc-losing-potential-licence-fee-revenue-say-mps",
+      "section": "media",
+      "publishedDate": "2025-11-21T00:01:54Z",
+      "trailText": "Public accounts committee calculates cost of households either evading the fee or saying they don’t need one",
+      "summary": "MPs estimate BBC losing over £1bn annually to licence fee evasion and non-need claims. Evasion, at 12.5%, costs £550m; households rejecting licences rose from 2.4m to 3.6m, costing £617m. Despite 2m unlicensed-home visits, prosecutions fell 17%, stalling enforcement. With charter renewal talks looming amid Tim Davie’s resignation and digital competition from YouTube and TikTok, MPs warn the BBC faces severe pressure and urge modernised, online-focused fee collection. The BBC says it’s exploring fairer, sustainable funding to safeguard universal public service.",
+      "summaryTokens": 1208,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
+    },
+    {
+      "id": "media/2025/nov/20/ofcom-at-risk-of-losing-public-trust-over-online-harms-says-liz-kendall",
+      "title": "Ofcom at risk of losing public trust over online harms, says Liz Kendall",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/20/ofcom-at-risk-of-losing-public-trust-over-online-harms-says-liz-kendall",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/20/ofcom-at-risk-of-losing-public-trust-over-online-harms-says-liz-kendall",
+      "section": "media",
+      "publishedDate": "2025-11-20T22:30:52Z",
+      "trailText": "Technology secretary fears digital frontier may be outpacing regulator, with AI chatbots a particular concern",
+      "summary": "UK technology secretary Liz Kendall warned Ofcom that its failure to enforce the Online Safety Act swiftly—full implementation not expected until mid-2027—risks eroding public trust. She expressed concern over AI chatbots’ impact on children after US teen suicides linked to ChatGPT and Character.AI, and praised Ofcom’s £50,000 fine on a ‘nudify’ app. Speaking at a new AI growth zone launch promising £10bn in investment and 5,000 jobs, Kendall urged tougher regulation and support for homegrown AI startups.",
+      "summaryTokens": 483,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
+    },
+    {
+      "id": "media/2025/nov/20/why-sky-sports-tiktok-channel-for-female-fans-was-a-disaster",
+      "title": "Why Sky Sports’ TikTok channel for female fans was a disaster | Letters",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/20/why-sky-sports-tiktok-channel-for-female-fans-was-a-disaster",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/20/why-sky-sports-tiktok-channel-for-female-fans-was-a-disaster",
+      "section": "media",
+      "publishedDate": "2025-11-20T17:46:15Z",
+      "trailText": "Letter: Sports marketing needs a fundamental shift to reflect how women and girls enjoy sports, says Kate Dale",
+      "summary": "In a letter, Kate Dale critiques Sky Sports’ TikTok channel Halo—deemed “unbelievably sexist” and shuttered after just three days—for treating women and girls as a homogeneous “girlies” trend. She argues that sports marketing too often reduces diverse female fans to a single trope, missing genuine enjoyment of activity. Dale calls for a fundamental shift toward authentic, inclusive representation that reflects all forms of women’s movement. Emphasizing that representation shapes belonging, she warns that exclusionary campaigns risk alienating women and insists sport and physical activity must be relatable and accessible to women of every background.",
+      "summaryTokens": 618,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
+    },
+    {
+      "id": "media/2025/nov/20/us-watchdog-trump-ally-investigates-bbc-panorama-edit-january-6-speech",
+      "title": "US watchdog led by Trump ally investigates BBC Panorama edit of January 6 speech",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/20/us-watchdog-trump-ally-investigates-bbc-panorama-edit-january-6-speech",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/20/us-watchdog-trump-ally-investigates-bbc-panorama-edit-january-6-speech",
+      "section": "media",
+      "publishedDate": "2025-11-20T14:50:27Z",
+      "trailText": "Brendan Carr, head of FCC, asks if programme ever aired in US which is seen as key to any future litigation",
+      "summary": "FCC chair Brendan Carr, a Trump ally, has launched an inquiry into whether BBC Panorama’s Jan.6 2021 speech edit aired in the US, writing to BBC DG Tim Davie and heads of NPR and PBS. The BBC apologised; DG Tim Davie and news chief Deborah Turness resigned after splicing clips that implied Trump urged rioters “to fight like hell.” Trump has threatened a $5bn defamation suit in Florida. The BBC refuses to confirm US broadcasts; legal experts say jurisdiction and evidence may undermine any case.",
+      "summaryTokens": 1504,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
+    },
+    {
+      "id": "australia-news/2025/nov/20/ita-buttrose-airs-unapologetic-views-immigration-albanese-abc-hard-chat",
+      "title": "Ita Buttrose airs unapologetic views on immigration as Albanese returns to ABC Hard Chat a decade on | Weekly Beast",
+      "webUrl": "https://www.theguardian.com/australia-news/2025/nov/20/ita-buttrose-airs-unapologetic-views-immigration-albanese-abc-hard-chat",
+      "apiUrl": "https://content.guardianapis.com/australia-news/2025/nov/20/ita-buttrose-airs-unapologetic-views-immigration-albanese-abc-hard-chat",
+      "section": "media",
+      "publishedDate": "2025-11-20T14:12:02Z",
+      "trailText": "Former ABC chair says Australia has allowed ‘divisive groups’ into the country. Plus: national broadcaster unveils plans for more short-form news video",
+      "summary": "At 83, ex-ABC chair Ita Buttrose used her memoir tour to warn Australia’s vaunted multicultural experiment is faltering, blaming ‘divisive groups’ and urging newcomers to ‘live our way.’ Meanwhile, Prime Minister Anthony Albanese honoured a decade-old promise by returning to ABC’s satirical Hard Chat with Tom Gleeson—complete with photo op and dog Toto. Backstage, ABC boss Hugh Marks unveiled a bumper 2026 slate of 60 local dramas from an Evonne Goolagong Cawley biopic to the robodebt miniseries Shakedown, and pledged new short-form news videos via ABC News Loop.",
+      "summaryTokens": 1100,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
+    },
+    {
+      "id": "media/2025/nov/20/edinburgh-tv-festival-could-move-cost-working-class-voices",
+      "title": "Edinburgh TV Festival could leave Edinburgh",
+      "webUrl": "https://www.theguardian.com/media/2025/nov/20/edinburgh-tv-festival-could-move-cost-working-class-voices",
+      "apiUrl": "https://content.guardianapis.com/media/2025/nov/20/edinburgh-tv-festival-could-move-cost-working-class-voices",
+      "section": "media",
+      "publishedDate": "2025-11-20T09:00:02Z",
+      "trailText": "Organisers look at other UK venues amid concerns over costs and industry’s lack of working-class voices",
+      "summary": "For nearly 50 years the Edinburgh TV festival has convened Britain’s broadcasting elite each summer, but surging hotel costs and a shortage of working-class voices have prompted a strategic review. Organisers are inviting UK venues to bid for the 2027 event, aiming to broaden access, cut delegate expenses and bolster charitable outreach. Edinburgh remains eligible, though London is unlikely given July–August rates topping $674/day for diplomats and £399 for two-night stays. Spurred by James Graham’s MacTaggart critique on class representation and research showing a quarter of top execs privately schooled, plus freelancers’ post-Covid woes, the festival seeks change.",
+      "summaryTokens": 1012,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
+    },
     {
       "id": "media/2025/nov/19/rfk-jr-olivia-nuzzi-ryan-lizza",
       "title": "The infidelity saga of RFK Jr, Nuzzi and her ex is unspooling: ‘It’s like they’ve opened all their trench coats’",
@@ -29,9 +101,9 @@
       "section": "media",
       "publishedDate": "2025-11-19T19:00:21Z",
       "trailText": "The rollout of reporter Olivia Nuzzi’s memoir has led to Ryan Lizza airing out her alleged affairs – and is fueling a dangerous stereotype about journalists",
-      "summary": "Olivia Nuzzi’s memoir excerpt in Vanity Fair reveals an “emotional affair” with Robert F. Kennedy Jr., prompting ex-fiancé Ryan Lizza to self-publish an essay alleging her affair with Mark Sanford. The back-and-forth drama—amplified by a glamorous New York Times profile—has stoked media schadenfreude and spotlighted conflicts of interest in journalism. Experts warn that such salacious tell-alls reinforce damaging stereotypes, erode public trust (just 28% now trust the news), and blur ethical lines between reporters and sources. Both Nuzzi and Lizza, each with past controversies, are blamed for self-promoting at the expense of journalistic credibility.",
-      "summaryTokens": 1020,
-      "generatedAt": "2025-11-20T03:25:16.685Z"
+      "summary": "Olivia Nuzzi published excerpts of her memoir revealing an emotional affair with Robert F. Kennedy Jr., while ex-fiancé Ryan Lizza countered with a self-published essay accusing her of a separate liaison with Mark Sanford. The public back-and-forth between two high-profile political reporters has fueled schadenfreude in media circles, revived stereotypes about journalists’ ethics, and risked further eroding public trust. Critics warn such personal exposés blur conflicts of interest, reinforce tropes of corruptible female reporters, and underscore journalism’s broader credibility crisis amid dwindling audience confidence.",
+      "summaryTokens": 938,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
     },
     {
       "id": "media/2025/nov/19/peers-independent-body-control-telegraph-sale",
@@ -41,9 +113,9 @@
       "section": "media",
       "publishedDate": "2025-11-19T18:53:46Z",
       "trailText": "Lords say culture department has mishandled process and suggest CMA or Cabinet Office oversee new auction",
-      "summary": "Peers in the House of Lords urged culture secretary Lisa Nandy to transfer control of the Telegraph sale to an independent body—such as the Competition and Markets Authority or Cabinet Office—after RedBird IMI’s US partner withdrew, triggering a restart. Liberal Democrat Christopher Fox demanded a “white knight” auction outside DCMS, while Conservative Michael Forsyth backed a CMA‐led sale under the new Foreign State Influence regime. DCMS minister Fiona Twycross defended current oversight but could still refer RedBird’s UAE-linked bid to the CMA. A forced market-led auction at £350m–£500m risks straining UK–UAE ties. Potential bidders include Sir Paul Marshall, DMGT, Lord Saatchi and Lynn Forester de Rothschild.",
-      "summaryTokens": 769,
-      "generatedAt": "2025-11-20T03:25:16.685Z"
+      "summary": "House of Lords peers have urged culture secretary Lisa Nandy to override RedBird IMI’s stewardship of the Telegraph sale—dominated by UAE funding—and transfer the auction to an independent body like the Competition and Markets Authority or Cabinet Office, citing DCMS mismanagement after RedBird Capital’s withdrawal. Nandy could invoke new Foreign State Influence powers to force a market-led sale. Politically sensitive due to a potential £150m loss for Abu Dhabi-backed IMI, the process could attract bids from Sir Paul Marshall, DMGT or other investors under fresh competition scrutiny.",
+      "summaryTokens": 998,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
     },
     {
       "id": "media/2025/nov/19/mishal-husain-bbc-board-appointments-existential-crisis",
@@ -53,9 +125,9 @@
       "section": "media",
       "publishedDate": "2025-11-19T10:48:46Z",
       "trailText": "Former BBC journalist says change needed to win back public trust, as executives prepare to be questioned by MPs",
-      "summary": "Former BBC journalist Mishal Husain describes the corporation’s crisis as “existential” and urges ministers to stop appointing board members, proposing a non-partisan system and splitting the director-general’s CEO and editor-in-chief roles. Her call follows the resignations of DG Tim Davie and news chief Deborah Turness amid accusations of right-wing bias over Robbie Gibb’s board seat and a controversial Panorama edit of Trump’s Capitol speech. MPs will question chair Samir Shah, non-execs Gibb and Thomson, and adviser Michael Prescott next week.",
-      "summaryTokens": 488,
-      "generatedAt": "2025-11-20T03:25:16.685Z"
+      "summary": "Former BBC anchor Mishal Husain warns of an ‘existential’ crisis at the corporation as MPs prepare to quiz executives following the resignations of DG Tim Davie and CEO Deborah Turness. She criticises political appointments—like ex-Tory press secretary Robbie Gibb—arguing government-controlled board selections undermine public trust. Husain calls for splitting the DG’s chief executive and editor-in-chief roles and implementing non-partisan board appointments. At next week’s culture committee hearing, chair Samir Shah and non-executives Gibb and Caroline Thomson will face questions alongside advisory editor Michael Prescott, whose leaked report on a misleading Trump Panorama clip spurred resignations and a threatened $1bn–$5bn lawsuit from Trump.",
+      "summaryTokens": 1157,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
     },
     {
       "id": "media/2025/nov/19/john-laws-state-funeral-tribute-from-russell-crowe-for-radio-star",
@@ -65,9 +137,9 @@
       "section": "media",
       "publishedDate": "2025-11-19T05:27:00Z",
       "trailText": "John Howard, billionaire Lindsay Fox and Dawn Fraser among mourners at service for broadcaster known as ‘the Golden Tonsils’",
-      "summary": "At Sydney’s St Andrew’s Cathedral, radio legend John Laws, the ‘Golden Tonsils,’ was commemorated at his state funeral by friends including Russell Crowe, who recalled Laws’ Wild Turkey birthday gift and cash-for-comment controversy. Over seven decades, Laws sold everything from Valvoline to Toyotas, amassed 2 million listeners, won 92 surveys, interviewed 16 prime ministers and charmed audiences with his baritone. Mourners included John Howard, Lindsay Fox and Dawn Fraser. Eulogists Paul Warren and Reverend Michael Jensen praised his versatility, common touch and enduring mantra: “Be kind to each other.”",
-      "summaryTokens": 755,
-      "generatedAt": "2025-11-20T03:25:16.686Z"
+      "summary": "Academy Award winner Russell Crowe led tributes at broadcaster John Laws’s state funeral in Sydney’s St Andrews Cathedral, mixing irreverence—recalling a Wild Turkey bourbon gift to Crowe’s son and Laws’s 1999 cash-for-comment scandal—with respect for his “Golden Tonsils” baritone and seven-decade career. Eulogist Paul Warren praised Laws’s versatility—from selling Valvoline and Toyotas to singing on Skippy—92 consecutive radio survey wins and interviews with 16 prime ministers. Among 800 mourners were John Howard, Lindsay Fox, Dawn Fraser, Chris Minns and Governor Margaret Beazley, while Reverend Michael Jensen celebrated his common touch and kindness mantra: “Be kind to each other.”",
+      "summaryTokens": 778,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
     },
     {
       "id": "media/2025/nov/19/hugh-marks-decries-opportunistic-attacks-on-the-abc-but-concedes-broadcaster-blew-it-with-bluey",
@@ -77,9 +149,9 @@
       "section": "media",
       "publishedDate": "2025-11-19T05:24:07Z",
       "trailText": "ABC managing director tells National Press Club comparisons between BBC program edit and Four Corners episode are not legitimate",
-      "summary": "ABC managing director Hugh Marks rejected comparisons between its Four Corners edit of Trump’s speech and the BBC’s Panorama scandal as “opportunistic” and unfounded, while acknowledging lessons from the BBC error. He also conceded the ABC missed out on hundreds of millions by under-monetising its co-production Bluey, urging more commercial models. Marks highlighted the ABC’s independent governance, called for embracing scrutiny without defensive reflexes, owning mistakes promptly, and focusing staff on accuracy and impartiality amid external noise.",
-      "summaryTokens": 806,
-      "generatedAt": "2025-11-20T03:25:16.686Z"
+      "summary": "Hugh Marks, ABC managing director, lambasted Sky News and The Australian for “opportunistic” comparisons between ABC’s Four Corners edit of Trump’s 6 January 2021 speech and the BBC Panorama scandal, deeming them illegitimate. He conceded ABC failed to monetise Bluey—co-produced with the BBC—which generates about $300 million a year in licensing. Marks highlighted the ABC’s independent governance, urged a shift from defensiveness to owning mistakes, and welcomed reasonable scrutiny while shielding staff from distracting noise.",
+      "summaryTokens": 621,
+      "generatedAt": "2025-11-21T03:31:53.912Z"
     },
     {
       "id": "media/2025/nov/18/abc-trump-capitol-speech-news-corp-bbc",
