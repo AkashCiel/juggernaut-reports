@@ -1,26 +1,290 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-20T03:50:54.074Z",
+    "generated_at": "2025-11-21T03:45:15.728Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-20"
+      "to": "2025-11-21"
     },
-    "article_count": 1304,
+    "article_count": 1326,
     "merge_info": {
-      "previous_count": 1286,
-      "new_articles": 18,
-      "updated_articles": 25,
-      "total_count": 1304
+      "previous_count": 1304,
+      "new_articles": 22,
+      "updated_articles": 21,
+      "total_count": 1326
     },
     "batch_info": {
-      "initial_batch_id": "batch_691e8f4fd94881908f334f74978e396f",
+      "initial_batch_id": "batch_691fdfa884108190af2c97d8c46df002",
       "retry_batches": [],
-      "total_tokens": 91596,
-      "processing_time_hours": 0.1
+      "total_tokens": 97806,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/nov/20/trump-news-at-a-glance-democrats",
+      "title": "Trump news at a glance: president says Democrats should be arrested for ‘seditious behavior’, drawing outrage",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/trump-news-at-a-glance-democrats",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/trump-news-at-a-glance-democrats",
+      "section": "us-news",
+      "publishedDate": "2025-11-21T02:03:59Z",
+      "trailText": "After Trump logged on and chose violence, Democratic leaders condemned his ‘disgusting and dangerous death threats’",
+      "summary": "On Truth Social, President Trump labeled several Democratic lawmakers as engaging in “SEDITIOUS BEHAVIOR, punishable by DEATH,” urged their arrest and reposted “HANG THEM” rhetoric. House Democratic leaders Hakeem Jeffries, Katherine Clark and Pete Aguilar condemned the death threats, demanded he delete the posts and alerted Capitol security; the White House later clarified he did not seek executions. The roundup also covers Zelenskyy’s planned talks with Trump on a US-Russia peace draft, new offshore drilling off California and Florida, a revised CDC vaccine-autism page under RFK Jr, a judge blocking Guard deployment to DC, a DOJ probe into Adam Schiff mortgage fraud, proposed rollbacks to the Endangered Species Act, bipartisan pressure to release Epstein files, Elizabeth Warren’s call for inquiry into White House ballroom donations, and Trump and Vance being snubbed at Dick Cheney’s funeral.",
+      "summaryTokens": 735,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/white-house-defends-trump-piggy-insult",
+      "title": "White House press secretary defends Trump’s ‘piggy’ insult",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/white-house-defends-trump-piggy-insult",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/white-house-defends-trump-piggy-insult",
+      "section": "us-news",
+      "publishedDate": "2025-11-21T00:52:24Z",
+      "trailText": "Karoline Leavitt says president ‘calls out fake news when he sees it’ after remark to reporter draws severe condemnation",
+      "summary": "Karoline Leavitt defended President Trump’s \"piggy\" jab at Bloomberg correspondent Catherine Lucey, claiming he \"calls out fake news\" and offers \"unprecedented access,\" though she cited no evidence. The Air Force One clash over Epstein files and his earlier \"terrible person\" remark to ABC’s Mary Bruce spurred widespread journalist backlash and a Society of Professional Journalists rebuke, warning that targeting women reporters undermines press freedom.",
+      "summaryTokens": 1477,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration",
+      "title": "Mahmoud Khalil sues Trump officials over ‘collusion’ with anti-Palestinian groups",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration",
+      "section": "us-news",
+      "publishedDate": "2025-11-21T00:25:26Z",
+      "trailText": "Activist detained by ICE condemns ‘smear and harassment campaign’ and demands release of key communications",
+      "summary": "Palestinian activist Mahmoud Khalil, detained by ICE in March for pro-Palestine protests at Columbia University, sued the Trump administration to release records of its communications with anti-Palestinian groups he alleges colluded to build dossiers against him. The Center for Constitutional Rights cites Betar USA’s “deport list,” posts by Documenting Jew Hatred on Campus and others claiming they shared his personal data with ICE and government officials. The lawsuit seeks ICE, DHS, DOJ and State Department correspondence with ten organizations, alleges false imprisonment, malicious prosecution and antisemitism smears, seeking $20m in damages. It highlights government retaliation against pro-Palestine speech and student activists.",
+      "summaryTokens": 3065,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida",
+      "title": "White House announces new oil and gas drilling off California and Florida",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T23:54:35Z",
+      "trailText": "But Sunshine state Republicans might oppose drilling off state’s famous beaches that keep tourism dollars coming in",
+      "summary": "Trump’s administration unveiled a draft offshore leasing plan for 2026–31 to open federal waters off California, Florida’s eastern Gulf and Alaska—ending a 1995 drilling ban—to bolster jobs, energy independence and domestic oil supply amid low crude prices. The proposal outlines 34 auctions: six off California, two in the eastern Gulf, 21 in Alaska (including virgin areas). Gov. Gavin Newsom and Florida Republicans led by Senators Rick Scott and Ashley Moody, concerned about tourism and spill risks, vow to block new drills, intensifying a partisan showdown over climate and coastal economies.",
+      "summaryTokens": 868,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/cdc-website-vaccines-autism",
+      "title": "CDC website altered to reflect RFK Jr’s belief in link between vaccines and autism",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/cdc-website-vaccines-autism",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/cdc-website-vaccines-autism",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T23:30:12Z",
+      "trailText": "Public health and autism specialists roundly condemn alteration to the ‘vaccine safety’ webpage",
+      "summary": "After RFK Jr’s appointment as HHS secretary, the CDC altered its Vaccine Safety page to declare “Vaccines do not cause autism” an unevidenced claim and cite ignored studies supporting a link, without new research. The update—applied despite backlash from CDC scientists and autism specialists—added an asterisk and a note preserving the original statement under Senate HELP Committee chair Bill Cassidy’s agreement. Critics, including former CDC officials, the Autism Science Foundation and American Academy of Pediatrics, condemn the ideologically driven change that bypassed scientific review and threatens public trust in vaccines.",
+      "summaryTokens": 987,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/ro-khanna-epstein-files-release-warning",
+      "title": "Congressman Ro Khanna warns officials not to impede Epstein files release: ‘They will be prosecuted’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/ro-khanna-epstein-files-release-warning",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/ro-khanna-epstein-files-release-warning",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T22:18:03Z",
+      "trailText": "California lawmaker says names of anyone involved in Epstein’s crimes must come to light, Democrat or Republican",
+      "summary": "Democratic Rep. Ro Khanna led passage of the Epstein Files Transparency Act, working with GOP Rep. Thomas Massie to force a House vote via discharge petition, overcoming Speaker Mike Johnson’s resistance and a 43-day shutdown. President Trump dropped his opposition and signed the bill, compelling the DOJ to release Jeffrey Epstein and Ghislaine Maxwell records within 30 days. Khanna warned career officials they risk contempt and criminal charges if they withhold files, and urged subpoenaing Prince Andrew (Andrew Mountbatten-Windsor). He says Democrats will hold noncompliant officials accountable once they regain the House, seeking elite accountability regardless of party.",
+      "summaryTokens": 1010,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/san-francisco-bay-area-poverty-increase",
+      "title": "Bay Area’s poverty soared, data shows, as California’s top earners saw windfalls",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/san-francisco-bay-area-poverty-increase",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/san-francisco-bay-area-poverty-increase",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T22:04:28Z",
+      "trailText": "Poverty rate jumped from 12.2% to 16.3% in 2023 in state, Tipping Point Community report finds",
+      "summary": "In 2023 the Bay Area poverty rate climbed from 12.2% to 16.3%, leaving 1.02M residents in poverty and another 12.5% (≈790k) near the threshold. Since 2016 incomes rose 34% but living costs surged 46% (2021-23: incomes +10%, costs +18%, groceries +17%), erasing gains that had cut poverty to 10.8% by 2021. Half of those in poverty live in households with a full-time worker. Poverty grew across races—white 9.3→10.6%, Black 15.8→22.1%, Latino 20.3→26%, Asian 9.6→14.1%—while California’s wealthiest reap record gains: nine Silicon Valley households hold 15% of regional wealth, .1% control 71%.",
+      "summaryTokens": 937,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/dick-cheney-funeral-washington",
+      "title": "Tears and solemnity at Cheney funeral – but no memorial for those killed in Iraq",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/dick-cheney-funeral-washington",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/dick-cheney-funeral-washington",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T21:44:26Z",
+      "trailText": "Great and good pay tribute in Washington but honouring of former vice-president was an exercise in omission",
+      "summary": "Dick Cheney, the 46th US vice-president, was honored at Washington Cathedral by ex-presidents and leading Democrats and Republicans—Trump and JD Vance notably uninvited. A flag-draped casket, tearful eulogies and gothic grandeur masked controversial legacies: Cheney’s expansion of presidential power, Patriot Act surveillance, enhanced interrogation and false WMD claims that fueled the Iraq invasion and later eroded trust in politicians. George W. Bush lauded his restraint; Liz Cheney recalled his constitutional devotion and break with Trump. Yet no tribute marked the hundreds of thousands killed in Iraq. The ceremony’s omissions underscored a national blind spot between domestic valorization and the costs of Cheney’s foreign policies.",
+      "summaryTokens": 1150,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/adam-schiff-mortgage-fraud-investigation-doj",
+      "title": "Justice department investigates handling of Adam Schiff’s mortgage fraud case",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/adam-schiff-mortgage-fraud-investigation-doj",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/adam-schiff-mortgage-fraud-investigation-doj",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T21:24:51Z",
+      "trailText": "Inquiry centers on whether two Trump allies influenced the Schiff mortgage investigation as prosecutors struggle to build the case",
+      "summary": "The DOJ’s Office of Deputy AG Todd Blanche has opened an internal probe into whether Trump allies Bill Pulte and Ed Martin improperly influenced the Maryland grand jury mortgage-fraud investigation targeting Senator Adam Schiff. A subpoena to Christine Bish, an FHFA associate linked to Pulte, seeks her communications with Pulte, Martin, financial-fraud expert Robert Bowes and consultant Scott Strauss. This review—coming as prosecutors struggle to build their case—could undercut charges if misconduct is found, and follows earlier DOJ resistance, led by Blanche and AG Pam Bondi, to politicized prosecutions. Pulte has also referred other Democratic figures to DOJ, raising further oversight questions.",
+      "summaryTokens": 499,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/pelosi-trump-con-job-climate",
+      "title": "Pelosi calls Trump ‘the biggest con job in American history’ in reply to climate comment",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/pelosi-trump-con-job-climate",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/pelosi-trump-con-job-climate",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T21:20:55Z",
+      "trailText": "US speaker emerita criticizes Trump’s anti-climate stance and his remarks to the UN general assembly",
+      "summary": "Nancy Pelosi labeled Donald Trump “the biggest con job in American history” as Democrats on the Senate Environment and Public Works Committee criticized his refusal to send a U.S. delegation to Cop30 in Brazil after withdrawing from the Paris climate accord. Senator Sheldon Whitehouse, forced to attend as an NGO observer, denounced Trump’s fossil-fuel donor influence and dark-money tactics. Fresh polling from Data for Progress shows 65% of voters back ambitious climate measures and 55% support phasing out fossil fuels. House Democratic leader Hakeem Jeffries warned the U.S. has ceded global leadership to China.",
+      "summaryTokens": 867,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/democrats-condemn-trump-military-video-post",
+      "title": "Outrage after Trump accuses Democrats of ‘seditious behavior, punishable by death’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/democrats-condemn-trump-military-video-post",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/democrats-condemn-trump-military-video-post",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T20:15:45Z",
+      "trailText": "US president roundly decried for Truth Social post after lawmakers told military personnel to refuse illegal orders",
+      "summary": "Trump posted on Truth Social accusing six Democratic lawmakers—Senators Elissa Slotkin and Mark Kelly and Reps Maggie Goodlander, Chris Deluzio, Chrissy Houlahan and Jason Crow—of “seditious behavior” punishable by death after they urged active-duty troops to refuse illegal orders in a video. House Democratic leaders Hakeem Jeffries, Katherine Clark and Pete Aguilar condemned the president’s death threats and arranged USCP protection; Senate Minority Leader Chuck Schumer and the veteran lawmakers also denounced Trump’s calls for violence. Speaker Mike Johnson criticized the refusal message as unprecedented, and White House Press Secretary Karoline Leavitt insisted Trump isn’t seeking executions.",
+      "summaryTokens": 756,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/epstein-files-republicans-warn-bondi",
+      "title": "Republicans warn Bondi not to bury Epstein files after law’s passage",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/epstein-files-republicans-warn-bondi",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/epstein-files-republicans-warn-bondi",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T19:56:53Z",
+      "trailText": "Senators push the attorney general to release Epstein records within 30 days, fearing delays or sweeping redactions",
+      "summary": "Within hours of Trump’s signing the Epstein Files Transparency Act, Republican senators pressured AG Pam Bondi to release unclassified DOJ files on Jeffrey Epstein within 30 days, warning against delays or sweeping redactions via active-investigation or minor-protection exemptions. The law’s rare bipartisan support came after Trump’s initial opposition. Senators Murkowski and Tillis cautioned that broad holds could fuel public distrust, while Kennedy and Thune expressed optimism the first tranche would arrive post-Thanksgiving. The legislation also covers Ghislaine Maxwell correspondence, requires searchable format, and hinges on Bondi’s adherence to both transparency and victim protections.",
+      "summaryTokens": 807,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/senate-report-cia-assassination-plots-gerald-ford",
+      "title": "Documents reveal Gerald Ford’s effort to block report on CIA assassination plots",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/senate-report-cia-assassination-plots-gerald-ford",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/senate-report-cia-assassination-plots-gerald-ford",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T19:34:20Z",
+      "trailText": "Release of documents comes amid conjecture Trump may have authorized the agency to assassinate Venezuelan president",
+      "summary": "Documents released by the National Security Archive reveal that in 1975 Gerald Ford’s White House—prompted by Dick Cheney and backed by CIA director William Colby and Henry Kissinger—tried to block publication of the Senate Church committee’s 285-page report exposing CIA assassination plots against Fidel Castro, Patrice Lumumba and Chile’s René Schneider. Ford accepted recommendations to oppose its release, warning of “damage to the nation.” Despite this, the report led to executive orders banning peacetime political killings. Its 50th anniversary arrives as speculation mounts that Donald Trump may consider a similar plot against Venezuela’s Nicolás Maduro.",
+      "summaryTokens": 1135,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/connie-chan-congressional-run",
+      "title": "Connie Chan, progressive San Francisco lawmaker, enters race to succeed Pelosi",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/connie-chan-congressional-run",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/connie-chan-congressional-run",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T19:22:12Z",
+      "trailText": "San Francisco supervisor, 47, highlighting work on affordability for working families in US House run",
+      "summary": "Connie Chan, 47, progressive San Francisco supervisor, has launched her bid for Nancy Pelosi’s vacant US House seat, positioning her campaign as a fight for “local neighborhoods versus outside money” and promising real affordable housing. A labor ally born in Hong Kong, Chan highlighted her roots as a working-mom immigrant and her narrow 2020 board victory, re-elected in 2024 with Pelosi’s backing. She joins state senator Scott Wiener and former AOC aide Saikat Chakrabarti, contrasting her grassroots funding and community focus with their tech-backed campaigns. If elected, Chan would be San Francisco’s first Asian American in Congress, paying homage to Pelosi’s legacy while pledging inclusive reform.",
+      "summaryTokens": 1015,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/dick-cheney-funeral-trump-vance",
+      "title": "Donald Trump and JD Vance snubbed for Dick Cheney’s funeral",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/dick-cheney-funeral-trump-vance",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/dick-cheney-funeral-trump-vance",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T18:23:42Z",
+      "trailText": "Joe Biden and George W Bush attend Republican’s service, while Barack Obama and Bill Clinton are notable absentees",
+      "summary": "Dick Cheney’s National Cathedral funeral excluded Donald Trump and JD Vance, while hosting a front-row bipartisan group—George W. Bush (who eulogized him), Joe Biden, Kamala Harris, Mike Pence, Al Gore, Dan Quayle, Nancy Pelosi, Chief Justice John Roberts and MSNBC’s Rachel Maddow. Barack Obama and Bill Clinton were notably absent. Trump’s snub reflected his feud with Cheney’s daughter Liz, whose eulogy invoked her father’s commitment to the Constitution over party and referenced her role on the January 6 committee. Cheney’s career spanned Nixon’s White House, a decade in Congress, defense secretary under George H.W. Bush and vice-president under George W. Bush.",
+      "summaryTokens": 833,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/19/san-diego-teachers-ice-patrols",
+      "title": "After ICE took students’ parents, these teachers began rising at dawn to keep watch: ‘We said, hell no’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/19/san-diego-teachers-ice-patrols",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/19/san-diego-teachers-ice-patrols",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T18:03:23Z",
+      "trailText": "With students terrified and arrests rising, educators in San Diego are scanning streets, sharing alerts and defending the right to feel safe",
+      "summary": "In San Diego, educators from the Association of Raza Educators now rise before dawn to patrol neighborhoods near schools, spotting unmarked ICE SUVs by their tinted windows, prison partitions and radios. They relay warnings via walkie-talkies, social media and megaphones after DHS rescinded sensitive-location safeguards. Their actions aim to shield terrified students—like citizen freshman Azda and her undocumented sister Guadalupe—from sudden parental arrests. Beyond morning patrols, teachers host know-your-rights seminars and back city efforts requiring warrants for federal enforcement on public grounds, all to defend children’s right to a safe, free public education.",
+      "summaryTokens": 683,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/elizabeth-warren-trump-ballroom",
+      "title": "‘Golden crime scene’: Elizabeth Warren calls for inquiry into Trump’s ballroom funding",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/elizabeth-warren-trump-ballroom",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/elizabeth-warren-trump-ballroom",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T18:00:24Z",
+      "trailText": "The top Democrat on the Senate banking committee says private funding for Trump’s ballroom poses serious corruption concerns",
+      "summary": "Senator Elizabeth Warren urged the next DOJ to probe the $300 million private fundraising for Donald Trump’s White House ballroom, calling it a “golden crime scene” and warning federal bribery charges still lie within a five-year statute. Major donors include Apple, Amazon, Meta, Google, Microsoft, Palantir, Lockheed Martin, Booz Allen and Comcast, many with existing government contracts. Warren and Rep. Robert Garcia introduced the Stop Ballroom Bribery Act to ban conflicted donations, impose a two-year cooling-off period, mandate public disclosures and bar foreign gifts, though passage in GOP-led chambers seems unlikely.",
+      "summaryTokens": 489,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/charlotte-north-carolina-ice-raids",
+      "title": "‘I lose my liberty in that moment’: Charlotte shuts down as citizens and noncitizens alike face ICE arrests",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/charlotte-north-carolina-ice-raids",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/charlotte-north-carolina-ice-raids",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T14:00:11Z",
+      "trailText": "As federal agents descend in North Carolina, businesses close as even an after-school program is targeted",
+      "summary": "ICE’s “Operation Charlotte’s Web” sent CBP and Border Patrol agents into Charlotte over the weekend, arresting 250 + immigrants statewide under Trump’s mass deportation agenda. Businesses on immigrant-centric Central Avenue—like Manolo’s Bakery—closed in solidarity, while locals camped in parking lots to protest. Agents even detained US citizens such as Puerto Rican‐born Gerardo Ortiz for his accent. CBP’s attempted raid on OurBridge after-school program prompted suspension of services, and Charlotte schools saw 30,000 absences. Mecklenburg commissioners passed an immigrant‐support resolution; Charlotte police refused ICE cooperation. Legal advocates moved hearings online as families stay home in fear, while DHS defends the surge as necessary against sanctuary politicians.",
+      "summaryTokens": 576,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/first-thing-us-and-russian-officials-draft-plan-to-end-ukraine-war-based-on-capitulation-from-kyiv",
+      "title": "First Thing: US and Russian officials draft plan to end Ukraine war based on capitulation from Kyiv",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/first-thing-us-and-russian-officials-draft-plan-to-end-ukraine-war-based-on-capitulation-from-kyiv",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/first-thing-us-and-russian-officials-draft-plan-to-end-ukraine-war-based-on-capitulation-from-kyiv",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T13:24:05Z",
+      "trailText": "The plan, which is likely to be viewed as ‘surrender’ by Kyiv, is facing pushback from the EU. Plus, Trump signs bill to compel release of more Epstein documents",
+      "summary": "US and Russian officials—via an informal backchannel led by Trump envoy Steve Witkoff and Kremlin adviser Kirill Dmitriev—have drafted a blueprint to end the Ukraine war conditioned on Kyiv’s capitulation: ceding eastern territory, halving its army and curbing US aid. The EU is resisting, and formal US endorsement remains unclear. Separately, President Trump reversed course to sign a bill mandating release of all Jeffrey Epstein investigation files, including autopsy records, despite prior objections. His recent ‘piggy’ insult to Bloomberg reporter Catherine Lucey on Air Force One has reignited criticism over his attacks on the press.",
+      "summaryTokens": 1021,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/trump-endangered-species-act",
+      "title": "Trump officials reveal plan to roll back regulations in Endangered Species Act",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/trump-endangered-species-act",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/trump-endangered-species-act",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T11:00:06Z",
+      "trailText": "Experts fear plan, one of many attempts Trump’s made to dismantle wildlife protection, will speed up extinction crisis",
+      "summary": "The Trump administration unveiled proposals to weaken the Endangered Species Act by allowing economic considerations to override habitat protections, rescinding the “blanket rule” for threatened species, narrowing the definition of critical habitat and delaying safeguards against climate impacts. Critics warn these changes—part of a broader push to prioritize energy and industrial access—could accelerate extinctions of wolverines, monarch butterflies, manatees and others. Officials claim the rollback restores the ESA’s original intent and respects landowner livelihoods. A 30-day public comment period begins Friday, and conservation groups vow fierce opposition.",
+      "summaryTokens": 860,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/warner-bros-discovery-takeover-paramount-skydance-larry-ellison",
+      "title": "Larry Ellison discussed axing CNN hosts with White House in takeover bid talks",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/warner-bros-discovery-takeover-paramount-skydance-larry-ellison",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/warner-bros-discovery-takeover-paramount-skydance-larry-ellison",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T11:00:05Z",
+      "trailText": "Exclusive: Senior officials indicated favorability toward Paramount Skydance acquiring Warner Bros Discovery",
+      "summary": "Senior White House officials have privately signaled support for Paramount Skydance’s bid to acquire Warner Bros Discovery, favoring its regulatory friendliness. Oracle co-founder Larry Ellison, a major Paramount shareholder, informally discussed with officials potentially axing CNN hosts and programming changes. Ellison’s ties to the White House and Trump boost Paramount’s takeover push ahead of the November 20 bid deadline. The Ellisons leveraged political ties—David Ellison runs Paramount—to strengthen their pitch after WBD opened to offers. Trump’s favorable view of Ellison, following a $16m 60 Minutes settlement, further smooths hurdles. Former antitrust officials deem competition issues unlikely.",
+      "summaryTokens": 2297,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
+    {
+      "id": "us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
+      "title": "In Tennessee, Democrats hope a ‘coalition of the pissed off’ will flip a red district",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
+      "section": "us-news",
+      "publishedDate": "2025-11-20T11:00:05Z",
+      "trailText": "With a platform focused on cost of living, Aftyn Behn wants to turn the US House seat blue for the first time since 1983",
+      "summary": "Aftyn Behn, a progressive state representative, is the Democratic nominee in Tennessee’s special election for the 7th congressional district on Dec. 2 — a seat Republicans have held since 1983. Running on a cost-of-living platform, she’s building a “coalition of the disenchanted,” emphasizing housing affordability, healthcare access and rejecting corporate PAC money. Polls show GOP Army veteran Matt Van Epps, backed by Trump, the RNC and billionaire donors, still leads by about eight points, down from 21. Behn’s campaign benefits from DNC volunteers and surrogates like Kamala Harris, targeting low-turnout conservative areas with door-to-door outreach.",
+      "summaryTokens": 567,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
+    },
     {
       "id": "us-news/2025/nov/19/trump-sign-bill-epstein-files",
       "title": "Trump signs bill to compel release of more Epstein documents",
@@ -29,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-20T03:01:14Z",
       "trailText": "President attacks Democrats in post on Truth Social after US lawmakers swiftly move bill through Congress",
-      "summary": "President Trump signed legislation requiring the Justice Department to publish within 30 days all unclassified files from the Jeffrey Epstein investigation—including probes into his death, flight logs, travel records, communications with Ghislaine Maxwell, plea deals and related entities—allowing only redactions for victim privacy and barring denials for \"embarrassment\" or political reasons. The move marks a sharp reversal after years of refusal—Trump had called disclosure a \"hoax\"—under mounting pressure from Democrats. He attacked Democratic Epstein ties on Truth Social. Lawmakers rushed the measure through Congress despite Speaker Mike Johnson's stall; scope remains subject to limited exceptions for active investigations.",
-      "summaryTokens": 2284,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Donald Trump, after years branding Epstein file transparency a “hoax,” reversed course under bipartisan and base pressure and signed legislation compelling DOJ to publicly release within 30 days comprehensive files from the Jeffrey Epstein investigation—flight logs, financial records, communications, Maxwell probe, detention and death documents—subject only to limited redactions protecting victims and ongoing probes. Trump touted the move on Truth Social, accusing Democrats of hiding Epstein–party ties. The law bars withholding on reputational or political-sensitivity grounds. After Speaker Mike Johnson stalled the bill, it ultimately passed both chambers.",
+      "summaryTokens": 1625,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/trump-news-at-a-glance-latest-updates-today",
@@ -41,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-20T02:30:26Z",
       "trailText": "Action follows months of resistance from the president and his political allies that fractured his Maga base",
-      "summary": "President Donald Trump signed bipartisan legislation requiring the Justice Department to publicly release unclassified Jeffrey Epstein records—including investigations, flight logs, financial ties and communications—in a searchable, downloadable format within 30 days, reversing his prolonged resistance that fractured his MAGA base. The bill permits redactions to protect victims, active probes and sensitive content. In other developments, a ProPublica-Guardian analysis warns Trump’s anti-climate agenda could cause 1.3 million additional deaths globally; prosecutors admit the final Comey indictment wasn’t shown to a grand jury; a January 6 rioter pardoned by Trump was arrested on child sexual abuse charges; and the State Department plans to suspend 38 universities over DEI policies.",
-      "summaryTokens": 890,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "President Trump signed legislation requiring DOJ to publish unclassified Jeffrey Epstein files within 30 days, reversing his earlier opposition. The bill mandates release of investigations, flight logs, Maxwell ties, plea deals and communications, with redactions for victims’ data and active probes. A ProPublica/Guardian analysis warns Trump’s climate agenda could add 1.3m global deaths; prosecutors admit Comey’s final indictment wasn’t shown to a grand jury; a Jan 6 pardon recipient faces child sex charges; the State Dept. may cut 38 universities from its Diplomacy Lab over DEI; 97% of Chicago raid detainees had no convictions.",
+      "summaryTokens": 814,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/texas-redistricting-case-judge",
@@ -53,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T23:41:37Z",
       "trailText": "Jerry Smith condemns opinion written by Jeffrey Brown and mentions Soros name 17 times in 104-page dissent",
-      "summary": "In a rare 104-page opinion, US District Judge Jerry Smith, a Reagan appointee, lambasted colleague Judge Jeffrey Brown, a Trump appointee, for striking down Texas’s congressional map as discriminatory against non-white voters. Smith accused Brown of publishing before allowing dissent, labeled the ruling “fiction,” and invoked George Soros 17 times, linking lawyers and experts to his Open Society Foundations and alleging influence benefiting Soros and California Governor Gavin Newsom. Texas AG Ken Paxton will appeal to the Supreme Court, while legal scholars caution Smith’s personal attacks may backfire.",
-      "summaryTokens": 994,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Reagan appointee Judge Jerry Smith issued a scathing 104-page dissent condemning Trump appointee Judge Jeffrey Brown’s decision striking down Texas’s congressional map as discriminatory. Smith accused Brown of writing ‘fiction’ before he could respond, invoking George Soros (17 mentions), his son Alex and Gov. Gavin Newsom for allegedly influencing redistricting via Soros-funded groups. He derided an expert as a ‘Soros operative’ but praised opposing lawyers’ integrity. Texas AG Ken Paxton plans to appeal to the Supreme Court, backed by federal AG Pam Bondi, while legal scholars warn Smith’s personal attacks could undermine his arguments.",
+      "summaryTokens": 1003,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/comey-indictment-grand-jury",
@@ -65,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T22:33:28Z",
       "trailText": "Concession by federal lawyers adds to mounting challenges in effort to prosecute the former FBI director",
-      "summary": "Federal prosecutors admitted they never showed the final two-count indictment against James Comey to a full grand jury, undermining a prosecution for one count of false statement to Congress and one count of obstructing a congressional proceeding. The revised document dropped a third charge initially rejected by jurors, and only two panelists saw it. Comey’s team labels the omission a “fatal flaw” nullifying the indictment, while prosecutors argue the counts mirror those approved and deem the error harmless. A judge ordered release of grand jury materials, citing potential misconduct by untrained prosecutor Lindsey Halligan; that order is stayed pending appeal.",
-      "summaryTokens": 1830,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "At a Nov 19 hearing, federal prosecutors admitted lead prosecutor Lindsey Halligan never presented the final two-count indictment against former FBI director James Comey to a full grand jury, showing it only to the foreperson and one juror. Comey’s lawyers argue this procedural lapse nullifies the charges—making a false statement to Congress and obstructing a proceeding—while prosecutors claim the counts duplicate those originally approved and any error is harmless. Legal experts call it a “fatal flaw,” and a magistrate judge has ordered grand jury materials turned over, pending appeal.",
+      "summaryTokens": 1181,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/trump-quiet-piggy",
@@ -77,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T21:36:30Z",
       "trailText": "The clip of the US president on Air Force One last Friday has taken off without much help from the media itself",
-      "summary": "On Air Force One last Friday, President Trump angrily told Bloomberg’s Catherine Lucey “quiet, piggy” when she asked why he resisted releasing Epstein files—one more media barb but striking for its targeting of a female reporter amid a news cycle that also saw him rebuke an ABC correspondent over Khashoggi questions. Largely ignored by mainstream outlets, the clip went viral days later via leftwing creators, prompting Democrats to lampoon Trump with Miss Piggy memes and highlighting an escalating pattern of hostile attacks on women journalists.",
-      "summaryTokens": 530,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Donald Trump’s ‘quiet, piggy’ barb at AP reporter Catherine Lucey on Air Force One—when she pressed him on releasing Jeffrey Epstein files—has gone viral online days later. Following a similar outburst at ABC’s Mary Bruce about Jamal Khashoggi, it highlights a pattern of female-targeted media attacks amid Trump’s political setbacks. The Society of Professional Journalists condemned the remark; the White House defended it. Democrats and activists are using pig imagery on social media to counter the insult and challenge Trump’s media stranglehold.",
+      "summaryTokens": 1367,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/saudi-arabia-saad-almadi-release",
@@ -89,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T21:21:29Z",
       "trailText": "Saad Almadi’s family thanks Trump and state department as announcement comes after meeting with crown prince",
-      "summary": "Saudi Arabia freed 75-year-old US-Saudi dual citizen Saad Almadi, jailed in 2021 for 14 tweets critical of Riyadh, allowing his early return to Florida five months before restrictions ended. His original 19-year sentence was later recast as a “cybercrime” exit ban, lifted the day after Crown Prince Mohammed bin Salman’s White House meeting with President Trump. The Almadi family thanked Trump, NSC adviser Sebastian Gorka, the State Department, the James Foley Fund, Hostages America and Speaker Mike Johnson. Almadi had urged Saudis to seek Lebanese citizenship, criticized Houthi defenses and praised renaming a US street after Jamal Khashoggi, highlighting Riyadh’s online dissent crackdown.",
-      "summaryTokens": 1153,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Saudi Arabia has agreed to release US-Saudi dual citizen Saad Almadi, 75, five months early, allowing him to return to Florida after a 30-year exit ban and a prior 19-year prison sentence for critical tweets. His family credits President Trump, the State Department, Dr. Sebastian Gorka, the National Security Council and nonprofits like the James Foley Fund and Hostages America. The decision followed Mohammed bin Salman’s White House meeting with Trump and growing US pressure. Almadi, a retired engineer arrested in 2021 for tweets urging Lebanese citizenship and praising a street renaming after Jamal Khashoggi, now awaits departure.",
+      "summaryTokens": 1070,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/pacific-palisades-wildfires-los-angeles",
@@ -101,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T20:46:39Z",
       "trailText": "We would like to speak to people who were displaced in the destructive January wildfires and learn how they’re preparing for upcoming holiday season",
-      "summary": "U.S. News is seeking interviews with people who lost homes in January’s devastating Pacific Palisades wildfire—the deadliest in LA history (12 killed, 6,800+ structures destroyed)—and in Altadena’s Eaton fire (19 killed). Reporters want to hear how survivors are preparing for the holidays, including current displacement status, living arrangements—whether they’ll stay with friends, family or in temporary housing—new or adapted traditions, emotional coping strategies and changes from last year nearly a year after the blaze.",
-      "summaryTokens": 1425,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "January’s Pacific Palisades fire, the most destructive in Los Angeles history, killed 12 people and razed over 6,800 structures. East LA’s Eaton fire in Altadena claimed 19 lives, leaving many still displaced. We’re seeking first-person accounts of how wildfire survivors are preparing for the upcoming holidays: where they’ll stay, how traditions have changed, and what emotional and practical challenges they face. Share your experiences of loss, resilience and community support as you rebuild this season. Interested contributors should contact editors to share quotes, photos or videos detailing holiday plans and recovery journey.",
+      "summaryTokens": 1186,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/trump-media-attacks-journalists",
@@ -113,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T20:30:03Z",
       "trailText": "As Trump has flailed around looking for someone to shout at, it’s the media, his familiar old foe, which has drawn the sharpest attacks",
-      "summary": "After years of unwavering loyalty from Republicans, Trump’s grip is cracking—provoked by House GOP’s defiance on releasing Jeffrey Epstein files and stalled map redistricting in Indiana. Facing dissent from figures like Rep. Thomas Massie and Marjorie Taylor Greene, Trump has resorted to personal insults and threats. Yet his fiercest counterattack has been against the press: bullying ABC reporters, calling for network license revocations, filing lawsuits against CBS and Disney, and warning legal action against CNN. As rank-and-file rebels grow emboldened, the question looms: can an independent media withstand his vendetta?",
-      "summaryTokens": 485,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "After nine years during which Donald Trump’s base endured impeachments, felony convictions, a Capitol insurrection and countless controversies, cracks are appearing in his GOP loyalty. His push to block release of Jeffrey Epstein files prompted up to 100 House Republicans to defy him, forcing an embarrassing U-turn. Similar insubordination on gerrymandering and filibuster reforms has provoked Trump’s pettiness and insults. Frustrated, he has lashed out at the media—branding ABC “crappy” and demanding their licences, threatening lawsuits against CNN and CBS, even smearing female reporters. As Republicans grow wary, can an embattled press stand firm?",
+      "summaryTokens": 751,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/fbi-wrongful-termination-pride-flag",
@@ -125,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T19:55:54Z",
       "trailText": "David Maltinsky, a 16-year veteran, says in lawsuit agency retaliated against him for engaging in protected speech",
-      "summary": "FBI intelligence specialist David Maltinsky, a 16-year veteran, filed a First Amendment lawsuit against FBI Director Kash Patel, the Justice Department and AG Pam Bondi after being abruptly dismissed from the FBI academy three weeks before graduation for displaying a Pride flag at his Los Angeles workstation. Maltinsky alleges his wrongful termination was unconstitutional, a politically motivated retaliation for protected speech despite prior supervisory approval and the bureau’s own display of the flag. He seeks reinstatement, framing the suit as part of a broader purge of dissenting or marginalized federal employees.",
-      "summaryTokens": 919,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "David Maltinsky, a 16-year FBI intelligence specialist, sued the FBI, naming Director Kash Patel, DOJ and AG Pam Bondi, claiming he was unlawfully fired for displaying a Pride flag at his desk—an act previously approved by supervisors and recognized as part of bureau diversity initiatives. Dismissed three weeks before graduating from Quantico, Maltinsky alleges First Amendment retaliation and seeks reinstatement. His complaint cites Patel’s October 1 termination letter condemning “political signage,” and lawyers argue it reflects a broader purge of dissenting and marginalized federal employees. FBI and DOJ declined comment.",
+      "summaryTokens": 1060,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/18/epstein-files-release-vote",
@@ -137,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T18:38:53Z",
       "trailText": "The bill passed by a passed a significant milestone in Congress and now awaits the US president’s signature",
-      "summary": "Congress overwhelmingly passed the Epstein Files Transparency Act in the House (427-1) and Senate by unanimous consent, compelling Justice Dept to release all unclassified files on Jeffrey Epstein. After initial delay, Trump reversed course—calling outstanding leaks a “Democrat hoax”—and pledged to sign, though he could still veto. A veto would almost certainly be overridden given supermajorities. Only Louisiana GOP Rep Clay Higgins opposed. Critics warn Trump’s DOJ probe into Clinton, Summers, Hoffman and JPMorgan links could enable selective or partial disclosure.",
-      "summaryTokens": 657,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Congress overwhelmingly passed the Epstein Files Transparency Act 427–1 in the House, with unanimous Senate approval by expedited unanimous consent. The bill compels the DOJ to release all unclassified materials on Jeffrey Epstein, who died awaiting sex-trafficking trial in 2019. The vote followed Trump’s weekend U-turn calling prior delays a 'Democrat hoax' and ended White House attempts to flip Reps. Lauren Boebert and Nancy Mace. President Trump pledged to sign though he could veto—action Congress could override. Only Rep. Clay Higgins opposed. Observers warn Trump-ordered DOJ probes into figures in Epstein’s emails may delay or redact disclosures.",
+      "summaryTokens": 1905,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/three-mile-island-nuclear-loan-microsoft-datacenter",
@@ -149,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T17:55:40Z",
       "trailText": "Facility that was site of worst nuclear disaster in US history will provide power for Microsoft datacenters",
-      "summary": "The US Department of Energy approved a $1bn loan to Constellation Energy to restart Three Mile Island’s 835MW reactor, closed in 2019, under a 20-year power purchase deal with Microsoft to supply AI datacenters. Energy Secretary Chris Wright said the funding will boost domestic manufacturing, support surging power demand from AI, lower consumer costs, enhance grid reliability and power 800,000 homes. The 1979-closed Crane Clean Energy unit marks the worst US nuclear accident. Expected online in 2027 pending NRC and water permits, the project—backed by private investment—will create 600+ jobs and upgrades include new cooling towers and transformers. Critics note unresolved radioactive waste storage.",
-      "summaryTokens": 1026,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "The Trump administration approved a $1bn DOE loan to Constellation Energy to restart the shut 835MW Three Mile Island reactor by 2027, under a 20-year power purchase with Microsoft’s AI datacenters. Energy Secretary Chris Wright said the project will secure reliable, carbon‐free power, strengthen the mid‐Atlantic grid, lower costs and create 600+ jobs. Constellation must complete NRC and water permits, refuel and upgrade cooling towers. Critics warn of unresolved radioactive waste storage. The facility, site of the 1979 meltdown, could power ~800,000 homes.",
+      "summaryTokens": 743,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/republican-censure-stacey-plaskett-jeffrey-epstein",
@@ -161,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T17:20:34Z",
       "trailText": "Measure that would have formally reprimanded Stacey Plaskett over real-time texts during 2019 hearing collapses",
-      "summary": "House Republicans’ measure to censure Democratic delegate Stacey Plaskett over real-time text exchanges with Jeffrey Epstein during a 2019 hearing failed 209–214 after three GOP defectors joined Democrats. Immediately after, Democrats dropped plans to censure Republican Rep. Cory Mills amid his own ethics controversies. On the floor, Reps. Lauren Boebert and Anna Paulina Luna accused leadership of backroom deals. Released texts show Epstein coaching Plaskett with info and compliments. Plaskett defended receiving messages from various sources and highlighted her anti-trafficking record. Republicans Kat Cammack and Nancy Mace criticized the bipartisan pact and may seek Mills’ censure next.",
-      "summaryTokens": 1079,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "House Republicans failed 209-214 to censure Democratic delegate Stacey Plaskett over real-time 2019 hearing texts with Jeffrey Epstein after three GOP defectors sided with Democrats. Immediately after, Democrats withdrew their own censure of Republican Rep. Cory Mills amid allegations of stolen valor, financial misconduct and domestic abuse, fueling claims of backroom deals. Rep. Lauren Boebert and Anna Paulina Luna publicly confronted leadership. Documents show Epstein text-coaching and complimenting Plaskett during a hearing. Plaskett, nonvoting USVI delegate, cited public input and her anti–sexual assault record in response. Critics like Kat Cammack and Nancy Mace pledge further ethics actions; Mills denies wrongdoing.",
+      "summaryTokens": 1535,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/jessica-tisch-new-york-police-commissioner-zohran-mamdani",
@@ -173,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T17:19:00Z",
       "trailText": "Mayor-elect said head of city’s police department will stay at her post when he takes office",
-      "summary": "Mayor-elect Zohran Mamdani announced that Jessica Tisch will stay as NYPD commissioner when he takes office Jan. 1, praising her tenure under Mayor Adams for a 20% drop in murders, record-low shootings, removal of over 4,800 illegal guns and the safest four months in transit in 15 years. Though Mamdani has criticized police racism and once backed defunding, he highlighted shared goals—lowering crime, rooting out corruption, supporting officers—and instructed Tisch to bar NYPD officers from assisting ICE. Tisch, with 18 years in NYPD counterterrorism and broad support from state leaders, signals continuity amid a political shift.",
-      "summaryTokens": 1079,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Mayor-elect Zohran Mamdani will retain Jessica Tisch as NYC police commissioner when he assumes office Jan 1, praising her tenure that saw historic crime drops – fewest shootings, nearly 20% murder decrease, and 4,800+ illegal guns removed in 2025. Tisch, first appointed by Eric Adams, has 18 years in public service and agreed after talks despite policy differences. Both aim to lower crime, curb corruption, and support officers. The move has backing from Gov. Hochul and AG James, and Mamdani ordered no NYPD assistance to ICE.",
+      "summaryTokens": 424,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/tom-steyer-california-governor",
@@ -185,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T17:18:43Z",
       "trailText": "Steyer, who ran to be Democratic presidential nominee in 2020, joins crowded field seeking to replace Gavin Newsom",
-      "summary": "Tom Steyer, 68-year-old billionaire environmental activist and 2020 Democratic presidential contender, announced his bid for California governor to tackle the cost-of-living crisis, demanding corporate tax fairness. He joins a field including Katie Porter, Xavier Becerra, Antonio Villaraigosa, Betty Yee and likely Eric Swalwell, as GOP candidates Chad Bianco and Steve Hilton vie for the seat. Steyer, a major Democratic donor and founder of NextGen America, backed redistricting and health funding measures. His platform proposes lowering utility costs, building 1 million homes in four years, free preschool and community college and banning corporate PAC contributions.",
-      "summaryTokens": 1002,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Tom Steyer, the 68-year-old billionaire environmental activist and former 2020 Democratic presidential candidate, will join a crowded race to replace term-limited Gov. Gavin Newsom, centering his campaign on California’s affordability crisis and vowing to make corporations pay their fair share. He faces Democrats Katie Porter, Xavier Becerra, Antonio Villaraigosa and Betty Yee, plus expected entry by Eric Swalwell, while Republicans Chad Bianco and Steve Hilton also compete. Steyer, a major Democratic donor who founded NextGen America, points to past victories raising tobacco taxes, closing corporate loopholes and spending $12 million on redistricting, and proposes cutting utility costs, building one million homes in four years, offering free preschool and community college, and banning corporate PAC money in state elections.",
+      "summaryTokens": 524,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/january-6-rioter-arrested-child-sexual-abuse-crimes",
@@ -197,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T16:34:18Z",
       "trailText": "Andrew Paul Johnson, 44, faces multiple charges in Florida and has pleaded not guilty to the crimes, authorities say",
-      "summary": "Andrew Paul Johnson, 44, a January 6 Capitol rioter pardoned by Donald Trump in 2025, was arrested in Florida on multiple child sexual abuse charges. Extradited from Tennessee, he faces counts of lewd and lascivious molestation of a child under 12 and of a child 12–16, indecent exhibition, and transmission of material harmful to minors. Investigators allege he abused two juveniles between April and October 2024 and used promises of a $10 million payout tied to his pardon to silence a victim. Held in Hernando County, he has pleaded not guilty.",
-      "summaryTokens": 753,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Andrew Paul Johnson, 44, a January 6 rioter pardoned by Trump in 2025, was arrested in August in Tennessee and extradited to Florida on multiple child sexual abuse charges, including lewd and lascivious molestation of a child under 12 and between 12 and 16, exhibition and transmission of harmful material to minors. A probable-cause affidavit alleges he molested an 11-year-old boy three times from April to October 2024, groomed him via Discord messages and coerced him with false promises of $10 million as a pardoned “j6er.” Held in Hernando County jail, Johnson pleads not guilty.",
+      "summaryTokens": 1082,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/18/house-vote-epstein-documents",
@@ -209,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T15:43:40Z",
       "trailText": "Legislation would next go to Trump who indicated he would sign bill after he and his allies backed down from opposition",
-      "summary": "After a 427-1 House vote, the Senate granted unanimous consent to release Jeffrey Epstein investigative files, forwarding the measure to President Trump, who has pledged to sign. Top Democrats and survivors celebrated the victory for transparency, while some Republicans voiced privacy concerns. Steering changes by GOP leaders including Mike Johnson and Jim Jordan highlighted intraparty tensions. The Epstein Files Transparency Act now awaits enactment unless Senate amendments compel a second House vote, potentially delaying disclosures.",
-      "summaryTokens": 770,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "The Senate granted unanimous consent to pass the House-approved 427–1 bill to compel release of Jeffrey Epstein investigative files, automatically sending it to President Trump, who dropped his opposition and pledged to sign. Advocates, survivors and Democrats like Schumer hailed the measure as overdue transparency. Republicans including Speaker Mike Johnson and Judiciary Chair Jim Jordan reluctantly backed it after months of intra-party conflict and criticism over victim protections. Clay Higgins cast the lone House no vote. Any Senate amendments would return to the House, potentially delaying enactment.",
+      "summaryTokens": 464,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/first-thing-senate-agrees-pass-epstein-files-bill-near-unanimous-house-vote",
@@ -221,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T11:20:05Z",
       "trailText": "The bill’s support in the House and Senate is a rare moment of bipartisan agreement. Plus, Trump shrugs off Khashoggi murder during Saudi prince’s visit",
-      "summary": "US Senate unanimously passed a bill mandating the public release of FBI/DoJ files on Jeffrey Epstein after a near-unanimous 427-1 House vote. The bipartisan push concludes months of White House resistance by Trump, whose base remains consumed by conspiracy theories around Epstein. Separately, Trump welcomed Saudi Crown Prince Mohammed bin Salman at the White House, downplaying the 2018 murder of journalist Jamal Khashoggi, agreed potential $1 trn of Saudi investments and an F-35 sale, and discussed Israeli normalization in exchange for a two-state solution. A Lancet review linked ultra-processed foods to multi-organ harm and corporate lobbying tactics to rising consumption.",
-      "summaryTokens": 1350,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Senate swiftly approved bipartisan legislation after the House’s 427–1 vote to release all FBI and DOJ files on Jeffrey Epstein, automatically forwarded to President Trump. The rare consensus underscores lingering political fallout from the sex offender’s network and conspiracy theories among Trump’s base. Meanwhile, President Trump shrugged off Saudi Crown Prince MBS’s alleged role in Jamal Khashoggi’s 2018 killing during a White House visit, approved potential F-35 sales, and discussed Israeli normalization. Other briefs include a Lancet review on ultra-processed foods’ health risks, far-right graft allegations, and COP30 fossil fuel phase-out calls.",
+      "summaryTokens": 1465,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/universities-state-department-dei-research-program",
@@ -233,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T11:00:35Z",
       "trailText": "Exclusive: Trump administration proposal would exclude elite schools that use diversity, equity and inclusion hiring practices",
-      "summary": "The State Department proposes excluding 38 universities—Harvard, Yale, Stanford, Johns Hopkins, Duke, USC, American, GWU, Syracuse and several UC campuses—from its Diplomacy Lab research partnership starting Jan. 1, 2026, citing their “DEI hiring practices.” An internal memo and color-coded spreadsheet rank 75 institutions, suspending those with clear DEI policies (red) and retaining “merit-based” schools (green). Suspended slots would go to Liberty, BYU and Texas/Missouri colleges. Columbia, MIT, Michigan, Penn, UVA and UT Austin, which amended DEI practices, remain. Letters pending approval; Dept. did not comment. It aligns with Trump’s broader effort this year to ban DEI requirements in federal grants and accreditors.",
-      "summaryTokens": 1421,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "State Department memo recommends excluding 38 institutions (including Harvard, Yale, Stanford, Johns Hopkins, Duke, USC and several UC campuses) from the Diplomacy Lab research partnership effective Jan 1, 2026, citing “open DEI hiring practices” or DEI objectives for candidate pools. A color-coded spreadsheet evaluated 75 universities, marking red those with clear DEI policies and green those with merit-based hiring. Proposed replacements include Liberty University, Brigham Young and multiple Missouri and Texas schools. The move follows Trump’s campaign to deem diversity programs illegal and limit federal grants to strictly merit-based hiring.",
+      "summaryTokens": 1326,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/commentisfree/2025/nov/19/trump-america-people-cant-afford-call-ambulance",
@@ -245,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T11:00:34Z",
       "trailText": "How are people expected to handle increased health insurance costs when everything else in life has become more expensive? I think the answer is: they’re not, writes Arwa Mahdawi",
-      "summary": "Arwa Mahdawi critiques the US health insurance industry’s profit-driven model, where premiums and out-of-pocket costs soar. She notes paying $750 monthly for family coverage plus $500 ER fees, citing a YouGov poll that nearly 25% avoided calling an ambulance due to cost fears. Next year, employer-based insurance premiums will rise 6–7%, while ACA marketplace plans jump 26% as subsidies expire amid political gridlock. Despite paying more than any industrialised nation, Americans face worsening health outcomes and risk financial ruin for essential care. Mahdawi dubs this “Trumpcare,” warning it’s unsustainable for working families.",
-      "summaryTokens": 1202,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "In \"Trump’s America,\" Arwa Mahdawi skewers the US health insurance industry’s profit-driven model, likening insurers to rent-seekers who deny claims while lobbying politicians. Though Americans pay the most for healthcare in the developed world, outcomes lag. Families like hers pay $750 monthly premiums plus $500 ER fees; 24% skip ambulances over cost fears. Next year, 154 million employer-insured face 6–7% premium hikes, while ACA marketplace plans jump 26% as subsidies expire. A solo freelancer’s $470 plan would now cost $900 with a $4,000 deductible. Soaring expenses amid stagnant wages leave many unable to afford care.",
+      "summaryTokens": 1406,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/trump-chicago-immigration-raid",
@@ -257,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T11:00:33Z",
       "trailText": "Data sharply contradicts officials’ portrayal of immigration sweeps as effort to fight ‘worst of the worst’ criminals",
-      "summary": "Federal court records show that 97% of the 614 immigrants arrested in Operation Midway Blitz in Chicago had no criminal convictions. Only 16 detainees had significant records—10 for assault or domestic violence, two DUI, one enticement/kidnapping and one labeled “foreign criminal.” A further 39 were deemed security threats without explanation, while 36 were classified high risk; most were deemed low public-safety but high flight risks. Data was filed in Castañon Nava v DHS, challenging warrantless arrests under a 2022 consent decree. This mirrors California sweeps where over two-thirds lacked convictions, undercutting the Trump administration’s “worst of the worst” narrative, even as DHS claims 64% of ICE arrestees face charges or convictions.",
-      "summaryTokens": 648,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Federal court records show 97% of the 614 immigrants arrested in the Trump administration’s “Operation Midway Blitz” in Chicago had no criminal convictions. Of the 16 with records, 10 faced assault or domestic violence charges, one had enticement of a minor and kidnapping conviction, two DUI and one labeled a “foreign criminal.” Most detainees were deemed low safety but flight risks. Submitted in Castañon Nava v. DHS, the data mirrors California sweeps where two-thirds had no convictions. DHS counters that 64% of ICE arrests involve criminal convictions or pending charges, vs. 94% under Biden, with non-criminal detainees now 36% of custody.",
+      "summaryTokens": 1781,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/19/trump-news-at-a-glance-latest-updates-news",
@@ -269,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-19T01:08:02Z",
       "trailText": "Donald Trump pivoted at the weekend to signal his support for the bill and says he will sign the measure when it reaches his desk – key US politics stories from Tuesday 18 November",
-      "summary": "Congress overwhelmingly approved bipartisan legislation forcing public release of Jeffrey Epstein investigative files after the Senate’s unanimous-consent clearance and a 427–1 House vote; Trump reversed course and says he’ll sign, as Schumer hailed victims’ right to truth and the lone dissent warned of privacy risks. Other highlights: Trump downplayed Khashoggi’s murder during a Saudi crown-prince visit; a judge struck down Texas’s likely racially gerrymandered 2025 maps; Trump dubbed a Bloomberg reporter “piggy”; Education Dept. powers were reassigned; federal immigration sweeps hit Raleigh; a Trump-pardoned New Jersey fraud convict returned to federal prison; California farms reported heavy PFAS use.",
-      "summaryTokens": 824,
-      "generatedAt": "2025-11-20T03:50:53.577Z"
+      "summary": "Under bipartisan momentum, the Senate unanimously approved—and the House had earlier passed 427-1—a bill mandating the release of the late sex offender Jeffrey Epstein’s investigative files, a measure President Trump signaled he will sign despite earlier resistance. Other developments include Trump’s downplay of the Khashoggi killing during Saudi Crown Prince bin Salman’s visit, a federal judge blocking Texas congressional maps as racially gerrymandered, criticism over Trump’s “piggy” jibe at a Bloomberg reporter, reassignment of Education Department powers, and expanded federal immigration sweeps in North Carolina.",
+      "summaryTokens": 929,
+      "generatedAt": "2025-11-21T03:45:15.385Z"
     },
     {
       "id": "us-news/2025/nov/18/trump-mexico-deportation",
@@ -4991,7 +5255,7 @@
     },
     {
       "id": "us-news/2025/oct/30/sami-hamdi-ice-detention-interview-wife",
-      "title": "Wife of British commentator ‘abducted by ICE’ speaks out: ‘We’re being kept in the dark’",
+      "title": "Wife of British commentator ‘abducted by ICE’ speaks out: ‘We��re being kept in the dark’",
       "webUrl": "https://www.theguardian.com/us-news/2025/oct/30/sami-hamdi-ice-detention-interview-wife",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/oct/30/sami-hamdi-ice-detention-interview-wife",
       "section": "us-news",
@@ -6556,7 +6820,7 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/oct/24/trump-news-at-a-glance-trump-scraps-plan-to-send-federal-troops-to-san-francisco-bay-area",
       "section": "us-news",
       "publishedDate": "2025-10-23T23:10:22Z",
-      "trailText": "President says San Francisco mayor and Silicon Valley leaders asked him to give the city ‘a chance’ – key US politics stories from Thursday 23 October at a glance",
+      "trailText": "President says San Francisco mayor and Silicon Valley leaders asked him to give the city ��a chance’ – key US politics stories from Thursday 23 October at a glance",
       "summary": "Donald Trump scrapped plans to deploy over 100 federal agents from Customs and Border Protection to the San Francisco Bay Area’s Alameda Coast Guard base for immigration enforcement after discussions with SF Mayor Daniel Lurie and Silicon Valley CEOs Marc Benioff and Jensen Huang. Other developments: major tech and defense firms are funding Trump’s $300m White House ballroom; a new book details infighting over ‘unqualified’ cabinet picks; House Democrats accuse him of a $230m taxpayer scheme; Trump pardons Binance’s founder; voters blame tariffs for rising costs; Colombia denounces US strikes; the Senate stalls pay for federal workers; and a lawsuit accuses Melania Trump’s meme coin architects of fraud as NBA stars face gambling probes.",
       "summaryTokens": 651,
       "generatedAt": "2025-10-28T20:38:22.885Z"
