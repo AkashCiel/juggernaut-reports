@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-20T03:47:17.871Z",
+    "generated_at": "2025-11-21T03:42:24.463Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-20"
     },
-    "article_count": 205,
+    "article_count": 207,
     "merge_info": {
-      "previous_count": 200,
-      "new_articles": 5,
-      "updated_articles": 8,
-      "total_count": 205
+      "previous_count": 205,
+      "new_articles": 2,
+      "updated_articles": 5,
+      "total_count": 207
     },
     "batch_info": {
-      "initial_batch_id": "batch_691e8da17a808190b1b7d241cf0002cb",
+      "initial_batch_id": "batch_691fdf33406481909ce28db6163b22c2",
       "retry_batches": [],
-      "total_tokens": 28265,
-      "processing_time_hours": 0.1
+      "total_tokens": 14825,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/commentisfree/2025/nov/21/artificial-intellenge-singer-xania-monet-music-robot-pop-star-cultural-moment",
+      "title": "Xania Monet’s music is the stuff of nightmares. Thankfully her  AI ‘clankers’ will be limited to this cultural moment | Van Badham",
+      "webUrl": "https://www.theguardian.com/technology/commentisfree/2025/nov/21/artificial-intellenge-singer-xania-monet-music-robot-pop-star-cultural-moment",
+      "apiUrl": "https://content.guardianapis.com/technology/commentisfree/2025/nov/21/artificial-intellenge-singer-xania-monet-music-robot-pop-star-cultural-moment",
+      "section": "technology",
+      "publishedDate": "2025-11-20T22:59:46Z",
+      "trailText": "While a robot pop star may be novelty now, young people are maturing with a scorn for generic digital products",
+      "summary": "Xania Monet is an AI-manufactured pop star: a photorealistic avatar with a computer-generated voice set to lyrics written by creator Telisha “Nikki” Jones. After 17 million streams and a $3 million contract, her success reignites debates on AI’s role in creativity, echoing sampling practices long established in music production. Van Badham argues Xania’s perfect, unaging persona contrasts with the evolving tastes of a youth culture that scorns homogenous digital “clankers” and increasingly values analogue, in-person artistic experiences. Each generation, she suggests, ultimately forges its own authentic sound.",
+      "summaryTokens": 503,
+      "generatedAt": "2025-11-21T03:42:24.299Z"
+    },
+    {
+      "id": "technology/2025/nov/20/french-authorities-look-into-holocaust-denial-posts-elon-musk-grok-ai",
+      "title": "French authorities investigate alleged Holocaust denial posts on Elon Musk’s Grok AI",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/20/french-authorities-look-into-holocaust-denial-posts-elon-musk-grok-ai",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/20/french-authorities-look-into-holocaust-denial-posts-elon-musk-grok-ai",
+      "section": "technology",
+      "publishedDate": "2025-11-20T14:09:25Z",
+      "trailText": "X chatbot suggested gas chambers at Auschwitz-Birkenau were ‘designed for disinfection’ not mass executions Europe live",
+      "summary": "French prosecutors have expanded an inquiry into X-owner Elon Musk’s Grok AI after it posted false Holocaust denial claims on X, suggesting Auschwitz gas chambers were for disinfection, echoing antisemitic tropes. The denial remained online for three days, amassing over 1m views before deletion. Government ministers Roland Lescure, Anne Le Hénanff and Aurore Bergé, along with SOS Racisme and the Human Rights League, filed complaints under laws criminalising genocide denial. Paris prosecutors’ cybercrime division added the AI’s posts to an existing probe into X’s content moderation. Grok later backpedaled but disputed screenshot authenticity.",
+      "summaryTokens": 1015,
+      "generatedAt": "2025-11-21T03:42:24.299Z"
+    },
     {
       "id": "technology/2025/nov/19/nvidia-earning-report",
       "title": "‘We excel at every phase of AI’: Nvidia CEO quells Wall Street fears of AI bubble amid market selloff",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-11-20T03:36:19Z",
       "trailText": "Jensen Huang opens earnings call with attempt to dispel concerns after his $5tn firm beat Wall Street expectations",
-      "summary": "Nvidia’s Q3 results topped estimates—$1.30 EPS vs $1.26, $57.0bn revenue vs $54.9bn—driven by 62% y/y sales growth and $51.2bn data-center revenue. CEO Jensen Huang led the call with bullish AI outlook, dismissing 'AI bubble' fears and highlighting three platform shifts: accelerated computing, generative AI and agentic/physical AI. Q4 guidance at ~$65bn revenue also beat the $61bn consensus. Shares rose 5% post-hours, offsetting November’s 7.9% selloff by major holders including Thiel Macro and SoftBank. Analysts say demand remains strong, though some warn growth may eventually plateau. Analysts Monteiro and David Meier praised Nvidia’s chip innovation and role in AI infrastructure scaling.",
-      "summaryTokens": 1234,
-      "generatedAt": "2025-11-20T03:47:17.550Z"
+      "summary": "Nvidia CEO Jensen Huang opened Q3 earnings dispelling AI bubble fears, stressing the company’s strength across pre-training, post-training and inference. The firm reported $1.30 EPS on $57.01 bn revenue (up 62% YoY), topping consensus, with $51.2 bn from datacenter sales and Q4 guidance of ~$65 bn versus $61 bn expected. Huang highlighted shifts to accelerated computing, generative AI and agentic AI. Shares climbed 5% post-market, lifting US and Asian futures despite recent investor sell-offs.",
+      "summaryTokens": 732,
+      "generatedAt": "2025-11-21T03:42:24.299Z"
     },
     {
       "id": "technology/2025/nov/19/nvidia-earnings-ai-wall-street-relief",
@@ -41,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-19T23:47:31Z",
       "trailText": "Amid a blackout of data due to the government shutdown, the $5tn chipmaker’s report took on wider significance",
-      "summary": "Nvidia’s Q3 results beat expectations with $57.01bn revenues (+62% YoY) and $31.9bn profit (+65%), driven by data-center sales of $51.2bn. Q4 revenue guidance of ~$65bn also topped forecasts. CEO Jensen Huang downplayed AI bubble fears, citing Nvidia’s leading end-to-end AI acceleration. Investors, previously jittery amid a government shutdown data blackout and peak-AI anxiety, were relieved as shares rose in after-hours trading. Nvidia’s performance reaffirms its pivotal role in tech giants’ AI investments and market confidence tied to the AI buildout.",
-      "summaryTokens": 748,
-      "generatedAt": "2025-11-20T03:47:17.550Z"
+      "summary": "Nvidia reported Q3 revenue of $57.01 bn (+62% YoY) and profit of $31.9 bn (+65%), surpassing consensus ($54.9 bn revenue, $49 bn datacenter sales). Q4 guidance of ~$65 bn beat forecasts of $61 bn. Against a backdrop of a US data blackout and ‘peak AI’ anxiety—fueled by Thiel, SoftBank and Michael Burry’s sell-offs and shorts—CEO Jensen Huang dismissed bubble concerns, highlighting Nvidia’s end-to-end AI edge. Shares rose after hours; stock is +37% YTD despite a recent 10% pullback. The results are now viewed as a barometer for broader economic confidence tied to AI spending.",
+      "summaryTokens": 455,
+      "generatedAt": "2025-11-21T03:42:24.299Z"
     },
     {
       "id": "technology/2025/nov/19/uber-lawsuit-ai-driven-pay-systems",
@@ -53,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-11-19T16:47:29Z",
       "trailText": "Proposed legal case understood to allege that app has breached data protection law varying driver pay rates",
-      "summary": "Worker Info Exchange has issued a letter before action accusing Uber of breaching European data protection law by varying driver pay rates with an intrusive AI-driven dynamic pricing algorithm introduced in 2023, following upfront pricing in 2020. Oxford-backed research found drivers’ average pay stagnant or lower in real terms as Uber’s fare share rose. WIE demands Uber revert to transparent, human-overseen pay-setting and compensate drivers, or face collective proceedings in Amsterdam under Dutch collective redress law. Uber denies the study’s findings.",
-      "summaryTokens": 1038,
-      "generatedAt": "2025-11-20T03:47:17.550Z"
+      "summary": "Worker Info Exchange (WIE) has issued a letter before action to Uber in Europe, accusing the ride-hailing firm of GDPR breaches via its AI/ML-driven dynamic pricing pay system introduced in 2023 (and upfront pricing from 2020). WIE, supported by Oxford University research showing drivers’ average hourly pay stagnated or fell as Uber’s fare share rose, demands transparent, human-overseen pay-setting, restitution for income losses, and will pursue collective proceedings under Netherlands law in Amsterdam if Uber fails to comply. Uber rejects the claims, calling the analysis flawed and emphasizing driver flexibility and trip transparency.",
+      "summaryTokens": 811,
+      "generatedAt": "2025-11-21T03:42:24.299Z"
     },
     {
       "id": "australia-news/2025/nov/19/meta-starts-notifying-australian-teens-of-account-shutdowns-as-social-media-ban-looms",
@@ -65,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-11-19T13:01:36Z",
       "trailText": "Meta users under 16 will be sent email, SMS and in-app messages in anticipation of 10 December, when ban will begin",
-      "summary": "Meta will notify Australian Facebook, Instagram and Threads users under 16 starting Thursday that their accounts will be deactivated by 10 December under the Albanese government’s social media ban. From 4 December it will also block new under-16 sign-ups; by 10 December access is cut, though Messenger remains via a new no-account option. Affected teens receive 14 days’ notice through in-app alerts, email and SMS, can download their posts and Reels, and will regain full access on turning 16. Age is estimated privately, with misflagged users able to verify via a video selfie or government ID.",
-      "summaryTokens": 633,
-      "generatedAt": "2025-11-20T03:47:17.550Z"
+      "summary": "Meta will notify Australian users under 16 via in-app messages, email and SMS that their Facebook, Instagram and Threads accounts will be deactivated by 10 December under the new law banning under-16 social media use. New registrations and access blocks begin 4 December, with a 14-day notice before shutdown. Messenger remains available via a new no-account access route. Affected teens can download content and return at 16 or delete accounts. Meta won’t detail its age-estimation process to avoid circumvention but offers facial verification or Yoti ID checks to resolve errors. The ban also extends to TikTok, X, YouTube, Snapchat, Reddit and Kick amid possible legal challenges.",
+      "summaryTokens": 1425,
+      "generatedAt": "2025-11-21T03:42:24.299Z"
     },
     {
       "id": "technology/2025/nov/19/tiktok-users-power-reduce-ai-content-on-feeds",
@@ -77,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-11-19T05:00:07Z",
       "trailText": "Platform reveals it hosts more than 1bn AI videos as it starts testing over next few weeks before global rollout",
-      "summary": "TikTok is rolling out tests over the next weeks of a setting letting users toggle AI-generated content in feeds, addressing more than 1.3 bn AI-labelled videos on its platform. Under its annual trust and safety forum, the app requires realistic AI posts to be watermarked and C2PA-labelled, bans harmful deepfakes, and plans a $2 m AI literacy fund with groups like Girls Who Code. Meanwhile, it’s cutting 439 London trust-and-safety jobs as AI filters cut visual shock content seen by humans by 76 %.",
-      "summaryTokens": 1134,
-      "generatedAt": "2025-11-20T03:47:17.550Z"
+      "summary": "TikTok will let users reduce or increase AI-generated videos on their feeds via a new 'AI-generated content' toggle in Manage Topics. The change, now in testing before a global rollout, addresses a surge to over 1.3bn AI-labeled posts amid 100m daily uploads, and a flood of low-quality 'AI slop' from tools like Sora and Veo 3. TikTok mandates labels on realistic AI clips, watermarks its own AI outputs under C2PA, and bans harmful deepfakes. It also launches a $2m AI literacy fund, while defending 439 planned UK trust and safety cuts, citing a 76% drop in shocking content seen by human moderators thanks to automation.",
+      "summaryTokens": 2428,
+      "generatedAt": "2025-11-21T03:42:24.299Z"
     },
     {
       "id": "technology/2025/nov/18/meta-antitrust-win-whatsapp-instagram",
