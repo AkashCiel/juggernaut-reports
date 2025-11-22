@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-21T03:33:41.956Z",
+    "generated_at": "2025-11-22T03:13:37.873Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-20"
+      "to": "2025-11-21"
     },
-    "article_count": 113,
+    "article_count": 115,
     "merge_info": {
-      "previous_count": 105,
-      "new_articles": 8,
-      "updated_articles": 0,
-      "total_count": 113
+      "previous_count": 113,
+      "new_articles": 2,
+      "updated_articles": 4,
+      "total_count": 115
     },
     "batch_info": {
-      "initial_batch_id": "batch_691fdd31c654819083c770008b945dc9",
+      "initial_batch_id": "batch_69212a0a4c0c8190a1c795703ca610df",
       "retry_batches": [],
-      "total_tokens": 19582,
+      "total_tokens": 12204,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/21/how-hmrc-and-insurance-firms-make-bereavement-even-harder",
+      "title": "How HMRC and insurance firms make bereavement even harder | Letters",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/21/how-hmrc-and-insurance-firms-make-bereavement-even-harder",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/21/how-hmrc-and-insurance-firms-make-bereavement-even-harder",
+      "section": "money",
+      "publishedDate": "2025-11-21T17:35:12Z",
+      "trailText": "Letters: Dr Susan Treagus spotted an error that could have cost her dearly, plus a letter on how to satisfy car insurance algorithms",
+      "summary": "After notifying HMRC of her husband’s death via Tell Us Once, Dr Susan Treagus received a computer-generated tax code adding £62,000 to her pension income based on three months’ bank transfers, doubling her assumed earnings to over £100,000, tripling her tax rate and halving her monthly pension until she spotted the mistake and pressured HMRC to correct it. She warns the opaque, bot-driven recalculation, issued with no human oversight or explanation, could have permanently overtaxed the newly bereaved. Another reader reports sidestepping a post-bereavement car insurance premium rise by adding his adult son—who rarely travels with him—to satisfy insurers’ algorithms, highlighting absurdities in automated systems.",
+      "summaryTokens": 1294,
+      "generatedAt": "2025-11-22T03:13:37.629Z"
+    },
+    {
+      "id": "money/2025/nov/21/energy-price-cap-great-britain-rise-january-fuel",
+      "title": "Households in Great Britain face surprise rise in energy bills from January",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/21/energy-price-cap-great-britain-rise-january-fuel",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/21/energy-price-cap-great-britain-rise-january-fuel",
+      "section": "money",
+      "publishedDate": "2025-11-21T12:14:51Z",
+      "trailText": "Energy price cap for average dual fuel bill will increase to £1,758 a year, from £1,755 in the current quarter",
+      "summary": "Ofgem raised Britain’s energy price cap by 0.2% from January, lifting the average annual dual-fuel bill by £3 to £1,758 – a 28p-a-month increase. Electricity costs will climb 5.1% to 27.69p/kWh while gas falls 5.7% to 5.93p. Despite 4% lower wholesale prices, rising levies and policy costs push bills ~50% above pre-Ukraine levels. Energy debt has doubled to £4.4bn. Experts urge a social tariff and VAT relief in the next budget.",
+      "summaryTokens": 877,
+      "generatedAt": "2025-11-22T03:13:37.629Z"
+    },
     {
       "id": "money/2025/nov/20/reeves-urged-to-grasp-the-nettle-with-wholesale-reset-of-council-tax",
       "title": "Reeves urged to ‘grasp the nettle’ with wholesale reset of council tax",
@@ -29,9 +53,9 @@
       "section": "money",
       "publishedDate": "2025-11-20T19:17:48Z",
       "trailText": "Experts say chancellor should go further than rumoured plan to update value of homes in top three bands",
-      "summary": "Chancellor Rachel Reeves is considering a levy on the most expensive homes by revaluing properties in bands F–H (likely above £1m–£2m) and charging an extra flat annual fee of £2,000–£3,000 alongside existing council tax, raising under £1bn a year. Experts at the IFS and New Economics Foundation warn a partial update complicates the system and call instead for a full revaluation to modernize council tax, reduce inequalities and boost revenue for public services. Proposals may include a deferred payment scheme for older homeowners and will feature in Reeves’s upcoming budget alongside cost-of-living relief measures.",
-      "summaryTokens": 375,
-      "generatedAt": "2025-11-21T03:33:41.817Z"
+      "summary": "Experts from the IFS, NEF and Resolution Foundation are urging Chancellor Rachel Reeves to use next week’s budget to fully revalue every English home—still based on 1991 values—instead of a limited update for bands F to H. Whitehall plans propose a £2,000–£3,000 annual levy on properties above a yet-to-be-finalized threshold (c. £1m–£2m), expected to yield under £1bn for the Treasury. Critics warn that a partial revaluation would complicate the system and perpetuate inequalities, calling for a comprehensive reset with protections such as a deferred-payment scheme for cash-poor older owners. This measure sits alongside Reeves’s wider fiscal package—prescription charge freeze, energy and cost-of-living relief—aimed at raising revenue without breaking manifesto tax pledges.",
+      "summaryTokens": 864,
+      "generatedAt": "2025-11-22T03:13:37.629Z"
     },
     {
       "id": "money/2025/nov/20/tell-us-have-you-visited-or-worked-at-a-uk-warm-bank",
@@ -41,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-11-20T14:08:14Z",
       "trailText": "We want to hear people’s experiences with the rise of ‘warm spaces’ in the UK",
-      "summary": "Bitter Arctic air has swept the UK early this winter, with temperatures dipping below zero and the energy price cap rising 2% on 1 October to £1,755—the latest in escalating household bills that left consumers owing £4.4bn by June, says Ofgem. In response, local libraries and community centres have enlisted as “warm banks,” part of Warm Welcome Spaces’ 6,000-strong network offering free refuge from freezing homes. The Guardian invites anyone who has visited, staffed or organised a warm space since 2022 to describe their experience, motivations, feelings and views on this grassroots solution to the cost-of-living crisis.",
-      "summaryTokens": 1013,
-      "generatedAt": "2025-11-21T03:33:41.817Z"
+      "summary": "As subzero Arctic air sweeps the UK, households face a 2% energy price-cap rise to £1,755 and £4.4bn supplier debt. In response, nearly 6,000 community ‘warm banks’—from libraries to charity-run hubs via Warm Welcome Spaces—have opened since 2022’s cost-of-living crisis. With winter 2024-25 underway, the Guardian is seeking firsthand accounts: have you visited, volunteered at or organised a warm space? Share why you took part, how it made you feel and your perspective on this rapid expansion of shelter from the cold.",
+      "summaryTokens": 622,
+      "generatedAt": "2025-11-22T03:13:37.629Z"
     },
     {
       "id": "money/2025/nov/20/how-could-council-tax-change-in-budget-and-who-would-be-hardest-hit",
@@ -53,9 +77,9 @@
       "section": "money",
       "publishedDate": "2025-11-20T10:00:04Z",
       "trailText": "Critics say current system is a ‘dog’s dinner’ – with homes in Blackpool paying more than in one of London’s wealthiest boroughs",
-      "summary": "Chancellor Reeves rejected an income tax rise and is considering council tax overhauls to plug fiscal gaps, including doubling rates on England’s top bands (G,H) or revaluing F–H and levying a surcharge on the 300,000 priciest homes. The Institute for Fiscal Studies estimates a doubling would net £4.2bn by 2029–30, adding £3.8k to band G and £4.6k to band H bills. London and the south-east, with expensive but often cash-poor households in band G, would be hardest hit, exacerbating regional inequalities rooted in 1991 valuations. A parallel “mansion tax” targeting properties over ~£1.4m could further burden London boroughs and shift the tax base toward a wealth levy, prompting concerns over fairness and political backlash.",
-      "summaryTokens": 1443,
-      "generatedAt": "2025-11-21T03:33:41.817Z"
+      "summary": "Chancellor Rachel Reeves is weighing plans to reform England’s council tax – potentially doubling rates for band G and H properties or revaluing homes in tiers F–H and levying a surcharge on the top 300,000 by value. The Institute for Fiscal Studies estimates doubling would raise £4.2 billion by 2029–30, adding roughly £4,000 to bills on £750,000–£1.5 million homes. Critics call the bands outdated and regressive (“dog’s dinner”), noting huge regional disparities – Blackpool households pay more than Kensington – and warn the burden will fall on asset-rich, cash-poor middle-income families, especially in London and the south-east.",
+      "summaryTokens": 1031,
+      "generatedAt": "2025-11-22T03:13:37.629Z"
     },
     {
       "id": "money/2025/nov/20/paternity-rights-dad-jokes-parliament-uk",
@@ -65,9 +89,9 @@
       "section": "money",
       "publishedDate": "2025-11-20T05:00:15Z",
       "trailText": "MPs will tell ‘dad jokes’ in parliament to highlight ‘real joke’ of UK paternity leave, which is a class issue",
-      "summary": "MPs staged a \"dad joke\" debate in the Commons to expose the UK's stingy paternity pay—just £187.18/week, 1.9% of parental-leave spending, ranking 40th/43 in the OECD. Organised by Dad Shift and On the Tools ahead of International Men's Day, they read groan-worthy gags while citing HMRC data: 90% of paternity leave and 95% of shared parental leave claims in 2024-25 came from the top 50% of earners (earning >£37,800), and only 5% from the bottom half; self-employed co-parents get nothing. MPs from Labour and the Lib Dems urged a fairer, less class-biased system as ministers review parental leave.",
-      "summaryTokens": 1488,
-      "generatedAt": "2025-11-21T03:33:41.817Z"
+      "summary": "MPs tell dad jokes in the Commons to spotlight the ‘real joke’ of UK paternity leave, paid at £187.18/week – the lowest in Europe. Dad Shift and HMRC data reveal 90% of leave claims come from top-half earners, only 5% of shared parental leave from lower earners, with stark regional divides. Campaigners warn low- and middle-income fathers are priced out of vital bonding time, framing paternity leave as a class issue. An 18-month government review is under way, and all-party MPs are urging reform.",
+      "summaryTokens": 606,
+      "generatedAt": "2025-11-22T03:13:37.629Z"
     },
     {
       "id": "money/2025/nov/19/wimbledon-debenture-tickets-exempt-uk-resale-crackdown",
