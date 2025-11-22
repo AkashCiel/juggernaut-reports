@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-21T03:38:51.275Z",
+    "generated_at": "2025-11-22T03:18:03.830Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-20"
+      "to": "2025-11-21"
     },
-    "article_count": 102,
+    "article_count": 103,
     "merge_info": {
-      "previous_count": 101,
+      "previous_count": 102,
       "new_articles": 1,
-      "updated_articles": 4,
-      "total_count": 102
+      "updated_articles": 3,
+      "total_count": 103
     },
     "batch_info": {
-      "initial_batch_id": "batch_691fde733ab88190b1247f3d442265a8",
+      "initial_batch_id": "batch_69212b09a41481908a075d02f77f09ce",
       "retry_batches": [],
-      "total_tokens": 10543,
+      "total_tokens": 9037,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/21/melanie-quin-obituary",
+      "title": "Melanie Quin obituary",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/21/melanie-quin-obituary",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/21/melanie-quin-obituary",
+      "section": "science",
+      "publishedDate": "2025-11-21T20:19:09Z",
+      "trailText": "Other lives: Science communicator who played a key role in the growth of hands-on centres in the UK",
+      "summary": "Melanie Quin (1959–2025), a London botanist (BSc, MSc, PhD Imperial College) became pivotal in developing hands-on science centres. As director of the Nuffield Foundation’s interactive science project (mid-1980s), she connected startups like Stratosphere Aberdeen and Bristol Exploratory with US venues. She led European network Ecsite (1991–92) at Heureka, helped open Amsterdam’s Nemo (1992–95), and directed Cardiff’s Techniquest MSc programme. Returning as head of UK Ecsite (2001–06), she then taught English in Istanbul, Lyon and Sydney. An artist, she married Andy Wood in 2013. Diagnosed with terminal liver disease in 2024, she is survived by husband Andy and brother Thomas.",
+      "summaryTokens": 1864,
+      "generatedAt": "2025-11-22T03:18:03.626Z"
+    },
     {
       "id": "science/2025/nov/20/moss-spores-survive-outside-international-space-station-iss",
       "title": "Moss in space: spores survive nine-month ride on outside of ISS",
@@ -29,9 +41,9 @@
       "section": "science",
       "publishedDate": "2025-11-20T16:00:44Z",
       "trailText": "Scientists say plant’s resilience suggests it could help with oxygen generation or soil formation on space missions",
-      "summary": "Physcomitrella patens spores encased in sporangia endured a nine-month stint on the ISS exterior (aboard Cygnus NG-17), later germinating at 86% versus 97% ground controls. Ground experiments had shown survival under UVC doses >100 kJ/m2, vacuum, deep freeze and heat. Despite partial chlorophyll degradation, viability suggests moss’s potential for oxygen generation, humidity control and soil formation in long-term missions. Published in iScience, the study underscores moss as a resilient pioneer species, but its growth under various gravities, atmospheres and true deep-space environments remains untested, say authors and external experts.",
-      "summaryTokens": 1280,
-      "generatedAt": "2025-11-21T03:38:51.134Z"
+      "summary": "Researchers sent Physcomitrella patens spores in sporangia to the ISS exterior for nine months and found they germinated at 86% post-return versus 97% for Earth controls. Encased spores endured vacuum, UVC radiation (>100,000 J/m²), deep freezing and high temperatures. Although chlorophyll in space‐exposed samples showed some degradation, the study highlights moss’s potential for oxygen generation, humidity regulation and soil formation on long‐duration missions. Experts caution that survival is only the first step and that actual growth under extraterrestrial gravity, atmospheres and radiation remains untested.",
+      "summaryTokens": 552,
+      "generatedAt": "2025-11-22T03:18:03.626Z"
     },
     {
       "id": "science/2025/nov/20/pinprick-blood-test-could-detect-disease-10-years-before-symptoms-appear-study",
@@ -41,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-20T00:01:08Z",
       "trailText": "Molecular profiles will give detailed snapshot of person’s physiology and predict diseases from diabetes to cancer and dementia",
-      "summary": "UK Biobank and Nightingale Health profiled nearly 250 proteins, metabolites, lipids and sugars in blood from 500 000 volunteers, creating dynamic molecular snapshots capturing genetic predisposition and exposures. Elevated urea, creatinine and lactate flag organ damage, while glucose profiles reveal cancer. Combined with medical and death records, models forecast diabetes, cardiovascular disease, cancer and neurodegeneration (Alzheimer’s, frontotemporal dementia) 10–15 years pre-symptoms via pinprick tests. Researchers foresee a shift towards personalised prevention, advising midlife lifestyle changes based on biomarkers and exploring sex-specific ageing and drug responses.",
-      "summaryTokens": 1723,
-      "generatedAt": "2025-11-21T03:38:51.134Z"
+      "summary": "UK Biobank’s landmark study measured 250 molecular markers—proteins, sugars, fats and other metabolites—in blood from 500,000 volunteers. Integrated with medical records and death registries, these detailed metabolic profiles predict risks for diabetes, heart disease, cancer, dementia and rare neurodegenerative disorders up to 10–15 years before onset. Pinprick-based assays will enable scalable, preventive healthcare, advising lifestyle changes and early interventions. Metabolites reflect genetics, environment and organ function, offering dynamic insight beyond fixed genetic tests. Collaborations with Nightingale Health, and research at Edinburgh, King’s and Oxford, explore sex-specific aging, disease mechanisms and personalized drug responses.",
+      "summaryTokens": 894,
+      "generatedAt": "2025-11-22T03:18:03.626Z"
     },
     {
       "id": "science/2025/nov/20/depression-electroconvulsive-therapy-adverse-effects-study",
@@ -53,9 +65,9 @@
       "section": "science",
       "publishedDate": "2025-11-20T00:01:08Z",
       "trailText": "Study calls for depression treatment to be suspended for more research after reports of heart problems and emotional blunting",
-      "summary": "Survey of 747 ECT recipients and 201 relatives published in the International Journal of Mental Health identifies 25 adverse effects beyond memory loss—22.9% reported heart problems, 53.9% recurring headaches and 76.4% emotional blunting—prompting Prof John Read to call for suspension pending robust safety and efficacy trials. Critics warn of inconclusive methodology; proponents like Profs Tania Gergel and George Kirov defend ECT’s ~60% response in treatment-resistant depression and bipolar disorder. Campaigners highlight involuntary use among older women and domestic abuse survivors. NICE limits ECT to acute, life-threatening, treatment-resistant cases in accredited clinics.",
-      "summaryTokens": 829,
-      "generatedAt": "2025-11-21T03:38:51.134Z"
+      "summary": "Electroconvulsive therapy, used in the UK by ~2,500 annually for treatment-resistant depression, may carry 25 previously under-reported adverse effects beyond memory loss—fatigue, cardiovascular issues, headaches and emotional blunting—according to a survey of 747 patients and 201 relatives in the International Journal of Mental Health. Prof John Read urges suspension pending robust safety and efficacy trials. Experts are split: critics question benefits and demand placebo-controlled data; proponents cite meta-analyses showing superiority over antidepressants and TMS. NICE restricts ECT to acute, life-threatening depression under accredited, consented protocols.",
+      "summaryTokens": 1664,
+      "generatedAt": "2025-11-22T03:18:03.626Z"
     },
     {
       "id": "science/2025/nov/19/plantwatch-bursera-leaves-shoot-toxic-liquid-insects-trying-to-beat-it",
