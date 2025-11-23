@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-22T03:13:37.873Z",
+    "generated_at": "2025-11-23T03:34:26.826Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-21"
+      "to": "2025-11-22"
     },
-    "article_count": 115,
+    "article_count": 118,
     "merge_info": {
-      "previous_count": 113,
-      "new_articles": 2,
-      "updated_articles": 4,
-      "total_count": 115
+      "previous_count": 115,
+      "new_articles": 3,
+      "updated_articles": 2,
+      "total_count": 118
     },
     "batch_info": {
-      "initial_batch_id": "batch_69212a0a4c0c8190a1c795703ca610df",
+      "initial_batch_id": "batch_6922801593208190abc9150c2d6acc6d",
       "retry_batches": [],
-      "total_tokens": 12204,
+      "total_tokens": 12300,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget",
+      "title": "Relief for rail passengers as fare freeze in England announced for 2026",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget",
+      "section": "money",
+      "publishedDate": "2025-11-22T22:30:51Z",
+      "trailText": "Chancellor will confirm the measure, intended to help commuters on expensive routes, in her budget speech",
+      "summary": "Chancellor Rachel Reeves has announced in the 2026 budget the first rail fare freeze in England in 30 years, holding regulated fares—including season tickets and peak/off-peak returns—at current levels to curb inflation and ease living costs. Expected to save commuters over £300 annually on costly routes, this concession complements energy bill support and offsets forthcoming tax rises (including frozen income tax thresholds and pension benefit cuts) to close a £20bn fiscal gap. PM Keir Starmer hailed it as key for growth and stability, while unions and transport groups praised its boost to rail affordability.",
+      "summaryTokens": 736,
+      "generatedAt": "2025-11-23T03:34:26.668Z"
+    },
+    {
+      "id": "money/2025/nov/22/mortgage-lenders-house-buying-surveyor-down-valuing",
+      "title": " Mortgage brokers say house buying at risk from surveyor ‘down valuing’ ",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/22/mortgage-lenders-house-buying-surveyor-down-valuing",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/22/mortgage-lenders-house-buying-surveyor-down-valuing",
+      "section": "money",
+      "publishedDate": "2025-11-22T12:24:57Z",
+      "trailText": "London and the south-east said to be worst affected, with valuations often coming in at 10% below the agreed sale price",
+      "summary": "Mortgage brokers report a surge in surveyor ‘down valuations’, with homes—particularly in London and the south-east—routinely marked 5-10% below agreed sale prices, though moderate markdowns of 2-5% are typical on new-build flats and rural dwellings. They attribute this to lender caution amid budget uncertainty. Buyers often need larger deposits, switch lenders or abandon deals. Notable cases include a £3.1m home valued at £3m and a London property cut by 17%. Rightmove warns pre-budget jitters intensify scrutiny. RICS clarifies these reflect lender market-value assessments. Land Registry data shows UK prices up 2.6% but London down 1.8%.",
+      "summaryTokens": 1358,
+      "generatedAt": "2025-11-23T03:34:26.668Z"
+    },
+    {
+      "id": "money/2025/nov/22/beware-buy-now-pay-later-temptation-black-friday-debt-charities-warn",
+      "title": "Beware buy now, pay later temptation on Black Friday, debt charities warn",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/22/beware-buy-now-pay-later-temptation-black-friday-debt-charities-warn",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/22/beware-buy-now-pay-later-temptation-black-friday-debt-charities-warn",
+      "section": "money",
+      "publishedDate": "2025-11-22T09:00:35Z",
+      "trailText": "Billions will be spent on credit over the discount weekend but experts say the payment option is ‘not risk-free’",
+      "summary": "Debt charities warn Black Friday shoppers to beware BNPL offers as record numbers seek help for shopping debts. Citizens Advice reports unprecedented BNPL problems and urges caution for those already struggling. Money Wellness saw record enquiries last month, with another spike expected after January. BNPL usage has jumped from 14% to 25% of UK adults, financing everything from clothes to concert tickets in three- or four-part interest-free instalments. However, missed payment penalty fees and credit damage have affected over 3 million consumers in 2024. Consumers are forecast to spend £6.4 billion on Black Friday, heightening risks. FCA regulation starts 15 July 2026.",
+      "summaryTokens": 2519,
+      "generatedAt": "2025-11-23T03:34:26.668Z"
+    },
     {
       "id": "money/2025/nov/21/how-hmrc-and-insurance-firms-make-bereavement-even-harder",
       "title": "How HMRC and insurance firms make bereavement even harder | Letters",
@@ -29,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-11-21T17:35:12Z",
       "trailText": "Letters: Dr Susan Treagus spotted an error that could have cost her dearly, plus a letter on how to satisfy car insurance algorithms",
-      "summary": "After notifying HMRC of her husband’s death via Tell Us Once, Dr Susan Treagus received a computer-generated tax code adding £62,000 to her pension income based on three months’ bank transfers, doubling her assumed earnings to over £100,000, tripling her tax rate and halving her monthly pension until she spotted the mistake and pressured HMRC to correct it. She warns the opaque, bot-driven recalculation, issued with no human oversight or explanation, could have permanently overtaxed the newly bereaved. Another reader reports sidestepping a post-bereavement car insurance premium rise by adding his adult son—who rarely travels with him—to satisfy insurers’ algorithms, highlighting absurdities in automated systems.",
-      "summaryTokens": 1294,
-      "generatedAt": "2025-11-22T03:13:37.629Z"
+      "summary": "Dr Susan Treagus reports that after notifying HMRC of her husband’s death, an algorithmic system misread two months of savings transfers for care fees and funeral costs as annual income, adding £62,000 to her occupational pension and pushing her into the higher tax bracket. She only discovered the error when her pension payments nearly halved and had to prompt HMRC for a manual correction. Another reader describes bypassing a “bereavement premium” car insurance rise by adding his distant son as a named driver, underscoring the absurd reliance on opaque algorithms at life’s most vulnerable moments.",
+      "summaryTokens": 807,
+      "generatedAt": "2025-11-23T03:34:26.668Z"
     },
     {
       "id": "money/2025/nov/21/energy-price-cap-great-britain-rise-january-fuel",
@@ -41,9 +77,9 @@
       "section": "money",
       "publishedDate": "2025-11-21T12:14:51Z",
       "trailText": "Energy price cap for average dual fuel bill will increase to £1,758 a year, from £1,755 in the current quarter",
-      "summary": "Ofgem raised Britain’s energy price cap by 0.2% from January, lifting the average annual dual-fuel bill by £3 to £1,758 – a 28p-a-month increase. Electricity costs will climb 5.1% to 27.69p/kWh while gas falls 5.7% to 5.93p. Despite 4% lower wholesale prices, rising levies and policy costs push bills ~50% above pre-Ukraine levels. Energy debt has doubled to £4.4bn. Experts urge a social tariff and VAT relief in the next budget.",
-      "summaryTokens": 877,
-      "generatedAt": "2025-11-22T03:13:37.629Z"
+      "summary": "Households face a 0.2% rise in Ofgem’s energy price cap from January, raising the average dual-fuel bill by £3 to £1,758—28p more per month—though still 2% below last year in real terms. Winter bills remain 50% above pre-Ukraine war levels. Ofgem warns wholesale prices are volatile; rising government levies lift the electricity cap 5.1% to 27.69p/kWh, while the gas cap falls 5.7% to 5.93p/kWh. Martin Lewis warns policy costs will climb into the 2030s and calls for a social tariff. National Energy Action urges funding levies via taxation. UK energy debt has reached £4.4bn and the government is considering scrapping VAT on electricity.",
+      "summaryTokens": 1746,
+      "generatedAt": "2025-11-23T03:34:26.668Z"
     },
     {
       "id": "money/2025/nov/20/reeves-urged-to-grasp-the-nettle-with-wholesale-reset-of-council-tax",
