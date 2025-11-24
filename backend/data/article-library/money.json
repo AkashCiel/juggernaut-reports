@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-23T03:34:26.826Z",
+    "generated_at": "2025-11-24T03:36:10.949Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-22"
+      "to": "2025-11-23"
     },
-    "article_count": 118,
+    "article_count": 119,
     "merge_info": {
-      "previous_count": 115,
-      "new_articles": 3,
-      "updated_articles": 2,
-      "total_count": 118
+      "previous_count": 118,
+      "new_articles": 1,
+      "updated_articles": 3,
+      "total_count": 119
     },
     "batch_info": {
-      "initial_batch_id": "batch_6922801593208190abc9150c2d6acc6d",
+      "initial_batch_id": "batch_6923d252a9ac8190bf07df1cf51604d9",
       "retry_batches": [],
-      "total_tokens": 12300,
+      "total_tokens": 8657,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/23/fire-alert-the-fake-amazon-tv-stick-that-opens-the-door-to-fraudsters",
+      "title": "Fire alert: the fake ‘Amazon TV stick’ that opens the door to fraudsters",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/23/fire-alert-the-fake-amazon-tv-stick-that-opens-the-door-to-fraudsters",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/23/fire-alert-the-fake-amazon-tv-stick-that-opens-the-door-to-fraudsters",
+      "section": "money",
+      "publishedDate": "2025-11-23T07:00:03Z",
+      "trailText": "Two out of five illegal streamers have fallen prey to fraud, likely via a ‘modded’ USB stick that exposes users to data theft and cybercrime",
+      "summary": "Modded Amazon Fire Sticks sold for around £20 promise free sports and TV streaming but quietly install malware that lets criminals install keyloggers, harvest reused passwords and access bank accounts across connected devices. A BeStreamWise survey found 40% of illegal streamers lost an average of £1,700. UK police (PIPCU) and the Federation Against Property Theft are cracking down on suppliers. Experts advise unplugging the device, resetting passwords, enabling multifactor authentication, running antivirus scans and reporting fraud to Action Fraud.",
+      "summaryTokens": 539,
+      "generatedAt": "2025-11-24T03:36:10.406Z"
+    },
     {
       "id": "money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget",
       "title": "Relief for rail passengers as fare freeze in England announced for 2026",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-22T22:30:51Z",
       "trailText": "Chancellor will confirm the measure, intended to help commuters on expensive routes, in her budget speech",
-      "summary": "Chancellor Rachel Reeves has announced in the 2026 budget the first rail fare freeze in England in 30 years, holding regulated fares—including season tickets and peak/off-peak returns—at current levels to curb inflation and ease living costs. Expected to save commuters over £300 annually on costly routes, this concession complements energy bill support and offsets forthcoming tax rises (including frozen income tax thresholds and pension benefit cuts) to close a £20bn fiscal gap. PM Keir Starmer hailed it as key for growth and stability, while unions and transport groups praised its boost to rail affordability.",
-      "summaryTokens": 736,
-      "generatedAt": "2025-11-23T03:34:26.668Z"
+      "summary": "Chancellor Rachel Reeves has frozen regulated rail fares in England for 2026—the first such move in 30 years—to curb inflation, ease living costs and support growth amid expected tax rises to fill a £20 bn budget gap. The freeze, unveiled in the upcoming budget, spares commuters from a projected 4.8% rise, saving over £300/year on costly routes. Season tickets and peak/off-peak returns (over 1 bn journeys) are covered, while advance and first-class fares remain uncapped. Transport advocates and unions have welcomed the measure ahead of nationalised Great British Railways by 2027.",
+      "summaryTokens": 943,
+      "generatedAt": "2025-11-24T03:36:10.406Z"
     },
     {
       "id": "money/2025/nov/22/mortgage-lenders-house-buying-surveyor-down-valuing",
@@ -41,9 +53,9 @@
       "section": "money",
       "publishedDate": "2025-11-22T12:24:57Z",
       "trailText": "London and the south-east said to be worst affected, with valuations often coming in at 10% below the agreed sale price",
-      "summary": "Mortgage brokers report a surge in surveyor ‘down valuations’, with homes—particularly in London and the south-east—routinely marked 5-10% below agreed sale prices, though moderate markdowns of 2-5% are typical on new-build flats and rural dwellings. They attribute this to lender caution amid budget uncertainty. Buyers often need larger deposits, switch lenders or abandon deals. Notable cases include a £3.1m home valued at £3m and a London property cut by 17%. Rightmove warns pre-budget jitters intensify scrutiny. RICS clarifies these reflect lender market-value assessments. Land Registry data shows UK prices up 2.6% but London down 1.8%.",
-      "summaryTokens": 1358,
-      "generatedAt": "2025-11-23T03:34:26.668Z"
+      "summary": "Mortgage surveyors have increasingly down-valued UK properties—often 5–15% below agreed sale prices, averaging around 10%—turning deals upside down, especially in London and the south-east. Brokers attribute the trend to pre-budget jitters and lender caution. Buyers forced to renegotiate, switch lenders or raise larger deposits; some purchases have collapsed after valuations cut a £3.1m home to £3m or dipped 17% in central London. RICS clarifies this reflects lender market-value assessments versus buyer valuations. New-build, unique rural properties and slower southern markets face the biggest markdowns, exacerbating regional price divergence and market uncertainty.",
+      "summaryTokens": 1794,
+      "generatedAt": "2025-11-24T03:36:10.406Z"
     },
     {
       "id": "money/2025/nov/22/beware-buy-now-pay-later-temptation-black-friday-debt-charities-warn",
@@ -53,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-11-22T09:00:35Z",
       "trailText": "Billions will be spent on credit over the discount weekend but experts say the payment option is ‘not risk-free’",
-      "summary": "Debt charities warn Black Friday shoppers to beware BNPL offers as record numbers seek help for shopping debts. Citizens Advice reports unprecedented BNPL problems and urges caution for those already struggling. Money Wellness saw record enquiries last month, with another spike expected after January. BNPL usage has jumped from 14% to 25% of UK adults, financing everything from clothes to concert tickets in three- or four-part interest-free instalments. However, missed payment penalty fees and credit damage have affected over 3 million consumers in 2024. Consumers are forecast to spend £6.4 billion on Black Friday, heightening risks. FCA regulation starts 15 July 2026.",
-      "summaryTokens": 2519,
-      "generatedAt": "2025-11-23T03:34:26.668Z"
+      "summary": "Debt charities warn that Black Friday’s flood of buy now, pay later (BNPL) offers—used by over a third of Britons and accounting for £6.4 bn in 2025 spending—risks driving unprecedented debt. Use has leapt from 14% to 25% of UK adults, with 3 m missing payments in 2024, incurring fees and credit-score harm. Popular for £114 average transactions, especially fashion, BNPL’s instalment plans can overwhelm budgets. With no current regulation, the FCA will only bring BNPL under consumer credit rules from July 2026.",
+      "summaryTokens": 1084,
+      "generatedAt": "2025-11-24T03:36:10.406Z"
     },
     {
       "id": "money/2025/nov/21/how-hmrc-and-insurance-firms-make-bereavement-even-harder",
