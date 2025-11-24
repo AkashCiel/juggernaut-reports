@@ -1,23 +1,23 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-23T03:42:38.481Z",
+    "generated_at": "2025-11-24T03:50:11.830Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-22"
     },
     "article_count": 211,
     "merge_info": {
-      "previous_count": 209,
-      "new_articles": 2,
+      "previous_count": 211,
+      "new_articles": 0,
       "updated_articles": 2,
       "total_count": 211
     },
     "batch_info": {
-      "initial_batch_id": "batch_69228221086c8190a52da53b60cd8380",
+      "initial_batch_id": "batch_6923d4a4b7e08190a243a9d17f7ae5cf",
       "retry_batches": [],
-      "total_tokens": 9014,
-      "processing_time_hours": 0
+      "total_tokens": 5640,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
@@ -29,9 +29,9 @@
       "section": "technology",
       "publishedDate": "2025-11-22T14:00:40Z",
       "trailText": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say",
-      "summary": "AI workers on platforms like Amazon Mechanical Turk and Google’s ratings teams, responsible for moderating and assessing AI outputs, have lost trust in the very systems they train. Incidents like mislabeling racial slurs prompted Krista Pawloski to ban generative AI at home; others likewise warn loved ones after witnessing medical misadvice, political bias, and rushed, under-resourced labeling. They criticize incentive structures that prioritize speed and scaling over accuracy and ethics, leading to confident AI hallucinations, cultural blind spots, and ignored rater feedback. By exposing hidden labor, environmental costs and flawed data, they urge public scrutiny akin to sweatshop revelations in fashion.",
-      "summaryTokens": 684,
-      "generatedAt": "2025-11-23T03:42:38.332Z"
+      "summary": "Moderators such as Krista Pawloski and Brook Hansen, who label content on Amazon Mechanical Turk, have stopped using generative AI personally and warn loved ones to avoid it, citing frequent hallucinations and harmful bias. More than a dozen raters working on Google’s Gemini, Meta’s Bard and Grok describe rushed timelines, minimal training and vague instructions leading to errors—from racial slurs slipping through to AI refusing questions on Palestinian history. A NewsGuard audit found non-response rates plunged from 31% to 0% while false info doubled to 35%. Experts warn that shipping speed over safety undermines accurate, ethical AI and call for transparency on data sources, labor conditions and environmental costs.",
+      "summaryTokens": 1140,
+      "generatedAt": "2025-11-24T03:50:11.293Z"
     },
     {
       "id": "technology/2025/nov/22/bro-boost-women-find-linkedin-traffic-drives-if-they-pretend-to-be-men",
@@ -41,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-11-22T07:00:32Z",
       "trailText": "Collective experiment found switching profile to ‘male’ and ‘bro-coding’ text led to big increase in reach, though site denies favouring posts by men",
-      "summary": "Dozens of women on LinkedIn have changed their profiles to male or adopted ‘bro-coded’ jargon to test reach; Oxford consultant Simone Bonnett saw a 1,600% jump in views and 1,300% in impressions after switching pronouns to he/him, and strategist Megan Cornish reported a 415% spike in reach and 5,000 reactions on a recycled post. Others, like writer Cass Cooper, experimented but saw declines, highlighting intersections of gender and race. LinkedIn denies leveraging demographic data, attributing feed visibility to ‘hundreds of signals’ and higher overall content volume, but users speculate algorithmic bias privileges ‘agentic’ male-coded language.",
-      "summaryTokens": 646,
-      "generatedAt": "2025-11-23T03:42:38.332Z"
+      "summary": "Dozens of women on LinkedIn reported dramatic spikes in profile views, impressions and engagement—up to 1,600% and 1,300% respectively—after switching their profile gender to male and rewriting bios and posts with ‘bro-coded’ buzzwords like “drive” and “accelerate.” LinkedIn insists its feed algorithm doesn’t use demographic data and cites hundreds of signals and rising content volume for reach changes. Some women of color saw no boost or outright declines, underscoring opaque algorithmic bias. Participants warn recent tweaks and societal sexism have turned LinkedIn into a ‘wild west’ of agentic, male-coded content.",
+      "summaryTokens": 632,
+      "generatedAt": "2025-11-24T03:50:11.293Z"
     },
     {
       "id": "technology/2025/nov/21/increased-ai-use-law-firm-clifford-chance-cuts-london-jobs-10-per-cent",
