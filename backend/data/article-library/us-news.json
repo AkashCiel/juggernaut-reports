@@ -1,26 +1,194 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-23T03:46:14.007Z",
+    "generated_at": "2025-11-24T03:52:33.279Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-22"
+      "to": "2025-11-24"
     },
-    "article_count": 1364,
+    "article_count": 1378,
     "merge_info": {
-      "previous_count": 1353,
-      "new_articles": 11,
-      "updated_articles": 30,
-      "total_count": 1364
+      "previous_count": 1364,
+      "new_articles": 14,
+      "updated_articles": 17,
+      "total_count": 1378
     },
     "batch_info": {
-      "initial_batch_id": "batch_692282b7fc188190935e3276e82bafc8",
+      "initial_batch_id": "batch_6923d5fe097881909d50f7e5ca9489cd",
       "retry_batches": [],
-      "total_tokens": 96680,
-      "processing_time_hours": 0.1
+      "total_tokens": 69264,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/nov/24/trump-administration-news-updates-latest",
+      "title": "Trump news at a glance: Democrats say they won’t be intimidated by president’s threats",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/24/trump-administration-news-updates-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/24/trump-administration-news-updates-latest",
+      "section": "us-news",
+      "publishedDate": "2025-11-24T01:09:22Z",
+      "trailText": "Democratic senators condemn Trump after he suggests ‘seditious behaviour’ be punishable ‘by death’. Key US politics stories from Sunday 23 November",
+      "summary": "President Trump accused Democrats of 'seditious behavior punishable by death' on social media. Senator Mark Kelly refused to be intimidated and urged Republicans to condemn the threats; Senator Amy Klobuchar called them 'dangerous.' Zohran Mamdani reaffirmed his 'fascist' label for Trump. X's new 'About this account' tool reveals many leading MAGA influencers are based abroad, and the 'Doge' efficiency office disbanded eight months early. An Epstein survivor denounced Trump's call a 'hoax' in a file release fight, and ICE detained a U.S. teen during school lunch.",
+      "summaryTokens": 2342,
+      "generatedAt": "2025-11-24T03:52:32.716Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/senator-mark-kelly-trump-threats-democrats-congress-military",
+      "title": "US senator slams Republicans’ silence on Trump’s violent threats to Democrats",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/senator-mark-kelly-trump-threats-democrats-congress-military",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/senator-mark-kelly-trump-threats-democrats-congress-military",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T23:15:07Z",
+      "trailText": "Mark Kelly, a veteran and Democrat targeted by Trump over military comments, says he is ‘not going to be intimidated’",
+      "summary": "Sen. Mark Kelly (D-AZ) on Face the Nation slammed congressional Republicans for remaining silent after former President Trump threatened to hang him and five other Democratic lawmakers for urging active-duty military personnel to refuse illegal orders. The six, all ex-military or intel officers, released a video stating “Our laws are clear: you can refuse illegal orders.” Trump called for their arrest and “punishable by death,” reposting calls to “HANG THEM.” House Democratic leaders condemned his violent rhetoric; Sen. Amy Klobuchar and VP nominee JD Vance also weighed in. Kelly vowed, “I’m not going to be intimidated.”",
+      "summaryTokens": 1006,
+      "generatedAt": "2025-11-24T03:52:32.716Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/mamdani-trump-fascist",
+      "title": "Mamdani reiterates Trump is a ‘fascist’ just days after cordial meeting",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/mamdani-trump-fascist",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/mamdani-trump-fascist",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T20:17:34Z",
+      "trailText": "New York mayor-elect reaffirms past criticisms of president after agreeing to work with him on cost-of-living concerns",
+      "summary": "NYC mayor-elect Zohran Mamdani reiterated in an NBC interview that President Donald Trump remains a “fascist” and “despot,” reaffirming comments from his November victory speech, even after their unexpectedly cordial White House meeting. The pair agreed to collaborate on housing, food prices and cost-of-living issues, with Trump praising Mamdani’s potential. Mamdani defended retaining Police Commissioner Jessica Tisch for driving down crime and tackling corruption, a move endorsed by NEC director Kevin Hassett, despite divergent views on police headcount.",
+      "summaryTokens": 852,
+      "generatedAt": "2025-11-24T03:52:32.716Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/ice-oregon-student-citizen-detained-immigration",
+      "title": "ICE detained teenaged US citizen during school lunch break, family says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/ice-oregon-student-citizen-detained-immigration",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/ice-oregon-student-citizen-detained-immigration",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T20:00:30Z",
+      "trailText": "Christian Jimenez, Oregon high school senior, faces possible obstruction charges after traffic stop by immigration agents",
+      "summary": "Seventeen-year-old McMinnville High School senior Christian Jimenez, a US citizen, was stopped by ICE agents during his off-campus lunch break, had his car window broken and was detained despite repeatedly asserting his citizenship. He was held at a Portland ICE facility from 12:30 pm until just before 7 pm and faces potential obstruction charges. The district superintendent stressed campus security and predictable routines, while advocates report at least four US citizens were detained by ICE near Portland that week.",
+      "summaryTokens": 277,
+      "generatedAt": "2025-11-24T03:52:32.716Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/rightwing-influencers-outside-us-x-twitter-tool",
+      "title": "Many prominent Maga personalities on X are based outside US, new tool reveals",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/rightwing-influencers-outside-us-x-twitter-tool",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/rightwing-influencers-outside-us-x-twitter-tool",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T18:17:20Z",
+      "trailText": "Users posing as rightwing Americans are operating internationally, per the platform’s transparency feature",
+      "summary": "A new “about this account” feature on Elon Musk’s X lets users view account location, creation date, name changes and download source. It revealed that many top MAGA influencers — including MAGANationX (eastern Europe), IvankaNews (Nigeria), Dark Maga (Thailand), MAGA Scope (Nigeria) and MAGA Beacon (South Asia) — are operated outside the US. Exposed by users and on Reddit, these foreign-based actors posing as patriotic Americans reignited debates over misinformation and bot-driven propaganda amplified since Musk’s 2022 takeover.",
+      "summaryTokens": 539,
+      "generatedAt": "2025-11-24T03:52:32.716Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/trump-musk-doge-reportedly-disbanded",
+      "title": "‘That doesn’t exist’: Doge reportedly quietly disbanded ahead of schedule",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/trump-musk-doge-reportedly-disbanded",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/trump-musk-doge-reportedly-disbanded",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T17:14:34Z",
+      "trailText": "Statement by Trump administration confirms longstanding suspicions that Musk-led agency is on its way out",
+      "summary": "The Trump-created Department of Government Efficiency (Doge), led by Elon Musk and Vivek Ramaswamy to drive structural reforms through July 2026, was quietly dissolved eight months early, OPM director Scott Kupor told Reuters. Staffers reportedly packed up bedding at Doge headquarters after cutting 200,000 federal jobs and 75,000 buyouts, claiming unverified billions in savings. OPM has absorbed Doge’s functions. Key leaders have since shifted roles: Amy Gleason to HHS adviser, Zachary Terrell to Health CTO, Rachel Riley to chief of Naval Research and Joe Gebbia to revamp government websites.",
+      "summaryTokens": 621,
+      "generatedAt": "2025-11-24T03:52:32.716Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/oakland-football-coach-john-beam",
+      "title": "‘I used to call him on Father’s Day’: Oakland shattered by football coach’s killing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/oakland-football-coach-john-beam",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/oakland-football-coach-john-beam",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T16:00:12Z",
+      "trailText": "In a city where football is more than a sport, the gun death of John Beam has provoked an outpouring of emotion",
+      "summary": "Oakland’s beloved 66-year-old football coach John Beam, who mentored generations at Laney College and Skyline High—leading the latter to 15 Oakland Athletic League titles—was shot in the head in a “targeted” attack on Nov. 13 and died Nov. 14. Suspect 27-year-old Cedric Irving Jr., with no prior record, is held without bail, facing 50-to-life if convicted; plea set for Dec. 16. Beam’s death has spurred citywide mourning: a candlelit shrine, student walkouts over school safety and planned tributes including field renaming, alumni games and an annual “Oakland football classic” in his honor.",
+      "summaryTokens": 644,
+      "generatedAt": "2025-11-24T03:52:32.716Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/maniac-murder-cult-michail-chkhikvishvili-terrorism",
+      "title": "How cult leader ‘Commander Butcher’ plotted to sow mayhem across US",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/maniac-murder-cult-michail-chkhikvishvili-terrorism",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/maniac-murder-cult-michail-chkhikvishvili-terrorism",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T15:00:11Z",
+      "trailText": "Guilty plea by far-right activist lays bare plans for bombings, school shootings and Santas handing out poisoned candies",
+      "summary": "Michail Chkhikvishvili, a 23-year-old Georgian neo-Nazi known as “Commander Butcher,” pleaded guilty in Brooklyn federal court to soliciting bombings, school shootings and hate-motivated violence across the US. As leader of the Maniac Murder Cult, he recruited followers to plot mass casualty assaults—poisoned Santa giveaways targeting minorities, poison in Jewish schools, bombings “bigger than Breivik”—and distributed a “Haters Handbook” on lethal poisons, gases and mass violence. Prosecutors link his manuals to a livestreamed Nashville school shooting. Facing up to 18 years, he now expresses regret amid warnings about rising racially motivated extremist threats. Arrested in Moldova in May, he apologized in court.",
+      "summaryTokens": 1237,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/epstein-survivor-condemns-trump",
+      "title": "Epstein survivor condemns Trump for calling file release fight a ‘hoax’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/epstein-survivor-condemns-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/epstein-survivor-condemns-trump",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T14:16:34Z",
+      "trailText": "Danielle Bensky, who was abused by Jeffrey Epstein, says president was ‘incredibly disrespectful’ in recent comments",
+      "summary": "Danielle Bensky, an Epstein survivor, denounced President Trump for labeling the newly signed bill to release Epstein files a “hoax,” calling his Truth Social rant “incredibly disrespectful.” She praised fellow survivors—Maria Farmer, Chauntae Davies and Virginia Giuffre—and highlighted their Capitol campaign. Recruited at 17 under false medical pretenses, Bensky endured threats and rape, later finding solace in choreography. She warns of redactions, demands accountability for facilitators, applauds Prince Andrew’s title stripping and urges full transparency to drive justice and systemic change.",
+      "summaryTokens": 927,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/sean-sherman-turtle-island-cookbook-indigenous-food",
+      "title": "‘Eating Indigenously’: award-winning chef celebrates Native American cuisine in new cookbook",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/sean-sherman-turtle-island-cookbook-indigenous-food",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/sean-sherman-turtle-island-cookbook-indigenous-food",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T14:00:12Z",
+      "trailText": "James Beard-winning chef Sean Sherman’s cookbook Turtle Island pushes readers to view food systems through an Indigenous lens",
+      "summary": "James Beard–winning Oglala Lakota chef Sean Sherman draws on his Pine Ridge Reservation upbringing to reframe North American cuisines in Turtle Island: Foods and Traditions of the Indigenous Peoples of North America (Nov 11). Co-authored with Kate Nelson and Kristin Donnelly, this 13-chapter cookbook weaves Lakota bison hunts, prairie turnips and nixtamalized corn with First Salmon ceremonies, Arctic seal tartare and dry-farmed beans across 13 regions. Sherman advocates food sovereignty—eschewing colonial wheat, dairy and sugar—to restore health, culture and sustainable ecosystems via Owamni restaurant and NATIFS programs.",
+      "summaryTokens": 1530,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/brand-new-activists-political-movements",
+      "title": "Brand-new activists are discovering political movements – and each other: ‘You feel the camaraderie’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/brand-new-activists-political-movements",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/brand-new-activists-political-movements",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T13:00:09Z",
+      "trailText": "Organizers are breaking down barriers and creating clever campaigns to welcome people new to protesting",
+      "summary": "In New Hampshire and beyond, political newcomers like 62-year-old Donna DesRuisseaux are joining bridge-and-overpass demonstrations and No Kings rallies amid fears of democratic erosion and social-safety-net cuts. Organizers—Indivisible, NH Bridge Brigade and NorCal Resist—lower barriers with honk-friendly campaigns, reading circles, Zoom talks, art partnerships (Princess Nokia benefit, Bad Taste posters) and fandom-focused ads (Andor audience). New groups like Stand Up for Science use humor (“Get In, Dorks” rallies, Quack-O-Grams) to mobilize fresh allies. Researchers invoke the 3.5% rule and intersectional solidarity spanning education, racial justice, immigration, environment and LGBTQ+ issues.",
+      "summaryTokens": 647,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/dan-driscoll-trump-ukraine-russia-peace-deal",
+      "title": "Trump’s former ‘drone guy’ Dan Driscoll is the unlikely point man for the Ukraine peace deal",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/dan-driscoll-trump-ukraine-russia-peace-deal",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/dan-driscoll-trump-ukraine-russia-peace-deal",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T13:00:09Z",
+      "trailText": "The army secretary has little in his résumé to suggest he can end the war between Russia and Ukraine",
+      "summary": "Dan Driscoll, Trump’s army secretary and former investment banker, has emerged as the unlikely US point man for a 28-point peace plan between Russia and Ukraine. A Yale Law friend of JD Vance with no diplomatic background beyond three years as an infantry officer in Iraq and overseeing a $200 billion Army budget, he’s been tasked with delivering the plan—denounced by Kyiv and European allies as capitulation—to Zelenskyy, then taking it to Putin and NATO capitals. His reputation for tech advocacy, notably praising Ukraine’s MacGyver-style drone production, underpins his newfound diplomatic role.",
+      "summaryTokens": 619,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/activists-immigration-charlotte-north-carolina",
+      "title": "Charlotte activists met the immigration crackdown with ‘bless your heart’ resistance",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/activists-immigration-charlotte-north-carolina",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/activists-immigration-charlotte-north-carolina",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T11:00:07Z",
+      "trailText": "ICE and CBP’s North Carolina operation faced an early-warning system run by thousands of volunteers",
+      "summary": "Charlotte activists countered a CBP and ICE enforcement sweep by building a grassroots early-warning network of thousands of volunteers tracking federal vehicles, documenting license plates and staging areas, and mobilizing neighborhood patrols from Tryon Street to western mountain towns. Branded a ‘bless-your-heart’ resistance—quietly mocking but sincerely protective—they honked horns, followed convoys, and shared real-time reports. Amid contradictory DHS and sheriff statements on the operation’s status, observers confirmed a 47-vehicle retreat to Atlanta after a week of intensified disruption, underscoring local political caution in a divided North Carolina.",
+      "summaryTokens": 424,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
+    },
+    {
+      "id": "us-news/2025/nov/23/trump-administration-news-updates-latest",
+      "title": "Trump news at a glance: Marjorie Taylor Greene is gone, but Trump wonders for how long",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/23/trump-administration-news-updates-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/23/trump-administration-news-updates-latest",
+      "section": "us-news",
+      "publishedDate": "2025-11-23T05:53:38Z",
+      "trailText": "The ultra-loyal Maga star announced her departure in typical shocking fashion, but president says he would love to see her back in politics – key US politics stories from 22 November 2025",
+      "summary": "Marjorie Taylor Greene stunned DC by resigning from the House days after her pension kicked in, drawing criticism from Alexandria Ocasio-Cortez over Medicaid and ACA votes, praise from GOP holdouts like Thomas Massie and a hint from Donald Trump that he’d welcome her political return. Other key US politics updates: a Missouri campaign to repeal GOP-drawn maps; a D.C. appeals court blocking Trump’s fast-track deportation expansion; veterans decrying his sedition rhetoric; and the termination of Somali TPS in Minnesota; briefs on Tatiana Schlossberg’s terminal cancer and LA’s first rebuilt Pacific Palisades home.",
+      "summaryTokens": 1329,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
+    },
     {
       "id": "us-news/2025/nov/22/tatiana-schlossberg-jfk-terminal-cancer",
       "title": "Tatiana Schlossberg, granddaughter of JFK, announces terminal cancer diagnosis",
@@ -29,9 +197,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T19:43:11Z",
       "trailText": "Journalist, daughter of Caroline Kennedy and Edwin Schlossberg, reveals she has acute myeloid leukemia",
-      "summary": "Tatiana Schlossberg, 35, journalist and daughter of Caroline Kennedy and Edwin Schlossberg, revealed in a New Yorker essay that she has acute myeloid leukemia with under a year to live. Diagnosed in May 2024 after her second child’s birth, she’s treated at NewYork-Presbyterian/Columbia. Schlossberg sharply criticizes cousin RFK Jr.’s HHS tenure—his anti‐vaccine stance, $500 million cut to mRNA research, multibillion NIH reductions and a brief Trump-era funding withdrawal—for undermining her care. Former climate reporter, she now focuses on making memories with her two young children.",
-      "summaryTokens": 1843,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Tatiana Schlossberg, 35-year-old environmental journalist and JFK’s granddaughter, revealed in a New Yorker essay that she has acute myeloid leukemia and a prognosis of less than a year. Diagnosed shortly after giving birth in May 2024, she critiques cousin Robert F. Kennedy Jr.’s tenure as HHS secretary for slashing nearly $500 million in mRNA vaccine research, cutting billions from the NIH, and adopting anti-vaccine stances that she says undermine cancer care. Undergoing treatment at NewYork-Presbyterian/Columbia, she focuses on cherishing memories with her two young children.",
+      "summaryTokens": 747,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/stepbrother-investigated-cruise-anna-kepner",
@@ -41,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T18:04:03Z",
       "trailText": "Anna Kepner, 18, from Titusville, was found dead of asphyxiation under a bed on a Carnival cruise ship",
-      "summary": "Anna Kepner, 18, found dead under a bed aboard Carnival Horizon on Nov. 8, died by asphyxiation from a bar hold, two neck bruises noted. Her 16-year-old stepbrother, who shared the stateroom, is under FBI investigation; final autopsy and toxicology pending. He was reportedly allowed to drink in international waters and was hospitalized after docking in Miami. Carnival Cruise Line is cooperating with the FBI. Disclosures arose in a family court custody hearing; parents agreed to have him live with a relative. Kepner’s mother learned of the death via Google; a memorial in Titusville drew hundreds.",
-      "summaryTokens": 946,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Anna Kepner, 18, was found dead under a bed wrapped in a blanket aboard the Carnival Horizon on Nov. 8; preliminary findings cite asphyxiation from a bar hold and neck bruises. Investigators have named her 16-year-old stepbrother, who shared her stateroom and was allowed to drink in international waters, as a suspect. The FBI, aided by Carnival Cruise Line, is probing the case. The family court hearing revealed the boy’s involvement and prompted a postponed custody dispute. Anna was memorialized in Titusville; her mother learned of her death via Google.",
+      "summaryTokens": 878,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/missouri-voting-map-republicans",
@@ -53,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T18:00:45Z",
       "trailText": "A new congressional map was abruptly passed by Republicans in mid-September – but voters have a chance to rebuke politicians and stop it from going into effect",
-      "summary": "In Missouri, 69-year-old Democrat Jill Imbler leads a grassroots signature drive to pause and refer the GOP-crafted mid-decade congressional map that eliminates Democrat Emanuel Cleaver’s Kansas City district. Under Missouri’s 1908 citizens veto, 106,000 valid signatures across six districts by Dec 11 will freeze the map until a 2026 referendum. The effort has collected over 200,000 signatures amid legal challenges, partisan funding and RNC-backed resistance.",
-      "summaryTokens": 392,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Retired teacher’s aide Jill Imbler and fellow volunteers are leading a citizens veto campaign to suspend and refer to voters a new congressional map abruptly passed by Missouri Republicans in September at Donald Trump’s request. They need 106,000 valid signatures from six of eight districts by Dec. 11 to pause the law ahead of a 2026 referendum. Having collected over 200,000 signatures, they face GOP counter-efforts to invalidate petitions and block the vote, including lawsuits and RNC-funded pressure. Observers see the outcome as a bellwether in the mid-decade redistricting battle influencing control of the U.S. House.",
+      "summaryTokens": 617,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/marjorie-taylor-greene-political-reactions",
@@ -65,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T17:50:27Z",
       "trailText": "Some Republicans offered congresswoman plaudits, but AOC was scathing in her dismissal of her frequent sparring partner",
-      "summary": "Rep. Marjorie Taylor Greene announced she will resign effective January 5, calling herself a ‘battered wife’ after GOP discord, public fallout with Trump and disputes over Epstein files, foreign conflicts and healthcare. Alexandria Ocasio-Cortez accused her of timing the departure for pension benefits and cited her votes cutting Medicaid and ACA tax credits. Kentucky Republican Thomas Massie praised her ‘honesty,’ while Trump first mocked her ‘plummeting poll numbers’ then said he’d welcome her return. Parkland survivor David Hogg quipped ‘See ya!’ and ex-GOP Rep. Barbara Comstock applauded her exit from Trump’s orbit.",
-      "summaryTokens": 561,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Marjorie Taylor Greene (R-GA) stunned colleagues with a surprise resignation effective Jan 5, blaming her public fallout with Trump—over the Jeffrey Epstein files, foreign war funding, cost-of-living and healthcare debates—and vowing not to be a “battered wife.” Alexandria Ocasio-Cortez accused her of timing the exit to secure her pension, rebuked her votes cutting Medicaid and ACA credits, and disputed her stock trades. GOP ally Thomas Massie praised her honesty; Trump branded her a “traitor” over low poll numbers but later said he’d back a return. Parkland survivor David Hogg and ex-Rep. Barbara Comstock also weighed in.",
+      "summaryTokens": 763,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/santa-monica-crime-safety",
@@ -77,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T16:00:43Z",
       "trailText": "Years of hollowed out shops, safety worries and stalled leadership have left the famed coastal city searching for a way back",
-      "summary": "Santa Monica, long celebrated for its beach, Pier, and progressive ethos, faces rising petty crime (16% public order offense increase), 35% office vacancy and 1-in-6 empty storefronts as tourism plunges, housing costs soar, and budget deficits prompt a state of financial distress. Homelessness exacerbated by meth and fentanyl use deters visitors and businesses, prompting closures of landmark restaurants and the Third Street Promenade’s decline. City manager Oliver Chi’s two-and-a-half-year realignment plan proposes more downtown patrols, faster permitting, revived libraries, public art, digital billboard revenue, New Orleans–style open-container areas and reduced regulations—but local entrepreneurs demand deeper governance reforms before reinvesting.",
-      "summaryTokens": 887,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Santa Monica has plunged into crisis after years of rising petty crime, empty shops, dwindling services and budget shortfalls. Its famed beach, Third Street Promenade and Santa Monica Place now see low footfall amid online shopping, tech-driven housing costs and pandemic fallout. Stalled governance, slow permitting, high labor costs and homelessness-fueled disorder deter retailers; vacancies hit one in six storefronts and 35% of offices. City manager Oliver Chi's 'realignment' plan calls for more policing, faster permits, eased outdoor-dining rules, digital billboards and street art to revive revenue, but execution and structural reform remain uncertain.",
+      "summaryTokens": 1387,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/what-will-hemp-ban-mean",
@@ -89,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T16:00:43Z",
       "trailText": "Ban forbids all products that contain more than 0.4 milligrams of THC per package – a trace amount present in most CBD products",
-      "summary": "Sen. McConnell quietly added a ban to the spending bill that, 12 months after enactment, prohibits hemp products with over 0.4 mg of THC per package—a threshold found in most CBD items. The US hemp industry, generating $28 bn annually and employing 300 000, faces uncertainty: possible state-autonomy regimes versus a total prohibition ending interstate sales. Companies like GŪD Essence and BRĒZ are planning product pivots (Lion’s Mane, L-Theanine). Industry figures, including High Times owner Josh Kesselman, warn this mirrors Heritage Foundation–inspired federal cannabis restrictions. Backlash has prompted reps like Frost and Sen. Smith to speak out, and some hope Congress will instead federalize hemp regulation.",
-      "summaryTokens": 1297,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Senator Mitch McConnell added a clause to the spending bill that will ban, after 12 months, any hemp product with over 0.4 mg THC per package—effectively outlawing most CBD goods. The US hemp industry, generating $28 billion revenue and employing 300,000, faces potential state-level exemptions or a total federal prohibition. Companies are planning for scenarios ranging from state autonomy to supply chain shutdowns. Interstate shipping would be prohibited, forcing companies to restructure distribution. Industry groups and lawmakers like Maxwell Frost and Tina Smith are now opposing the ban, advocating for new federal hemp regulations to preserve market stability.",
+      "summaryTokens": 1777,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/new-orleans-trump-immigration-crackdown",
@@ -101,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T14:00:41Z",
       "trailText": "As many as 250 federal agents are expected to descend on the city imminently – despite falling crime",
-      "summary": "New Orleans braces for 'Operation Swamp Sweep', a Trump-led DHS crackdown deploying ~250 federal agents in SE Louisiana and Mississippi from Dec 1 aiming 5,000 arrests, despite a 20% drop in violent crime. Border Patrol commander Gregory Bovino, known for aggressive campaigns in Chicago and Charlotte, will lead. Local activists plan legal workshops, community alerts, and escort networks; Unión Migrante holds “Know Your Rights” sessions. Mayor-elect Helena Moreno warns of due-process violations and racial profiling. Gov. Jeff Landry backed state laws forcing cooperation with ICE. NOPD, freed from federal oversight, will coordinate with agents but avoid removals.",
-      "summaryTokens": 1083,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Amid a 20% drop in violent crime, New Orleans braces for Operation Swamp Sweep: around 250 CBP and ICE agents will deploy Dec. 1 under Trump’s mass deportation plan aiming for 5,000 arrests across southeast Louisiana and Mississippi. Led by Border Patrol commander Gregory Bovino, the crackdown echoes tactics in Los Angeles, Chicago and Charlotte that sparked protests and legal challenges over aggressive arrests and use of force. Residents share ICE sighting alerts, coordinate escorts for children, and attend Unión Migrante’s Know Your Rights workshops. Mayor-elect Helena Moreno warns of racial profiling and due‐process violations, while Gov. Jeff Landry endorses federal action and has backed state laws punishing local noncooperation. NOPD pledges limited collaboration but will not join deportation raids.",
+      "summaryTokens": 588,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/noam-chomsky-jeffrey-epstein-ties-emails",
@@ -113,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T13:00:41Z",
       "trailText": "The philosopher and the sex trafficker were in contact long after Epstein was convicted of soliciting prostitution from a minor, documents reveal",
-      "summary": "Emails released by House GOP reveal that 96-year-old MIT professor Noam Chomsky maintained “regular contact” with convicted sex offender Jeffrey Epstein long after his 2008 guilty plea, calling their exchanges a “most valuable experience.” A leaked unsigned letter attributed to Chomsky praises Epstein’s financial acumen, global connections (including direct calls to a Norwegian Oslo mediator and arranging a meeting with ex-PM Ehud Barak), and shared musical and vacation interests. Chomsky reportedly oversaw a $270,000 disbursement from an Epstein-linked account but insists none came directly from Epstein. MIT reviewed his ties in 2020 amid growing pressure for broader Epstein file disclosures.",
-      "summaryTokens": 635,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Emails released by House Republicans reveal Noam Chomsky maintained regular contact with convicted sex trafficker Jeffrey Epstein years after his 2008 conviction, praising their ‘in-depth discussions,’ receiving $270k via an Epstein-linked account, and writing a laudatory, undated support letter highlighting Epstein’s financial expertise and connections. Correspondence also covers music, vacations and offers of accommodation in New York and New Mexico. MIT affirmed no direct gifts. The disclosures intensify scrutiny of academic ties to Epstein amid broader calls for more file releases.",
+      "summaryTokens": 728,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/marjorie-taylor-greene-anti-trump-republican-analysis",
@@ -125,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T12:00:40Z",
       "trailText": "The Maga star won on the Epstein files and could have founded a Republican resistance movement but is instead the latest dissenter to head for the exit",
-      "summary": "After successfully forcing Trump to release Jeffrey Epstein files, Georgia congresswoman Marjorie Taylor Greene unexpectedly announced her resignation from the House, foregoing a potential anti-Trump Republican resistance. Frustrated by Trump’s relentless intimidation—public insults, primary threats, death threats—and citing self-respect and family well-being, Greene joined fellow dissenters Cheney, Corker, Flake and Kinzinger in exiting the GOP. Her departure underscores the party’s demand for absolute loyalty to Trump. Though sparking speculation about a 2028 presidential bid, Greene’s next steps remain unclear as she apologizes for past “toxic politics.”",
-      "summaryTokens": 685,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "After winning her fight to force the release of the Jeffrey Epstein files, Greene—once a fervent Trump ally—shocked colleagues by abruptly resigning from the House, a move Trump hailed as “great news” amid GOP defections on filibuster, courts and redistricting. Poised to potentially lead a Republican anti-Trump resistance like Cheney or Kinzinger, she bowed out under fear of Trump’s “mob boss” tactics—he labeled her “wacky” and threatened a primary—and likened herself to a “battered wife.” Speculation now surrounds a possible independent 2028 bid.",
+      "summaryTokens": 1324,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/rightwing-media-trump-epstein-files",
@@ -137,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T12:00:39Z",
       "trailText": "Fox News and other conservative networks have mostly avoided covering the president’s ties to the sex trafficker",
-      "summary": "After House Democrats released emails showing Jeffrey Epstein claimed Donald Trump “knew about the girls,” Fox News and other conservative outlets initially ignored the revelations, leaving viewers unaware of Trump’s time with an alleged victim and his efforts to suppress the “Epstein files.” A brief on-air slip by a progressive guest on Sean Hannity’s show marked the only acknowledgment. When a GOP defiance led Trump to reverse and support document release, hosts like Laura Ingraham and Jesse Watters framed the U-turn as a masterstroke. Coverage then evaporated: Fox’s website ran just four brief stories before refocusing on unrelated topics.",
-      "summaryTokens": 1257,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "After House Democrats released emails suggesting Trump knew of Epstein’s victims, Fox News and other conservative outlets initially ignored the story, depriving viewers of allegations that Trump spent hours at Epstein’s home. After GOP infighting – including Reps. Massie and Greene preparing to defy Trump by voting for release – Fox pivoted, portraying his eventual U-turn as a strategic victory. Hosts Laura Ingraham and Jesse Watters framed Democrats as opportunistic, downplayed Trump’s authority to release documents, then quickly reverted to sparse coverage, focusing on Miss Universe instead.",
+      "summaryTokens": 989,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/22/trump-military-veterans",
@@ -149,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T11:00:38Z",
       "trailText": "Experts infuriated by president accusing Democrats of ‘sedition’ for urging soldiers to refuse illegal orders",
-      "summary": "Veterans and legal experts condemn Trump’s claims of “sedition, punishable by death” against Democratic lawmakers who urged soldiers to refuse illegal orders. They warn his broad use of sedition, execution rhetoric and politicization risk service members’ safety, undermine legal norms and civilian control. Retired JAG officers highlight the high bar for unlawful orders, stress duty to seek clarification, and caution that ambiguous guidance could jeopardize careers. They criticize Venezuela boat strikes as illegal murder, not combat, but note the nuance distinguishing manifestly unlawful acts from debatable operations. Calls grow for senior leaders to reaffirm oaths to the Constitution and shield the military from partisan pressure.",
-      "summaryTokens": 1066,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Veterans condemned President Trump’s comments labeling Democratic lawmakers’ call for troops to refuse illegal orders as “sedition, punishable by death,” warning his rhetoric politicizes the military and endangers service members. Retired JAG officers criticized his broad misuse of sedition and treason charges, cited the recent Venezuela boat strikes as potentially unlawful, and stressed that refusal is only justified for manifestly criminal orders. Experts also voiced alarm over politicization of military lawyers following Defense Department firings, urging senior leaders to reaffirm their constitutional neutrality and protect troop morale.",
+      "summaryTokens": 404,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/21/marjorie-taylor-greene-resigns",
@@ -161,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T05:23:33Z",
       "trailText": "Decision by Georgia Republican and leading Maga figure to give up House seat comes after dramatic break with Trump, lately over the Epstein files bill",
-      "summary": "Rep. Marjorie Taylor Greene (R-GA) will resign from Congress effective Jan. 5, 2026, after publicly breaking with former President Trump—particularly over her vote to release Jeffrey Epstein files—and criticizing his support for Israel, expiring Obamacare subsidies and foreign policy. Once a leading MAGA advocate, Greene accused GOP leaders of sidelining conservative priorities and cited personal safety threats. Her departure will shrink Speaker Mike Johnson’s narrow majority. Trump called her exit “great news,” having labeled her a “traitor” and vowed to back her challenger.",
-      "summaryTokens": 860,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Georgia congresswoman Marjorie Taylor Greene will resign Jan 5, 2026 after a public fallout with Donald Trump spurred by her vote to release Jeffrey Epstein files and her criticism of his stances on Israel, Obamacare subsidies, skilled visas and AI regulation. Once a leading MAGA figure, Greene accused GOP leaders of sidelining America First priorities, faced personal threats after Trump labeled her a traitor, and will narrow Speaker Mike Johnson’s razor-thin majority. In a four-page statement she decried the “political industrial complex,” pledged to return to grassroots activism and hinted at rebuilding conservative politics outside Congress.",
+      "summaryTokens": 872,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/21/trump-marjorie-taylor-greene",
@@ -173,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T05:07:45Z",
       "trailText": "President says ‘I think she should be happy’ while Democratic colleague praises her for stance on Epstein files",
-      "summary": "Marjorie Taylor Greene announced her resignation from Congress effective Jan 5, 2026, following a public fallout with Donald Trump, who called her departure “great news for the country.” Greene lamented Trump’s withdrawal of his endorsement and cited threats, lawfare and personal attacks in her resignation statement. Democrats like Jasmine Crockett and Ro Khanna praised her role in releasing Epstein files and speculated about her future candidacy. Political strategists and influencers, including Steve Bannon, signaled her continued influence. Her exit triggered a scramble in Georgia’s 14th district as both parties eye the open seat.",
-      "summaryTokens": 932,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Marjorie Taylor Greene, Georgia Republican long allied with Donald Trump, announced her resignation effective Jan. 5, 2026, after a public falling-out over her dissent from Trump’s stance. He had withdrawn his endorsement and called her exit “great news for the country,” declining to say if she’d notified him. Greene cited “death threats, lawfare and slander” after losing Trump’s support. Democrats Jasmine Crockett and Ro Khanna praised her role in unsealing Epstein files and speculated about a 2028 run. GOP strategist Shermichael Singleton and Steve Bannon called her departure a shock, while Georgia Democrats are already gearing up for her seat race.",
+      "summaryTokens": 952,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/21/marjorie-taylor-greene-career-key-takeaways",
@@ -185,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T03:02:03Z",
       "trailText": "The Georgia representative said on Friday she was resigning from office effective January 2026",
-      "summary": "Georgia congresswoman Marjorie Taylor Greene, a flamboyant pro-Trump firebrand known for peddling conspiracy theories and extremist rhetoric, abruptly announced her January 2026 resignation, blaming Washington’s “political industrial complex.” After starting in 2017 as a conspiracy-laden blog writer and joining the Family America Project, she won Georgia’s 14th district in 2020 on a MAGA platform of violence praise and anti-socialist attacks. This year she broke with Trump over Israel’s Gaza offensive and the Epstein files, prompting Trump to abandon her and marking her rapid rise and fall.",
-      "summaryTokens": 810,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "Georgia congresswoman Marjorie Taylor Greene, known for her far-right stance and conspiracy theories, shocked GOP allies and Democrats alike by announcing her resignation effective January 2026. After launching her public career in 2017 on the site American Truth Seekers, she won GA-14 in 2020 as an unapologetic Trump loyalist, wielding extremist rhetoric and QAnon-tinged claims. Over the past year Greene broke with Trump on Israel’s Gaza war and the Jeffrey Epstein file release, drawing a rare public rebuke from the former president and capping a tumultuous five-year rise-and-fall in national politics.",
+      "summaryTokens": 1073,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/21/trump-administration-news-updates-latest",
@@ -197,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T02:09:04Z",
       "trailText": "Trump told the press he’s ‘very confident that [Mamdani] can do a very good job’ in surprisingly cordial meeting",
-      "summary": "President Trump hosted New York mayor-elect Zohran Mamdani at the White House, praising his surprise win and agreeing to collaborate on housing and cost-of-living measures. Rep. Marjorie Taylor Greene said she’ll resign in January, citing GOP inaction on conservative priorities. Volodymyr Zelenskyy warned Ukraine faces an impossible choice after Trump’s rushed peace-plan deadline. Immigration arrests soared above 65,000 during the shutdown, and the Bureau of Labor Statistics canceled October’s CPI report. Health Secretary RFK Jr. urged the CDC to reverse its stance on vaccines and autism. Democrats probing Jeffrey Epstein condemned Prince Andrew’s silence. Scrutiny grew over gifts of a gold clock and bar to Trump, his administration’s low diversity, and DOJ recruitment of new deportation judges. Eric Swalwell announced a California governor bid as the DOJ sued the state over in-state tuition for undocumented students.",
-      "summaryTokens": 799,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "President Trump and NYC mayor-elect Zohran Mamdani held an unusually cordial Oval Office meeting, praising his Democratic-socialist upset and agreeing on housing and affordability reforms. Separately, Marjorie Taylor Greene plans to resign in January; Volodymyr Zelenskyy warns Ukraine faces an impossible choice as Trump demands a US-backed peace plan ceding territory; immigration arrests spiked during the government shutdown; October’s CPI report was canceled; RFK Jr. pushed the CDC to revisit the vaccine-autism link; Democrats decried Prince Andrew’s Epstein silence; and other developments include scrutiny of Swiss gold gifts to Trump, Eric Swalwell’s California gubernatorial bid, a DOJ suit over in-state tuition for undocumented students, recruitment of “deportation judges,” and data showing the least-diverse US government in decades.",
+      "summaryTokens": 781,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/21/us-justice-department-ad-deportation-judges",
@@ -208,10 +376,10 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/21/us-justice-department-ad-deportation-judges",
       "section": "us-news",
       "publishedDate": "2025-11-22T00:23:27Z",
-      "trailText": "Trump administration has been purging immigration judges, as the post known, whose philosophies are different",
-      "summary": "The US Department of Justice has launched a recruitment campaign for so-called “deportation judges” to enforce the Trump administration’s immigration crackdown and replace officials deemed insufficiently strict. Advertised by DHS Secretary Kristi Noem, the role—officially titled immigration judge—carries a $159,951–$207,500 salary plus city incentives. After purging judges with high asylum‐grant or sanctuary‐city rulings and loosening EOIR rules to allow any lawyer, including military attorneys, to preside, DoJ promises new hires the authority to decide who remains in or is removed from the US.",
-      "summaryTokens": 934,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "trailText": "Trump officials have been purging immigration judges whose philosophies are different, largely in sanctuary cities",
+      "summary": "The Justice Department is recruiting legal professionals as so-called 'deportation judges'—officially classified as immigration judges—to enforce the Trump administration’s immigration crackdown. Homeland Security Sec. Kristi Noem touted DOJ ads inviting applicants to 'define America for generations,' offering salaries of $159,951–$207,500 plus city cash incentives. This follows purges of immigration judges in sanctuary cities (New York, San Francisco, Chicago, Boston) whose rulings or philosophies conflicted with administration priorities. After EOIR eased requirements in August, the DOJ has also tapped military lawyers to fill temporary judge roles amid a surging removal docket.",
+      "summaryTokens": 1135,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/21/trump-mamdani-white-house-new-york",
@@ -221,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-22T00:04:41Z",
       "trailText": "No fists, no fire – the president and the mayor-elect met in Washington, and things went bewilderingly, bizarrely well",
-      "summary": "President Trump and New York Mayor-elect Zohran Mamdani, former critics who traded insults—Trump calling Mamdani a “100% Communist lunatic” and Mamdani labeling Trump a “fascist despot”—met cordially in the Oval Office. Both pledged to prioritize affordability and safety in New York City, noting shared voters and policies. Trump promised federal support, predicted Mamdani’s “surprises,” and even defended him against GOP attacks calling him a “jihadist.” Their warm rapport defied party lines, suggesting a convergence of insurgent populisms and a new bipartisan focus on local governance over ideology.",
-      "summaryTokens": 809,
-      "generatedAt": "2025-11-23T03:46:13.785Z"
+      "summary": "At their Nov 21 Oval Office meeting, President Donald Trump and incoming New York City mayor Zohran Mamdani, despite trading insults—Trump’s “100% Communist lunatic” and Mamdani’s “fascist despot”—displayed an unexpectedly cordial rapport. Trump praised Mamdani’s policy plans, pledged federal support for affordability and safety, and acknowledged shared ideas on cost of living. Mamdani, the first Muslim mayor and a democratic socialist, emphasized cooperation on housing and budgets. Earlier he threatened to cut federal funding if Mamdani won, yet now pledged assistance. Their public warmth and mutual admiration signaled a break from partisan norms.",
+      "summaryTokens": 943,
+      "generatedAt": "2025-11-24T03:52:32.717Z"
     },
     {
       "id": "us-news/2025/nov/21/donald-trump-zohran-mamdani-meeting",
