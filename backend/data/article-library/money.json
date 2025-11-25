@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-24T03:36:10.949Z",
+    "generated_at": "2025-11-25T03:49:29.300Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-23"
+      "to": "2025-11-24"
     },
-    "article_count": 119,
+    "article_count": 120,
     "merge_info": {
-      "previous_count": 118,
+      "previous_count": 119,
       "new_articles": 1,
-      "updated_articles": 3,
-      "total_count": 119
+      "updated_articles": 1,
+      "total_count": 120
     },
     "batch_info": {
-      "initial_batch_id": "batch_6923d252a9ac8190bf07df1cf51604d9",
+      "initial_batch_id": "batch_692526c5aa408190ab194c831f659008",
       "retry_batches": [],
-      "total_tokens": 8657,
+      "total_tokens": 3437,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/24/ryanair-expects-me-to-take-the-financial-hit-for-helping-others",
+      "title": "Ryanair expects me to take the financial hit for helping others",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/24/ryanair-expects-me-to-take-the-financial-hit-for-helping-others",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/24/ryanair-expects-me-to-take-the-financial-hit-for-helping-others",
+      "section": "money",
+      "publishedDate": "2025-11-24T07:00:32Z",
+      "trailText": "As a doctor I stepped in to tend to an elderly passenger … but it won’t waive £100 transfer fee to rebook",
+      "summary": "Dr FB, flying Stansted–Pescara with her baby, stopped to treat an elderly passenger injured on an escalator. Arriving 15 minutes before departure, she found the gate closed, rebooked via Rome at £211, lost her Pescara car hire, paid £127 for a hotel and drove 150 miles. Ryanair refused to waive its £100 transfer fee, insisting on a 30-minute preboarding rule despite her emergency assistance.",
+      "summaryTokens": 853,
+      "generatedAt": "2025-11-25T03:49:29.026Z"
+    },
     {
       "id": "money/2025/nov/23/fire-alert-the-fake-amazon-tv-stick-that-opens-the-door-to-fraudsters",
       "title": "Fire alert: the fake ‘Amazon TV stick’ that opens the door to fraudsters",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-23T07:00:03Z",
       "trailText": "Two out of five illegal streamers have fallen prey to fraud, likely via a ‘modded’ USB stick that exposes users to data theft and cybercrime",
-      "summary": "Modded Amazon Fire Sticks sold for around £20 promise free sports and TV streaming but quietly install malware that lets criminals install keyloggers, harvest reused passwords and access bank accounts across connected devices. A BeStreamWise survey found 40% of illegal streamers lost an average of £1,700. UK police (PIPCU) and the Federation Against Property Theft are cracking down on suppliers. Experts advise unplugging the device, resetting passwords, enabling multifactor authentication, running antivirus scans and reporting fraud to Action Fraud.",
-      "summaryTokens": 539,
-      "generatedAt": "2025-11-24T03:36:10.406Z"
+      "summary": "Rogue ‘modded’ Amazon Fire Sticks sold online promise free sports and TV but embed malware that can steal credentials, bank details and facilitate identity fraud. A BeStreamWise survey found 40% of illegal streamers lost an average £1,700. Police and security experts say sticks install keyloggers and bypass antivirus, exposing home networks. Vendors face raids by Fact and prosecutions. Victims should remove devices, change passwords, enable multifactor authentication, run antivirus scans and report fraud to banks and Action Fraud.",
+      "summaryTokens": 794,
+      "generatedAt": "2025-11-25T03:49:29.026Z"
     },
     {
       "id": "money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget",
