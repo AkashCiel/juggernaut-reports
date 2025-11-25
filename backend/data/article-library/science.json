@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-24T03:42:07.748Z",
+    "generated_at": "2025-11-25T03:57:43.287Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-23"
+      "to": "2025-11-24"
     },
-    "article_count": 107,
+    "article_count": 111,
     "merge_info": {
-      "previous_count": 105,
-      "new_articles": 2,
+      "previous_count": 107,
+      "new_articles": 4,
       "updated_articles": 2,
-      "total_count": 107
+      "total_count": 111
     },
     "batch_info": {
-      "initial_batch_id": "batch_6923d3e261d481908eb3533db396b096",
+      "initial_batch_id": "batch_692528df61448190b31e51ef84b04563",
       "retry_batches": [],
-      "total_tokens": 7446,
+      "total_tokens": 9941,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/24/did-you-solve-it-are-you-smarter-than-a-soap-bubble",
+      "title": "Did you solve it? Are you smarter than a soap bubble?",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/24/did-you-solve-it-are-you-smarter-than-a-soap-bubble",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/24/did-you-solve-it-are-you-smarter-than-a-soap-bubble",
+      "section": "science",
+      "publishedDate": "2025-11-24T17:00:09Z",
+      "trailText": "The “solution” to today’s puzzle",
+      "summary": "In this puzzle, four towns at square corners require a minimal road network. Contrary to the intuitive X-shaped direct connections, the optimal network is a Steiner tree with three 120° intersections, reducing length by about 4%. While proving minimality needs advanced calculus, dipping a plastic model (two transparent plates and four dowels) in soapy water yields the soap-film solution, as shown by James Grime. The 120° angles echo hexagonal honeycomb efficiency. For more, see the 1976 American Scientist article “The Soap Film: An Analogue Computer.” Author’s fortnightly puzzles since 2015 invite reader submissions.",
+      "summaryTokens": 1072,
+      "generatedAt": "2025-11-25T03:57:43.051Z"
+    },
+    {
+      "id": "science/2025/nov/24/groundbreaking-uk-gene-therapy-manchester-hunter-syndrome",
+      "title": "Groundbreaking UK gene therapy offers hope after progress of three-year-old",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/24/groundbreaking-uk-gene-therapy-manchester-hunter-syndrome",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/24/groundbreaking-uk-gene-therapy-manchester-hunter-syndrome",
+      "section": "science",
+      "publishedDate": "2025-11-24T16:12:28Z",
+      "trailText": "Oliver Chu from California first person to have the one-off treatment for Hunter syndrome",
+      "summary": "Manchester researchers administered a one-off stem-cell gene therapy to three-year-old Oliver Chu, the first human recipient, replacing his defective Hunter syndrome gene. Nine months post-treatment, he’s free of weekly Elaprase infusions, shows improved speech, motor skills and cognition, and enzyme levels now also cross the blood-brain barrier. Four more boys, aged 3–5, across US, Europe and Australia will be treated. If benefits endure, this could supplant lifelong £375,000/year infusions. Wider rollout hinges on earlier diagnosis via newborn heel-prick screening. The technique is being adapted for other lysosomal disorders such as Hurler and Sanfilippo syndromes.",
+      "summaryTokens": 1030,
+      "generatedAt": "2025-11-25T03:57:43.051Z"
+    },
+    {
+      "id": "science/2025/nov/24/can-you-solve-it-are-you-smarter-than-a-soap-bubble",
+      "title": "Can you solve it? Are you smarter than a soap bubble?",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/24/can-you-solve-it-are-you-smarter-than-a-soap-bubble",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/24/can-you-solve-it-are-you-smarter-than-a-soap-bubble",
+      "section": "science",
+      "publishedDate": "2025-11-24T07:16:19Z",
+      "trailText": "The minimum you can do",
+      "summary": "Guardian puzzle challenges readers to connect four equidistant towns at square corners via a minimal-length road network. Common wrong layouts—O-loop, U-route or X-road—overuse asphalt. The optimal Steiner tree emerges when a soap-bubble model—two plates with dowels in soapy water—instantaneously reveals the minimal network, hinting at a familiar geometric shape. Full solution and bubble-video drop at 5 pm UK. Author spotlights MathsWorld London (Burrell St, SE1) and its giant bubble machine, elliptical pool and arch exhibit; sister site MathsCity Leeds offers similar hands-on math attractions.",
+      "summaryTokens": 1740,
+      "generatedAt": "2025-11-25T03:57:43.051Z"
+    },
+    {
+      "id": "science/2025/nov/24/starwatch-beautiful-contrast-as-silver-glow-of-moon-passes-saturns-golden-light",
+      "title": "Starwatch: beautiful contrast as silver glow of moon passes Saturn’s golden light ",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/24/starwatch-beautiful-contrast-as-silver-glow-of-moon-passes-saturns-golden-light",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/24/starwatch-beautiful-contrast-as-silver-glow-of-moon-passes-saturns-golden-light",
+      "section": "science",
+      "publishedDate": "2025-11-24T06:00:30Z",
+      "trailText": "Visible from urban locations, pairing takes on special meaning when seen with minimal light pollution",
+      "summary": "On 29 November at 19:00 GMT the waxing gibbous Moon (9 days old, 66% illuminated in Pisces) will pass just 3.75° north of Saturn (in Aquarius). Both bodies are visible to the naked eye from urban and dark-sky sites worldwide, offering a striking silver-and-gold contrast. The conjunction peaks at 19:08 GMT. Though too wide for most telescopes’ field of view, the pairing fits easily into binoculars, with minimal light pollution enhancing the view.",
+      "summaryTokens": 356,
+      "generatedAt": "2025-11-25T03:57:43.051Z"
+    },
     {
       "id": "science/2025/nov/23/john-lewis-obituary",
       "title": "John Lewis obituary",
@@ -29,9 +77,9 @@
       "section": "science",
       "publishedDate": "2025-11-23T20:35:43Z",
       "trailText": "Other lives: Chemist who played a key role in the development of an alternative medication to morphine and methadone",
-      "summary": "John Lewis (died aged 92) was a British chemist whose pioneering research at Reckitt & Colman and later at Bristol and Bath universities led to the development of buprenorphine (Subutex) and its naloxone combination (Suboxone), now leading opioid substitution therapies worldwide. Educated at Oxford (DPhil), he served as R&D director (1965–89), then founded the Reckitt & Colman psychopharmacology unit. Honoured with the Nathan B. Eddy Award in 1998, his work offers pain relief & addiction treatment to millions.",
-      "summaryTokens": 924,
-      "generatedAt": "2025-11-24T03:42:07.252Z"
+      "summary": "John Lewis, who died aged 92, was the chemist behind buprenorphine’s development—first as R&D director at Reckitt & Colman (1965–89), then leading psychopharmacology units at Bristol and Bath universities. His choice of buprenorphine, and its naloxone combination (Subutex, Suboxone), revolutionized post-operative pain relief and opioid-substitution therapy, benefiting millions. Honored with the Nathan B. Eddy award in 1998 and letters from Queen Elizabeth II and President Clinton, Lewis held a DPhil in chemistry from Oxford, lectured at Loughborough (where he also captained the rugby club), and remained active in research until 2018. He is survived by his wife Joy, three children, eight grandchildren and two great-grandchildren.",
+      "summaryTokens": 589,
+      "generatedAt": "2025-11-25T03:57:43.051Z"
     },
     {
       "id": "science/2025/nov/23/dna-reveals-stone-age-teenager-as-chewer-of-10500-year-old-gum",
@@ -41,9 +89,9 @@
       "section": "science",
       "publishedDate": "2025-11-23T20:26:22Z",
       "trailText": "The prehistoric birch tar found in Estonia contained traces of saliva that were analysed by genetics experts",
-      "summary": "Archaeologists at the University of Tartu have unearthed a 10,500-year-old piece of birch tar chewed by a teenage girl in Estonia; dental impressions and extracted saliva DNA reveal a brown-haired, brown-eyed individual, challenging fair-blond stereotypes of northern Stone Age populations. Analysis drew on a modern Estonian genomic database. Featured in Bettany Hughes’s Channel 4 documentary Hidden Estonia, the findings highlight tar’s dual role as adhesive and analgesic. Tartu’s ongoing research also examines an 800-year-old pagan-Christian fertility cross and a richly furnished 12th-century Kukruse burial with bronze and silver jewelry, food offerings and a fertilized bird egg.",
-      "summaryTokens": 1419,
-      "generatedAt": "2025-11-24T03:42:07.252Z"
+      "summary": "Archaeologists at the University of Tartu unearthed a 10,500-year-old piece of chewed birch tar in Estonia bearing tooth impressions and preserved saliva. Genomic analysis by the Institute of Genomics, using modern Estonian DNA for comparison, revealed the chewer was a teenage girl with brown hair and brown eyes, challenging assumptions about early northern European phenotypes. Produced by dry‐distilling birch bark, the tar served as both adhesive and toothache remedy. The discovery, featured in Bettany Hughes’s Channel 4 documentary Hidden Estonia: Land of Fire and Ice, highlights how everyday artefacts connect us with prehistoric individuals.",
+      "summaryTokens": 761,
+      "generatedAt": "2025-11-25T03:57:43.051Z"
     },
     {
       "id": "science/2025/nov/22/human-rights-fears-over-australias-role-in-f-35-parts-after-trumps-decision-to-sell-fighter-jets-to-saudi-arabia",
