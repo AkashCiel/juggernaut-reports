@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-24T03:50:11.830Z",
+    "generated_at": "2025-11-25T04:00:56.177Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-22"
+      "to": "2025-11-25"
     },
-    "article_count": 211,
+    "article_count": 216,
     "merge_info": {
       "previous_count": 211,
-      "new_articles": 0,
-      "updated_articles": 2,
-      "total_count": 211
+      "new_articles": 5,
+      "updated_articles": 0,
+      "total_count": 216
     },
     "batch_info": {
-      "initial_batch_id": "batch_6923d4a4b7e08190a243a9d17f7ae5cf",
+      "initial_batch_id": "batch_692529cb1b20819096ad69aafae02663",
       "retry_batches": [],
-      "total_tokens": 5640,
-      "processing_time_hours": 0.1
+      "total_tokens": 11338,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds",
+      "title": "AI could replace 3m low-skilled jobs in the UK by 2035, research finds",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds",
+      "section": "technology",
+      "publishedDate": "2025-11-25T00:01:17Z",
+      "trailText": "Trades, machine operations and administrative roles are most at-risk, says leading educational research charity",
+      "summary": "The National Foundation for Educational Research forecasts AI and automation could wipe out up to 3 million UK low-skilled roles—trades, machine operations and administrative jobs—by 2035, even as 2.3 million new positions emerge, mainly professional and associate-professional posts. This contrasts with King’s College findings that higher-skilled occupations like software engineers and consultants face the greatest AI exposure. Recent cuts—Clifford Chance shedding 50 business-services roles and PwC scaling back hiring—reflect broader economic pressures and employer risk-aversion. NFER’s Jude Hillary warns displaced low-skilled workers will encounter steep reskilling hurdles in a rapidly evolving labour market.",
+      "summaryTokens": 826,
+      "generatedAt": "2025-11-25T04:00:55.929Z"
+    },
+    {
+      "id": "technology/2025/nov/24/mumbai-datacentres-coal-air-pollution",
+      "title": "‘It’s hell for us here’: Mumbai families suffer as datacentres keep the city hooked on coal",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/24/mumbai-datacentres-coal-air-pollution",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/24/mumbai-datacentres-coal-air-pollution",
+      "section": "technology",
+      "publishedDate": "2025-11-24T18:35:24Z",
+      "trailText": "As Mumbai sees increased energy demand from new datacenters, particularly from Amazon, the filthiest neighbourhood in one of India’s largest cities must keep its major coal plants",
+      "summary": "Residents of Mahul, eastern Mumbai, live amid heavy coal pollution from nearby Tata and Adani plants, whose closures were reversed and extended by five years to meet spiking demand. This surge is largely driven by energy-hungry datacentres, notably Amazon’s 16 availability zones, whose colocation centres consumed 624,518 MWh in 2023 and rely on diesel generators. Locals report cancer, respiratory illnesses and stench as PM2.5 levels soar. Activists accuse Amazon of prolonging fossil-fuel use despite green energy claims; experts warn public health impacts must guide future infrastructure siting.",
+      "summaryTokens": 1383,
+      "generatedAt": "2025-11-25T04:00:55.929Z"
+    },
+    {
+      "id": "technology/2025/nov/24/one-in-four-unconcerned-by-sexual-deepfakes-created-without-consent-survey-finds",
+      "title": "One in four unconcerned by sexual deepfakes created without consent, survey finds",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/24/one-in-four-unconcerned-by-sexual-deepfakes-created-without-consent-survey-finds",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/24/one-in-four-unconcerned-by-sexual-deepfakes-created-without-consent-survey-finds",
+      "section": "technology",
+      "publishedDate": "2025-11-24T09:00:32Z",
+      "trailText": "Senior UK police officer says AI is accelerating violence against women and girls and that technology companies are complicit",
+      "summary": "UK survey of 1,700 adults finds 13% believe and 12% feel neutral about creating and sharing non-consensual sexual deepfakes. Det Ch Supt Claire Hammond warns AI is accelerating violence against women and girls, with tech companies complicit in enabling abuse. The new Data Act criminalises such content. 7% of respondents have been depicted—only 51% reported it; 1 in 20 admit producing deepfakes and over 10% would in future. Men under 45 are more accepting. Experts urge reporting, research, education and stronger tech safeguards.",
+      "summaryTokens": 945,
+      "generatedAt": "2025-11-25T04:00:55.929Z"
+    },
+    {
+      "id": "technology/2025/nov/24/ai-doesnt-get-puns-study-finds",
+      "title": "Can’t tech a joke: AI does not understand puns, study finds",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/24/ai-doesnt-get-puns-study-finds",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/24/ai-doesnt-get-puns-study-finds",
+      "section": "technology",
+      "publishedDate": "2025-11-24T07:59:34Z",
+      "trailText": "Researchers say results underline large language models’ poor grasp of humour, empathy and cultural nuance",
+      "summary": "Researchers from Cardiff and Ca’ Foscari universities tested large language models’ grasp of puns, finding they detect pun structure but lack real understanding. LLMs flagged modified jokes—replacing “joke” with “chaotic” or “dragon” with “prolong” or random words—as puns, dropping to 20% accuracy on novel wordplay. Experiments like “Old LLMs never die, they just lose their attention” (misheard as “ukulele”) reveal an illusion of humor comprehension. Presented at EMNLP 2025, the paper “Pun unintended” warns against using LLMs for tasks requiring humor, empathy or cultural nuance.",
+      "summaryTokens": 1075,
+      "generatedAt": "2025-11-25T04:00:55.929Z"
+    },
+    {
+      "id": "technology/2025/nov/24/civil-liberties-groups-call-for-inquiry-into-uk-data-protection-watchdog",
+      "title": "Civil liberties groups call for inquiry into UK data protection watchdog",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/24/civil-liberties-groups-call-for-inquiry-into-uk-data-protection-watchdog",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/24/civil-liberties-groups-call-for-inquiry-into-uk-data-protection-watchdog",
+      "section": "technology",
+      "publishedDate": "2025-11-24T06:00:30Z",
+      "trailText": "Campaigners including Good Law Project describe ICO ‘collapse in enforcement activity’ after Afghan data breach",
+      "summary": "Seventy-three civil liberties campaigners, academics and data protection experts—including Statewatch and Good Law Project—have petitioned Chi Onwurah’s Commons science and technology committee to investigate the Information Commissioner’s Office amid concerns of ‘a collapse in enforcement activity’ after the Afghan data breach. They condemn the ICO’s failure to formally probe the MoD leak that exposed Afghan interpreters to life-threatening risk, its mild ‘public sector approach’ to Windrush and similar incidents, and falling private-sector fines. Warning of systemic failings that embolden data mismanagement, they urge MPs to deploy oversight powers. The ICO says it values scrutiny and retains full regulatory tools.",
+      "summaryTokens": 1550,
+      "generatedAt": "2025-11-25T04:00:55.929Z"
+    },
     {
       "id": "technology/2025/nov/22/ai-workers-tell-family-stay-away",
       "title": "Meet the AI workers who tell their friends and family to stay away from AI",
