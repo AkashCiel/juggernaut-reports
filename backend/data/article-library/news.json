@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-24T03:39:35.095Z",
+    "generated_at": "2025-11-25T03:51:39.038Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-23"
+      "to": "2025-11-24"
     },
-    "article_count": 113,
+    "article_count": 114,
     "merge_info": {
-      "previous_count": 112,
+      "previous_count": 113,
       "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 113
+      "updated_articles": 1,
+      "total_count": 114
     },
     "batch_info": {
-      "initial_batch_id": "batch_6923d2b34ae881908c775fb7589c211b",
+      "initial_batch_id": "batch_6925275278dc8190850f30d57693f102",
       "retry_batches": [],
-      "total_tokens": 1742,
-      "processing_time_hours": 0.1
+      "total_tokens": 2421,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/24/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/24/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/24/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-24T21:00:13Z",
+      "trailText": "Amarveer Singh quote | Donald Tusk",
+      "summary": "Corrections to recent coverage: credit analyst Amarveer Singh did not say Asda’s £568m leaseback deal would harm its credit rating, only that creditors would view it negatively; Donald Tusk is Poland’s prime minister, not its president. Other amended articles cover findings on the Free Birth Society, a Catholic Church bid to tame Trump, adult Advent calendar environmental concerns, Australia’s energy stability via spinning steel, a Labour MP’s asylum policy critique, US H5N5 bird flu death, NSW social housing reforms and more. Send corrections to guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU.",
+      "summaryTokens": 494,
+      "generatedAt": "2025-11-25T03:51:38.779Z"
+    },
     {
       "id": "news/2025/nov/23/corrections-and-clarifications1",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-11-23T21:00:18Z",
       "trailText": "Green party | JMW Turner",
-      "summary": "Guardian issues corrections and clarifications: the Green party was polling just into double figures, not “barely into single digits,” when Zack Polanski became leader; JMW Turner was 29, not in his teens, at his mother’s death. Other recent amendments cover modern slavery risks among UK construction workers, industry energy-crisis fixes, Bill Nighy’s celebrity podcast trend and a campaign for a mountain lion comeback. Readers can send complaints or correction requests to the readers’ editor by email (guardian.readers@theguardian.com), post or voicemail.",
-      "summaryTokens": 1302,
-      "generatedAt": "2025-11-24T03:39:34.704Z"
+      "summary": "The Guardian issues corrections: in a Nov 11 opinion piece, the Green party was “barely out of single digits,” not “barely into,” polling just above 10%; JMW Turner was 29, not “in his teens,” when his mother died. Other recent amendments cover UK construction workers at risk of modern slavery, energy-crisis fixes for industry, calls for ministers to act faster, Bill Nighy’s rise in celebrity podcasts, and efforts to reintroduce mountain lions to the US northeast. Readers can send corrections to guardian.readers@theguardian.com, post to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or voicemail +44 20 3353 4736.",
+      "summaryTokens": 959,
+      "generatedAt": "2025-11-25T03:51:38.779Z"
     },
     {
       "id": "news/2025/nov/21/corrections-and-clarifications",
