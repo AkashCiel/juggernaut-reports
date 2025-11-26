@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-25T04:00:56.177Z",
+    "generated_at": "2025-11-26T03:41:09.051Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-25"
     },
-    "article_count": 216,
+    "article_count": 218,
     "merge_info": {
-      "previous_count": 211,
-      "new_articles": 5,
-      "updated_articles": 0,
-      "total_count": 216
+      "previous_count": 216,
+      "new_articles": 2,
+      "updated_articles": 5,
+      "total_count": 218
     },
     "batch_info": {
-      "initial_batch_id": "batch_692529cb1b20819096ad69aafae02663",
+      "initial_batch_id": "batch_69267671e7b48190901d43cf259decf8",
       "retry_batches": [],
-      "total_tokens": 11338,
+      "total_tokens": 16528,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/24/us-europe-artificial-intelligence-ai",
+      "title": "Europe loosens reins on AI – and US takes them off",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/24/us-europe-artificial-intelligence-ai",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/24/us-europe-artificial-intelligence-ai",
+      "section": "technology",
+      "publishedDate": "2025-11-25T13:20:17Z",
+      "trailText": "EU and US unshackle regulations in quest for growth, and is the AI bubble about to burst? Not yet, says Nvidia",
+      "summary": "EU’s Digital Omnibus aims to streamline GDPR, ePrivacy and the Data Act while delaying core AI Act provisions—easing data use for AI training and cutting cookie-banner fatigue. In the US, language in the 2025 NDAA would preempt state AI rules, block DJI products and empower DOJ to sue defiant states; Trump backed a 10-year moratorium on state AI laws as ‘woke’ roadblocks. Nvidia’s latest quarter crushed forecasts with $57 bn revenue (+62% yoy) and $1.30 EPS, guiding $65 bn for Q4, quelling AI-bubble fears. Meta won its antitrust case, judges citing TikTok and generative AI as new competition, and Google avoided forced divestiture.",
+      "summaryTokens": 1031,
+      "generatedAt": "2025-11-26T03:41:08.795Z"
+    },
+    {
+      "id": "technology/2025/nov/25/ai-slop-word-of-the-year-macquarie-dictionary-australia",
+      "title": "Macquarie Dictionary announces ‘AI slop’ as its word of the year, beating out Ozempic face",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/25/ai-slop-word-of-the-year-macquarie-dictionary-australia",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/25/ai-slop-word-of-the-year-macquarie-dictionary-australia",
+      "section": "technology",
+      "publishedDate": "2025-11-25T04:17:16Z",
+      "trailText": "Term was up against a shortlist including blind box, ate (and left no crumbs) and Roman Empire",
+      "summary": "Macquarie Dictionary named “AI slop” its 2025 word of the year, defining it as meaningless AI-generated content. A panel including ABC’s Tiger Webb and cryptic crosswordist David Astle lauded the term for capturing the year’s shift from “search engineers” to “prompt engineers.” AI slop, already popularized by figures like Donald Trump, beat finalists such as Ozempic face, blind box, ate (and left no crumbs) and Roman Empire. Honorable mentions included clankers (AI robots) and medical misogyny. The people’s choice also favored AI slop. Observers warn of deepfakes and manipulated media, while ChatGPT said the accolade underscores the need for AI transparency and substance.",
+      "summaryTokens": 1094,
+      "generatedAt": "2025-11-26T03:41:08.795Z"
+    },
     {
       "id": "technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds",
       "title": "AI could replace 3m low-skilled jobs in the UK by 2035, research finds",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-11-25T00:01:17Z",
       "trailText": "Trades, machine operations and administrative roles are most at-risk, says leading educational research charity",
-      "summary": "The National Foundation for Educational Research forecasts AI and automation could wipe out up to 3 million UK low-skilled roles—trades, machine operations and administrative jobs—by 2035, even as 2.3 million new positions emerge, mainly professional and associate-professional posts. This contrasts with King’s College findings that higher-skilled occupations like software engineers and consultants face the greatest AI exposure. Recent cuts—Clifford Chance shedding 50 business-services roles and PwC scaling back hiring—reflect broader economic pressures and employer risk-aversion. NFER’s Jude Hillary warns displaced low-skilled workers will encounter steep reskilling hurdles in a rapidly evolving labour market.",
-      "summaryTokens": 826,
-      "generatedAt": "2025-11-25T04:00:55.929Z"
+      "summary": "A National Foundation for Educational Research report warns AI and automation could eliminate up to 3m UK low-skilled roles—trades, machine operations and administrative—by 2035, even as 2.3m jobs overall are projected to emerge unevenly in professional fields. This contrasts with King’s College research and government lists highlighting high-skilled jobs under AI threat. Early layoffs and hiring cuts at firms like Clifford Chance and PwC are partly attributed to AI, but NFER’s Jude Hillary cautions economic headwinds and risk-averse employers may be driving change, complicating reskilling for displaced lower-skilled workers.",
+      "summaryTokens": 947,
+      "generatedAt": "2025-11-26T03:41:08.795Z"
     },
     {
       "id": "technology/2025/nov/24/mumbai-datacentres-coal-air-pollution",
@@ -41,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-24T18:35:24Z",
       "trailText": "As Mumbai sees increased energy demand from new datacenters, particularly from Amazon, the filthiest neighbourhood in one of India’s largest cities must keep its major coal plants",
-      "summary": "Residents of Mahul, eastern Mumbai, live amid heavy coal pollution from nearby Tata and Adani plants, whose closures were reversed and extended by five years to meet spiking demand. This surge is largely driven by energy-hungry datacentres, notably Amazon’s 16 availability zones, whose colocation centres consumed 624,518 MWh in 2023 and rely on diesel generators. Locals report cancer, respiratory illnesses and stench as PM2.5 levels soar. Activists accuse Amazon of prolonging fossil-fuel use despite green energy claims; experts warn public health impacts must guide future infrastructure siting.",
-      "summaryTokens": 1383,
-      "generatedAt": "2025-11-25T04:00:55.929Z"
+      "summary": "In Mumbai’s polluted Mahul district, tens of thousands face cancer, asthma and other illnesses from emissions of two coal plants run by Tata and Adani, kept open after 2023 to meet surging demand from energy-hungry datacentres. Leaked records reveal Amazon operates 16 facilities in the city, consuming 624,518 MWh in 2023—enough to power 400,000 households—and relies on dozens of diesel generators for backup. As India’s AI-driven economy expands, datacentre growth threatens climate pledges and forces Maharashtra to delay plant closures. Residents report constant smog, toxic heavy metals in coal ash and inadequate government aid, while experts urge stricter siting rules and renewable mandates to avert a public health crisis.",
+      "summaryTokens": 1032,
+      "generatedAt": "2025-11-26T03:41:08.795Z"
     },
     {
       "id": "technology/2025/nov/24/one-in-four-unconcerned-by-sexual-deepfakes-created-without-consent-survey-finds",
@@ -53,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-11-24T09:00:32Z",
       "trailText": "Senior UK police officer says AI is accelerating violence against women and girls and that technology companies are complicit",
-      "summary": "UK survey of 1,700 adults finds 13% believe and 12% feel neutral about creating and sharing non-consensual sexual deepfakes. Det Ch Supt Claire Hammond warns AI is accelerating violence against women and girls, with tech companies complicit in enabling abuse. The new Data Act criminalises such content. 7% of respondents have been depicted—only 51% reported it; 1 in 20 admit producing deepfakes and over 10% would in future. Men under 45 are more accepting. Experts urge reporting, research, education and stronger tech safeguards.",
-      "summaryTokens": 945,
-      "generatedAt": "2025-11-25T04:00:55.929Z"
+      "summary": "A police-commissioned survey of 1,700 UK adults found 25% neutral or unconcerned about creating/sharing sexual or intimate deepfakes without consent (13% saw it as acceptable, 12% felt neutral). Seven percent had been depicted, but only half reported it. One in 20 admitted making deepfakes; over 10% said they would in future, and two-thirds had encountered them. Young men under 45 were most permissive, correlating with online porn use and misogynistic attitudes. Experts warn AI is accelerating violence against women, tech firms are complicit, and non-consensual deepfakes are criminal under the Data Act. Campaigners urge reporting, education and industry action.",
+      "summaryTokens": 1166,
+      "generatedAt": "2025-11-26T03:41:08.795Z"
     },
     {
       "id": "technology/2025/nov/24/ai-doesnt-get-puns-study-finds",
@@ -65,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-11-24T07:59:34Z",
       "trailText": "Researchers say results underline large language models’ poor grasp of humour, empathy and cultural nuance",
-      "summary": "Researchers from Cardiff and Ca’ Foscari universities tested large language models’ grasp of puns, finding they detect pun structure but lack real understanding. LLMs flagged modified jokes—replacing “joke” with “chaotic” or “dragon” with “prolong” or random words—as puns, dropping to 20% accuracy on novel wordplay. Experiments like “Old LLMs never die, they just lose their attention” (misheard as “ukulele”) reveal an illusion of humor comprehension. Presented at EMNLP 2025, the paper “Pun unintended” warns against using LLMs for tasks requiring humor, empathy or cultural nuance.",
-      "summaryTokens": 1075,
-      "generatedAt": "2025-11-25T04:00:55.929Z"
+      "summary": "Researchers from Cardiff University and Ca’ Foscari University of Venice demonstrate LLMs can identify pun patterns yet lack genuine comprehension. In tests, models flagged modified jokes—like replacing “life became a joke” with “life became chaotic” or “dragon” with “prolong”—and even random terms (“ukulele”) as puns. Their pun-detection accuracy falls to 20% on novel wordplay. Researchers attribute this to LLMs’ reliance on memorization, associating cues with learned puns and generating post-hoc justifications, creating an illusion of understanding. Jose Camacho Collados warns of AI’s fragile humor, empathy and cultural-nuance skills. Findings presented at EMNLP 2025 in paper “Pun unintended: LLMs and the illusion of humor understanding.” They urge caution when applying LLMs to humor or empathy tasks.",
+      "summaryTokens": 1820,
+      "generatedAt": "2025-11-26T03:41:08.795Z"
     },
     {
       "id": "technology/2025/nov/24/civil-liberties-groups-call-for-inquiry-into-uk-data-protection-watchdog",
@@ -77,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-11-24T06:00:30Z",
       "trailText": "Campaigners including Good Law Project describe ICO ‘collapse in enforcement activity’ after Afghan data breach",
-      "summary": "Seventy-three civil liberties campaigners, academics and data protection experts—including Statewatch and Good Law Project—have petitioned Chi Onwurah’s Commons science and technology committee to investigate the Information Commissioner’s Office amid concerns of ‘a collapse in enforcement activity’ after the Afghan data breach. They condemn the ICO’s failure to formally probe the MoD leak that exposed Afghan interpreters to life-threatening risk, its mild ‘public sector approach’ to Windrush and similar incidents, and falling private-sector fines. Warning of systemic failings that embolden data mismanagement, they urge MPs to deploy oversight powers. The ICO says it values scrutiny and retains full regulatory tools.",
-      "summaryTokens": 1550,
-      "generatedAt": "2025-11-25T04:00:55.929Z"
+      "summary": "Seventy-three civil liberties campaigners, academics and lawyers—coordinated by Open Rights Group and including Good Law Project and Statewatch—have written to MP Chi Onwurah urging a formal inquiry into the Information Commissioner’s Office under John Edwards. They warn of a “collapse in enforcement” after the Afghan data breach, cite inadequate responses to MoD and Windrush leaks, and say the ICO’s public-sector approach lacks deterrence. Private-sector penalties are also falling. The letter calls on the Commons Science, Innovation and Technology Committee to exercise oversight. The ICO says it will engage and explain its regulatory choices.",
+      "summaryTokens": 432,
+      "generatedAt": "2025-11-26T03:41:08.795Z"
     },
     {
       "id": "technology/2025/nov/22/ai-workers-tell-family-stay-away",
