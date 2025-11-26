@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-25T03:51:39.038Z",
+    "generated_at": "2025-11-26T03:34:52.627Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-24"
+      "to": "2025-11-25"
     },
-    "article_count": 114,
+    "article_count": 115,
     "merge_info": {
-      "previous_count": 113,
+      "previous_count": 114,
       "new_articles": 1,
       "updated_articles": 1,
-      "total_count": 114
+      "total_count": 115
     },
     "batch_info": {
-      "initial_batch_id": "batch_6925275278dc8190850f30d57693f102",
+      "initial_batch_id": "batch_6926753a67408190988ee8f518602164",
       "retry_batches": [],
-      "total_tokens": 2421,
+      "total_tokens": 3855,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/25/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/25/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/25/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-25T21:00:31Z",
+      "trailText": "Sayce review | Wordwheel",
+      "summary": "This correction notes that the Sayce review, contrary to earlier reports, did not recommend compensation for the carer’s allowance scandal, and that Monday’s Wordwheel solution was 'nightlife,' not 'attenuate.' It also lists amendments to recent articles across culture (Civilisations: Rise and Fall, Bach organ works, BirdLife Australia awards), politics (DPD drivers, Serbian president), law (NSW child incarceration loophole), sports (Ukrainian sumo champion), economy (US affordability crisis), environment (CSIRO job cuts), and entertainment (Dick Van Dyke on James Bond). Contact the readers’ editor for corrections.",
+      "summaryTokens": 2086,
+      "generatedAt": "2025-11-26T03:34:52.418Z"
+    },
     {
       "id": "news/2025/nov/24/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-11-24T21:00:13Z",
       "trailText": "Amarveer Singh quote | Donald Tusk",
-      "summary": "Corrections to recent coverage: credit analyst Amarveer Singh did not say Asda’s £568m leaseback deal would harm its credit rating, only that creditors would view it negatively; Donald Tusk is Poland’s prime minister, not its president. Other amended articles cover findings on the Free Birth Society, a Catholic Church bid to tame Trump, adult Advent calendar environmental concerns, Australia’s energy stability via spinning steel, a Labour MP’s asylum policy critique, US H5N5 bird flu death, NSW social housing reforms and more. Send corrections to guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU.",
-      "summaryTokens": 494,
-      "generatedAt": "2025-11-25T03:51:38.779Z"
+      "summary": "Corrections in recent Guardian pieces: Amarveer Singh did not say Asda’s £568m leaseback deal would ‘negatively affect its credit rating’ but that creditors would view it negatively. Donald Tusk is Poland’s prime minister, not president. Other updated articles include findings on the Free Birth Society, the Catholic church’s unexpected role in challenging Trump, concerns over adult Advent calendars, Australia’s grid-stabilising spinning steel, a Labour MP’s asylum policy critique, the top 14 US Mother’s Day gifts, mortgage surveyor valuation risks, the first US H5N5 bird flu fatality, NSW social housing reforms, and a review of Sisu: Road to Revenge. Contact corrections at guardian.readers@theguardian.com or the Readers’ Editor.",
+      "summaryTokens": 706,
+      "generatedAt": "2025-11-26T03:34:52.418Z"
     },
     {
       "id": "news/2025/nov/23/corrections-and-clarifications1",
