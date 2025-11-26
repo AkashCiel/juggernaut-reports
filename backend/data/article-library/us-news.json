@@ -1,26 +1,278 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-25T04:18:49.672Z",
+    "generated_at": "2025-11-26T03:43:40.601Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-25"
+      "to": "2025-11-26"
     },
-    "article_count": 1398,
+    "article_count": 1419,
     "merge_info": {
-      "previous_count": 1378,
-      "new_articles": 20,
-      "updated_articles": 14,
-      "total_count": 1398
+      "previous_count": 1398,
+      "new_articles": 21,
+      "updated_articles": 21,
+      "total_count": 1419
     },
     "batch_info": {
-      "initial_batch_id": "batch_69252a00f2f88190b11d412a1d1ebaa8",
+      "initial_batch_id": "batch_692676de1e4081909399aa20fae7035b",
       "retry_batches": [],
-      "total_tokens": 73462,
-      "processing_time_hours": 0.3
+      "total_tokens": 91966,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/nov/25/minnesota-fight-trump-somalis-tps-order",
+      "title": "Minnesotans gear up to fight Trump ending Somalis’ temporary protected status",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/minnesota-fight-trump-somalis-tps-order",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/minnesota-fight-trump-somalis-tps-order",
+      "section": "us-news",
+      "publishedDate": "2025-11-26T02:32:43Z",
+      "trailText": "Though president’s order is legally questionable, advocates worry community could be targeted for immigration raids",
+      "summary": "After Trump’s Truth Social announcement terminating TPS for Somalis in Minnesota over alleged fraud, local leaders, advocates and AG Ellison vow legal challenges, calling state-specific revocation discriminatory and legally questionable since TPS removal typically is nationwide and tied to country conditions. Minnesota’s large Somali community, most US citizens, fear heightened immigration raids, deportations and racialized rhetoric. Rep. Ilhan Omar, Gov. Walz and organizers held solidarity gatherings, pledging to defend TPS holders, underscore diversionary politics amid fraud allegations and urge collective pushback against anti-immigrant targeting.",
+      "summaryTokens": 926,
+      "generatedAt": "2025-11-26T03:43:40.295Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/national-park-fee-non-residents",
+      "title": "US triples national park fee for non-residents, amid ‘new’ fee for Americans",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/national-park-fee-non-residents",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/national-park-fee-non-residents",
+      "section": "us-news",
+      "publishedDate": "2025-11-26T01:31:37Z",
+      "trailText": "Interior department, which has defunded conservation organizations, claims fee hike is for conservation",
+      "summary": "Interior Department to more than triple 2026 entrance fees for international visitors—offering a $250 annual pass or $100 per person on top of standard charges—while maintaining an $80 interagency pass for U.S. residents. New 2026 annual passes feature George Washington alongside Donald Trump, and five additional resident-only fee-free days include July 3–5, Constitution Day, Theodore Roosevelt’s birthday and Flag Day (Trump’s birthday). Secretary Doug Burgum claims hikes ensure non-residents ‘contribute their fair share’ to conservation, despite recent cuts: nearly 25% of parks staff lost, logging opened, conservation groups defunded and offshore drilling proposals under current leadership.",
+      "summaryTokens": 502,
+      "generatedAt": "2025-11-26T03:43:40.295Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/trump-administration-news-updates-today-latest",
+      "title": "Trump news at a glance: Pete Hegseth increases administration’s attacks on senator Mark Kelly",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/trump-administration-news-updates-today-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/trump-administration-news-updates-today-latest",
+      "section": "us-news",
+      "publishedDate": "2025-11-26T00:44:48Z",
+      "trailText": "Trump’s defense secretary orders US Navy secretary to investigate ‘potentially unlawful comments’ made by Kelly – key US politics stories from 25 November 2025",
+      "summary": "Defense secretary Pete Hegseth ordered the Navy secretary to probe Senator Mark Kelly’s social-media remarks urging troops to refuse unlawful orders—a memo seeking a briefing by December 10 follows a Pentagon investigation and Donald Trump’s seditious behavior claims. Legal experts warn Trump’s pardons of Giuliani and allies may inadvertently shield broad 2020 voter-fraud allegations. The president will send envoy Steve Witkoff to negotiate Ukraine cease-fire terms; experts call the anti-fascist terror designations “absurd.” Pew finds 70% of Latino voters disapprove of Trump. Other updates: California ICE raids, Jim Justice tax settlement, BBC censorship row, anti-vax CDC deputy, Olympic pipeline leak source identified.",
+      "summaryTokens": 1876,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/trump-caribbean-boat-strikes-memo",
+      "title": "US justice department memo about boat strikes diverges from Trump narrative",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/trump-caribbean-boat-strikes-memo",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/trump-caribbean-boat-strikes-memo",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T23:45:33Z",
+      "trailText": "Exclusive: Officials frame strikes as self-defense against violence, without naming aggressor, while Trump claims they’re to stop US overdose deaths",
+      "summary": "A classified DOJ Office of Legal Counsel memo reveals the Trump administration frames its 21 Caribbean boat strikes as collective self-defense under the law of armed conflict, aiding allies like Mexico and Colombia by targeting cartel-financed cocaine and treating onboard casualties as enemy or collateral damage. This legal rationale—deeming congressional approval unnecessary and hinging on unverified claims that cartels wage armed violence funded by drug proceeds—contrasts sharply with Trump’s public assertion that the strikes aim to prevent US overdose deaths.",
+      "summaryTokens": 906,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/democrats-trump-fbi-intimidation-campaign",
+      "title": "Pete Hegseth orders US navy to investigate Mark Kelly’s comments ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/democrats-trump-fbi-intimidation-campaign",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/democrats-trump-fbi-intimidation-campaign",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T23:14:52Z",
+      "trailText": "Lawmakers who urged military personnel to refuse illegal orders say federal agents want to question them",
+      "summary": "US Defense Secretary Pete Hegseth directed Navy Secretary John Phelan to probe Arizona Senator Mark Kelly’s \"potentially unlawful\" social media remarks urging service members to refuse illegal orders. The December 10 briefing demand follows a Pentagon inquiry into alleged breaches of military law and seditious accusations by Donald Trump, who branded Kelly and five fellow Democrats \"traitors\" deserving jail or worse. Kelly, Michigan Rep. Elissa Slotkin and others denounce the FBI’s outreach to sergeants at arms as intimidation, reiterate their lifetime oath to defend the Constitution, and dismiss the inquiries as partisan harassment. A separate review may recall Kelly for court-martial.",
+      "summaryTokens": 1522,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/olympic-pipeline-leak-washington-oregon",
+      "title": "Officials find source of leak in Olympic pipeline two weeks after first report",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/olympic-pipeline-leak-washington-oregon",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/olympic-pipeline-leak-washington-oregon",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T22:09:20Z",
+      "trailText": "Fuel from the pipeline, operated by BP, was first spotted in a ditch near an Everett, Washington, blueberry farm",
+      "summary": "Investigators pinpointed a leak in a BP-operated 20-inch segment of the Olympic pipeline near Everett, Washington, two weeks after fuel was first spotted in a ditch. BP shut and restarted the 16-inch line before isolating the 20-inch, and will excavate and repair the damaged section. Governors Bob Ferguson and Tina Kotek declared emergencies in Washington and Oregon, waiving rules to speed fuel deliveries after disruptions to gasoline, diesel and jet fuel. Airlines including Alaska and Delta added tanker shipments and refueling stops to support holiday operations. The pipeline, supplying 90% of Oregon’s transport fuel and Seattle-Tacoma jet fuel, has leaked at least 13 times since 1999, faced a $3.8 million fine and caused over $100 million in damages.",
+      "summaryTokens": 1171,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
+      "title": "Trump envoy reportedly told Kremlin official that Ukraine must cede land for peace deal",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T21:47:54Z",
+      "trailText": "Steve Witkoff told Yuri Ushakov in October phone call that peace would require Russia gaining control of Donetsk",
+      "summary": "In an Oct 14 call with Putin aide Yuri Ushakov, Trump’s special envoy Steve Witkoff said any Ukraine peace deal must cede Donetsk to Russia and consider land swaps, marking the genesis of the criticized 28-point proposal. Witkoff suggested mirroring the Gaza ceasefire framework and guided Ushakov on praising Trump and scheduling a Trump-Putin call pre-Zelenskiy White House visit. The plan demands Ukraine surrender Donetsk, Luhansk, Crimea and freeze lines in Kherson and Zaporizhzhia. Trump then dispatched Witkoff to Moscow and army secretary to Kiev, pushing Ukraine to accept it as a war-ending basis, despite Kyiv’s rejection of territorial concessions.",
+      "summaryTokens": 895,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/thanksgiving-trump-turkey-tradition",
+      "title": "Gobble-degook: Trump talks turkey and trashes another presidential tradition",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/thanksgiving-trump-turkey-tradition",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/thanksgiving-trump-turkey-tradition",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T21:36:00Z",
+      "trailText": "The US president made jokes at the annual turkey pardoning ceremony. It went as well as you would expect",
+      "summary": "President Trump’s 2025 turkey pardon in the Rose Garden descended into a rambling political roast that lampooned governors, resurrected past pardons and trashed the ritual’s good-cheer intent. Only Gobble, not usual partner Waddle, appeared amid new Mar-a-Lago slab patios and a ‘presidential walk of fame.’ Trump lobbed sour jabs at ‘Sleepy Joe’ Biden, Pritzker’s weight and imaginary terrorist-bound turkeys, touted 50-lb “Maha” birds and prompted awkward chuckles from loyalists like JD Vance and Pam Bondi. His scattered riffs on nukes, AI and immigration turned a once lighthearted tradition into a controversial stage for partisan theater.",
+      "summaryTokens": 512,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/ralph-abraham-deputy-cdc-director",
+      "title": "Louisiana official who called Covid-19 vaccines ‘dangerous’ given key CDC post",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/ralph-abraham-deputy-cdc-director",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/ralph-abraham-deputy-cdc-director",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T21:35:58Z",
+      "trailText": "Ralph Abraham appointed deputy director as RFK Jr continues to reshape US federal health leadership",
+      "summary": "Ralph Abraham, Louisiana’s surgeon general since 2024, has been installed as CDC principal deputy director by HHS Secretary RFK Jr. Once a congressman and Covid-19 vaccine critic who branded shots “dangerous,” he halted state mass-vaccination programs and urged government to “pull back its tentacles” from medicine. His appointment—listed internally but not publicly announced—intensifies concerns over a vaccine-skeptic leadership shift at the CDC following Susan Monarez’s ousting, amid Louisiana’s worst whooping cough outbreak and clashes with Sen. Bill Cassidy.",
+      "summaryTokens": 672,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/trump-voter-fraud-pardon",
+      "title": "Trump may have inadvertently issued mass pardon for 2020 voter fraud, experts say",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/trump-voter-fraud-pardon",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/trump-voter-fraud-pardon",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T20:50:37Z",
+      "trailText": "Pardons of Giuliani and others who took part in fake elector scheme were largely symbolic, but could have a big effect",
+      "summary": "Legal experts warn Trump's Nov 7 pardon of Giuliani and other 2020 fake-elector participants may unintentionally immunize all US citizens who committed federal voting offenses in the 2020 election. In Pennsylvania, Matthew Laiss—accused of voting by mail in PA then in person in FL—argues the broad language covers him. Scholars Derek Muller and Justin Levitt agree the text's sweeping reference to support, voting, or advocacy for any 2020 elector slate shields double-voters and even pressured election officials. While federal cases were dropped, state prosecutions persist. Critics note ambiguous drafting by Acting Pardon Attorney Ed Martin could prompt extensive litigation.",
+      "summaryTokens": 1963,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/wisconsin-slender-man-stabbing",
+      "title": "Woman behind Slender Man stabbing fled facility ‘because of me’, friend says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/wisconsin-slender-man-stabbing",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/wisconsin-slender-man-stabbing",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T20:33:52Z",
+      "trailText": "Chad ‘Charley’ Mecca says Morgan Geyser ran away out of fear that the two would no longer be able to visit each other",
+      "summary": "Slender Man stabber Morgan Geyser (23) fled her Madison group home in March after removing her court-mandated monitor, allegedly to avoid losing visits with friend Chad “Charley” Mecca (43). The pair was detained near Chicago after traveling toward Nashville. Mecca says Geyser, originally sentenced to psychiatric care for the 2014 attempted murder of classmate Payton Leutner under a Slender Man delusion, feared mistreatment and separation. Geyser waived extradition, faces return to her Wisconsin institution; prosecutors seek revocation of her conditional release. Mecca faces loitering charges after they were found sleeping on a sidewalk.",
+      "summaryTokens": 1263,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/los-angeles-congressional-hearing-ice-raids",
+      "title": "‘Living an American nightmare’: LA hearing details lasting trauma of ICE raids ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/los-angeles-congressional-hearing-ice-raids",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/los-angeles-congressional-hearing-ice-raids",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T20:15:50Z",
+      "trailText": "Southern California residents shared disastrous effects of Trump’s immigration crackdown at a congressional hearing",
+      "summary": "At a congressional oversight hearing in LA, Democrats and Southern California residents, including US citizen Andrea Velez, described lasting trauma from Trump-era ICE raids that swept up citizens and immigrants. Velez recounted being accosted by masked agents, detained without evidence for two days, and charged then released. Testimony highlighted mass deportation stats—over 150,000 arrests, nearly 140,000 deportations—allegations of racial profiling, civil rights violations, and unlawful detentions near workplaces, schools, parks and churches. Rep. Robert Garcia unveiled plans for an oversight dashboard to document misconduct. “Living an American nightmare,” said Rep. Jasmine Crockett. LA Mayor Karen Bass called the raids an “attack” and vowed to defend all residents’ rights.",
+      "summaryTokens": 1096,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/campbell-soup-executive-comments",
+      "title": "Campbell’s Soup executive called its products food for ‘poor people’, lawsuit alleges",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/campbell-soup-executive-comments",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/campbell-soup-executive-comments",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T18:47:35Z",
+      "trailText": "Executive Martin Bally put on leave after alleged remarks were purportedly recorded and attributed to him in lawsuit",
+      "summary": "Martin Bally, Campbell's VP of IT, is on leave after an audio recording—submitted by ex-security analyst Robert Garza in a wrongful-termination suit filed in Michigan's Wayne County Circuit Court—allegedly caught him disparaging the quality of Campbell's soups (\"shit for poor people\"), mocking Indian colleagues and admitting to being high. Garza claims he was fired in retaliation ten months ago after reporting Bally's racist tirade and \"bioengineered meat\" slur. Campbell's is investigating and denies using engineered meat while Garza seeks damages for racial hostility and retaliation.",
+      "summaryTokens": 1374,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/mark-kelly-troops-disobey-illegal-orders-comments",
+      "title": "Mark Kelly: call for troops to disobey illegal orders is ‘non-controversial’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/mark-kelly-troops-disobey-illegal-orders-comments",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/mark-kelly-troops-disobey-illegal-orders-comments",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T16:50:20Z",
+      "trailText": "Senator Mark Kelly hits back at Trump administration and says his comments",
+      "summary": "Arizona Sen. Mark Kelly, a former Navy officer and astronaut, defended his urging of service members to refuse illegal orders as “non-controversial” after the Pentagon opened an investigation and threatened to recall him to active duty and court-martial him. He dismissed President Trump’s calls for his execution over a video advising troops to follow the Constitution, not unlawful commands. Defense Secretary Pete Hegseth condemned the advice as undermining discipline, while Trump labeled it “seditious behavior” punishable by death. Military law, however, permits refusal of patently illegal orders. Democrats allege the administration issued illicit directives on border deployments and narcotics strikes; GOP Rep. Don Bacon called Kelly’s advice lawful but unwise.",
+      "summaryTokens": 706,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/food-influencer-dine-dash-diva-arrested",
+      "title": "Food influencer known as ‘dine-and-dash diva’ arrested in Brooklyn",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/food-influencer-dine-dash-diva-arrested",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/food-influencer-dine-dash-diva-arrested",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T14:31:13Z",
+      "trailText": "Pei Chung allegedly ate at multiple fancy restaurants around New York City and then skipped out on paying",
+      "summary": "Pei Chung, 34, known online as the “dine-and-dash diva,” was jailed in Brooklyn after allegedly skipping out on bills at seven upscale NYC restaurants. She reportedly ordered lavish dishes—$15 foie gras, $32 carpaccio, $52 lamb, $19 mousse—and fled. At Peter Luger she stayed hours, refused a $150 check and offered kitchen scissors as barter. Banned from eateries including Michelin-starred Francie, she was arrested at Mole after a $149 dine-and-dash, arraigned on theft-of-services and held on $4,500 bail. Chung, who bills herself as “99 lb No plastic surgery,” faces eviction from her $3,350/month Williamsburg apartment owned by ex-Gov. Eliot Spitzer. Her saga highlights restaurants’ growing reliance on Instagram influencers to draw diners.",
+      "summaryTokens": 1239,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/jim-justice-west-virginia-back-taxes",
+      "title": "Republican Jim Justice to pay $5m in back taxes following government lawsuit",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/jim-justice-west-virginia-back-taxes",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/jim-justice-west-virginia-back-taxes",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T14:02:40Z",
+      "trailText": "Lawsuit filed in West Virginia claimed Justice and his wife received notice of the funds due since 2009 but didn’t pay",
+      "summary": "Senator Jim Justice and wife Cathy Justice have agreed to pay over $5.2 million in back taxes dating to 2009 after a federal lawsuit by the US Treasury alleged they ignored notices to settle the debt. The settlement, pending judicial approval, covers the full IRS claim plus statutory interest. IRS liens exceeding $8 million were filed in October, and West Virginia placed a $1.4 million lien on their family-owned Greenbrier resort. A coal-mining heir and former governor, Justice faces over $1 billion in collective debts, resulting in a projected negative net worth. He’s characterized tax collection efforts as politically motivated.",
+      "summaryTokens": 630,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/jd-vance-on-cincinnati-crime-divides-city",
+      "title": "JD Vance exploited a brawl to paint Cincinnati as crime-ridden. The fallout has divided the city",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/jd-vance-on-cincinnati-crime-divides-city",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/jd-vance-on-cincinnati-crime-divides-city",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T14:00:23Z",
+      "trailText": "National spotlight, after video of violent fight went viral, has led residents to question just how safe their city is or isn’t – and who is responsible for sparking the debate",
+      "summary": "Footage of a violent July brawl downtown Cincinnati, in which a Black man punched a white woman, went viral, prompting Vice-President JD Vance to demand prison sentences and right-wing outlets to frame the city as besieged by Black assailants. Despite police arresting six suspects within minutes and citywide violent crime falling from 283 to 253 incidents, national commentary drove fear, hurt businesses and fueled political attacks. Locals split between calls for more safety investment and charges of racially motivated exaggeration, while Cincinnati’s police chief was placed on leave amid pressure. The debate underscores how crime narratives are leveraged in election campaigns.",
+      "summaryTokens": 1469,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/hidden-meth-lettuce-shipment",
+      "title": "Meth worth $10.3m hidden in lettuce shipment seized at US-Mexico border ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/hidden-meth-lettuce-shipment",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/hidden-meth-lettuce-shipment",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T13:38:34Z",
+      "trailText": "CBP press release calls seized drugs and lettuce ‘a salad unfit for this year’s Thanksgiving table’",
+      "summary": "US Customs and Border Protection agents at the Pharr International Bridge in Texas intercepted a commercial lettuce shipment containing 500 packages of methamphetamine worth $10.3m (approx. 1,153lb). CBP officials dubbed it “a salad unfit for this year’s Thanksgiving table,” crediting advanced detection tools. The seizure aligns with broader US efforts—including military strikes on trafficking boats—to disrupt cartel smuggling. Since 2023, agents seized 4,587lb (worth $5m) hidden in fake watermelons at Otay Mesa, 2,500lb ($3.2m) in celery in Georgia, plus millions more in squash, jalapeño paste, green beans, sugar, flour and candy shipments.",
+      "summaryTokens": 1853,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/us-antifa-groups-terror-list",
+      "title": "Anti-fascist groups named as US terror threats ‘barely exist’, experts say",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/us-antifa-groups-terror-list",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/us-antifa-groups-terror-list",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T13:00:22Z",
+      "trailText": "Designation of groups from Italy, Germany and Greece labelled ‘ridiculous’ as experts say no active threat posed",
+      "summary": "Experts say the US State Department’s recent designation of four European anti-fascist groups as foreign terrorist organizations—Germany’s Antifa Ost, the Italy-based International Revolutionary Front and Greece’s Armed Proletarian Justice and Revolutionary Class Self Defense—is politically motivated and mischaracterized. Researchers Heidi Beirich and Tom Lord argue these loosely organized protest collectives barely exist, pose no threat to Americans and lack explicit US targets. The FTO listing, which blocks assets, is seen as a scare tactic shifting focus from far-right terrorism. AfD welcomed the move; anti-fascist activists say opposition to Trump has galvanized broader resistance.",
+      "summaryTokens": 945,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/first-thing-us-judge-throws-out-criminal-cases-against-james-comey-and-letitia-james",
+      "title": "US judge throws out criminal cases against James Comey and Letitia James | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/first-thing-us-judge-throws-out-criminal-cases-against-james-comey-and-letitia-james",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/first-thing-us-judge-throws-out-criminal-cases-against-james-comey-and-letitia-james",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T12:37:14Z",
+      "trailText": "Judge says interim US attorney for eastern district of Virginia had ‘no lawful authority’ to indict former FBI director and New York attorney general. Plus, where did all the color go from the movies?",
+      "summary": "Federal judge Cameron Currie vacated indictments against former FBI director James Comey and NY attorney general Letitia James, ruling Trump-appointed interim US attorney Lindsey Halligan lacked lawful authority; both defendants deny wrongdoing and allege political targeting. The newsletter also reports Russia’s missile and drone barrage on Kyiv as US-brokered peace talks kick off in Abu Dhabi; Venezuela’s government decries US ‘narco-terrorism’ allegations; Xi Jinping’s call with Trump on Taiwan; US asylum cuts for Myanmar nationals; a high-profile author’s false Cherokee claim; a former Phoenix anchor’s Covid relief fraud sentence; Northwestern Mutual recruits’ debt woes; the trend toward darker movie cinematography; last-ditch fossil fuel language at COP30; and a Thai woman found alive in her coffin minutes before cremation.",
+      "summaryTokens": 1378,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
+    {
+      "id": "us-news/2025/nov/25/us-universities-cuts-dei-state-department",
+      "title": "The full list of US universities at risk of losing state department funding over DEI support",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/25/us-universities-cuts-dei-state-department",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/25/us-universities-cuts-dei-state-department",
+      "section": "us-news",
+      "publishedDate": "2025-11-25T12:00:21Z",
+      "trailText": "State department proposes excluding 38 institutions from Diplomacy Lab partnership including Harvard and Yale",
+      "summary": "The US State Department has proposed excluding 38 universities, including Harvard, Yale, Stanford, Duke, Johns Hopkins and USC, from its Diplomacy Lab research partnership starting January 1 2026 over their diversity, equity and inclusion hiring practices. The move would also admit ten new schools while retaining Columbia, MIT, Michigan, Penn, UVA and UT Austin—some of which removed DEI policies under federal pressure (e.g., Columbia’s $200 m settlement, UVA’s president’s resignation). A November 17 memo directs the bureau of public affairs to enforce “merit-based hiring,” aligning with the president’s anti-DEI agenda. Affected institutions have not yet been notified.",
+      "summaryTokens": 1463,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
+    },
     {
       "id": "us-news/2025/nov/24/trump-latino-voters-pew",
       "title": "Majority of Latino voters disapprove of Trump, Pew study finds",
@@ -29,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-25T02:33:59Z",
       "trailText": "Research shows 70% disapprove of job US president – who won backing of nearly half of Latino voters in 2024 – is doing",
-      "summary": "According to Pew Research, 70% of Latinos disapprove of Trump’s job performance, with 65% opposing his immigration policies and 61% blaming his economic measures for worsening conditions. Despite winning 48% of the Latino vote in 2024 (up from 28% in 2016), support has fallen after tariffs, spending cuts and raids. Majorities fear deportation (52%) and have seen community arrests. While 81% of Latino Trump supporters still approve, 78% say his policies harm their community, aiding Democrats’ Latino gains in recent governor’s races.",
-      "summaryTokens": 863,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "New Pew data show 70% of Latino adults disapprove of Trump’s job performance, 65% reject his immigration approach and 61% say his economic policies worsened conditions. After backing him at 48% in 2024 (up from 28% in 2016), support has declined amid tariffs, social spending cuts and aggressive raids. Fear of deportation rose from 42% to 52%, and 78% believe his policies harmed their community; for the first time in two decades most Hispanics say their situation has worsened. Party split persists: 81% of Latino Trump voters approve versus near-universal disapproval among Harris backers.",
+      "summaryTokens": 1455,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/trump-administration-briefing-latest-updates-news",
@@ -41,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-25T02:00:41Z",
       "trailText": "Federal judge calls justice department’s actions ‘unlawful exercises of executive power’ because prosecutor was unlawfully appointed",
-      "summary": "A federal judge dismissed the criminal cases against former FBI director James Comey and New York attorney general Letitia James after finding that interim U.S. attorney Lindsey Halligan was unlawfully appointed. Judge Cameron McGowan Currie called Halligan’s actions an “unlawful exercise of executive power” and threw out indictments for lying to Congress (Comey) and mortgage fraud (James) without prejudice. Refiling is possible but Comey’s statute of limitations expired. Both defendants decried the prosecutions as politically motivated; they praised the ruling and warned against DOJ weaponization.",
-      "summaryTokens": 354,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Federal judge Cameron McGowan Currie threw out criminal charges against former FBI director James Comey and New York attorney general Letitia James after finding Trump-appointed interim US attorney Lindsey Halligan lacked rightful authority. Currie labeled all actions from Halligan’s “defective appointment” unlawful exercises of executive power and dismissed both indictments without prejudice. Comey may avoid refiling due to the statute of limitations, while James’s mortgage-fraud count could be reintroduced. Both had denied wrongdoing and condemned the prosecutions as politically motivated, then hailed the ruling as vindication and defense of DOJ independence.",
+      "summaryTokens": 1698,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/epstein-grand-jury-materials-release-request-us-latest",
@@ -53,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T22:01:12Z",
       "trailText": "DoJ argues that congressional action last week to release the Epstein files permits unsealing of court records",
-      "summary": "The DOJ filed to unseal grand jury records from Jeffrey Epstein’s 2019 sex-trafficking indictment in Manhattan federal court, contending Congress’s recent law creates a 30-day window for release and overrides secrecy rules. US Attorney Jay Clayton urged prompt action, but Judge Richard Berman previously denied a Trump-era petition, citing victims’ safety, privacy and the minimal evidentiary value of FBI agent hearsay testimony. A similar bid in the Ghislaine Maxwell case was also rejected as providing no new substantive information.",
-      "summaryTokens": 537,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "The Justice Department, via US Attorney Jay Clayton, has asked a Manhattan federal court to unseal about 70 grand jury pages from the Jeffrey Epstein 2019 sex-trafficking probe, arguing Congress’s recent 30-day mandate overrides secrecy rules. Last week’s law cleared release of investigative files, Clayton says, but Judge Richard Berman previously denied a Trump-era petition citing privacy risks to victims and the transcripts’ limited new information. A parallel bid to free Ghislaine Maxwell testimony was also rejected. Clayton’s request follows his assignment to probe Epstein’s ties to Democrats and high-profile prosecutorial shifts.",
+      "summaryTokens": 430,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/trump-mamdani-white-house-maga",
@@ -65,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T20:36:09Z",
       "trailText": "Members of rightwing base disorientated by cordial Oval Office meeting – but not all Trump supporters downcast",
-      "summary": "Trump’s unexpected warm Oval Office meeting with newly elected NYC mayor Zohran Mamdani, previously derided by Trump as a “communist lunatic,” has disoriented his MAGA base. Far-right influencers like Laura Loomer, Elise Stefanik and Councilwoman Inna Vernikov lambasted the encounter, warning of GOP electoral collapse and branding Mamdani a “Marxist jihadist.” Pro-Trump strategist Steve Bannon, however, praised Trump’s political subtlety, predicting Mamdani-led policies will fail. Even some Democrats, including Public Advocate Jumaane Williams and ex-mayor Bill de Blasio, admitted surprise but highlighted mutual respect and strategic engagement.",
-      "summaryTokens": 562,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Trump’s Oval Office meeting with newly elected NYC mayor Zohran Mamdani—once derided as a “communist lunatic”—has roiled his MAGA base. Far-right figures like Laura Loomer, Elise Stefanik and Inna Vernikov denounced the “Marxist jihadist,” warning of GOP electoral fallout, while pro-Trump Steve Bannon praised Trump’s tactical restraint, predicting Mamdani’s policies will ultimately “crater the city.” Even Democrats such as Jumaane Williams and Bill de Blasio voiced surprise at the warmth on display, underscoring the political unpredictability ahead of 2026.",
+      "summaryTokens": 424,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/james-comey-letitia-james-charges-case-dismissed",
@@ -77,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T20:25:38Z",
       "trailText": "Judge says interim US attorney for eastern district of Virginia had ‘no lawful authority’ to indict former FBI director and New York attorney general",
-      "summary": "Judge Cameron McGowan Currie dismissed criminal charges against former FBI director James Comey and New York Attorney General Letitia James, ruling that interim U.S. Attorney Lindsey Halligan—installed by the Trump administration—lacked lawful authority once her 120-day term expired. Currie deemed indictments for lying to Congress (Comey) and mortgage fraud (James) void and dismissed them without prejudice, although Comey’s statute of limitations has likely expired. Both hailed the decision—James called it a victory for New Yorkers and pledged to press on; Comey said it proved the DOJ cannot be weaponized and emphasized judicial independence.",
-      "summaryTokens": 1389,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "A federal judge has thrown out the criminal cases against former FBI director James Comey and New York attorney general Letitia James, ruling that Lindsey Halligan’s September appointment as interim US attorney in Virginia was unlawful. Judge Cameron McGowan Currie found Halligan had “no lawful authority” to indict Comey on lying-to-Congress charges or James on mortgage fraud allegations. The dismissals, entered without prejudice, void all actions stemming from her defective appointment and likely bar a retrial in Comey’s case due to the expired statute of limitations, underscoring limits on executive power.",
+      "summaryTokens": 483,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/former-phoenix-news-anchor-covid-relief-fraud",
@@ -89,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T20:20:21Z",
       "trailText": "Stephanie Hockridge and her husband falsified details to obtain PPP loans guaranteed by US small business agency",
-      "summary": "Former Phoenix ABC15 anchor Stephanie Hockridge and her husband Nathan Reis were convicted for orchestrating a $63 million COVID relief fraud via their firm Blueacorn, falsifying PPP loan applications with fabricated payroll, tax and bank documents. They charged borrowers kickbacks, ran a “VIPPP” service to coach clients on submitting false information, recruited referral agents and bypassed reviews to maximize SBA lender fees. Hockridge was found guilty of conspiracy to commit wire fraud in June and sentenced to 10 years; Reis pleaded guilty in August. A 2022 congressional report showed Blueacorn processed over $1 billion in PPP funds, outpacing major banks.",
-      "summaryTokens": 948,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Former Phoenix ABC15 anchor Stephanie Hockridge was sentenced to 10 years after her June conviction for orchestrating a $63 million Paycheck Protection Program fraud with husband Nathan Reis. They co-founded Blueacorn in April 2020 to process SBA-backed PPP loans, fabricating payroll records, tax forms and bank statements to secure funds and charging borrowers kickbacks. The couple ran a “VIPPP” service that coached clients on submitting false applications and recruited referral agents to inflate lender fees. A 2022 congressional report found Blueacorn handled over $1 billion in PPP funds, issuing nearly three times more loans in 2021 than JPMorgan Chase and Bank of America combined.",
+      "summaryTokens": 577,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/florida-high-schooler-carnival-cruise-death",
@@ -101,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T19:52:40Z",
       "trailText": "Anna Kepner, 18, from Titusville, was found dead of asphyxiation under a bed on a Carnival cruise ship",
-      "summary": "Eighteen-year-old Anna Kepner, a Titusville, Florida high school senior, was found dead of asphyxiation under a bed aboard Carnival Horizon on November 8, wrapped in a blanket and life vests, with bruising consistent with a bar hold. No signs of drugs, alcohol or sexual assault have been confirmed. Investigators have named her 16-year-old stepbrother a suspect; he was questioned, hospitalized for psychiatric observation, and reportedly claims no memory of the incident. The family, on a blended-generation cruise, has expressed shock and sorrow while the FBI continues its inquiry.",
-      "summaryTokens": 934,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Anna Kepner, 18, a Titusville, Florida, cheerleader, was found dead of mechanical asphyxiation under a bed wrapped in life vests aboard the Carnival Horizon cruise ship on Nov. 8. Miami-Dade’s examiner ruled it a homicide by bar hold; no drugs, alcohol, or sexual assault were detected. Investigators and the FBI have questioned her 16-year-old stepbrother, who is now a suspect but claims no memory of the incident. Her grandparents fear they’ve lost two grandchildren as the family awaits further developments.",
+      "summaryTokens": 930,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/north-dakota-supreme-court-revives-abortion-ban",
@@ -113,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T19:51:55Z",
       "trailText": "Decision once again makes it a felony for doctors to perform procedure except in medical emergencies or some cases of rape or incest",
-      "summary": "North Dakota’s Supreme Court reinstated the state’s abortion ban, making it a felony for physicians—punishable by up to five years imprisonment and $10,000 fines—to perform procedures except in medical emergencies under a vague “reasonable medical judgment” standard or in cases of rape or incest before six weeks. The 3–2 decision overturned a lower court’s freeze, lacking the supermajority needed to strike exceptions as unconstitutionally vague. Plaintiffs—doctors and a relocated clinic—warn the law’s ambiguity could deter care; six women reportedly died awaiting treatment. With this reinstatement, 13 states now prohibit most abortions.",
-      "summaryTokens": 495,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "North Dakota’s Supreme Court reinstated its near-total abortion ban, reviving felony penalties for physicians who perform abortions outside narrow exceptions for medical emergencies defined by vague ‘reasonable medical judgment’ criteria or rape and incest under six weeks’ gestation. The decision reverses a lower court’s injunction, with only three of five justices finding fatal vagueness but lacking the supermajority to invalidate the law. Doctors face up to five years in prison and $10,000 fines for violations. Advocates warn the ban’s ambiguity endangers patients and providers, and marks North Dakota among 13 states prohibiting most abortions.",
+      "summaryTokens": 1131,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/pentagon-investigation-mark-kelly-arizona",
@@ -125,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T19:10:04Z",
       "trailText": "Investigation of Mark Kelly after Trump accused Democrats in video of ‘seditious behavior, punishable by death’",
-      "summary": "Pentagon has launched an unprecedented UCMJ inquiry into Senator Mark Kelly, a retired Navy captain and ex-astronaut, after he appeared in a video with five other veteran lawmakers urging troops to refuse unlawful orders. Defense Secretary Pete Hegseth condemned the message as undermining morale, threatening to recall Kelly to active duty for court-martial. Kelly, citing his combat and NASA service, vows to resist intimidation. President Trump denounced their remarks as “seditious behavior, punishable by death,” drawing sharp Democratic pushback and underscoring the Pentagon’s deepening politicization.",
-      "summaryTokens": 1121,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Pentagon investigators are probing Senator Mark Kelly, a retired Navy captain and former astronaut, under UCMJ rules after he joined fellow ex-service Democrats in a video advising troops to refuse unlawful orders. Defense Secretary Pete Hegseth branded the video “despicable,” warning Kelly could be recalled to active duty or court-martialed. Kelly called the inquiry intimidation, citing his combat and NASA record. Legal experts note military law allows rejecting patently illegal commands. Donald Trump labeled the call “seditious, punishable by death,” triggering fierce Democratic backlash against Pentagon politicization.",
+      "summaryTokens": 1119,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/trump-cancels-asylum-myanmar",
@@ -137,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T18:19:07Z",
       "trailText": "Homeland security claims country being ruled by military dictatorship ‘no longer continues to meet conditions’ for Temporary Protected Status",
-      "summary": "Trump administration will end Temporary Protected Status for nearly 10,000 Myanmar nationals, claiming improved local governance by armed ethnic groups and political processes now meet TPS requirements. Effective in 60 days, the decision reverses a 2021 designation and comes amid broader rollbacks of humanitarian protections for nationalities including Afghanistan, Somalia and Venezuela. Myanmar was added to a US travel ban in June. Rights groups like USCRI and ACLU decry the move, warning it endangers vulnerable individuals under a ruthless military dictatorship, risks family separation and deportation, and will face legal challenges.",
-      "summaryTokens": 860,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "In November 2025 the Trump administration’s Department of Homeland Security terminated Temporary Protected Status for about 10,000 Myanmar nationals in the US, claiming Burma’s conditions have improved. The rule, effective in 60 days, ends an 18-month humanitarian designation first granted in May 2021 under Biden and renewed in 2022 and 2024. Critics highlight Myanmar’s ongoing military dictatorship and executions of dissidents and warn of mass deportations and family separations. This move follows similar TPS withdrawals for Afghanistan, Venezuela and others, travel bans on multiple countries, and faces lawsuits by the ACLU and the U.S. Committee for Refugees and Immigrants.",
+      "summaryTokens": 1139,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/trump-conspiracy-venezuela-2020-election",
@@ -149,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T17:14:54Z",
       "trailText": "President’s comment implies hostility to Venezuela may be based on unfounded election-rigging conspiracy theory",
-      "summary": "Donald Trump on Truth Social appeared to endorse a debunked theory that Venezuela’s leadership controls global electronic voting software, causing his 2020 defeat. A judge ruled the claim false in 2023, yet its echoes led to Fox News’s $787m Dominion settlement. DOJ has interviewed ex–CIA officer Gary Berntsen and Venezuelan exile Martin Rodil, who allege vote-flipping, and briefed a Tampa task force. Trump reposted a Lara Logan podcast on the theory, urging focus on “ELECTION FRAUD.” He has also deployed a navy carrier to the region and designated Venezuela’s Cartel de los Soles as a Foreign Terrorist Organization. Critics warn he may be using election-fraud claims as a stronger casus belli than narcoterrorism.",
-      "summaryTokens": 844,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "President Donald Trump on Truth Social appeared to endorse a long-debunked theory that Venezuela’s leadership controls global voting machines and flipped votes to cost him the 2020 election—a claim U.S. courts rejected and central to Fox News’s $787 million Dominion settlement. He reposted a Lara Logan podcast featuring ex-CIA officer Gary Berntsen and exile Martin Rodil—both interviewed by the DOJ—and urged supporters to mobilize on “ELECTION FRAUD!!” Meanwhile, his administration has dispatched naval assets to the region and designated the Cartel de los Soles as a foreign terrorist organization. National security experts argue the election-rigging narrative resonates more as a casus belli with MAGA loyalists than traditional narcoterrorism claims, while insiders warn conspiracy peddlers may be exploiting White House access.",
+      "summaryTokens": 721,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/california-search-man-swept-into-ocean-big-sur",
@@ -161,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T17:14:10Z",
       "trailText": "Three people were pulled into the water and one remained missing, with search efforts hindered by ‘high winds and unsafe water conditions’",
-      "summary": "Monterey County authorities are searching for a 30-year-old man swept into the Pacific from rocks at Soberanes Point, Garrapata State Park, on Saturday afternoon. Two women escaped, but rescue teams—county SAR, California State Parks and the US Coast Guard—lost sight of a body spotted at 4:24 pm due to 20 ft surf and high winds. Search was suspended overnight and is set to resume Monday. Last week, a 7-year-old girl and her father died at nearby Garrapata Beach. Officials warn of “extremely dangerous” conditions: avoid coastal rocks and water at Soberanes Point.",
-      "summaryTokens": 817,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Search teams from Monterey County SAR, California State Parks and the US Coast Guard are combing Garrapata State Park’s Soberanes Point near Big Sur for a man in his 30s, wearing a white turban and black clothes, swept into the ocean Saturday afternoon. Two women in the group self-rescued, but a Coast Guard helicopter’s potential sighting was lost amid high winds and dangerous surf. Searches resume Monday. A week earlier, a 7-year-old girl and her father died at nearby Garrapata Beach. Officials warn of deadly coastal conditions and urge visitors to stay off rocks and out of the water.",
+      "summaryTokens": 879,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/slender-man-stabbing-morgan-geyser",
@@ -173,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T15:33:20Z",
       "trailText": "Morgan Geyser reportedly located at truck stop after reportedly cutting off monitoring bracelet",
-      "summary": "Morgan Geyser, 23, who stabbed Payton Leutner 19 times in 2014, believing it would appease the fictional Slender Man, cut off her monitoring ankle bracelet and fled her Madison group home this weekend. Authorities issued an alert after her bracelet malfunctioned Saturday night; she was found Sunday in Posen, Illinois at a truck stop, first giving police a false name and admitting \"I’ve done something really bad.\" Geyser pleaded guilty to attempted homicide and was in a psychiatric facility before transfer. Her companion faces obstruction charges, and she now risks returning to the psychiatric institute.",
-      "summaryTokens": 1381,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Morgan Geyser, 23, the Wisconsin woman who admitted stabbing classmate Payton Leutner 19 times in 2014 to serve the fictional Slender Man, escaped her Madison group home this weekend by removing a court-ordered ankle monitor. Authorities issued an alert Saturday after corrections staff detected a malfunction but only informed police 12 hours later. Geyser, traveling with a 42-year-old acquaintance who gave police a false name, was arrested Sunday at a truck stop in Posen, Illinois, after officers responded to a loitering complaint. Both were detained; the friend faces obstructing identification charges. Geyser, previously committed to a psychiatric institute, now risks being sent back pending a court hearing.",
+      "summaryTokens": 1282,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/texas-church-ice-extortion-case",
@@ -185,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T13:56:42Z",
       "trailText": "Man arrested in Houston is alleged to have used fake ID to demand $400 from woman who had given him massage",
-      "summary": "Donald Doolittle, 58, a safety director at Gateway Community Church in Webster, Texas, is charged with impersonating an ICE agent to extort $500 via Zelle from a woman who provided him a massage. Claiming ICE authority, he reviewed her temporary visa, threatened deportation and separation from her children, and demanded payment. The victim reported the scheme the next day; surveillance footage contradicted Doolittle’s denial of the meeting. His arrest follows ICE warnings about cybercriminals posing as agents in extortion scams.",
-      "summaryTokens": 1045,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "In Houston, 58-year-old Donald Doolittle, safety director at Gateway Community Church in Webster, allegedly impersonated an ICE agent to extort $500 via Zelle from a temporary-visa massage therapist. He showed a fake “ICE” ID, demanded cash after she refused card payment, threatened deportation and ordered her to delete their messages. The victim later reported the incident; surveillance footage confirmed her account. Doolittle now faces charges for impersonating a public servant. The case highlights growing ICE Cyber Crimes Unit warnings of scammers posing as federal agents to demand payments or deploy ransomware.",
+      "summaryTokens": 1058,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/visual-guide-us-military-presence-caribbean",
@@ -197,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T13:42:33Z",
       "trailText": "US has used claims of a ‘war on drugs’ to justify its attacks, which have resulted in 83 deaths that the UN has called extrajudicial executions",
-      "summary": "Since August, the US has amassed its largest Caribbean force since 1989, sending the Iwo Jima Amphibious Ready Group and USS Gerald R Ford carrier strike group—12,700+ personnel, warships and jets—to press Venezuela’s Nicolás Maduro over alleged “Cartel de los Soles” narcotrafficking. Under Trump’s “war on drugs” rationale, DC has struck 22 vessels—83 killed in UN-denounced extrajudicial executions—prompting FAA flight cancellations over heightened military activity, placed a $50m bounty on Maduro, designated his regime terrorist and upgraded bases in Puerto Rico, Honduras, Aruba and Curaçao.",
-      "summaryTokens": 1548,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Since August, the Trump administration has deployed its largest Caribbean force since 1989—12,700 troops, the USS Gerald R. Ford, Iwo Jima Amphibious Group and upgraded bases in Puerto Rico, Honduras, Aruba and Curaçao—under a “war on drugs” to pressure Nicolás Maduro. It has struck 22 vessels alleged to carry cocaine or fentanyl, killing 83 people in operations the UN labels extrajudicial executions despite no evidence. Officials placed a $50m bounty on Maduro, designated his “Cartel de los Soles” a terrorist group, and airlines canceled flights after the FAA warned of heightened risk.",
+      "summaryTokens": 1580,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/epstein-abuse-survivors",
@@ -209,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T13:00:27Z",
       "trailText": "Doubts emerge on whether Democrats or Republicans can be trusted on the issue and if either truly serves the purpose of preventing exploitation of women",
-      "summary": "After Epstein scandal reemerged as a political flashpoint, over a dozen survivors lobbied Congress to release unclassified DOJ records via the Epstein Files Transparency Act. Despite Trump’s initial opposition and subsequent reversal amid GOP rebellion, the law passed and was signed, mandating publication within 30 days. Victims like Haley Robson and Rina Oh voiced distrust of both parties’ motives; sex‐crimes expert Wendy Murphy called abuse a “male problem” transcending politics. Survivors insist their fight is apolitical: they demand accountability for predators rather than partisan advantage, warning that true transparency may remain elusive.",
-      "summaryTokens": 1058,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Survivors of Jeffrey Epstein’s sex-trafficking network have driven a push for Congress to release unclassified DOJ files on Epstein and Ghislaine Maxwell—securing bipartisan approval and a reluctant presidential signature. At a Capitol rally, more than a dozen women held childhood photos, recounted ages of first abuse and decried partisan exploitation of their trauma. Some, like Haley Robson, question both parties’ motives, while Rep. Marjorie Taylor Greene cites the issue to justify her exit. Legal experts, including Wendy Murphy, emphasize abuse transcends party lines. As the documents’ release nears, survivors such as Rina Oh insist their quest remains strictly apolitical.",
+      "summaryTokens": 499,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/trump-insults-female-journalists",
@@ -221,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T13:00:27Z",
       "trailText": "He called one a ‘piggy’ after being questioned about the files, and reacted furiously to another during a meeting with the Saudi crown prince",
-      "summary": "Facing renewed scrutiny over his ties to Jeffrey Epstein and a Republican rebuke on releasing the Epstein files, Donald Trump has lashed out at female journalists, calling one a “piggy” after a Bloomberg question and furiously chastising an ABC reporter alongside Saudi crown prince Mohammed bin Salman. He threatened to revoke ABC’s broadcast license, accused the network of fake news, and singled out women’s tone for his outbursts, marking a new peak in his long-standing media hostility.",
-      "summaryTokens": 393,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Donald Trump, facing scrutiny over his ties to Jeffrey Epstein, has lashed out at female journalists, calling one a “piggy” and threatening to revoke ABC’s license after they pressed him about the released files. His aggressive responses peaked during a meeting with Saudi Crown Prince Mohammed bin Salman—criticized by Congress for alleged complicity in Jamal Khashoggi’s murder—where Trump accused an ABC reporter of “terrible attitude” and “fake news.” This surge in hostility follows a rare GOP revolt that forced him to U-turn on releasing Epstein documents. Observers note he reserves harsher attacks for women, especially on Epstein, than for male questioners.",
+      "summaryTokens": 1070,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/first-thing-us-senator-criticises-republicans-silence-trump-violent-threats-democrats",
@@ -233,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T12:18:36Z",
       "trailText": "Mark Kelly, a veteran targeted by Trump over military comments, says he is ‘not going to be intimidated’. Plus, DNA reveals stone age teenager as chewer of 10,500-year-old ‘gum’",
-      "summary": "Arizona Democrat Senator Mark Kelly condemned congressional Republicans for remaining silent after former President Donald Trump threatened to hang Kelly and five other Democratic lawmakers following their video asserting military personnel can refuse illegal orders. Kelly told CBS Face the Nation Republicans offered “crickets” in response to Trump’s social media posts accusing the lawmakers of “seditious behavior” punishable by death and amplifying threats against them. He recalled GOP calls to temper rhetoric after the killing of Charlie Kirk and urged party leaders to denounce Trump’s violent language.",
-      "summaryTokens": 990,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Senator Mark Kelly, a former Navy pilot and one of six Democratic ex-servicemembers who released a video affirming troops’ duty to refuse illegal orders, urged GOP colleagues to denounce President Trump’s social-media posts labeling their actions “seditious behavior, punishable by death” and repost praising calls to “HANG THEM, GEORGE WASHINGTON WOULD.” Speaking on CBS’s Face the Nation, Kelly criticized Republicans for their silence after Trump’s violent threats, contrasting it with their earlier demands that Democrats moderate language after the fatal shooting of conservative activist Charlie Kirk, warning that the president’s rhetoric fuels real risks to lawmakers.",
+      "summaryTokens": 956,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/trump-doj-investigations",
@@ -245,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T12:00:27Z",
       "trailText": "Exodus of lawyers under Trump weakens department’s capacity in civil rights, national security and other areas",
-      "summary": "Since Trump’s inauguration, DOJ employment has dropped by over 5,500, according to Justice Connection, amid firings, resignations and deferred exits under AG Pam Bondi. The department purged ‘anti-MAGA’ prosecutors—targeting Capitol riot teams and the Comey probe—while installing loyal, inexperienced appointees. The civil rights division lost 70% of its workforce; voting, national security, white-collar, fraud and public integrity units are similarly depleted. Experts warn that this politicization and resource shift toward pardons and immigration crackdowns undermines counterterrorism, civil rights enforcement and election integrity, and could take years to reverse.",
-      "summaryTokens": 693,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "Since Trump took office, DOJ shed about 5,500 staff through firings, quits and deferred resignations as AG Pam Bondi ousted anti-Trump attorneys. Trump pardoned or commuted over 1,500 MAGA allies convicted in the Capitol attack and steered resources toward hardline immigration and other party priorities. The civil rights division lost 70% of its 600-member team; the voting section fell below half its lawyers; public integrity dropped from 30 to 2. In the Eastern District of Virginia, veterans resigned after Trump’s push to prosecute Comey, undermining gang, terror and white-collar probes. Former prosecutors warn these purges erode expertise in national security, corruption and civil rights enforcement, risking public safety and impartial rule of law.",
+      "summaryTokens": 1801,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/menopause-hormone-therapy",
@@ -257,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T12:00:26Z",
       "trailText": "Physicians say FDA panel conflated two issues and made baseless claims about unproven health benefits",
-      "summary": "FDA commissioner Marty Makary unilaterally removed broad black-box warnings on menopause estrogen therapies—local and systemic—claiming life-extending, heart-disease-preventing and dementia-blocking benefits, a move supported by HHS leaders Robert F. Kennedy Jr. and ARPA-H’s Alicia Jackson. Menopause specialists, including Lauren Streicher and Pauline Maki, call the decision “data-free,” noting no evidence of population-wide benefits, conflation of low-risk vaginal products with higher-risk systemic formulations, and ignoring large randomized trials. They warn this private roundtable bypassed public advisory procedures, risks patient safety, and sets a dangerous precedent, advising MHT only for symptomatic women with tailored regimens.",
-      "summaryTokens": 1039,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "FDA commissioner Marty Makary removed long-standing black-box warnings on menopause hormone therapy without the usual advisory process, citing broad benefits like reduced heart disease, dementia and mortality. Experts warn the decision conflates low-risk local estrogen with systemic treatments, lacks robust randomized data, and overstates protective effects in asymptomatic women. Critics describe the closed roundtable as “data-free,” fear “harmful,” confusing messages, and warn this precedent could politicize future drug labeling decisions.",
+      "summaryTokens": 264,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/24/trump-administration-news-updates-latest",
@@ -269,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-24T01:09:22Z",
       "trailText": "Democratic senators condemn Trump after he suggests ‘seditious behaviour’ be punishable ‘by death’. Key US politics stories from Sunday 23 November",
-      "summary": "On Nov 23, President Trump labeled six Democrats' calls against illegal orders as 'seditious behaviour punishable by death' on social media. Senator Mark Kelly and Sen. Amy Klobuchar denounced the threats, urging GOP colleagues to publicly repudiate the intimidation. In other highlights, NYC mayor-elect Zohran Mamdani reiterated his view of Trump as a 'fascist', X's 'about this account' feature exposed many MAGA influencers abroad, the Office of Government Efficiency (Doge) quietly dissolved eight months early, Jeffrey Epstein's survivor slammed Trump's 'hoax' comment on file releases, and ICE detained a US citizen teen at lunch.",
-      "summaryTokens": 1967,
-      "generatedAt": "2025-11-25T04:18:49.291Z"
+      "summary": "President Trump on social media accused six Democratic lawmakers of “seditious behavior punishable by death,” prompting Arizona Sen. Mark Kelly to reject intimidation and urge Republican leaders to condemn the threats. Minnesota Sen. Amy Klobuchar called the remarks “dangerous.” At a glance: NYC mayor-elect Zohran Mamdani reaffirmed his view of Trump as a “fascist”; a new X transparency tool shows many top MAGA influencers operate abroad; the federal “Doge” efficiency office quietly dissolved. Other headlines: an Epstein survivor blasts Trump’s file-release battle, and ICE detained a U.S. teen during lunch.",
+      "summaryTokens": 1000,
+      "generatedAt": "2025-11-26T03:43:40.296Z"
     },
     {
       "id": "us-news/2025/nov/23/senator-mark-kelly-trump-threats-democrats-congress-military",
@@ -12311,7 +12563,7 @@
     },
     {
       "id": "us-news/2025/oct/04/trump-gaza-peace-deal",
-      "title": "US envoys head to Egypt for Gaza ceasefire talks as Trump says ‘we are very close’ to deal",
+      "title": "US envoys head to Egypt for Gaza ceasefire talks as Trump says ���we are very close’ to deal",
       "webUrl": "https://www.theguardian.com/us-news/2025/oct/04/trump-gaza-peace-deal",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/oct/04/trump-gaza-peace-deal",
       "section": "us-news",
@@ -13013,7 +13265,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-02T11:35:32Z",
       "trailText": "Democrats reject ‘Republican lies’ as both parties try to pin the shutdown blame on each other. Plus, Israeli naval forces board pro-Palestinian flotilla",
-      "summary": "Vice-President JD Vance falsely blamed Democrats for the government shutdown—accusing them of withholding funding to expand healthcare for undocumented immigrants—claims Democrats label “Republican lies,” as the White House warns of imminent layoffs. About 750,000 federal employees face furlough and essential staff like military and border agents risk working without pay, with Trump considering turning furloughs into firings. A Marist poll shows 38% would blame Republicans, 27% Democrats and 31% both. Meanwhile, Israeli naval forces boarded 13 pro-Palestinian flotilla vessels—including Greta Thunberg’s ship—75 miles off Gaza, enforcing a blockade condemned by the UN.",
+      "summary": "Vice-President JD Vance falsely blamed Democrats for the government shutdown—accusing them of withholding funding to expand healthcare for undocumented immigrants���claims Democrats label “Republican lies,” as the White House warns of imminent layoffs. About 750,000 federal employees face furlough and essential staff like military and border agents risk working without pay, with Trump considering turning furloughs into firings. A Marist poll shows 38% would blame Republicans, 27% Democrats and 31% both. Meanwhile, Israeli naval forces boarded 13 pro-Palestinian flotilla vessels—including Greta Thunberg’s ship—75 miles off Gaza, enforcing a blockade condemned by the UN.",
       "summaryTokens": 838,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
@@ -14860,7 +15112,7 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/sep/24/dallas-texas-ice-facility-shooting-response",
       "section": "us-news",
       "publishedDate": "2025-09-24T21:02:47Z",
-      "trailText": "Democrats say Trump allies are using incident for ‘political points’ against the left despite the victims being detainees",
+      "trailText": "Democrats say Trump allies are using incident for ���political points’ against the left despite the victims being detainees",
       "summary": "A sniper attack at a Dallas ICE facility killed one detainee, left two critically wounded, and spared all federal staff; the gunman died by suicide. FBI investigators found anti-ICE messages but have not confirmed a motive. Republicans (Trump, Abbott, Cruz) denounced “radical left” rhetoric against law enforcement, while Democrats and gun-control advocates condemned the politicization, spotlighted detainees’ families, urged gun reform and decried anti-immigrant sentiment. DHS and ICE withheld victim identities pending further inquiry.",
       "summaryTokens": 1051,
       "generatedAt": "2025-10-28T20:38:22.886Z"
