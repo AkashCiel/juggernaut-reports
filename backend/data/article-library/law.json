@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "law",
-    "generated_at": "2025-11-26T03:28:18.479Z",
+    "generated_at": "2025-11-27T03:18:59.501Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-25"
+      "to": "2025-11-26"
     },
-    "article_count": 36,
+    "article_count": 38,
     "merge_info": {
-      "previous_count": 35,
-      "new_articles": 1,
+      "previous_count": 36,
+      "new_articles": 2,
       "updated_articles": 1,
-      "total_count": 36
+      "total_count": 38
     },
     "batch_info": {
-      "initial_batch_id": "batch_6926737aac688190a36ff916176c04eb",
+      "initial_batch_id": "batch_6927c2cb71bc81908dadf3f8dc9aec84",
       "retry_batches": [],
-      "total_tokens": 3972,
+      "total_tokens": 6763,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "law/2025/nov/26/labour-plan-slash-jury-trials-keir-starmer-past-calls-expand",
+      "title": "Labour’s plan to slash jury trials at odds with Starmer’s past calls to expand them",
+      "webUrl": "https://www.theguardian.com/law/2025/nov/26/labour-plan-slash-jury-trials-keir-starmer-past-calls-expand",
+      "apiUrl": "https://content.guardianapis.com/law/2025/nov/26/labour-plan-slash-jury-trials-keir-starmer-past-calls-expand",
+      "section": "law",
+      "publishedDate": "2025-11-26T18:54:19Z",
+      "trailText": "PM once advocated for all criminal cases to be heard before juries, even those at magistrates court level, it has emerged",
+      "summary": "Justice secretary David Lammy has proposed removing juries from all but the most serious offences—those carrying over five-year sentences—and boosting magistrates’ powers to hear cases with up to two-year terms. Critics, citing Lammy’s own 2017 review that hailed juries as a “filter for prejudice,” warn this shift will worsen miscarriages of justice against Black, Asian and minority ethnic defendants. Barristers and legal charities argue that an all-judge model risks bias, noting the judiciary’s narrow demographic. Notably, Keir Starmer once argued in 1992 that all criminal cases deserve jury trials. The MoJ stresses no final decision amid a mounting backlog.",
+      "summaryTokens": 764,
+      "generatedAt": "2025-11-27T03:18:59.207Z"
+    },
+    {
+      "id": "law/2025/nov/26/secret-courts-palestine-action-cmp-heard-behind-closed-doors",
+      "title": "‘Unavoidably unfair’: the secret courts system hearing part of Palestine Action case",
+      "webUrl": "https://www.theguardian.com/law/2025/nov/26/secret-courts-palestine-action-cmp-heard-behind-closed-doors",
+      "apiUrl": "https://content.guardianapis.com/law/2025/nov/26/secret-courts-palestine-action-cmp-heard-behind-closed-doors",
+      "section": "law",
+      "publishedDate": "2025-11-26T06:00:44Z",
+      "trailText": "The CMP system means Huda Ammori will not be allowed to know what allegations were made against her",
+      "summary": "Huda Ammori, co-founder of Palestine Action, will face a legal challenge to the ban on her group under the UK’s closed material procedure (CMP) at the Royal Courts of Justice. Under CMP, Ammori and her lawyers must be excluded from hearings where secret evidence against her is shown; a security-cleared special advocate may not disclose allegations, precluding her from rebuttal. Critics, including special advocate Angus McCullough KC and judges Lord Steyn and Lord Kerr, argue CMPs are inherently unfair, lack due-process safeguards and have expanded legally since 2013 without full reform. An independent panel urges strict necessity and greater judicial discretion to protect core information rights.",
+      "summaryTokens": 1285,
+      "generatedAt": "2025-11-27T03:18:59.207Z"
+    },
     {
       "id": "law/2025/nov/25/moj-considering-extreme-proposal-to-scrap-jury-trials-for-all-but-most-serious-cases",
       "title": "David Lammy considers scrapping jury trials for all but the most serious cases",
@@ -29,9 +53,9 @@
       "section": "law",
       "publishedDate": "2025-11-25T18:10:07Z",
       "trailText": "Senior lawyers criticise justice secretary’s radical plan for England and Wales, saying it could ‘destroy justice as we know it’",
-      "summary": "Justice Secretary David Lammy has proposed removing jury trials for all crimes except murder, manslaughter, rape and other offences with potential sentences over five years, creating a new lower-tier Crown Court bench division to be presided by single judges. Aimed at tackling a backlog of 78,000 cases, the plan, drawn from but exceeding Sir Brian Leveson’s 2024 recommendations, has sparked backlash from the Law Society’s Mark Evans, CBA chair Riel Karmy-Jones KC, and political figures Kemi Badenoch and Jess Brown-Fuller, who warn it undermines fairness, lay participation and public trust.",
-      "summaryTokens": 1080,
-      "generatedAt": "2025-11-26T03:28:18.277Z"
+      "summary": "Justice Secretary David Lammy has proposed eliminating jury trials in England and Wales for all offences except murder, manslaughter, rape and other public interest crimes carrying sentences over five years. Under plans to create a Crown Court Bench Division, single judges would try fraud, financial and most serious non-fatal offences to tackle a 78,000-case backlog. Senior lawyers, including the Law Society and Criminal Bar Association, warn the measure exceeds Leveson review recommendations, threatens lay participation, risks fairness and would not reduce delays. The MoJ says no final decision has been made.",
+      "summaryTokens": 941,
+      "generatedAt": "2025-11-27T03:18:59.207Z"
     },
     {
       "id": "law/2025/nov/24/its-not-jury-trials-that-have-left-britains-justice-system-in-crisis",
