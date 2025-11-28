@@ -1,37 +1,205 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-27T03:38:01.439Z",
+    "generated_at": "2025-11-28T03:48:15.258Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-27"
+      "to": "2025-11-28"
     },
-    "article_count": 1440,
+    "article_count": 1454,
     "merge_info": {
-      "previous_count": 1419,
-      "new_articles": 21,
-      "updated_articles": 23,
-      "total_count": 1440
+      "previous_count": 1440,
+      "new_articles": 14,
+      "updated_articles": 26,
+      "total_count": 1454
     },
     "batch_info": {
-      "initial_batch_id": "batch_6927c6c197e08190a3cb747e25883891",
+      "initial_batch_id": "batch_69291a669a208190a3430018216ca7a1",
       "retry_batches": [],
-      "total_tokens": 97718,
+      "total_tokens": 85497,
       "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "us-news/2025/nov/28/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: FBI expands Washington shooting investigation as president says one victim has died",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/28/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/28/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2025-11-28T03:28:33Z",
+      "trailText": "Trump announced the death of national guard member Sarah Beckstrom, as his administration pledged to re-examine entry of Afghan refugees. Key US politics stories from Thursday at a glance",
+      "summary": "The FBI widened its probe into Wednesday’s DC shooting by searching multiple sites, including a Washington state home linked to Afghan national Rahmanullah Lakanwal—an ex–CIA-backed unit member resettled in 2021—seizing phones and laptops. President Trump announced the death of 20-year-old National Guard member Sarah Beckstrom; her comrade Andrew Wolfe, 24, remains critical. Trump also ordered a review of all Afghan refugee admissions. Other headlines: Venezuela bans six airlines; Denmark establishes a \"night watch\" on Trump; US halts World AIDS Day observance; Trump snubs South Africa’s G20 bid; polarization spikes on X; Trump pays tribute to golfer Fuzzy Zoeller.",
+      "summaryTokens": 1664,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
       "id": "us-news/2025/nov/26/washington-national-guard-shooting-suspect",
-      "title": "Suspect in US national guard shooting identified as Afghan man",
+      "title": "Trump officials announce sweeping immigration reviews after national guard shooting",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/26/washington-national-guard-shooting-suspect",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/26/washington-national-guard-shooting-suspect",
       "section": "us-news",
-      "publishedDate": "2025-11-27T03:31:47Z",
-      "trailText": "Rahmanullah Lakanwal, 29, identified as suspect as Trump calls shooting in Washington DC ‘act of terror’",
-      "summary": "Authorities have identified the suspect in the Nov. 26 shooting of two National Guard members near the White House as 29-year-old Afghan national Rahmanullah Lakanwal, paroled under the Biden-era Operation Allies Welcome program and granted asylum this year. Lakanwal is in custody with non-life-threatening injuries after allegedly opening fire on the West Virginia guardsmen. Former President Trump labelled the attack an “act of terror,” blaming Biden’s immigration policies and calling for reexamining Afghan arrivals. The shooting, captured on video, occurred near Farragut West station; both guardsmen remain critically injured as DC National Guard presence expands.",
-      "summaryTokens": 1001,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "publishedDate": "2025-11-28T00:13:54Z",
+      "trailText": "Donald Trump signaled after attack that refugee and asylum cases would be scrutinized",
+      "summary": "After Rahmanullah Lakanwal, an Afghan national admitted under Biden’s 2021 evacuation policy, shot two National Guard members near the White House—killing one—Trump officials ordered DHS and USCIS to suspend Afghan immigration processing and re-examine all asylum approvals and green cards from 'countries of concern' listed in his 19-nation travel ban. USCIS will treat bans’ country-specific factors as negative. Trump cited lax vetting and ordered an extra 500 Guard troops to DC. Legal challenges to his prior Guard deployment continue. Investigations noted Lakanwal, who served with CIA units and had no criminal history, was vetted before asylum approval.",
+      "summaryTokens": 1137,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/28/national-guard-member-sarah-beckstrom-has-died-after-shooting-in-washington-dc-trump-announces",
+      "title": "National guard member Sarah Beckstrom has died after shooting in Washington DC, Trump announces",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/28/national-guard-member-sarah-beckstrom-has-died-after-shooting-in-washington-dc-trump-announces",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/28/national-guard-member-sarah-beckstrom-has-died-after-shooting-in-washington-dc-trump-announces",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T23:55:34Z",
+      "trailText": "One other member of the guards, Andrew Wolfe, 24, is still fighting for his life, according to the president",
+      "summary": "President Trump announced that National Guard member Sarah Beckstrom, 20, of West Virginia, died Wednesday after being shot near the White House in a targeted attack; fellow Guardsman Andrew Wolfe, 24, remains critically wounded. The suspect, 29-year-old Afghan asylum-holder Rahmanullah Lakanwal—vetted under a US program—allegedly drove cross-country with a .357 revolver to ambush troops. He faces federal terrorism and assault charges amid an ongoing motive investigation. Trump blamed the Biden administration’s vetting, ordered immigration reviews and deployed additional Guard troops to DC.",
+      "summaryTokens": 698,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/washington-dc-national-guard-shooting-suspect",
+      "title": "Suspect in Washington DC national guard shooting had ties to CIA, agency confirms",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/washington-dc-national-guard-shooting-suspect",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/washington-dc-national-guard-shooting-suspect",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T23:23:51Z",
+      "trailText": "Rahmanullah Lakanwal, 29, worked with agency-backed military units during US war in Afghanistan",
+      "summary": "Rahmanullah Lakanwal, a 29-year-old Afghan who served in CIA-backed Kandahar units, is accused of ambushing two newly sworn West Virginia National Guard members in DC on Nov 27. He arrived under Operation Allies Welcome in 2021 and secured asylum in April 2025. Driving from Bellingham, WA, Lakanwal allegedly used a .357 revolver to shoot Sarah Beckstrom, 20, who later died, and critically wound Andrew Wolfe, 24. The FBI is investigating the attack as terrorism. He faces charges including assault with intent to kill and potential first-degree murder. The incident spurred federal vetting reviews and halted processing of Afghan immigration applications.",
+      "summaryTokens": 569,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/awareness-days-events-trump",
+      "title": "For Trump, there’s Columbus Day and Victory Day, but no World Aids Day",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/awareness-days-events-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/awareness-days-events-trump",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T21:28:05Z",
+      "trailText": "Administration said ‘awareness is not a strategy’, but here is a short list of orders the president has signed to do just that",
+      "summary": "For the first time since 1988, President Trump’s administration dropped US observance of World AIDS Day—saying “awareness is not a strategy”—even as he’s signed numerous proclamations for causes he prefers. Since returning to office he’s marked anti-communism week; renamed national energy awareness month to “national energy dominance month”; and annually proclaimed Leif Erikson Day, Columbus Day, national manufacturing day, overdose prevention week, cancer control month, Made in America Week, the 250th Bunker Hill anniversary, the 101st Border Patrol anniversary, Victory Day (WWII), and the 418th Cape Henry Landing anniversary, alongside routine health and heritage observances.",
+      "summaryTokens": 690,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/robert-am-stern-architect-dies-aged-86",
+      "title": "Robert AM Stern, architect dubbed ‘King of Central Park West’, dies aged 86",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/robert-am-stern-architect-dies-aged-86",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/robert-am-stern-architect-dies-aged-86",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T20:35:06Z",
+      "trailText": "Stern, credited with designing 15 Central Park West, sought to design buildings that invoked pre-war splendor",
+      "summary": "Robert AM Stern, the Yale-trained architect known as ‘King of Central Park West,’ died aged 86. He revolutionised luxury residential design with 15 Central Park West—85,000-piece limestone facade, $2bn in sales, home to hedge-fund magnates, tech icons and celebrities—reviving 1920s-30s classicism over modernist glass towers. Refusing computers, Stern hand-drew “traditional modern” buildings, led a 300-strong firm, authored encyclopaedic volumes, and helmed Yale’s architecture school. His portfolio spans Disney World resorts, Dallas’s G.W. Bush Center, Philadelphia’s Comcast Center, and the Museum of the American Revolution. He championed engagement with urban context over avant-garde self-importance.",
+      "summaryTokens": 1108,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/thanksgiving-storm-travel-weather",
+      "title": "US midwest and north brace for storm as nearly 82m people travel for holidays",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/thanksgiving-storm-travel-weather",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/thanksgiving-storm-travel-weather",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T18:55:48Z",
+      "trailText": "Several flights are delayed and parts of Iowa, Minnesota, Wisconsin and Michigan could see six to 10 inches of snow",
+      "summary": "Parts of the US Midwest and Great Lakes are under a National Weather Service winter storm watch for 6–10 inches of snow in Iowa, Minnesota, Wisconsin and Michigan between Friday afternoon and Saturday evening, with potentially hazardous travel Friday night. Nearly 82 million Americans are forecast by AAA to travel this Thanksgiving weekend. Over 800 flights were delayed on Thursday (FlightAware logged 6,630 on Wednesday), though airports have largely recovered from federal staffing shortages. Temperatures will plunge across the eastern US—reaching as far south as Texas—while New England sees rain and the Pacific Northwest picks up snow. A separate storm system is expected Saturday near the Mississippi River valley.",
+      "summaryTokens": 751,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/washington-dc-national-guard-shooting-what-we-know-so-far",
+      "title": "Washington DC national guard shooting: what we know so far",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/washington-dc-national-guard-shooting-what-we-know-so-far",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/washington-dc-national-guard-shooting-what-we-know-so-far",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T18:24:12Z",
+      "trailText": "On Wednesday, Rahmanullah Lakanwal shot troop members Sarah Beckstrom and Andrew Wolfe",
+      "summary": "At 2:15pm on Wednesday, 29-year-old Rahmanullah Lakanwal allegedly ambushed two newly sworn West Virginia National Guard members—20-year-old Sarah Beckstrom and Andrew Wolfe, 24—two blocks NW of the White House. Beckstrom died Thursday; Wolfe was wounded. A third guard member shot and captured Lakanwal, now hospitalized with non-life-threatening wounds. He faces assault-with-intent-to-kill and firearms charges, potentially upgradeable to murder. Investigators say his motive is unclear; he drove from Washington state after resettling from Afghanistan under a U.S. asylum program. The Trump administration deployed 500 additional Guard troops and ordered immigration reviews.",
+      "summaryTokens": 1230,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/world-aids-day",
+      "title": "US will no longer commemorate World Aids Day, reports say",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/world-aids-day",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/world-aids-day",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T18:01:38Z",
+      "trailText": "State department has told employees and grant recipients to not publicly promote or make event on 1 December",
+      "summary": "For the first time since 1988, the State Department has directed employees and grant recipients not to use US government funds or public channels to mark World AIDS Day on December 1. An internal email—first reported by Emily Bass and seen by the New York Times—allows staff to highlight HIV/AIDS work and attend observances but bans social media, speeches or media engagements celebrating the day. Spokesperson Tommy Pigott said “an awareness day is not a strategy” under the Trump administration, which has also cut research, prevention funding and curbed PEPFAR, accountable for preventing an estimated 25 million early deaths.",
+      "summaryTokens": 610,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/peru-band-of-holes-mystery",
+      "title": "Florida professor may have solved mystery of Peru’s Band of Holes",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/peru-band-of-holes-mystery",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/peru-band-of-holes-mystery",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T17:01:32Z",
+      "trailText": "Charles Stanish surmised indentations were rudimentary market place and later adapted as accounting and storage system",
+      "summary": "University of South Florida archaeologist Charles Stanish and University of Sydney’s Jacob Bongers used high-resolution drone mapping and microbotanical sediment analysis to solve Peru’s Band of Holes mystery: over 5,200 pre-Inca pits on Monte Sierpe. Aerial surveys revealed khipu-like geometric rows, while fossilized maize, wild plant seeds and traditional reeds in the pits confirm human placement and agricultural accounting functions. Stanish argues the pits began as a rudimentary marketplace and were adapted by the Inca for storage and record-keeping. Further seed analysis and excavations are planned; calls grow to protect this Indigenous heritage site.",
+      "summaryTokens": 745,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/ice-dallas-texas-maher-tarabishi",
+      "title": "ICE detains Texas father as son’s health declines: ‘Don’t forget about me’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/ice-dallas-texas-maher-tarabishi",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/ice-dallas-texas-maher-tarabishi",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T15:00:38Z",
+      "trailText": "Maher Tarabishi was arrested at a routine visit despite decades in the US, leaving his son with Pompe disease",
+      "summary": "Originally allowed to remain on supervision after denied asylum, ICE detained 62-year-old Jordanian Maher Tarabishi at a routine Dallas check-in despite decades in the US and his role as primary caregiver for 30-year-old son Wael, who has progressive Pompe disease. ICE labels him a criminal alien and PLO member; family disputes that. Wael’s health worsened with infections and near cardiac arrest after his father’s arrest. Transferred to remote Anson facility, Tarabishi’s detention fuels family distress and advocates cite Trump-era expansion of detaining non-criminals. Family and activists demand his release, warning both risk death without proper care.",
+      "summaryTokens": 1214,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/first-thing-donald-trump-us-afghan-refugees-suspect-named-national-guard-shooting",
+      "title": "Trump says US should ‘re-examine’ all Afghan refugees after suspect named in national guard shooting | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/first-thing-donald-trump-us-afghan-refugees-suspect-named-national-guard-shooting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/first-thing-donald-trump-us-afghan-refugees-suspect-named-national-guard-shooting",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T13:07:46Z",
+      "trailText": "President called the shooting in Washington an ‘act of terror’. Plus, Hong Kong fire death toll rises to 65",
+      "summary": "Morning briefing: former President Trump calls on the Biden administration to review all Afghan refugees after authorities named 29-year-old asylum seeker Rahmanullah Lakanwal as the suspect in the Washington DC National Guard shooting near Farragut West, leaving two guards in critical condition. Meanwhile, Hong Kong’s deadliest fire in decades kills at least 65 amid alleged construction negligence. US research group Dekleptocracy flags overlooked sanctions on chemicals for military lubricants as a potential leverage point against Russia’s war effort.",
+      "summaryTokens": 1316,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/us-navy-san-francisco-plutonium",
+      "title": "US navy accused of cover-up over dangerous plutonium in San Francisco",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/us-navy-san-francisco-plutonium",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/us-navy-san-francisco-plutonium",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T13:00:36Z",
+      "trailText": "Advocates allege navy knew levels of airborne plutonium at Hunters Point shipyard were high before it alerted officials",
+      "summary": "The US Navy knew in November 2024 that airborne plutonium-239 at its 866-acre Hunters Point Naval Shipyard exceeded federal action levels in a residential-adjacent area but withheld results until October 2025, prompting allegations of a cover-up to avoid costly cleanup. Public health advocates and litigation argue the agency’s re-check lacks transparency, while the EPA demands raw data and supervises remediation at this Superfund site contaminated since 1950s nuclear decontamination.",
+      "summaryTokens": 914,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/cancer-chemical-in-maine-wild-turkeys",
+      "title": "Wild turkeys off the menu in Maine after ‘forever chemicals’ found in birds",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/cancer-chemical-in-maine-wild-turkeys",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/cancer-chemical-in-maine-wild-turkeys",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T11:00:26Z",
+      "trailText": "Contamination of wildlife with Pfas, which can increase risk of cancer, a growing problem in US",
+      "summary": "Hunters in southwestern Maine have been advised not to eat wild turkeys and deer harvested within four areas north of Augusta after state tests found elevated levels of PFAS—so-called “forever chemicals” linked to cancer and other health issues—in muscle tissue. Maine’s Departments of Inland Fisheries and Wildlife and CDC issued the “do not eat” warning following soil tests showing PFAS hotspots. Similar advisories have been issued this year in Wisconsin, Michigan and New Mexico around former military sites. Experts warn PFAS persist for centuries, urging a phase-out of uses, enforceable water standards and public education to curb ongoing contamination.",
+      "summaryTokens": 938,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
+    },
+    {
+      "id": "us-news/2025/nov/27/national-guard-shooting-trump-washington-dc",
+      "title": "National guard shooting will likely make Trump crack down even harder",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/27/national-guard-shooting-trump-washington-dc",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/27/national-guard-shooting-trump-washington-dc",
+      "section": "us-news",
+      "publishedDate": "2025-11-27T11:00:25Z",
+      "trailText": "The attack makes the troops’ Washington DC exit less likely and offers a convenient data point for rightwing narratives",
+      "summary": "After two West Virginia National Guardsmen were shot outside Farragut West Metro station in DC, President Trump seized the attack as proof of unsafe immigration, blaming Biden for admitting violent criminals, launching xenophobic attacks on Somalis, and ordering a review of Afghan entrants. He deployed 500 additional guard troops in DC, sustaining an authoritarian posture since August’s “crime emergency.” Guard members fume over menial tasks like park cleaning, expressing frustration on encrypted chats. It was the first major shooting involving these federalized troops since their DC deployment. Critics warn this escalation risks militarizing U.S. cities, exploits fear for political gain, and deepens national division.",
+      "summaryTokens": 1588,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
     },
     {
       "id": "us-news/2025/nov/26/trump-administration-news-at-a-glance-latest",
@@ -41,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-27T02:51:07Z",
       "trailText": "Two national guard members from West Virginia were critically wounded in attack near White House",
-      "summary": "After two West Virginia National Guard members were shot near Farragut West station by Afghan-born Rahmanullah Lakanwal, President Trump ordered 500 additional guardsmen to DC, filed an emergency appeal to extend deployment, and called the attack “an act of terror” blaming Biden’s Afghan admissions. Meanwhile: Georgia’s racketeering case against Trump was dismissed; Rep. Don Bacon demands envoy Steve Witkoff’s ouster over a leaked Kremlin call; Trump lobbed an “ugly” slur at a NYT reporter; threatened Venezuela’s Maduro; and DHS ended TPS for 340,000 Haitians.",
-      "summaryTokens": 1382,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Two West Virginia National Guard members were critically wounded in a targeted shooting near the White House; Afghan-born suspect Rahmanullah Lakanwal, 29, is in custody. In response, Trump ordered 500 additional National Guard troops to DC and filed an emergency motion to keep the current deployment intact, calling the attack “an act of terror” and vowing stricter scrutiny of Afghan arrivals. Elsewhere, Georgia dropped its 2020 racketeering case against Trump, lawmakers called for envoy Steve Witkoff’s firing after a leaked Kremlin call, Trump insulted a NYT reporter, threatened Maduro, and moved to end TPS for 340,000 Haitians.",
+      "summaryTokens": 1201,
+      "generatedAt": "2025-11-28T03:48:15.004Z"
     },
     {
       "id": "us-news/2025/nov/26/national-guard-soldiers-shot-washington-dc",
@@ -53,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-27T01:05:13Z",
       "trailText": "Suspect in custody after two West Virginia guard members shot in ‘targeted’ incident, Washington mayor says",
-      "summary": "Two West Virginia National Guard soldiers deployed in DC under Trump’s orders were critically wounded near the White House in a 'targeted' shooting. Suspect Rahmanullah Lakanwal, an Afghan admitted under Operation Allies Welcome in 2021, was shot and detained. FBI and DHS are investigating as an assault on federal officers with national security implications. The attack triggered lockdowns around Farragut West, drew condemnation from DC officials, prompted Trump to call for more troops and Afghan vetting, and reignited a legal battle over guard deployments under the Home Rule Act.",
-      "summaryTokens": 1565,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Two West Virginia National Guard soldiers are in critical condition after a “targeted” shooting near Farragut West station in DC by Rahmanullah Lakanwal, an Afghan national admitted under the Operation Allies Welcome program; he is in custody with gunshot wounds. FBI Director Kash Patel and Mayor Muriel Bowser are treating it as an assault on federal officers amid a controversial multistate Guard deployment ordered by former President Trump. Trump blamed Biden’s Afghan refugee policy, sought 500 additional guardsmen and filed an emergency motion to keep troops in DC despite a court order under the Home Rule Act. Vice President JD Vance and former President Obama offered condolences.",
+      "summaryTokens": 2863,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/white-house-washington-national-guard",
@@ -65,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-27T00:21:59Z",
       "trailText": "Amid a frenetic scene, some residents said Trump’s militarization of the capital had much to answer for",
-      "summary": "Two National Guard members were shot near Farragut Square, DC, amid heightened militarization of the capital by order of President Trump. The suspect, identified as an Afghan man, sparked a major security response: road closures, cordons, and helicopter patrols. Local residents and mayoral candidate Gary Goodweather, a former Guard captain, decried the deployment as “an invitation to violence,” while Defense Secretary Pete Hegseth added 500 troops. Many Washingtonians lament an “occupation” by federal agents. FBI director Kash Patel called the guards “heroes” and vowed exhaustive pursuit of leads. The incident underscored tensions over law-and-order militarization.",
-      "summaryTokens": 814,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Near Washington’s Farragut Square, two National Guard troops were shot by a suspect identified as an Afghan man, triggering a lockdown as police, Secret Service and Guard units cordoned off streets, a helicopter hovered overhead and office workers were barred from exits. Democratic mayoral candidate and ex-Guard captain Gary Goodweather blamed Trump’s deployment of federal troops for inviting violence and warned against further militarization. Defense Secretary Hegseth has since sent 500 more guards, while local resident Jesse Lovell decried the perceived “occupation.” FBI Director Kash Patel promised a full investigation into the attack.",
+      "summaryTokens": 1311,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/prosecutor-ai-inaccurate-motion",
@@ -77,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T22:00:57Z",
       "trailText": "Filing contained errors known as ‘hallucinations’, with attorneys arguing prosecutors’ office used AI in other cases",
-      "summary": "California's Nevada County District Attorney Jesse Wilson confirmed his office used generative AI to draft a criminal motion, which contained fabricated quotations and misinterpreted rulings, then withdrew it after defense counsel flagged these 'hallucinations'. Public defenders representing Kyle Kjoller uncovered similar flaws in multiple filings, unsuccessfully sought sanctions in the 3rd District Court of Appeal, and petitioned the California Supreme Court—supported by 22 legal and academic advocates—arguing that AI-driven citations threaten due-process rights. Wilson insists only one motion involved AI, attributes other mistakes to human oversight, and has implemented AI policies and staff training. This appears to be the first known U.S. prosecutor-filed submission using generative AI.",
-      "summaryTokens": 766,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "California’s Nevada County DA admitted using generative AI in a court motion that included fabricated citations, which was withdrawn after discovery. Defense attorneys in Kyle Kjoller’s case and Civil Rights Corps flagged similar “hallucinations” across other filings and sought sanctions and appeals—denied at both the appellate and Supreme Court levels so far. A coalition of scholars and advocates filed a brief supporting Kjoller. DA Jesse Wilson insists only one AI-assisted filing occurred and attributes other errors to human oversight, instituting citation checks and AI policies. This marks the first U.S. prosecutor AI filing.",
+      "summaryTokens": 859,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/trump-georgia-2020-racketeering-case-dropped",
@@ -89,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T19:52:25Z",
       "trailText": "State prosecutor dismisses charges against US president and others in election interference case",
-      "summary": "Georgia prosecutor Pete Skandalakis has dismissed the Aug 2023 2020 election-racketeering indictment against Donald Trump and 18 co-defendants, following Judge Scott McAfee’s one-page dismissal order. The case, transferred after DA Fani Willis was disqualified over a conflict tied to special prosecutor Nathan Wade, was the last state-level prosecution of Trump. Trump and attorney Steve Sadow hailed the move as an end to “lawfare.” Four co-defendants had already pleaded guilty; 14 others benefited from Trump’s subsequent pardons of 77 fake electors. Special counsel Jack Smith’s federal charges had also been dropped under DOJ policy.",
-      "summaryTokens": 1265,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Georgia prosecutor Pete Skandalakis has dismissed the 2020 racketeering indictment against Donald Trump and 18 co-defendants, ending the state’s only remaining election-interference case. Fulton County Judge Scott McAfee’s one-page order followed the disqualification of DA Fani Willis over an alleged conflict. Indicted in August 2023 under Georgia’s RICO law for plotting to overturn Joe Biden’s narrow Georgia win, Trump had pleaded not guilty; four others pleaded guilty before the case collapsed. Trump and allies decried “political persecution.” This closure comes after Special Counsel Jack Smith dropped federal election-related charges and Trump enjoyed presidential immunity.",
+      "summaryTokens": 563,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/trump-temporary-protected-status-haiti",
@@ -101,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T19:21:20Z",
       "trailText": "Homeland security secretary Kristi Noem says allowing Haitians to remain is ‘contrary to US national interest’",
-      "summary": "The Trump administration’s DHS announced on Nov. 26 that it will terminate temporary protected status for about 340,000 Haitian migrants on Feb. 3, 2025, arguing Haiti no longer faces “extraordinary and temporary conditions” despite worsening gang violence, political turmoil and displacement of over 1.4 million people. Secretary Kristi Noem said extending TPS is “contrary to US national interest” and cited Haiti’s lack of central law enforcement authority. This move follows earlier court interventions, a federal judge’s July stay and US District Judge Brian Cogan’s ruling that DHS bypassed review protocols. It comes amid Trump’s broader immigration crackdown and misinformation-fueled controversies over Haitian migrants.",
-      "summaryTokens": 1016,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "DHS secretary Kristi Noem announced the termination of Temporary Protected Status for roughly 340,000 Haitian migrants effective February 3, arguing Haiti no longer faces the “extraordinary and temporary” conditions that justify TPS. The move, amid worsening gang violence, political turmoil and UN estimates of over 1.4 million displaced and 6 million needing aid, deems continued stay “contrary to US national interest” due to Haiti’s weak governance. It follows legal challenges halting earlier end dates and reversals of Biden-era extensions, underscoring Trump’s broader immigration crackdown.",
+      "summaryTokens": 479,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/25/los-angeles-congressional-hearing-ice-raids",
@@ -113,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T18:39:25Z",
       "trailText": "Southern California residents shared disastrous effects of Trump’s immigration crackdown at a congressional hearing",
-      "summary": "At a Nov. congressional oversight hearing in Los Angeles, residents and leaders detailed the trauma inflicted by Trump’s ICE raids, which have arrested over 150,000 immigrants and deported nearly 140,000, often targeting workplaces, schools and churches. US citizen Andrea Velez recounted her wrongful detention on assault charges and inhumane conditions. Democrats, led by Reps. Robert Garcia and Jasmine Crockett and LA Mayor Karen Bass, condemned civil rights violations, racial profiling and unveiled a misconduct dashboard. DHS official Tricia McLaughlin defended agents, citing a surge in assaults on officers.",
-      "summaryTokens": 867,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "At a Los Angeles congressional oversight hearing, residents and leaders detailed trauma from Trump-era ICE raids across southern California, which ensnared undocumented immigrants and U.S. citizens like Andrea Velez—charged with assault, detained without due process and forced to pay for water. Democrats, led by Reps. Robert Garcia and Jasmine Crockett, cited civil rights violations, racial profiling and “American nightmare” conditions. LA Mayor Karen Bass denounced the raids as federal overreach. Garcia unveiled a dashboard tracking alleged misconduct. DHS assistant secretary Tricia McLaughlin accused Democrats of smears, claiming a 1150% surge in attacks on officers amid immigration enforcement. The hearing underscored lasting community fear and calls for accountability.",
+      "summaryTokens": 765,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/trump-insults-new-york-times-reporter-katie-rogers",
@@ -125,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T18:19:23Z",
       "trailText": "In a Truth Social post, the president lashed out at journalist Katie Rogers after an article questioned whether he was slowing down",
-      "summary": "President Trump attacked NYT reporter Katie Rogers on Truth Social, calling her “a third-rate reporter who is ugly inside and out” after her article suggested he was showing signs of fatigue and aging in office. The Times defended its journalists, noting accurate, firsthand reporting. The post follows a pattern of Trump’s personal insults toward female media figures, including recent “piggy” and “terrible reporter” jibes. Rumors about his health circulated after he admitted to an undisclosed MRI and was seen dozing at a White House event.",
-      "summaryTokens": 861,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "In a Truth Social post, former President Donald Trump attacked New York Times reporter Katie Rogers as “ugly inside and out” after a Times story suggesting he was showing signs of fatigue and age in his 80th year, amid questions over his health following an undisclosed MRI. Times spokesperson Charlie Stadtlander defended the paper’s fact-based reporting and condemned the personal insults. The episode follows Trump’s history of disparaging female journalists—calling Bloomberg’s Catherine Lucey “piggy,” ABC’s Mary Bruce “terrible,” and dismissing Megyn Kelly on gendered grounds—raising fresh concerns over press freedom and gender bias.",
+      "summaryTokens": 557,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/pete-hegseth-scouting-america-gender",
@@ -137,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T17:58:01Z",
       "trailText": "Scouting America decries accusations by defense secretary that the organization is attacking ‘boy-friendly spaces’",
-      "summary": "Defense Secretary Pete Hegseth has reportedly drafted a memo to Congress seeking to cut century-long US military support for Scouting America—formerly Boy Scouts of America—accusing it of being “genderless”, eroding masculine values since admitting girls in 2018, and fostering “gender confusion”. He proposes withdrawing medical and logistical aid for the National Jamboree, barring troop access to military installations and ending Eagle Scout enlistment benefits. The Pentagon declined to authenticate the draft, while Scouting America called the allegations “surprising and disappointing” and reaffirmed its nonpartisan, values-driven mission.",
-      "summaryTokens": 1654,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Defense Secretary Pete Hegseth reportedly plans to cut century-old military support to Scouting America—formerly the Boy Scouts—for admitting girls and lacking “masculine values,” accusing it of attacking “boy-friendly spaces.” In a draft memo to Congress, he proposes withholding medical and logistical aid for the National Jamboree and banning troop meetings on military bases, claiming the partnership diverts resources from national security. Scouting America, surprised and disappointed, insists its nonpartisan tradition and crucial role in officer recruitment—where Eagle Scouts receive academy and enlistment benefits—will continue despite the threat.",
+      "summaryTokens": 614,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/republicans-steve-witkoff-leaked-call-russia-ukraine",
@@ -149,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T16:39:00Z",
       "trailText": "Republicans and Democrats warn Witkoff ‘cannot be trusted’ after reportedly advising officials on peace plan",
-      "summary": "In a leaked 14 October call with Kremlin aide Yuri Ushakov, Trump special envoy to Ukraine Steve Witkoff advised Moscow on securing Donetsk, land swaps, and tactics for reaching Trump, sparking bipartisan outrage. Nebraska GOP Rep. Don Bacon demanded his firing as untrustworthy; Rep. Brian Fitzpatrick and Dem. Ted Lieu labeled him a traitor. Trump defended Witkoff as a dealmaker, while ex-envoy Richard Grenell urged firing the leaker. The disclosed 28-point peace proposal would grant Russia control over Donetsk, Luhansk, Crimea and freeze frontlines in Kherson and Zaporizhzhia.",
-      "summaryTokens": 1012,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "A leaked October call reveals Trump special envoy Steve Witkoff advising Putin aide Yuri Ushakov to demand Donetsk—and possibly other Ukrainian land—in any peace deal and to frame negotiations optimistically. Nebraska Republican Don Bacon and Democrat Ted Lieu called for Witkoff’s firing, branding him a traitor; Pennsylvania’s Brian Fitzpatrick decried secret side talks. Trump defended Witkoff as a dealmaker, while envoy Richard Grenell demanded the anonymous leaker’s dismissal. The 28-point proposal cedes Donetsk, Luhansk, Crimea, and freezes lines in Kherson and Zaporizhzhia as a buffer zone.",
+      "summaryTokens": 500,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/kristi-noem-deportation-flights-el-salvador",
@@ -161,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T16:15:31Z",
       "trailText": "Justice department maintains that Trump administration didn’t violate judge’s order to return flights to US",
-      "summary": "In a court filing, DOJ says DHS Secretary Kristi Noem chose to continue March deportation flights of roughly 250 Venezuelan immigrants—removed under the Trump administration’s use of the 18th-century Alien Enemies Act—to El Salvador’s Cecot prison, despite US District Judge James Boasberg’s oral directive and subsequent written order to return in-flight planes. DOJ argues Noem relied on privileged legal advice from Deputy AG Todd Blanche, Emil Bove and DHS counsel Joseph Mazzara, noting the written order didn’t apply to detainees already removed. The Venezuelans were sent home in July.",
-      "summaryTokens": 685,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "In a Tuesday court filing, the Department of Justice asserted DHS Secretary Kristi Noem lawfully ordered continuation of March deportation flights of roughly 250 alleged Venezuelan gang members to El Salvador’s Cecot prison after consulting legal advice with DOJ principals, despite US District Judge James Boasberg’s oral directive and subsequent restraining order to return planes. The DOJ maintains the written order did not mandate return of detainees removed before issuance and that the oral instruction wasn’t binding. The filing accompanies Boasberg’s resumed inquiry into Trump-era use of the 18th-century Alien Enemies Act. The nationals were repatriated to Venezuela in July.",
+      "summaryTokens": 1276,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/john-kerry-australia-carbon-emitters-cop31-climate-summit",
@@ -173,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T16:00:30Z",
       "trailText": "Exclusive : Former US secretary of state calls for more demanding steps from Australia as it takes over presidency of next year’s UN climate summit",
-      "summary": "John Kerry urged Australia, which will hold the COP31 presidency under climate minister Chris Bowen, to convene the world’s 25 largest greenhouse gas emitters—China, Russia, the US, India and the EU—to draw up a clear roadmap to phase out fossil fuels. He said only a “hard-nosed” strategy confronting major producers like Saudi Arabia and Russia and demanding reduced consumption in key markets can curb emissions. Kerry advised early “spadework” to propose options, isolate and publicly call out objectors, citing his COP28 deal with Saudi Arabia, and warned that worsening climate impacts and personal costs of inaction will compel political change.",
-      "summaryTokens": 2175,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Ahead of hosting COP31, Australia’s climate minister Chris Bowen is urged by former US secretary of state John Kerry to convene the top 25 greenhouse emitters and demand a detailed fossil-fuel phaseout roadmap. Kerry advocates “hard-nosed” pressure on major producers—China, US, Russia, India, EU—and isolating holdouts like Saudi Arabia and a Trump-era US. Drawing on his COP28 deal with Saudi oil minister Abdulaziz, he stresses Australia must prepare early, propose concrete options and muster public backing by framing clean energy as a voting issue.",
+      "summaryTokens": 810,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/george-soros-open-society-foundations-president-interview",
@@ -185,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T15:00:29Z",
       "trailText": "Binaifer Nowrojee, Open Society Foundations president, said the organization would ‘go to court if need be’",
-      "summary": "At COP30 in Brazil, OSF president Binaifer Nowrojee warned that Open Society Foundations would sue the Trump administration if DOJ or IRS probes into its funding of progressive groups escalate. She defended grantees’ free-speech rights, stressing legal checks against violence but denouncing threats to environmental defenders in Latin America. Nowrojee highlighted OSF’s non-interference in grantees’ tactics so long as they comply with grant terms, and praised unprecedented Amazon-hosted climate protests by Indigenous and Afro-descendant communities. She criticized the US withdrawal from Paris accords and refusal to attend talks as short-sighted given global interdependence.",
-      "summaryTokens": 1205,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "At COP30 in Brazil, OSF president Binaifer Nowrojee vows legal action to defend the foundation’s constitutional rights amid Trump administration threats and DOJ/IRS probes. She underscores OSF’s commitment to free speech, peaceful protest and autonomy of its grantees—highlighting that frontline environmental and civil society activists face far graver risks. OSF faces rightwing scrutiny including a Capital Research Center report on climate grantees and GOP demands for documents over alleged antifa ties. Nowrojee praised Amazon-based climate talks for amplifying Indigenous and Afro-descendant voices and criticized the US absence from global climate policy.",
+      "summaryTokens": 937,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/who-leaked-steve-witkoff-call-kremlin-trump-analysis",
@@ -197,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T14:49:56Z",
       "trailText": "Bloomberg publishes extraordinary transcripts of secret discussions, but their provenance remains unclear",
-      "summary": "Bloomberg’s anonymous scoop reveals transcripts of two secret calls—between Trump adviser Steve Witkoff and Kremlin aide Yuri Ushakov, and Ushakov with Kirill Dmitriev—showing how Russia aimed to gain Trump’s favor. Bloomberg cites “reviewed and transcribed audio” without disclosing sources. Ushakov partly confirmed the recordings, decrying the leak as unacceptable. Analysts suggest diverse possible leakers: Russian or Ukrainian services, US intelligence (CIA/NSA), or a concerned European agency, though motives vary from undermining Witkoff to exposing Kremlin ties. The leak’s rarity—Bloomberg obtained raw audio—implies a high-level insider, but risks burning an intelligence asset and remains unexplained.",
-      "summaryTokens": 961,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Bloomberg published transcripts of two secret calls—between Trump aide Steve Witkoff and Kremlin aide Yuri Ushakov, and Ushakov and Kirill Dmitriev—revealing how Witkoff coached Russia on winning Trump’s favor. The audio source is undisclosed; Bloomberg omitted bylines to protect it. Ushakov partly confirmed the recordings, noting some were on encrypted channels, others on WhatsApp. Intelligence experts suggest potential leakers include Russian factions, Ukraine, U.S. agencies (CIA or NSA) or European services alarmed by Witkoff’s stance. The raw audio’s release is surprising: it risks alerting interceptors and shutting down an intelligence pipeline. Motives range from discrediting Witkoff to internal Kremlin power plays, but the leak’s origin remains a mystery.",
+      "summaryTokens": 656,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/karoline-leavitt-nephew-mother-detained-ice",
@@ -209,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T14:18:19Z",
       "trailText": "Bruna Ferreira, who has a child with the White House press secretary’s brother, is now in custody at an ICE facility",
-      "summary": "Bruna Ferreira, mother of White House press secretary Karoline Leavitt’s nephew and partner of Leavitt’s brother Michael, was detained by ICE in Revere, Massachusetts, while picking up her 11-year-old son in New Hampshire. A Brazilian national who migrated as a child and held DACA protection, she faces removal proceedings at a Louisiana facility; DHS cites her lapsed B2 visa and a prior battery arrest. Leavitt, estranged from Ferreira, says her sole concern is her son’s welfare. Ferreira’s family has launched a GoFundMe for her legal defense.",
-      "summaryTokens": 424,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Bruna Ferreira, mother of White House press secretary Karoline Leavitt’s nephew and former partner of Leavitt’s brother Michael, was detained by ICE in Revere, MA on Nov 12. A Brazil native who arrived at age 6 under DACA protection, she’s now in removal proceedings at a Louisiana ICE facility. Agents arrested her without ID while she drove to pick up her 11-year-old son in New Hampshire. DHS labels her a “criminal illegal alien” with a past battery arrest and expired B2 visa; her family has raised funds for her defense as she seeks US citizenship.",
+      "summaryTokens": 878,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/first-thing-trump-envoy-witkoff-reportedly-advised-kremlin-official-on-ukraine-peace-deal",
@@ -221,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T14:06:26Z",
       "trailText": "Witkoff also offered tactical guidance on how Putin should raise subject with Trump, audio recording suggests. Plus, the female pilots on Ukraine’s frontline",
-      "summary": "In October, Trump’s special envoy Steve Witkoff told Kremlin aide Yuri Ushakov that any Ukraine peace deal would require Russia to secure Donetsk and possibly a land swap, according to an audio transcript obtained by Bloomberg. He also advised Ushakov to frame discussions optimistically, urging congratulatory messaging toward Trump. The recording has alarmed Americans involved in Ukraine’s defense efforts, who view Trump’s proposed concessions as a betrayal of Kyiv and a repeat of failed US foreign policy. This developing story highlights internal tensions over Trump’s peace plan.",
-      "summaryTokens": 872,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Donald Trump’s special envoy Steve Witkoff told Kremlin aide Yuri Ushakov in an Oct 14 call that a Ukraine peace deal requires Russia to control Donetsk and consider land swaps, and advised him to frame discussions optimistically to win Trump’s favor. Recordings show tactical guidance on how Putin should broach the topic with Trump. Meanwhile, Americans in Ukraine’s war effort decry Trump’s plan as backstabbing and a foreign policy failure. The newsletter also details a DOJ memo reframing Caribbean boat strikes as collective self-defense, a hike in non-resident US park fees under an “America-first” policy, and other global briefs.",
+      "summaryTokens": 1031,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/policing-marsys-law",
@@ -233,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T14:00:28Z",
       "trailText": "In dozen of cases officers have used Marsy’s Law, which gives victims of crime anonymity, to shield their names",
-      "summary": "In dozens of cases across 12 states, police have invoked Marsy’s Law—designed to shield crime victims—to conceal officers’ identities after fatal shootings. In Ohio, officer Connor Grubb, acquitted of killing Ta’Kiya Young and her unborn child, claimed victim status to mask his name until the state supreme court rejected his bid. Similar maneuvers surfaced in Florida’s Jayden Baez case, North and South Dakota shootings, and Jayland Walker’s killing, frustrating civilian oversight. Critics—from victim families to legal experts—argue Marsy’s Law undermines transparency, due process and accountability, while police unions insist temporary anonymity protects officers until they testify at trial.",
-      "summaryTokens": 880,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Police departments in at least 12 states have used Marsy’s Law—meant to keep crime victims anonymous—to block public naming of officers involved in fatal shootings and violent encounters. In Ohio, officer Connor Grubb invoked it after fatally shooting Ta’Kiya Young and her unborn daughter, a tactic later overturned by the state supreme court. Similar anonymity claims arose in Florida (Jayden Baez killing) and the Dakotas. Critics say this practice erodes accountability, violates due process and hinders civilian oversight.",
+      "summaryTokens": 910,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/rightwing-influencers-michigan-anti-muslim-clickbait",
@@ -245,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T13:00:26Z",
       "trailText": "In Dearborn, provocateurs have held anti-Islam rallies, attempted to burn the Qur’an and rile residents for clickbait",
-      "summary": "Rightwing influencers including Cam Higby, Jake Lang and Turning Point USA operatives staged an anti-Islam rally in Dearborn, Michigan—home to 55% Arab Americans—shouting racist slogans, attempting to burn a Qur’an with bacon and livestreaming confrontations with city council members to monetize hate through clicks and campaign donations. Local mayor Abdullah Hammoud and CAIR-Michigan’s Dawud Walid denounced the stunt as a publicity-driven provocation amid ongoing Christian evangelical targeting of Muslim children and previous pig-head marches. Provocateurs aim to bait residents into scuffles, claim victimhood and exploit anti-Muslim sentiment for financial gain, while local leaders urge residents and Republicans to ignore their hate.",
-      "summaryTokens": 1216,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Far-right influencers including Cam Higby, Jake Lang and Turning Point USA allies staged an anti-Islam rally in Dearborn, Michigan—home to 55% Arab-American residents—attempting to burn the Qur’an, smacking it with bacon and heckling city council members. Local leaders dismiss it as a clickbait stunt to monetize anti-Muslim hate via social media views and campaign donations. Mayor Abdullah Hammoud and CAIR-Michigan urged residents to ignore provocateurs exploiting Islamophobia for profit, warning Republican silence equals complicity.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/us-politics-redistricting-trump-maps",
@@ -257,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T12:00:25Z",
       "trailText": "White House pressure campaign has not found willing participants in all states – including Republican-led ones",
-      "summary": "Trump's mid-decade redistricting push, backed by White House pressure and MAGA threats, stalls due to resistance in GOP-led legislatures and courts, while Democrats mount counter-efforts. Texas approved five additional Republican seats, only to be blocked by a federal court now under Supreme Court review; California and other Democratic states have advanced offsetting maps; Missouri voters seek a referendum. Some GOP lawmakers in Kansas, Indiana, Nebraska and New Hampshire resist on philosophical or pragmatic grounds, fearing ‘dummymanders’, lawsuits and voter confusion. Bipartisan pushback, experts say, safeguards electoral integrity, but the outcome hinges on SCOTUS and a state-by-state domino effect ahead of 2026 midterms.",
-      "summaryTokens": 1400,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Trump’s unprecedented mid-decade redistricting push is stalling across GOP and Dem states amid legal and political backlash. After Texas drew five new GOP seats that a federal court blocked, California approved five Dem-friendly districts in response. Red state lawmakers in Kansas, Missouri, Indiana, Nebraska and New Hampshire, citing process integrity, lawsuit risk and “dummymander” losses, defy White House pressure and MAGA threats. Democrats in Maryland, Illinois and elsewhere watch and resist. The Supreme Court’s pending review and high state thresholds leave the fate of Trump’s gambit uncertain.",
+      "summaryTokens": 862,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/texas-man-world-record-oldest-bus-driver",
@@ -269,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T11:00:50Z",
       "trailText": "Raymond Hager says he enjoys driving too much and struggles to sit at home to think about retiring",
-      "summary": "Raymond Hager, 95, of Wichita Falls, was certified by Guinness in June as the oldest bus driver. Honored at an Nov. 18 city council ceremony naming his birthday “Raymond Hager Day,” he credits his longevity to a lifelong passion for driving—dating back to hauling cotton at 14—and an inability to sit idle. After careers in farming and crop-dusting, he joined municipal transit in 1998, logging thousands of safe passenger miles while undergoing monthly health checks. Wichita Falls Mayor Tim Short called him proof that age brings experience and purpose; Hager vows to continue while his boss and doctor allow.",
-      "summaryTokens": 2545,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "At 95, Wichita Falls bus driver Raymond Hager set a Guinness-certified world record as the oldest active bus driver. A former farmer and crop-duster pilot who joined municipal routes in 1998, Hager credits his lifelong love of driving and passenger interaction for shunning retirement. He maintains monthly health clearances, has safely transported thousands of riders, and received a “Raymond Hager Day” proclamation on his birthday. City officials praise him as proof that many Americans extend careers amid rising living costs, while he insists he has “no desire to quit.”",
+      "summaryTokens": 862,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/26/trump-revoke-tv-licenses-threats-media-attacks",
@@ -281,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T11:00:50Z",
       "trailText": "Trump has suggested on at least 28 occasions over past eight years that a TV network’s license be revoked – even though it doesn’t work that way",
-      "summary": "Over the past eight years, Donald Trump has publicly demanded at least 28 times that ABC, NBC, CBS and CNN lose their broadcast licenses for reporting he deems “fake news,” most recently in August and September 2025. He first floated the idea in October 2017 and has repeated it via tweets, rallies and Truth Social posts, targeting outlets from 60 Minutes to ABC News. Legal experts and FCC Democrat Anna M. Gómez say the FCC cannot revoke national network licenses and no local station renewals are pending, rendering Trump’s threats hollow.",
-      "summaryTokens": 475,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "President Trump, responding to ABC correspondent Mary Bruce’s aggressive questions about Jamal Khashoggi’s murder and the Epstein scandal, threatened to have ABC’s broadcast license revoked. It marks at least the 28th time in eight years he’s demanded TV networks lose licenses over “fake news.” He misunderstands FCC authority, which regulates local station licenses, not national networks. FCC Democrat Anna M. Gomez called his threats “hollow,” noting no affiliates face imminent renewal reviews.",
+      "summaryTokens": 586,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
@@ -293,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T06:38:46Z",
       "trailText": "US envoy also offered tactical guidance on how Putin should raise the subject with Trump, audio recording suggests",
-      "summary": "A Bloomberg transcript of an October call reveals Trump’s special envoy Steve Witkoff advising Kremlin aide Yuri Ushakov that any Ukraine peace deal requires Russia to control Donetsk and negotiate a land swap. Witkoff urged optimistic framing, proposed scheduling a Trump–Putin call before Zelensky’s White House visit, and pitched a 20-point peace blueprint that evolved into the contentious 28-point plan ceding Donetsk, Luhansk and Crimea. The White House didn’t dispute the recording; Trump called it standard dealmaking, while Kyiv rejects territorial concessions. Ushakov confirmed Witkoff will visit Moscow ahead of possible summits.",
-      "summaryTokens": 496,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "US envoy Steve Witkoff privately told Kremlin aide Yuri Ushakov that any Ukraine peace deal requires Russia’s control of Donetsk and a possible land swap, while advising optimistic framing and tactics for Putin to pitch the plan to Trump, including scheduling a call before President Zelenskyy’s White House visit. The leaked Oct. 14 call sheds light on the origins of Trump’s controversial 28-point proposal, mirroring Gaza ceasefire drafting and underscoring US and Russian pressure on Ukraine to accept territorial concessions as war’s basis.",
+      "summaryTokens": 919,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/25/minnesota-fight-trump-somalis-tps-order",
@@ -305,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T02:32:43Z",
       "trailText": "Though president’s order is legally questionable, advocates worry community could be targeted for immigration raids",
-      "summary": "Following President Trump’s claim on Truth Social that he would “terminate immediately” TPS for Somalis in Minnesota due to alleged fraud, local officials, advocates and AG Keith Ellison vow legal challenges, calling his state-specific move legally questionable and racist. Community leaders, including organizer Khalid Omar and Rep. Ilhan Omar, stress most Somalis in Minnesota are citizens and decry collective punishment. TPS covers about 700 Somalis nationwide since 1991; its removal could strip recipients’ work authorization. Homeland Security Sec. Noem is reviewing Somali TPS ahead of its March expiration. Solidarity potlucks and statements from Gov. Tim Walz signal broad resistance.",
-      "summaryTokens": 881,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "In late November 2025, Trump announced on Truth Social he would immediately terminate temporary protected status for Somalis in Minnesota, alleging widespread fraud and money laundering. Community advocates, elected officials including AG Keith Ellison, Gov. Tim Walz and Rep. Ilhan Omar, call the move racist, legally questionable and vow to sue. They warn it risks work permit loss, deportations and targeted raids, arguing TPS decisions must reflect conditions in Somalia and apply nationwide. DHS is reviewing Somali TPS due to expire in March; local groups held solidarity potlucks and mobilizations. Residents say it distracts from affordability and other crises, while organizers emphasize community resilience.",
+      "summaryTokens": 1008,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/25/national-park-fee-non-residents",
@@ -317,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T01:31:37Z",
       "trailText": "Interior department, which has defunded conservation organizations, claims fee hike is for conservation",
-      "summary": "In November 2025, the Interior Department unveiled an “America-first” fee scheme tripling non-resident park charges at 11 top sites—$100 per visit or a $250 annual pass—while U.S. residents retain the $80 interagency America the Beautiful pass. The plan adds five new resident-only fee-free days in 2026 (July 3–5 for the 250th Independence anniversary, September 17, October 27, June 14 on Trump’s birthday) and issues commemorative passes featuring George Washington alongside Donald Trump and a military design of Trump saluting troops. Secretary Doug Burgum claims higher international fees will fund conservation, despite recent staffing cuts, conservation defunding, expanded logging, and offshore drilling proposals.",
-      "summaryTokens": 707,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Starting in 2026, the Interior Department will more than triple entrance fees for international visitors at 11 most-visited national parks, offering either a $250 annual pass or $100 per person plus standard fees. U.S. residents will pay the unchanged $80 America the Beautiful annual pass and gain 10 resident-only fee-free days, including July 3–5 (250th Independence anniversary), Sept. 17, Oct. 27 and Flag Day. Commemorative annual and military passes featuring George Washington and Donald Trump were unveiled. Secretary Doug Burgum touted the hikes as conservation funding, despite recent staff cuts, conservation defunding, logging expansions and offshore drilling proposals under his leadership.",
+      "summaryTokens": 756,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/25/trump-administration-news-updates-today-latest",
@@ -329,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-26T00:44:48Z",
       "trailText": "Trump’s defense secretary orders US Navy secretary to investigate ‘potentially unlawful comments’ made by Kelly – key US politics stories from 25 November 2025",
-      "summary": "On 25 November, Defense Secretary Pete Hegseth directed the Navy to investigate Arizona Senator Mark Kelly’s social-media call urging troops to refuse unlawful orders—a move tied to an ongoing Pentagon probe Kelly calls Trump’s attempt to weaponize the FBI against lawmakers. In other developments, experts warn Trump’s pardons of Giuliani and allies may cover all 2020 voter-fraud actors; special envoy Steve Witkoff will meet Putin in Moscow on Ukraine peace proposals; the State Department’s anti-fascist terror listings are criticized as largely symbolic; a Pew poll finds 70% of Latino voters now disapprove of Trump; ICE raids in California draw congressional scrutiny; a former anti-vaccine official is named CDC deputy director; and investigators pinpoint the Olympic pipeline leak source in Washington.",
-      "summaryTokens": 715,
-      "generatedAt": "2025-11-27T03:38:00.861Z"
+      "summary": "Pete Hegseth, the US defense secretary, has directed Navy Sec. John Phelan to probe Sen. Mark Kelly’s comments urging service members to refuse unlawful orders, citing potential violations and demanding a brief by Dec. 10. This follows the Pentagon’s investigation into Kelly and Trump’s “seditious” allegations as Kelly accuses the president of weaponizing the FBI. Other developments: experts say Trump’s pardons may cover 2020 voter fraud; envoy Steve Witkoff to Moscow on Ukraine; anti-fascist terror labels criticized; 70% of Latinos now disapprove of Trump; ICE raids, a $5m tax settlement, BBC-Trump row, and new CDC deputy also made news.",
+      "summaryTokens": 1666,
+      "generatedAt": "2025-11-28T03:48:15.005Z"
     },
     {
       "id": "us-news/2025/nov/25/trump-caribbean-boat-strikes-memo",
@@ -857,7 +1025,7 @@
       "section": "us-news",
       "publishedDate": "2025-11-23T15:00:11Z",
       "trailText": "Guilty plea by far-right activist lays bare plans for bombings, school shootings and Santas handing out poisoned candies",
-      "summary": "Michail Chkhikvishvili, a 23-year-old Georgian neo-Nazi known as “Commander Butcher,” pleaded guilty in Brooklyn federal court to leading the Maniac Murder Cult and soliciting bombings, school shootings and racially motivated poison-Santa attacks in New York. He distributed manuals (“Haters Handbook”) on bombs, poisons and arson, inspired a livestreamed school shooting, and coordinated with other extremist cells. Prosecutors say his accelerationist Satanist-Nazism ideology targeted minorities, Jewish schools and public spaces. Facing up to 18 years, Chkhikvishvili’s plea underscores growing domestic terror threats and online radicalization’s reach. Experts warn of youth-focused militant networks.",
+      "summary": "Michail Chkhikvishvili, a 23-year-old Georgian neo-Nazi known as ��Commander Butcher,” pleaded guilty in Brooklyn federal court to leading the Maniac Murder Cult and soliciting bombings, school shootings and racially motivated poison-Santa attacks in New York. He distributed manuals (“Haters Handbook”) on bombs, poisons and arson, inspired a livestreamed school shooting, and coordinated with other extremist cells. Prosecutors say his accelerationist Satanist-Nazism ideology targeted minorities, Jewish schools and public spaces. Facing up to 18 years, Chkhikvishvili’s plea underscores growing domestic terror threats and online radicalization’s reach. Experts warn of youth-focused militant networks.",
       "summaryTokens": 1041,
       "generatedAt": "2025-11-25T04:18:49.291Z"
     },
@@ -11777,7 +11945,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-09T15:09:52Z",
       "trailText": "Robert Roberson, who has maintained innocence in death of two-year-old daughter, gets third execution date stayed",
-      "summary": "Texas’s highest criminal court on Oct. 9 stayed Robert Roberson’s execution—his third stay since 2016—just days before his scheduled Oct. 16 lethal injection for the 2003 shaken baby syndrome conviction in his two-year-old daughter Nikki’s death. The court sent his case back to Anderson County for a hearing under Texas’s 2013 junk science law, allowing review of new medical analyses—including a joint statement from 10 pathologists—and allegations of judicial misconduct. Bipartisan lawmakers, John Grisham and ultraconservative activists back Roberson’s innocence; AG Ken Paxton and some experts maintain he abused his daughter.",
+      "summary": "Texas’s highest criminal court on Oct. 9 stayed Robert Roberson’s execution—his third stay since 2016—just days before his scheduled Oct. 16 lethal injection for the 2003 shaken baby syndrome conviction in his two-year-old daughter Nikki’s death. The court sent his case back to Anderson County for a hearing under Texas’s 2013 junk science law, allowing review of new medical analyses—including a joint statement from 10 pathologists—and allegations of judicial misconduct. Bipartisan lawmakers, John Grisham and ultraconservative activists back Roberson���s innocence; AG Ken Paxton and some experts maintain he abused his daughter.",
       "summaryTokens": 1079,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
