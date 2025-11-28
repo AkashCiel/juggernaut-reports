@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-27T03:25:36.161Z",
+    "generated_at": "2025-11-28T03:32:15.283Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-26"
+      "to": "2025-11-27"
     },
-    "article_count": 123,
+    "article_count": 124,
     "merge_info": {
-      "previous_count": 122,
+      "previous_count": 123,
       "new_articles": 1,
-      "updated_articles": 2,
-      "total_count": 123
+      "updated_articles": 1,
+      "total_count": 124
     },
     "batch_info": {
-      "initial_batch_id": "batch_6927c44dc6888190b2eb7b408b9cea2a",
+      "initial_batch_id": "batch_692916e703bc819099484d10b6b422f3",
       "retry_batches": [],
-      "total_tokens": 7805,
-      "processing_time_hours": 0
+      "total_tokens": 3850,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/27/freeze-uk-student-loan-repayment-threshold-nus-warning",
+      "title": "Freeze on student loan repayment threshold could leave graduates struggling, NUS warns",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/27/freeze-uk-student-loan-repayment-threshold-nus-warning",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/27/freeze-uk-student-loan-repayment-threshold-nus-warning",
+      "section": "money",
+      "publishedDate": "2025-11-27T15:00:11Z",
+      "trailText": "Graduates in relatively low-paid jobs earning close to minimum wage will have to repay ‘more, much sooner’",
+      "summary": "In Rachel Reeves’s 2025 budget the government froze the Plan 2 student loan repayment threshold at £29,385 for three years from April 2027, prompting the NUS to warn graduates in low-paid roles will repay 9% of incomes near minimum wage sooner, straining budgets for rent, food and bills. With the national living wage due to hit ~£28,995 by 2030, many full-time workers face early repayments. The Office for Budget Responsibility forecasts this freeze raises ~£400 m annually, while interest rate bands (3.2–6.2%) are also held constant. Government cites fairness to non-grads.",
+      "summaryTokens": 828,
+      "generatedAt": "2025-11-28T03:32:15.116Z"
+    },
     {
       "id": "money/2025/nov/26/money-worries-relationship-marriage-partnership-household-finances-consumer-advice",
       "title": "Coupling up: how to avoid money worries in your relationship",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-26T07:00:44Z",
       "trailText": "From joint bank accounts and pooled savings to mortgages and tax allowances, talk about money for a happy financial future together",
-      "summary": "The guide urges couples to start honest money talks early using written plans, agree joint, separate or hybrid accounts, split bills 50:50 or by income. Split subscriptions and tap couple discounts on gyms or streaming. Weigh credit risks of joint bank or credit accounts, pool savings (e.g., Revolut’s 4.5% joint pots with FSCS cover), and review contributions after pay changes. Joint mortgages boost borrowing limits. Add partners to insurance for lower premiums. Claim marriage allowance and spousal inheritance/pension perks. Retain separate accounts as a safety net and revisit arrangements periodically.",
-      "summaryTokens": 1704,
-      "generatedAt": "2025-11-27T03:25:35.790Z"
+      "summary": "Couples should start early, open money talks and draw up a written plan to agree budgets, debt and savings, then review it after life changes. Decide whether to pool income in a joint current account or keep solo accounts alongside a joint one for shared bills, splitting contributions equally or by income. Explore joint savings for shared goals (up to £170k FSCS protection, rising to £240k), boost mortgage borrowing jointly, add partners to cheaper car and life cover, claim the marriage allowance and maximise inheritance tax relief.",
+      "summaryTokens": 345,
+      "generatedAt": "2025-11-28T03:32:15.116Z"
     },
     {
       "id": "money/2025/nov/25/reeves-plan-cut-cash-isa-limit-could-raise-mortgage-rates-finance-bosses",
