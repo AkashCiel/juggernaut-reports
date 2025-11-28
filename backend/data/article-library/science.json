@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-27T03:31:52.502Z",
+    "generated_at": "2025-11-28T03:39:11.623Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-26"
+      "to": "2025-11-27"
     },
-    "article_count": 118,
+    "article_count": 120,
     "merge_info": {
-      "previous_count": 116,
+      "previous_count": 118,
       "new_articles": 2,
-      "updated_articles": 5,
-      "total_count": 118
+      "updated_articles": 3,
+      "total_count": 120
     },
     "batch_info": {
-      "initial_batch_id": "batch_6927c5c63fc8819094db6810018c68c9",
+      "initial_batch_id": "batch_692918c766c08190b84509858e40d2ec",
       "retry_batches": [],
-      "total_tokens": 11719,
+      "total_tokens": 12246,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/27/novel-scientific-method-proves-pit-circle-near-stonehenge-was-man-made-say-researchers",
+      "title": "Archaeologists say they have proof humans carved huge pits near Stonehenge",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/27/novel-scientific-method-proves-pit-circle-near-stonehenge-was-man-made-say-researchers",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/27/novel-scientific-method-proves-pit-circle-near-stonehenge-was-man-made-say-researchers",
+      "section": "science",
+      "publishedDate": "2025-11-27T14:02:32Z",
+      "trailText": "Research team uses range of novel methods and equipment to analyse ‘extraordinary’ Durrington pit circle",
+      "summary": "Archaeologists led by Prof Vincent Gaffney have used a pioneering combination of electrical resistance tomography, ground-penetrating radar, magnetometry, optically stimulated luminescence and sediment DNA analysis on cores to prove the Durrington pit circle—comprising around 20 pits, up to 10 m wide and 5 m deep, spanning over a mile near Stonehenge—was carved by Neolithic people, not natural erosion. Published in Internet Archaeology as 'The Perils of Pits', their findings date the structure to the late Neolithic and suggest it formed part of a cosmological ritual mapping an underworld belief onto the landscape.",
+      "summaryTokens": 1215,
+      "generatedAt": "2025-11-28T03:39:11.495Z"
+    },
+    {
+      "id": "science/2025/nov/27/face-transplant-patients-results-outcomes",
+      "title": "Face transplants promised hope. Patients were put through the unthinkable",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/27/face-transplant-patients-results-outcomes",
+      "section": "science",
+      "publishedDate": "2025-11-27T11:00:25Z",
+      "trailText": "Twenty years after the first face transplant, patients are dying, data is missing, and the experimental procedure’s future hangs in the balance",
+      "summary": "Twenty years after Isabelle Dinoire’s pioneering 2005 face transplant in Amiens, vascularized composite allotransplantation has achieved around 50 procedures but suffers alarming outcomes: roughly 20% patient mortality, high immunosuppression toxicity, and scant data on psychological wellbeing, functionality or financial hardship. Landmark studies tout 85% graft survival at five years, yet recipients like Dinoire, Dallas Wiens and Robert Chelsea endure chronic rejection, organ damage, social stigma, lifelong dependencies and emptied finances. Competition for grants drives positive publicity; adverse events are underreported. Experts warn that without robust ethics oversight, transparent long-term data and systemic aftercare funding, face transplantation risks fading into medical history rather than maturing responsibly.",
+      "summaryTokens": 1145,
+      "generatedAt": "2025-11-28T03:39:11.495Z"
+    },
     {
       "id": "science/2025/nov/25/study-claims-to-provide-first-direct-evidence-of-dark-matter",
       "title": "Study claims to provide first direct evidence of dark matter",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-26T10:31:29Z",
       "trailText": "Astrophysicist Prof Tomonori Totani says research could be crucial breakthrough in search for elusive substance",
-      "summary": "Astrophysicist Prof Tomonori Totani analyzed Fermi Gamma-ray Space Telescope data and identified a spherical gamma-ray excess at the Milky Way’s center matching predicted dark matter halos. If confirmed as annihilating weakly interacting massive particles roughly 500 times proton mass, this would be the first direct evidence of dark matter since its 1930s proposal. The findings, detailed in the Journal of Cosmology and Astroparticle Physics, require ruling out alternative astrophysical sources and replicating the spectrum in dwarf galaxies. Independent experts caution that extraordinary claims demand further validation.",
-      "summaryTokens": 930,
-      "generatedAt": "2025-11-27T03:31:52.126Z"
+      "summary": "Astrophysicist Prof Tomonori Totani (Univ of Tokyo) analysed Fermi Gamma-ray Space Telescope data, identifying gamma-ray patterns from the Milky Way centre matching predictions for dark matter WIMP annihilation. If confirmed, this would be the first direct evidence of dark matter—particles ~500× proton mass comprising ~27% of the cosmos. Results published in the Journal of Cosmology and Astroparticle Physics. Critics (Profs Justin Read, Kinwah Wu) urge caution, noting absent signals in dwarf galaxies and the need to exclude astrophysical backgrounds. Totani calls for matching spectra elsewhere to confirm.",
+      "summaryTokens": 877,
+      "generatedAt": "2025-11-28T03:39:11.495Z"
     },
     {
       "id": "science/2025/nov/26/changes-in-solar-energy-fuelled-high-speed-evolutionary-changes-study-suggests",
@@ -41,9 +65,9 @@
       "section": "science",
       "publishedDate": "2025-11-26T06:00:43Z",
       "trailText": "Cause of oxygen fluctuations that drove explosion of weird and wonderful inhabitants 500m years ago linked to changes in Earth’s orbit",
-      "summary": "Just over 500 Myr ago, the Cambrian explosion saw emergence of diverse multicellular animals like Opabinia and Wiwaxia. A new study in Geophysical Research Letters uses a coupled climate–biogeochemical model to show that 2–3 Myr orbital cycles altered solar insolation, triggering high-latitude weathering pulses that flushed nutrients into oceans. This nutrient influx boosted marine photosynthesis, driving oxygen level oscillations that align with Cambrian oxygen records. Only during the Cambrian, with its unique continental configurations and burgeoning ecosystems, did these solar-driven oxygen pulses fuel such rapid evolutionary diversification.",
-      "summaryTokens": 625,
-      "generatedAt": "2025-11-27T03:31:52.126Z"
+      "summary": "Using climate and biogeochemical modeling, researchers show in Geophysical Research Letters that 2–3-million-year shifts in Earth’s orbit modulated solar insolation, driving high-latitude rock weathering that released nutrient pulses into the oceans. These pulses spurred photosynthesis, raised atmospheric and oceanic O2, and fueled the rapid diversification of life during the Cambrian explosion 500 M years ago. While orbital cycles recurred later, only Cambrian environmental conditions yielded this unparalleled evolutionary burst.",
+      "summaryTokens": 1175,
+      "generatedAt": "2025-11-28T03:39:11.495Z"
     },
     {
       "id": "australia-news/2025/nov/26/vitamin-supplements-with-high-levels-of-b6-will-removed-from-general-sale-in-australia-heres-what-you-need-to-know",
@@ -53,9 +77,9 @@
       "section": "science",
       "publishedDate": "2025-11-26T04:22:01Z",
       "trailText": "As the Therapeutic Goods Administration takes action, what should you do until the rules come into force?",
-      "summary": "Australia’s Therapeutic Goods Administration has ruled that from June 2027 any over-the-counter vitamin B6 supplement exceeding 50 mg daily will be moved behind the pharmacy counter, while doses above 200 mg will remain prescription-only. The decision follows 250 reports of peripheral neuropathy—tingling, burning or numbness from nerve damage—linked to long-term high-dose use, and warns of cumulative exposure via energy drinks and protein powders. With the recommended intake at just 1.3–1.7 mg/day, consumers should check labels, avoid high-dose products without medical advice, and stop use if symptoms arise.",
-      "summaryTokens": 780,
-      "generatedAt": "2025-11-27T03:31:52.126Z"
+      "summary": "Australia’s Therapeutic Goods Administration will shift supplements exceeding 50 mg of vitamin B6 per daily dose behind the pharmacy counter from June 2027, after about 250 reports of peripheral neuropathy linked to high-dose use. The adult recommended intake is 1.3–1.7 mg, and deficiency is rare. Products with up to 50 mg remain on open sale, while those over 200 mg require a prescription. Cumulative exposure from energy drinks and powders can cause nerve damage. Consumers should check labels, avoid unsupervised high-dose supplements, and seek medical advice for tingling or numbness.",
+      "summaryTokens": 774,
+      "generatedAt": "2025-11-28T03:39:11.495Z"
     },
     {
       "id": "science/2025/nov/25/being-famous-singer-raises-risk-early-death-research",
