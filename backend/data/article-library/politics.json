@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2025-11-27T03:30:05.189Z",
+    "generated_at": "2025-11-28T03:36:31.337Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-26"
+      "to": "2025-11-27"
     },
-    "article_count": 459,
+    "article_count": 462,
     "merge_info": {
-      "previous_count": 453,
-      "new_articles": 6,
-      "updated_articles": 5,
-      "total_count": 459
+      "previous_count": 459,
+      "new_articles": 3,
+      "updated_articles": 6,
+      "total_count": 462
     },
     "batch_info": {
-      "initial_batch_id": "batch_6927c53a0a3481909d72787276804ba0",
+      "initial_batch_id": "batch_6929185cda7081908057f2aeb0d20803",
       "retry_batches": [],
-      "total_tokens": 24152,
+      "total_tokens": 19424,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "politics/2025/nov/27/peter-mandelson-lobbying-firm-hired-by-company-linked-to-chinese-military",
+      "title": "Peter Mandelson’s lobbying firm hired by company linked to Chinese military",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/27/peter-mandelson-lobbying-firm-hired-by-company-linked-to-chinese-military",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/27/peter-mandelson-lobbying-firm-hired-by-company-linked-to-chinese-military",
+      "section": "politics",
+      "publishedDate": "2025-11-27T17:55:57Z",
+      "trailText": "Global Counsel signed $3m contract with WuXi AppTec in Europe months after it was named in US national security drive",
+      "summary": "Global Counsel, Peter Mandelson’s lobbying firm, signed a $3m deal in May 2024 with Chinese pharma WuXi AppTec—named in a US biosecurity bill over alleged Chinese military and Xinjiang human rights links—to manage European geopolitical risk. The firm, led by CEO Benjamin Wegg-Prosser, declared its EU-only remit on the bloc’s transparency register. WuXi, which refuted US allegations and lobbied against the bill, threatened its US supply-chain business, but the Senate-backed legislation later softened. Mandelson, who stepped down as Global Counsel chair in May 2024 and ceased advisory work in December, retains a ring-fenced minority stake pending divestment. WuXi plans its first European HQ in Germany.",
+      "summaryTokens": 1227,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
+    },
+    {
+      "id": "politics/2025/nov/27/ultra-rich-unelected-power-reshaping-british-politics-equality-trust-report",
+      "title": "‘Unelected power’ of ultra-rich is reshaping British politics, report claims",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/27/ultra-rich-unelected-power-reshaping-british-politics-equality-trust-report",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/27/ultra-rich-unelected-power-reshaping-british-politics-equality-trust-report",
+      "section": "politics",
+      "publishedDate": "2025-11-27T15:46:25Z",
+      "trailText": "Equality Trust study shows how House of Lords appointments, big donations and media ownership affect political decisions",
+      "summary": "An Equality Trust report (‘Money, Media and Lords’) reveals structural corruption in British politics driven by the ultra-rich. Unelected power—via House of Lords appointments (peers rising from 676 to 803), big donations (£250k+ gifts soaring from £7.6m to £47m) and concentrated media (top three outlets up from 71% to 90%)—tracks the top 1%’s wealth. One in ten peers earned fees for political advice in 2019–24, and seven recently stalled a Commons bill. It flags government plans to allow foreign investors 15% press stakes amid Google-Meta ad dominance. Recommendations include capping donations at £5k, limiting patronage, diversifying ownership and funding local media; Robert Reich warns billionaire owners threaten democracy.",
+      "summaryTokens": 922,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
+    },
+    {
+      "id": "politics/2025/nov/27/reeves-admits-working-people-will-pay-a-bit-more-budget",
+      "title": "Keir Starmer says Labour ‘kept to our manifesto’ over budget tax rises",
+      "webUrl": "https://www.theguardian.com/politics/2025/nov/27/reeves-admits-working-people-will-pay-a-bit-more-budget",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/nov/27/reeves-admits-working-people-will-pay-a-bit-more-budget",
+      "section": "politics",
+      "publishedDate": "2025-11-27T14:25:42Z",
+      "trailText": "PM seeks to rebuff claims government broke its promises while conceding budget ‘asked everybody to contribute’",
+      "summary": "Labour PM Keir Starmer and chancellor Rachel Reeves defended their autumn budget’s £26bn of tax rises—freezing income tax and NI thresholds for three more years—insisting it honours their manifesto by protecting the NHS, schools and tackling living costs “in a fair way,” while conceding working people will pay slightly more. They rejected apologies, citing targeted levies on betting firms, mansions and landlords to minimise impact, and hailed scrapping the two-child benefit cap—a £3bn annual cost by 2029–30—to lift 450,000 children out of poverty. Reeves vowed to defy OBR growth forecasts by spurring investment.",
+      "summaryTokens": 759,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
+    },
     {
       "id": "politics/2025/nov/26/is-nigel-farage-claim-that-allegations-of-racism-are-a-response-to-a-dislike-of-his-politics-true",
       "title": "Is Farage right to claim that racism allegations are response to a dislike of his politics?",
@@ -29,9 +65,9 @@
       "section": "politics",
       "publishedDate": "2025-11-26T20:11:25Z",
       "trailText": "Reform UK leader has again denied allegations about his behaviour as a schoolboy but what are the facts?",
-      "summary": "Nigel Farage, facing renewed allegations of racist and antisemitic bullying as a schoolboy, has denied wrongdoing and insisted claims stem from disdain for his politics. At a press briefing he deflected questions—excluding those from the Guardian—and argued only Peter Ettedgui accused him of direct abuse. The Guardian, however, has documented testimonies from at least seven contemporaries—including Jewish and non-white classmates—describing slurs such as “gas them,” “Paki,” “stupid yid” and other harassment. Over twenty have now come forward, most apolitical, demanding his contrition.",
-      "summaryTokens": 825,
-      "generatedAt": "2025-11-27T03:30:04.624Z"
+      "summary": "Reform UK leader Nigel Farage has denied schoolboy racism allegations, attributing them to opponents of his politics. At a press conference—excluding Guardian questions—he apologized if anyone was hurt but insisted he never used racial or antisemitic slurs. However, Peter Ettedgui and at least seven other contemporaries, including Jewish and BAME classmates and a former teacher, testify Farage repeatedly taunted them with phrases like \"Hitler was right\", \"gas them\", \"stupid yid\" and other slurs. Over 20 witnesses have now come forward, most politically uninvolved, refuting his claim that allegations stem from political bias. Farage’s citation of unrelated figure Roger Gough does not align with the Guardian’s verified sources.",
+      "summaryTokens": 1687,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
     },
     {
       "id": "politics/2025/nov/26/budget-leak-was-the-only-leak-reeves-wasnt-responsible-for-in-this-shambles",
@@ -41,9 +77,9 @@
       "section": "politics",
       "publishedDate": "2025-11-26T18:23:45Z",
       "trailText": "Chancellor tried a different approach to this budget, revealing all her plans and causing chaos before she even delivered it",
-      "summary": "Chancellor Rachel Reeves orchestrated a pre-budget ‘shambles’, leaking and retracting proposals—like a brief income tax hike—to absorb criticism before delivery. The only true leak was the OBR’s accidental full report publication. At her Commons statement she repeated drip-fed policies with no fresh surprises, calming markets but leaving MPs underwhelmed. Tory leader Kemi Badenoch’s icy rebuttal failed to land, as even a backbench dog stole the show. Reeves judged her performance a tentative five-out-of-ten and is banking on this pre-chaos strategy smoothing the post-budget period.",
-      "summaryTokens": 563,
-      "generatedAt": "2025-11-27T03:30:04.624Z"
+      "summary": "Chancellor Rachel Reeves intentionally leaked and reversed key measures pre-budget to dissipate criticism, culminating in a genuine leak by the OBR 90 minutes before PMQs. Despite a chaotic rollout—abandoned 2p tax rise, pre-announced policies and flat delivery—market reaction was calm. Kemi Badenoch’s opposition speech floundered in the chamber, overshadowed by press and a dog, while fiscal watchdogs’ assessments now define the budget’s fate.",
+      "summaryTokens": 661,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
     },
     {
       "id": "politics/2025/nov/26/nigel-farage-alleged-victims-racial-abuse-school-keir-starmer-call-for-apology",
@@ -53,9 +89,9 @@
       "section": "politics",
       "publishedDate": "2025-11-26T18:14:32Z",
       "trailText": "Prime minister says Reform leader’s explanations about alleged comments are ‘unconvincing to say the least’",
-      "summary": "At PMQs, Keir Starmer challenged Reform leader Nigel Farage to apologize to former Dulwich College classmates who allege he racially abused them aged 13, hissing “Hitler was right” and simulating gas chambers. Farage initially denied any racist or antisemitic behavior, then claimed no intent to hurt, later categorically denied uttering the remarks. After an on-air apology for anyone hurt, he reiterated his denials. Six additional witnesses back Peter Ettedgui’s account. Ettedgui, now an award-winning director, praised Starmer’s support and rebuked Farage’s \"bizarre denials and lack of contrition.\"",
-      "summaryTokens": 961,
-      "generatedAt": "2025-11-27T03:30:04.624Z"
+      "summary": "At PMQs, Keir Starmer urged Nigel Farage to apologise to Dulwich College classmates who say he racially abused them at age 13, growling ‘Hitler was right’ and mimicking gas-chamber hisses. Peter Ettedgui, now an Emmy-winning director, and six others have corroborated the testimony. Farage has alternately denied any intent or involvement, then offered a conditional apology to anyone hurt. Starmer called these shifting explanations ‘unconvincing to say the least.’",
+      "summaryTokens": 544,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
     },
     {
       "id": "politics/2025/nov/26/racism-claims-against-nigel-farage-are-no-surprise-to-us",
@@ -65,9 +101,9 @@
       "section": "politics",
       "publishedDate": "2025-11-26T17:48:32Z",
       "trailText": "Letters: Readers describe the ubiquity of racist attitudes and behaviours at British public schools at the time the Reform UK leader attended Dulwich College",
-      "summary": "Letters from former pupils of elite British public schools (including a contemporary of Nigel Farage at Dulwich College) describe systemic antisemitism, racism and xenophobia in the 1970s–80s, endorsed or ignored by staff. Jewish, Indian/Pakistani and African pupils faced slurs while schools imposed quotas and applauded far-right speakers. One writer, a child of a Nazi refugee, confesses to joining in antisemitic jokes, and recalls a German teacher publicly humiliating the sole Muslim boy. They argue Farage’s attitudes reflect an imperial-minded culture that glorified white superiority and shaped pupils’ sense of entitlement, warning such institutions can still harm society if they uphold these beliefs.",
-      "summaryTokens": 1425,
-      "generatedAt": "2025-11-27T03:30:04.624Z"
+      "summary": "Ex-pupils of British public schools contemporary with Nigel Farage at Dulwich College report that overt racism—slurs against Jewish, Indian, Pakistani, African and Muslim students—was routine and dismissed by teachers as mere ‘naughtiness.’ They recall quotas capping Jewish admissions, public humiliation of a Muslim classmate, and a mock 1979 ballot celebrating the National Front with applause for speakers like Enoch Powell and Patrick Moore. These elite institutions, designed to forge imperial cadres, imparted swagger and entitlement alongside prejudice, explaining why claims of Farage’s teenage racism come as no surprise and warning that unchanged schools will keep producing more figures like him.",
+      "summaryTokens": 568,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
     },
     {
       "id": "politics/2025/nov/26/hereditary-peers-arent-out-of-touch-with-the-realities-of-the-job-market",
@@ -77,9 +113,9 @@
       "section": "politics",
       "publishedDate": "2025-11-26T17:48:22Z",
       "trailText": "Letter: Nicholas True responds to an article that reported that hereditary peers had voted against Labour’s employment bill",
-      "summary": "Nicholas True defends hereditary peers’ vote against Labour’s employment bill, countering claims they’re ‘out of touch’ by citing their extensive business experience versus inexperienced cabinet members. He notes UK unemployment at 5% (1.7m on benefits) and a government estimate that the bill would cost firms £5bn annually. Backed by the FSB, CBI, IoD, Make UK, Care England and Sir Tony Blair, True adds that non-hereditary peers alone would have defeated the bill by about 100 votes, and fewer than two-thirds of Labour peers even supported it.",
-      "summaryTokens": 689,
-      "generatedAt": "2025-11-27T03:30:04.624Z"
+      "summary": "Nicholas True, Leader of the Opposition in the House of Lords, rebuts claims that hereditary peers blocking Labour’s employment bill are ‘out of touch’. He highlights peers’ extensive business experience, notes UK unemployment at 5% (1.7m on benefits) and warns the bill would cost firms £5bn annually. He cites support from the FSB, CBI, IoD, Make UK, Care England and Sir Tony Blair, and argues the legislation would have been defeated by over 100 votes even without hereditary peers, backed by Conservative, Liberal Democrat, Unionist and crossbench peers, while fewer than two-thirds of Labour peers supported it.",
+      "summaryTokens": 1718,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
     },
     {
       "id": "politics/2025/nov/26/reeves-freezes-fuel-duty-for-now-as-she-confirms-3p-a-mile-electric-vehicle-charge",
@@ -89,9 +125,9 @@
       "section": "politics",
       "publishedDate": "2025-11-26T16:06:12Z",
       "trailText": "Rishi Sunak’s ‘temporary’ 5p-a-litre cut to be reversed in stages from next September in effort to keep EVs attractive",
-      "summary": "Chancellor Rachel Reeves will freeze fuel duty at 52.95p per litre until September 2026, reversing Rishi Sunak’s 5p cut in stages from late 2025 to keep EVs cost‐competitive. From 2028, fully electric cars will face a 3p-per-mile levy (1.5p for plug-in hybrids), projected to raise £1.1bn in 2028-29 and £1.9bn by 2030-31, though the OBR warns it could reduce EV sales by 24,000 vehicles a year. To bolster the transition, Reeves is extending a £1.3bn EV grant scheme to 2030, raising the £50,000 luxury-car tax threshold, accelerating public charging rollout, and offering business-rate relief. She also extends the £3 bus fare cap, freezes rail fares, and closes a taxi VAT loophole.",
-      "summaryTokens": 693,
-      "generatedAt": "2025-11-27T03:30:04.624Z"
+      "summary": "Chancellor Rachel Reeves has frozen fuel duty at 52.95p a litre until September 2026, reversing the temporary 5p-a-litre cut from next autumn with staged increases thereafter, a move the OBR says costs £2.4bn next year and £900m annually. From 2028, a new pay-per-mile EV levy—3p per mile for pure electric cars and 1.5p for plug-in hybrids—will raise £1.1bn in 2028–29 (rising to £1.9bn by 2030–31) but could reduce EV sales by about 24,000 a year. Reeves also doubled EV grants, raised the £50k luxury car threshold, and accelerated charging rollout.",
+      "summaryTokens": 1810,
+      "generatedAt": "2025-11-28T03:36:31.125Z"
     },
     {
       "id": "politics/2025/nov/25/three-more-ex-pupils-at-school-with-nigel-farage-reject-banter-claims",
