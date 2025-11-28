@@ -1,37 +1,49 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-27T03:27:45.427Z",
+    "generated_at": "2025-11-28T03:34:44.540Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-11-27"
     },
-    "article_count": 120,
+    "article_count": 125,
     "merge_info": {
-      "previous_count": 115,
+      "previous_count": 120,
       "new_articles": 5,
-      "updated_articles": 1,
-      "total_count": 120
+      "updated_articles": 5,
+      "total_count": 125
     },
     "batch_info": {
-      "initial_batch_id": "batch_6927c4b966c08190808b82e425152182",
+      "initial_batch_id": "batch_692917c784d081909773adef03ce99e7",
       "retry_batches": [],
-      "total_tokens": 10378,
+      "total_tokens": 21947,
       "processing_time_hours": 0
     }
   },
   "articles": [
     {
-      "id": "news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
-      "title": "How the Hong Kong fire unfolded – visual guide",
-      "webUrl": "https://www.theguardian.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
-      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
+      "id": "news/2025/nov/27/hong-kong-fire-tai-po-police-blame-construction-company",
+      "title": "Hong Kong police say unsafe scaffolding and foam may have spread fire that killed at least 94",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/27/hong-kong-fire-tai-po-police-blame-construction-company",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/hong-kong-fire-tai-po-police-blame-construction-company",
       "section": "news",
-      "publishedDate": "2025-11-27T03:04:50Z",
-      "trailText": "Fire in densely packed group of 31-storey tower blocks that is home to thousands quickly spread via bamboo scaffolding",
-      "summary": "On 27 Nov a massive fire erupted at 2.52pm on bamboo scaffolding at Wang Cheong House, part of the 31-storey Wang Fuk Court complex in Tai Po, home to ~4,800 residents in 2,000 apartments. Flames raced across plastic netting into seven of eight towers, killing dozens (including a firefighter), leaving hundreds missing or critical, and sheltering 900. Over 200 fire engines and 100 ambulances faced sealed windows and debris. Beijing’s Xi Jinping urged swift action; officials plan to phase out bamboo scaffolding.",
-      "summaryTokens": 1450,
-      "generatedAt": "2025-11-27T03:27:45.060Z"
+      "publishedDate": "2025-11-27T22:55:51Z",
+      "trailText": "Three construction employees arrested as firefighters battle to reach trapped people, with many still missing",
+      "summary": "Hong Kong police allege unsafe bamboo scaffolding and non-fire-retardant foam used in maintenance of the 8-block, 31-storey Wang Fuk Court housing estate in Tai Po fueled a blaze that has killed 94, injured 76 and left about 279 unaccounted for. Firefighters battled intense heat and smoke; three men linked to Prestige Construction have been arrested on suspicion of gross negligence and documents seized. Authorities warned of ordinance breaches and may prosecute. The inferno, likened to London’s Grenfell, exposed renovation lapses, spurred shelters for 900+ displaced, election delays and an all-out firefight urged by Xi Jinping.",
+      "summaryTokens": 1013,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
+    },
+    {
+      "id": "news/2025/nov/27/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/27/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-27T21:00:45Z",
+      "trailText": "Jury trials proposal",
+      "summary": "The Guardian clarifies that its earlier report on scrapping jury trials for all but the most serious offences in England and Wales failed to note criminal justice is devolved in Scotland and Northern Ireland; the crown court backlog stands at 78,000 cases. It also lists recent amendments to features on Tom Heaton’s Manchester United return, Europe’s wartime logistics plan, dismissed cases against James and Comey, a Pentagon probe into a US senator, and Turning Point USA’s 2028 strategy. Readers may send editorial corrections to guardian.readers@theguardian.com or write to the Readers’ Editor.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
     },
     {
       "id": "news/2025/nov/27/hong-kong-fire-tai-po-what-we-know-so-far",
@@ -39,11 +51,59 @@
       "webUrl": "https://www.theguardian.com/news/2025/nov/27/hong-kong-fire-tai-po-what-we-know-so-far",
       "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/hong-kong-fire-tai-po-what-we-know-so-far",
       "section": "news",
-      "publishedDate": "2025-11-27T00:09:42Z",
+      "publishedDate": "2025-11-27T16:31:20Z",
       "trailText": "Dozens are confirmed dead, with hundreds more missing, after fire broke out and spread quickly via bamboo scaffolding",
-      "summary": "At least 44 people, including one firefighter, have died and 279 remain missing after a blaze tore through eight 32-storey towers at Wang Fuk Court in Tai Po on Wednesday. The fire, exacerbated by bamboo scaffolding used in ongoing renovations, left dozens critically injured and forced over 900 residents into temporary shelters. Twenty-six rescue teams with 128 engines and nearly 800 firefighters are still combing lower floors. Three men aged 52-68 have been arrested for manslaughter. Authorities will probe exterior materials. Xi Jinping offered condolences.",
-      "summaryTokens": 994,
-      "generatedAt": "2025-11-27T03:27:45.060Z"
+      "summary": "At least 94 dead, 76 injured (including 11 firefighters) and about 250 missing after a massive blaze devoured seven of eight 32-storey towers at Tai Po’s Wang Fuk Court on Wednesday. Bamboo scaffolding and exterior cladding under renovation may have fuelled the rapid spread across the 2,000-flat complex housing 4,800 residents. Three construction executives—two directors and an engineering consultant—have been arrested on suspicion of gross negligence manslaughter. A 26-team rescue operation with 128 engines and 800 firefighters continues, evacuating 900+. A special taskforce probes the cause. Xi Jinping expressed condolences.",
+      "summaryTokens": 1859,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
+    },
+    {
+      "id": "news/2025/nov/27/hong-kong-apartment-complex-fire-reaction",
+      "title": "In air thick with acrid smoke, people in Hong Kong are reeling and angry ",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/27/hong-kong-apartment-complex-fire-reaction",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/hong-kong-apartment-complex-fire-reaction",
+      "section": "news",
+      "publishedDate": "2025-11-27T13:28:08Z",
+      "trailText": "As apartment complex still blazes more than 24 hours after fire began, police suspect cause is owing to ‘grossly negligent’ action",
+      "summary": "Over 24 hours after a fire broke out in a bamboo-scaffolded, eight-tower block at Wang Fuk Court in Tai Po, the blaze still raged across seven of its 31-storey residential towers. At least 65 people—residents and a firefighter—have died, dozens were injured, over 250 are missing and 55 rescued. Acrid smoke recalled the 2019 protests as winter winds fanned the flames beyond reach. Police suspect “grossly negligent” construction work—foam materials, faulty scaffolding and disabled alarms—and have arrested three workers. Volunteers are aiding displaced families, while the ICAC launches a taskforce amid community anger over lax safety standards.",
+      "summaryTokens": 954,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
+    },
+    {
+      "id": "news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
+      "title": "How the Hong Kong fire unfolded – visual guide",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
+      "section": "news",
+      "publishedDate": "2025-11-27T13:27:14Z",
+      "trailText": "Fire in densely packed group of 31-storey tower blocks that is home to thousands quickly spread via bamboo scaffolding",
+      "summary": "At the Wang Fuk Court complex in Tai Po, a fire broke out on Nov 27 at 14:52 local time on bamboo scaffolding around Wang Cheong House. It spread rapidly to seven of eight 31-storey towers covering 2,000 apartments housing ~4,800 residents. Scores have died, hundreds are missing or critical. Firefighters—200 trucks, 100 ambulances—struggled under extreme heat and falling debris; a firefighter died. Many residents missed alarms. Hong Kong is phasing out bamboo scaffolds after safety concerns. Police probe a 'grossly negligent' contractor for non-compliant materials. Over 900 displaced people sheltered in temporary centers. Gov’t set up HK$300m relief fund.",
+      "summaryTokens": 2705,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
+    },
+    {
+      "id": "news/2025/nov/27/nhs-doctor-suspended-alleged-antisemitic-social-media-posts",
+      "title": "NHS doctor suspended over alleged antisemitic social media posts",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/27/nhs-doctor-suspended-alleged-antisemitic-social-media-posts",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/nhs-doctor-suspended-alleged-antisemitic-social-media-posts",
+      "section": "news",
+      "publishedDate": "2025-11-27T10:05:51Z",
+      "trailText": "Rahmeh Aladwan barred from practising for 15 months pending inquiry amid claims she ‘celebrated terrorist acts’",
+      "summary": "Dr Rahmeh Aladwan, a 31-year-old British Palestinian NHS orthopaedic trainee, has been suspended for 15 months pending an MPTS inquiry into alleged antisemitic social media posts. The GMC cites comments justifying terrorism, Holocaust denial, antisemitic conspiracy theories, support for proscribed groups like Hamas, Nazi imagery and doxxing of colleagues. Her lawyer argues the posts were legitimate political speech with no patient safety risk. The tribunal, citing patient confidence and new evidence of extreme, offensive content, imposed the interim ban. Health Sec. Wes Streeting calls for reform of medical regulators’ handling of antisemitism.",
+      "summaryTokens": 1079,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
+    },
+    {
+      "id": "news/2025/nov/27/weatherwatch-can-you-really-hear-the-wind",
+      "title": "Weatherwatch: Can you really hear the wind? ",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/27/weatherwatch-can-you-really-hear-the-wind",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/weatherwatch-can-you-really-hear-the-wind",
+      "section": "news",
+      "publishedDate": "2025-11-27T06:00:19Z",
+      "trailText": "Some would argue airflow is silent, and that only the objects in its way give rise to vortex shedding or sough",
+      "summary": "Wind’s sound arises not from silent airflow but from turbulence—psithurism—when laminar air interacts with tree branches, leaves and needles, producing broadband white noise. Finer obstructions like pine needles yield higher-pitched sough. Indoors, wind howling reflects Aeolian tones generated by airflow over edges, gaps or taut wires, which vibrate at resonant frequencies as in Aeolian harp strings via vortex shedding. Even ear structure distorts flow, so what we perceive as wind noise is actually object-induced sound.",
+      "summaryTokens": 470,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
     },
     {
       "id": "news/2025/nov/26/corrections-and-clarifications",
@@ -53,9 +113,9 @@
       "section": "news",
       "publishedDate": "2025-11-26T21:00:07Z",
       "trailText": "Airstrikes on Iran | Birmingham bin strike",
-      "summary": "Clarifies that June’s strikes killing over 1,000 Iranians were Israeli, not US—US attacks on Iran’s nuclear sites caused no casualties. Corrects that so-called “agency” staff covering Birmingham’s bin strike were already council employees. Lists other recent amendments, including stories on a Chilean blizzard fatality, evolving Beatles opinions, the Stahl house sale, male identity crises in workplaces, New Zealand’s plan to eradicate feral cats, Australian marsupial conservation, fish-stock recovery via shipwrecks and menstrual synchronisation. Readers can send corrections to guardian.readers@theguardian.com, the Readers’ Editor at Kings Place, London, or voicemail +44 20 3353 4736.",
-      "summaryTokens": 506,
-      "generatedAt": "2025-11-27T03:27:45.060Z"
+      "summary": "Two clarifications: Israeli airstrikes, not US, killed over 1,000 Iranians in June, while US strikes on Iranian nuclear sites caused no casualties; agency staff in the Birmingham bin strike were already council employees. Other corrected pieces cover: a Chilean reserve blizzard, shifting Beatles narratives, the sale of LA’s Stahl house, workplace gender crises, New Zealand’s feral cat cull, Australian marsupial conservation, shipwreck-based fish restoration and menstrual synchrony. Readers can send complaints or correction requests via email, post or voicemail to the Guardian Readers’ Editor.",
+      "summaryTokens": 867,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
     },
     {
       "id": "news/2025/nov/26/cop30-and-the-climate-fight-inside-the-28-november-guardian-weekly",
@@ -65,9 +125,9 @@
       "section": "news",
       "publishedDate": "2025-11-26T18:00:04Z",
       "trailText": "Turning climate talk into action. Plus: Is Palantir’s Alex Karp the world’s scariest CEO?",
-      "summary": "At COP30 in Belém, delegates endured bitter rows, walkout threats and last‐minute negotiations to produce a weak but essential consensus, balancing frontline climate states against petrostates seeking to rollback the fossil‐fuel phase‐out agreed in Dubai 2023. Guardian’s Fiona Harvey unpacks how geopolitical headwinds—US fossil‐friendly presidency, rising right-wing populism, conflicts in Ukraine and Gaza and economic uncertainty—stalled progress, yet international cooperation prevailed. The 28 Nov Guardian Weekly also features prospects for a US-Russian Ukraine peace plan, shifting Middle East alliances, Palantir CEO Alex Karp’s surveillance ambitions, plus culture, opinion and investigations.",
-      "summaryTokens": 1018,
-      "generatedAt": "2025-11-27T03:27:45.060Z"
+      "summary": "At COP30 in Belém, Brazil, after near-walkouts and last-minute brinkmanship, delegations won a weak consensus on phasing out fossil fuels. Despite a US pro-coal presidency, right-wing populism, Ukraine and Gaza conflicts and economic uncertainty, environment editor Fiona Harvey and Jonathan Watts dissect the flawed deal and geopolitical headwinds. Plus Guardian Weekly highlights: US-Russian Ukraine peace plan (Harding & Sauer), Trump’s Gulf tilt (Borger), Palantir CEO Alex Karp’s surveillance ambitions (Rose), Catholic church vs Trump (Tisdall), and Edmund de Waal’s new ceramics show.",
+      "summaryTokens": 1533,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
     },
     {
       "id": "news/2025/nov/26/ignoring-minorities-is-our-original-sin-the-complex-roots-of-nigerias-security-crisis",
@@ -77,9 +137,9 @@
       "section": "news",
       "publishedDate": "2025-11-26T13:11:16Z",
       "trailText": "Criminal exploitation, economic opportunism and religious persecution are all factors in a broader picture of insecurity",
-      "summary": "Escalating violence in Nigeria’s middle belt and north stems from chronic marginalisation of ethnic and religious minorities, a legacy of Fulani dominance and Sharia expansions. Crises include mass kidnappings—including 300 schoolchildren—herder–farmer clashes driven by climate stress, competition over grazing routes and arms proliferation, and Boko Haram’s insurgency. A centralised federal government with poor intelligence sharing, no state police and vast under-governed spaces enables bandits and extremists to exploit data gaps. Persecution merges religious, political and economic motives, demanding nuanced domestic and international responses.",
-      "summaryTokens": 1072,
-      "generatedAt": "2025-11-27T03:27:45.060Z"
+      "summary": "In Nigeria, security crisis stems from historical marginalisation of ethnic and religious minorities driving violence in the middle belt. Escalating abductions (300 schoolchildren in Niger state), mass killings in Benue and live-streamed church attacks highlight religious persecution by Fulani-derived Sharia elites against Christians and heterodox Muslims. Herder-farmer clashes, fueled by climate change, criminal exploitation and desertification, have seen armed Fulani herders expand south. Centralised Abuja control, lack of state police and poor intelligence create ungoverned spaces for Boko Haram and bandits. Chronic data gaps obscure true scale. Ignoring minorities remains Nigeria’s original sin. Global spotlight (Trump’s invasion threat, Nicki Minaj’s UN address) hasn’t addressed these root causes.",
+      "summaryTokens": 1684,
+      "generatedAt": "2025-11-28T03:34:44.393Z"
     },
     {
       "id": "news/2025/nov/25/corrections-and-clarifications",
