@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-28T03:43:26.293Z",
+    "generated_at": "2025-11-29T03:40:23.340Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-27"
+      "to": "2025-11-28"
     },
-    "article_count": 223,
+    "article_count": 226,
     "merge_info": {
-      "previous_count": 222,
-      "new_articles": 1,
-      "updated_articles": 4,
-      "total_count": 223
+      "previous_count": 223,
+      "new_articles": 3,
+      "updated_articles": 2,
+      "total_count": 226
     },
     "batch_info": {
-      "initial_batch_id": "batch_692919c66bc0819090d1071407a0e891",
+      "initial_batch_id": "batch_692a6b0f7c288190ad37b4013a7d3d77",
       "retry_batches": [],
-      "total_tokens": 10570,
+      "total_tokens": 11321,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/28/amazon-ai-climate-change",
+      "title": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/28/amazon-ai-climate-change",
+      "section": "technology",
+      "publishedDate": "2025-11-28T13:50:15Z",
+      "trailText": "Workers say the firm’s ‘warp-speed’ approach fuels pressure, layoffs and rising emissions",
+      "summary": "Open letter by 1,000+ Amazon workers, backed by 2,400 peers at Meta, Google, Apple and Microsoft, warns 'warp-speed' AI rollout is fueling layoffs, surveillance and rising emissions. They call for powering all data centers with clean energy, halting AI-enabled deportation/mass-surveillance products, and forming a non-managerial AI oversight group to influence deployment, headcount and environmental impact. Citing Amazon’s $150bn data-centre spend over 15 years, a 35% emissions rise since 2019 and pressure to double output with AI, staffers urge sustainable, worker-centered development.",
+      "summaryTokens": 1200,
+      "generatedAt": "2025-11-29T03:40:22.819Z"
+    },
+    {
+      "id": "technology/2025/nov/28/artificial-intelligence-smart-toys",
+      "title": "After a teddy bear talked about kink, AI watchdogs are warning parents against smart toys",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/28/artificial-intelligence-smart-toys",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/28/artificial-intelligence-smart-toys",
+      "section": "technology",
+      "publishedDate": "2025-11-28T13:00:07Z",
+      "trailText": "Advocates are fighting against the $16.7bn global smart-toy market, decrying surveillance and a lack of regulation",
+      "summary": "Consumer groups warn over a $16.7 billion global smart-toy market after an AI-powered teddy bear by FoloToy, powered by an OpenAI model, began discussing sexually explicit kink. A Public Interest Research Group (Pirg) report and Fairplay’s Young Children Thrive Offline initiative highlight the lack of regulation, data-privacy risks and potential mental-development harms when bots offer boundary-less dialogue, collect children’s personal data and replace human interaction. Companies like Curio (Grok) and Mattel have partnered with OpenAI but target older users. Advocates are calling for independent short- and long-term research, regulatory oversight for under-13 AI toys and removal from shelves until thorough safety audits ensure robust content moderation, transparency and protection of social-emotional development.",
+      "summaryTokens": 586,
+      "generatedAt": "2025-11-29T03:40:22.819Z"
+    },
+    {
+      "id": "technology/2025/nov/28/one-in-10-uk-parents-say-child-blackmailed-online-sextortion-nspcc-finds",
+      "title": "One in 10 UK parents say their child has been blackmailed online, NSPCC finds",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/28/one-in-10-uk-parents-say-child-blackmailed-online-sextortion-nspcc-finds",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/28/one-in-10-uk-parents-say-child-blackmailed-online-sextortion-nspcc-finds",
+      "section": "technology",
+      "publishedDate": "2025-11-28T06:00:58Z",
+      "trailText": "Harms include threats to release intimate pictures as charity warns against parents sharing photos or details of children online",
+      "summary": "NSPCC reports 1 in 10 UK parents say their child has been blackmailed online—threatened with release of intimate images or private data—and 1 in 5 know a victim. Two-fifths rarely discuss online safety. The National Crime Agency logs 110+ sextortion attempts monthly, often by West African or Southeast Asian gangs, sometimes ending in teen suicides. Blackmailers demand money, further images or relationships. NSPCC warns against “sharenting,” calls on tech firms to embed child safety, and advises age-appropriate talks and safe spaces for disclosure.",
+      "summaryTokens": 818,
+      "generatedAt": "2025-11-29T03:40:22.819Z"
+    },
     {
       "id": "technology/2025/nov/27/partisan-x-posts-increase-political-polarisation-among-users-social-media-research",
       "title": "Small changes to ‘for you’ feed on X can rapidly increase political polarisation",
@@ -29,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-27T19:00:43Z",
       "trailText": "Study finds that a week of political content can bring about a shift in views that previously would have taken three years",
-      "summary": "A study in Science by researchers at Stanford, Johns Hopkins, Northeastern and University of Washington finds that subtly amplifying anti-democratic and partisan content in X’s “for you” feed during the 2024 US election boosted users’ affective polarization in one week by an amount equivalent to three years of historical shift. Over 1,000 Republican and Democrat participants, who mostly didn’t notice the tweaks, reported increased animosity, anger and sadness toward opponents. Conversely, down-ranking such posts reduced division similarly. Researchers highlight X’s algorithmic power to exacerbate or mitigate polarization, noting a trade-off between short-term engagement and societal impact.",
-      "summaryTokens": 1203,
-      "generatedAt": "2025-11-28T03:43:26.104Z"
+      "summary": "A controlled experiment on Elon Musk’s X platform showed that subtly boosting anti-democratic and partisan posts in users’ “For You” feeds for one week raised affective polarization by over two degrees on a 0-100 scale—equivalent to three years of US political division from 1978–2020. More than 1,000 self-identified Democrats and Republicans reported greater anger and sadness towards the opposing party, despite barely noticing feed changes. Conversely, down-ranking such content reduced animosity similarly. The study highlights the algorithm’s power to influence political views and suggests that feeds could be redesigned to mitigate polarization, though engagement-driven business models may resist these trade-offs.",
+      "summaryTokens": 901,
+      "generatedAt": "2025-11-29T03:40:22.819Z"
     },
     {
       "id": "technology/2025/nov/27/pro-trump-x-twitter-accounts-based-in-asia",
@@ -41,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-11-27T00:01:12Z",
       "trailText": "A new feature on the social media platform formerly known as Twitter allows users to see the location of other accounts. It has resulted in a firestorm of recriminations",
-      "summary": "X’s new location‐tagging feature revealed that dozens of high‐engagement “America First” and pro-Trump accounts are based overseas—Nigeria, India, eastern Europe and notably Thailand. Originally pitched as an anti‐disinformation transparency tool, the rollout exposed networks exploiting U.S. political polarization for profit or influence. The Centre for Information Resilience traced avatar‐stealing MAGA simulators to Thailand, while researchers debate whether these operations are state-backed campaigns or entrepreneurial “rage-bait” schemes fueled by engagement-based payouts. Critics warn that such overseas accounts amplify conspiracy theories, spread xenophobic and anti-Islam content, and risk mainstreaming extremist ideas in U.S. politics. Suspensions have begun but the broader impact persists.",
-      "summaryTokens": 1094,
-      "generatedAt": "2025-11-28T03:43:26.104Z"
+      "summary": "Pro-Trump X accounts new feature shows locations. Over a dozen popular “America First,” MAGAStorm, AmericanVoice and Ivanka Trump fan accounts are based in Nigeria, Eastern Europe, India and Thailand, fueling uproar. CIR confirms so-called independent pro-Trump women accounts are in Thailand. Experts debate whether these are state-backed influence campaigns or opportunistic “rage bait” grifters exploiting X’s engagement-based monetization. Southeast Asia operators driven by profit stoke xenophobic and anti-Islam content. Fringe conspiracy theories amplify from dark corners to mainstream US politics, underscoring risks of foreign and mercenary actors shaping discourse.",
+      "summaryTokens": 946,
+      "generatedAt": "2025-11-29T03:40:22.819Z"
     },
     {
       "id": "technology/2025/nov/26/london-councils-kensington-and-chelsea-westminster-cyber-attack-emergency",
