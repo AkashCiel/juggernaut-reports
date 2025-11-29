@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-28T03:32:15.283Z",
+    "generated_at": "2025-11-29T03:32:50.630Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-27"
+      "to": "2025-11-28"
     },
-    "article_count": 124,
+    "article_count": 125,
     "merge_info": {
-      "previous_count": 123,
+      "previous_count": 124,
       "new_articles": 1,
       "updated_articles": 1,
-      "total_count": 124
+      "total_count": 125
     },
     "batch_info": {
-      "initial_batch_id": "batch_692916e703bc819099484d10b6b422f3",
+      "initial_batch_id": "batch_692a690acfe08190aa1347750e3aa491",
       "retry_batches": [],
-      "total_tokens": 3850,
-      "processing_time_hours": 0.1
+      "total_tokens": 3762,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/28/people-deriving-income-solely-from-state-pension-wont-be-taxed-says-chancellor",
+      "title": "People deriving income solely from state pension won’t be taxed, says chancellor",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/28/people-deriving-income-solely-from-state-pension-wont-be-taxed-says-chancellor",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/28/people-deriving-income-solely-from-state-pension-wont-be-taxed-says-chancellor",
+      "section": "money",
+      "publishedDate": "2025-11-28T19:13:45Z",
+      "trailText": "Clarification creates prospect of two-tier system for retirees solely on new state pension and those on private schemes",
+      "summary": "Chancellor Rachel Reeves has pledged that retirees whose sole income is the basic or new state pension will not face income tax on their payments, even when the new pension rises above the £12,570 personal allowance in 2027-28. Although the weekly rate will reach £241.30 (£12,547/year) in April 2026, threshold freezes would push it above the allowance by 2027, triggering small tax bills. The measure aims to reduce administration for those without private or additional state pensions but raises fairness concerns, with 2.5m on the old pension already taxed and private savers unprotected. No costings are yet provided.",
+      "summaryTokens": 1081,
+      "generatedAt": "2025-11-29T03:32:50.215Z"
+    },
     {
       "id": "money/2025/nov/27/freeze-uk-student-loan-repayment-threshold-nus-warning",
       "title": "Freeze on student loan repayment threshold could leave graduates struggling, NUS warns",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-27T15:00:11Z",
       "trailText": "Graduates in relatively low-paid jobs earning close to minimum wage will have to repay ‘more, much sooner’",
-      "summary": "In Rachel Reeves’s 2025 budget the government froze the Plan 2 student loan repayment threshold at £29,385 for three years from April 2027, prompting the NUS to warn graduates in low-paid roles will repay 9% of incomes near minimum wage sooner, straining budgets for rent, food and bills. With the national living wage due to hit ~£28,995 by 2030, many full-time workers face early repayments. The Office for Budget Responsibility forecasts this freeze raises ~£400 m annually, while interest rate bands (3.2–6.2%) are also held constant. Government cites fairness to non-grads.",
-      "summaryTokens": 828,
-      "generatedAt": "2025-11-28T03:32:15.116Z"
+      "summary": "The National Union of Students (NUS) warns that freezing the plan 2 student loan repayment threshold at £29,385 from April 2027 for three years will force graduates earning close to the national living wage to start 9% deductions on precarious incomes, exacerbating struggles with rent, bills and food. Currently set at £28,470, the threshold freeze affects those who began courses in England and Wales between 2012 and 2023. The Treasury defends the move as fair to non‐graduates, while the OBR forecasts it will raise about £400 million annually.",
+      "summaryTokens": 934,
+      "generatedAt": "2025-11-29T03:32:50.215Z"
     },
     {
       "id": "money/2025/nov/26/money-worries-relationship-marriage-partnership-household-finances-consumer-advice",
