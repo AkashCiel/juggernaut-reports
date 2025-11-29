@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-28T03:34:44.540Z",
+    "generated_at": "2025-11-29T03:35:10.017Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-27"
+      "to": "2025-11-28"
     },
-    "article_count": 125,
+    "article_count": 128,
     "merge_info": {
-      "previous_count": 120,
-      "new_articles": 5,
-      "updated_articles": 5,
-      "total_count": 125
+      "previous_count": 125,
+      "new_articles": 3,
+      "updated_articles": 7,
+      "total_count": 128
     },
     "batch_info": {
-      "initial_batch_id": "batch_692917c784d081909773adef03ce99e7",
+      "initial_batch_id": "batch_692a696b6a74819094c818b1ee118290",
       "retry_batches": [],
-      "total_tokens": 21947,
+      "total_tokens": 18070,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/28/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/28/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/28/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-11-28T21:00:17Z",
+      "trailText": "Ronni Ancona | Prisoner 951 | This is Christmas",
+      "summary": "Guardian issues corrections: Ronni Ancona’s education amended to Central Saint Martins and UCL; Big Impression ran until 2004, not 2003. Nazanin Zaghari-Ratcliffe did not produce BBC’s Prisoner 951. Chris Foggin’s This Is Christmas premiered in 2022, not last year. Other rectified pieces include a boudoir photography feature and a guide to Christmas swim gifts. Readers can send corrections or complaints to guardian.readers@theguardian.com, write to the Readers’ editor at Kings Place, York Way, London N1 9GU, or leave a voicemail on +44 20 3353 4736.",
+      "summaryTokens": 1071,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
+    },
+    {
+      "id": "news/2025/nov/28/hong-kong-apartment-fire-response-rescue-operations-death-toll",
+      "title": "Rescue efforts end at Hong Kong tower block fire as death toll reaches 128",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/28/hong-kong-apartment-fire-response-rescue-operations-death-toll",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/28/hong-kong-apartment-fire-response-rescue-operations-death-toll",
+      "section": "news",
+      "publishedDate": "2025-11-28T14:25:28Z",
+      "trailText": "About 200 people are still unaccounted for, say officials, as fire chief confirms no alarms went off in any of the eight towers",
+      "summary": "The death toll from the Wang Fuk Court blaze in Tai Po has reached 128, with about 200 still missing, as rescue operations conclude. Firefighters recovered 108 bodies (16 inside buildings) and four more died in hospital; 79 people, including 11 firefighters, were injured. No alarms sounded in any of the eight towers; investigators blame flammable polystyrene foam on scaffold-wrapped façades. Eight construction-related suspects have been arrested by the ICAC, and authorities estimate evidence gathering will take three to four weeks. Survivors and families—many domestic helpers—await answers as calls grow for mandatory fire-safety regulations.",
+      "summaryTokens": 623,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
+    },
+    {
+      "id": "news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
+      "title": "How the Hong Kong fire unfolded – visual guide",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
+      "section": "news",
+      "publishedDate": "2025-11-28T12:46:55Z",
+      "trailText": "Fire in densely packed group of 31-storey tower blocks home to thousands quickly spread on bamboo scaffolding",
+      "summary": "On 27 November at 14:52, a fire broke out on bamboo scaffolding of Wang Cheong House in Wang Fuk Court, Tai Po, Hong Kong, swiftly spreading via construction netting and polystyrene foam to seven of eight 31-storey towers. It killed over 100 people, left about 200 missing, and injured dozens, including 11 firefighters. Some 200 fire trucks and 100 ambulances responded but couldn’t reach upper floors as temperatures topped 200C. No fire alarms sounded. Officials blame a “grossly negligent” contractor, declared rescue over, plan a HK$300m relief fund, and face a probe amid calls to phase out bamboo scaffolds.",
+      "summaryTokens": 1345,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
+    },
+    {
+      "id": "news/2025/nov/28/hong-kong-community-groups-deliver-aid-to-survivors-of-wang-fuk-court-fire",
+      "title": "Hong Kong community groups deliver aid to survivors of Wang Fuk Court fire",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/28/hong-kong-community-groups-deliver-aid-to-survivors-of-wang-fuk-court-fire",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/28/hong-kong-community-groups-deliver-aid-to-survivors-of-wang-fuk-court-fire",
+      "section": "news",
+      "publishedDate": "2025-11-28T12:13:02Z",
+      "trailText": "Volunteers that emerged during the pro-democracy protests regroup to help those affected by the blaze",
+      "summary": "After the Wang Fuk Court fire in Tai Po killed at least 128 and left hundreds missing, Hong Kong grassroots community groups—many formed during the 2014/2019 pro-democracy protests—mobilised: restaurants, churches and gyms became shelters; crowd-sourced web apps track residents’ safety and supply stations; Telegram channels coordinate drivers, helpers and donations; crowdfunding (including HKD300m gov’t fund) and legal support platforms emerged. Meanwhile, safety lapses over bamboo scaffolding, flammable Styrofoam and dormant alarms are under scrutiny; three contractors face manslaughter charges.",
+      "summaryTokens": 831,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
+    },
     {
       "id": "news/2025/nov/27/hong-kong-fire-tai-po-police-blame-construction-company",
       "title": "Hong Kong police say unsafe scaffolding and foam may have spread fire that killed at least 94",
@@ -29,9 +77,9 @@
       "section": "news",
       "publishedDate": "2025-11-27T22:55:51Z",
       "trailText": "Three construction employees arrested as firefighters battle to reach trapped people, with many still missing",
-      "summary": "Hong Kong police allege unsafe bamboo scaffolding and non-fire-retardant foam used in maintenance of the 8-block, 31-storey Wang Fuk Court housing estate in Tai Po fueled a blaze that has killed 94, injured 76 and left about 279 unaccounted for. Firefighters battled intense heat and smoke; three men linked to Prestige Construction have been arrested on suspicion of gross negligence and documents seized. Authorities warned of ordinance breaches and may prosecute. The inferno, likened to London’s Grenfell, exposed renovation lapses, spurred shelters for 900+ displaced, election delays and an all-out firefight urged by Xi Jinping.",
-      "summaryTokens": 1013,
-      "generatedAt": "2025-11-28T03:34:44.393Z"
+      "summary": "Hong Kong police say unsafe bamboo scaffolding and non–fire-retardant foam used during renovation of the Wang Fuk Court housing estate in Tai Po likely fueled a blaze that killed at least 94, injured 76 (including 11 firefighters) and left scores missing. Firefighters still struggle to reach upper floors across four towers; one building remained untouched. Authorities arrested two directors and an engineering consultant of contractor Prestige Construction amid allegations of gross negligence and are probing breaches of fire-safety ordinances. Chief Executive John Lee reported 279 unaccounted for. Comparisons drawn to 2017 Grenfell Tower disaster.",
+      "summaryTokens": 878,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
     },
     {
       "id": "news/2025/nov/27/corrections-and-clarifications",
@@ -41,9 +89,9 @@
       "section": "news",
       "publishedDate": "2025-11-27T21:00:45Z",
       "trailText": "Jury trials proposal",
-      "summary": "The Guardian clarifies that its earlier report on scrapping jury trials for all but the most serious offences in England and Wales failed to note criminal justice is devolved in Scotland and Northern Ireland; the crown court backlog stands at 78,000 cases. It also lists recent amendments to features on Tom Heaton’s Manchester United return, Europe’s wartime logistics plan, dismissed cases against James and Comey, a Pentagon probe into a US senator, and Turning Point USA’s 2028 strategy. Readers may send editorial corrections to guardian.readers@theguardian.com or write to the Readers’ Editor.",
-      "summaryTokens": 925,
-      "generatedAt": "2025-11-28T03:34:44.393Z"
+      "summary": "The Guardian clarifies that its 26 November report on scrapping jury trials for all but the most serious offences—citing a crown court backlog of 78,000—applies solely to England and Wales, as criminal justice is devolved in Scotland and Northern Ireland. It also notes recent corrections to features on Tom Heaton at Manchester United, European military mobility, legal actions involving James Comey and a US senator, and Turning Point USA’s 2028 strategy. Readers can send complaints or requests to guardian.readers@theguardian.com, mail to Readers’ editor at Kings Place, 90 York Way, London N1 9GU, or leave voicemail at +44 (0)20 3353 4736.",
+      "summaryTokens": 957,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
     },
     {
       "id": "news/2025/nov/27/hong-kong-fire-tai-po-what-we-know-so-far",
@@ -53,9 +101,9 @@
       "section": "news",
       "publishedDate": "2025-11-27T16:31:20Z",
       "trailText": "Dozens are confirmed dead, with hundreds more missing, after fire broke out and spread quickly via bamboo scaffolding",
-      "summary": "At least 94 dead, 76 injured (including 11 firefighters) and about 250 missing after a massive blaze devoured seven of eight 32-storey towers at Tai Po’s Wang Fuk Court on Wednesday. Bamboo scaffolding and exterior cladding under renovation may have fuelled the rapid spread across the 2,000-flat complex housing 4,800 residents. Three construction executives—two directors and an engineering consultant—have been arrested on suspicion of gross negligence manslaughter. A 26-team rescue operation with 128 engines and 800 firefighters continues, evacuating 900+. A special taskforce probes the cause. Xi Jinping expressed condolences.",
-      "summaryTokens": 1859,
-      "generatedAt": "2025-11-28T03:34:44.393Z"
+      "summary": "At least 94 people, including one firefighter, have died and 76 are injured after a blaze tore through the bamboo-scaffolded Wang Fuk Court in Tai Po’s eight 32-storey towers on 27 Nov. Around 250 remain missing and more than 900 have been evacuated to shelters. Hong Kong’s chief executive John Lee says fires are under control in seven towers. Three construction executives were arrested for alleged gross negligence; police, backed by 26 rescue teams, are probing the roles of bamboo scaffolding and exterior cladding. Xi Jinping offered condolences.",
+      "summaryTokens": 806,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
     },
     {
       "id": "news/2025/nov/27/hong-kong-apartment-complex-fire-reaction",
@@ -65,21 +113,9 @@
       "section": "news",
       "publishedDate": "2025-11-27T13:28:08Z",
       "trailText": "As apartment complex still blazes more than 24 hours after fire began, police suspect cause is owing to ‘grossly negligent’ action",
-      "summary": "Over 24 hours after a fire broke out in a bamboo-scaffolded, eight-tower block at Wang Fuk Court in Tai Po, the blaze still raged across seven of its 31-storey residential towers. At least 65 people—residents and a firefighter—have died, dozens were injured, over 250 are missing and 55 rescued. Acrid smoke recalled the 2019 protests as winter winds fanned the flames beyond reach. Police suspect “grossly negligent” construction work—foam materials, faulty scaffolding and disabled alarms—and have arrested three workers. Volunteers are aiding displaced families, while the ICAC launches a taskforce amid community anger over lax safety standards.",
-      "summaryTokens": 954,
-      "generatedAt": "2025-11-28T03:34:44.393Z"
-    },
-    {
-      "id": "news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
-      "title": "How the Hong Kong fire unfolded – visual guide",
-      "webUrl": "https://www.theguardian.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
-      "apiUrl": "https://content.guardianapis.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
-      "section": "news",
-      "publishedDate": "2025-11-27T13:27:14Z",
-      "trailText": "Fire in densely packed group of 31-storey tower blocks that is home to thousands quickly spread via bamboo scaffolding",
-      "summary": "At the Wang Fuk Court complex in Tai Po, a fire broke out on Nov 27 at 14:52 local time on bamboo scaffolding around Wang Cheong House. It spread rapidly to seven of eight 31-storey towers covering 2,000 apartments housing ~4,800 residents. Scores have died, hundreds are missing or critical. Firefighters—200 trucks, 100 ambulances—struggled under extreme heat and falling debris; a firefighter died. Many residents missed alarms. Hong Kong is phasing out bamboo scaffolds after safety concerns. Police probe a 'grossly negligent' contractor for non-compliant materials. Over 900 displaced people sheltered in temporary centers. Gov’t set up HK$300m relief fund.",
-      "summaryTokens": 2705,
-      "generatedAt": "2025-11-28T03:34:44.393Z"
+      "summary": "More than 24 hours after a fire broke out at Wang Fuk Court, an eight-tower residential complex in Tai Po, Hong Kong, flames still raged in seven of the 31-storey blocks, sending acrid smoke across the district. Investigators suspect gross negligence—unsafe bamboo scaffolding and foam insulation used in long-delayed renovations—contributed to the blaze’s rapid spread. At least 65 people, including a firefighter, have died; dozens are injured, roughly 55 rescued and over 250 missing. Neighbours and volunteers have rallied at shelters, providing essentials and emotional support. Three construction workers were arrested, and the ICAC has launched a taskforce amid public anger over lax safety standards.",
+      "summaryTokens": 1019,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
     },
     {
       "id": "news/2025/nov/27/nhs-doctor-suspended-alleged-antisemitic-social-media-posts",
@@ -89,9 +125,9 @@
       "section": "news",
       "publishedDate": "2025-11-27T10:05:51Z",
       "trailText": "Rahmeh Aladwan barred from practising for 15 months pending inquiry amid claims she ‘celebrated terrorist acts’",
-      "summary": "Dr Rahmeh Aladwan, a 31-year-old British Palestinian NHS orthopaedic trainee, has been suspended for 15 months pending an MPTS inquiry into alleged antisemitic social media posts. The GMC cites comments justifying terrorism, Holocaust denial, antisemitic conspiracy theories, support for proscribed groups like Hamas, Nazi imagery and doxxing of colleagues. Her lawyer argues the posts were legitimate political speech with no patient safety risk. The tribunal, citing patient confidence and new evidence of extreme, offensive content, imposed the interim ban. Health Sec. Wes Streeting calls for reform of medical regulators’ handling of antisemitism.",
-      "summaryTokens": 1079,
-      "generatedAt": "2025-11-28T03:34:44.393Z"
+      "summary": "Dr Rahmeh Aladwan, a British-Palestinian trauma and orthopaedics trainee, has been suspended for 15 months by the MPTS pending a GMC inquiry. She faces allegations of antisemitic social media posts justifying terrorism, misusing Holocaust and Nazi imagery, promoting conspiracy theories and expressing support for proscribed groups including Hamas. Complaints from the Jewish Medical Association UK and others cite posts calling Royal Free hospital a “Jewish supremacy cesspit” and doxing colleagues. The tribunal cited risks to patient confidence; a review is due in six months. Aladwan denies hate speech, claiming legitimate political debate, while the health secretary calls for regulator reform.",
+      "summaryTokens": 824,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
     },
     {
       "id": "news/2025/nov/27/weatherwatch-can-you-really-hear-the-wind",
@@ -101,9 +137,9 @@
       "section": "news",
       "publishedDate": "2025-11-27T06:00:19Z",
       "trailText": "Some would argue airflow is silent, and that only the objects in its way give rise to vortex shedding or sough",
-      "summary": "Wind’s sound arises not from silent airflow but from turbulence—psithurism—when laminar air interacts with tree branches, leaves and needles, producing broadband white noise. Finer obstructions like pine needles yield higher-pitched sough. Indoors, wind howling reflects Aeolian tones generated by airflow over edges, gaps or taut wires, which vibrate at resonant frequencies as in Aeolian harp strings via vortex shedding. Even ear structure distorts flow, so what we perceive as wind noise is actually object-induced sound.",
-      "summaryTokens": 470,
-      "generatedAt": "2025-11-28T03:34:44.393Z"
+      "summary": "Wind's 'sound' arises not from silent airflow itself but from turbulence—vortex shedding—around objects: branches and leaves produce psithurism or sough (white-noise-like mix of frequencies), pine needles a higher-pitched hiss, building edges Aeolian tones (howls akin to blowing over a bottle). Resonance can set wires humming like Aeolian harp strings, and even our ear structure distorts external airflow into the sounds we attribute to wind. In essence, wind is silent; all we hear is its interaction with objects.",
+      "summaryTokens": 919,
+      "generatedAt": "2025-11-29T03:35:09.682Z"
     },
     {
       "id": "news/2025/nov/26/corrections-and-clarifications",
