@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-29T03:38:13.635Z",
+    "generated_at": "2025-11-30T03:37:23.204Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-28"
+      "to": "2025-11-29"
     },
-    "article_count": 122,
+    "article_count": 123,
     "merge_info": {
-      "previous_count": 120,
-      "new_articles": 2,
+      "previous_count": 122,
+      "new_articles": 1,
       "updated_articles": 2,
-      "total_count": 122
+      "total_count": 123
     },
     "batch_info": {
-      "initial_batch_id": "batch_692a6a6334f48190ae4b310aa41dde59",
+      "initial_batch_id": "batch_692bbb9b10e8819081603cb04b1f8aa9",
       "retry_batches": [],
-      "total_tokens": 9930,
+      "total_tokens": 5834,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/29/fungi-scientists-innovations",
+      "title": "‘Nature’s original engineers’: scientists explore the amazing potential of fungi",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/29/fungi-scientists-innovations",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/29/fungi-scientists-innovations",
+      "section": "science",
+      "publishedDate": "2025-11-29T14:00:38Z",
+      "trailText": "Unique properties of fungi have led to groundbreaking innovations in recent years, from nappies to electronics",
+      "summary": "Scientists and startups are harnessing fungi’s diverse capabilities—from Hiro’s diaper sachet that embeds freeze-dried fungi to compost plastics in under a year, to mycelium-based packaging, leather, insulation and potential living electronics—rewarded by the Future is Fungi Awards. Mycelium grows on agricultural waste into strong materials and secretes enzymes that break down wood, petroleum-like compounds and some plastics. Firms like Michroma and Mycolever use fungal fermentation to produce natural dyes and emulsifiers. Emerging uses include fire-retardant foams and bio-sensing circuits. Though effective on certain polymers, fungi must complement broader sustainable tech solutions.",
+      "summaryTokens": 1129,
+      "generatedAt": "2025-11-30T03:37:23.052Z"
+    },
     {
       "id": "theguardian/2025/nov/28/david-young-obituary",
       "title": "David Young obituary",
@@ -29,9 +41,9 @@
       "section": "science",
       "publishedDate": "2025-11-28T17:04:39Z",
       "trailText": "Other lives: English lecturer and linguist who wrote widely consulted textbooks on grammar and language structure",
-      "summary": "David Young, 94, English lecturer and linguist, authored seminal textbooks Introducing English Grammar and The Structure of English Clauses in the 1980s, still in print at more than 1,000 libraries worldwide. A proponent of systemic functional linguistics, he taught at UWIST Cardiff from the mid-1960s until his early retirement in 1988. Active in Usk’s Labour party and cultural societies, he championed Welsh heritage, watercolour painting, harpsichord and Scrabble. Born in Birmingham, educated at Sibford Quaker school, Birmingham University and Oxford, he maintained lifelong Swedish ties at Uppsala. Unmarried and childless, he is survived by nephew Christopher, great-nieces Emma and Rachel, and other relatives.",
-      "summaryTokens": 708,
-      "generatedAt": "2025-11-29T03:38:13.217Z"
+      "summary": "David Young, who died aged 94, was an English lecturer and linguist renowned for his textbooks Introducing English Grammar and The Structure of English Clauses, seminal works based on systemic functional linguistics that remain widely used. A long‐time lecturer at UWIST (later Cardiff University), he retired early to Usk, Monmouthshire, where he was active in the Labour party and cultural societies. Born in Birmingham, schooled at Sibford Quaker school, he earned degrees at Birmingham and Oxford and taught in Uppsala. A passionate painter, rambler and harpsichordist, he mentored many and is survived by nephews and nieces.",
+      "summaryTokens": 1065,
+      "generatedAt": "2025-11-30T03:37:23.052Z"
     },
     {
       "id": "science/2025/nov/28/john-garthwaite-obituary",
@@ -41,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-28T15:40:50Z",
       "trailText": "Other lives : Neuroscientist whose research work uncovered ways in which brain cells communicate",
-      "summary": "Born in Scarborough, North Yorkshire, neuroscientist John Garthwaite (1948–2025) revolutionized brain signaling by demonstrating in the 1980s that nitric oxide, produced via NMDA receptor activation, serves as a diffusible messenger—volume transmission—impacting neural networks and blood vessels. Educated at Surrey (BMedBiochem) and London (PhD 1977), he held posts at the MRC, Liverpool University (professor), Wellcome Labs (head of neuroscience 1992) and UCL (founder of Wolfson Institute) until 2014 retirement, then emeritus. A dedicated mentor and environmental advocate, he leaves wife Giti Yamini and daughter Nina.",
-      "summaryTokens": 1338,
-      "generatedAt": "2025-11-29T03:38:13.217Z"
+      "summary": "John Garthwaite (1948–2025), renowned neuroscientist, revolutionized understanding of neural communication by demonstrating in the 1980s that nitric oxide gas acts as a volume transmitter beyond synapses. His award-winning discovery linking NMDA receptor activation to nitric oxide synthesis paved the way for therapies targeting vascular and neuronal networks. Educated at Surrey and London School of Pharmacy, he held key roles at Liverpool University, Wellcome Research Laboratories and UCL’s Wolfson Institute. A dedicated mentor, environmental advocate and outdoorsman, he retired as emeritus professor in 2014. He is survived by his wife, Giti, and daughter, Nina.",
+      "summaryTokens": 428,
+      "generatedAt": "2025-11-30T03:37:23.052Z"
     },
     {
       "id": "science/2025/nov/27/novel-scientific-method-proves-pit-circle-near-stonehenge-was-man-made-say-researchers",
