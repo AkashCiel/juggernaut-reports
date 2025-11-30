@@ -1,26 +1,134 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-11-29T03:44:52.471Z",
+    "generated_at": "2025-11-30T03:57:21.768Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-29"
+      "to": "2025-11-30"
     },
-    "article_count": 1469,
+    "article_count": 1479,
     "merge_info": {
-      "previous_count": 1454,
-      "new_articles": 15,
+      "previous_count": 1469,
+      "new_articles": 10,
       "updated_articles": 18,
-      "total_count": 1469
+      "total_count": 1479
     },
     "batch_info": {
-      "initial_batch_id": "batch_692a6b30b95081909ce6bc87860568d2",
+      "initial_batch_id": "batch_692bbcf010bc8190af5e462cd462f385",
       "retry_batches": [],
-      "total_tokens": 78035,
-      "processing_time_hours": 0.1
+      "total_tokens": 66497,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/nov/30/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: Venezuela suspends all deportation flights after Trump airspace closure warning ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/30/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/30/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2025-11-30T01:53:08Z",
+      "trailText": "Venezuela responds defiantly to Trump comments about closing airspace above country, saying it doesn’t accept foreign orders or threats",
+      "summary": "Donald Trump’s Saturday Truth Social post ordering closure of Venezuelan airspace prompted Caracas to denounce it as a “colonialist threat,” suspend all migrant deportation flights and reject foreign orders. Meanwhile, the White House launched a “Misleading. Biased. Exposed.” media watch webpage targeting outlets it deems unfair, and Defense Secretary Pete Hegseth denied “fake news” claims he authorized a narco‐boat strike. At the FDA, new leadership proposed stringent vaccine approval protocols after linking Covid shots to child deaths, spurring expert concern. Elsewhere, Northwestern agreed to a $75m federal settlement, and Epstein document releases loom.",
+      "summaryTokens": 1335,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/29/white-house-media-website-trump",
+      "title": "White House launches website to excoriate media for ‘biased’ stories",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/29/white-house-media-website-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/29/white-house-media-website-trump",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T18:50:54Z",
+      "trailText": "Trump administration lists reporting it objects to in latest escalation of attacks on US journalism",
+      "summary": "The White House has launched on its official website a “Misleading. Biased. Exposed.” feature that catalogs and publicly criticizes news outlets and reporters it deems “media offenders.” It names weekly offenders—Boston Globe, CBS News and the Independent—and runs an “Offender Hall of Shame” led by the Washington Post, CNN, MSNBC and CBS with ranked listings, a searchable article database and labels like “bias,” “malpractice” or “left wing lunacy.” This marks President Trump’s latest escalation in his long-running attacks on the press.",
+      "summaryTokens": 409,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/29/pete-hegseth-denies-ordering-deaths-narco-boat",
+      "title": "Pete Hegseth denies he gave orders to ‘kill everybody’ on alleged ‘narco-boat’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/29/pete-hegseth-denies-ordering-deaths-narco-boat",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/29/pete-hegseth-denies-ordering-deaths-narco-boat",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T17:27:08Z",
+      "trailText": "Defense secretary called reports about his role in strike as ‘fake news’ intended to discredit US military",
+      "summary": "Defense Secretary Pete Hegseth has rejected Washington Post claims that he ordered SEAL Team 6 to “kill everybody” aboard suspected drug-running boats in the Caribbean, calling the reports “fake news” and insisting all strikes—over 22 operations killing more than 80 people—were lawful under US and international law. Two senators announced an armed services committee probe. Experts, foreign governments and internal Pentagon lawyers have raised legal and human-rights concerns over the Trump administration’s designation of all boat passengers as narco-terrorists.",
+      "summaryTokens": 347,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "society/2025/nov/29/regulator-fda-stricter-protocols-vaccine-approvals",
+      "title": "Experts say strict new FDA protocol for vaccine approval is ‘dangerous and irresponsible’",
+      "webUrl": "https://www.theguardian.com/society/2025/nov/29/regulator-fda-stricter-protocols-vaccine-approvals",
+      "apiUrl": "https://content.guardianapis.com/society/2025/nov/29/regulator-fda-stricter-protocols-vaccine-approvals",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T17:04:27Z",
+      "trailText": "Lead FDA vaccine regulator announced new approval process after claiming Covid vaccine had killed 10 children",
+      "summary": "FDA's lead vaccine regulator Dr Vinay Prasad, backed by Health Secretary Robert F. Kennedy Jr., issued an internal memo claiming at least 10 children died from Covid vaccines due to myocarditis. He proposes re-examining annual flu shots, limiting simultaneous vaccinations, tightening approvals for pregnant women, and demanding more robust safety/efficacy data. The memo, lacking case details and peer review, drew criticism from experts like Paul Offit and Peter Marks as 'dangerous' and politically driven. Public health specialists warn it could delay vaccine pipelines, curb innovation, and disrupt CDC immunization schedules. The plan echoes anti-vaccine themes, prompting calls for transparent, peer-reviewed evidence.",
+      "summaryTokens": 1851,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/29/trinity-church-feeds-new-york-hungry",
+      "title": "Bread, diapers and hope: how Trinity church feeds New York’s hungry",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/29/trinity-church-feeds-new-york-hungry",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/29/trinity-church-feeds-new-york-hungry",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T14:00:38Z",
+      "trailText": "US families queue for groceries, hot meals and baby supplies as demand at Trinity’s Compassion Market soars",
+      "summary": "On chilly mornings in Lower Manhattan, Trinity Church’s Compassion Market draws over 1,000 weekly visitors—families facing SNAP cuts, inflation and tariffs—lining up outside its Gothic Revival walls opposite Wall Street. Since the government shutdown began, demand has surged sharply, pushing volunteers to serve 550+ daily hot meals and distribute 5 million meals in 2025 alone. Offerings include client-choice groceries, non-cook bags, winter clothing and “baby bundles” with diapers and formula, alongside $400,000 in rapid grants to hunger charities. Trinity’s mix of direct service and philanthropy has spent $3.3 million this year to meet soaring need across NYC’s five boroughs.",
+      "summaryTokens": 634,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/29/epstein-files-release-consequences",
+      "title": "As Epstein files release looms, questions abound on what happens next: ‘Possibilities are endless’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/29/epstein-files-release-consequences",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/29/epstein-files-release-consequences",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T14:00:33Z",
+      "trailText": "People implicated in the late sex offender’s crimes could face criminal charges or, at the least, social ostracism",
+      "summary": "Congress has ordered the DOJ to disclose Jeffrey Epstein’s case files by December 19, fueling expectations that previously hidden names of powerful associates will surface. Lawyers and advocates warn that expanded child-abuse statutes and the absence of federal limits could prompt new criminal investigations, while survivors anticipate social ostracism for those implicated. Calls grow for an independent, 9/11-style commission to probe institutional failures. Observers, however, fear the Trump administration may redact or withhold records by invoking national-security or partisan investigations into figures like Clinton and Hoffman.",
+      "summaryTokens": 470,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/29/2020-election-deniers-trump",
+      "title": "They tried to overturn the 2020 US election. Now, they hold power in Trump’s Washington",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/29/2020-election-deniers-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/29/2020-election-deniers-trump",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T12:00:36Z",
+      "trailText": "Those who tried to overturn the 2020 election now occupy key federal roles, shaping rules and sowing doubt for 2026",
+      "summary": "A cadre of 2020 election deniers now occupy senior federal roles in Trump’s administration—Harmeet Dhillon leads DOJ’s Civil Rights Division, Heather Honey oversees DHS election integrity, and Kurt Olsen probes the 2020 vote—using their power to demand sweeping state voter data, expand controversial citizenship-verification for registration, purge rolls, and impose restrictive rules. They’ve dismantled CISA’s election security and disbanded disinformation units, eroding federal-state trust. Experts warn this “death by 1,000 cuts” strategy and talk of emergency powers aim to delegitimize and interfere in 2026 outcomes, from pressuring local officials to challenge certifications to potentially seizing control of elections.",
+      "summaryTokens": 1334,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/29/trumps-hate-filled-rant-ignores-facts-on-immigrant-and-economic-benefits",
+      "title": "Trump’s hate-filled rant ignores facts on immigrant crime and economic benefits",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/29/trumps-hate-filled-rant-ignores-facts-on-immigrant-and-economic-benefits",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/29/trumps-hate-filled-rant-ignores-facts-on-immigrant-and-economic-benefits",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T10:00:35Z",
+      "trailText": "In the wake of the deadly Washington DC shooting, Trump claimed immigrants are ‘destroying everything America stands for’. Here’s what the data shows",
+      "summary": "After a DC shooting by Afghan evacuee, Trump blamed immigrants for crime and economic strain, vowing to block ‘third world’ migration. He falsely claimed most of 53m immigrants are welfare-dependent criminals; data show they are 60% less likely to be incarcerated, and as immigrant share rose from 6.2% (1980) to 13.9% (2022), crime fell 60%. In 2023 undocumented households paid $89.8bn in taxes and held $299bn in spending power; immigrants contributed $167bn in rent and $6.6tn in housing wealth. His attack on Somali refugees in Minnesota and claims on benefits are contradicted by multiple studies.",
+      "summaryTokens": 1155,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/29/vance-desantis-republican-2028-presidential-contenders",
+      "title": "JD Vance, Trump Jr, DeSantis? Possible Republican contenders for 2028 run",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/29/vance-desantis-republican-2028-presidential-contenders",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/29/vance-desantis-republican-2028-presidential-contenders",
+      "section": "us-news",
+      "publishedDate": "2025-11-29T10:00:33Z",
+      "trailText": "Next nominee faces enormous task of leading a party that has been entirely reoriented around Trump",
+      "summary": "With Donald Trump likely sidelined by term limits in 2028, the GOP faces a post-Trump succession. VP JD Vance, 41, is the early MAGA-aligned frontrunner preaching economic populism and cultural conservatism. Secretary of State Marco Rubio, 54, has become a trusted foreign-policy hawk. Donald Trump Jr, 47, remains a high-profile base favorite despite no formal experience. Senator Ted Cruz appeals to libertarian and evangelical wings, while ex-Florida governor Ron DeSantis—recovering from a 2024 defeat—positions himself as a policy-driven alternative. Other names to watch include Greene, Noem, Kennedy Jr, Sanders, Youngkin, Kemp, Scott, Haley and Cox.",
+      "summaryTokens": 588,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
     {
       "id": "us-news/2025/nov/29/what-is-an-autopen-and-why-cant-trump-stop-talking-about-it",
       "title": "What is an autopen and why can’t Trump stop talking about it?",
@@ -29,9 +137,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-29T01:35:52Z",
       "trailText": "The first autopen was patented in the 1800s and has been used by many American presidents",
-      "summary": "An autopen, patented in 1803, is a mechanical device that reproduces a person’s signature in real ink. US presidents from Jefferson through Biden—including JFK, Johnson, Obama and Trump—have used it under DOJ guidance affirming its legal validity. Trump has seized on Biden’s autopen-signed executive orders and pardons—alleging without evidence that aides hijacked the presidency—a narrative fueled by the Heritage Foundation’s Oversight Project and amplified by photo stunts. Legal experts note orders can be rescinded but pardons cannot. Trump vows to void autopen-signed acts if reelected.",
-      "summaryTokens": 876,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "“Autopen” is a device patented in 1803 to replicate signatures. US presidents from Jefferson onward have used autopens for bulk signing. DOJ guidance (2005) states autopen-signed bills are lawful. Obama, Trump and Biden have used it. Trump alleges Biden’s autopen use invalidates 92% of his executive orders, citing an unsubstantiated GOP oversight report. Democrats call it a “sham.” Biden defends autopen for clemency warrants. This line of attack is backed by the Trump-aligned Heritage Foundation Oversight Project. Trump exploits autopen rhetoric to question Biden’s competence and threatens to void documents, though presidents can reverse executive orders but not pardons.",
+      "summaryTokens": 1471,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
     },
     {
       "id": "us-news/2025/nov/29/trump-administration-news-updates-today",
@@ -41,9 +149,21 @@
       "section": "us-news",
       "publishedDate": "2025-11-29T01:21:58Z",
       "trailText": "Trump claims without evidence Biden did not sign off on orders himself in latest attack on predecessor – key US politics stories from Friday at a glance",
-      "summary": "Donald Trump vowed to rescind most of Joe Biden’s executive orders, baselessly alleging an autopen was used to forge Biden’s signature. He announced a pause on migration from third-world countries, ending federal benefits to noncitizens and targeting non-“net assets.” Leaked Heritage Foundation files reveal Project 2025 applicants citing Nazi and far-right theorists. A DOE order to keep a Michigan coal plant online has cost taxpayers $113 million. Separately, a college freshman was wrongly deported to Honduras and US economic anxiety remains high.",
-      "summaryTokens": 924,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "Donald Trump vowed to rescind most of Joe Biden’s executive orders, accusing—without evidence—that the president used an autopen signature machine rather than signing personally, despite longstanding White House practice. He also promised a “permanent pause” on migration from “third world countries,” ending federal benefits for noncitizens after two National Guard members were shot in DC. Meanwhile, hacked Heritage Foundation files reveal far-right and Nazi influences among Project 2025 applicants. His order to keep a Michigan coal plant open has already cost taxpayers $113 million. Other stories: a college freshman deported in error and rising economic anxiety amid Trump’s deflection on inflation.",
+      "summaryTokens": 1006,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
+    },
+    {
+      "id": "us-news/2025/nov/28/trump-pardon-honduras-hernandez-drugs",
+      "title": "Trump to pardon ex-Honduras leader serving drug trafficking sentence in US ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/nov/28/trump-pardon-honduras-hernandez-drugs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/28/trump-pardon-honduras-hernandez-drugs",
+      "section": "us-news",
+      "publishedDate": "2025-11-28T23:32:19Z",
+      "trailText": "Hernández was convicted in 2024 of accepting millions in bribes to protect cocaine shipments",
+      "summary": "Donald Trump announced on Truth Social he will grant a full pardon to former Honduran president Juan Orlando Hernández, serving a 45-year US sentence after his 2024 conviction for accepting millions in bribes to protect cocaine shipments. Trump called the verdict unfair despite his own administration’s hard-line drug policies, including designating cartels as terrorist organizations and authorizing lethal airstrikes. The pardon announcement accompanied his endorsement of Tito Asfura in Sunday’s tight Honduran election, which the OAS and Washington are closely monitoring amid concerns of disputed results.",
+      "summaryTokens": 475,
+      "generatedAt": "2025-11-30T03:57:21.512Z"
     },
     {
       "id": "us-news/2025/nov/28/washington-dc-national-guard-trump",
@@ -53,9 +173,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T20:52:48Z",
       "trailText": "Move marks shift in how the guard are used in the US capital, days after two members were shot",
-      "summary": "Washington, DC plans to pair nearly 2,000 National Guard troops with Metropolitan Police Department officers for high-visibility joint patrols following the shooting deaths of Specialist Sarah Beckstrom and the wounding of Specialist Andrew Wolfe. An internal email obtained by the Washington Post describes a “fluid” plan that would reverse August’s deployment model, which credited Guard presence with reducing violent crime by freeing police resources. Suspect Rahmanullah Lakanwal faces first-degree murder charges, and West Virginia Governor Patrick Morrisey ordered flags at half-staff and a moment of silence in Beckstrom’s honor.",
-      "summaryTokens": 606,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "Washington DC will pair 2,000 National Guard troops, deployed under Trump’s “Safe and Beautiful Task Force,” with local police for high-visibility joint patrols after two Guard members were shot, an internal email obtained by the Washington Post shows. Pending final approval, the shift—contrasting the Guard’s crime-reduction focus since August—remains “fluid,” per officials. Defense Secretary Pete Hegseth announced 500 additional Guardsmen. Suspect Rahmanullah Lakanwal faces first-degree murder charges after 20-year-old Specialist Sarah Beckstrom’s death; wounded colleague Andrew Wolfe is critical. West Virginia observed flags at half-staff and honored the fallen in a statewide moment of silence.",
+      "summaryTokens": 1463,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/trump-canceling-biden-executive-orders-autopen",
@@ -65,9 +185,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T20:27:17Z",
       "trailText": "Trump baselessly claims his predecessor didn’t sign off on directives himself due to use of autopen machine",
-      "summary": "Former President Donald Trump announced plans to revoke most of Joe Biden’s executive orders, asserting without evidence that Biden did not personally sign them but relied on an Autopen signature machine—making “approximately 92%” allegedly invalid—and threatening perjury charges. Trump has repeatedly claimed Biden was cognitively impaired late in office and that aides secretly used the Autopen to enact policies. GOP figures including Heritage Foundation’s Oversight Project and House Oversight Chair James Comer applauded the move. Legal scholars warn voiding Autopen-signed actions could set a harmful precedent, noting every president, including Trump, has used the device.",
-      "summaryTokens": 487,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "Trump announced plans to rescind most of Joe Biden’s executive orders, alleging without evidence that “radical left” aides used an autopen to forge about 92% of Biden’s signatures and invalidating them. He threatened perjury charges if Biden denied the scheme. Republicans, including the Oversight Project and committee chair James Comer, endorsed Trump’s move, while Democrats denounced it as a sham. A GOP report cited Biden’s cognitive decline but offered no proof of unauthorized autopen use. Legal experts warn nullifying past orders sets a dangerous precedent.",
+      "summaryTokens": 859,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/elaine-miles-actor-ice-detained-id-fake",
@@ -77,9 +197,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T19:17:48Z",
       "trailText": "Elaine Miles of Northern Exposure was stopped by four masked men in Seattle while walking to bus stop",
-      "summary": "Actor Elaine Miles (Northern Exposure) says she was stopped by four masked ICE officers in Redmond, WA, questioned her Confederated Tribes of the Umatilla ID’s authenticity and refused to call the tribal enrollment office for verification. After briefly detaining and attempting to seize her phone, they released her. Miles, whose family members faced similar profiling, highlighted ICE’s refusal to recognize tribal IDs—an issue echoing nationwide Trump-era immigration sweeps against Indigenous Americans. Attorney Gabriel Galanda decried systemic ignorance of tribal citizenship, as local authorities respond by disabling license-plate readers and tribes bolster legal protections.",
-      "summaryTokens": 1256,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "A Native American actor Elaine Miles was detained by four masked ICE officers in Seattle who claimed her Confederated Tribes of the Umatilla ID “looked fake” and refused to verify it despite her requests to call the tribal enrollment office. Previously targeted familial relatives and broader accounts highlight racial profiling of Indigenous peoples under current immigration enforcement, says attorney Gabriel Galanda. The incident, coinciding with ICE arrests at Redmond’s Bear Creek Village, prompted city council to disable license-plate readers. Miles, known from Northern Exposure and The Last of Us, says she now fears venturing out alone.",
+      "summaryTokens": 1124,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/project-2025-heritage-foundation-hack",
@@ -89,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T15:47:21Z",
       "trailText": "Applicants reportedly cited Nazi theorists and other extremists as inspiration for Trump administration roles",
-      "summary": "Leaked 13,726 Project 2025 applications from a mid-2024 Heritage Foundation hack reveal far-right ideological influences among Trump administration hopefuls. Some applicants—now serving as GSA deputy general counsel Paul Ingrassia and State Department adviser Max Matheu—praised Nazi jurist Carl Schmitt’s friend/enemy theory, antisemitic networks, nativist slogans, white nationalist Jared Taylor and El Salvador’s authoritarian president Nayib Bukele. At least seven members of the secretive, men-only Old Glory Club applied, underscoring a GOP convergence with extremist, anti-democratic rhetoric amid an internal Heritage “civil war” over antisemitic far-right ties. Distributed Denial of Secrets sourced the data; SPLC analysts warn Project 2025’s “no enemies to the right” staffing strategy peddles authoritarian goals.",
-      "summaryTokens": 933,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "Hacked Heritage Foundation files obtained by DDOSecrets expose 13,726 applications to its Project 2025 Presidential Administration Academy, revealing far-right influences among candidates. Applicants cited Nazi jurist Carl Schmitt, antisemitic men-only Old Glory Club members, nativist conspiracies, white nationalist Jared Taylor, and El Salvador’s authoritarian president Nayib Bukele as inspirations. Several have secured Trump administration posts, including a GSA deputy counsel. Southern Poverty Law Center analysts warn this reflects Project 2025’s reactionary agenda and the Republican party’s fusion with extremist networks peddling authoritarian, anti-democratic rhetoric.",
+      "summaryTokens": 1008,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/chicago-faith-leaders-ice-crackdown",
@@ -101,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T15:00:11Z",
       "trailText": "Religious leaders’ ‘powerful prophetic and moral compass’ comes to fore amid ICE arrests, teargas and violence",
-      "summary": "Amid Trump’s aggressive ICE and Homeland Security raids in Chicago—800 arrests by Oct 1 and tactics like body-slamming and teargas—Black, Muslim, Indigenous and other clergy have spearheaded an interfaith coalition called Faith Over Fear. They organize Friday vigils at the Broadview processing center to pray for detainees, block deportation vans, deliver spiritual care and sue over First Amendment violations. Through sanctuary ministries, Know Your Rights training, rapid-response teams, food distribution and legal challenges, groups such as Live Free Illinois and the Inner-City Muslim Action Network frame immigration enforcement as a broader human-rights issue.",
-      "summaryTokens": 424,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "Since October, ICE and DHS have arrested 800 people in Chicago, deploying teargas and violence in residential raids. In response, Black, Muslim, Indigenous and other clergy, led by Rev. Ciera Bates-Chamberlain (Live Free Illinois), Rev. David Black (First Presbyterian) and Rami Nashashibi (Inner-City Muslim Action Network), have formed an interfaith coalition, Faith Over Fear, staging weekly Friday gatherings at the Broadview processing facility to pray, blockade vans, deliver rituals and offer sanctuary. They’ve filed a First Amendment lawsuit to access detainees for spiritual care, organized Know Your Rights trainings, food distribution and rapid responders, mobilizing congregations in moral resistance to the Trump administration’s militarized immigration policy.",
+      "summaryTokens": 1024,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/datablog/2025/nov/28/gen-z-sex-dating-relationships",
@@ -113,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T15:00:10Z",
       "trailText": "Shaped by lockdown and two Trump presidencies, gen Z are grappling with a lot in love, dating and the bedroom",
-      "summary": "Gen Z (13–28 yrs) leads in LGBTQ+ identity (24%) but is in a ‘sex recession,’ having partnered sex later and less often than millennials. Among 18–24 year olds, 1 in 4 report no partnered sex; it’s 1 in 3 for men versus 1 in 5 for women. Women under 30 are more often partnered and queer. A gendered political split (56% of men backed Trump, 58% of women backed Harris) hampers cross-party dating. Nearly 20% of women fear sex post-Roe, 44% of 18–24 LGBTQ+ daters hide their identity, 48% reject first-date sex, only 23% report one-night stands vs 78% of millennials, and many turn to AI for companionship.",
-      "summaryTokens": 612,
-      "generatedAt": "2025-11-29T03:44:51.984Z"
+      "summary": "Gen Z Americans (13–28) are the queerest cohort (24% LGBTQ+) yet experiencing a “sex recession,” with men particularly affected (33% vs 20% of women report no partnered sex). Gen Z women are more likely queer and partnered. A notable gendered political split (56% of men backed Trump vs 58% of women backed Harris) dampens cross-party dating. Following conservative policy shifts, 20% of women fear sex post-Roe reversal and 44% of LGBTQ+ 18–24 hide their identity. Most favor traditional monogamy; casual hookups and first-date sex decline, while AI companions and advice gain traction.",
+      "summaryTokens": 885,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/trump-michigan-power-plant",
@@ -125,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T13:00:08Z",
       "trailText": "Critics say JH Campbell coal-fired plant in western Michigan is expensive and emits high levels of toxic pollution",
-      "summary": "Trump’s May emergency order to keep the 63-year-old JH Campbell coal plant in western Michigan online has saddled MISO grid users with ~$113m in extra costs (~$615k/day) over six months despite ample regional supply. Consumers Energy, which had slated the plant for 2021 retirement to save ~$600m by 2040, did not request the extension. Earthjustice and MI AG Dana Nessel sue, calling the directive \"arbitrary and illegal,\" while MISO and state regulators say DOE ignored local data showing the plant rarely ran at full capacity. Critics warn high CO2, SO2 and particulate emissions plus toxic coal ash leaching endanger health.",
-      "summaryTokens": 2166,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "Since May the Trump administration has ordered Consumers Energy to keep the 63-year-old JH Campbell coal plant in western Michigan online, extending its life by 90 days and adding about $113 million in costs for ratepayers across the nine-state MISO grid. Critics, including Earthjustice and Michigan AG Dana Nessel, call the move expensive, polluting and illegal, noting the plant emits high levels of CO₂, SO₂ and particulates, leaks heavy metals into water, and wasn’t needed during peak demand this summer. Consumers Energy says the order guarantees cost recovery, while state data shows surplus capacity. Closure would save $600 million by 2040.",
+      "summaryTokens": 626,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/first-thing-trump-says-he-will-permanently-pause-migration-from-third-world-countries-after-national-guard-shooting",
@@ -137,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T12:30:10Z",
       "trailText": "President’s remarks followed the death of Sarah Beckstrom, one of the two guard members shot. Plus, Palestinian-American 16-year-old released after nine months in Israeli jail",
-      "summary": "Donald Trump pledged to “permanently pause” immigration from unspecified “third-world countries,” end federal benefits and subsidies for noncitizens and expel anyone deemed a net burden after National Guard member Sarah Beckstrom was killed and a colleague critically wounded in a DC shooting by an Afghan asylum seeker. Meanwhile, US banking regulators are investigating alleged facilitation of Jeffrey Epstein’s crimes, a Hong Kong tower blaze has killed at least 128 with 200 missing, and a 16-year-old Palestinian-American was freed after nine months in Israeli detention, alongside cultural and climate briefs.",
-      "summaryTokens": 887,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "In his social media post after the fatal shooting of guard member Sarah Beckstrom and wounding of Andrew Wolfe, President Trump vows to ‘permanently pause migration from all third-world countries’, end federal benefits to noncitizens, and expel ‘non-net-assets’, targeting suspects like Rahmanullah Lakanwal, the Afghan asylum-seeker charged. His plan faces legal hurdles. The newsletter also reports US regulators probing banks over Epstein ties, the Hong Kong tower block fire that killed 128, and the release of a Palestinian-American teen after nine months in Israeli detention.",
+      "summaryTokens": 816,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/national-guard-member-sarah-beckstrom-has-died-after-shooting-in-washington-dc-trump-announces",
@@ -149,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T12:10:50Z",
       "trailText": "One other member of the guards, Andrew Wolfe, is still ‘fighting for his life’, according to the president",
-      "summary": "President Trump revealed that 20-year-old National Guard soldier Sarah Beckstrom of West Virginia died after Wednesday’s targeted ambush near the White House; 24-year-old Staff Sgt Andrew Wolfe remains critical. Afghan national Rahmanullah Lakanwal, 29, who arrived in 2021 via a CIA-backed resettlement program, was shot at the scene and faces upgraded first-degree murder charges as prosecutors pursue the death penalty. The FBI treats it as terrorism; Trump blamed the Biden administration and ordered more guard deployments.",
-      "summaryTokens": 1202,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "President Trump announced that National Guard soldier Sarah Beckstrom, 20, from West Virginia, has died after a targeted shooting near the White House; Staff Sgt. Andrew Wolfe, 24, remains ‘fighting for his life.’ Prosecutors upgraded charges against Afghan national Rahmanullah Lakanwal, 29—admitted under a 2021 resettlement program after serving in CIA-backed anti-terror units—to first-degree murder and may seek the death penalty. The FBI is probing motives and treating the attack as terrorism, as Trump criticizes Biden’s vetting and vows to pause migration and deploy 500 additional troops to DC.",
+      "summaryTokens": 699,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/pras-fugees-campaign-finance-money-laundering",
@@ -161,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T11:00:04Z",
       "trailText": "Ex-member of the hip-hop group was convicted of money laundering and campaign finance violations after funneling money from a rich Malaysian",
-      "summary": "Ex-Fugees rapper Pras Michél was sentenced to 14 years for funneling over $21 million of stolen 1MDB funds from Malaysian financier Jho Low into U.S. political campaigns. After attending an Obama fundraiser in 2007, Michél set up shell companies and straw donors to channel illicit money to Obama’s 2012 re-election bid and the Black Men Vote PAC. He enlisted fundraisers Frank White Jr. and Elliott Broidy, later attempted to broker Chinese extradition deals for Low, and was convicted in 2023 on 10 counts of money laundering and campaign-finance violations, ordered to forfeit $65 million.",
-      "summaryTokens": 1014,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "Pras ‘Pras’ Michél, founding Fugees member known for minor 90s hip-hop success, was convicted on 10 counts of money laundering and campaign-finance violations for funneling over $21m in stolen 1MDB funds from Malaysian financier Jho Low into US political campaigns, notably Obama’s 2012 run and a pro-Obama super PAC. He set up shell companies, tampered with witnesses, and later attempted covert lobbying including extradition deals. He was sentenced to 14 years in federal prison.",
+      "summaryTokens": 1114,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/utah-valley-university-charlie-kirk",
@@ -173,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T11:00:03Z",
       "trailText": "Many knew little about the polarizing figure before Utah Valley University was thrust into the national spotlight",
-      "summary": "After the September 10, 2025 shooting that killed conservative commentator Charlie Kirk at Utah Valley University, the campus—once praised for its diversity and welcoming atmosphere—remains tense. Students recall an eerie silence, heightened security, and the emotional toll of national media scrutiny. Many had little prior exposure to Kirk’s polarizing rhetoric before his killing sparked political backlash: some hailed him a martyr, while critics, including Ta-Nehisi Coates, condemned his bigotry. Debates over a planned Kirk memorial have divided students and led to protests against honoring his divisive legacy. Amid unrest and a university task force, students hope UVU’s identity endures as a place of unity and learning.",
-      "summaryTokens": 1272,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "On 10 Sept 2025, 31-year-old conservative commentator Charlie Kirk was shot on stage at Utah Valley University, transforming its once lively 46,000-student campus into a tense scene cordoned off with fences and heavy security. Students—many unfamiliar with Kirk’s work—felt stunned, divided and yearning to reclaim UVU’s pre-attack spirit of unity and diversity. First-year students describe the aftermath as eerie, with national vigils and political debates framing Kirk as martyr or bigot. Protests have halted plans for a Kirk memorial amid concerns over his rhetoric. UVU community leaders and a memorial committee now weigh how to honor resilience rather than the tragedy.",
+      "summaryTokens": 889,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/robert-sullivan-alabama-catholic-priest",
@@ -185,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T11:00:02Z",
       "trailText": "Robert Sullivan’s self-imposed removal comes after accusations he provided financial support in exchange for arrangement which included sex",
-      "summary": "Alabama priest Robert Sullivan has voluntarily left the clergy after Heather Jones alleged in a formal complaint that he arranged private companionship, including sex, starting when she was 17 in exchange for financial support—including hundreds of thousands of dollars and a silence agreement. The Birmingham diocese investigated, finding no misuse of church funds, and forwarded the matter to the Vatican. Sullivan, ordained in 1993 and a former vicar general, petitioned Pope Leo XIV for laicization, granted in late November.",
-      "summaryTokens": 718,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "Robert Sullivan, a 61-year-old Roman Catholic priest in Birmingham, Alabama, voluntarily left the clergy after Heather Jones alleged he provided her financial support—hundreds of thousands of dollars—in exchange for “private companionship,” including sex, beginning at age 17. Jones, now 33, backed her complaint with payment records, emails and a legal agreement. Bishop Steven Raica announced Sullivan’s laicization, confirmed no diocesan funds were used and referred the case to the Vatican. Though no civil charges emerged—Alabama’s consent age is 16—the case spotlights clerical power over vulnerable minors.",
+      "summaryTokens": 613,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/potential-democratic-2028-presidential-contenders",
@@ -197,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T10:00:02Z",
       "trailText": "Would-be contenders include governors, senators, members of Congress and the former vice-president",
-      "summary": "After Democrats’ 2024 defeat, the field for the 2028 Democratic nomination remains wide open, with no formal candidates yet but several high-profile figures testing the waters. Leading names include California Governor Gavin Newsom, former Vice President Kamala Harris, ex-Transportation Secretary Pete Buttigieg, progressive firebrand Representative Alexandria Ocasio-Cortez, swing-state Governors Josh Shapiro of Pennsylvania and Andy Beshear of Kentucky, and Arizona Senator Ruben Gallego. Others to watch range from governors JB Pritzker, Wes Moore, Gretchen Whitmer and Tim Walz to senators Cory Booker, Chris Murphy, Elissa Slotkin and Mark Kelly, as well as media personalities and former officials.",
-      "summaryTokens": 890,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "After Democrats’ 2024 defeat to Trump, the 2028 nomination race is wide open. Potential contenders include California Gov. Gavin Newsom (high-profile Trump critic touring early states, new podcast); former VP and 2024 nominee Kamala Harris (fundraising network, core Democratic support); ex–Transportation Sec. Pete Buttigieg (technocratic brand, Iowa town halls); Rep. Alexandria Ocasio-Cortez (youth mobilizer, progressive icon); Pennsylvania Gov. Josh Shapiro (bipartisan appeal); Kentucky Gov. Andy Beshear (red-state Democrat) and Arizona Sen. Ruben Gallego (working-class outreach). Others on the watch list include governors JB Pritzker and Gretchen Whitmer, senator Cory Booker and ex-cabinet official Gina Raimondo, underscoring room for surprises.",
+      "summaryTokens": 2010,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/trump-says-he-will-permanently-pause-migration-from-third-world-countries-after-national-guard-shooting",
@@ -209,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T05:36:04Z",
       "trailText": "In a social media post sent late on Thanksgiving, US president said he would ‘end all federal benefits and subsidies to noncitizens’ following Washington DC shooting",
-      "summary": "In a late-November social media post, President Trump vowed to “permanently pause migration from all third-world countries,” end federal benefits to noncitizens and expel anyone deemed “not a net asset,” after two National Guard members were shot near the White House. One guard member, Sarah Beckstrom, died; the suspect, Afghan asylum-recipient Rahmanullah Lakanwal, remains in custody. The administration immediately paused Afghan visa issuances, suspended processing of Afghan asylum claims and ordered a review of all green-card applications and Temporary Protected Status for nations including Venezuela, Haiti, Somalia and Afghanistan, invoking a prior travel ban on 19 countries.",
-      "summaryTokens": 447,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "After a Washington DC shooting in which two National Guard members were wounded and one later died, President Trump announced a “permanent pause” on migration from “third world countries,” promising to end all federal benefits to noncitizens and admit only those deemed a “net asset.” He ordered visa suspensions for Afghan passport holders, broader asylum and green-card reviews, and moves to revoke temporary protected status for Venezuela, Haiti, Somalia and Afghanistan, while boosting Guard troop deployments in the capital.",
+      "summaryTokens": 604,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/28/trump-administration-news-updates-today",
@@ -221,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T03:28:33Z",
       "trailText": "Trump announced the death of national guard member Sarah Beckstrom, as his administration pledged to re-examine entry of Afghan refugees. Key US politics stories from Thursday at a glance",
-      "summary": "The FBI has expanded its probe into Wednesday’s Washington DC shooting, executing searches at multiple properties—including the suspect’s Washington state residence—seizing phones, laptops and iPads, and interviewing relatives, FBI Director Kash Patel said. Authorities identified the gunman as 29-year-old Afghan national Rahmanullah Lakanwal, who served in a CIA-backed unit in Afghanistan before entering the US under the 2021 Operation Allies Welcome resettlement program. National Guard member Sarah Beckstrom has died from her injuries and fellow Guardsman Andrew Wolfe remains critical. President Trump announced Beckstrom’s death and urged a full re-examination of all Afghan refugees admitted under the Biden administration.",
-      "summaryTokens": 568,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "FBI agents widened their probe into Wednesday’s Washington DC shooting, executing search warrants at multiple properties, including a Washington state home linked to Afghan national Rahmanullah Lakanwal—a former CIA-backed unit member who entered the US in 2021 under Operation Allies Welcome—seizing phones, laptops and iPads, and interviewing relatives. President Trump announced the death of 20-year-old National Guard member Sarah Beckstrom and said colleague Andrew Wolfe remains critical. In reaction, Trump called for re-examination of all Afghan refugees admitted during the Biden administration, as FBI Director Kash Patel detailed the investigation’s progress.",
+      "summaryTokens": 553,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/26/washington-national-guard-shooting-suspect",
@@ -233,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-11-28T00:13:54Z",
       "trailText": "Donald Trump signaled after attack that refugee and asylum cases would be scrutinized",
-      "summary": "After the Nov.26 shooting near the White House by 29-year-old Afghan Rahmanullah Lakanwal—admitted under Biden’s post-withdrawal policy—the Trump administration ordered an indefinite suspension of Afghan immigration filings and a full review of all asylum approvals and green cards for nationals from unspecified “countries of concern,” echoing his June travel ban list. DHS and USCIS will re-examine every asylum case granted under Biden and green cards for citizens of 19 flagged countries. Trump framed the attack as vetting failure, vowed to remove undesirables, and deployed 500 more National Guard troops in DC. One guard member died.",
-      "summaryTokens": 1080,
-      "generatedAt": "2025-11-29T03:44:51.985Z"
+      "summary": "After a fatal shooting of two National Guard members near the White House by Afghan national Rahmanullah Lakanwal—an Operation Allies Welcome entrant granted asylum this year—the Trump administration ordered sweeping visa and asylum case reviews. DHS and USCIS have indefinitely suspended processing Afghan claims and will re-examine every green card and asylum approval “from every country of concern.” USCIS will treat applicants from Trump’s 19-country travel ban as having “significant negative factors.” Trump cast the attack as vetting failures and directed re-examinations, troop reinforcements in DC, and possible removals of non-beneficial aliens.",
+      "summaryTokens": 935,
+      "generatedAt": "2025-11-30T03:57:21.513Z"
     },
     {
       "id": "us-news/2025/nov/27/washington-dc-national-guard-shooting-suspect",
@@ -11597,7 +11717,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-11T16:00:27Z",
       "trailText": "Until recently, Daca allowed undocumented immigrants brought to the US as children to live and work legally",
-      "summary": "Under Trump, DACA recipients face renewed uncertainty as the administration floats restarting initial application adjudications while simultaneously asserting the program confers no legal status and detaining about 20 known recipients. Launched in 2012, DACA shielded over 525,000 Dreamers—undocumented immigrants brought to the US as children—from deportation and granted work permits. Litigation halted initial petitions until a 5th Circuit ruling ordered resumption outside Texas. Texas Dreamers risk losing both work authorization and lawful presence. Advocates warn mixed signals erode protections, despite bipartisan support for a citizenship pathway and economic stakes.",
+      "summary": "Under Trump, DACA recipients face renewed uncertainty as the administration floats restarting initial application adjudications while simultaneously asserting the program confers no legal status and detaining about 20 known recipients. Launched in 2012, DACA shielded over 525,000 Dreamers��undocumented immigrants brought to the US as children—from deportation and granted work permits. Litigation halted initial petitions until a 5th Circuit ruling ordered resumption outside Texas. Texas Dreamers risk losing both work authorization and lawful presence. Advocates warn mixed signals erode protections, despite bipartisan support for a citizenship pathway and economic stakes.",
       "summaryTokens": 930,
       "generatedAt": "2025-10-28T20:38:22.885Z"
     },
@@ -13745,7 +13865,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-02T19:24:12Z",
       "trailText": "Departments and staff are using out-of-office emails and websites to engage in partisan political activity",
-      "summary": "Furloughed federal employees across more than a dozen agencies—including Justice, Treasury, Agriculture, Education, and HHS—have been instructed to use out-of-office replies and website banners blaming Democrats for the government shutdown. Critics say this partisan messaging breaches the Hatch Act and Anti-Deficiency Act, turning taxpayer-funded sites into propaganda. NGOs like CREW and Public Citizen have lodged ethics complaints, while GAO and inspectors general face calls to probe potential legal violations. Lawmakers from both parties warn this politicization undermines trust in essential services.",
+      "summary": "Furloughed federal employees across more than a dozen agencies—including Justice, Treasury, Agriculture, Education, and HHS��have been instructed to use out-of-office replies and website banners blaming Democrats for the government shutdown. Critics say this partisan messaging breaches the Hatch Act and Anti-Deficiency Act, turning taxpayer-funded sites into propaganda. NGOs like CREW and Public Citizen have lodged ethics complaints, while GAO and inspectors general face calls to probe potential legal violations. Lawmakers from both parties warn this politicization undermines trust in essential services.",
       "summaryTokens": 1060,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
@@ -15868,7 +15988,7 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/sep/24/first-thing-trump-uses-un-speech-to-attack-global-body-as-feckless-and-pernicious",
       "section": "us-news",
       "publishedDate": "2025-09-24T11:33:46Z",
-      "trailText": "US president calls for countries to close their borders and expel foreigners. Plus, Kimmel says silencing comedians ‘anti-American’ in return to air",
+      "trailText": "US president calls for countries to close their borders and expel foreigners. Plus, Kimmel says silencing comedians ���anti-American’ in return to air",
       "summary": "At the UN General Assembly—his first in six years—Trump attacked the UN as feckless, corrupt and “pernicious,” urged nations to close borders and expel foreigners, and called on Europe to adopt his blood-and-soil nationalism. He vowed Ukraine could reclaim all territory lost to Russia and pressed NATO to ban Russian oil. Meanwhile, Jimmy Kimmel returned to air denouncing government efforts to silence comedians as “anti-American,” fueling a broader free-speech debate.",
       "summaryTokens": 857,
       "generatedAt": "2025-10-28T20:38:22.886Z"
