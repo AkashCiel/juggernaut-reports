@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-11-29T03:35:10.017Z",
+    "generated_at": "2025-11-30T03:34:00.374Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-28"
+      "to": "2025-11-29"
     },
-    "article_count": 128,
+    "article_count": 129,
     "merge_info": {
-      "previous_count": 125,
-      "new_articles": 3,
-      "updated_articles": 7,
-      "total_count": 128
+      "previous_count": 128,
+      "new_articles": 1,
+      "updated_articles": 4,
+      "total_count": 129
     },
     "batch_info": {
-      "initial_batch_id": "batch_692a696b6a74819094c818b1ee118290",
+      "initial_batch_id": "batch_692bbaf0e34c8190945213a9ab55e499",
       "retry_batches": [],
-      "total_tokens": 18070,
+      "total_tokens": 10323,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/nov/29/georgia-harris-neck-gullah-geechee",
+      "title": "A Black Georgia community uprooted in 1942 still fights to go home",
+      "webUrl": "https://www.theguardian.com/news/2025/nov/29/georgia-harris-neck-gullah-geechee",
+      "apiUrl": "https://content.guardianapis.com/news/2025/nov/29/georgia-harris-neck-gullah-geechee",
+      "section": "news",
+      "publishedDate": "2025-11-29T12:00:36Z",
+      "trailText": "US descendants of Harris Neck’s Gullah Geechee families seek the return of ancestral land seized for a wartime airfield",
+      "summary": "Harris Neck was a 2,687-acre Gullah Geechee enclave of 75 Black households on Georgia’s coast, seized by the US government in 1942 for a wartime airfield. Descendants, organized in the Harris Neck Land Trust (2005) and Direct Descendants of Harris Neck Community (2019), have lobbied to reclaim 500 acres to establish a Gullah Geechee restaurant, homestead replica, family plots and a rebuilt school. They host annual commemorations, use QR-coded tours with the Fish and Wildlife Service (MOU 2020) and secured a county resolution in 2007. Despite incremental wins and political headwinds, advocates remain hopeful of returning ancestral land and preserving their heritage.",
+      "summaryTokens": 576,
+      "generatedAt": "2025-11-30T03:34:00.258Z"
+    },
     {
       "id": "news/2025/nov/28/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-11-28T21:00:17Z",
       "trailText": "Ronni Ancona | Prisoner 951 | This is Christmas",
-      "summary": "Guardian issues corrections: Ronni Ancona’s education amended to Central Saint Martins and UCL; Big Impression ran until 2004, not 2003. Nazanin Zaghari-Ratcliffe did not produce BBC’s Prisoner 951. Chris Foggin’s This Is Christmas premiered in 2022, not last year. Other rectified pieces include a boudoir photography feature and a guide to Christmas swim gifts. Readers can send corrections or complaints to guardian.readers@theguardian.com, write to the Readers’ editor at Kings Place, York Way, London N1 9GU, or leave a voicemail on +44 20 3353 4736.",
-      "summaryTokens": 1071,
-      "generatedAt": "2025-11-29T03:35:09.682Z"
+      "summary": "Corrections: Ronni Ancona studied at Central Saint Martins then University College London (not Edinburgh College of Art), and The Big Impression sketch show ran until 2004 (not 2003). Nazanin Zaghari-Ratcliffe was not a producer of the BBC drama Prisoner 951. Chris Foggin’s film This Is Christmas was released in 2022 (not last year). Other recently amended articles include a boudoir photography feature and a Christmas gift guide for swimmers. Readers can send corrections to guardian.readers@theguardian.com or write to the Readers’ editor at Kings Place, 90 York Way, London N1 9GU.",
+      "summaryTokens": 555,
+      "generatedAt": "2025-11-30T03:34:00.258Z"
     },
     {
       "id": "news/2025/nov/28/hong-kong-apartment-fire-response-rescue-operations-death-toll",
@@ -41,9 +53,9 @@
       "section": "news",
       "publishedDate": "2025-11-28T14:25:28Z",
       "trailText": "About 200 people are still unaccounted for, say officials, as fire chief confirms no alarms went off in any of the eight towers",
-      "summary": "The death toll from the Wang Fuk Court blaze in Tai Po has reached 128, with about 200 still missing, as rescue operations conclude. Firefighters recovered 108 bodies (16 inside buildings) and four more died in hospital; 79 people, including 11 firefighters, were injured. No alarms sounded in any of the eight towers; investigators blame flammable polystyrene foam on scaffold-wrapped façades. Eight construction-related suspects have been arrested by the ICAC, and authorities estimate evidence gathering will take three to four weeks. Survivors and families—many domestic helpers—await answers as calls grow for mandatory fire-safety regulations.",
-      "summaryTokens": 623,
-      "generatedAt": "2025-11-29T03:35:09.682Z"
+      "summary": "The fire in Tai Po’s Wang Fuk Court high-rise began Wednesday, killing 128 and leaving about 200 unaccounted. Rescue operations ended after recovering 108 bodies. No alarms sounded in any of the eight towers, prompting enforcement actions against responsible contractors. The blaze spread via polystyrene foam on scaffolding netting, with temperatures reaching 500C. Hong Kong’s anti-corruption watchdog arrested eight engineering and scaffolding contractors; three more are detained. Identification efforts continue amid reported missing Indonesian and Filipino domestic helpers. Investigators expect three to four weeks to gather evidence. The disaster spurred calls to mandate flame-retardant materials in construction codes.",
+      "summaryTokens": 1655,
+      "generatedAt": "2025-11-30T03:34:00.258Z"
     },
     {
       "id": "news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
@@ -53,9 +65,9 @@
       "section": "news",
       "publishedDate": "2025-11-28T12:46:55Z",
       "trailText": "Fire in densely packed group of 31-storey tower blocks home to thousands quickly spread on bamboo scaffolding",
-      "summary": "On 27 November at 14:52, a fire broke out on bamboo scaffolding of Wang Cheong House in Wang Fuk Court, Tai Po, Hong Kong, swiftly spreading via construction netting and polystyrene foam to seven of eight 31-storey towers. It killed over 100 people, left about 200 missing, and injured dozens, including 11 firefighters. Some 200 fire trucks and 100 ambulances responded but couldn’t reach upper floors as temperatures topped 200C. No fire alarms sounded. Officials blame a “grossly negligent” contractor, declared rescue over, plan a HK$300m relief fund, and face a probe amid calls to phase out bamboo scaffolds.",
-      "summaryTokens": 1345,
-      "generatedAt": "2025-11-29T03:35:09.682Z"
+      "summary": "At 2.52pm on Wednesday a blaze broke out on bamboo scaffolding around Wang Cheong House in Tai Po, rapidly engulfing seven of the eight 31-storey towers at Wang Fuk Court. Highly flammable construction netting and polystyrene foam aided the spread across 1,969 flats housing about 4,800 residents. Over 200 fire trucks and 100 ambulances responded, but crews struggled to reach top floors. More than 100 people died, around 200 remain missing and dozens were injured, including firefighters. No fire alarms activated. Officials suspect negligent contractors installed substandard mesh and foam, and have launched enforcement actions alongside a HK$300m relief fund. Rescue operations formally ended Friday, with evidence collection expected to take weeks.",
+      "summaryTokens": 587,
+      "generatedAt": "2025-11-30T03:34:00.258Z"
     },
     {
       "id": "news/2025/nov/28/hong-kong-community-groups-deliver-aid-to-survivors-of-wang-fuk-court-fire",
@@ -65,9 +77,9 @@
       "section": "news",
       "publishedDate": "2025-11-28T12:13:02Z",
       "trailText": "Volunteers that emerged during the pro-democracy protests regroup to help those affected by the blaze",
-      "summary": "After the Wang Fuk Court fire in Tai Po killed at least 128 and left hundreds missing, Hong Kong grassroots community groups—many formed during the 2014/2019 pro-democracy protests—mobilised: restaurants, churches and gyms became shelters; crowd-sourced web apps track residents’ safety and supply stations; Telegram channels coordinate drivers, helpers and donations; crowdfunding (including HKD300m gov’t fund) and legal support platforms emerged. Meanwhile, safety lapses over bamboo scaffolding, flammable Styrofoam and dormant alarms are under scrutiny; three contractors face manslaughter charges.",
-      "summaryTokens": 831,
-      "generatedAt": "2025-11-29T03:35:09.682Z"
+      "summary": "Hong Kong grassroots community groups have mobilised restaurants, churches and gyms in Tai Po into shelters, delivering food, clothing and information to survivors of the Wang Fuk Court fire that killed at least 128 and left hundreds missing. Volunteers used crowd-sourced web apps and interactive maps to track residents, missing persons and supply stations, while encrypted Telegram channels coordinate drivers and list urgent needs. Fundraising platforms, including a HKD 300 million government support fund, and legal volunteers offering tenancy and employment advice in multiple languages have sprung up. Questions over bamboo scaffolding, flammable Styrofoam, absent alarms and contractor Prestige—whose staff face manslaughter charges—fuel scrutiny.",
+      "summaryTokens": 574,
+      "generatedAt": "2025-11-30T03:34:00.258Z"
     },
     {
       "id": "news/2025/nov/27/hong-kong-fire-tai-po-police-blame-construction-company",
