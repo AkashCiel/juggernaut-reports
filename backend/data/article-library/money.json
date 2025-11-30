@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-11-29T03:32:50.630Z",
+    "generated_at": "2025-11-30T03:32:56.903Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-11-28"
+      "to": "2025-11-29"
     },
-    "article_count": 125,
+    "article_count": 126,
     "merge_info": {
-      "previous_count": 124,
+      "previous_count": 125,
       "new_articles": 1,
       "updated_articles": 1,
-      "total_count": 125
+      "total_count": 126
     },
     "batch_info": {
-      "initial_batch_id": "batch_692a690acfe08190aa1347750e3aa491",
+      "initial_batch_id": "batch_692bba9116748190a951eaaddede3843",
       "retry_batches": [],
-      "total_tokens": 3762,
+      "total_tokens": 6623,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/nov/29/beat-the-budget-a-five-point-action-plan-to-help-you-manage-your-cash",
+      "title": "Beat the budget: a five-point action plan to help you manage your cash",
+      "webUrl": "https://www.theguardian.com/money/2025/nov/29/beat-the-budget-a-five-point-action-plan-to-help-you-manage-your-cash",
+      "apiUrl": "https://content.guardianapis.com/money/2025/nov/29/beat-the-budget-a-five-point-action-plan-to-help-you-manage-your-cash",
+      "section": "money",
+      "publishedDate": "2025-11-29T07:00:29Z",
+      "trailText": "From Isas to salary sacrifice and inheritance to property tax, here’s how to best navigate the chancellor’s changes",
+      "summary": "Chancellor’s autumn budget includes five money-saving measures: front-load your £20k ISA allowance before 6 April 2027 (under-65s then capped at £12k cash; over-65s unaffected) and exploit current easy-access ISA rates above 4%. Switch high-dividend shares into an ISA before the April 2026 dividend-tax rise. Review salary-sacrifice pensions (NI relief capped at £2k from April 2029). Use annual (£3k), small-gift (£250) and seven-year exemptions to trim future inheritance tax. Use ‘Bed & ISA’ transfers and spouse allowances to shelter gains. Plan for the 2028 council-tax surcharge on homes over £2m—consider downsizing or delaying upgrades.",
+      "summaryTokens": 1938,
+      "generatedAt": "2025-11-30T03:32:56.776Z"
+    },
     {
       "id": "money/2025/nov/28/people-deriving-income-solely-from-state-pension-wont-be-taxed-says-chancellor",
       "title": "People deriving income solely from state pension won’t be taxed, says chancellor",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-11-28T19:13:45Z",
       "trailText": "Clarification creates prospect of two-tier system for retirees solely on new state pension and those on private schemes",
-      "summary": "Chancellor Rachel Reeves has pledged that retirees whose sole income is the basic or new state pension will not face income tax on their payments, even when the new pension rises above the £12,570 personal allowance in 2027-28. Although the weekly rate will reach £241.30 (£12,547/year) in April 2026, threshold freezes would push it above the allowance by 2027, triggering small tax bills. The measure aims to reduce administration for those without private or additional state pensions but raises fairness concerns, with 2.5m on the old pension already taxed and private savers unprotected. No costings are yet provided.",
-      "summaryTokens": 1081,
-      "generatedAt": "2025-11-29T03:32:50.215Z"
+      "summary": "Chancellor Rachel Reeves has confirmed that, in this parliament, retirees whose sole income is the new or basic state pension will be exempt from income tax. From April the new state pension rises to £241.30 weekly (£12,547 annually), just under the £12,570 personal allowance; with frozen thresholds a 2.5% rise in 2027 could push it over and trigger small tax bills, but the government will waive these via simple assessments. Critics warn this risks creating a two-tier system favouring pure state pensioners over those with older pensions or modest private schemes. Details and costings are due next year.",
+      "summaryTokens": 1660,
+      "generatedAt": "2025-11-30T03:32:56.776Z"
     },
     {
       "id": "money/2025/nov/27/freeze-uk-student-loan-repayment-threshold-nus-warning",
