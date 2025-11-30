@@ -1,37 +1,61 @@
 {
   "metadata": {
     "section": "business",
-    "generated_at": "2025-11-29T03:06:41.021Z",
+    "generated_at": "2025-11-30T03:21:06.451Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-28"
+      "to": "2025-11-29"
     },
-    "article_count": 534,
+    "article_count": 536,
     "merge_info": {
-      "previous_count": 523,
-      "new_articles": 11,
-      "updated_articles": 9,
-      "total_count": 534
+      "previous_count": 534,
+      "new_articles": 2,
+      "updated_articles": 11,
+      "total_count": 536
     },
     "batch_info": {
-      "initial_batch_id": "batch_692a6285ffa881909a1008c651d86a40",
+      "initial_batch_id": "batch_692bb77dfcbc81909fefe18808067b1e",
       "retry_batches": [],
-      "total_tokens": 42689,
-      "processing_time_hours": 0.1
+      "total_tokens": 30076,
+      "processing_time_hours": 0
     }
   },
   "articles": [
     {
       "id": "business/2025/nov/28/airbus-issues-major-a320-recall-after-recent-mid-air-incident",
-      "title": "Airbus issues major A320 recall after mid-air incident, threatening global flight disruption",
+      "title": "Airbus issues major A320 recall after mid-air incident grounds planes, disrupting global travel",
       "webUrl": "https://www.theguardian.com/business/2025/nov/28/airbus-issues-major-a320-recall-after-recent-mid-air-incident",
       "apiUrl": "https://content.guardianapis.com/business/2025/nov/28/airbus-issues-major-a320-recall-after-recent-mid-air-incident",
       "section": "business",
-      "publishedDate": "2025-11-28T23:33:06Z",
+      "publishedDate": "2025-11-29T10:17:12Z",
       "trailText": "Immediate software change on ‘significant number’ of jets to result in disruption to half the worldwide fleet",
-      "summary": "Airbus has ordered immediate software reversion on 6,000 A320-family jets—over half the global fleet—after a JetBlue Mexico-Newark flight experienced a sudden altitude drop traced to ELAC data corruption from intense solar radiation. The EU’s EASA mandated the precautionary update; airlines including American (340 jets), Avianca (70% of its fleet), Lufthansa, IndiGo, easyJet, ANA and Jetstar will ground affected aircraft for a two-hour software rollback, with some requiring hardware changes. Carriers warn of delays, cancellations and extended maintenance waits amid capacity shortages. Airbus acknowledges widespread disruption but underscores passenger safety.",
-      "summaryTokens": 951,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "Airbus has ordered immediate software reversion and hardware updates on 6,000 A320-family jets—over half its 11,300 worldwide—to address a solar‐radiation–induced ELAC flight-control fault that triggered a mid-air altitude drop on a JetBlue A321 on October 30. EASA and FAA mandates grounding most aircraft until the fix is applied, causing global delays and cancellations across carriers including American (209 jets), Delta (<50), United (6), ANA (65 flights), Jetstar (90 flights) and Avianca (>70% fleet), while maintenance bottlenecks intensify.",
+      "summaryTokens": 747,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
+    },
+    {
+      "id": "business/2025/nov/29/small-businesses-trump-tariffs-holiday-season",
+      "title": "US small businesses sound alarm over Trump’s tariffs amid crucial holiday season",
+      "webUrl": "https://www.theguardian.com/business/2025/nov/29/small-businesses-trump-tariffs-holiday-season",
+      "apiUrl": "https://content.guardianapis.com/business/2025/nov/29/small-businesses-trump-tariffs-holiday-season",
+      "section": "business",
+      "publishedDate": "2025-11-29T10:00:34Z",
+      "trailText": "Some small business owners doubt that even strong holiday sales will ease impact of tough year plagued by uncertainty",
+      "summary": "Small businesses warn Trump’s steep tariffs on imported holiday goods have driven many to closure, raised costs, squeezed margins and disrupted supply chains, crushing retailers from Queen’s Treasures—whose owners risk retirement savings—to Village Lighting, which says $1m in tariffs shifted it from profit to debt repayment. Game Kastle and retailers report studios folding. A survey of 1,048 small firms finds 71% expect tariffs to depress holiday spending, 44% very negatively, and 74% worry they won’t survive. Owners caution next year will be worse without relief as the US lacks capacity to re-shore Christmas production. The administration defends tariffs as funding new trade deals and pro-growth tax cuts and deregulation.",
+      "summaryTokens": 3974,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
+    },
+    {
+      "id": "business/2025/nov/29/avanti-axed-7am-manchester-london-train-will-run-without-passengers",
+      "title": "Soon-to-be-axed 7am Manchester-London train will still run – but without passengers",
+      "webUrl": "https://www.theguardian.com/business/2025/nov/29/avanti-axed-7am-manchester-london-train-will-run-without-passengers",
+      "apiUrl": "https://content.guardianapis.com/business/2025/nov/29/avanti-axed-7am-manchester-london-train-will-run-without-passengers",
+      "section": "business",
+      "publishedDate": "2025-11-29T06:00:33Z",
+      "trailText": "Exclusive: Rail regulator pulls Avanti service from timetable from mid-December but it is needed for staff travel",
+      "summary": "The Office of Rail and Road has removed access rights for the 07:00 weekday Avanti West Coast Manchester–London Euston service from mid-December’s timetable, yet it will still run empty to reposition crew for subsequent fast runs. This axing of a 1h59m sub-2-hour premium link—single fares £193-£290—could generate over 100 empty journeys before a May 2026 timetable update. ORR cites performance and reliability concerns under the new timetable and says running as empty coaching stock offers flexibility in new ‘firebreak’ slots amid Lumo’s open-access paths. Business leaders and Avanti warn of customer loss and taxpayer burden.",
+      "summaryTokens": 1483,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/29/jetstar-cancel-domestic-flights-australia-global-airbus-a320-recall",
@@ -39,11 +63,11 @@
       "webUrl": "https://www.theguardian.com/business/2025/nov/29/jetstar-cancel-domestic-flights-australia-global-airbus-a320-recall",
       "apiUrl": "https://content.guardianapis.com/business/2025/nov/29/jetstar-cancel-domestic-flights-australia-global-airbus-a320-recall",
       "section": "business",
-      "publishedDate": "2025-11-28T22:25:39Z",
+      "publishedDate": "2025-11-29T05:36:34Z",
       "trailText": "Immediate software update ordered by Airbus after US mid-air incident causes airport disruption across Australia and New Zealand",
-      "summary": "Airbus has ordered an immediate software rollback on thousands of A320s after a JetBlue mid-air pitch-down incident revealed solar-radiation–corrupted flight-control data. Jetstar grounded 34 of its 85 A320s, canceling 90 domestic and international flights across Australia through Sunday while engineers perform a 2–3-hour update to reverse the faulty upgrade. Qantas reports no impact; Virgin Australia is covering A320 routes with Boeing 737s; Air New Zealand canceled 12 services. Airbus and EASA stress this precaution prevents uncommanded elevator movements and ensures structural safety.",
-      "summaryTokens": 750,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "Jetstar grounded 34 of its 85 A320s after Airbus mandated a rollback of a recent software upgrade following a JetBlue A320 mid-flight uncommanded pitch-down incident. The precautionary recall halted 90 domestic and several international services on Saturday, with recovery expected by Sunday after 2–3-hour on-ground updates. Qantas A320s were unaffected; Virgin Australia and Air New Zealand faced minimal disruption with 12 cancellations. Airbus cited solar radiation–induced data corruption risk, issuing an immediate Alert Operators Transmission and apologising for passenger inconvenience. Affected customers are offered rebooking, 12-month credits or refunds, with SMS and email notifications.",
+      "summaryTokens": 1022,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/asda-sales-fall-it-problems-consumer-confidence",
@@ -53,9 +77,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T14:30:09Z",
       "trailText": "But supermarket blames ‘self-inflicted’ IT problems that left gaps on shelves for 3.7% drop in sales",
-      "summary": "Asda’s sales fell 3.8% to £5.1bn in Q3 to Sept vs a year earlier, with comparable stores down 2.8%, as IT glitches from unwinding Walmart systems led to gaps on shelves and a clunky new app. Chair Allan Leighton, back at the helm, warned the setback has delayed turnaround by six months. He also accused the government of ‘killing consumer confidence’ by failing to stimulate growth, though business rates changes will be neutral. Asda, under Issa-TDR Capital’s debt-fueled takeover, is fixing IT issues and pressing ahead with price cuts, claiming a 4–7% edge over rivals.",
-      "summaryTokens": 1018,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "Asda’s sales fell 3.8% to £5.1bn in the three months to September, with like-for-like sales down 2.8%, after ‘self-inflicted’ IT failures during its separation from Walmart left shelf gaps and a flawed new app. Chair Allan Leighton, back at the helm to revive the business, said the issues set turnaround plans back six months but are now resolved. He also blamed the government for ‘killing consumer confidence’ through stagnant growth and investment, as Asda presses ahead with aggressive price cuts, claiming it is 4–7% cheaper than rivals.",
+      "summaryTokens": 424,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/obr-reeves-income-tax-rise-forecasts-budget",
@@ -65,9 +89,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T13:25:22Z",
       "trailText": "Official forecaster’s chair says chancellor knew about revised predictions well before her budget change of heart",
-      "summary": "OBR chair Richard Hughes has written to MPs disputing Chancellor Rachel Reeves’s claim that she abandoned planned income tax hikes due to unexpectedly robust forecasts. His letter, including a chart of forecast rounds, shows that by 31 October—over ten days before Reeves and PM Starmer shelved the tax increase—the OBR’s projections already gave £4.2bn of headroom under her fiscal rules, versus requiring up to £22.5bn in adjustment earlier. The OBR confirms no material forecast revisions occurred after that date, aside from Treasury policies. Treasury sources counter that final decisions awaited forecasts incorporating budget measures. The dispute underlines tensions ahead of Hughes’s Treasury committee hearing.",
-      "summaryTokens": 626,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "OBR chair Richard Hughes has challenged claims that Chancellor Rachel Reeves abandoned a planned income tax rise because of improved forecasts, revealing in a letter to the Treasury select committee that updated OBR forecasts sent on 31 October showed she already had £4.2bn headroom against her fiscal rule. Earlier forecasts on 3 October had predicted a £2.5bn breach. No substantial forecast changes followed after 31 October. Treasury sources insist final decisions awaited forecasts incorporating policy measures, while shadow chancellor Mel Stride accuses Reeves of misleading the public. Tensions between No.11 and the watchdog over timing and assumptions predated the U-turn.",
+      "summaryTokens": 1771,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/2035-ban-new-petrol-and-diesel-cars-germany-eu",
@@ -77,9 +101,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T13:12:23Z",
       "trailText": "Friedrich Merz to ask for series of exemptions in attempt to protect crisis-hit automotive industry",
-      "summary": "Germany’s chancellor Friedrich Merz will urge the EU to soften its 2035 ban on selling new petrol and diesel cars, seeking exemptions to keep plug-in and battery hybrids plus range-extended electric vehicles with combustion engines. In a letter to EC president von der Leyen, he argues for technology-neutral rules to protect the automotive sector, secure jobs and support a flexible EV transition. SPD finance minister Klingbeil backs the proposal. The government also plans a €5,000 subsidy for electric and hybrid cars with German components. The commission will review input by 10 December; pure EV makers like Volvo and Polestar oppose any delays.",
-      "summaryTokens": 1588,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "Chancellor Friedrich Merz will press the EU to soften its 2035 ban on new petrol and diesel cars by allowing plug-in hybrids, battery hybrids and range-extended EVs with efficient combustion engines. Backed by SPD finance minister Lars Klingbeil, Berlin argues that technology neutrality and job protection are vital as Germany’s auto sector faces heavy investment costs and Chinese competition. The government also plans a €5,000 subsidy for electric and hybrid models with mainly German components. The European Commission says it is open to “flexibility,” though all-electric makers like Polestar oppose any delay.",
+      "summaryTokens": 554,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/ryanair-closes-members-club-after-flyers-take-advantage-of-discounts",
@@ -89,9 +113,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T12:06:38Z",
       "trailText": "Airline says 55,000 people signed up to Prime, making €4.4m, but passengers benefited by more than €6m",
-      "summary": "Ryanair is axing its Prime loyalty club after eight months in which 55,000 subscribers paid €4.4m in fees but redeemed over €6m in flight discounts, free seat reservations and insurance, making it loss-making. Launched at £/€79 annually, Prime offered up to 12 discounted flights per year, with potential savings of £54–£456. Existing members retain exclusive fares until their 12-month term ends in October 2026, but no new sign-ups will be accepted after 28 November. Ryanair will revert to offering discounts to all customers and focus on its low-fare model.",
-      "summaryTokens": 954,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "Ryanair is shutting its Prime frequent-flyer club after eight months, citing that 55,000 members generated €4.4m in fees but claimed over €6m in perks (flight discounts, free seat reservations on up to 12 flights and travel insurance). Launched at €79/£79 per year in February, Prime saved heavy flyers €54–€456 annually but proved loss-making. No new sign-ups after 28 November; existing subscribers retain benefits until their 12-month term ends in October 2026 as Ryanair reverts to open discounts for all customers.",
+      "summaryTokens": 689,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/jp-morgan-boss-gave-go-ahead-for-new-3bn-tower-in-london-after-uk-assurances",
@@ -101,9 +125,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T11:48:24Z",
       "trailText": "Decision by US bank’s CEO Jamie Dimon followed trip to New York by top adviser to Keir Starmer",
-      "summary": "JPMorgan CEO Jamie Dimon approved a £3bn, 3m sq ft Canary Wharf tower after UK business envoy Varun Chandra flew to New York to secure Labour government’s pro-finance assurances. The decision followed Rachel Reeves’s autumn budget, which spared banks new levies, and the promise of a “continuing positive business environment”. The new HQ will house over half of its 23,000 UK staff, potentially adding £9.9bn to the economy. Goldman Sachs also announced UK expansion.",
-      "summaryTokens": 864,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "JPMorgan Chase CEO Jamie Dimon approved a £3bn, 3m sq ft Canary Wharf tower for its UK HQ after senior Starmer envoy Varun Chandra flew to New York to secure reassurances on the government’s pro-business stance. The decision came hours after the autumn budget spared banks a levy rise and followed intense sector lobbying. The development will house over half of JPMorgan’s 23,000 UK staff and, alongside Goldman Sachs’s expansion plans, could deliver £9.9bn to the UK economy over six years.",
+      "summaryTokens": 808,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/pub-chain-mitchells-butlers-faces-130m-hit-from-rising-wage-and-food-costs",
@@ -113,9 +137,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T11:16:17Z",
       "trailText": "Group, which also owns restaurant brands including Toby Carvery, feels impact of increase in employer NICs",
-      "summary": "Mitchells & Butlers warns of a £130m cost hit over the next year driven by April’s minimum-wage and employer NIC hikes plus rising food prices—especially meat—and preliminary budget impacts. CEO Phil Urban acknowledges sector-wide pressures but remains confident after M&B posted full-year revenue of £2.7bn (+3.5%) and pre-tax profit of £238m (+20%), lifting shares over 10%. Separately, Whitbread shares fell 5% as Bernstein and Citi flagged business-rate revaluations that could cost up to £140m by year three and trim adjusted profits by about 5% by 2029.",
-      "summaryTokens": 574,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "Mitchells & Butlers, owner of All Bar One, Toby Carvery and other restaurant chains, warns of a £130m cost spike next year driven by April’s rise in the national living wage (to £12.71 for over-21s and £10.85 for 18-20s), higher employer NICs and soaring food prices, especially meat. CEO Phil Urban flags ongoing sector cost pressures but remains confident of mitigation. Despite this, M&B shares jumped over 10% on full-year revenues of £2.7bn (+3.5%), pre-tax profit up 20% to £238m and food & drink sales +4.3%. Separately, Whitbread shares fell 5% after Bernstein downgraded the Premier Inn owner, citing potential business-rates hits of up to £140m by year three.",
+      "summaryTokens": 740,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/trump-economy-holiday-spending",
@@ -125,9 +149,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T11:00:04Z",
       "trailText": "In addition to rising prices and tariffs, readers cite growing unemployment as a reason not to exchange gifts this year",
-      "summary": "Despite $2,000 tariff-funded stimulus proposals and targeted levy relief, US consumers are scaling back holiday gift spending. Guardian readers cite 3% inflation vs 2.3% in April, 4.4% unemployment and slumping consumer confidence, prompting reduced budgets, homemade or thrifted gifts, boycotts and frugal local purchases. From Charlotte freelancer Grace Brown skipping partner gifts to Idaho retiree Jeffrey Larimore forgoing dinners, Texas dad Ryan struggling to feed kids, and Oregon residents preserving traditions with marmalade and pastries, Americans brace for a holiday marked by “instability and fear.” Retail forecasts predict a 1–4% drop in season-end spending.",
-      "summaryTokens": 1783,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "US consumers report shrinking holiday budgets as inflation, tariffs and rising unemployment under Trump dent spending. Guardian readers like Grace Brown (Charlotte) and Jeffrey Larimore (Idaho) say higher grocery, insurance and tariff‐driven costs force them to skip gifts, dining out and travel. Consumer confidence fell to April lows, unemployment hit 4.4%, and Deloitte/NRF forecast holiday retail sales down 4%/1.3%. Amid calls to “vote with dollars,” some opt for homemade, thrifted gifts or local artisans while bracing for continued “instability and fear.”",
+      "summaryTokens": 669,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/us-regulators-taking-seriously-allegations-of-bankers-support-for-epstein",
@@ -137,9 +161,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T10:00:02Z",
       "trailText": "Exclusive: It follows calls from US senator Elizabeth Warren to investigate bank executives including ex-Barclays boss Jes Staley",
-      "summary": "Following Elizabeth Warren’s letter, OCC chief Jonathan Gould and FDIC acting chair Travis Hill have pledged to scrutinize JPMorgan Chase and other banks for allegedly facilitating Jeffrey Epstein’s crimes, including ex-Barclays boss Jes Staley’s role. They assured evidence would be collected, illicit-activity findings escalated to inspectors general, and any misconduct could trigger fines or banking bans. Warren demands regulators hold “enablers” accountable. JPMorgan regrets its past association, denies aiding Epstein’s abuse and says it severed ties years before his criminal cases. Meanwhile, Congress will release unclassified DOJ records on Epstein and Ghislaine Maxwell by Dec. 19.",
-      "summaryTokens": 950,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "After Senator Elizabeth Warren’s letter—she is lead Democrat on the Senate banking committee—the OCC and FDIC said they are reviewing allegations that JPMorgan Chase and former Barclays CEO Jes Staley facilitated Jeffrey Epstein’s criminal operations. Comptroller Jonathan Gould and FDIC acting chair Travis Hill pledged to examine potential safety, soundness or legal breaches, risking fines or banking bans. Warren demands formal inquiries and testimony from executives like Jamie Dimon as JPMorgan denies aiding Epstein. Scrutiny heightens with an imminent Justice Department release of unclassified Epstein and Ghislaine Maxwell records.",
+      "summaryTokens": 929,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/28/tech-submarine-drones-startups-big-defence-companies",
@@ -149,9 +173,9 @@
       "section": "business",
       "publishedDate": "2025-11-28T06:00:59Z",
       "trailText": "As navies seek to counter submarines and protect cables, startups and big defence companies fight to lead market",
-      "summary": "Navies worldwide, led by UK, Australia and US, are rushing to deploy uncrewed submarine drones to track enemy nuclear submarines, guard undersea cables and pipelines. BAE Systems, General Dynamics and Boeing compete with startups like Anduril’s Ghost Shark and Germany’s Helsing, promising lower-cost, scalable autonomous UUV fleets using passive sonar and seabed sensors. Driven by threats in the GIUK gap, South China Sea and recent pipeline attacks, Britain’s MoD launched Project Cabot for rapid tech demonstrators. The shift to contractor-operated “anti-submarine warfare as a service” raises questions over costs, maintenance and the militarisation of private drones.",
-      "summaryTokens": 1153,
-      "generatedAt": "2025-11-29T03:06:40.460Z"
+      "summary": "Navies including the UK, US and Australia are investing billions in autonomous underwater vehicles (UUVs) to hunt submarines and safeguard undersea cables and pipelines. Australia’s $1.7 bn Ghost Shark programme and multiple US Navy UUV projects—some launched from nuclear submarines—underscore a “step-change” in undersea warfare. The Royal Navy’s Project Cabot aims to field contractor-owned UUV fleets in the GIUK gap as “anti-submarine warfare as a service.” BAE Systems, General Dynamics and Boeing face off against startups such as Anduril and Helsing, leveraging passive sonar, seabed sensors and low-power acoustics for scalable, cost-effective patrols in grey-zone conflicts.",
+      "summaryTokens": 1169,
+      "generatedAt": "2025-11-30T03:21:06.229Z"
     },
     {
       "id": "business/2025/nov/27/obr-budget-leak-cybersecurity-investigate",
