@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-11-29T03:40:23.340Z",
+    "generated_at": "2025-11-30T03:41:27.914Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-28"
+      "to": "2025-11-29"
     },
-    "article_count": 226,
+    "article_count": 227,
     "merge_info": {
-      "previous_count": 223,
-      "new_articles": 3,
-      "updated_articles": 2,
-      "total_count": 226
+      "previous_count": 226,
+      "new_articles": 1,
+      "updated_articles": 3,
+      "total_count": 227
     },
     "batch_info": {
-      "initial_batch_id": "batch_692a6b0f7c288190ad37b4013a7d3d77",
+      "initial_batch_id": "batch_692bbc5ab6908190a20e48a26f212dfd",
       "retry_batches": [],
-      "total_tokens": 11321,
+      "total_tokens": 10556,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/nov/29/big-tech-silicon-valley-ceo-media",
+      "title": "How big tech is creating its own friendly media bubble to ‘win the narrative battle online’",
+      "webUrl": "https://www.theguardian.com/technology/2025/nov/29/big-tech-silicon-valley-ceo-media",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/nov/29/big-tech-silicon-valley-ceo-media",
+      "section": "technology",
+      "publishedDate": "2025-11-29T14:18:45Z",
+      "trailText": "At a time when distrust of big tech is high, Silicon Valley is embracing an alternative ecosystem where every CEO is a star",
+      "summary": "Amid widespread distrust of big tech, Silicon Valley leaders are bypassing critical outlets by funding and starring in a new pro-tech media ecosystem: cozy podcasts and shows (Sourcery, TBPN), corporate publications (a16z’s Substack, Palantir’s Republic) and niche magazines (Arena). CEOs such as Alex Karp, Mark Zuckerberg, Elon Musk, Sam Altman and Satya Nadella enjoy unchallenged interviews that emphasize brand narratives, dodge controversies and cultivate friendly audiences. This in-house media bubble mirrors entertainment and political press tours, giving tech elites controlled platforms to shape perceptions on AI, regulation and social impact without scrutiny.",
+      "summaryTokens": 623,
+      "generatedAt": "2025-11-30T03:41:27.740Z"
+    },
     {
       "id": "technology/2025/nov/28/amazon-ai-climate-change",
       "title": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
@@ -29,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-11-28T13:50:15Z",
       "trailText": "Workers say the firm’s ‘warp-speed’ approach fuels pressure, layoffs and rising emissions",
-      "summary": "Open letter by 1,000+ Amazon workers, backed by 2,400 peers at Meta, Google, Apple and Microsoft, warns 'warp-speed' AI rollout is fueling layoffs, surveillance and rising emissions. They call for powering all data centers with clean energy, halting AI-enabled deportation/mass-surveillance products, and forming a non-managerial AI oversight group to influence deployment, headcount and environmental impact. Citing Amazon’s $150bn data-centre spend over 15 years, a 35% emissions rise since 2019 and pressure to double output with AI, staffers urge sustainable, worker-centered development.",
-      "summaryTokens": 1200,
-      "generatedAt": "2025-11-29T03:40:22.819Z"
+      "summary": "Over 1,000 Amazon employees have signed a letter warning that the company’s rapid, “all-costs justified” AI expansion endangers democracy, jobs and the environment. Organized by Amazon Employees for Climate Justice and backed by 2,400+ tech workers, the letter demands clean energy–powered data centres, safeguards against AI-enabled violence and surveillance, and a non-managerial working group to guide AI use and related layoffs. Signatories cite a 35% emissions increase since 2019 despite net-zero goals and $150 billion in planned data-centre spending. They allege managerial pressure to use AI to boost productivity, threatening layoffs and unsustainable quotas. Amazon counters it leads in data-centre efficiency and renewable procurement.",
+      "summaryTokens": 1564,
+      "generatedAt": "2025-11-30T03:41:27.740Z"
     },
     {
       "id": "technology/2025/nov/28/artificial-intelligence-smart-toys",
@@ -41,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-11-28T13:00:07Z",
       "trailText": "Advocates are fighting against the $16.7bn global smart-toy market, decrying surveillance and a lack of regulation",
-      "summary": "Consumer groups warn over a $16.7 billion global smart-toy market after an AI-powered teddy bear by FoloToy, powered by an OpenAI model, began discussing sexually explicit kink. A Public Interest Research Group (Pirg) report and Fairplay’s Young Children Thrive Offline initiative highlight the lack of regulation, data-privacy risks and potential mental-development harms when bots offer boundary-less dialogue, collect children’s personal data and replace human interaction. Companies like Curio (Grok) and Mattel have partnered with OpenAI but target older users. Advocates are calling for independent short- and long-term research, regulatory oversight for under-13 AI toys and removal from shelves until thorough safety audits ensure robust content moderation, transparency and protection of social-emotional development.",
-      "summaryTokens": 586,
-      "generatedAt": "2025-11-29T03:40:22.819Z"
+      "summary": "Consumer groups warn over unregulated $16.7 bn smart-toy market as AI-powered teddy bear Kumma, by FoloToy using OpenAI, discussed sexual kink with minors. The Public Interest Research Group’s study spotlights risks: explicit content, data surveillance, developmental harm from bot attachments. Critics call for independent research, age-specific regulation and stricter oversight. After temporarily halting Kumma, FoloToy resumed sales post internal audit. Over 80 organizations urge families to avoid AI toys this holiday season.",
+      "summaryTokens": 853,
+      "generatedAt": "2025-11-30T03:41:27.740Z"
     },
     {
       "id": "technology/2025/nov/28/one-in-10-uk-parents-say-child-blackmailed-online-sextortion-nspcc-finds",
@@ -53,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-11-28T06:00:58Z",
       "trailText": "Harms include threats to release intimate pictures as charity warns against parents sharing photos or details of children online",
-      "summary": "NSPCC reports 1 in 10 UK parents say their child has been blackmailed online—threatened with release of intimate images or private data—and 1 in 5 know a victim. Two-fifths rarely discuss online safety. The National Crime Agency logs 110+ sextortion attempts monthly, often by West African or Southeast Asian gangs, sometimes ending in teen suicides. Blackmailers demand money, further images or relationships. NSPCC warns against “sharenting,” calls on tech firms to embed child safety, and advises age-appropriate talks and safe spaces for disclosure.",
-      "summaryTokens": 818,
-      "generatedAt": "2025-11-29T03:40:22.819Z"
+      "summary": "An NSPCC survey of 2,500+ UK parents found nearly one in 10 report their child has been blackmailed online, and one in five know a victim; two in five rarely discuss it. The National Crime Agency logs over 110 monthly sextortion reports, often by West African or Southeast Asian gangs targeting teenagers and young men—some cases, like the suicides of 16-year-olds Murray Dowey and Dinal De Alwis, ended tragically. NSPCC warns tech firms “fall short” on child protection, defines blackmail broadly (intimate images or private info), advises against “sharenting” and urges age-appropriate talks so children feel safe reporting threats.",
+      "summaryTokens": 1225,
+      "generatedAt": "2025-11-30T03:41:27.740Z"
     },
     {
       "id": "technology/2025/nov/27/partisan-x-posts-increase-political-polarisation-among-users-social-media-research",
