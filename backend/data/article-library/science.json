@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-11-30T03:37:23.204Z",
+    "generated_at": "2025-12-01T03:47:41.983Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-29"
+      "to": "2025-11-30"
     },
-    "article_count": 123,
+    "article_count": 124,
     "merge_info": {
-      "previous_count": 122,
+      "previous_count": 123,
       "new_articles": 1,
-      "updated_articles": 2,
-      "total_count": 123
+      "updated_articles": 1,
+      "total_count": 124
     },
     "batch_info": {
-      "initial_batch_id": "batch_692bbb9b10e8819081603cb04b1f8aa9",
+      "initial_batch_id": "batch_692d0f9080648190b935be00693a1f02",
       "retry_batches": [],
-      "total_tokens": 5834,
+      "total_tokens": 5340,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/nov/30/why-we-have-to-continue-with-animal-testing-for-medical-research",
+      "title": "Why we have to continue with animal testing for medical research | Letters",
+      "webUrl": "https://www.theguardian.com/science/2025/nov/30/why-we-have-to-continue-with-animal-testing-for-medical-research",
+      "apiUrl": "https://content.guardianapis.com/science/2025/nov/30/why-we-have-to-continue-with-animal-testing-for-medical-research",
+      "section": "science",
+      "publishedDate": "2025-11-30T18:11:11Z",
+      "trailText": "Letters: Dr Robin Lovell-Badge and Prof Emma Robinson respond to an editorial on using new technologies to reduce the reliance on animal experiments",
+      "summary": "Dr Robin Lovell-Badge and Prof Emma Robinson argue that although regulatory testing can adopt new approach methodologies (NAMs), discovery science still relies on animal testing to establish causation in complex biological systems—neurobehavioral, endocrine, immune, tumor, aging and environmental interactions—for which NAMs, currently validated against animal or human data and dependent on animal-derived materials like matrigel and fetal bovine serum, fall short. They warn premature replacement could hinder breakthroughs, demotivate skilled technologists, and weaken UK competitiveness and animal welfare. They urge increased funding and regulatory reform to accelerate NAM adoption in toxicity and pharmacokinetics, yet stress fully animal-free research remains distant.",
+      "summaryTokens": 1600,
+      "generatedAt": "2025-12-01T03:47:41.491Z"
+    },
     {
       "id": "science/2025/nov/29/fungi-scientists-innovations",
       "title": "‘Nature’s original engineers’: scientists explore the amazing potential of fungi",
@@ -29,9 +41,9 @@
       "section": "science",
       "publishedDate": "2025-11-29T14:00:38Z",
       "trailText": "Unique properties of fungi have led to groundbreaking innovations in recent years, from nappies to electronics",
-      "summary": "Scientists and startups are harnessing fungi’s diverse capabilities—from Hiro’s diaper sachet that embeds freeze-dried fungi to compost plastics in under a year, to mycelium-based packaging, leather, insulation and potential living electronics—rewarded by the Future is Fungi Awards. Mycelium grows on agricultural waste into strong materials and secretes enzymes that break down wood, petroleum-like compounds and some plastics. Firms like Michroma and Mycolever use fungal fermentation to produce natural dyes and emulsifiers. Emerging uses include fire-retardant foams and bio-sensing circuits. Though effective on certain polymers, fungi must complement broader sustainable tech solutions.",
-      "summaryTokens": 1129,
-      "generatedAt": "2025-11-30T03:37:23.052Z"
+      "summary": "At the Future is Fungi Awards, innovators highlighted fungi’s potential—from Hiro’s self-composting diapers using freeze-dried fungi to digest plastics in under 12 months, to mycelium-grown packaging, biofoams, leather, insulation and fire-retardant firefighting foams. Companies like Michroma and Mycolever leverage fungal fermentation to produce natural pigments and emulsifiers, reducing petrochemical inputs. Mycelium’s thread-like networks build robust biocomposites from agricultural waste and secrete enzymes that break down wood, polyurethanes and some plastics, though PE and PP resist fast degradation. Researchers led by Adamatzky explore living fungal circuits for sensing and unconventional computing. Experts urge integrating fungi within broader sustainability strategies.",
+      "summaryTokens": 1033,
+      "generatedAt": "2025-12-01T03:47:41.491Z"
     },
     {
       "id": "theguardian/2025/nov/28/david-young-obituary",
