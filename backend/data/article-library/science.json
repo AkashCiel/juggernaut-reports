@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-12-01T03:47:41.983Z",
+    "generated_at": "2025-12-02T03:48:13.021Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-30"
+      "to": "2025-12-01"
     },
-    "article_count": 124,
+    "article_count": 126,
     "merge_info": {
-      "previous_count": 123,
-      "new_articles": 1,
+      "previous_count": 124,
+      "new_articles": 2,
       "updated_articles": 1,
-      "total_count": 124
+      "total_count": 126
     },
     "batch_info": {
-      "initial_batch_id": "batch_692d0f9080648190b935be00693a1f02",
+      "initial_batch_id": "batch_692e611a1be0819097c134fb9ab451ef",
       "retry_batches": [],
-      "total_tokens": 5340,
+      "total_tokens": 4700,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/dec/01/my-adolescent-era-has-lasted-a-lifetime",
+      "title": "My adolescent era has lasted a lifetime | Brief letters",
+      "webUrl": "https://www.theguardian.com/science/2025/dec/01/my-adolescent-era-has-lasted-a-lifetime",
+      "apiUrl": "https://content.guardianapis.com/science/2025/dec/01/my-adolescent-era-has-lasted-a-lifetime",
+      "section": "science",
+      "publishedDate": "2025-12-01T17:55:24Z",
+      "trailText": "Letters: Brain development | Rage rooms | Inaptly named places | Codeword clues",
+      "summary": "Four letters respond to Guardian reports: Richard Grothusen (78) affirms lifelong adolescence echoing a study that adult brain mode starts in the early 30s; Marie Paterson likens modern rage rooms to Dickens’s Victorian ‘Growlery’ for mood venting; Maxine Melling and John Knott spotlight punny place names from Australia’s Manly swimming club to Essex’s Ugley branch and Kent’s Loose Women’s Institute; and Phil Coughlin flags a Codeword puzzle error at slots 6 and 7. Collectively, they underscore reader engagement with neuroscience, stress relief, toponymy and puzzle quality.",
+      "summaryTokens": 1577,
+      "generatedAt": "2025-12-02T03:48:12.456Z"
+    },
+    {
+      "id": "science/2025/dec/01/starwatch-mercury-offers-rare-viewing-chance-for-early-risers",
+      "title": "Starwatch: Mercury offers rare viewing chance for early risers",
+      "webUrl": "https://www.theguardian.com/science/2025/dec/01/starwatch-mercury-offers-rare-viewing-chance-for-early-risers",
+      "apiUrl": "https://content.guardianapis.com/science/2025/dec/01/starwatch-mercury-offers-rare-viewing-chance-for-early-risers",
+      "section": "science",
+      "publishedDate": "2025-12-01T06:00:27Z",
+      "trailText": "Elusive planet will make a pre-dawn appearance as it seems to stray from the sun",
+      "summary": "In early December Mercury reaches its greatest western elongation, offering northern-hemisphere skywatchers their best 2025 viewing opportunity. From December 5–10, 30–60 minutes before sunrise, the elusive planet will hover low above the southeast horizon, shining brightest as twilight fades. Observers at mid-northern latitudes—exemplified by a 7 am GMT sighting on December 7 in London—will see Mercury at maximum separation from the Sun. Southern-hemisphere visibility is marginal. Binoculars can aid spotting but must not be used near sunrise to prevent eye damage.",
+      "summaryTokens": 555,
+      "generatedAt": "2025-12-02T03:48:12.456Z"
+    },
     {
       "id": "science/2025/nov/30/why-we-have-to-continue-with-animal-testing-for-medical-research",
       "title": "Why we have to continue with animal testing for medical research | Letters",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-11-30T18:11:11Z",
       "trailText": "Letters: Dr Robin Lovell-Badge and Prof Emma Robinson respond to an editorial on using new technologies to reduce the reliance on animal experiments",
-      "summary": "Dr Robin Lovell-Badge and Prof Emma Robinson argue that although regulatory testing can adopt new approach methodologies (NAMs), discovery science still relies on animal testing to establish causation in complex biological systems—neurobehavioral, endocrine, immune, tumor, aging and environmental interactions—for which NAMs, currently validated against animal or human data and dependent on animal-derived materials like matrigel and fetal bovine serum, fall short. They warn premature replacement could hinder breakthroughs, demotivate skilled technologists, and weaken UK competitiveness and animal welfare. They urge increased funding and regulatory reform to accelerate NAM adoption in toxicity and pharmacokinetics, yet stress fully animal-free research remains distant.",
-      "summaryTokens": 1600,
-      "generatedAt": "2025-12-01T03:47:41.491Z"
+      "summary": "Dr Lovell-Badge and Prof Robinson acknowledge the 3Rs and progress in new approach methodologies (NAMs) for regulatory tests, but emphasize discovery science still relies on animal models to prove causation and capture complex biology (brain, immune, reproductive, ageing, tumor systems). They note NAMs largely use animal-derived matrices (matrigel, fetal bovine serum) and can’t yet replicate whole-organism interactions. While boosting NAM validation for toxicity and pharmacokinetics via funding and regulatory change is vital, abandoning regulated animal research now would undermine medical advances, skilled technologists and UK competitiveness.",
+      "summaryTokens": 489,
+      "generatedAt": "2025-12-02T03:48:12.456Z"
     },
     {
       "id": "science/2025/nov/29/fungi-scientists-innovations",
