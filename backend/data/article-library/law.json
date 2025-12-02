@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "law",
-    "generated_at": "2025-12-01T03:37:54.611Z",
+    "generated_at": "2025-12-02T03:34:43.384Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-11-30"
+      "to": "2025-12-02"
     },
-    "article_count": 40,
+    "article_count": 41,
     "merge_info": {
-      "previous_count": 39,
+      "previous_count": 40,
       "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 40
+      "updated_articles": 1,
+      "total_count": 41
     },
     "batch_info": {
-      "initial_batch_id": "batch_692d0d706a648190a1a017e0a767a9ec",
+      "initial_batch_id": "batch_692e5d852fd48190a937e12f3b6150a3",
       "retry_batches": [],
-      "total_tokens": 3165,
-      "processing_time_hours": 0
+      "total_tokens": 4846,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "law/2025/dec/02/lammy-lambasts-courts-emergency-as-he-prepares-to-face-mps-over-plans-to-slash-jury-trials",
+      "title": "Lammy lambasts ‘courts emergency’ as he prepares to face MPs over plans to slash jury trials",
+      "webUrl": "https://www.theguardian.com/law/2025/dec/02/lammy-lambasts-courts-emergency-as-he-prepares-to-face-mps-over-plans-to-slash-jury-trials",
+      "apiUrl": "https://content.guardianapis.com/law/2025/dec/02/lammy-lambasts-courts-emergency-as-he-prepares-to-face-mps-over-plans-to-slash-jury-trials",
+      "section": "law",
+      "publishedDate": "2025-12-02T00:00:10Z",
+      "trailText": "Justice secretary expected to announce plans to tackle backlog of cases as he says system has been pushed to brink of collapse",
+      "summary": "Justice Secretary David Lammy labels the backlog of nearly 78,000 Crown Court cases—projected to exceed 100,000 by 2028—a “courts emergency” and plans to reserve jury trials for murder, rape, manslaughter and public interest offences. Under his plan, less serious “either way” crimes would be diverted to magistrates courts or a new Crown Court Bench Division with a judge and two lay magistrates, while technical, lengthy fraud and financial cases would proceed judge-alone. He also pledges £550 million for victims’ services over three years. The proposals go beyond Sir Brian Leveson’s July recommendations but face fierce criticism from the Criminal Bar Association, the Law Society and campaigners who warn of miscarriages of justice and erosion of jury rights.",
+      "summaryTokens": 798,
+      "generatedAt": "2025-12-02T03:34:43.123Z"
+    },
     {
       "id": "law/2025/nov/30/plan-to-reduce-jury-trials-an-irremediable-error-lawyers-say-in-moj-letter",
       "title": "Plan to reduce jury trials an ‘irremediable error’, lawyers say in MoJ letter",
@@ -29,9 +41,9 @@
       "section": "law",
       "publishedDate": "2025-11-30T14:00:08Z",
       "trailText": "More than 100 lawyers have accused the Ministry of Justice of ignoring the legal profession’s objections",
-      "summary": "Over 100 lawyers, including 23 KCs, have warned the Ministry of Justice that plans to limit jury trials—reserving them for offences carrying over five-year sentences—constitute an “irremediable error” that undermines an ancient right, won’t ease the 78,000-case backlog and erodes public trust. The proposals, urged by Sir Brian Leveson’s un-evidenced recommendations, extend magistrates’ sentencing from one to two years and introduce judge-alone trials for most serious offences. The Criminal Bar Association warns of weakened state-citizen ties. Government, citing harm to victims and witnesses from 78,000 stalled cases, insists no final decision has been made.",
-      "summaryTokens": 2268,
-      "generatedAt": "2025-12-01T03:37:54.192Z"
+      "summary": "Over 100 lawyers, including 23 King’s Counsel, have warned the Ministry of Justice that its plan to limit jury trials—introducing judge-alone trials for most offences and reserving juries for public interest cases with sentences over five years—constitutes an \"irremediable error.\" They argue Leveson-based changes won’t cut the 78,000-case backlog, erode an ancient right, and undermine trust. The Criminal Bar Association warns removing juries will damage social cohesion and fail to filter prejudice. The MoJ says no final decision has been taken and emphasizes the need to clear the backlog harming victims and witnesses.",
+      "summaryTokens": 1973,
+      "generatedAt": "2025-12-02T03:34:43.123Z"
     },
     {
       "id": "law/2025/nov/27/government-to-ditch-day-one-unfair-dismissal-policy-from-workers-rights-bill",
