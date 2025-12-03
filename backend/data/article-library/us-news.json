@@ -1,37 +1,409 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-02T03:56:18.811Z",
+    "generated_at": "2025-12-03T04:08:52.905Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-02"
+      "to": "2025-12-03"
     },
-    "article_count": 1506,
+    "article_count": 1537,
     "merge_info": {
-      "previous_count": 1490,
-      "new_articles": 16,
-      "updated_articles": 12,
-      "total_count": 1506
+      "previous_count": 1506,
+      "new_articles": 31,
+      "updated_articles": 17,
+      "total_count": 1537
     },
     "batch_info": {
-      "initial_batch_id": "batch_692e62f4ce008190b93da34a18624182",
+      "initial_batch_id": "batch_692fb6d0e88081908fd3114c6c37169c",
       "retry_batches": [],
-      "total_tokens": 66820,
-      "processing_time_hours": 0
+      "total_tokens": 110468,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "us-news/2025/dec/02/tennessee-special-election",
+      "title": "Republican Matt Van Epps wins US House special election in Tennessee",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/tennessee-special-election",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/tennessee-special-election",
+      "section": "us-news",
+      "publishedDate": "2025-12-03T02:50:15Z",
+      "trailText": "Van Epps defeats Aftyn Behn in congressional election closely watched for signs of Republican weakness",
+      "summary": "Republican Matt Van Epps won the special election in Tennessee’s 7th district, defeating Democrat Aftyn Behn 52%–46% in a race viewed as a midterm bellwether. Backed by virtual campaigning from Donald Trump and heavy GOP spending, Van Epps framed his victory as proof of continued conservative momentum. Democrats touted Behn’s six-point overperformance in a Trump +22 district as a warning for Republicans. The seat, vacated by Mark Green, normally leans Republican but proved unexpectedly competitive, heightening scrutiny of next year’s contests.",
+      "summaryTokens": 411,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trump-biden-autopen-pardons",
+      "title": "Trump claims to void all documents signed by Biden, citing autopen use",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trump-biden-autopen-pardons",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trump-biden-autopen-pardons",
+      "section": "us-news",
+      "publishedDate": "2025-12-03T01:32:19Z",
+      "trailText": "Presidents of both major parties have used the device and experts called into question legality of Trump’s move",
+      "summary": "On Truth Social, former President Trump declared he’s voiding all pardons, commutations and other documents that President Biden signed via autopen, asserting such signatures lack legal force. The autopen, routinely used for high-volume or ceremonial items, is long recognized under the Constitution and federal law. Legal scholars deem Trump’s move unprecedented and baseless—there’s no mechanism to rescind predecessor pardons or require a handwritten signature. Courts will likely resolve this first major challenge to autopen validity.",
+      "summaryTokens": 1293,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/san-francisco-claude-albino-alligator",
+      "title": "‘Iconic swamp king’: San Francisco’s beloved albino alligator dies aged 30",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/san-francisco-claude-albino-alligator",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/san-francisco-claude-albino-alligator",
+      "section": "us-news",
+      "publishedDate": "2025-12-03T01:24:50Z",
+      "trailText": "Claude, the de facto mascot for a local museum, was the subject of a children’s book and regularly received fan mail",
+      "summary": "Claude, the albino alligator at the California Academy of Sciences, died aged 30 after treatment for a suspected infection. Hatched in Louisiana in September 1999 and first housed in Florida, his unique white scales and poor eyesight made him unable to survive in the wild. In 2008, he moved to San Francisco, becoming a museum mascot featured in a children’s book, a 24/7 livestream star and birthday-celebrant. A necropsy at UC Davis will investigate his death, and a public memorial is planned to honor the “iconic swamp king” whose charisma connected millions to nature.",
+      "summaryTokens": 554,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "society/2025/dec/02/ultra-processed-foods-lawsuit-san-francisco",
+      "title": "San Francisco sues food giants over ultra-processed products",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/02/ultra-processed-foods-lawsuit-san-francisco",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/02/ultra-processed-foods-lawsuit-san-francisco",
+      "section": "us-news",
+      "publishedDate": "2025-12-03T01:00:53Z",
+      "trailText": "City argues corporations profit while communities bear the cost of diseases linked to ultra-processed foods",
+      "summary": "San Francisco’s city attorney David Chiu has launched the nation’s first government lawsuit against ten major food corporations (including Coca-Cola, PepsiCo, Kraft Heinz and Nestlé), alleging unfair and deceptive marketing of ultra-processed foods (UPFs) that contain industrial additives and comprise over 70% of the US food supply. Citing a global review linking UPFs to cancer, obesity, diabetes, heart disease, depression and cognitive decline, the suit seeks damages for public health costs under California’s unfair competition and public nuisance laws. It follows California’s new UPF statutory definition and additive bans in schools, and builds on San Francisco’s track record of public health litigation.",
+      "summaryTokens": 1080,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trump-administration-news-update-today",
+      "title": "Trump news at a glance: Hegseth scrutinized over boat strikes as first formal complaint filed by victim’s family",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trump-administration-news-update-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trump-administration-news-update-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-03T00:47:59Z",
+      "trailText": "Trump says any country he believes is making drugs destined illegally for the US is vulnerable to military attack – key US politics stories from Tuesday, 2 December 2025",
+      "summary": "Deadly US double-tap strike on an alleged narcotics vessel, authorized by Pete Hegseth and carried out under Adm. Frank Bradley, spurs bipartisan anger and war crime probes; Trump vows military action against any country he accuses of sending illicit drugs to the US, including imminent strikes in Venezuela; Colombian victim’s family files first IACHR complaint over September airstrike; Trump’s xenophobic cabinet tirade targets Somali immigrants; Michael and Susan Dell pledge $6.25 bn for children’s “Trump Accounts”; administration threatens to cut SNAP funds in Democratic states over data; plus Pope’s caution on Venezuela, FEMA worker reinstatements, and Trump’s Truth Social spree.",
+      "summaryTokens": 1009,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trump-snap-benefits-threat-democratic-states",
+      "title": "Trump officials threaten to withhold Snap funds from Democratic-led states",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trump-snap-benefits-threat-democratic-states",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trump-snap-benefits-threat-democratic-states",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T22:54:06Z",
+      "trailText": "Agriculture secretary Brooke Rollins threatens to pull funds unless states turn over recipient data to US government",
+      "summary": "Trump administration’s USDA secretary Brooke Rollins has warned she will suspend SNAP funding to 21 Democratic-led states—such as California, New York and Minnesota—unless they hand over detailed recipient data (including SSNs, immigration status) to fight alleged fraud. While 29 Republican states have complied, blue states face imminent funding cuts. USDA’s new “Snap integrity team” will analyze submissions, but opponents cite SNAP’s low 0.7% retailer sanction rate, 42 million beneficiaries—67% children, elderly or disabled—and decry “weaponizing hunger.”",
+      "summaryTokens": 1694,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/police-tip-unitedhealthcare-ceo-shooting-suspect",
+      "title": "Police were skeptical about tip that led to arrest of UnitedHealthcare CEO shooting suspect",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/police-tip-unitedhealthcare-ceo-shooting-suspect",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/police-tip-unitedhealthcare-ceo-shooting-suspect",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T22:20:54Z",
+      "trailText": "Officers joked about tip that Luigi Mangione was at a Pennsylvania McDonald’s, where they arrested him in the killing of Brian Thompson",
+      "summary": "Officers in Altoona, Pennsylvania initially laughed off a Dec. 9 tip that Luigi Mangione was dining at a McDonald’s—joking about a free hoagie—before arresting him for the Dec. 4 murder of UnitedHealthcare CEO Brian Thompson. Testifying on day two of a suppression hearing, Officer Joseph Detwiler described recognizing the masked suspect via bodycam, confronting him over a fake ID and keeping a calm tone. Mangione, charged in both Manhattan state and federal courts and pleading not guilty, seeks to exclude evidence alleging he wasn’t Mirandized and was unlawfully detained.",
+      "summaryTokens": 875,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/michael-dell-trump-accounts-for-kids-investment",
+      "title": "How do ‘Trump accounts’ work – and who will benefit? ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/michael-dell-trump-accounts-for-kids-investment",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/michael-dell-trump-accounts-for-kids-investment",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T22:09:49Z",
+      "trailText": "Donation of $6.25bn for children’s investment accounts prompts wave of questions – but details remain scarce",
+      "summary": "Every US child born Jan 1, 2025–Dec 31, 2028 with an SSN can open a ‘Trump account’ with a $1,000 government deposit; accounts start July 4, 2026. Funds go into low-cost index funds; parents, family and employers can contribute up to $5,000/year and charities or states without limit. Withdrawals begin at 18 under retirement-style tax rules, with exceptions for education or first-home purchases. Michael Dell’s $6.25 billion donation allocates ~$250 each to about 25 million children in ZIP codes below $150,000 median income. Critics caution accounts favor wealthier families, offer minimal immediate poverty relief and exclude many immigrant children.",
+      "summaryTokens": 1437,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/california-shooting-victims-toddler-birthday-party",
+      "title": "Family members identify victims of shooting at toddler’s birthday party in California",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/california-shooting-victims-toddler-birthday-party",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/california-shooting-victims-toddler-birthday-party",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T22:02:00Z",
+      "trailText": "Dead included children, aged eight, nine and 14, and a 21-year-old man who were shot at a banquet hall",
+      "summary": "At a two-year-old’s birthday party in Stockton, California, gunmen opened fire in a crowded banquet hall, killing four—8-year-old Maya Lupian, a 9-year-old child, 14-year-old Amari Peterson and 21-year-old Susano Archuleta—and injuring at least 11. Family members confirmed identities via GoFundMe pages: Maya, a karate purple belt excelling in school; Amari, a promising athlete; and Archuleta, fatally shot in the neck. Investigators suspect multiple shooters and possible gang ties as police search for suspects, urging tips. Anti-violence advocate Jasmine Dellafosse was among the wounded. This marks the 17th U.S. mass killing of 2025.",
+      "summaryTokens": 1414,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/us-admiral-to-brief-lawmakers-as-bipartisan-scrutiny-grows-over-boat-strike",
+      "title": "Trump administration is ‘selling out’ admiral to shield Hegseth over boat strikes, officials say",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/us-admiral-to-brief-lawmakers-as-bipartisan-scrutiny-grows-over-boat-strike",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/us-admiral-to-brief-lawmakers-as-bipartisan-scrutiny-grows-over-boat-strike",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T21:56:59Z",
+      "trailText": "White House names Adm Frank M Bradley as officer who ‘directed the engagement’, distancing Hegseth from accountability",
+      "summary": "Pentagon and White House have publicly pinned the Sept. 2 extrajudicial double-tap strike on a suspected narcotics vessel on Adm. Frank M. Bradley—shifting blame away from Secretary Pete Hegseth amid reports he ordered survivors killed. Bradley, now backed by classified Justice Department OLC opinions treating boat targets as drug-trafficking threats, will brief House and Senate armed services panels this week. Bipartisan lawmakers, led by Sens. Chuck Schumer, Chris Murphy and Roger Wicker, have launched investigations into the legality of U.S. strikes in the Caribbean and eastern Pacific that killed 82 alleged “narco-terrorists.”",
+      "summaryTokens": 444,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trump-somali-immigrants-minnesota",
+      "title": "Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trump-somali-immigrants-minnesota",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trump-somali-immigrants-minnesota",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T21:20:30Z",
+      "trailText": "US president’s xenophobic rant comes amid reports of ramped-up deportation efforts in Ilhan Omar’s district",
+      "summary": "During a December 2 cabinet meeting, President Trump launched a xenophobic attack on Somali immigrants and Rep. Ilhan Omar, calling both “garbage,” claiming Somalis “contribute nothing” and urging their deportation. The New York Times reports ICE “strike teams” of ~100 agents will intensify removals of Somalis in the Minneapolis–St Paul area, home to roughly 80,000 residents, most citizens or legal. Officials cited fraud probes and threatened to revoke Somali TPS; Treasury Secretary Bessent flagged suspected Al-Shabaab funding. Minneapolis Mayor Jacob Frey condemned the operation, pledging solidarity and warning of due-process violations.",
+      "summaryTokens": 880,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/new-orleans-clergy-abuse-survivors-court",
+      "title": "Survivors of New Orleans clergy abuse weigh forgiveness in court: ‘It destroyed my faith in God’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/new-orleans-clergy-abuse-survivors-court",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/new-orleans-clergy-abuse-survivors-court",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T21:19:31Z",
+      "trailText": "Victims share painful memories in trial aiming to determine fairness of archdiocese’s $230m settlement proposal",
+      "summary": "At the final day of a three-week federal trial, about 20 survivors of New Orleans archdiocese clergy abuse told Judge Meredith Grabill how exploitation by priests and church personnel devastated their lives. The hearing will decide the fairness of a proposed $230 million settlement covering roughly 600 claimants in the archdiocese’s bankruptcy. Testimony ranged from Neil Duhon’s unresolved rage over rape at 15, to Kathleen Austin’s lifelong flashbacks, and to others who have both forgave and refound faith. Archbishop Gregory Aymond apologized; a ruling is due in December.",
+      "summaryTokens": 805,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trump-threatens-strikes-drugs-venezuela",
+      "title": "Trump threatens strikes on any country he claims makes drugs for US",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trump-threatens-strikes-drugs-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trump-threatens-strikes-drugs-venezuela",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T21:17:07Z",
+      "trailText": "Trump signals imminent land strikes in Venezuela, blaming a navy admiral for a deadly September attack",
+      "summary": "Donald Trump warned any nation he deems manufacturing illicit fentanyl or cocaine for the US is “fair game” for military attack, expanding beyond Venezuela to Colombia and others. Speaking at the White House, he vowed imminent land strikes against Venezuela’s “narco-terrorists,” citing known trafficking routes and promising to “drive those numbers down.” At the same meeting, Secretary Pete Hegseth appeared to shift responsibility onto Navy Admiral Frank M “Mitch” Bradley for the September operation that killed two boat-attack survivors; Bradley is set to brief congressional investigators on the alleged extrajudicial second strike.",
+      "summaryTokens": 421,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/dell-donation-625bn-trump-accounts",
+      "title": "Michael and Susan Dell donate $6.25bn to encourage families to claim ‘Trump accounts’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/dell-donation-625bn-trump-accounts",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/dell-donation-625bn-trump-accounts",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T20:44:56Z",
+      "trailText": "Billionaires contribute to new investment accounts for children created as part of Trump legislation",
+      "summary": "Michael and Susan Dell pledged $6.25 billion to seed “Trump accounts” — new children’s investment funds created by Donald Trump’s 2025 tax and spending law — with $250 each for 25 million kids under ten in zip codes ≤ $150 000 median household income. The US Treasury plans to launch the accounts on 4 July 2026; the administration will deposit $1 000 per child born 2025–28. Managed privately, the funds invest in stock-market index funds and mature at 18 for education, homes, or business. While aiming to spur family and donor contributions, the plan coincides with cuts to Medicaid, food stamps and childcare, raising concerns about near-term poverty relief.",
+      "summaryTokens": 1166,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trump-fema-workers-administrative-leave",
+      "title": "Trump administration puts Fema workers back on administrative leave",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trump-fema-workers-administrative-leave",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trump-fema-workers-administrative-leave",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T20:23:02Z",
+      "trailText": "Fourteen workers who signed a petition that warned cuts put the US at risk were initially suspended in August",
+      "summary": "The Trump administration re-suspended 14 FEMA staffers who had briefly been reinstated after signing an August petition—the “Katrina Declaration”—warning that budget cuts risked a repeat of the flawed Katrina response. Their return, revealed by CNN, was deemed unauthorized by DHS and swiftly reversed, leaving them on paid leave without legal justification. Advocates cite Whistleblower Protection Act and First Amendment safeguards; one terminated employee successfully challenged her firing. The episode underscores broader Trump-era agency overhauls and punitive actions against dissenting federal workers.",
+      "summaryTokens": 533,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/eric-trump-american-bitcoin-stock",
+      "title": "Eric Trump’s cryptocurrency firm tumbles nearly 40% amid ‘crypto winter’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/eric-trump-american-bitcoin-stock",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/eric-trump-american-bitcoin-stock",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T20:14:27Z",
+      "trailText": "American Bitcoin Corp’s shares fell from $2.39 to $1.90 after closing in what some are calling ‘crypto winter’",
+      "summary": "American Bitcoin Corp, Eric Trump’s crypto-mining company, plunged 38.8% in under 30 minutes to $1.90 from $2.39, erasing roughly $1 billion in market cap amid a broader crypto winter. ABTC shares, which peaked at $9.31 in September, have fallen 78% and saw 40× normal trading volume. Bitcoin is down over 30% since early October. Eric Trump says the sell-off reflects profit-taking and vows to hold all his shares and lead the business. His other ventures—WLFI token and $TRUMP—are also sliding, denting the family fortune from $7.7 billion to $6.7 billion.",
+      "summaryTokens": 1101,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/national-guard-washington-dc-armed",
+      "title": "Pentagon says every national guard soldier deployed in Washington DC ‘is now armed’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/national-guard-washington-dc-armed",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/national-guard-washington-dc-armed",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T19:22:48Z",
+      "trailText": "Move to arm all 2,375 estimated troops marks shift in rules of engagement for domestic military deployments",
+      "summary": "Pentagon has armed all 2,375 National Guard troops in DC with live weapons and launched joint patrols with the Metropolitan Police Department after an ambush near the White House wounded two guard members—20-year-old Sarah Beckstrom died and Andrew Wolfe remains critical—prompting an extra 500-troop deployment. The shift in domestic rules of engagement, with varied tactical training across guard units, raises escalation and readiness concerns as the deployment’s legality is under appeal. Afghan national Rahmanullah Lakanwal is charged with murder, triggering a suspension of Afghan immigration and broader asylum reviews.",
+      "summaryTokens": 1250,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/nyc-firefighters-pfas-forever-chemicals-bill",
+      "title": "New York City bill aims to ban toxic ‘forever chemicals’ in firefighting gear",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/nyc-firefighters-pfas-forever-chemicals-bill",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/nyc-firefighters-pfas-forever-chemicals-bill",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T18:46:14Z",
+      "trailText": "Approval of legislation to ban Pfas would be major win for advocates pushing for safer gear alternatives across US",
+      "summary": "New York City Council’s proposed bill would ban PFAS “forever chemicals” in turnout gear worn by the FDNY’s 11,000 firefighters by 2028, aligning with bans in Massachusetts, Connecticut and Illinois. PFAS are linked to cancer, the leading killer of firefighters, and accumulate in gear, air and water. The legislation also mandates firehouse water testing and voluntary firefighter blood testing. Backed by bipartisan sponsors, the Uniformed Firefighters Association and NFPA’s updated standards, it faces opposition from the American Chemistry Council. Firefighters are pursuing a national class-action suit against PFAS makers and gear producers, alleging industry negligence.",
+      "summaryTokens": 1136,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/vaccines-hepatitis-b-childhood-immunizations-rfk-jr",
+      "title": "Federal panel could call for scrapping of infant hepatitis B vaccines this week",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/vaccines-hepatitis-b-childhood-immunizations-rfk-jr",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/vaccines-hepatitis-b-childhood-immunizations-rfk-jr",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T18:36:21Z",
+      "trailText": "Two-day meeting under new, RFK Jr-appointed chair could see radical overhaul of US childhood immunizations policy",
+      "summary": "At a two-day CDC advisory committee meeting chaired by Kirk Milhoan, appointed by HHS Secretary RFK Jr, members will vote to drop the requirement for a hepatitis B dose within 24 hours of birth, instead delaying the first dose pending a final interval. The panel, sharing RFK Jr’s distrust of public health practices, has already revised guidance on COVID jabs and MMRV timing while probing unproven links between vaccination schedules, autoimmune diseases and aluminum adjuvants. Repealing newborn Hep B shots could reverse decades of a 99% decline in pediatric acute hepatitis B, experts warn, undermining CDC credibility amid criticism of unscientific vaccine policy shifts.",
+      "summaryTokens": 1017,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/costco-sues-trump-tariffs",
+      "title": "Costco sues Trump administration over sweeping emergency tariff powers",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/costco-sues-trump-tariffs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/costco-sues-trump-tariffs",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T17:27:06Z",
+      "trailText": "The wholesale giant claims the White House misused emergency authority and warns importers could lose refunds even if duties are ruled unlawful",
+      "summary": "Costco has sued the Trump administration at the US Court of International Trade, arguing that emergency tariff authority under the International Emergency Economic Powers Act (IEEPA) exceeds presidential power because it ‘does not use the word tariff’. The retailer warns that Customs and Border Protection could liquidate duties after 314 days—foreclosing refunds even if the Supreme Court rules the tariffs unconstitutional next spring. Costco seeks to halt liquidation, declare the duties unlawful and secure reimbursement. Tariff collections jumped to $195bn in FY25, with imports accounting for one-third of Costco’s US sales.",
+      "summaryTokens": 923,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/pete-hegseth-franklin-the-turtle",
+      "title": "Publisher condemns ‘violent’ use of Franklin the Turtle after Hegseth’s boat strike post",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/pete-hegseth-franklin-the-turtle",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/pete-hegseth-franklin-the-turtle",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T16:42:43Z",
+      "trailText": "US defense secretary posted meme depicting beloved children’s character aiming rocket launcher at set of boats",
+      "summary": "US defense secretary Pete Hegseth shared a spoof Franklin the Turtle cover—showing the beloved children’s character in military gear firing a rocket launcher at narco-boats—triggering condemnation from Canadian publisher Kids Can Press for unauthorized, violent use of its icon. The post coincided with outrage over deadly U.S. strikes in the Caribbean and Pacific that killed at least 80 people and included a follow-up order to “kill everybody” aboard a vessel, actions critics label illegal under international law. The meme spawned further parodies; the White House insists the strikes complied with armed conflict rules.",
+      "summaryTokens": 678,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/what-does-trump-asylum-seeker-pause-mean",
+      "title": "What Trump’s asylum ‘pause’ means – and what it doesn’t ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/what-does-trump-asylum-seeker-pause-mean",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/what-does-trump-asylum-seeker-pause-mean",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T16:00:36Z",
+      "trailText": "The US president has halted decisions on many asylum claims, but the scope, legality and real-world effects of the pause remain unclear",
+      "summary": "After an Afghan national with approved asylum was accused of shooting two National Guard members, President Trump ordered a ‘pause’ on USCIS asylum decisions, freezing 1.5 million pending applications but not the 2.4 million cases before immigration courts. The directive has no defined end date and could face immediate legal challenges given its sweeping scope. It marks a reversal from the administration’s recent push to clear cases and increase denials. Analysts say the pause may presage procedural overhauls or new policies, with details expected in coming weeks.",
+      "summaryTokens": 603,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trumps-truth-social-post-health",
+      "title": "Trump’s night of 160 posts on Truth Social fuels debate about US president’s stamina",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trumps-truth-social-post-health",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trumps-truth-social-post-health",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T15:58:51Z",
+      "trailText": "The 79-year-old president’s social media blitz included conspiracies, attacks on political foes and self-praise",
+      "summary": "Despite health concerns, the 79-year-old US president unleashed 160 Truth Social posts over four hours, averaging one per minute. He targeted Democrats like Sen. Mark Kelly, Gov. Gavin Newsom, Reps. Ilhan Omar and Tulsi Gabbard, praised himself as “the greatest president,” shared conspiracy-laden claims about Musk, “Russiagate” documents and illegal voting, reposting content repeatedly. His blitz continued next day as he campaigned for GOP races, including the Georgia governor’s contest and Tennessee House campaign.",
+      "summaryTokens": 788,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/kristi-noem-travel-ban-national-guard-shooting",
+      "title": "Kristi Noem urges sweeping new US travel ban after fatal DC shooting",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/kristi-noem-travel-ban-national-guard-shooting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/kristi-noem-travel-ban-national-guard-shooting",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T14:26:53Z",
+      "trailText": "Homeland security secretary backs broad restrictions after guard member’s killing, echoing Trump’s hardline stance",
+      "summary": "Homeland Security Secretary Kristi Noem has urged a “full travel ban on every damn country” she accuses of sending “killers, leeches, and entitlement junkies” into the US, after an Afghan national fatally shot a National Guard member in Washington DC. Posting on X, Noem said she’d conferred with former President Trump, who Karoline Leavitt confirmed supports widening his existing 19-country ban. DHS says it will release the list of targeted nations soon. The proposal follows Trump’s halt on Afghan visas and a review of Biden-era asylum approvals, echoing legal battles over past travel restrictions.",
+      "summaryTokens": 620,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/trump-asylum-pause-afghanistan",
+      "title": "Asylum seekers across US in limbo over Trump’s policy reversals: ‘devastating’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/trump-asylum-pause-afghanistan",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/trump-asylum-pause-afghanistan",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T14:04:07Z",
+      "trailText": "US paused asylum decisions, halted Afghan visas, and will review green card requests after national guard shooting",
+      "summary": "After an Afghan national shot two DC National Guard members, the Trump administration vowed to “permanently pause” migration from “third world” countries, paused all affirmative asylum decisions and Afghan war-ally visas, and is re-evaluating green card applications from “countries of concern,” affecting 1.5m cases. USCIS director Edlow cited vetting needs; advocates call the measures demoralizing, warn of unprecedented backlogs, indefinite limbo and collective punishment. Lawyers expect legal challenges and confusion over affirmative vs defensive asylum processes. Asylum seekers like Reza Hussaini, a 23-year-old Afghan survivor of Taliban torture and bombings, and Hazara minority members fear deportation to life-threatening conditions.",
+      "summaryTokens": 2936,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
+      "title": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T14:00:34Z",
+      "trailText": "Polluting facilities in Monterrey, which has close ties to the US, are pumping toxic heavy metals into the city’s air and threatening residents’ health",
+      "summary": "Guardian and Quinto Elemento Lab analysis finds Monterrey’s 5.3m-strong metro emits over 4,300lb of lead, 301lb of cadmium and 66lb of arsenic annually—more than many US states and in densely populated urban neighborhoods—while ranking as the worst PM2.5 metro across Mexico, US and Canada. Around 60% of its air pollution stems from industrial plants supplying and recycling US goods and hazardous waste. Chronic exposure is linked to thousands of deaths and widespread ailments. Residents have staged protests; federal and state officials promise stricter emissions standards and inspections, but enforcement gaps and obsolete regulations persist.",
+      "summaryTokens": 881,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/los-angeles-carwash-raids-ice",
+      "title": "‘A terror inflicted on our communities’: why ICE is targeting car washes in LA",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/los-angeles-carwash-raids-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/los-angeles-carwash-raids-ice",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T13:00:34Z",
+      "trailText": "Andrea Gonzalez and Norma Fajardo of Clean Carwash Worker Center, an advocacy group, describe ICE’s ‘psychological warfare’ as car wash workers are disappeared",
+      "summary": "Since June 2025, ICE has carried out at least 101 raids on LA car washes, arresting over 346 workers—including citizens, green-card holders and undocumented immigrants—using high-profile enforcement tactics that critics call ’psychological warfare.’ The Clean Carwash Worker Center, founded in 2007 to combat labor abuses, has pivoted to immigration defense: linking detainees with legal aid, mutual aid and bond funds. Its advocacy has secured bond releases for 20 workers via habeas petitions and mobilized community coalitions. Clean warns the operations inflict trauma, strip due process and enforce coerced deportations, leaving families fighting for justice and human rights.",
+      "summaryTokens": 1071,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/hegseth-us-soldiers-iraq-rules-engagement",
+      "title": "Pete Hegseth told US soldiers in Iraq to ignore legal advice on rules of engagement",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/hegseth-us-soldiers-iraq-rules-engagement",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/hegseth-us-soldiers-iraq-rules-engagement",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T13:00:33Z",
+      "trailText": "Defense secretary shares anecdote in The War on Warriors and rails against ‘rules and regulations’ governing war",
+      "summary": "In his memoir The War on Warriors, US Defense Secretary Pete Hegseth reveals telling his Iraq platoon to ignore JAG guidance on rules of engagement—ordering them to kill any perceived threat—and denounces Geneva conventions as “nonsense.” Now facing Senate scrutiny over an alleged “kill everybody” order in a Caribbean boat strike, Hegseth denies wrongdoing and has President Trump’s backing. Military legal experts warn such defiance risks war crimes, erodes discipline and the US commitment to international law.",
+      "summaryTokens": 660,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/first-thing-eu-foreign-policy-chief-warns-us-russia-talks-may-pressure-kyiv-to-make-concessions",
+      "title": "EU foreign policy chief warns US-Russia talks may pressure Kyiv to make concessions | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/first-thing-eu-foreign-policy-chief-warns-us-russia-talks-may-pressure-kyiv-to-make-concessions",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/first-thing-eu-foreign-policy-chief-warns-us-russia-talks-may-pressure-kyiv-to-make-concessions",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T11:25:27Z",
+      "trailText": "Kaja Kallas voices concern as Steve Witkoff is due to meet Vladimir Putin in Moscow. Plus, a new book highlights the forgotten builders of the Empire State Building",
+      "summary": "The EU’s foreign policy chief, Kaja Kallas, warns that US envoy Steve Witkoff’s talks with Vladimir Putin risk squeezing Ukraine into concessions—ceding territory, limiting its army and abandoning NATO aspirations—proposals heavily tilted toward Russia. Witkoff, a property developer turned envoy exposed for coaching Russian officials on winning Trump’s favor, meets Putin in Moscow today. Kallas insisted peace efforts must focus on Russian aggression, not penalizing Ukraine. Meanwhile, President Zelenskyy, fresh from talks in France, visits Ireland to shore up European support. Developing story.",
+      "summaryTokens": 816,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/starbucks-union-strike",
+      "title": "‘We’re not going anywhere’: how unionization ‘whirlwind’ set stage for historic Starbucks strike",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/starbucks-union-strike",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/starbucks-union-strike",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T11:00:51Z",
+      "trailText": "Four years after workers at a Starbucks store in upstate New York became the first to unionize, hundreds of outlets followed – defying intense resistance from the coffee chain. What happened next?",
+      "summary": "Four years after Buffalo’s first US Starbucks union vote in December 2021, 2,500 baristas across 120 stores in 85 cities have launched the chain’s biggest strike during the 2025 holiday season amid stalled talks for a first contract. Starbucks Workers United, with 11,000 members at 550+ outlets, accuses management of anti-union tactics, delays and firings; Starbucks insists 99% of its 17,000 US locations remain open and reports record holiday sales. Progressive politicians and 100+ members of Congress have joined pickets to demand resumed negotiations.",
+      "summaryTokens": 1118,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
+      "id": "us-news/2025/dec/02/us-venezuela-crisis-trinidad-tobago",
+      "title": "Radar revelation stokes fears Caribbean could be drawn into US-Venezuela crisis",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/02/us-venezuela-crisis-trinidad-tobago",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/02/us-venezuela-crisis-trinidad-tobago",
+      "section": "us-news",
+      "publishedDate": "2025-12-02T10:00:26Z",
+      "trailText": "Trinidad PM rejects claims installation is in support of US campaign but opposition says ‘they have sold soul of nation’",
+      "summary": "Trinidad and Tobago’s government under PM Persad-Bissessar admitted hosting 100 US marines and a Northrop Grumman AN/TPS-80 G/ATOR radar 7 miles from Venezuela. Officially framed as a counter-narcotics measure, the move follows 21 US airstrikes killing over 80 suspected traffickers, including citizens. Opposition MPs and former ministers decry alleged collusion with US military pressure on Venezuela, warning of Cold War–style militarization threatening tourism and sovereignty. Analysts caution the radar’s permanent US presence could draw the Caribbean into a broader US-Venezuela crisis and expose Trinidad and Tobago to retaliatory risks.",
+      "summaryTokens": 559,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
+    },
+    {
       "id": "us-news/2025/dec/01/trump-administration-news-update-today",
-      "title": "Trump news at a glance: tensions with Venezuela rise following president’s reported ultimatum to Maduro",
+      "title": "Trump news at a glance: tensions with Venezuela rise after president’s reported ultimatum to Maduro",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/01/trump-administration-news-update-today",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/01/trump-administration-news-update-today",
       "section": "us-news",
       "publishedDate": "2025-12-02T02:06:45Z",
       "trailText": "Trump reportedly had a ‘blunt message’ for Venezuelan president: leave power and your country immediately",
-      "summary": "President Donald Trump delivered a stark ultimatum to Venezuelan leader Nicolás Maduro during a Nov. 21 phone call, urging him to relinquish power and leave Venezuela immediately in exchange for safe passage for his family. Maduro rebuffed the offer, seeking global immunity and to retain military control despite stepping down. The exchange follows a four-month U.S. pressure campaign and major naval deployment off Venezuela’s coast. Meanwhile, Trump convened national security advisers on the crisis amid broader headlines including EU fears over U.S.-Russia talks, an FBI morale report and questions about his MRI.",
-      "summaryTokens": 667,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "In a phone call on 21 November, President Donald Trump told Venezuelan President Nicolás Maduro to resign immediately and leave the country, offering safe passage for him and his family. Maduro refused, demanding global immunity and control of the armed forces. The ultimatum follows a four-month US pressure campaign, including a major naval deployment off Venezuela’s northern coast. Trump later convened his top national security advisers but said the call was neither good nor bad. Details remain scarce, with neither US nor Venezuelan officials elaborating.",
+      "summaryTokens": 1490,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/snow-storm-us-north-east-latest",
@@ -41,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T22:53:34Z",
       "trailText": "Prediction for New England area comes after travelers experienced disruption over Thanksgiving holiday weekend",
-      "summary": "US north-east braces for heavy winter storm: rain, ice and 5–10 in of snow (over 12 in in higher elevations) from the Poconos to eastern Maine, arriving Monday night and ending Tuesday night, clearing by Wednesday. Winter storm warnings/advisories cover Massachusetts, New Hampshire, Vermont and Maine; coastal Maine residents urged to delay travel. This follows a Thanksgiving storm that dumped a record 8.4 in at Chicago O’Hare, grounded flights and snarled Midwest roads. Mid-Atlantic prep includes treating the 565-mile Pennsylvania Turnpike and imposing vehicle restrictions from 5 am Tuesday. New Hampshire’s DOT launched a name-a-plow contest. Meteorologists warn of “significant” first-season snowfall.",
-      "summaryTokens": 453,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "Forecasters warn a winter storm will slam the US north-east Monday night into Tuesday, bringing rain, ice and 5–10 in of snow from the Poconos to eastern Maine and over a foot in high-elevation New England. Massachusetts, New Hampshire, Vermont and coastal Maine are under winter storm warnings—Maine’s until Wednesday, with travel discouraged. The storm follows Thanksgiving weekend disruptions in the midwest and Great Lakes, including a record 8.4 in at Chicago O’Hare. Pennsylvania Turnpike crews are pre-treating roads, interstates will restrict vehicles, and New Hampshire launched its name-a-plow contest.",
+      "summaryTokens": 621,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/luigi-mangione-new-york-evidence-hearing",
@@ -53,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T21:13:25Z",
       "trailText": "Corrections officer testifies that Mangione had constant watch to prevent him from dying in custody like Epstein",
-      "summary": "During a Manhattan state-court proceeding on the legality of evidence from his December arrest at a Pennsylvania McDonald’s, Corrections Officer Tomas Rivers testified that accused killer Luigi Mangione was housed at SCI Huntingdon under “constant watch”—per orders from the state corrections secretary—to prevent an “Epstein-style” death. Rivers detailed daily monitoring of Mangione’s behavior and conversations. A Blair County 911 coordinator also played a manager’s call labeling him “suspicious” and resembling the “CEO shooter.” Mangione, who has pleaded not guilty to state and federal charges in the killing of UnitedHealth executive Brian Thompson, is now fighting to exclude his statements and evidence seized in what his lawyers call a warrantless backpack search after Judge Gregory Carro earlier threw out key terrorism-related counts.",
-      "summaryTokens": 907,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "During opening of a Manhattan state court hearing on evidence from his December 2024 Altoona McDonald’s arrest, corrections officer Tomas Rivers testified that Luigi Mangione was held at SCI Huntingdon under constant watch—ostensibly to prevent an “Epstein-style” death—rather than in a local jail. Mangione, charged with murdering UnitedHealthcare executive Brian Thompson, faces both state and federal counts. His defense seeks to suppress his statements and a warrantless backpack search. Earlier this year, Judge Gregory Carro dismissed terrorism-related murder charges for insufficient evidence. The prosecution also played a 911 call from the restaurant manager.",
+      "summaryTokens": 811,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/trump-indiana-state-senator-redistricting-vote",
@@ -65,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T20:38:59Z",
       "trailText": "Michael Bohacek, an Indiana state senator, says US president’s ‘choices of words have consequences’",
-      "summary": "Indiana state senator Michael Bohacek, a GOP lawmaker and father of a daughter with Down syndrome, vowed to oppose his party’s December congressional redistricting plan after President Donald Trump used an ableist slur against Minnesota Governor Tim Walz. Bohacek, an advocate for people with intellectual disabilities, criticized Trump’s “choices of words” and rejected pressure from the president’s social posts threatening primary challenges and removal from office. His stance underscores internal GOP resistance amid reports of threats, including swatting attacks on at least nine Republican legislators, and warnings from state leaders who lack enough votes to pass the map.",
-      "summaryTokens": 999,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "Indiana state senator Michael Bohacek, a Republican whose daughter has Down syndrome, announced he will vote “no” on a planned congressional redistricting measure after former President Donald Trump used an ableist slur against Gov. Tim Walz. On Facebook, Bohacek—an advocate for people with intellectual disabilities—warned that “choices of words have consequences,” defying Trump’s Truth Social call for primary challenges against dissenting GOP senators. Since Trump’s post, at least nine Republican lawmakers in Indiana faced swatting or bomb threats; Gov. Mike Braun also reported threats, urging an end to intimidation. Indiana’s legislature debates the map in December amid broader partisan redistricting battles.",
+      "summaryTokens": 823,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/stockton-california-shooting-suspect",
@@ -77,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T19:47:39Z",
       "trailText": "Search continues after four people, including three children, were killed and 11 were injured in Stockton",
-      "summary": "Residents of Stockton, Calif., are shaken after a Dec. 1 shooting at a toddler’s birthday party killed four people—including three children (ages 8, 9 and 14)—and injured 11. Officials label it a targeted attack, have no suspects in custody and urge witnesses to share any information. The incident has reignited outrage over Stockton’s high homicide rate despite a decade of violence-prevention efforts, including the Office of Violence Prevention formed in 2014. Five people were later arrested on weapons and gang charges not linked to the banquet hall killings. Mayor Christina Fugazi announced counseling for affected families.",
-      "summaryTokens": 871,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "Stockton police continue hunting suspects after a deadly Saturday shooting at a toddler’s birthday party in a banquet hall killed four—including three children aged 8, 9, and 14—and wounded 11. Authorities, calling it a “targeted incident” possibly involving multiple shooters inside and outside the hall, urged witnesses to share tips. The tragedy deepens concern over Stockton’s rising homicide rate—54 in 2024 and 34 in 2025—despite past violence-prevention efforts. Five arrests on weapons and gang charges were unconnected, officials say. Mayor Fugazi announced school counselors and lamented the senseless loss of young lives.",
+      "summaryTokens": 1197,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/trump-mri-results",
@@ -89,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T19:41:53Z",
       "trailText": "US president, who is 79, had October exam amid concerns over his cognitive abilities and mental fitness",
-      "summary": "On 10 October, 79-year-old President Trump underwent a comprehensive executive physical including advanced cardiovascular and abdominal MRI scans. White House physician Capt. Sean Barbabella reported “perfectly normal” results: no arterial narrowing, healthy heart chambers and vessels, and unremarkable abdominal organs, consistent with standard exams for his age. Trump, who had admitted he didn’t know what body part was scanned and claimed he “aced” a cognitive test, faces renewed scrutiny over his mental fitness. Critics like Minnesota Gov. Tim Walz pointed to late-night Truth Social posts—featuring anti-immigrant rhetoric and attacks on Ilhan Omar and Sen. Mark Kelly—to question his acuity. The report did not confirm if any brain imaging was done.",
-      "summaryTokens": 952,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "In October President Trump, 79, underwent an MRI as part of his semiannual executive physical. White House physician Capt. Sean Barbabella reported ‘perfectly normal’ cardiovascular and abdominal imaging with no arterial narrowing, structural heart or vessel issues, inflammation or chronic concerns, deeming his overall health ‘excellent.’ The detailed assessment, standard for his age, came amid renewed scrutiny of his cognitive fitness after Trump admitted uncertainty about the MRI’s focus and touted acing a cognitive test while critics, including Gov. Tim Walz, questioned his mental capacity.",
+      "summaryTokens": 850,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/new-york-city-ice-raid",
@@ -101,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T19:41:40Z",
       "trailText": "Demonstrators blocked the exit of ICE vehicles from a parking lot using garbage bags and metal barriers",
-      "summary": "Federal CBP, DHS and ICE agents attempted a targeted immigration raid Saturday in a Lower Manhattan Chinatown parking garage, but about 200 protesters blocked vehicles with garbage bags and metal barriers, hurling planters and trash cans as scuffles with NYPD escalated. A masked ICE vehicle occupant reportedly deployed a chemical irritant. NYPD, including its Strategic Response Group, made several arrests as agents ultimately abandoned the operation—New York’s second large-scale Chinatown raid in six weeks. Mayor-elect Zohran Mamdani’s transition team decried the enforcement as “cruel,” while DHS blamed “violent agitators,” fueling debate over NYPD’s sanctuary law role.",
-      "summaryTokens": 940,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "About 200 activists blocked an ICE/DHS/CBP parking garage in Manhattan’s Chinatown on December 1, thwarting a federal immigration raid tied to Trump’s second presidency. Protesters used garbage bags and metal barriers, scuffled with NYPD and chased ICE vehicles along Canal Street, hurling planters and claiming chemical irritant exposure. Several demonstrators were arrested. Mayor-elect Zohran Mamdani’s transition team condemned the operation as “cruel and inhumane,” pledging sanctuary protections. DHS accused masked agitators of violent obstruction; critics cited NYPD’s SRG involvement as unlawful under city sanctuary laws. Commissioner Tisch called the raid “unacceptable” for endangering New Yorkers.",
+      "summaryTokens": 438,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/fbi-kash-patel-leaked-report",
@@ -113,21 +485,21 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T18:38:56Z",
       "trailText": "Leaked assessment based on confidential accounts from 24 FBI sources describes organization as a ‘rudderless ship’",
-      "summary": "A leaked 115-page report by 24 current and former FBI agents and analysts paints Director Kash Patel’s first six months as a ‘rudderless ship,’ describing an agency ‘internally paralyzed by fear’ where managers refuse to act without explicit orders. Critics say Patel lacks requisite investigative expertise, alienated staff with social-media blitzes and politicized rhetoric attacking a supposed ‘deep state,’ and demoralized the Bureau with punitive polygraphs. Some applaud his diversity rollback and tougher immigration enforcement, but allied partners worry US intelligence cooperation may suffer. Congressional judiciary panels will review the findings this week.",
-      "summaryTokens": 482,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "Leaked 115-page FBI internal assessment by 24 agents and analysts criticizes Director Kash Patel’s first six months, describing the bureau as a “rudderless ship” paralyzed by fear, low morale and risk-averse managers awaiting orders. Sources say Patel, lacking FBI experience, politicized leadership with public “deep state” claims, bungled high-profile probes and focused on social media. Incidents include tirades over raid jackets and punitive polygraphs. Allies worry about damaged cooperation. Some praise immigration enforcement and rollbacks of DEI, but call reforms insufficient.",
+      "summaryTokens": 865,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/trump-pardon-juan-orlando-hernandez-honduras-former-president",
-      "title": "Trump’s pardon of Honduras’s ex-president shows counter-drug effort is ‘based on lies and hypocrisy’",
+      "title": "Trump move to pardon Honduras’s ex-president shows counter-drug effort is ‘based on lies and hypocrisy’",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/01/trump-pardon-juan-orlando-hernandez-honduras-former-president",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/01/trump-pardon-juan-orlando-hernandez-honduras-former-president",
       "section": "us-news",
       "publishedDate": "2025-12-01T18:03:04Z",
-      "trailText": "Why has Trump blown up alleged narco boats in the Caribbean and at the same time decided to let a big time trafficker off the hook?",
-      "summary": "Trump announced a full pardon for ex-Honduran president Juan Orlando Hernández, sentenced to 45 years in Manhattan for masterminding a ‘cocaine superhighway’ from Honduras. Critics including former DEA chief Mike Vigil call the move hypocritical after Trump’s recent strikes on alleged narco speedboats in the Caribbean and $50m bounty on Venezuela’s Nicolás Maduro. Experts say the pardon reflects ideology over consistent anti-drug policy and undermines U.S. counter-drug credibility.",
-      "summaryTokens": 1232,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "trailText": "Why has Trump blown up alleged narco boats in the Caribbean and at the same time decided to let a big-time trafficker off the hook?",
+      "summary": "Trump announced a pardon for former Honduran president Juan Orlando Hernández—sentenced to 45 years in a Manhattan court for masterminding a ‘cocaine superhighway’ to the US—while simultaneously blowing up alleged narco boats and targeting Venezuelan leader Nicolás Maduro as a ‘narco-terrorist’. Critics label the move hypocritical, pointing to Hernández’s conviction for colluding with major cartels, overseeing coca production labs in Honduras and accepting $1m from El Chapo. Observers say pardoning a right-wing ally while pursuing an ideological adversary undercuts any coherent US counter-drug strategy.",
+      "summaryTokens": 878,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/progressives-democrats-swing-rust-belt-states",
@@ -137,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T18:00:03Z",
       "trailText": "Left-leaning challengers in the Rust belt are throwing chaos into a divided party struggling to rebuild after Trump’s win",
-      "summary": "In recent Rust Belt contests from Dayton to Lancaster and La Crosse, insurgent progressives are toppling establishment Democrats—44-year-old Shenise Turner-Sloss in Dayton, Jaime Arroyo in Lancaster (first Latino mayor) and Shaundel Washington-Spivey in Wisconsin—to push affordable housing, transit upgrades and grassroots engagement. Their rise, backed by the Working Families Party’s 700-plus candidates, exposes fractures over Israel, health-care subsidies and donor influence, raising questions about unity in seven key swing states ahead of the 2026 and 2028 elections.",
-      "summaryTokens": 357,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "In the Rust Belt’s swing states, left-leaning insurgents—from Shenise Turner-Sloss’s upset in Dayton to Jaime Arroyo’s historic election in Lancaster and Shaundel Washington-Spivey in La Crosse—are toppling establishment Democrats in mayoral, council and school board races. Backed by groups like the Working Families party, they run on affordability, housing and transit, seizing on voter discontent over party elites’ stances on Gaza, health subsidies, and generational change. While some campaigns falter, this ‘Liberal Tea Party’ revolt highlights deep divisions and poses both an opportunity and risk for Democrats facing tight midterm and 2028 battleground contests.",
+      "summaryTokens": 762,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/california-governor-candidates-democrats-republicans",
@@ -149,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T14:00:12Z",
       "trailText": "More than 95 candidates have submitted paperwork but here are the early frontrunners for next year’s election",
-      "summary": "California’s open 2026 gubernatorial race has drawn over 95 potential candidates ahead of the 9-February filing deadline, with no clear frontrunner and nearly half of voters undecided. All will compete in a single top-two primary on June 2. Democrats leading include ex-Rep. Katie Porter, known for consumer advocacy; former HHS Sec. and AG Xavier Becerra; ex-LA Mayor Antonio Villaraigosa; Rep. Eric Swalwell; billionaire activist Tom Steyer; ex-comptroller Betty Yee; schools chief Tony Thurmond; and former assemblyman Ian Calderon. Republican standouts are Riverside County Sheriff Chad Bianco, a Trump-aligned immigration hardliner, and ex-Fox host Steve Hilton, focusing on tax cuts and home-ownership.",
-      "summaryTokens": 1038,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "More than 95 have filed to succeed Gov. Newsom, with filings opening Feb. 9 and a single June 2 nonpartisan primary leading the general between the top two. With no clear frontrunner and 49% undecided per UC Berkeley, big names Harris, Padilla and Kounalakis bowed out. Leading Democrats include consumer advocate Katie Porter (amid campaign stumbles), ex-AG/HHS Sec. Xavier Becerra (affordability pitch, aide embezzlement scandal), ex-LA Mayor Antonio Villaraigosa, Rep. Eric Swalwell (Trump impeachment), Tom Steyer, Betty Yee, Tony Thurmond and Ian Calderon. On the right, MAGA sheriff Chad Bianco and ex-Fox host Steve Hilton vie.",
+      "summaryTokens": 1829,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/morgan-geyser-slender-man-wisconsin",
@@ -161,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T13:00:35Z",
       "trailText": "Morgan Geyser, who stabbed a classmate as a 12-year-old, fled after a decade being raised by state institutions",
-      "summary": "Morgan Geyser, now 23, pleaded guilty at age 12 to the near-fatal stabbing of a sixth-grade classmate to appease the mythical Slender Man. Diagnosed with schizophrenia, autism and PTSD, she spent a decade in psychiatric and forensic institutions, her emotional development effectively frozen. After conditional release this summer to a Wisconsin group home, she cut off her ankle monitor and fled 100 miles to Illinois with 43-year-old Chad “Charley” Mecca, citing alleged mistreatment and fear of losing visits. Experts say her escape and continued confinement underscore systemic failures in prosecuting children as adults and neglecting rehabilitative care.",
-      "summaryTokens": 690,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "Morgan Geyser, who at 12 stabbed a classmate 19 times in 2014 to appease the fictional Slender Man, was found not guilty by reason of mental defect due to undiagnosed schizophrenia, autism and PTSD. Sent to a 40-year psychiatric commitment, she was conditionally released this summer to a Wisconsin group home. She cut off her ankle monitor and fled with friend Chad “Charley” Mecca to Illinois, fearing loss of visitation. Advocates say her lifelong institutionalization stunted her development and exemplifies systemic failures in juvenile prosecutions.",
+      "summaryTokens": 1439,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/tennessee-democrats-congressional-race",
@@ -173,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T13:00:35Z",
       "trailText": "Even a close second could be a bellwether of Republican loss of control of House of Representatives in midterms",
-      "summary": "Democrats aim for an upset in Tennessee’s staunchly Republican 7th district special election to replace GOP Rep. Mark Green. GOP nominee Matt Van Epps leads Democrat Aftyn Behn by 2 points (48%–46%) in an Emerson/Hill poll despite the 22-point Trump margin last year. Dems, buoyed by recent off-year victories, are targeting black voters and Nashville suburbs to narrow the gap. A Behn win would shrink the GOP House majority and signal anti-Trump shifts. PACs on both sides—from House Majority PAC to Maga Inc. and Club for Growth—have injected heavy ad spending.",
-      "summaryTokens": 1979,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "In Tennessee’s middle congressional district—spanning rural counties, parts of Nashville and swing-area Clarksville—a Dec. 3 special election pits Republican Matt Van Epps against Democrat state Rep. Aftyn Behn to replace GOP Rep. Mark Green. Historically Trump-leaning (+22 points in 2024), the seat is now a dead heat: Emerson shows Van Epps at 48% vs. Behn at 46%. Democrats, buoyed by recent off-year upsets, have plowed millions via the DNC, House Majority PAC and Kamala Harris, aiming to flip the seat. Republicans counter with Trump’s endorsement, MAGA Inc and Club for Growth ads. A Behn victory—or narrow GOP hold—carries major House control implications ahead of 2026.",
+      "summaryTokens": 976,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/gas-energy-prices",
@@ -185,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T12:30:34Z",
       "trailText": "Trump promised to cut consumers’ energy costs within his first year in office but gas price is up 4% on average",
-      "summary": "US households face 4% higher gas bills in 2025 vs 2024, with residential prices up 11.7% year-on-year in September, per the EIA. Despite Trump's vow to halve energy costs, gas and electricity rates climbed due to extreme weather, Ukraine war fallout and supplier costs. Energy Secretary Wright forecasts a halt in electricity price rises by mid-2026. Export-driven LNG growth—Trump-endorsed—will send wholesale gas prices up another 16%, heightening volatility, burdening lower-income families and exacerbating pollution. All US LNG terminals have breached federal pollution limits, compounding environmental and household cost pressures.",
-      "summaryTokens": 1796,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "Despite Trump’s pledge to halve energy costs in his first term and congressional vows to curb inflation, US residential gas bills are up 4% on average in 2025 vs 2024, with piped-gas costs rising 11.7% in September year-on-year, the EIA reports. Extreme weather, Ukraine war spillovers and supply-chain pressures have driven prices higher. Trump’s repeal of Biden’s LNG export restrictions—four new terminals enabling a 25% export increase—will fuel further hikes, pushing wholesale gas up 16% in 2026 and saddling lower-income households with volatile, elevated bills.",
+      "summaryTokens": 1139,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/first-thing-floods-indonesia-sri-lanka-malaysia-thailand",
@@ -197,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T12:02:09Z",
       "trailText": "Hundreds remain missing in Indonesia and Sri Lanka as rescue efforts continue. Plus, law changes could bring cheap balcony solar to millions of Americans",
-      "summary": "Flooding from cyclones and monsoon rains in Indonesia, Sri Lanka, Thailand and Malaysia has killed over 1,030 people (502 Indonesia, 355 Sri Lanka, 170 Thailand, 3 Malaysia), with 508 missing in Indonesia and 366 in Sri Lanka; militaries deployed. US and Ukrainian envoys held “productive” peace talks, says Marco Rubio. Trump denies authorizing a second US strike on a Caribbean boat. Israeli court orders threaten East Jerusalem Palestinians with eviction. UNAids forecasts 3.3m more HIV infections by 2030 amid aid cuts. Cara Hunter describes a deepfake porn attack. New US bills could legalize plug-in balcony solar. Solo female travel surges.",
-      "summaryTokens": 3402,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "Monsoon rains and tropical cyclones have killed over 1,030 people across Southeast Asia—502 in Indonesia (508 missing), 355 in Sri Lanka (366 missing), 170 in Thailand and 3 in Malaysia—with militaries deployed as rescue operations intensify amid the region’s worst flooding since 2004 (Sri Lanka) and 2018 (Indonesia). Meanwhile in the US, New York and Pennsylvania lawmakers have introduced bills to legalize plug-in balcony solar panels, aiming to expand affordable rooftop photovoltaics to millions of households.",
+      "summaryTokens": 797,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/ritchie-torres-democrats-israel",
@@ -209,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T12:00:34Z",
       "trailText": "Democrats like congressman Ritchie Torres face backlash for pro-Israel stances as Americans’ views of Israel sour",
-      "summary": "In New York’s 15th, five Democrats are mounting insurgent primary bids against incumbent Ritchie Torres over his pro-Israel record and Aipac funding. Challengers Dalourny Nemorin, Michael Blake and Andre Easton denounce Israel’s Gaza actions as genocide and tie US aid—over $21 billion since October 2023—to local cost-of-living struggles in America’s poorest district. Their pro-Palestinian messaging mirrors national trends from Zohran Mamdani to Abdul El-Sayed. Though Torres dismisses Gaza death-toll concerns and labels the Palestinian rights movement a “social contagion,” his name recognition and $1.6 million in pro-Israel contributions keep him favored.",
-      "summaryTokens": 967,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "In New York’s poorest congressional district, incumbent Democrat Ritchie Torres—one of Congress’s staunchest pro-Israel voices with over $1.6m in Aipac funding—faces five primary challengers accusing him of prioritizing Israel’s Gaza war over Bronx affordability. Contestants, inspired by Zohran Mamdani’s insurgent, pro-Palestinian success, link the $21bn US aid since October 2023 to local hardships, denounce Israeli actions as \"genocide,\" and argue voters want material relief alongside moral leadership. While Torres retains strong name recognition and funding, his adversaries bet that shifting public opinion on Israel and cost-of-living pressures can upend reflexive pro-Israel support.",
+      "summaryTokens": 829,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/dec/01/trump-administration-news-updates-today",
@@ -221,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T00:30:48Z",
       "trailText": "Response to national guard shooting has ‘no time limit’; gutting of DHS watchdog could pave way for abuse – key US politics stories from 30 November at a glance",
-      "summary": "Trump said he will pause asylum decisions indefinitely, tying it to 19 countries under travel bans after an Afghan national allegedly shot two National Guard members near the White House, killing Specialist Sarah Beckstrom and wounding Staff Sgt Andrew Wolfe; he invited their families to the White House. Kristi Noem claimed the suspect was radicalized domestically, though he’d received asylum under Trump. The president granted clemency to ex-GPB Capital CEO David Gentile. Experts warn a gutted DHS watchdog could enable human rights abuses. Hondurans vote under Trump’s aid-cut threat.",
-      "summaryTokens": 2270,
-      "generatedAt": "2025-12-02T03:56:18.356Z"
+      "summary": "President Trump announced an indefinite pause on asylum decisions—linked to 19 countries already travel-restricted—after an Afghan national’s shooting of two National Guard members near the White House, killing Specialist Sarah Beckstrom and wounding Staff Sgt Andrew Wolfe, whose families he invited to the White House. DHS Sec Kristi Noem called the suspect “radicalized” domestically despite asylum granted under Trump. The president also granted clemency to ex-GPB Capital CEO David Gentile, faced criticism over gutting DHS watchdogs that experts warn invites rights abuses, threatened to cut aid to Honduras during its tight election, and spoke with Nicolás Maduro amid global outreach efforts, including FIFA’s Infantino.",
+      "summaryTokens": 1076,
+      "generatedAt": "2025-12-03T04:08:52.581Z"
     },
     {
       "id": "us-news/2025/nov/30/trump-invites-white-house-national-guard-dc-shooting-victim-families",
@@ -11813,7 +12185,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-13T14:16:56Z",
       "trailText": "Trump has threatened 100% tariffs after Beijing’s fresh curbs on rare earths, a month before deadline to agree a deal",
-      "summary": "China reinstated export curbs on rare earth minerals—over 90% of processed supply—citing national security, prompting President Trump to levy 100% tariffs on all US-bound Chinese goods, scuttling ongoing trade talks. This escalation follows US export controls on semiconductor equipment. Average US-China tariffs now exceed 50% and 30% respectively. A TikTok divestment deal and congressional visit had hinted at détente, but both sides have since re-escalated, and Trump canceled plans to meet Xi at APEC. Markets initially plunged, rebounded on conciliatory US rhetoric; Beijing has vowed countermeasures. Deadline for a deal looms November 10.",
+      "summary": "China reinstated export curbs on rare earth minerals—over 90% of processed supply���citing national security, prompting President Trump to levy 100% tariffs on all US-bound Chinese goods, scuttling ongoing trade talks. This escalation follows US export controls on semiconductor equipment. Average US-China tariffs now exceed 50% and 30% respectively. A TikTok divestment deal and congressional visit had hinted at détente, but both sides have since re-escalated, and Trump canceled plans to meet Xi at APEC. Markets initially plunged, rebounded on conciliatory US rhetoric; Beijing has vowed countermeasures. Deadline for a deal looms November 10.",
       "summaryTokens": 947,
       "generatedAt": "2025-10-28T20:38:22.885Z"
     },
@@ -15233,7 +15605,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-28T13:44:55Z",
       "trailText": "US voting machine maker sued ex-New York mayor and Trump lawyer in 2021 for repeatedly calling election rigged",
-      "summary": "Rudy Giuliani has confidentially settled a $1.3 billion defamation suit filed by Dominion Voting Systems in 2021 over 50+ false claims that its machines rigged the 2020 election. Filed in federal court in Washington, DC, the deal marks Dominion’s third major pretrial resolution after Fox’s $787.5 million and Newsmax’s $67 million payouts. Giuliani, Trump’s former lawyer, amplified the conspiracy on TV, radio and podcasts, then threatened to countersue on free-speech grounds. The agreement deepens his legal and financial troubles following disbarments in New York and DC, a $148 million judgment to Georgia poll workers and court-ordered asset seizures. Both sides confirmed the settlement but declined further comment.",
+      "summary": "Rudy Giuliani has confidentially settled a $1.3 billion defamation suit filed by Dominion Voting Systems in 2021 over 50+ false claims that its machines rigged the 2020 election. Filed in federal court in Washington, DC, the deal marks Dominion���s third major pretrial resolution after Fox’s $787.5 million and Newsmax’s $67 million payouts. Giuliani, Trump’s former lawyer, amplified the conspiracy on TV, radio and podcasts, then threatened to countersue on free-speech grounds. The agreement deepens his legal and financial troubles following disbarments in New York and DC, a $148 million judgment to Georgia poll workers and court-ordered asset seizures. Both sides confirmed the settlement but declined further comment.",
       "summaryTokens": 715,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
