@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-03T03:56:32.604Z",
+    "generated_at": "2025-12-04T04:11:25.117Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-02"
+      "to": "2025-12-03"
     },
-    "article_count": 139,
+    "article_count": 143,
     "merge_info": {
-      "previous_count": 136,
-      "new_articles": 3,
-      "updated_articles": 4,
-      "total_count": 139
+      "previous_count": 139,
+      "new_articles": 4,
+      "updated_articles": 3,
+      "total_count": 143
     },
     "batch_info": {
-      "initial_batch_id": "batch_692fb396b284819091689d0097a2a8a8",
+      "initial_batch_id": "batch_693109a000c88190bf42e68255092ec4",
       "retry_batches": [],
-      "total_tokens": 18578,
-      "processing_time_hours": 0.1
+      "total_tokens": 13341,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/03/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/03/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/03/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-12-03T21:00:54Z",
+      "trailText": "Cryptic crossword No 29,868 | Robert F Kennedy Jr",
+      "summary": "Guardian corrections: Cryptic crossword No. 29,868’s 12-across clue should read “by chance catching” to yield the correct vowel collection. An America feature must consistently refer to Robert F Kennedy Jr, not his late father. Other amended articles cover David Lammy’s watered-down jury trial reforms; arrests in a thwarted ICE raid protest in New York; a high court hearing on lifting the Palestine Action ban; hidden landfill leaks in UK and Europe; the Guardian’s 20 best songs of 2025; and pets officiating at Albanese’s wedding. Readers can send complaints or correction requests to guardian.readers@theguardian.com, post to the Readers’ Editor at Kings Place, 90 York Way, London N1 9GU, or leave a voicemail at +44 (0)20 3353 4736.",
+      "summaryTokens": 794,
+      "generatedAt": "2025-12-04T04:11:24.978Z"
+    },
+    {
+      "id": "news/2025/dec/03/after-the-hong-kong-inferno-inside-the-5-december-guardian-weekly",
+      "title": "After the Hong Kong inferno: inside the 5 December Guardian Weekly",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/03/after-the-hong-kong-inferno-inside-the-5-december-guardian-weekly",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/03/after-the-hong-kong-inferno-inside-the-5-december-guardian-weekly",
+      "section": "news",
+      "publishedDate": "2025-12-03T18:00:51Z",
+      "trailText": "Power, corruption and negligence. Plus: The rise of extremist Buddhism",
+      "summary": "Guardian Weekly’s Dec 5 issue spotlights the catastrophic inferno that tore through Hong Kong’s Wang Fuk Court complex, killing at least 151 and resurrecting Grenfell-style concerns over shoddy materials, corruption and state negligence in a semi-autonomous city with limited accountability. Coverage also examines Europe’s quest to tame Russia sans the US, Labour’s Rachel Reeves dilemma under Keir Starmer, the surge of extremist Buddhism in Southeast Asia, Israel’s widening onslaught, plus cultural deep dives and audio-visual features.",
+      "summaryTokens": 999,
+      "generatedAt": "2025-12-04T04:11:24.978Z"
+    },
+    {
+      "id": "news/2025/dec/03/illustrating-the-postcolonial-experience-40-years-of-peepal-tree-press",
+      "title": "Illustrating the ‘postcolonial experience’: 40 years of Peepal Tree Press",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/03/illustrating-the-postcolonial-experience-40-years-of-peepal-tree-press",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/03/illustrating-the-postcolonial-experience-40-years-of-peepal-tree-press",
+      "section": "news",
+      "publishedDate": "2025-12-03T13:10:14Z",
+      "trailText": "As the publisher celebrates an important milestone, we chart its journey from an ‘expensive hobby’ to an international household name",
+      "summary": "Peepal Tree Press, launched in 1985 by Jeremy Poynting from his Leeds home, celebrates 40 years as a cornerstone of Caribbean and Black diaspora publishing. Emerging from Poynting’s PhD research and born as an “expensive hobby,” the press printed its first 12 titles in a garage before securing an Arts Council grant and Poynting’s remortgage to scale. It has nurtured talent—Bernardine Evaristo, Monique Roffey, Roger Robinson—through deep editorial mentorship, runs open submissions to find ‘diamonds in the rough,’ and critiques mainstream publishers’ narrow focus on trauma, urging writers toward formal innovation in postcolonial narratives.",
+      "summaryTokens": 705,
+      "generatedAt": "2025-12-04T04:11:24.979Z"
+    },
+    {
+      "id": "news/2025/dec/03/scientists-uncover-surprise-origin-of-wispy-cirrus-clouds",
+      "title": "Scientists uncover surprise origin of wispy cirrus clouds",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/03/scientists-uncover-surprise-origin-of-wispy-cirrus-clouds",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/03/scientists-uncover-surprise-origin-of-wispy-cirrus-clouds",
+      "section": "news",
+      "publishedDate": "2025-12-03T06:00:56Z",
+      "trailText": "These delicate cloud systems appear to be seeded by massive atmospheric waves thousands of miles away",
+      "summary": "New research published in AGU Advances reveals that ‘in-situ’ cirrus clouds, previously thought to form independently, are often seeded by massive storms on the opposite side of the globe. Using novel computer analysis of satellite observations, scientists tracked atmospheric waves generated by distant tropical systems crossing the equator and altering upper-tropospheric temperatures to trigger wispy cirrus formation. This finding challenges the traditional dichotomy between ‘anvil’ and ‘in-situ’ cirrus, and underscores potential shifts in high-altitude cloud cover—and associated warming effects—as global storm patterns evolve.",
+      "summaryTokens": 932,
+      "generatedAt": "2025-12-04T04:11:24.979Z"
+    },
     {
       "id": "news/2025/dec/02/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +77,9 @@
       "section": "news",
       "publishedDate": "2025-12-02T21:00:42Z",
       "trailText": "Nvidia | Villa San Giovanni ferry",
-      "summary": "Nvidia’s valuation is $4.3 trn, not $3.4 trn, in its AI feature; the Italian Intercity train remains on its rails when ferried at Villa San Giovanni. Other recent amendments cover Australian Medicare safety-net spending, Tasmania’s AFL stadium plans, an all-star trans-rights concert line-up, media mogul Lord Rothermere’s rise, and a frozen Pavarotti statue snafu. Readers may submit corrections or complaints via guardian.readers@theguardian.com, post to the Readers’ editor at Kings Place, 90 York Way, London N1 9GU, or voicemail +44 20 3353 4736.",
-      "summaryTokens": 564,
-      "generatedAt": "2025-12-03T03:56:32.362Z"
+      "summary": "The Guardian issues corrections: Nvidia’s valuation is $4.3tn, not $3.4tn; the Intercity train to Sicily remains on rails aboard the Villa San Giovanni ferry. Other corrected stories include Australian Medicare safety-net fee subsidies, Tasmania’s stalled AFL stadium, a Sugababes–Sophie Ellis-Bextor–Wolf Alice trans-rights charity concert, Lord Rothermere’s rising media power and an Italian mayor’s Pavarotti statue apology. Editorial complaints can be sent to guardian.readers@theguardian.com, mailed to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or left by voicemail at +44 (0)20 3353 4736.",
+      "summaryTokens": 767,
+      "generatedAt": "2025-12-04T04:11:24.979Z"
     },
     {
       "id": "news/2025/dec/02/the-labour-of-love-breathing-life-back-into-palawa-kani-the-lost-language-of-lutruwita",
@@ -41,9 +89,9 @@
       "section": "news",
       "publishedDate": "2025-12-02T14:00:38Z",
       "trailText": "Aboriginal children are being born in Tasmania today knowing the sounds of their ancient tongue. They are the first to do so for 150 years",
-      "summary": "On Lutruwita/Tasmania, the Tasmanian Aboriginal Centre’s palawa kani language program has resurrected the lost tongue of Tasmania after 150 years, empowering Aboriginal children now born fluent. Drawing on damaged wax-cylinder recordings of Fanny Smith (1899–1903), colonial wordlists and 30 years of community–linguist collaboration led by June Sculthorpe, Theresa Sainty and Annie Reynolds, palawa kani uses a reduced alphabet and has produced life-stage curricula, school lessons, songs and dual-language place names. Language workers such as Daisy Allan teach modules from prenatal songs to everyday vocabulary. Placenames like Lumaranatana, Titima and others are gazetted or mapped online, reflecting cultural activism and resilience.",
-      "summaryTokens": 1041,
-      "generatedAt": "2025-12-03T03:56:32.362Z"
+      "summary": "After Tasmanian Aboriginal numbers plummeted to under 100 by the 1830s, the Tasmanian Aboriginal Centre spent over 30 years reconstructing palawa kani from colonial diaries, wax-cylinder recordings of Fanny Smith and linguist Terry Crowley’s work. June Sculthorpe, Daisy Allan, Theresa Sainty and colleagues crafted a standardized orthography, age-specific language modules and a digital placename map. For the first time in 150 years, Palawa children are born into and taught this revived tongue, symbolizing enduring resilience, activism and cultural sovereignty in Lutruwita/Tasmania.",
+      "summaryTokens": 890,
+      "generatedAt": "2025-12-04T04:11:24.979Z"
     },
     {
       "id": "news/2025/dec/02/hong-kong-fire-response-contrast-mainland-china",
@@ -53,9 +101,9 @@
       "section": "news",
       "publishedDate": "2025-12-02T08:36:04Z",
       "trailText": "Independent inquiry into fire and media questions to leader would not happen in mainland China, but crackdown on dissent has begun",
-      "summary": "Hong Kong’s worst fire in decades killed 151 at Wang Fuk Court in the New Territories. Chief Executive John Lee announced an “independent committee” inquiry—a practice unthinkable in mainland China but now under pressure from post-2019 national security laws that critics say have eroded judicial autonomy. Thirteen people, including builders, face manslaughter charges; no official has been held to account. This tragedy looms over Sunday’s “patriots-only” LegCo elections, expected to see record low turnout. Unlike Beijing’s opaque, CCP-controlled judiciary, censored media and absence of genuine elections, Hong Kong still permits limited press scrutiny and public debate, though those freedoms are narrowing.",
-      "summaryTokens": 569,
-      "generatedAt": "2025-12-03T03:56:32.362Z"
+      "summary": "After Hong Kong’s deadliest fire killed 151 at Wang Fuk Court, Chief Exec John Lee announced a judge-led independent inquiry—an approach unthinkable in CCP-run mainland China but whose autonomy critics say is already compromised post-2019 security crackdowns. Thirteen arrests for suspected manslaughter have been made, yet no official accountability. Sunday’s “patriots-only” LegCo election—a vote many see boycotting as one of the few safe protests—risks record low turnout. Arrests over petitions and rare unscripted press scrutiny contrast starkly with mainland’s censored media and staged politics, underscoring both Hong Kong’s unique freedoms and their ongoing erosion.",
+      "summaryTokens": 950,
+      "generatedAt": "2025-12-04T04:11:24.979Z"
     },
     {
       "id": "news/2025/dec/01/corrections-and-clarifications",
