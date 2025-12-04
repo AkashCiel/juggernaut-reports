@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-03T04:04:23.953Z",
+    "generated_at": "2025-12-04T04:20:41.407Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-02"
+      "to": "2025-12-03"
     },
-    "article_count": 235,
+    "article_count": 240,
     "merge_info": {
-      "previous_count": 231,
-      "new_articles": 4,
-      "updated_articles": 2,
-      "total_count": 235
+      "previous_count": 235,
+      "new_articles": 5,
+      "updated_articles": 6,
+      "total_count": 240
     },
     "batch_info": {
-      "initial_batch_id": "batch_692fb6651c9c81909f08128d89c88f71",
+      "initial_batch_id": "batch_69310bb6c1bc8190a0c6d61b1f3b6f64",
       "retry_batches": [],
-      "total_tokens": 11999,
+      "total_tokens": 22118,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/04/australians-wrongful-social-media-account-closures",
+      "title": "Hundreds of Australians complain of wrongful social media account closures but ombudsman can’t help",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/04/australians-wrongful-social-media-account-closures",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/04/australians-wrongful-social-media-account-closures",
+      "section": "technology",
+      "publishedDate": "2025-12-03T23:00:57Z",
+      "trailText": "Increasing number of people asking for help to regain access to accounts, with Google topping digital platform-related complaints",
+      "summary": "Over the past 2½ years, 1,537 Australians lodged digital platform complaints with the Telecommunications Industry Ombudsman—36% citing wrongful account terminations—yet the TIO lacks power to enforce remedies. Complaints jumped 28.6% year-on-year, led by Google (18%), Hubbl (15%), Apple and Microsoft (14% each) and Meta (11%). The report details “Karen,” a small-business owner who lost linked social media access, halting ads and customer outreach. Ahead of December’s under-16 social media ban mandating swift appeal processes, the ombudsman urges expanded jurisdiction to resolve consumer disputes with digital platforms.",
+      "summaryTokens": 693,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
+    },
+    {
+      "id": "technology/2025/dec/03/top-google-searches-australia-2025",
+      "title": "Doom, gloom … and Belle Gibson? The top Google searches in Australia in 2025",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/03/top-google-searches-australia-2025",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/03/top-google-searches-australia-2025",
+      "section": "technology",
+      "publishedDate": "2025-12-03T19:00:53Z",
+      "trailText": "From Cyclone Alfred to Charlie Kirk, the results show Australians are tuned in to major events. But there are some surprise inclusions",
+      "summary": "Australians’ top Google queries in 2025 ranged from natural disasters and politics to pop culture and oddball searches. Cyclone Alfred led overall searches, followed by Charlie Kirk’s shooting, the 2025 federal election and DIY advice on cyclone preparation. Entertainment entries included wellness figure Belle Gibson, serial killer Ed Gein and Madison Keys’ Australian Open win. Trending news events covered foreign conflicts, Erin Patterson’s trial and fugitive Dezi Freeman, but also Bianca Censori’s sheer Grammys look and Astronomer CEO Andy Bryon’s resignation scandal. Yearly constants like DIY car maintenance and Easter recipes shared space with niche queries such as “how to make ice-cream grow in a garden?” and “Discog.”",
+      "summaryTokens": 636,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
+    },
+    {
+      "id": "technology/2025/dec/03/amazon-and-the-tightening-grip-of-capitalism",
+      "title": "Amazon and the tightening grip of capitalism | Letters ",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/03/amazon-and-the-tightening-grip-of-capitalism",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/03/amazon-and-the-tightening-grip-of-capitalism",
+      "section": "technology",
+      "publishedDate": "2025-12-03T17:33:41Z",
+      "trailText": "Letter: Benjamin Selwyn argues that the company’s power lies not in escaping capitalist logic, but in intensifying it",
+      "summary": "Benjamin Selwyn rebuts Yanis Varoufakis’s claim that Amazon ushers in “technofeudalism,” asserting instead that its rent-extraction amplifies core capitalist dynamics rather than escapes them. Drawing parallels with the East India Company’s state-backed monopolies and Marx’s landlord-created rents, Selwyn notes Amazon’s profits stem from labour across factories, warehouses and delivery networks. He also highlights how state-backed alliances historically empowered monopolies. Its algorithmic management, global supply chains and relentless cost-cutting intensify exploitation of a vastly expanded global proletariat. Labeling this technofeudalism, he warns, risks obscuring the deeper issue: the escalating grip of capitalism on production, distribution and daily life.",
+      "summaryTokens": 2147,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
+    },
+    {
+      "id": "technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "section": "technology",
+      "publishedDate": "2025-12-03T06:00:57Z",
+      "trailText": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month",
+      "summary": "AI Forensics found 354 TikTok accounts posted 43,000 generative-AI videos—garnering 4.5 billion views in a month—often gaming the algorithm with mass uploads. Content ranged from anti-immigrant fake news using known broadcaster logos to sexualized imagery of women, sometimes minors. Over half went unlabeled and under 2% bore TikTok’s AI tag, evading moderation for months. Researchers urge mandatory, visible AI labeling or a dedicated AI feed; TikTok calls findings unsubstantiated.",
+      "summaryTokens": 806,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
+    },
+    {
+      "id": "technology/2025/dec/03/tesla-uk-ev-rules-sales-elon-musk-electric-car",
+      "title": "Tesla privately warned UK that weakening EV rules would hit sales ",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/03/tesla-uk-ev-rules-sales-elon-musk-electric-car",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/03/tesla-uk-ev-rules-sales-elon-musk-electric-car",
+      "section": "technology",
+      "publishedDate": "2025-12-03T06:00:56Z",
+      "trailText": "Elon Musk-owned electric carmaker also called for support for the secondhand market, documents reveal",
+      "summary": "Tesla privately warned the UK government that weakening its zero-emission vehicle (ZEV) mandate—introducing new loopholes and flexibilities—would suppress battery electric vehicle (BEV) supply, dent sales and risk missing carbon budgets. In confidential consultation submissions obtained via FOI, the Elon Musk-run carmaker urged support for the secondhand EV market, opposed new EV taxes and a 2028 pay-per-mile charge, and called for a ban after 2030 on plug-in hybrids with under 100-mile electric range. Other manufacturers (BMW, JLR, Nissan, Toyota, Ford, Mercedes-Benz) varied in their stances and some objected to disclosure.",
+      "summaryTokens": 581,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
+    },
     {
       "id": "technology/2025/dec/03/australia-esafety-commissioner-julie-inman-grant-online-safey-act-jim-jordan",
       "title": "Australia’s eSafety commissioner rejects US Republican’s assertion she is a ‘zealot for global takedowns’",
@@ -29,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-02T23:13:28Z",
       "trailText": "Julie Inman Grant says Australia’s Online Safety Act ‘does not impinge upon Americans’ freedom of speech’",
-      "summary": "Australia’s eSafety commissioner Julie Inman Grant has rejected US Republican Jim Jordan’s claim she is a “zealot for global takedowns” under the Online Safety Act, saying its geoblocking provisions prevent any curbs on Americans’ speech. Jordan’s June report accused the Global Alliance for Responsible Media of collusion and sought her testimony; she plans a formal written response. In parliament estimates she also outlined eSafety’s review of Roblox after a Guardian probe, detailing age-assurance measures, its gaming-platform exemption from under-16 social-media rules, and ongoing safety testing.",
-      "summaryTokens": 620,
-      "generatedAt": "2025-12-03T04:04:23.689Z"
+      "summary": "Australia’s eSafety commissioner Julie Inman Grant has rejected US Republican Jim Jordan’s characterization of her as a “zealot for global takedowns,” telling Senate estimates that the Online Safety Act doesn’t impinge on American speech. She will respond by letter to Jordan’s request for House Judiciary testimony about alleged Garm collusion, stressing Australia-only jurisdiction and geoblocking compliance. Grant also outlined ongoing eSafety testing, transparency powers and complaint handling in assessing Roblox ahead of the under-16 social media ban.",
+      "summaryTokens": 669,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
     },
     {
       "id": "technology/2025/dec/02/sam-altman-issues-code-red-at-openai-as-chatgpt-contends-with-rivals",
@@ -41,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-12-02T17:11:27Z",
       "trailText": "Chief executive tells staff it is ‘critical time’ for chatbot as it faces intense competition from Google’s new Gemini 3",
-      "summary": "Sam Altman has declared a ‘code red’ at OpenAI, urging staff to focus on upgrading ChatGPT in response to Google’s Gemini 3, which outperforms rivals on benchmarks and has won endorsements from users like Salesforce CEO Marc Benioff. Despite 800 million weekly users, OpenAI is delaying ads to channel resources into model improvements. Valued at $500bn, loss-making OpenAI projects over $20bn in annual revenue and plans $1.4tn in data-centre spending through 2033 to meet soaring compute demands. Meanwhile, Apple names Amar Subramanya as new AI VP amid intensifying competition.",
-      "summaryTokens": 950,
-      "generatedAt": "2025-12-03T04:04:23.689Z"
+      "summary": "OpenAI CEO Sam Altman has declared a “code red” to accelerate ChatGPT improvements as Google’s new Gemini 3 outperforms rivals, warning staff of “rough” headwinds. With Gemini 3 hailed by Salesforce’s Marc Benioff for superior reasoning, multimodal speed and capabilities, OpenAI is reallocating resources, delaying ads, and marking ChatGPT’s third anniversary with a pledge to boost global access and intuition. Backed by Microsoft and SoftBank, OpenAI’s valuation jumped to $500 bn despite losses, projecting $20 bn revenue in 2025 and committing $1.4 tn to data-centre expansion amid fierce AI competition.",
+      "summaryTokens": 827,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
     },
     {
       "id": "technology/2025/dec/01/big-tech-echo-chambers-silicon-valley",
@@ -53,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2025-12-02T14:21:47Z",
       "trailText": "As Silicon Valley tightens its grip on the narrative, insiders and regulators push back, consumers rethink upgrades, and states experiment with AI in the public sector",
-      "summary": "TechScape’s Blake Montgomery dissects Silicon Valley’s growing narrative control as big-tech CEOs (Zuckerberg, Musk, Altman, Nadella) cultivate friendly media ecosystems—from branded podcasts to in-house publications—to dodge critical scrutiny. Yet internal backlash rises: contracted AI raters urge caution or avoidance of generative AI, and 1,000+ anonymous Amazon staff warn of ‘warp-speed’ AI risks. On consumer tech, experts offer five tips for buying refurbished devices instead of costly upgrades. In government, Brazil, Germany and Japan embrace AI to streamline courts, voting and constituent outreach, while a California prosecutor’s AI-generated motion backfires due to hallucinations.",
-      "summaryTokens": 1087,
-      "generatedAt": "2025-12-03T04:04:23.689Z"
+      "summary": "In Silicon Valley’s media circuit, tech giants from Zuckerberg to Musk cultivate friendly podcasts and in-house outlets that shield them from critical scrutiny. Yet disillusion spreads: contracted AI raters now advise caution or avoidance of generative AI, and over 1,000 Amazon staff have anonymously protested AI’s climate, labor and democracy risks. Consumers are urged to skip costly annual smartphone replacements in favor of repairable, certified-refurbished devices—following guidelines on battery health, warranties and seller reputation. Meanwhile, governments experiment with AI: Brazil’s courts slash backlogs, Germany and Japan boost voter engagement, but a Californian prosecutor’s AI-driven filing collapsed under hallucinated errors.",
+      "summaryTokens": 1149,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
     },
     {
       "id": "technology/2025/dec/02/charlie-kirk-wikipedia-list-most-read-articles-in-2025",
@@ -65,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2025-12-02T12:00:31Z",
       "trailText": "Zohran Mamdani, Ozzy Osbourne and Sinners also feature in encyclopedia’s top 20 most-read English-language pages",
-      "summary": "Wikipedia’s English list of most-read 2025 pages is led by conservative activist Charlie Kirk (44.9 m views), whose article spiked after he was shot at a university debate on September 10. Deaths in 2025 ranked second (42.5 m), followed by Ed Gein (31.2 m), Donald Trump (25.1 m) and Pope Leo XIV (22.1 m). Film and TV entries featured prominently—Sinners (18.2 m), Superman (17 m), Netflix’s true-crime hit Adolescence (11.6 m) and Severance (13.9 m)—driven by second-screen viewing. US politics (25% of top 20) also included Elon Musk (20.2 m), Zohran Mamdani (20.1 m) and newcomer MrBeast (11.5 m). Wikipedia, now 25, relies on 250,000 volunteers and neutral, reliable sourcing.",
-      "summaryTokens": 769,
-      "generatedAt": "2025-12-03T04:04:23.689Z"
+      "summary": "Charlie Kirk’s Wikipedia page topped the English-language list for 2025 with 44.9 m views, many after he was shot at a campus debate. It surpassed “Deaths in 2025” (42.5 m) and Ed Gein (31.2 m). Top five also included Donald Trump and Pope Leo XIV. Films and TV entries like Sinners, Superman, Adolescence and Severance featured heavily, buoyed by a “second screen” effect. US politics accounted for 25% of the top 20, with Elon Musk, Zohran Mamdani and new entrant MrBeast. Over 40% of views came from outside the US. Data reflects Wikipedia’s 25th year and its volunteer-driven, neutral-source model.",
+      "summaryTokens": 918,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
     },
     {
       "id": "technology/2025/dec/02/scam-state-multi-billion-dollar-industry-south-east-asia",
@@ -77,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2025-12-02T02:02:44Z",
       "trailText": "Like the narco-state, a ‘scam state’ refers to countries where an illicit industry has dug its tentacles deep into institutions and transformed the economy",
-      "summary": "In south-east Asia, sprawling 'scam states' have emerged as organized cyber-fraud hubs deeply tied to government and elite networks. Facilities like Myanmar’s KK Park forced up to 20,000 people into 'pig-butchering' crypto scams, using AI, deepfakes and mirrored sites to extort average losses of $155,000 per victim. Experts estimate the global scam market at $70bn–$100bn annually, with Mekong operations alone generating $44bn—40% of formal GDP. Hundreds of compounds operate openly in Cambodia, Laos, Thailand and Myanmar, exploiting conflict zones, special economic areas and political theatre to evade genuine crackdowns.",
-      "summaryTokens": 503,
-      "generatedAt": "2025-12-03T04:04:23.689Z"
+      "summary": "The Guardian investigation reveals that “scam states” in south-east Asia—especially Myanmar, Cambodia and Laos—host sprawling, state-tolerated cyber-fraud compounds like KK Park, employing tens of thousands of trafficked workers to run “pig-butchering” romance/investment scams using AI deepfakes. The illicit network now rivals the global narcotics trade at $70 billion+ annually, driving up to 40% of Mekong GDP. Raids are largely performative political theatre as operators re-emerge elsewhere. High-level collusion spans governments, military and ex-officials (e.g. Prince Group links), embedding fraud into regional economies and politics.",
+      "summaryTokens": 1094,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
     },
     {
       "id": "technology/2025/dec/01/apple-ai-chief-john-giannandrea-steps-down",
@@ -89,9 +149,9 @@
       "section": "technology",
       "publishedDate": "2025-12-02T00:51:31Z",
       "trailText": "Amar Subramanya will replace John Giannandrea after firm has struggled to catch up with AI rollouts by competitors",
-      "summary": "Apple’s head of AI, John Giannandrea, is stepping down after seven years amid delays in generative AI rollouts—particularly Siri—lagging behind rivals like Google. Veteran researcher Amar Subramanya (ex-Microsoft VP for AI and former Google Gemini engineering lead) will succeed him, reporting to SVP Craig Federighi. Apple debuted Apple Intelligence in June 2024, adding incremental features (real-time AirPod translation, AI voice fitness chats) but has postponed a Siri overhaul. CEO Tim Cook and Federighi praised Giannandrea’s contributions and framed Subramanya’s appointment as a “new chapter” in strengthening Apple’s AI strategy.",
-      "summaryTokens": 563,
-      "generatedAt": "2025-12-03T04:04:23.689Z"
+      "summary": "Apple AI head John Giannandrea is stepping down after seven years amid criticism that the iPhone maker lags rivals in deploying generative AI—particularly an overdue Siri overhaul. CEO Tim Cook lauded Giannandrea’s contributions. He’ll be replaced by Amar Subramanya, ex-Microsoft AI vice-president and former Google Gemini engineering lead, reporting to software boss Craig Federighi. Apple debuted its ‘Apple Intelligence’ suite in June 2024 but has added only incremental AI features such as real-time translation in AirPods and an AI voice for fitness apps. Cook and Federighi promise a personalized Siri release next year as part of a renewed AI push.",
+      "summaryTokens": 567,
+      "generatedAt": "2025-12-04T04:20:41.227Z"
     },
     {
       "id": "technology/2025/nov/30/ai-poetry-safety-features-jailbreak",
