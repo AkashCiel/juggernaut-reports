@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "law",
-    "generated_at": "2025-12-03T03:42:33.574Z",
+    "generated_at": "2025-12-04T03:35:07.006Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-02"
+      "to": "2025-12-03"
     },
-    "article_count": 44,
+    "article_count": 45,
     "merge_info": {
-      "previous_count": 41,
-      "new_articles": 3,
-      "updated_articles": 1,
-      "total_count": 44
+      "previous_count": 44,
+      "new_articles": 1,
+      "updated_articles": 4,
+      "total_count": 45
     },
     "batch_info": {
-      "initial_batch_id": "batch_692faecccd4081908ef656986d466d04",
+      "initial_batch_id": "batch_693100676fe881909f83b96f4529226f",
       "retry_batches": [],
-      "total_tokens": 9162,
-      "processing_time_hours": 0.2
+      "total_tokens": 13098,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "law/2025/dec/03/what-juries-can-do-that-professional-judges-cant",
+      "title": "What juries can do that professional judges can’t | Letters",
+      "webUrl": "https://www.theguardian.com/law/2025/dec/03/what-juries-can-do-that-professional-judges-cant",
+      "apiUrl": "https://content.guardianapis.com/law/2025/dec/03/what-juries-can-do-that-professional-judges-cant",
+      "section": "law",
+      "publishedDate": "2025-12-03T17:34:15Z",
+      "trailText": "Letters: Jurors bring a humane, rounded perspective to the system, says Simeon Wallis . Plus letters from Diana Good and Francis FitzGibbon KC",
+      "summary": "Barrister Simeon Wallis, part-time judge Diana Good and barrister Francis FitzGibbon KC defend jury trials in response to Simon Jenkins’s proposal to curtail them. They argue juries provide a democratic safeguard, a humane, proportionate, conscience-led verdict and rounded perspective that professional judges, focused on repeated grave offences, can’t maintain. They attribute trial delays and prison backlogs to underfunding, not juries, and warn that removing juries sacrifices public participation and a check against overly harsh mandatory sentencing.",
+      "summaryTokens": 789,
+      "generatedAt": "2025-12-04T03:35:06.839Z"
+    },
     {
       "id": "law/2025/dec/02/letter-sir-geoffrey-bindman-obituary",
       "title": "Letter: Sir Geoffrey Bindman obituary",
@@ -29,9 +41,9 @@
       "section": "law",
       "publishedDate": "2025-12-02T17:11:17Z",
       "trailText": "Jeremy Corbyn writes: He dedicated his life to protecting the freedoms of ordinary people",
-      "summary": "Sir Geoffrey Bindman championed the underdog across a 60-year career, defending victims of state torture, minority rights and high-profile civil liberties cases. His firm became the go-to for just causes and personal crises, offering warmth and support to those facing injustice. Corbyn recalls their friendship during the Pinochet extradition, where Bindman quipped that a life of endless legal wrangling was the harshest punishment. He insisted truth is the essence of justice, guiding landmark interventions from wrongful convictions to discrimination cases, leaving a legacy of unwavering advocacy for ordinary people’s freedoms.",
-      "summaryTokens": 1374,
-      "generatedAt": "2025-12-03T03:42:33.380Z"
+      "summary": "Sir Geoffrey Bindman, renowned human rights barrister, dedicated over six decades to defending civil liberties and the underdog. Founder of a firm that became the go-to for justice causes, he supported clients through personal hells with characteristic warmth and empathy. He represented Chilean torture survivors in Pinochet’s extradition case, famously quipping that a housebound legal limbo was its own harsh punishment. A steadfast advocate, known as a principled risk-taker, he championed freedom of expression and due process across landmark cases, shaping UK human rights law. Bindman insisted truth underpinned all justice and stood up for ordinary people’s freedoms regardless of risk, as recalled by Jeremy Corbyn.",
+      "summaryTokens": 2230,
+      "generatedAt": "2025-12-04T03:35:06.839Z"
     },
     {
       "id": "law/2025/dec/02/why-lammy-wants-to-scrap-some-jury-trials-and-the-arguments-against",
@@ -41,9 +53,9 @@
       "section": "law",
       "publishedDate": "2025-12-02T15:49:16Z",
       "trailText": "Justice secretary says record backlog is failing victims and defendants, but there are concerns about lack of diversity among judges",
-      "summary": "Justice secretary David Lammy plans to remove jury trials for offences expected to carry sentences under three years and complex financial crimes, shifting these “swift courts” to judge-only hearings alongside expanded magistrate sentencing powers (up to 18–24 months). Prompted by a backlog nearing 100,000 crown court cases, his reforms follow Brian Leveson’s recommendations. He retains jury trials for serious indictable offences (murder, rape, grievous bodily harm, trafficking). Opponents warn this undermines the Magna Carta principle, risks miscarriages of justice due to homogenous benches, and overlooks chronic justice-system underfunding.",
-      "summaryTokens": 1077,
-      "generatedAt": "2025-12-03T03:42:33.380Z"
+      "summary": "Justice secretary David Lammy will remove jury trials for offences with likely sentences under three years and complex fraud/financial cases, diverting them to judge-only courts or enhanced magistrates (sentences up to 18–24 months). A crown courts backlog of almost 80,000 cases, rising to 100,000, drives this reform aimed at reducing delays harming victims and witnesses. Based on Brian Leveson’s recommendations, the plans guarantee full jury trials for serious indictable offences such as rape, murder, aggravated burglary and people trafficking. Critics warn it undermines Magna Carta rights, risks miscarriages of justice given judicial homogeneity, weakens conscience acquittals, and ignores underfunding and systemic inefficiencies as root causes.",
+      "summaryTokens": 1098,
+      "generatedAt": "2025-12-04T03:35:06.839Z"
     },
     {
       "id": "law/2025/dec/02/david-lammy-proposals-jury-trials",
@@ -53,9 +65,9 @@
       "section": "law",
       "publishedDate": "2025-12-02T08:49:41Z",
       "trailText": "Justice secretary suggests he will stick to Leveson’s recommended three-year sentence threshold in England and Wales, after ‘cabinet feedback’",
-      "summary": "Justice Secretary David Lammy, following cabinet feedback, will limit jury trials in England and Wales to serious offences—murder, manslaughter, rape and ‘either-way’ charges with potential sentences above three years—aligning with Sir Brian Leveson’s recommendation. Lesser either-way offences like assaults and thefts would go to magistrates or a new judge-only division to tackle a 100,000-case backlog. Lammy, affirming his support for the jury system, faces opposition from the Criminal Bar Association, Bar Council and Law Society over rights curtailment and fairness concerns, especially for BAME defendants. The MoJ reports only 3% of cases use juries; two prisoners remain at large after erroneous releases.",
-      "summaryTokens": 1090,
-      "generatedAt": "2025-12-03T03:42:33.380Z"
+      "summary": "After a leaked memo proposed restricting jury trials to offences with potential sentences above five years, Justice Secretary David Lammy is set to follow Sir Brian Leveson’s recommendation, reserving juries for charges likely to yield sentences over three years. Jury trials would be confined to murder, rape, manslaughter and serious crimes, with lesser 'either-way' offences such as assault, theft and handling stolen goods diverted to magistrates' courts or a new judge-only bench division. Lammy cites a 100,000-case backlog and Cabinet feedback. The plan faces pushback from MPs, the Bar Council, Criminal Bar Association, Law Society and advocates warning of fairness and racial bias risks.",
+      "summaryTokens": 1779,
+      "generatedAt": "2025-12-04T03:35:06.839Z"
     },
     {
       "id": "law/2025/dec/02/lammy-lambasts-courts-emergency-as-he-prepares-to-face-mps-over-plans-to-slash-jury-trials",
@@ -65,9 +77,9 @@
       "section": "law",
       "publishedDate": "2025-12-02T00:00:10Z",
       "trailText": "Justice secretary expected to announce plans to tackle backlog of cases as he says system has been pushed to brink of collapse",
-      "summary": "Justice Secretary David Lammy warns of a ‘courts emergency’ in England and Wales, with backlog set to exceed 100,000 cases by 2028, leaving victims waiting years for trials. He floated limiting jury trials to offences with sentences over five years—murder, rape, manslaughter—while shifting fraud, financial and lesser ‘either way’ crimes to judge‐only hearings or magistrates/intermediate courts. After backlash from barristers, the MoJ deferred jury cuts but pledged £550m over three years to bolster victim and witness support. Proposals draw on Sir Brian Leveson’s recommendation for an intermediate ‘bench division’ court. Bar Council and Law Society criticize lack of evidence and risk of miscarriages of justice.",
-      "summaryTokens": 1809,
-      "generatedAt": "2025-12-03T03:42:33.380Z"
+      "summary": "David Lammy has declared a courts emergency in England and Wales, warning of a backlog of 78,000 Crown court cases set to surpass 100,000 by 2028 and plans to reserve jury trials for serious offences such as murder, rape and manslaughter with sentences over five years. Leaked MoJ proposals would shift lesser either-way, technical fraud and financial cases to judge-only trials or a new bench-division model with a judge plus two lay magistrates. After opposition from the Bar Council, Criminal Bar Association and civil rights advocates, Lammy paused rollout. He will follow Sir Brian Leveson’s recommendations and invest £550m in victims’ services over three years.",
+      "summaryTokens": 2515,
+      "generatedAt": "2025-12-04T03:35:06.839Z"
     },
     {
       "id": "law/2025/nov/30/plan-to-reduce-jury-trials-an-irremediable-error-lawyers-say-in-moj-letter",
