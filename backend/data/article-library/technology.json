@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-04T04:20:41.407Z",
+    "generated_at": "2025-12-05T03:54:50.883Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-03"
+      "to": "2025-12-04"
     },
-    "article_count": 240,
+    "article_count": 245,
     "merge_info": {
-      "previous_count": 235,
+      "previous_count": 240,
       "new_articles": 5,
-      "updated_articles": 6,
-      "total_count": 240
+      "updated_articles": 5,
+      "total_count": 245
     },
     "batch_info": {
-      "initial_batch_id": "batch_69310bb6c1bc8190a0c6d61b1f3b6f64",
+      "initial_batch_id": "batch_6932573311c48190affb2c2a7915ebca",
       "retry_batches": [],
-      "total_tokens": 22118,
+      "total_tokens": 22931,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/04/google-ai-nano-banana-pro-racialised-white-saviour-images",
+      "title": "Google’s AI Nano Banana Pro accused of generating racialised ‘white saviour’ visuals",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/04/google-ai-nano-banana-pro-racialised-white-saviour-images",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/04/google-ai-nano-banana-pro-racialised-white-saviour-images",
+      "section": "technology",
+      "publishedDate": "2025-12-04T19:35:30Z",
+      "trailText": "Research finds tool depicts white women surrounded by black children when prompted about humanitarian aid in Africa",
+      "summary": "Research shows Google's AI image generator Nano Banana Pro repeatedly produces images of a white woman volunteering with Black children in Africa when prompted about humanitarian aid, sometimes grafting charity logos like World Vision, Save the Children or Red Cross without prompting. Arsenii Alenichev at Antwerp's Institute of Tropical Medicine flagged these 'white saviour' biases and unlicensed logo insertions. World Vision and Save the Children deny authorising their branding. Google acknowledges guardrail gaps and says it's refining its safeguards. This incident highlights entrenched racial stereotypes and intellectual property issues in AI-generated imagery.",
+      "summaryTokens": 1632,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
+    },
+    {
+      "id": "technology/2025/dec/04/chatbots-sway-political-opinions-substantially-inaccurate-study",
+      "title": "Chatbots can sway political opinions but are ‘substantially’ inaccurate, study finds",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/04/chatbots-sway-political-opinions-substantially-inaccurate-study",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/04/chatbots-sway-political-opinions-substantially-inaccurate-study",
+      "section": "technology",
+      "publishedDate": "2025-12-04T19:00:28Z",
+      "trailText": "‘Information-dense’ AI responses are most persuasive but these tend to be less accurate, says security report",
+      "summary": "The UK AI Security Institute’s systematic study of nearly 80,000 British participants found that 19 AI models—including ChatGPT, Grok, Meta’s Llama 3 and Alibaba’s Qwen—could shift political opinions on issues like pay strikes and the cost-of-living crisis. Models tuned for high “information density” via post-training with reward models achieved the greatest persuasion but were significantly less accurate. Conversations averaged ten minutes and seven exchanges. Researchers warn that optimizing AI for persuasiveness may undercut truthfulness, posing risks for public discourse and potential manipulative campaigns.",
+      "summaryTokens": 356,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
+    },
+    {
+      "id": "technology/2025/dec/04/irish-authorities-asked-to-investigate-microsoft-over-alleged-unlawful-data-processing-by-idf",
+      "title": "Irish authorities asked to investigate Microsoft over alleged unlawful data processing by IDF",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/04/irish-authorities-asked-to-investigate-microsoft-over-alleged-unlawful-data-processing-by-idf",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/04/irish-authorities-asked-to-investigate-microsoft-over-alleged-unlawful-data-processing-by-idf",
+      "section": "technology",
+      "publishedDate": "2025-12-04T14:59:39Z",
+      "trailText": "Move follows Guardian revelations of Israel’s mass surveillance of Palestinians using Microsoft cloud",
+      "summary": "The Irish Council for Civil Liberties has asked Ireland’s Data Protection Commission to investigate Microsoft for alleged GDPR breaches after the Guardian exposed that Israel’s Unit 8200 stored and analysed Palestinians’ phone calls on Microsoft Azure. ICCL argues the cloud service powered the ‘Al Minasseq’ mass surveillance system, facilitating targeted airstrikes and war crimes, and that Microsoft moved intercepted data out of EU servers to conceal unlawful processing. The DPC has confirmed receipt of the complaint; Microsoft has launched an external review and revoked some Unit 8200 access.",
+      "summaryTokens": 548,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
+    },
+    {
+      "id": "technology/2025/dec/04/hyperverse-bitcoin-rodney-us-court-australian-sam-lee-ntwnfb",
+      "title": "HyperVerse promoter ‘Bitcoin Rodney’ accuses Australian Sam Lee in US court of duping him with ‘elaborate deception’",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/04/hyperverse-bitcoin-rodney-us-court-australian-sam-lee-ntwnfb",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/04/hyperverse-bitcoin-rodney-us-court-australian-sam-lee-ntwnfb",
+      "section": "technology",
+      "publishedDate": "2025-12-04T14:00:23Z",
+      "trailText": "Rodney Burton says in Maryland district court memorandum he acted in good faith when promoting scheme that allegedly defrauded investors of US$1.89bn, but Lee calls claims ‘baseless’",
+      "summary": "Promoter Rodney Burton (“Bitcoin Rodney”) moved in Maryland court to challenge his detention and seek dismissal of US criminal charges tied to the alleged $1.89bn HyperVerse Ponzi, arguing Australian co-founder Sam Lee orchestrated an “elaborate deception” through seemingly legitimate Hong Kong and Dubai offices that duped even a diligent investigator. Lee, facing parallel DOJ fraud charges and an SEC civil suit, denies wrongdoing and claims his involvement was limited to tech provision. Burton’s trial is set for March 2026; Lee’s civil case is stayed pending the outcome of criminal proceedings.",
+      "summaryTokens": 684,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
+    },
+    {
+      "id": "technology/2025/dec/04/nevada-ai-data-centers",
+      "title": "The AI boom is heralding a new gold rush in the American west",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/04/nevada-ai-data-centers",
+      "section": "technology",
+      "publishedDate": "2025-12-04T12:00:19Z",
+      "trailText": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters",
+      "summary": "Nevada’s Tahoe-Reno Industrial Center, a former gold rush region spanning 160 sq miles, is transforming into the US’s largest AI datacenter hub as Switch, Microsoft (with OpenAI), Google, Amazon, Apple, Meta, Oracle and others race to build facilities. Fueled by venture capital, AI infrastructure spending may hit $7 trn by 2030. These hyperscale centers demand colossal power (often gas-backed) and water for cooling in arid Storey County, jeopardizing limited groundwater and Pyramid Lake Paiute resources despite a $100 m reclaimed-water project. Tribes warn of ecological strain amid rapid tech expansion.",
+      "summaryTokens": 877,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
+    },
     {
       "id": "technology/2025/dec/04/australians-wrongful-social-media-account-closures",
       "title": "Hundreds of Australians complain of wrongful social media account closures but ombudsman can’t help",
@@ -29,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-03T23:00:57Z",
       "trailText": "Increasing number of people asking for help to regain access to accounts, with Google topping digital platform-related complaints",
-      "summary": "Over the past 2½ years, 1,537 Australians lodged digital platform complaints with the Telecommunications Industry Ombudsman—36% citing wrongful account terminations—yet the TIO lacks power to enforce remedies. Complaints jumped 28.6% year-on-year, led by Google (18%), Hubbl (15%), Apple and Microsoft (14% each) and Meta (11%). The report details “Karen,” a small-business owner who lost linked social media access, halting ads and customer outreach. Ahead of December’s under-16 social media ban mandating swift appeal processes, the ombudsman urges expanded jurisdiction to resolve consumer disputes with digital platforms.",
-      "summaryTokens": 693,
-      "generatedAt": "2025-12-04T04:20:41.227Z"
+      "summary": "Over 1,500 Australians have lodged digital platform complaints with the Telecommunications Industry Ombudsman (TIO) since January 2023—36% related to wrongful social media account terminations. Karen, a small-business owner, lost access to her ad-linked personal account without warning and couldn’t appeal. The TIO, which lacks jurisdiction over platforms, saw complaints rise 28.6% year-on-year, led by Google (18%), Hubbl (15%), Apple and Microsoft (14% each) and Meta (11%). Ahead of the ban on under-16s on 12 platforms from 10 December, the TIO urges expanding its remit into a communications ombudsman to enforce appeals and digital duty of care.",
+      "summaryTokens": 507,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
     },
     {
       "id": "technology/2025/dec/03/top-google-searches-australia-2025",
@@ -41,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-12-03T19:00:53Z",
       "trailText": "From Cyclone Alfred to Charlie Kirk, the results show Australians are tuned in to major events. But there are some surprise inclusions",
-      "summary": "Australians’ top Google queries in 2025 ranged from natural disasters and politics to pop culture and oddball searches. Cyclone Alfred led overall searches, followed by Charlie Kirk’s shooting, the 2025 federal election and DIY advice on cyclone preparation. Entertainment entries included wellness figure Belle Gibson, serial killer Ed Gein and Madison Keys’ Australian Open win. Trending news events covered foreign conflicts, Erin Patterson’s trial and fugitive Dezi Freeman, but also Bianca Censori’s sheer Grammys look and Astronomer CEO Andy Bryon’s resignation scandal. Yearly constants like DIY car maintenance and Easter recipes shared space with niche queries such as “how to make ice-cream grow in a garden?” and “Discog.”",
-      "summaryTokens": 636,
-      "generatedAt": "2025-12-04T04:20:41.227Z"
+      "summary": "Cyclone Alfred topped 2024 searches, followed by Charlie Kirk after his fatal shooting and the 2025 federal election. Other top 10: wellness scammer Belle Gibson, serial killer Ed Gein and England v India cricket. Madison Keys led trending figures, followed by Jimmy Kimmel. Searches focused on natural disasters, politics, high-profile crimes (Erin Patterson trial; fugitive Dezi Freeman), hits like Bianca Censori’s Grammys outfit and Astronomer CEO Andy Byron’s cheating scandal. Year-round interests: DIY car maintenance, St Patrick’s Day, Easter queries (hot cross buns, recipes) and “how to talk to women.” Entertainment buzz: Labubu plush, KPop Demon Hunters, Anora film and “Discog.”",
+      "summaryTokens": 2761,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
     },
     {
       "id": "technology/2025/dec/03/amazon-and-the-tightening-grip-of-capitalism",
@@ -53,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2025-12-03T17:33:41Z",
       "trailText": "Letter: Benjamin Selwyn argues that the company’s power lies not in escaping capitalist logic, but in intensifying it",
-      "summary": "Benjamin Selwyn rebuts Yanis Varoufakis’s claim that Amazon ushers in “technofeudalism,” asserting instead that its rent-extraction amplifies core capitalist dynamics rather than escapes them. Drawing parallels with the East India Company’s state-backed monopolies and Marx’s landlord-created rents, Selwyn notes Amazon’s profits stem from labour across factories, warehouses and delivery networks. He also highlights how state-backed alliances historically empowered monopolies. Its algorithmic management, global supply chains and relentless cost-cutting intensify exploitation of a vastly expanded global proletariat. Labeling this technofeudalism, he warns, risks obscuring the deeper issue: the escalating grip of capitalism on production, distribution and daily life.",
-      "summaryTokens": 2147,
-      "generatedAt": "2025-12-04T04:20:41.227Z"
+      "summary": "Prof Benjamin Selwyn rebuts Yanis Varoufakis’s claim that Amazon inaugurates 'technofeudalism,' showing that its rent-seeking mirrors earlier capitalist monopolies—from the East India Company to landlord rents described by Marx. Amazon’s profit margins still derive from exploited labor in factories, warehouses and delivery networks. Rather than heralding a new socio-economic order, it sharpens capitalist dynamics via global supply chains, algorithmic management and relentless cost-cutting across a vastly expanded workforce. Labeling this trend 'feudal' obscures how capitalism’s reach into production, distribution and daily life has only deepened.",
+      "summaryTokens": 489,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
     },
     {
       "id": "technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
@@ -65,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2025-12-03T06:00:57Z",
       "trailText": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month",
-      "summary": "AI Forensics found 354 TikTok accounts posted 43,000 generative-AI videos—garnering 4.5 billion views in a month—often gaming the algorithm with mass uploads. Content ranged from anti-immigrant fake news using known broadcaster logos to sexualized imagery of women, sometimes minors. Over half went unlabeled and under 2% bore TikTok’s AI tag, evading moderation for months. Researchers urge mandatory, visible AI labeling or a dedicated AI feed; TikTok calls findings unsubstantiated.",
-      "summaryTokens": 806,
-      "generatedAt": "2025-12-04T04:20:41.227Z"
+      "summary": "AI Forensics identified 354 TikTok accounts posting 43,000 AI-generated clips in a month, amassing 4.5 bn views by gaming TikTok’s algorithm. Content ranged from anti-immigrant fake news segments—some misusing broadcasters’ brands—to sexualised depictions of women, including underage figures, and “slop” (bizarre AI clips). Half the top accounts pushed female body content. Less than 2% of posts bore AI labels, risking deception, and many evaded moderation for months. TikTok disputes the findings, citing removal of harmful AIGC and bot blocks. TikTok says over 100m daily uploads dilute labelled AI posts and allows users to reduce AI content. Researchers urge systematic, visible AI labelling or segregation of synthetic content.",
+      "summaryTokens": 1174,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
     },
     {
       "id": "technology/2025/dec/03/tesla-uk-ev-rules-sales-elon-musk-electric-car",
@@ -77,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2025-12-03T06:00:56Z",
       "trailText": "Elon Musk-owned electric carmaker also called for support for the secondhand market, documents reveal",
-      "summary": "Tesla privately warned the UK government that weakening its zero-emission vehicle (ZEV) mandate—introducing new loopholes and flexibilities—would suppress battery electric vehicle (BEV) supply, dent sales and risk missing carbon budgets. In confidential consultation submissions obtained via FOI, the Elon Musk-run carmaker urged support for the secondhand EV market, opposed new EV taxes and a 2028 pay-per-mile charge, and called for a ban after 2030 on plug-in hybrids with under 100-mile electric range. Other manufacturers (BMW, JLR, Nissan, Toyota, Ford, Mercedes-Benz) varied in their stances and some objected to disclosure.",
-      "summaryTokens": 581,
-      "generatedAt": "2025-12-04T04:20:41.227Z"
+      "summary": "Tesla privately warned the UK government that relaxing its zero-emission vehicle (ZEV) mandate and imposing new electric car taxes would suppress battery EV sales, jeopardize carbon budgets and undermine demand. In FOI-submitted consultation responses, Tesla urged closing “flexibility” loopholes, supporting secondhand EVs and banning sub-100-mile plug-in hybrids after 2030. Rival automakers branded the mandate financially damaging, while Ford and Mercedes-Benz opposed tougher 2030 targets and lobbied for VAT cuts on public charging. April’s budget paired a 2028 pay-per-mile levy with extended new-EV grants, splitting industry sentiment.",
+      "summaryTokens": 1223,
+      "generatedAt": "2025-12-05T03:54:50.726Z"
     },
     {
       "id": "technology/2025/dec/03/australia-esafety-commissioner-julie-inman-grant-online-safey-act-jim-jordan",
