@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-12-04T04:09:59.954Z",
+    "generated_at": "2025-12-05T03:38:43.029Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-12-03"
+      "to": "2025-12-04"
     },
-    "article_count": 133,
+    "article_count": 134,
     "merge_info": {
-      "previous_count": 132,
+      "previous_count": 133,
       "new_articles": 1,
-      "updated_articles": 2,
-      "total_count": 133
+      "updated_articles": 1,
+      "total_count": 134
     },
     "batch_info": {
-      "initial_batch_id": "batch_693103aaef6c81909ede96f51ed50ca8",
+      "initial_batch_id": "batch_69325360d8b881909d19ba72cada8ce9",
       "retry_batches": [],
-      "total_tokens": 6445,
-      "processing_time_hours": 0.4
+      "total_tokens": 3271,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/dec/04/fears-of-higher-energy-bills-as-28bn-grid-upgrade-gets-go-ahead",
+      "title": "Households face higher energy bills as £28bn grid upgrade gets go-ahead",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/04/fears-of-higher-energy-bills-as-28bn-grid-upgrade-gets-go-ahead",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/04/fears-of-higher-energy-bills-as-28bn-grid-upgrade-gets-go-ahead",
+      "section": "money",
+      "publishedDate": "2025-12-04T08:26:25Z",
+      "trailText": "Plan to improve gas networks and rewire electricity systems across Great Britain likely to add £30 to average annual bill",
+      "summary": "Ofgem has approved £28bn of grid upgrades for 2026–31—£17.8bn for gas networks and £10.3bn for high-voltage electricity—funded via levies on household bills. Network charges will rise from £222 to £330 by 2031 (adding net ~£30/yr, £2.50/mo), with smoothing pushing a possible £338 peak. The plan covers 80+ projects to enhance energy security for the UK’s green transition and promises £80/yr savings vs no upgrade. Funds release is conditional on on-time, on-budget delivery and claw-back safeguards. Small businesses also face higher charges.",
+      "summaryTokens": 576,
+      "generatedAt": "2025-12-05T03:38:42.884Z"
+    },
     {
       "id": "money/2025/dec/03/baby-formula-costs-parents-starmer",
       "title": "Help to cut baby formula costs could save parents up to £500, Starmer says",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-12-03T14:50:21Z",
       "trailText": "Ministers accept watchdog’s recommendations on how to help people avoid spending more on formula than needed",
-      "summary": "Labour leader Keir Starmer announced the government will implement several CMA recommendations to cut baby formula costs, including mandatory in-store grouping of brands, better labelling to highlight cheaper own-brand equivalents and allowing gift cards, vouchers and loyalty points for purchases. While rejecting standardised packaging in hospitals, ministers expect these moves to save parents up to £500 in a child’s first year. Starmer linked the plan to abolishing the two-child benefit cap, praising the move for lifting half a million children out of poverty. Health Secretary Wes Streeting added that the measures restore parental confidence and democratise access to more affordable formula.",
-      "summaryTokens": 1000,
-      "generatedAt": "2025-12-04T04:09:59.801Z"
+      "summary": "Keir Starmer says ministers will adopt key Competition and Markets Authority recommendations to help parents save up to £500 on infant formula in a child’s first year. Measures include mandating all formula lines be displayed together in stores, allowing gift cards, vouchers, loyalty points and coupons for formula purchases, and promoting nutritionally identical supermarket own-brand alternatives. These steps, tied to ending the two-child benefit cap and upcoming child poverty strategy, aim to lift half a million children out of poverty. Standardised packaging in healthcare settings was rejected.",
+      "summaryTokens": 726,
+      "generatedAt": "2025-12-05T03:38:42.884Z"
     },
     {
       "id": "money/2025/dec/02/shop-loyalty-cards-invest-shares-buy-me-gold-ways-beat-inflation",
