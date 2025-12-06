@@ -1,26 +1,326 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-05T03:57:31.629Z",
+    "generated_at": "2025-12-06T03:47:22.774Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-05"
+      "to": "2025-12-06"
     },
-    "article_count": 1586,
+    "article_count": 1611,
     "merge_info": {
-      "previous_count": 1558,
-      "new_articles": 28,
-      "updated_articles": 26,
-      "total_count": 1586
+      "previous_count": 1586,
+      "new_articles": 25,
+      "updated_articles": 34,
+      "total_count": 1611
     },
     "batch_info": {
-      "initial_batch_id": "batch_6932579370788190ba13c10c7f22159a",
+      "initial_batch_id": "batch_6933a610d5a48190b0c2fdefd9e1d8c8",
       "retry_batches": [],
-      "total_tokens": 127180,
-      "processing_time_hours": 0
+      "total_tokens": 135547,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/05/trump-administration-news-update-today",
+      "title": "Trump news at a glance: list of countries under US travel ban set to grow",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/trump-administration-news-update-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/trump-administration-news-update-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-06T02:08:58Z",
+      "trailText": "US Department of Homeland Security secretary Kristi Noem says list will expand to more than 30 countries",
+      "summary": "DHS Secretary Kristi Noem announced plans to broaden the US travel ban to over 30 countries—up from 19—encompassing tourists, students and immigrants, amid visa refusals and canceled naturalization ceremonies. The Supreme Court will weigh Trump’s birthright citizenship order; senators reviewed a video of two men killed after a US airstrike; a White House policy paper backs Europe’s far right; the CDC panel moved to limit universal newborn hepatitis B shots; a judge unsealed Epstein grand-jury files; and the administration barred visas for fact-checkers, drew criticism from Ilhan Omar for anti-Somali remarks, and saw other major political and cultural developments.",
+      "summaryTokens": 1395,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/cdc-panel-rfk-hepatitis-b-vaccine",
+      "title": "CDC advisory panel votes to limit hepatitis B vaccines for newborns",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/cdc-panel-rfk-hepatitis-b-vaccine",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/cdc-panel-rfk-hepatitis-b-vaccine",
+      "section": "us-news",
+      "publishedDate": "2025-12-06T01:40:47Z",
+      "trailText": "Move from CDC advisers mirrors Trump team’s regressive approach to longstanding vaccine guidance",
+      "summary": "A CDC advisory panel, reshaped under Health Secretary RFK Jr., voted 8–3 to drop its longstanding recommendation that all U.S. newborns receive hepatitis B vaccine, instead urging “shared clinical decision-making” for infants of hepatitis-negative mothers. Critics warn this will sow confusion, impede access for low-income families covered by Vaccines for Children, and may delay immunization past birth—potentially causing an estimated 1,400 infections, 300 liver cancers and 480 deaths annually. The proposal also mandates unvalidated post-dose antibody testing. The advisory recommendations now await review by acting CDC director Jim O’Neill.",
+      "summaryTokens": 365,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/adelita-grijalva-arizona-pepper-spray-ice-protest",
+      "title": "Arizona congresswoman says she was ‘pepper sprayed’ at protest against ICE",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/adelita-grijalva-arizona-pepper-spray-ice-protest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/adelita-grijalva-arizona-pepper-spray-ice-protest",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T23:40:33Z",
+      "trailText": "Adelita Grijalva, a Democratic representative, said she was ‘sprayed in the face’ at demonstration outside a restaurant",
+      "summary": "Arizona Rep. Adelita Grijalva said she was pepper-sprayed by ICE agents during a protest outside Taco Giro, a family-owned Tucson restaurant, as agents executed 16 warrants in a long-running immigration and tax investigation. In footage, Grijalva approaches masked officers before an agent fires an orange chemical; DHS, calling her claim a “medical marvel,” disputes she was targeted, while ICE says two agents were injured. Tucson’s mayor, vice-mayor and Democratic lawmakers denounced the force as excessive and urged witnesses to document the encounter. Grijalva said protesters feared ICE was detaining people “without due process,” and she intervened to observe as a member of Congress.",
+      "summaryTokens": 2049,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/civilisational-erasure-us-strategy-document-appears-to-echo-far-right-conspiracy-theories-about-europe",
+      "title": "‘Cultivate resistance’: policy paper lays bare Trump support for Europe’s far right",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/civilisational-erasure-us-strategy-document-appears-to-echo-far-right-conspiracy-theories-about-europe",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/civilisational-erasure-us-strategy-document-appears-to-echo-far-right-conspiracy-theories-about-europe",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T22:55:35Z",
+      "trailText": "Text signed by president seems to echo ‘great replacement’ theory, saying Europe faces ‘civilisational erasure’",
+      "summary": "Donald Trump’s 2025 National Security Strategy, bearing his signature, warns Europe faces “civilisational erasure” within 20 years due to migration, EU integration and censorship, echoing the racist “great replacement” conspiracy. It urges the US to “cultivate resistance” by empowering nationalist, pro-Russia parties, pressing Europeans to assume primary defence, opening markets to US exports and pushing for a quick end to the Ukraine war. Germany rebuffs US meddling in its free-speech and sovereignty; critics argue the strategy undermines allies and legitimises far-right agendas.",
+      "summaryTokens": 1396,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/dc-pipe-bomb-suspect-court",
+      "title": "US Capitol pipe bomb suspect says he believed Trump’s 2020 election lie",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/dc-pipe-bomb-suspect-court",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/dc-pipe-bomb-suspect-court",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T21:57:55Z",
+      "trailText": "Brian Cole Jr makes first court appearance charged with planting two devices on 5 January 2021 in Washington",
+      "summary": "Brian Cole Jr., 30, first named suspect in the January 6 pipe bomb case, appeared before Magistrate Judge Moxila Upadhyaya in DC federal court facing two explosives charges for planting devices outside the DNC and RNC headquarters on January 5, 2021. Arrested after a DOJ review of existing evidence, Cole reportedly confessed and told investigators he believed Trump’s stolen election lie. Traced through purchases and cell-phone and license-plate data, with bombs deactivated the next day, he faces up to 20 years. Detention hearing set for December 15.",
+      "summaryTokens": 998,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/doj-prison-lgbtq-sexual-abuse-protections",
+      "title": "DoJ moves to eliminate sexual abuse protections for LGBTQ+ people in prisons",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/doj-prison-lgbtq-sexual-abuse-protections",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/doj-prison-lgbtq-sexual-abuse-protections",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T21:55:03Z",
+      "trailText": "Memo says the policy shift, which advocates call ‘reckless’, was designed to align with one of Trump’s anti-trans orders",
+      "summary": "The DOJ issued an immediate memo ending enforcement of LGBTQ+–specific sexual abuse protections under the Prison Rape Elimination Act to comply with Trump’s “restoring biological truth” order, halting audits on harassment, risk screening and gender-affirming measures. Advocates warn this rollback will expose trans, intersex and queer inmates to greater violence, erode anti-rape standards and sow confusion among prison staff. Human rights groups and ACLU lawyers condemn the change as unlawful and dangerous, predicting increased assaults and legal challenges.",
+      "summaryTokens": 791,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/birthright-citizenship-legality-scotus-trump",
+      "title": "US supreme court to decide on legality of Trump birthright citizenship order",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/birthright-citizenship-legality-scotus-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/birthright-citizenship-legality-scotus-trump",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T21:32:38Z",
+      "trailText": "Justices to take up case amid legal fight over order to heavily restrict right to birthright citizenship in US",
+      "summary": "The US Supreme Court on Friday agreed to hear Donald Trump’s appeal of multiple injunctions blocking his executive order to deny birthright citizenship to children born to noncitizen parents. Issued hours into his second term, the order aimed to reinterpret the 14th Amendment’s Citizenship Clause—long held to grant automatic US nationality to anyone born on US soil—and was enjoined by lower courts for violating constitutional and statutory precedent. Arguments in Trump v. Barbara will be heard in spring, with a ruling expected by early summer. ACLU-led plaintiffs argue the ban would strip tens of thousands of children annually of citizenship and access to federal programs like Medicaid, while the administration contends the amendment was never intended to cover children of temporary visitors or undocumented immigrants.",
+      "summaryTokens": 641,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/us-citizen-chased-ice-agents-new-orleans",
+      "title": "US citizen chased by federal agents in New Orleans says she was targeted because ‘I’m brown’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/us-citizen-chased-ice-agents-new-orleans",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/us-citizen-chased-ice-agents-new-orleans",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T20:54:18Z",
+      "trailText": "Home security videos shows Jacelynn Guzman, 23, telling masked officers following her to ‘leave me alone’",
+      "summary": "US citizen Jacelynn Guzman, 23, was chased by masked DHS agents outside her Marrero, Louisiana home during the Trump administration’s immigration sweep aiming for 5,000 arrests. Captured on security video, Guzman ran inside, declaring “I’m a US citizen,” and said she was targeted for being brown. DHS says agents mistook her for someone with a deportation order for theft convictions and left once her identity was confirmed. Agents say they identified themselves and stopped at her property line. Guzman’s stepfather ordered officers off the property, denouncing racial profiling. The sweep has arrested dozens, fueling fear in immigrant communities with no criminal records.",
+      "summaryTokens": 2611,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/trump-peace-prize-fifa-world-cup",
+      "title": "Trump wins his peace prize from Fifa – any chance of a VAR review?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/trump-peace-prize-fifa-world-cup",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/trump-peace-prize-fifa-world-cup",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T20:35:41Z",
+      "trailText": "At a gaudy and gauche World Cup draw, Gianni Infantino went all out to flatter the world’s most precious ego",
+      "summary": "At a gaudy FIFA World Cup draw at Washington’s Kennedy Center, president Donald Trump was theatrically awarded an inaugural “peace prize” by FIFA president Gianni Infantino—a golden globe trophy and medal—amid orchestrated chants and celebrity performances (Bocelli, Klum, Hart). A promotional video touted Trump’s eight claimed diplomatic wins while glossing over controversies like extrajudicial killings and ties to Putin. Critics decried Infantino’s overt flattery and new Trump Tower office, likening the spectacle to Mussolini’s 1934 draw, and satirically called for VAR on FIFA’s most dubious honour. Held near Watergate amid Senate corruption probes, the show blurred sport and politics.",
+      "summaryTokens": 1272,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/federal-judge-epstein-grand-jury-materials",
+      "title": "US federal judge orders release of Epstein grand jury materials",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/federal-judge-epstein-grand-jury-materials",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/federal-judge-epstein-grand-jury-materials",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T19:54:21Z",
+      "trailText": "Ruling compels unsealing of documents from 2006-2007 federal investigation into Epstein in Florida",
+      "summary": "US District Judge Rodney Smith ordered unsealing of grand jury transcripts from the 2006–07 Florida Epstein investigation under the newly enacted Epstein Files Transparency Act signed in November, overriding traditional secrecy protections. The DOJ’s request was approved, marking the first release of Epstein-related records. Two pending New York cases face a Monday response deadline. The law mandates disclosure of unclassified materials by December 19 while allowing redactions to protect active investigations and victims’ privacy.",
+      "summaryTokens": 519,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/hepatitis-b-vaccine-vote-explained",
+      "title": "Who’s allowed to get the hepatitis B vaccine in the US now?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/hepatitis-b-vaccine-vote-explained",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/hepatitis-b-vaccine-vote-explained",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T19:53:32Z",
+      "trailText": "Advisers for the CDC voted to limit the vaccines – here’s what happened and why the vote is so significant",
+      "summary": "CDC vaccine advisers voted to restrict newborn hepatitis B immunization—shifting from universal at-birth administration to shared clinical decision-making. Under the new guidance, most parents must consult a doctor before requesting the shot, which is now recommended after two months if deemed necessary. This unprecedented limitation on a routine vaccine—previously credited with a 99% drop in pediatric infections—risks reduced access, insurance confusion and weakened public trust. Critics warn it sets a precedent for questioning other long-standing, safe immunizations.",
+      "summaryTokens": 662,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/monsanto-roundup-safety-study-retracted",
+      "title": " Science journal retracts study on safety of Monsanto’s Roundup: ‘Serious ethical concerns’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/monsanto-roundup-safety-study-retracted",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/monsanto-roundup-safety-study-retracted",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T16:42:17Z",
+      "trailText": "Paper published in 2000 found glyphosate was not harmful, while internal emails later revealed company’s influence",
+      "summary": "Regulatory Toxicology and Pharmacology retracted a 2000 Monsanto-funded paper that claimed glyphosate poses no cancer risks, citing ethical breaches, ghostwriting and undisclosed company influence revealed in internal emails. Originally authored by Williams, Kroes and Munro, the study underpinned EPA and global regulators’ safety assessments. Litigation exposure showed Monsanto scientists ghostwrote and steered content to defend Roundup, prompting multibillion-dollar cancer verdicts. Bayer and the EPA say ongoing reviews rely on independent data. Editor Martin van den Berg cited misrepresented author contributions and conflicts of interest. Plaintiffs’ attorneys warn this retraction underscores the perils of corporate interference in peer review.",
+      "summaryTokens": 883,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/trump-administration-us-visa-crackdown",
+      "title": "Trump administration moves to deny visas to factcheckers and content moderators",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/trump-administration-us-visa-crackdown",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/trump-administration-us-visa-crackdown",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T16:41:31Z",
+      "trailText": "Action detailed in a state department memo directs officials to deny visas to any applicant engaging in ‘censorship’",
+      "summary": "The Trump administration has ordered consular officers to deny visas to foreign nationals tied to ‘censorship’ of US free speech, including fact-checkers and content moderators. A leaked State Department memo instructs enhanced vetting—examining applicants’ LinkedIn, social media and media references for work combating misinformation, disinformation, content moderation, trust and safety or fact-checking—and targets H-1B applicants but applies to all visa categories. Secretary of State Rubio argues such restrictions defend Americans’ speech, while tech experts warn they conflate vital trust and safety roles with censorship and threaten US security and innovation.",
+      "summaryTokens": 613,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/pam-bondi-antifa-tax-crimes",
+      "title": "Pam Bondi tells law enforcement agencies to investigate antifa groups for ‘tax crimes’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/pam-bondi-antifa-tax-crimes",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/pam-bondi-antifa-tax-crimes",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T16:02:44Z",
+      "trailText": "Move is part of Trump’s broader crackdown on leftwing groups, including designation of antifa as ‘domestic terrorism’ group",
+      "summary": "US Attorney General Pam Bondi has ordered federal and local law enforcement to probe antifa and allied leftwing networks for potential tax crimes, according to a Guardian-obtained memo. The directive implements President Trump’s September executive order designating antifa a domestic terror group—despite legal experts saying he lacks that authority—and mandates agencies to review and deliver related intelligence to the FBI within 14 days. Bondi’s memo also urges pursuing IRS fraud by extremist cells, exploring revocation of tax-exempt status for liberal nonprofits, and prioritizing grants to states with domestic terrorism programs. This move follows the first terrorism charges against alleged antifa activists in Texas and recent US designation of European anti-fascist organizations as foreign terrorist groups.",
+      "summaryTokens": 444,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/tenured-professor-fired-pro-palestinian-protests",
+      "title": "Tenured US professor fired over pro-Palestinian protests contests dismissal",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/tenured-professor-fired-pro-palestinian-protests",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/tenured-professor-fired-pro-palestinian-protests",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T15:00:27Z",
+      "trailText": "Sang Hea Kil is first tenured faculty member fired from a public university in connection to the protests",
+      "summary": "Sang Hea Kil, a tenured justice studies professor and Students for Justice in Palestine adviser at San José State University, was fired in November—the first tenured dismissal at a US public university for Gaza activism. SJSU accused her of disrupting operations and encouraging a student encampment during a tense February protest; a faculty committee found policy violations but deemed termination excessive. With arbitration by the California Faculty Association underway and potential lawsuit looming, Kil invokes free-speech and academic-freedom precedents, comparing the move to ‘New McCarthyism’ and echoing the 2014 Salaita case.",
+      "summaryTokens": 613,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/trump-ilhan-omar-somalia",
+      "title": "Ilhan Omar says Trump made racist anti-Somali tirade because he ‘knows he is failing’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/trump-ilhan-omar-somalia",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/trump-ilhan-omar-somalia",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T14:35:49Z",
+      "trailText": "The congresswoman from Minnesota responded to Trump’s dismissal of Somali Americans as ‘garbage’",
+      "summary": "Somali-born Congresswoman Ilhan Omar says President Trump’s recent public attacks—including labeling Somali Americans “garbage” and demanding she be “thrown the hell out” of the country—reflect his tactic of stoking racism as his policy agenda falters. In a New York Times essay, Omar celebrates her community’s resilience, condemns threats of ICE raids in Minnesota and recalls Trump’s long history of targeting Black, Muslim and African immigrants. She warns that such dehumanizing rhetoric puts Black, Somali, hijabi and immigrant Americans at risk and vows they won’t be silenced.",
+      "summaryTokens": 1566,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/stockton-california-shooting",
+      "title": "‘Don’t normalize this’: after deadly gunfire at children’s party, advocates urge focus on violence tearing US apart",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/stockton-california-shooting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/stockton-california-shooting",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T14:00:28Z",
+      "trailText": "Community fears shooting will be written off as gang violence and says examination of complex factors such as online feuds is required",
+      "summary": "Masked gunmen stormed a Stockton banquet hall at a toddler’s birthday party, killing four—two eight-year-olds, a 14-year-old and a 21-year-old—and wounding more than a dozen. Community organizers like Tashante McCoy and Leia Schenk warn the bloodshed will be brushed off as gang violence unless authorities and media address online feuds, clout-chasing rap culture and systemic neglect fueling street violence. They urge resources beyond policing—mental-health support, youth programs and holistic intervention—to treat shootings in underserved urban neighborhoods with the same rigor and empathy as high-profile mass murders.",
+      "summaryTokens": 1085,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/kristi-noem-travel-ban",
+      "title": "Homeland security head reveals plans to widen US travel ban to more than 30 countries",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/kristi-noem-travel-ban",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/kristi-noem-travel-ban",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T13:30:53Z",
+      "trailText": "Kristi Noem said the list of countries from which travel to the US is prohibited will increase to an unspecified number",
+      "summary": "Homeland Security Secretary Kristi Noem has announced plans to expand the US travel ban to more than 30 countries, without naming them. The June proclamation already barred citizens of 12 nations and restricted travelers from seven others to counter terrorism and security threats. Reuters reported the administration is considering adding 36 more. The move follows criticism over vetting after two National Guard members were shot by an Afghan national resettled in 2021. President Trump, who vowed to “permanently pause” migration from unspecified “third world countries,” is reviewing asylum approvals and green-card issuances, provoking opposition from immigration advocates and lawmakers.",
+      "summaryTokens": 934,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/california-pesticides-restrictions-rat-poisons",
+      "title": "California pesticide agency could loosen restrictions on most toxic rat poisons",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/california-pesticides-restrictions-rat-poisons",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/california-pesticides-restrictions-rat-poisons",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T13:00:23Z",
+      "trailText": "The anti-coagulant rodenticides also unintentionally harm wildlife across the state, including endangered species",
+      "summary": "California’s pesticide department, under Governor Newsom, is moving to loosen restrictions on the most toxic anticoagulant rat poisons, despite a 2024 law that limited use until wildlife populations recovered. A new California Fish and Wildlife report reveals widespread poisoning across species—83% of bald eagles and high levels in condors, along with mountain lions, hawks, owls, bears, bobcats and otters. Critics say industry-funded regulators are driven by sales to expand poison use to 100,000+ new sites (grocery stores, parks, highways). Conservationists and lawmakers demand enforcement of the Poison Free Wildlife Act.",
+      "summaryTokens": 619,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+      "title": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T12:37:29Z",
+      "trailText": "Footage seen by US senators shows two unarmed, shirtless men struggling to stay afloat before they were killed, sources say",
+      "summary": "Video shown to US senators reveals two unarmed, shirtless survivors of a September 2 drone strike on a suspected drug-smuggling boat clinging to floating wreckage for an hour before a second US attack killed them. The initial barrage killed nine; the follow-up involved three more munitions as they tried to flip the hull. The Pentagon has carried out 22 Caribbean and Pacific strikes this campaign, killing at least 87. Lawmakers split along party lines as critics cite the law of war’s ban on targeting shipwrecked survivors and call it a potential war crime.",
+      "summaryTokens": 880,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/first-thing-us-supreme-court-approves-redrawn-texas-congressional-maps",
+      "title": "US supreme court approves redrawn Texas congressional maps | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/first-thing-us-supreme-court-approves-redrawn-texas-congressional-maps",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/first-thing-us-supreme-court-approves-redrawn-texas-congressional-maps",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T12:23:40Z",
+      "trailText": "Major win for Trump as majority rejects lower-court ruling that found maps had been racially gerrymandered. Plus, the story of Mr DeepFakes – the world’s most notorious AI porn site",
+      "summary": "The SCOTUS lifted a lower court block on Texas’s new congressional maps, enabling up to five new GOP-leaning districts in a 6-3 decision, a major Trump victory ahead of 2026 midterms; liberal justices dissented. Also: the Pentagon killed four alleged “narco-terrorists” in a Pacific boat strike; EU leaders scramble to salvage Ukraine funding; Putin heads to Delhi for a summit with Modi; the RSF allegedly cover up mass killings in El Fasher; 3-year-old Indian chess talent earns an official rating; new Seymour Hersh documentary; deepfake porn site Mr DeepFakes exposed; 60,000 African penguins starve; Spotify’s “listening age” feature stirs debate.",
+      "summaryTokens": 2069,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/neo-nazi-base-leader-on-terrorism-arrest",
+      "title": "US leader of global neo-Nazi terrorist group signals retribution for arrests",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/neo-nazi-base-leader-on-terrorism-arrest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/neo-nazi-base-leader-on-terrorism-arrest",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T12:00:24Z",
+      "trailText": "Rinaldo Nazzaro says detention of suspected Base members in Spain justifies ‘resistance … by any means necessary’",
+      "summary": "Rinaldo Nazzaro, US-born leader of the proscribed neo-Nazi network the Base, living in Russia, vowed retaliation after Spanish police and Europol arrested a well-armed cell in Castellón. The group’s Iberian arm ran a public Telegram channel, trained paramilitarily, and broadcast propaganda glorifying violence, idolizing figures like Ted Kaczynski, while endorsing assassinations in Ukraine and seeking a white ethnostate. Europol seized firearms, extremist paraphernalia, and cash. Experts warn the Base’s export of hyper-violent extremism, potential Kremlin ties, and recent FBI deprioritization of right-wing threats amplify the transnational risk.",
+      "summaryTokens": 958,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/acip-vaccine-panel-vote-hepatitis-b",
+      "title": "Key US panel to vote on changing infant hepatitis B vaccine recommendation",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/acip-vaccine-panel-vote-hepatitis-b",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/acip-vaccine-panel-vote-hepatitis-b",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T12:00:23Z",
+      "trailText": "ACIP vote follows two postponements and contentious meeting and comes as RFK Jr pushes for vaccine delay",
+      "summary": "After two postponements and a day-long deferment, the CDC’s advisory committee on immunization practices (ACIP) will vote Friday on proposals to curb the universal birth-dose hepatitis B vaccination recommendation. The contentious Atlanta meeting featured anti-vaccine appointees hand-picked by RFK Jr., including autism-link advocate Mark Blaxill, but surfaced no new evidence of infant harm. Experts warn any rollback of the shot given within 24 hours of birth could reverse decades of progress against serious liver disease. Their advisory vote now goes to acting CDC director Jim O’Neill.",
+      "summaryTokens": 1078,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/gregg-abbotts-cair-terror-label-stokes-legal-fight-in-texass-long-struggle-with-islamophobia",
+      "title": "Greg Abbott’s Cair ‘terror’ label stokes legal fight in Texas’s long struggle with Islamophobia",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/gregg-abbotts-cair-terror-label-stokes-legal-fight-in-texass-long-struggle-with-islamophobia",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/gregg-abbotts-cair-terror-label-stokes-legal-fight-in-texass-long-struggle-with-islamophobia",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T12:00:22Z",
+      "trailText": "The civil liberties group argues the Texas governor’s proclamation exceeds his authority and deepens fears",
+      "summary": "Governor Greg Abbott’s unilateral proclamation labeling the Council on American-Islamic Relations (CAIR) and the Muslim Brotherhood as terrorist organizations—an authority reserved for the federal government—has prompted CAIR’s Texas chapters to sue Abbott and Attorney General Ken Paxton in federal court, citing violations of free speech, due process and property rights. The move, against a backdrop of rising anti-Muslim violence and earlier state probes into the Epic City Muslim development, echoes broader Islamophobia normalized by GOP figures like Valentina Gomez and Sid Miller. Critics including Imam Omar Suleiman decry Abbott’s action as “political theater” and warn of institutionalized bias.",
+      "summaryTokens": 830,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
+    {
+      "id": "us-news/2025/dec/05/gary-walters-reagan-bush-white-house-chief-usher",
+      "title": "Nancy Reagan’s rehearsal dinners and Bush Sr’s overfed dog: chief usher’s White House memories",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/05/gary-walters-reagan-bush-white-house-chief-usher",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/05/gary-walters-reagan-bush-white-house-chief-usher",
+      "section": "us-news",
+      "publishedDate": "2025-12-05T11:00:22Z",
+      "trailText": "Gary Walters managed the president’s official residence for 37 years – now he’s sharing his most vivid recollections",
+      "summary": "Gary Walters, the longest-serving White House chief usher from 1970 to 2007 under seven presidents, details behind-the-scenes moments: Nancy Reagan’s full-dress trial dinners, preserving scorch marks from 1812, piloting President Reagan’s warm charm, hosting Denis Thatcher, sensing the Cold War thaw with Gorbachev, building Clinton’s jogging track, verifying Lewinsky logs, curtailing Bush’s dog treats, orchestrating 9/11 South Lawn cleanup for Bush’s return, founding the incoming/outgoing flag tradition and remembering Lincoln’s ghostly rocking chair.",
+      "summaryTokens": 802,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
+    },
     {
       "id": "us-news/2025/dec/04/pentagon-boat-strike-pacific",
       "title": "Pentagon announces it has killed four men in another boat strike in Pacific ",
@@ -29,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-05T02:27:10Z",
       "trailText": "Strike comes amid congressional turmoil over legality of US attacks on suspected drug smugglers",
-      "summary": "Pentagon confirms a lethal strike on a Pacific boat suspected of drug smuggling, killing four men at Defense Secretary Pete Hegseth’s direction. U.S. Southern Command released footage showing a missile destroying the vessel in international waters. This December operation, the first in nearly three weeks, follows a controversial early-September strike that killed two survivors and has spurred Congressional scrutiny. Lawmakers and legal experts are challenging the administration’s ‘war on drugs’ justification under international law.",
-      "summaryTokens": 584,
-      "generatedAt": "2025-12-05T03:57:31.347Z"
+      "summary": "Pentagon announced US forces killed four suspected narcotics traffickers in an eastern Pacific boat strike, marking the 22nd such action since September and raising the campaign death toll to at least 87. Southern Command footage shows a vessel exploding in international waters under Joint Task Force Southern Spear orders from Defense Secretary Pete Hegseth. Congress is scrutinizing the legal basis under the laws of war after prior strikes killed two survivors, prompting impeachment articles against Hegseth. Republicans like Sen. Tom Cotton defend the strikes, but legal scholars say killing incapacitated shipwrecked suspects breaches international law.",
+      "summaryTokens": 1696,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/trump-administration-news-update-today",
@@ -41,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-05T02:06:16Z",
       "trailText": "State is key in president’s effort to secure Republicans’ fragile House majority for second half of his term",
-      "summary": "SCOTUS (6–3) lifts a lower court’s block on Texas’s new congressional map—projected to add up to five Republican-leaning districts—over liberal dissent led by Justice Kagan, a major win for Trump’s bid to shore up a fragile House majority ahead of next year’s midterms. Other highlights: Pentagon’s Southern Command killed four in a Pacific anti-drug boat strike; Trump replaces the architect on a $300m White House gilded ballroom; grand jury declines to re-indict NY Attorney General Letitia James; arrest made in pre-Jan. 6 pipe-bomb plot; appeals court extends DC National Guard deployment; ICE shackles and deports a student to Honduras; Amnesty details “harrowing” Florida immigration jail conditions; New York Times sues the Pentagon over press restrictions.",
-      "summaryTokens": 978,
-      "generatedAt": "2025-12-05T03:57:31.347Z"
+      "summary": "At a glance: Supreme Court reinstates Texas’s redrawn map adding up to five GOP seats, bolstering Trump’s midterm strategy; Pentagon kills four in an anti-narcotics boat strike; Trump swaps out the $300m ballroom architect; grand jury declines to reindict NY AG Letitia James; suspect arrested over 2021 DC pipe-bomb attempt; appeals court keeps DC National Guard deployment; student deported by ICE; Amnesty reports abuses at Florida ICE jail; New York Times sues Pentagon over press restrictions; plus key updates on Congress, CDC and immigration.",
+      "summaryTokens": 798,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/luigi-mangione-court-audio-911",
@@ -53,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-05T01:50:23Z",
       "trailText": "Judge allows call from manager of Pennsylvania McDonald’s to be made public after press urged its release",
-      "summary": "Manhattan state court released audio of a McDonald’s manager’s 911 call that led to Luigi Mangione’s Dec 2024 arrest in Altoona, PA, on suspicion of murdering United HealthCare exec Brian Thompson. In recordings played at Judge Gregory Carro’s hearing, the manager says customers \"thought he was the CEO shooter\" from New York, noted Mangione’s mask and khaki beanie, and tried Googling images to identify him. Altoona officer Joseph Detwiler testified that local norms discourage masks, prompting the arrest. After press advocacy and a reporter’s brief ejection for challenging sealed hearings, Carro unsealed exhibits and audio, though not all evidence was released.",
-      "summaryTokens": 1655,
-      "generatedAt": "2025-12-05T03:57:31.347Z"
+      "summary": "Manhattan state court released the 911 call from a Pennsylvania McDonald’s manager that triggered Luigi Mangione’s arrest in December for the fatal shooting of United HealthCare executive Brian Thompson. In the audio, the manager describes a masked customer in a black jacket and khaki beanie whose eyebrows were visible, saying other patrons suspected he resembled the “CEO shooter from New York.” Officer Joseph Detwiler testified that no locals wear masks, confirming the call led to Mangione’s detention. Judge Gregory Carro unsealed the call after press objections, though other exhibits remain sealed following a reporter’s ejection. Mangione pleads not guilty.",
+      "summaryTokens": 748,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/california-student-chicken-sentence",
@@ -65,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-05T01:20:45Z",
       "trailText": "Zoe Rosenberg, 23, studying at UC Berkeley, had said it was a ‘rescue’ and ‘will not apologize’ for her actions",
-      "summary": "Zoe Rosenberg, 23, a UC Berkeley student with Direct Action Everywhere, received a 90-day jail term (60 days eligible for house arrest) and must pay over $100,000 in restitution after pleading guilty to felony conspiracy and misdemeanors for breaking into a Petaluma Perdue Farms poultry slaughterhouse in 2023 and removing four chickens she deemed neglected. Ordered to report to Sonoma County jail on December 10, Rosenberg defended her actions as a “rescue” under California’s right-to-rescue statutes. Perdue and the Sonoma County Farm Bureau labeled DxE extremist, while actor Joaquin Phoenix publicly supported her. Correction: sentenced by a judge, crime at a slaughterhouse, not a farm.",
-      "summaryTokens": 634,
-      "generatedAt": "2025-12-05T03:57:31.347Z"
+      "summary": "Zoe Rosenberg, a 23-year-old UC Berkeley student and Direct Action Everywhere activist, was convicted of felony conspiracy and misdemeanors for breaking into a Petaluma slaughterhouse in Sonoma County in 2023 to rescue four chickens named Poppy, Ivy, Aster and Azalea. On December 4, 2025, a judge sentenced her to 90 days in jail—60 of which may be served under house arrest—far below the 4½-year maximum, and ordered over $100,000 in damages. Rosenberg insisted her actions were a moral “rescue” under proposed “right to rescue” laws; industry groups decried DxE as extremist, while supporters like Joaquin Phoenix defended her.",
+      "summaryTokens": 1595,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/us-supreme-court-texas-congressional-maps",
@@ -77,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-05T00:52:30Z",
       "trailText": "Major win for Trump as majority rejects lower-court ruling that found maps had been racially gerrymandered",
-      "summary": "US Supreme Court, by a 6-3 conservative majority, stayed a lower court’s ruling that struck down Texas’s mid-decade congressional map as racially gerrymandered. The order reinstates a map adding up to five Republican-leaning districts for 2026, overriding findings of race-based voter sorting. Justice Kagan, joined by Sotomayor and Jackson, dissented, warning the stay violates the Constitution’s ban on racial discrimination. The decision boosts Trump-aligned GOP efforts to consolidate House control and drew Democratic vows to challenge what they call an ‘extreme, racially gerrymandered’ map, while Texas officials celebrated.",
-      "summaryTokens": 1716,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "The US Supreme Court’s 6-3 conservative majority stayed a lower court’s ruling that struck down Texas’s mid-year congressional map for racial gerrymandering, clearing the way for up to five new Republican-friendly districts ahead of 2026 midterms. Liberals, led by Justice Kagan, dissented, warning the map illegally sorts voters by race and violates constitutional protections. Texas AG Paxton and Trump allies hailed the decision as a win for partisan redistricting; Democrats decried it as an “extreme, racially discriminatory power grab” undermining Black and Latino communities. The ruling intensifies a national fight over gerrymandering as Republicans push similar maps in multiple states and Democrats counter with maps in California and Virginia.",
+      "summaryTokens": 1609,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/grand-jury-declines-to-indict-letitia-james",
@@ -89,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-05T00:43:19Z",
       "trailText": "Decision comes less than two weeks after judge ruled similar case against New York attorney general unlawful",
-      "summary": "Grand jury declines to re-indict New York AG Letitia James on one count of bank fraud and one count of making a false statement in her 2020 Norfolk, Virginia home mortgage, which saved her $18,933 by securing a second-home rate. Decision follows Judge Cameron Currie’s ruling that acting US attorney Lindsey Halligan’s appointment was unlawful, voiding the initial indictment presented by Halligan after career prosecutors refused charges. Prosecutors revived the thin case despite testimony from James’s niece that she paid no rent and loan docs showing no intent to occupy. James’s counsel Abbe Lowell warns any further attempt would undermine the rule of law.",
-      "summaryTokens": 1846,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "A federal grand jury on Thursday declined to re-indict New York Attorney General Letitia James on mortgage-fraud charges, less than two weeks after a judge struck down the original case over the unlawful appointment of prosecutor Lindsey Halligan. James had been accused of misstating a 2020 Virginia home as a second residence to secure a $18,933 rate reduction. Career prosecutors deemed the evidence insufficient and were dismissed; Halligan’s tenure exceeded the 120-day acting limit. James, who successfully sued Donald Trump, denies wrongdoing, and her lawyer warns further prosecution would undermine the rule of law.",
+      "summaryTokens": 618,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/maurene-comey-fired-prosecutor-court-retaliation",
@@ -101,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T23:33:04Z",
       "trailText": "Daughter of James Comey was dismissed by Trump justice department from job as prosecutor in New York",
-      "summary": "Maurene Comey, a Manhattan federal prosecutor who led prosecutions of Jeffrey Epstein, Ghislaine Maxwell and Sean “Diddy” Combs, sued the Trump Justice Department claiming her July dismissal was political retaliation for her father, ex-FBI director James Comey. Terminated without cause despite an exemplary review, she contends DOJ and AG Pam Bondi violated separation of powers and her constitutional rights. In a sub-hour procedural hearing, a judge weighed deferring discovery in favor of an arbitration board. Comey demands evidence of who ordered her firing, immediate document production, reinstatement, back pay and a declaratory judgment.",
-      "summaryTokens": 1072,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Maurene Comey, who led prosecutions of Jeffrey Epstein, Ghislaine Maxwell and Sean “Diddy” Combs, sued the Trump Justice Department in Manhattan federal court, claiming her July 2025 firing was political retaliation against her father, ex‐FBI director James Comey. Despite an exemplary performance review weeks earlier, DOJ abruptly dismissed her via email citing only the Constitution. At a procedural hearing, the judge weighed deferring discovery to an arbitration board; Comey seeks reinstatement, back pay and a declaration that her termination violated separation of powers and her constitutional rights.",
+      "summaryTokens": 548,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/new-orleans-ice-immigration-raid",
@@ -113,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T22:47:50Z",
       "trailText": "Communities remain terrified as Trump administration’s crackdown on another Democratic-led city enters day two",
-      "summary": "In New Orleans, ICE’s 'Operation Catahoula Crunch' swept up over 18 people in two days—detaining immigrants and U.S. citizens in public spaces from Home Depot lots to bus stops. Advocates such as Unión Migrante’s Rachel Taber decry racial profiling and 'psychological warfare' on families who now hide, miss school and shutter businesses in fear. Despite DHS claims of targeting only violent offenders, records show minor convictions. City council protests demand ICE-free zones and an abuse reporting portal as trauma, economic hardship and community unrest grow under a siege that could last into January, leaving residents uncertain how to pay rent or work.",
-      "summaryTokens": 626,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "In New Orleans, ICE’s Operation Catahoula Crunch has detained dozens—often in public areas such as Home Depot parking lots, bus stops and hardware stores—sparking fears among immigrant communities. Multiple US citizens were briefly held. Advocates describe the raids as racial profiling and “psychological warfare.” Protests at city council disrupted calls for ICE-free zones and stronger local protections; an online portal was launched for reporting federal misconduct. Families fear job loss and deportation, leaving kids home for Christmas, while solidarity networks organize legal and logistical support.",
+      "summaryTokens": 794,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/trump-ballroom-architect",
@@ -125,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T21:53:18Z",
       "trailText": "President and James McCrery II disagreed over expanding ballroom’s size, but change prompted by firm’s limited staff",
-      "summary": "President Trump has replaced James McCrery II—whose boutique firm led the $300 million, 90,000 sq ft White House gilded ballroom project for three months—with architect Shalom Baranes. Disagreements over expanding the ballroom’s footprint, combined with McCrery’s limited staff and missed deadlines, prompted the switch, though McCrery will stay on as a consultant. Baranes, praised for federal work like the Treasury building, was lauded by White House spokesperson David Ingle as key to realising Trump’s vision. The project remains controversial after the East Wing demolition and the firing of the Commission of Fine Arts.",
-      "summaryTokens": 489,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "President Trump has removed James McCrery II and his boutique firm from overseeing the $300 million, 90,000-sq-ft gilded White House ballroom—citing missed deadlines and limited staff despite occasional disputes over expansion plans—and appointed veteran federal architect Shalom Baranes in his place. The White House confirmed Baranes, noted for projects like the Treasury building, will drive development into its next phase, while McCrery stays on as a consultant. The change follows criticism over East Wing demolition and Trump’s earlier ousting of the Commission of Fine Arts.",
+      "summaryTokens": 344,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/robocop-statute-detroit",
@@ -137,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T20:44:54Z",
       "trailText": "A 15-year quest ends with a monument, drawing crowds and nostalgia as Detroit embraces its cult-film past",
-      "summary": "After a 15-year quest, Detroit’s 11-foot, 3,500-pound bronze RoboCop, sculpted by Giorgio Gikas and crowdfunded with $67,000 from over 2,700 backers in a 2012 Kickstarter, now stands outside Free Age Film’s Eastern Market building. Delayed by a shelved Michigan Science Center plan, the cult-film icon sparks selfie mania and nostalgia-fueled civic pride, pitched as a symbol of hope in a city where violent crime has fallen to 1960s lows. Early donor James Campbell, who gave $100, calls it a cinematic milestone and ambassador for Detroit.",
-      "summaryTokens": 1800,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "An 11-foot, 3,500-pound bronze statue of RoboCop now stands guard near Detroit's Eastern Market, capping a 15-year journey that began with a 2010 tweet and a 2012 Kickstarter that raised $67,000. Sculpted by Giorgio Gikas in 2017 but mired in storage and a canceled Michigan Science Center exhibit, it was finally installed at Free Age film company in December 2025. Drawing selfie-minded crowds even during snowstorms, the monument channels nostalgia for the 1987 cult film and symbolizes Detroit's declining crime rates and civic rebirth. Early backer James Campbell, who contributed $100, joked he owns 0.038% of this cinematic landmark.",
+      "summaryTokens": 1089,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/video-second-boat-strike-military-caribbean",
@@ -149,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T20:43:53Z",
       "trailText": "Democrat Jim Himes calls footage ‘one of the most troubling scenes’ he’s observed in public service",
-      "summary": "Congressional Democrats and Republicans were shown classified video of a US Navy double airstrike on a suspected drug-running boat off Trinidad that killed 11 people, including two survivors of the first strike. Adm. Frank Bradley denied receiving a ‘kill them all’ order from Defense Secretary Pete Hegseth. Lawmakers like Jim Himes called for the full video’s release, warning of potential war crimes, while Sen. Tom Cotton defended the operation. President Trump posted initial strike footage on Truth Social. Human rights groups and Senate Democrats vow further oversight and a possible war powers resolution, questioning the campaign’s legality and transparency.",
-      "summaryTokens": 996,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "After a deadly double airstrike on a vessel alleged to carry drugs off Trinidad—killing 11—Congressional leaders debated whether Defense Secretary Pete Hegseth ordered commanders to “kill survivors.” In a classified briefing, Admiral Frank Bradley denied a “no quarter” directive. Top Democrat Jim Himes labeled the footage “troubling” and pressed for full video release, while GOP Sen. Tom Cotton called the strikes “righteous.” Trump and Hegseth deny wrongdoing. Human rights groups warn the campaign—83 boat strikes since September—may violate war‐crimes law, prompting calls for a War Powers resolution and transparency.",
+      "summaryTokens": 490,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/new-york-eric-adams-zohran-mamdani-israel",
@@ -161,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T19:54:15Z",
       "trailText": "Eric Adams signed orders on boycott, divestment and sanctions movement, and protests near houses of worship",
-      "summary": "Outgoing NYC mayor Eric Adams signed two executive orders banning city officials from discriminatory policies against Israel and BDS-aligned divestment and directing police to curb protests near houses of worship, citing rising antisemitism. The orders—impacting the $250bn city pension, including $300m in Israeli assets—are widely seen as preemptively constraining incoming mayor Zohran Mamdani, a BDS supporter and the city’s first Muslim mayor, who could reverse them. Meanwhile, Israeli PM Benjamin Netanyahu plans to visit despite Mamdani’s threats to enforce ICC arrest warrants over alleged Gaza war crimes.",
-      "summaryTokens": 680,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "In late 2025 Mayor Eric Adams issued two executive orders to counter antisemitism and BDS: prohibiting city agencies and pension officials from boycotting or divesting from Israel or associated individuals, and directing the NYPD to tighten protest rules near houses of worship after synagogue protests. With $300 m of $250 bn pensions in Israeli assets, Adams framed the measures as safeguarding Jewish New Yorkers’ rights. The orders, seen as a preemptive curb on incoming mayor Zohran Mamdani—an outspoken Israel critic—risk reversal and stoke debate over where criticism of Israel becomes antisemitic.",
+      "summaryTokens": 879,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/dc-pipe-bomb-attack-arrest-january-6",
@@ -173,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T19:12:05Z",
       "trailText": "Bombs were placed near Republican and Democratic party HQs in Washington night before US Capitol attack",
-      "summary": "US authorities arrested Brian Cole, 30, of Woodbridge, Virginia, for planting two pipe bombs outside the headquarters of both parties in Washington DC on Jan 5, 2021, neutralized before the Jan 6 US Capitol attack. Forensic evidence—distinctive Nike sneaker tread, cell-tower pings, license-plate reader hits, bomb-component purchase records—and surveillance video linked him to the devices. The DOJ charged him with transporting explosive devices to kill or intimidate and attempted malicious destruction. Officials said no new tip spurred his arrest, crediting a re-examination of evidence under Trump-era leadership. Cole, who works for a bail bond company, has no motive revealed; a $500,000 reward had been offered.",
-      "summaryTokens": 1228,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "On Dec 4 2025 US DOJ named Brian Cole, 30, of Woodbridge VA, as the suspect who planted pipe bombs outside the RNC and DNC HQs near the Capitol on Jan 5 2021. Using re-examined forensic evidence—including surveillance video, distinctive Nike shoes, license-plate readers, cell-tower links—and following a $500,000 reward offered in 2023, authorities charged Cole with interstate transport of explosive devices and attempted malicious destruction. Cole, who works for a bail bond firm and lived with his parents, remains under investigation with no motive disclosed.",
+      "summaryTokens": 1513,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/hegseth-signal-chat-investigation-yemen-strike",
@@ -185,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T19:01:53Z",
       "trailText": "An investigation found defense secretary put US forces at risk, triggering fresh demands for his resignation",
-      "summary": "An unclassified DoD IG report found Defense Secretary Pete Hegseth violated policy by sharing secret operational details of the March 15 Yemen airstrikes in a private Signal chat using his personal phone. His messages matched a classified CENTCOM email briefing from March 14. The IG warned such disclosures could endanger US forces. Senate Intel Vice-Chair Mark Warner demanded Hegseth’s resignation; Hegseth denies sharing classified data, claiming he declassified “non-specific” details and secured “total exoneration.” The IG partially reconstructed auto-deleted messages via Atlantic transcripts.",
-      "summaryTokens": 1188,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "An unclassified DoD inspector general report found defense secretary Pete Hegseth violated protocol by using his personal phone to share secret operational details of the 15 March Yemen airstrike in a ‘Houthi PC Small Group’ Signal chat, mirroring a CENTCOM-secured email. The breach risked US personnel and mission security, prompting Senate Intelligence vice-chair Mark Warner to call for Hegseth’s resignation. Hegseth countered on X that no classified material was leaked and he had declassified general details to provide an unclassified summary. Partial auto-deletion of messages forced the IG to rely on The Atlantic’s transcript to assess the full scope.",
+      "summaryTokens": 1076,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/cdc-hepatitis-b-vaccine",
@@ -197,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T18:37:08Z",
       "trailText": "From 1990 to 2019, reported cases of acute hepatitis B among kids declined by 99% due to infant immunization",
-      "summary": "At a contentious ACIP session, CDC advisers voted 6–3 to postpone until Friday a decision on restricting the universal at-birth hepatitis B vaccine, citing time to refine wording despite no new safety concerns. The shot—administered to 1.4 billion people over 30 years—has driven a 99% drop in acute pediatric cases since 1990. Several Trump-appointed, anti-vaccine advocates led the push, following earlier votes to curb COVID-19 and MMRV shots. Experts warn delaying the first dose from birth to two months could trigger 1,400 infections, 300 liver cancers, 480 deaths and $222 million in added costs annually, undermining childhood health gains and trust.",
-      "summaryTokens": 1678,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "At a contentious CDC ACIP meeting, advisers voted 6–3 to delay until Friday a decision on restricting infant hepatitis B vaccination despite no new safety concerns. Handpicked anti-vaccine advocates led by RFK Jr appointees questioned the birth dose—currently credited with a 99% drop in pediatric acute hepatitis B cases since 1990—but offered only speculative harm data. Modelling warns delaying to two months could cause 1,400 infections, 300 liver cancers, 480 deaths and $222m extra costs annually. Experts warn such debates may erode public trust, worsen falling immunization rates, and jeopardize gains against measles and other vaccine-preventable diseases.",
+      "summaryTokens": 946,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/trump-somalis-minneapolis-ice",
@@ -209,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T16:19:03Z",
       "trailText": "Activists prepare for more targeting of Somali residents by ICE as Trump renews racist tirade",
-      "summary": "Trump renewed racist attacks on Minnesota’s Somali community at a White House press gaggle, calling Somalis “garbage,” denouncing Congresswoman Ilhan Omar’s citizenship, and vowing ICE “surges” targeting those with deportation orders. Minneapolis officials—Mayor Frey, Gov. Walz, city councilors—and activists have responded with legal trainings, an executive order barring federal use of municipal property for raids, signage for businesses declaring ICE unwelcome, and “ICE watch” volunteer networks. Community leaders, including the Immigrant Law Center, urge residents to know their rights. Minnesota’s 84,000-strong Somali diaspora, mostly citizens or legal residents, mobilizes against fear and enforcement.",
-      "summaryTokens": 822,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Donald Trump renewed racist attacks on Minneapolis Somalis, calling their nation “garbage,” urging deportations, and targeting US Rep. Ilhan Omar. His administration plans a surge of ICE agents to enforce deportation orders. Minneapolis leaders, including Mayor Jacob Frey, passed an order barring use of city lots for federal operations, and activists organized rights trainings, ICE-watch volunteer networks, and legal clinics. Neighbors and businesses distributed whistles and signage to deter ICE. Community groups highlight that most Somalis are US citizens or refugees and counter right-wing fraud claims. The city stands firmly behind its 84,000-strong Somali population.",
+      "summaryTokens": 937,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/climate-cabinet-trump-policy-counter",
@@ -221,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T15:00:22Z",
       "trailText": "Climate Cabinet supports candidates in state and city races as the federal government ignores the climate crisis",
-      "summary": "Amid federal climate rollback under President Trump, Climate Cabinet — launched in 2020 by former solar-industry analyst Caroline Spears — uses data science to vet and fund over 500 under-the-radar state and city races, delivering a 75% overall win rate (42 of 45 in 2025). Its 500+ elected backers wield authority over policies governing roughly 813 million metric tons of CO2e annually. Key victories include Naperville council member Ian Holzhauer’s narrow re-election fight to delay a coal contract and New Mexico land commissioner candidate Juan de Jesus Sanchez’s campaign to diversify trust-land revenues with renewables. Focusing on “votes, not vibes,” the group proves local offices can yield major climate wins.",
-      "summaryTokens": 851,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "With federal inaction under Trump, analysts estimate 75% of US Paris climate pledges are achievable at state and local levels. Caroline Spears founded Climate Cabinet in 2020 to use data science across 500,000+ public offices, identifying and funding 500+ pro-climate candidates with a 75%+ win rate (42/45 in 2025), now overseeing policies cutting 813 MtCO2e annually. Highlights include Naperville council member Ian Holzhauer’s re-election stalling a coal contract despite billionaire-backed attacks, and support for Juan de Jesus Sanchez for New Mexico Land Commissioner (9 M acres, boosting renewables). By targeting under-the-radar races costing <$400 K, leveraging small donations, and endorsing on voting records, they flipped chambers in Minnesota, Michigan and Virginia to pass 100% clean energy mandates.",
+      "summaryTokens": 866,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/us-schools-amazon-algorithmic-pricing",
@@ -233,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T14:00:25Z",
       "trailText": "Amazon calls the report ‘flawed and misleading’ and says it offers lower prices than competitors",
-      "summary": "Institute for Local Self-Reliance analysis of 55,000 purchases across 23 US public entities finds Amazon Business’s dynamic, algorithmic pricing leads schools and local governments to overpay by 17% on average, costing Denver Public Schools an estimated $1m in 2023. Items like dry-erase markers and copy paper varied widely in price under locked contracts. The nonprofit urges bans on dynamic pricing and a return to competitive bidding and local vendors. Amazon rejects the findings as “flawed and misleading,” touting everyday low prices, price-ceiling tools and growth for certified local sellers amid a surge to $2.2bn in public‐sector spending in 2023.",
-      "summaryTokens": 1140,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Non-profit ILSR analysis of government procurement data finds US schools and municipalities overpay for basics under Amazon’s dynamic pricing: identical orders varied up to 30%, costing Denver Public Schools an estimated $1m in 2023. Across 23 entities and 55,000 purchases, buyers could have saved 17% by locking in Amazon’s lowest rates. The report urges bans on algorithmic pricing and prioritizing local vendors. Amazon disputes the findings, citing everyday low prices, price ceilings, local-supplier tools and efficiency gains on its Business portal.",
+      "summaryTokens": 922,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/student-describes-horror-show-ice-deportation-to-honduras-at-thanksgiving",
@@ -245,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T13:33:44Z",
       "trailText": "Any Lucia López Belloza, 19, was detained at Boston airport while on the way to see family in Austin for a surprise trip",
-      "summary": "Any Lucia López Belloza, 19-year-old Babson College student, was detained by ICE at Boston airport on boarding a surprise Thanksgiving flight to Austin. Despite a federal judge’s 72-hour emergency stay, she was shackled and deported to violence-ridden Honduras within 48 hours, with no hearing or counsel. Her lawyer, Todd Pomerleau, decries an “unconstitutional horror show,” citing lack of due process and a dubious 2015 removal order. Honduras’s high homicide rate and gang violence pose grave risks, especially for young women, and legal action now seeks her return and remedy.",
-      "summaryTokens": 1012,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Any Lucia López Belloza, a 19-year-old Babson College student, was detained by ICE at Boston Logan airport while boarding a Thanksgiving flight to Austin, then shackled and deported to Honduras within 48 hours despite a judge’s 72-hour emergency stay. With no criminal record, she received no removal order or hearing, and her lawyers argue her rights were violated. In Honduras, where gang violence and political strife are rampant, López hopes to resume her studies and legally fight to return.",
+      "summaryTokens": 794,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/trump-us-immigration-policy-explainer",
@@ -257,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T13:00:20Z",
       "trailText": "President orders pause on asylum claims and extra scrutiny of migrants from 19 countries after Washington shooting",
-      "summary": "In response to a Washington shooting by an Afghan national, President Trump ordered USCIS to pause adjudication of roughly 1.5 million pending asylum claims and to freeze work authorizations, green cards, naturalization and family-sponsorship petitions for citizens of 19 designated “high-risk” countries (including Afghanistan, Iran, Venezuela, Cuba, Somalia, Yemen, etc.). He also mandated a comprehensive re-review—with potential interviews—of all immigration benefits granted since January 2021 to those nationals. Legal challenges are expected, likely extending the backlog and delaying relief for migrants.",
-      "summaryTokens": 483,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Following a deadly Washington shooting, Trump ordered USCIS to suspend consideration of approximately 1.5 million pending asylum applications, while leaving court proceedings intact. A memo also halts work authorizations, green-card, naturalization and family-sponsorship petitions for nationals of 19 “high-risk” countries (including Afghanistan, Iran, Venezuela, Yemen and others) and mandates a comprehensive re-review of approvals since January 2021, potentially requiring new interviews and security checks. DHS Secretary Kristi Noem urged expanding the list to around 30 countries. Legal experts predict federal court challenges that could pause enforcement but lengthen the asylum backlog and worsen humanitarian impacts.",
+      "summaryTokens": 819,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/trump-pardons-arrests",
@@ -269,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T13:00:19Z",
       "trailText": "President did not follow the usual review process, experts say, making it more likely they would commit other crimes",
-      "summary": "President Trump has issued over 1,800 pardons and commutations since 2016—237 in his first term and more than 1,600 in his second—often bypassing the Justice Department’s review process. At least a dozen beneficiaries, largely January 6 rioters, have been rearrested on charges ranging from assault, sedition and weapons offenses to child pornography and burglary. Other recipients, like Jonathan Braun and Eliyahu Weinstein, resumed predatory lending, violence and fraud. Legal experts say this unprecedented scale of clemency, including a reported “release ’em all” directive, signals impunity, undermines the rule of law and neglects established criteria designed to prevent recidivism.",
-      "summaryTokens": 632,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Trump has issued over 1,800 pardons and commutations since 2016 — many without Justice Department review — and at least a dozen recipients have since been arrested for new alleged offenses. Among them: January 6 rioters like Andrew Taake, who attacked police then fled; Daniel Ball, charged with illegal gun possession; David Daniel, found with child pornography; and fraud convicts Jonathan Braun and Eliyahu Weinstein, both reoffending post-commutation. Critics warn unchecked clemency undermines rule of law by signaling impunity.",
+      "summaryTokens": 918,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/first-thing-alligator-alcatraz-detainees-human-rights-violations-amnesty-report-alleges",
@@ -281,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T12:44:31Z",
       "trailText": "Amnesty finds detainees at Florida facility were shackled and left outside in metal cage. Plus, how the dollar-store industry overcharges consumers",
-      "summary": "Detainees at Florida’s state-run Everglades immigration jail known as “Alligator Alcatraz” and at the privately run Krome processing center were reportedly shackled in a two-foot-high metal cage (“the box”), left outside without water for up to 24 hours, exposed to heat, humidity and insects as arbitrary punishment, Amnesty International alleges in interviews and a site visit. Conditions amount to “cruel, inhuman and degrading treatment” resembling torture. A federal judge ordered Alligator Alcatraz closed in August, but two Trump-appointed appellate judges blocked that ruling by October. Florida officials, including Gov. DeSantis’s press secretary, denounce the claims as politically motivated fabrications.",
-      "summaryTokens": 1031,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Amnesty International alleges detainees at Florida’s Everglades “Alligator Alcatraz” and Miami’s Krome processing center were subjected to cruel treatment—including being shackled in 2-ft-high metal cages under sweltering sun for up to 24 hours without water—used arbitrarily to punish minor or fabricated offenses. Interviews and site visits documented inhuman conditions raising torture concerns. A federal judge ordered the Everglades facility closed in August, but it reopened after appeals. Florida officials, led by Gov. DeSantis, dismiss the findings as politically motivated fabrications.",
+      "summaryTokens": 817,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/venezuela-boat-strikes-legality-hegseth",
@@ -293,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T12:00:21Z",
       "trailText": "Pentagon’s Law of War manual clearly prohibits attack, but justification for whole campaign also faces tough questions",
-      "summary": "Since September, the Trump administration has launched over 20 lethal strikes on suspected Venezuelan ‘drug ferry’ boats in the Caribbean and Pacific, killing at least 81 people. A Washington Post exposé revealed a second strike on 2 September—allegedly ordered by Defense Secretary Pete Hegseth to “kill everybody”—that killed two survivors clinging to the wreck. Legal scholars argue these boat strikes lack a valid armed-conflict nexus, making attacks on shipwrecked personnel contrary to the Pentagon’s Law of War Manual, Nuremberg principles, and the UCMJ. Senate and House committees have opened probes amid war-crime allegations.",
-      "summaryTokens": 817,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Since September the Trump administration has launched over 20 ‘drug boat’ strikes in the Caribbean and Pacific, killing at least 81 people. A Washington Post exposé revealed that on September 2 a follow-up strike—allegedly ordered by Defense Secretary Pete Hegseth to “kill everybody”—targeted two survivors clinging to a disabled Venezuelan vessel. Legal scholars contend the US is not in armed conflict with traffickers, making the attacks on hors de combat individuals a clear violation of the Pentagon’s Law of War manual, international law and US military justice. Republican-led congressional committees have opened investigations into the orders, targeting rationale and failure to rescue survivors.",
+      "summaryTokens": 564,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/texas-law-abortion-pill-access-lawsuit",
@@ -305,9 +605,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T12:00:19Z",
       "trailText": "Abortion providers, and even manufacturers, will be liable for penalties over pills mailed into the state",
-      "summary": "Residents can sue any person suspected of producing, distributing or mailing abortion pills into or out of Texas under a law effective Thursday. Providers face minimum $100,000 fines per violation; manufacturers also liable. It targets out-of-state “shield laws” protecting telemedicine abortion, escalating a likely court showdown. Texas Right to Life’s John Seago predicts a SCOTUS clash. Shield-law providers like Massachusetts Medication Abortion Access Project insist they will continue dispensing. Telemedicine now accounts for one quarter of US abortions; blue-state clinics ship over 12,000 monthly into ban states. AG Paxton’s suits against a New York doctor and clerk were dismissed; similar cases in Louisiana have stalled. Patient testimony underscores fear and potential exodus.",
-      "summaryTokens": 1341,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "The Texas law enables any resident to sue individuals or firms suspected of manufacturing, distributing or mailing abortion pills across state lines—apart from the pill-taker—and imposes minimum $100K penalties on providers and manufacturers. It directly challenges blue-state “shield laws” that protect telemedicine abortions, prompting threats of Supreme Court standoffs after Texas AG’s failed lawsuits against out-of-state doctors. Despite risks, providers vow to keep shipping pills. Critics warn it endangers patients and may drive care away from Texas.",
+      "summaryTokens": 1169,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/us-vaccines-vinay-prasad-memo",
@@ -317,9 +617,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T11:00:13Z",
       "trailText": "Vinay Prasad memo said at least 10 children had died from Covid vaccination – but offered scant evidence for claim",
-      "summary": "FDA’s top vaccine official Vinay Prasad sent a controversial memo alleging at least 10 deaths of children aged 7–16 after Covid vaccination based on unverified VAERS reports, offering no causal evidence or details. He pledged sweeping, top-down reforms—requiring clinical outcome trials for new and annual flu and Covid shots, limiting external advisory review, and revisiting concomitant vaccine guidelines including MMR—prompting experts like Paul Offit and former CDC director Dan Jernigan to warn of reduced vaccine access, eroded public trust, potential loss of routine flu vaccines, and more preventable illness. He also highlighted rare myocarditis post-vaccination without distinguishing infection versus vaccine risk, a claim experts say lacks supporting data.",
-      "summaryTokens": 1277,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "FDA biologics chief Vinay Prasad’s internal memo asserts, without sourcing, that at least 10 children aged 7–16 died post–Covid vaccination according to VAERS reports. He vows to overhaul vaccine regulation—limiting external advisory input, requiring outcome-based trials for flu, Covid, MMR and simultaneous shots—yet cites no data. Experts warn this unprecedented top-down shift risks undermining public trust, delaying annual flu and other vaccines, and increasing preventable illness. Infectious-disease specialists and former CDC leaders urge transparent evidence and fear fewer vaccines will mean more outbreaks and deaths.",
+      "summaryTokens": 936,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/rfk-jr-hepatitis-b-vaccine",
@@ -329,9 +629,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T11:00:13Z",
       "trailText": "Experts say any change to the hepatitis B schedule could have significant and far-reaching consequences",
-      "summary": "Robert F. Kennedy Jr.’s revamped vaccine advisory panel, installed after he dismissed and replaced CDC immunization advisers with skeptics, will consider delaying the universal hepatitis B dose for newborns—a program that drove a 99% drop in pediatric acute HBV cases from 1990 to 2019. Under new chair Dr. Kirk Milhoan, the committee has already endorsed thimerosal-free flu shots, split MMRV vaccines, and declined a COVID-19 vaccine prescription recommendation. Experts warn schedule changes amid rising measles and pertussis outbreaks and falling immunization rates could reverse public-health gains.",
-      "summaryTokens": 999,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "RFK Jr convenes an HHS-appointed panel Thursday to consider delaying the newborn hepatitis B vaccine, reversing decades-old US policy credited with a 99% drop in acute pediatric cases since 1990. After firing 17 CDC advisory members, he installed vaccine skeptics, including Dr Martin Kulldorff’s successor Dr Kirk Milhoan, a Covid-vaccine critic. The panel has already endorsed thimerosal-free flu shots and split the MMRV vaccine, and voted against Covid-19 jabs. The advisory recommendations go to acting CDC director Jim O’Neill after Susan Monarez’s ouster; experts warn any schedule shift could reverse gains and exacerbate outbreaks.",
+      "summaryTokens": 1778,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/04/alligator-alcatraz-human-right-violations-amnesty-report",
@@ -341,9 +641,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T05:05:04Z",
       "trailText": "Amnesty International finds immigrants at Florida facility were shackled and left outside in metal cage for up to a day",
-      "summary": "Amnesty International’s report alleges Florida’s state-run ‘Alligator Alcatraz’ and Miami’s Krome facility subject immigrants to prolonged shackling inside 2-ft-high metal cages (‘the box’), sometimes without water for up to 24 hours amid sun, humidity and mosquitoes. Detainees face unsanitary conditions (overflowing toilets, no showers), constant lighting, poor food and medical neglect. Operated by Florida DEM outside ICE oversight and by private Akima under ICE, both lack proper tracking and due process. Florida officials deny abuses. Amnesty demands Alligator Alcatraz’s closure, end of state-federal agreements and a halt to mass detention practices.",
-      "summaryTokens": 1467,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Amnesty International report alleges migrants at Florida’s state-run “Alligator Alcatraz” and Miami’s private Krome center face “cruel, inhuman and degrading” treatment: detainees shackled in 2ft-high metal cages (“the box”) under south Florida sun for up to 24 hours, exposed to unsanitary conditions, insect-infested cells, medical neglect, 24-hour lighting and arbitrary punishment. Despite a federal judge ordering Alligator Alcatraz closed, it reopened under an appeals stay. Amnesty calls for ending state–federal immigration agreements and halting mass detention.",
+      "summaryTokens": 869,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/new-england-warming",
@@ -353,9 +653,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T05:01:04Z",
       "trailText": "Pace of area’s temperature rise, outpaced in US only by Alaskan Arctic, apparently increased in past five years",
-      "summary": "New England has warmed by 2.5C since 1900—nearly double the global average—and in the past five years its heating rate has accelerated, making it the fastest-warming US region outside the Alaskan Arctic. A study in Climate, led by Stephen and Joshua Young, shows nighttime and winter temperatures rising most quickly and 18% fewer snow-covered days since 2000, notably in southern New England. Slowing Gulf Stream currents, driven by Greenland meltwater, trap excess ocean heat along the coast. This trend threatens maple-syrup production, ice skating and ski seasons.",
-      "summaryTokens": 932,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "New England is warming faster than almost anywhere globally except Alaska’s Arctic, with a 2.5 °C average rise since 1900—nearly double the global 1.3 °C—particularly accelerating over the past five years. Researchers Stephen and Joshua Young found winter and nighttime temperatures increasing fastest, cutting snow cover by 18% since 2000, especially in southern states. A slowed Gulf Stream driven by Greenland meltwater has concentrated ocean heat along the coast. This rapid warming threatens maple syrup harvests, ice-based sports and ski seasons. Published in Climate journal, the study signals a fast-climbing climate crisis in the region.",
+      "summaryTokens": 934,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/trump-pardons-tim-leiweke",
@@ -365,9 +665,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T02:53:06Z",
       "trailText": "Tim Leiweke was accused of ‘orchestrating a conspiracy to rig the bidding process for an arena at a public university’",
-      "summary": "President Donald Trump quietly granted a full and unconditional pardon to sports and entertainment executive Tim Leiweke, co-founder of Oak View Group, who was indicted in July by his administration’s Justice Department for allegedly orchestrating a conspiracy to rig the bidding process on a public university arena in Austin, Texas. Leiweke, charged with conspiracy to restrict trade and poised for trial next year, had pleaded not guilty. The pardon—Trump’s fifth in a week and issued without explanation—effectively terminates the corruption case. Leiweke hailed the decision as a \\\"new lease on life\\\" for him and his family.",
-      "summaryTokens": 1387,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "President Trump quietly granted a full and unconditional pardon Tuesday to sports and entertainment executive Tim Leiweke, co-founder of Oak View Group, who was indicted by his own Justice Department in July for allegedly orchestrating a conspiracy to rig bidding on a public university arena in Austin, Texas. Leiweke, who pleaded not guilty and awaited trial, is the fifth high-profile pardon this week, announced without White House explanation. DOJ antitrust officials said his scheme deprived the university and taxpayers of fair competition. Leiweke, expressing profound gratitude, called the pardon a 'new lease on life' for his family.",
+      "summaryTokens": 1122,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/no-kings-rally-utah-fatal-shooting",
@@ -377,9 +677,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T02:00:55Z",
       "trailText": "Protest guard fired at armed man he mistakenly believed to be threat to protesters but accidentally killed a bystander",
-      "summary": "Safety volunteer Matthew Scott Alder, 43, was charged Wednesday with manslaughter for fatally shooting bystander Arthur “Afa” Ah Loo during a June No Kings protest in Salt Lake City. Alder fired three shots at protester Arturo Gamboa, 24, believing his rifle posed a mass-shooting threat; Gamboa’s unloaded AR-15–style weapon was pointed down. Although Gamboa was wounded, Ah Loo—who was filming the rally—was killed. Salt Lake County DA Sim Gill condemned reckless lethal force. Gamboa was briefly jailed then released without charges under Utah’s open-carry law. Ah Loo’s widow called the charge a step toward safer public gatherings. Alder faces up to 15 years in prison and a $10,000 fine.",
-      "summaryTokens": 783,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "A Salt Lake City safety volunteer, Matthew Scott Alder, 43, was charged with manslaughter for accidentally killing protester Arthur “Afa” Ah Loo on June 14. Alder fired three shots at armed marcher Arturo Gamboa, mistakenly believing he planned a mass shooting; Gamboa’s rifle was unloaded and legally carried. Gamboa was briefly jailed without charges under state gun laws. Alder’s bullet missed Gamboa, struck Ah Loo as he filmed. District Attorney Sim Gill labeled the act reckless. Alder faces up to 15 years in prison and a $10,000 fine.",
+      "summaryTokens": 1577,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/trump-administration-news-update-today",
@@ -389,9 +689,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T01:52:54Z",
       "trailText": "Pentagon report concludes defense secretary endangered troops as some Republican lawmakers scrutinize Caribbean operations – key US politics stories from 3 December 2025",
-      "summary": "Pentagon’s inspector general found Defense Secretary Pete Hegseth violated policy and endangered troops by sharing classified details of a March Yemen airstrike in a Signal group chat accidentally joined by an Atlantic reporter. Republican Sen. Rand Paul and colleagues are probing the administration’s contested double strike on suspected drug boats in the Caribbean, which officials defend as aimed at destroying vessels, not crews. Federal agents intensified immigration raids in New Orleans; Trump pardoned Texas Democrat Henry Cuellar in a federal bribery case; new images of Jeffrey Epstein’s private Caribbean island were released; and the administration moved to roll back fuel-economy standards.",
-      "summaryTokens": 1763,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "An inspector general’s long-awaited Pentagon report finds Defense Secretary Pete Hegseth violated policy and risked US troops by sharing classified Yemen airstrike plans in a Signal chat with JD Vance, CIA director John Ratcliffe and ex-NSA Mike Waltz. Hegseth refused questioning, claiming declassification authority; an unclassified version is due soon. Meanwhile, Republican senators led by Rand Paul question the administration’s rationale for dual Caribbean drug-boat strikes. Other key developments: new images of Epstein’s Caribbean island released; ICE raids in New Orleans; Trump pardons Rep. Henry Cuellar; Colombia warns Trump over drug threats; Biden-era fuel standards repealed and some travel bans paused.",
+      "summaryTokens": 1657,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/trump-officials-boat-strikes-legal-analysis",
@@ -401,9 +701,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T01:44:01Z",
       "trailText": "Officials hew closely to secret memo which gives legal cover to firing on boats even if it would kill people on board",
-      "summary": "Trump administration officials, invoking a secret DOJ OLC memo, defended a Sept 2 second strike on an unflagged drug boat—killing survivors—as aimed at destroying the vessel and ~$50m of cocaine, not targeting crew. White House press secretary Karoline Leavitt and Defense Secretary Pete Hegseth said Adm. Frank Bradley acted legally to eliminate threats. The OLC memo frames cartel-financed violence as armed conflict and allows lethal force against drug boats even if crew die. Critics dispute evidence cartel profits fund violence. Hegseth previously justified killing affiliates, even posting a satirical “Franklin Targets Narco Terrorists” graphic. Bradley testifies before Congress Thursday.",
-      "summaryTokens": 2486,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Trump administration officials defended a second strike on a suspected drug boat on 2 September, saying Adm. Frank Bradley aimed to destroy the vessel under a secret OLC memo authorising lethal force against unflagged cocaine traffickers as part of collective self-defense. White House press secretary Karoline Leavitt and Defense Secretary Pete Hegseth emphasised the order was legally grounded in a classified intelligence annex and a July NSPM. The OLC opinion holds that civilian casualties are permissible if targeting the boat, a view critics say lacks public evidence of cartels’ armed-conflict status. Bradley is set to testify on Thursday.",
+      "summaryTokens": 944,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/new-orleans-ice-crackdown",
@@ -413,9 +713,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T01:12:52Z",
       "trailText": "Gregory Bovino, border patrol chief and face of Trump’s mass deportation efforts, seen patrolling French Quarter",
-      "summary": "Under Operation Catahoula Crunch, 250 federal agents led by Border Patrol chief Gregory Bovino have fanned out across New Orleans and its suburbs, targeting an estimated 5,000 immigrants — including those previously arrested for violent crimes — with raids in the French Quarter and parking lots of Lowe’s and Home Depot. Community organizers urge residents to stay indoors, film ICE, and know their rights as businesses close and protests mount. Mayor-elect Helena Moreno warns of racial profiling; Gov. Jeff Landry welcomes National Guard deployments despite critics noting most past ICE sweeps arrested non-criminals.",
-      "summaryTokens": 477,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "Federal agents under “Operation Catahoula Crunch,” led by border patrol chief Gregory Bovino, launched a sweeping immigration crackdown in New Orleans and suburbs aiming to net up to 5,000 arrests of immigrants released after criminal charges. About 250 agents, masked and in marked/unmarked vehicles, made arrests outside hardware stores and patrolled the French Quarter. Community organizers, local businesses and the mayor-elect raised profiling and due-process concerns amid protests and staff shortages. Louisiana’s GOP governor praised the operation and announced National Guard deployment, while local police refused to enforce federal immigration law, creating tensions over jurisdiction.",
+      "summaryTokens": 930,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/hegseth-yemen-signal-group-chat",
@@ -425,9 +725,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-04T01:00:53Z",
       "trailText": "Report says defense secretary violated policies in sharing secret information in March on planned airstrike in Yemen",
-      "summary": "Pentagon IG report finds Defense Secretary Pete Hegseth violated DoD policies by sharing secret details of a planned Yemen airstrike against Houthi fighters in an unapproved Signal group chat in March. The chat—viewed by participants including Sen. JD Vance, CIA Director John Ratcliffe, then-NSA Mike Waltz and an Atlantic reporter—risked US troop lives if intercepted. Hegseth refused an IG interview, claimed declassification authority, and dismissed risks. The report, sent to Congress, prompted calls for his resignation; Hegseth denies wrongdoing in a Twitter/X statement.",
-      "summaryTokens": 804,
-      "generatedAt": "2025-12-05T03:57:31.348Z"
+      "summary": "An internal DoD IG report concluded Defense Sec. Pete Hegseth breached protocols by sharing secret March Yemen airstrike plans targeting Houthis in an unapproved Signal group chat that included Vance, CIA Dir. Ratcliffe, NSC’s Waltz and an Atlantic reporter—risking US pilots if intercepted. Though Hegseth claims declassification power and denies wrongdoing on X, he refused an IG interview. The report flagged other insecure chats as a pattern. Sen. Mark Warner demanded his resignation. Congress received the findings and an unclassified version is due this week.",
+      "summaryTokens": 1180,
+      "generatedAt": "2025-12-06T03:47:22.380Z"
     },
     {
       "id": "us-news/2025/dec/03/san-francisco-sleeping-pods-rent",
@@ -7529,7 +7829,7 @@
       "section": "us-news",
       "publishedDate": "2025-11-03T13:00:36Z",
       "trailText": "The president’s wife is reported to have ‘privately raised concerns about’ the destruction of the White House East Wing. If so, they were ignored",
-      "summary": "President Trump ordered demolition of the White House East Wing—traditional office for first ladies—to build a $300m ballroom, effectively ending Melania Trump’s D.C. base. In her second term she’s spent under two weeks at the residence, staffed a handful of aides versus 20+ predecessors, and prioritized personal privacy and lucrative deals like a $40m Amazon documentary. Though she launched Be Best, backed the Take It Down Act and discussed AI education, her low-profile approach breaks from the activist legacy of Roosevelt, Carter and Obama, underscoring a diminished, atypical role for the first lady.",
+      "summary": "President Trump ordered demolition of the White House East Wing—traditional office for first ladies—to build a $300m ballroom, effectively ending Melania Trump���s D.C. base. In her second term she’s spent under two weeks at the residence, staffed a handful of aides versus 20+ predecessors, and prioritized personal privacy and lucrative deals like a $40m Amazon documentary. Though she launched Be Best, backed the Take It Down Act and discussed AI education, her low-profile approach breaks from the activist legacy of Roosevelt, Carter and Obama, underscoring a diminished, atypical role for the first lady.",
       "summaryTokens": 931,
       "generatedAt": "2025-11-05T04:40:25.614Z"
     },
@@ -15737,7 +16037,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-30T16:10:58Z",
       "trailText": "Giant red banner appears on Department of Housing and Urban Development page after lawmakers fail to reach deal",
-      "summary": "After GOP and Dem leaders missed a spending-deal deadline, HUD's website splashed a giant red banner blaming the \"radical left\" for an imminent shutdown over a $1.5 trillion wish list, echoing Trump-era messaging. HUD spokesman Matthew Maley called it a necessary warning of \"massive pain\" on Americans; critics like law professor Samuel Bagenstos slammed it as propaganda by an underfunded agency. The VA used similar rhetoric internally. Partisan finger-pointing persisted as Trump posted a racist deepfake, drawing House leader Hakeem Jeffries's rebuke and refocus on cost and healthcare battles.",
+      "summary": "After GOP and Dem leaders missed a spending-deal deadline, HUD's website splashed a giant red banner blaming the \"radical left\" for an imminent shutdown over a $1.5���trillion wish list, echoing Trump-era messaging. HUD spokesman Matthew Maley called it a necessary warning of \"massive pain\" on Americans; critics like law professor Samuel Bagenstos slammed it as propaganda by an underfunded agency. The VA used similar rhetoric internally. Partisan finger-pointing persisted as Trump posted a racist deepfake, drawing House leader Hakeem Jeffries's rebuke and refocus on cost and healthcare battles.",
       "summaryTokens": 2474,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
