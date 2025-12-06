@@ -1,26 +1,122 @@
 {
   "metadata": {
     "section": "environment",
-    "generated_at": "2025-12-05T03:25:33.491Z",
+    "generated_at": "2025-12-06T03:18:24.861Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-12-05"
     },
-    "article_count": 568,
+    "article_count": 576,
     "merge_info": {
-      "previous_count": 556,
-      "new_articles": 12,
-      "updated_articles": 5,
-      "total_count": 568
+      "previous_count": 568,
+      "new_articles": 8,
+      "updated_articles": 13,
+      "total_count": 576
     },
     "batch_info": {
-      "initial_batch_id": "batch_69324ff5548c8190bc3bfc10b9a9fae9",
+      "initial_batch_id": "batch_69339e3b0de081909d2de4c64d5d85cf",
       "retry_batches": [],
-      "total_tokens": 36540,
-      "processing_time_hours": 0.1
+      "total_tokens": 44523,
+      "processing_time_hours": 0.2
     }
   },
   "articles": [
+    {
+      "id": "environment/2025/dec/05/homegrown-gas-is-vital-for-uk-energy-security",
+      "title": "Homegrown gas is vital for energy security | Letters ",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/05/homegrown-gas-is-vital-for-uk-energy-security",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/05/homegrown-gas-is-vital-for-uk-energy-security",
+      "section": "environment",
+      "publishedDate": "2025-12-05T17:27:06Z",
+      "trailText": "Letter: Domestic gas production must be incentivised if the UK is to avoid damaging shortages, writes Prof John Underhill",
+      "summary": "Prof John Underhill warns that a recent National Energy System Operator alert shows how close the UK has come to gas shortages and stresses that 85% of homes rely on gas for heating and cooking. Gas also underpins over half of electricity on cold, windless days. With Ormen Lange and the Langeled pipeline as single points of failure, he urges incentives for domestic exploration and production—via transitional energy certificates and removal of the windfall tax—to avoid high-carbon, price-volatile LNG imports and secure national energy supply.",
+      "summaryTokens": 469,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
+    {
+      "id": "environment/2025/dec/05/street-names-birds-britain-rise-populations-plummet",
+      "title": "Streets named after birds in Britain on rise as species’ populations plummet",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/05/street-names-birds-britain-rise-populations-plummet",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/05/street-names-birds-britain-rise-populations-plummet",
+      "section": "environment",
+      "publishedDate": "2025-12-05T14:00:26Z",
+      "trailText": "RSPB says growing trend for honouring species that are in decline is not matched by action on conservation",
+      "summary": "An RSPB analysis of OS data from 2004–24 shows British street names honouring declining bird species have soared—skylark (+350%), starling (+156%), lapwing (+104%)—even as wild populations have plummeted (skylarks −53%, lapwings −62%, nightingales −89% since 1970). Meadow names rose 34% despite a 97% loss of wildflower meadows. RSPB CEO Beccy Speight and historian Michael Warren warn that developers’ nature-themed names mask a ‘detachment’ from real conservation and call on the government’s planning bill to back tangible action like swift bricks and habitat restoration. BTO data confirm ongoing bird declines.",
+      "summaryTokens": 1025,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
+    {
+      "id": "environment/2025/dec/05/nature-recovery-plan-england-clause-conservation-nature",
+      "title": "Nature recovery plan in England hit by clause allowing contracts to end with a year’s notice",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/05/nature-recovery-plan-england-clause-conservation-nature",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/05/nature-recovery-plan-england-clause-conservation-nature",
+      "section": "environment",
+      "publishedDate": "2025-12-05T11:51:52Z",
+      "trailText": "Conservationists say changes, coupled with underfunding, will curb take-up and leave less land protected for nature",
+      "summary": "England’s flagship landscape recovery scheme has been undercut by a new clause letting government cancel contracts on a year’s notice and a funding cut from the planned £800m/year (one-third of the £2.4bn annual ELMs budget) to just £500m over 20 years. Pilots like Holkham estate’s 2,000ha wetland restoration fear low take-up, irreversible land-use changes and lack of private investment. Conservationists, RSPB and NFU warn the watered-down targets (now 7% of 41% farms versus 10% of 65–80%) and truncated funding risk locking in biodiversity decline.",
+      "summaryTokens": 952,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
+    {
+      "id": "environment/2025/dec/05/weather-tracker-heavy-snow-blankets-parts-us-winter-storms-hit",
+      "title": "Weather tracker: Heavy snow blankets parts of US as winter storms hit ",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/05/weather-tracker-heavy-snow-blankets-parts-us-winter-storms-hit",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/05/weather-tracker-heavy-snow-blankets-parts-us-winter-storms-hit",
+      "section": "environment",
+      "publishedDate": "2025-12-05T10:20:33Z",
+      "trailText": "Snowfall moves south-east over Wyoming and Colorado and combines with dense fog in some areas",
+      "summary": "Snow blanketed parts of the US as a winter storm tracked south-east over Wyoming and Colorado, following last weekend’s 20–35 cm in Wisconsin. Central Colorado and northern New Mexico saw up to 30 cm, triggering flight cancellations and delays at Denver. Dense fog reduced visibility to 100–200 m in northern Colorado. Another storm will return this weekend, bringing heavy snow, winds and blizzard risk across the Rockies. Abnormally cold conditions persist in central/northern US. Meanwhile, Australia’s south-east recorded subzero mountain snows while western heatwaves topped 40 °C and prompted fire warnings in southern NSW.",
+      "summaryTokens": 887,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
+    {
+      "id": "environment/2025/dec/04/inside-americas-hidden-climate-deaths",
+      "title": "What I saw reporting on the American lives cut short by killer heat",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/04/inside-americas-hidden-climate-deaths",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/04/inside-americas-hidden-climate-deaths",
+      "section": "environment",
+      "publishedDate": "2025-12-05T07:00:43Z",
+      "trailText": "• Don’t get Down to Earth delivered to your inbox? Sign up here",
+      "summary": "In a Guardian investigation, reporter travelled to Arizona amid 14-day, 43 °C heatwave, combing autopsies via FOIA to profile victims like 52-year-old Richard Chamblee, whose AC failed, and 31-year-old influencer Hannah Moody, who died hiking. The US lacks consistent heat-death counts across 2,000 coroner offices, skewing mortality. Heat scourge stems from inequality—poor housing, healthcare—and deepens as Trump abandons Paris Agreement, slashes renewable investments and climate aid in Appalachia, exacerbating vulnerability in America’s hottest regions.",
+      "summaryTokens": 815,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
+    {
+      "id": "environment/2025/dec/05/soilsmology-seismic-waves-soil-health-boost-yields",
+      "title": "‘We can tell farmers the problems’: experts say seismic waves can check soil health and boost yields",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/05/soilsmology-seismic-waves-soil-health-boost-yields",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/05/soilsmology-seismic-waves-soil-health-boost-yields",
+      "section": "environment",
+      "publishedDate": "2025-12-05T06:00:41Z",
+      "trailText": "‘Soilsmology’ aims to map world’s soils and help avert famine, says not-for-profit co-founded by George Monbiot",
+      "summary": "The Earth Rover programme’s soilsmology technique uses seismic waves—generated by hammering a plate into soil—to map compaction, moisture, porosity, microbial life and carbon content at metre-scale. Co-founded by George Monbiot and soil ecologist Simon Jeffery, it aims to replace extensive hole-digging and lab tests with on-site readings and a free app providing tailored advice. Trials near Mount Kenya revealed hidden subsoil compaction and flood risks, promising yield gains and reduced chemical inputs. With global crop yields threatened by erosion, climate stress and coarse 5 km soil maps, this affordable, low-impact method could avert famine, bolster food security and protect precious soils.",
+      "summaryTokens": 638,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
+    {
+      "id": "environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+      "title": "60,000 African penguins starved to death after sardine numbers collapsed – study",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+      "section": "environment",
+      "publishedDate": "2025-12-05T06:00:39Z",
+      "trailText": "Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in South Africa, research finds",
+      "summary": "Between 2004 and 2012, over 60,000 African penguins (95% of birds at Dassen and Robben Islands) died of starvation after sardine stocks collapsed. Climate crisis and overfishing drove sardine biomass below 25% of maximum in all but three years, depriving moulting penguins of fat reserves during a 21-day fasting period and likely causing at-sea deaths. The species has declined 80% in 30 years and was declared critically endangered in 2024 with under 10,000 breeding pairs. Conservation measures include banning purse-seine fishing near colonies, providing artificial nests, predator control and hand-rearing.",
+      "summaryTokens": 1291,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
+    {
+      "id": "environment/2025/dec/05/country-diary-green-shoots-in-the-ancient-forest",
+      "title": "Country diary: Green shoots in the ancient forest | Country diary",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/05/country-diary-green-shoots-in-the-ancient-forest",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/05/country-diary-green-shoots-in-the-ancient-forest",
+      "section": "environment",
+      "publishedDate": "2025-12-05T05:30:39Z",
+      "trailText": "Glen Einich, Cairngorms: A wintry walk in the Rothiemurchus woodland is always glorious. To see some of its barer expanses starting to recover tops it off",
+      "summary": "In a wintry walk through Glen Einich’s Rothiemurchus woods, the ancient Caledonian forest Nan Shepherd lamented is quietly rebounding after wartime felling. Wartime logging during both world wars prompted Frank Fraser Darling to liken the devastation to a battlefield. Frosted puddles and ice-flecked heather set the scene. From Whitewell croft’s mature Scots pine, birch, juniper and blaeberry, to the treeless moor above, a new generation of pine saplings thrusts through heath and scree along the Am Benaidh’s banks. Improved land management and reduced deer stocks grant the landscape room to regenerate, heralding a peacetime army of growth.",
+      "summaryTokens": 2367,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
+    },
     {
       "id": "environment/2025/dec/05/red-squirrels-highlands-rewilding-uk",
       "title": "Red squirrels expand across Highlands after 10-year reintroduction drive",
@@ -29,9 +125,9 @@
       "section": "environment",
       "publishedDate": "2025-12-05T00:01:32Z",
       "trailText": "Rewilding charity helps bolster Scottish stronghold of species that once came close to extinction in UK",
-      "summary": "After a decade-long reintroduction drive by charity Trees for Life, red squirrels have reclaimed over 25% more of their Highland range. Moving small, health-checked cohorts from Inverness-shire, Moray and Strathspey to twelve+ secure woodlands—from Ullapool to Morvern—has bolstered Scotland’s 80% share of Britain’s 200,000 reds, extinct locally since the 1970s. Donor-site rotation ensures genetic diversity; post-release supplementary feeding aids settlement. Redistributed reds now boost natural forest regeneration through cached nut-forgetting. As part of its Missing Species programme—also targeting lynx, beaver and aurochs—Trees for Life plans further expansion. Advances in grey-squirrel contraception and isolated Isle of Wight refuges mitigate disease and competition threats.",
-      "summaryTokens": 846,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "Over the past decade, charity Trees for Life has reintroduced hundreds of red squirrels to more than a dozen sites across the Scottish Highlands—from Ullapool to Morvern—boosting their range by over 25%. Once nearly extinct in Britain due to habitat loss, persecution and grey-squirrel-borne disease, reds now occupy woods north and north-west of Inverness-shire, safe from greys, following health checks, genetic management and supplemental feeding. This rewilding feeds into a broader Missing Species scheme aimed at restoring lynx, beaver and wild cattle, while research on grey-squirrel fertility control offers further hope.",
+      "summaryTokens": 618,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/thank-you-paul-brown-for-your-final-warning-on-the-climate-and-civilisation",
@@ -41,9 +137,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T16:51:01Z",
       "trailText": "Letters: Readers respond to an article by the Guardian’s former environment correspondent from his hospital bed",
-      "summary": "Readers thank Guardian veteran Paul Brown for his final warning on climate and civilisation, lamenting decades of political failures—from US deregulation to UK inaction—and the yawning gap between science and leadership. Contributors highlight Nordic youth–driven progress at COP30, urgent alerts from Chris Packham, Lt Gen Richard Nugee, Prof Tim Lenton and Prof Kevin Anderson on economic and security risks, and raise alarm over the US Advance Act’s nuclear mandate, small-reactor subsidies for AI cooling and stalled renewables. They urge MPs and journalists to heed Brown’s call: decisive climate action is vital to safeguard billions of lives and millions of species.",
-      "summaryTokens": 820,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "Readers’ letters applaud Paul Brown’s “final warning” from his hospital bed, decrying chronic political failure on climate in the US and UK and the gap between science and leadership. Signatories—scientists, attorneys and former policymakers—hail young Nordic COP30 leaders, urge UK parliamentarians to heed emergency briefings on climate-related economic and security risks, and warn that US NRC’s Advance Act and small nuclear reactors for AI datacentres undermine renewables and invite corruption. They celebrate Brown’s legacy in exposing environmental and nuclear risks and call for urgent action to protect lives, species and societal stability.",
+      "summaryTokens": 490,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/miss-having-a-dog-village-banned-pets-save-wildlife",
@@ -53,9 +149,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T16:00:23Z",
       "trailText": "Australian eco community is a sanctuary for native animals and a showcase of sustainable living",
-      "summary": "Currumbin Ecovillage on the Gold Coast border spans 110 ha, hosting roughly 500 residents—retirees, families, artists—who share a solarpunk ethos of sustainable, community-driven living. Established 20 years ago on a former dairy farm, it bans cats and dogs (except service animals) to protect native wildlife—wallabies, kangaroos, bandicoots, koalas, echidnas and platypuses—and requires solar power, rainwater tanks and extensive reforestation. A shared A$2 m wastewater plant recycles water, while communal gardens, café gatherings and collective childcare foster social bonds. Planned projects include a solar farm and community batteries, reinforcing its DIY conservation model. Residents acknowledge missing pets but accept the restriction as vital for biodiversity.",
-      "summaryTokens": 1243,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "Currumbin Ecovillage on Australia’s Gold Coast spans 272 acres as an intentional eco-community and wildlife corridor that bans cats and dogs—deemed lethal predators except service animals—to protect native species. Established twenty years ago on a former dairy farm, its ~500 residents share solar power, rainwater tanks, community gardens and a $2 million wastewater plant to ensure self-reliance. A reforestation program attracts wallabies, kangaroos, koalas, platypuses and more. Homes initially met strict green-design standards; today sustainability remains central. Communal governance of finances and projects, regular events, shared meals and mutual support reinforce social bonds.",
+      "summaryTokens": 1672,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/la-nina-australia-summer-weather",
@@ -65,9 +161,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T14:00:25Z",
       "trailText": "Expert says the weather pattern, which typically brings wetter and cooler conditions, may be weakened by global heating",
-      "summary": "Australia’s Bureau of Meteorology confirmed a weak La Niña in place since early October, but climate models project only average summer rainfall in major cities and above-average temperatures nationwide. Cooler Pacific waters and stronger trade winds typical of La Niña are being offset by a shorter duration event and global heating, plus influences from westerly winds and warm Indian Ocean waters. Central Queensland, northern NSW and NW WA may be drier, while capital cities’ rainfall chances remain neutral. Sea surface temperatures off the east coast are among the warmest on record, boosting storm and cyclone potential.",
-      "summaryTokens": 861,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "La Niña’s onset in early October usually ushers in cooler, wetter Australian summers, but the Bureau of Meteorology warns this year’s event is relatively weak and short-lived. Forecasts indicate average rainfall across major capitals—Brisbane, Sydney, Canberra, Melbourne, Adelaide and Perth—while central Queensland, northern NSW and north-western WA may be drier. Despite La Niña’s cooling tendency, global warming is driving above-average maximum and minimum temperatures nationwide. Experts point to the event’s reduced strength, shifts in westerly winds, Indian Ocean warmth and rising sea surface temperatures that could fuel severe storms. The system may break down early, adding uncertainty to rainfall outcomes.",
+      "summaryTokens": 499,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/thirsty-work-how-the-rise-of-massive-datacentres-strains-australias-drinking-water-supply",
@@ -77,9 +173,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T14:00:24Z",
       "trailText": "The demand for use in cooling in Sydney alone is expected to exceed the volume of Canberra’s total drinking water within the next decade",
-      "summary": "Australia’s AI-driven datacentre boom in Sydney and Melbourne is set to strain drinking water: Sydney Water forecasts up to 250 ML/day by 2035—exceeding Canberra’s supply—while Victoria’s hyperscale proposals outstrip top-30 business demands combined. Operators track sustainability via WUE and PUE metrics; some, like CDC and NextDC, adopt closed-loop or liquid-to-chip cooling to cut water loss and energy use. Regulators seek alternative sources, capital contributions, and call for bans on potable water cooling amid community concerns over environmental impacts.",
-      "summaryTokens": 685,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "Australia’s AI-driven datacentre boom in Sydney and Melbourne is forecast to require up to 250 ML/day of potable water—exceeding Canberra’s entire supply—while Victorian hyperscale proposals outstrip usage of the top 30 business customers. Older sites rely on water-intensive evaporative or chiller cooling; NextDC pilots liquid-to-chip systems to reduce WUE toward benchmarks (e.g., Malaysia’s 1.8) and hit PUE as low as 1.15. Utilities plan recycled and stormwater schemes, with operator-funded network upgrades. Community groups demand a ban on drinking-water cooling and mandatory reporting amid health and environmental risk concerns around mega-campuses. Some operators, like CDC, deploy closed-loop cooling with near-zero ongoing draw (WUE 0.01).",
+      "summaryTokens": 2136,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/joe-macinnis-canada-ocean-exploration-shipwrecks-leadership-treasure-diving-titanic",
@@ -89,9 +185,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T14:00:21Z",
       "trailText": "At 88, the Canadian reflects on a golden era of underwater discovery and how shipwrecks and the cruel sea are the ‘greatest of all teachers’",
-      "summary": "At 88, Dr Joe MacInnis, celebrated Canadian diver, reflects on his ‘rip-roaring’ career exploring Titanic, Edmund Fitzgerald and HMS Breadalbane wrecks, pioneering Arctic Sub-Igloo and polar dives, and filming narwhals. Working alongside Cousteau, Ballard and amid Cold War rivals, he’s learned that shipwrecks are profound teachers of mortality, decision-making and collective resilience. His focus has shifted from technology to the psychology of fear, survival and leadership within a global ‘polycrisis’ of climate and geopolitical upheaval. A recent heart attack brought his own mortality into stark relief and fuels his call for cooperation to safeguard the oceans.",
+      "summary": "At 88, Joe MacInnis, pioneering Canadian undersea explorer and doctor, reflects on a career of ‘rip-roaring’ ocean adventures—from snagging the Titanic wreck 2.5 miles down with Anatoly Sagalevich, to first dives on the Edmund Fitzgerald, Arctic polar stations and 16th-century silver reefs. Collaborating with Cousteau, Ballard and Buzz Aldrin during a golden age of exploration, he learned the sea’s unforgiving lessons on mortality, survival psychology and leadership. Now, after a heart attack and stroke, he channels his fear and optimism into writing on crisis, collective action and environmental urgency as he grapples with his own final arc.",
       "summaryTokens": 584,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/south-east-water-plant-tunbridge-wells-supply-failure-risk-notice",
@@ -101,9 +197,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T12:55:02Z",
       "trailText": "Watchdog investigating South East Water contamination issue had previously warned of potential health danger",
-      "summary": "A South East Water treatment centre in Pembury, previously served a 2024 DWI risk notice over E coli, pesticide and bacterial contamination, failed on December 4, cutting tens of thousands in Tunbridge Wells off tap water. A 10-day boil water notice forces closures of schools, restaurants, surgeries and leaves GP practices scrambling. The Drinking Water Inspectorate has launched an investigation and could take legal action if negligence is found. South East Water, already under financial strain and requiring a £200m investor bailout, faces criticism for underinvestment in infrastructure amid warnings over other ‘single point of failure’ plants like Thames Water’s Coppermills.",
-      "summaryTokens": 883,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "South East Water’s Pembury treatment works, previously warned in 2024 by the Drinking Water Inspectorate over pesticide and bacterial contamination risks, failed at the weekend, cutting off tens of thousands in Tunbridge Wells. A 10-day boil water notice forces schools, businesses and GP surgeries to shut or source bottled water. DWI has launched a live investigation into potential negligence amid South East Water’s wider financial distress and underinvestment. Campaigners warn the UK’s aging water infrastructure faces similar single-point failures, with enforcement or legal action possible if safety breaches are confirmed.",
+      "summaryTokens": 482,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/critical-minerals-military-us-pentagon-climate-crisis",
@@ -113,9 +209,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T12:00:20Z",
       "trailText": "Study reveals US earmarked billions to stockpile critical minerals for military use, including precision-guided weaponry and AI-driven warfare",
-      "summary": "The Transition Security Project warns that the Pentagon is diverting billions to stockpile at least 38 critical minerals—lithium, cobalt, graphite, rare earths—through its National Defense Stockpile program for advanced weapons, AI-driven warfare and precision-guided munitions. Plans to hold 7,500 t of cobalt alone could instead power 80 GWh of batteries—over twice current US storage capacity and enough for ~100,000 electric buses. This militarization of minerals undermines solar, wind, EV and grid-decoupling goals, while the US DoD—world’s largest government emitter—expands its $1tn budget and mining investments at the expense of climate action.",
-      "summaryTokens": 1211,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "A Transition Security Project report finds the Pentagon has earmarked billions under its National Defense Stockpile to hoard at least 38 critical minerals—lithium, cobalt, graphite and rare earths—for precision weapons, AI-driven platforms and communications systems. It warns diverting 7,500 t of cobalt alone could instead provide 80 GWh of battery storage (powering roughly 100,000 electric buses), stalling solar, wind and EV deployment. With a $1 trillion budget and equity stakes in 20 North American mining ventures since 2023, the DoD’s actions prioritize militarism over decarbonization, undermining global climate security.",
+      "summaryTokens": 505,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/high-levels-of-forever-chemical-found-in-cereal-products-across-europe-study",
@@ -125,9 +221,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T06:00:07Z",
       "trailText": "Pesticide Action Network Europe study finds average concentrations 100 times higher than in tap water",
-      "summary": "PAN Europe study detects trifluoroacetic acid (TFA), a reprotoxic PFAS breakdown product, in 81.5% of 65 conventional cereal items (breakfast cereals, pasta, croissants, breads, flour, sweets) sampled across 16 EU countries. Average concentrations in breakfast cereal reached 100× levels in tap water; wheat-based goods (Irish cereal, Belgian/German wholemeal, French baguette) most contaminated. TFA persists in soil/water, threatens reproductive, thyroid, liver and immune health. Campaigners call for immediate EU TFA limits, PFAS pesticide ban and food monitoring; UK also uses 27 PFAS pesticides. Currently, TFA is not monitored in food.",
-      "summaryTokens": 1157,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "A Pesticide Action Network Europe analysis of 65 conventional cereal products from 16 EU countries detected trifluoroacetic acid (TFA)—a PFAS breakdown byproduct—in 81.5% of samples, with concentrations up to 100 times higher than in tap water. Wheat-based foods, especially Irish breakfast cereals and Belgian, German and French wholemeal breads, showed the highest contamination. TFA is reprotoxic and linked to thyroid, liver and immune damage. Campaigners demand EU safety limits, mandatory TFA monitoring and a ban on PFAS pesticides to prevent further soil and food-chain pollution.",
+      "summaryTokens": 368,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/country-diary-a-lonely-chapel-that-whispers-and-roars",
@@ -137,9 +233,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T05:30:05Z",
       "trailText": "Abbotsbury, Dorset: Long ago this was the place to come and wish for a husband. It is empty today, but still so full of presence",
-      "summary": "At St Catherine’s Chapel atop Abbotsbury’s coastal hill, author Sara Hudston describes the 14th-century golden sandstone chapel—once a medieval marriage-wishing site—now stripped bare except for sunlight casting shadows on pitted, lichened walls and a boarded-over east window. On St Catherine’s feast (25 Nov), women historically kneeled in the south porch’s recesses, whispering pleas for husbands; today the wind’s roar through a loose, knocking door evokes the chapel’s enduring ritual presence. Set amid barrows, stone circles and hillforts, it resonates with traces of Iron Age lovers seeking solace in its stones.",
-      "summaryTokens": 1014,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "On St Catherine’s feast day (25 November), the writer climbs alone to the 14th-century chapel on its Dorset hill, once famed for women whispering a blunt marriage charm in its south-wall recess. Golden sandstone walls, a boarded-up east window and stripped interior stand silent yet full of life, as wind roars through doors and archways like waves. Set amid barrows, stone circles and hillforts, the chapel’s atmosphere evokes layers of ritual devotion—perhaps stretching back to the nearby Iron Age teenager buried at Langton Herring.",
+      "summaryTokens": 481,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/one-man-search-wild-wallaby-uk",
@@ -149,9 +245,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T05:00:06Z",
       "trailText": "Reports of escaped wallabies are on the rise, especially in southern England. But how easy is it to spot these strange and charismatic marsupials – and why would a quintessentially Australian creature settle here?",
-      "summary": "In late November near Oxhill, Warwickshire, 19-year-old Molly Laird filmed a hopping wallaby she first mistook for a deer. Tracker Darren Parkin and ecologist Anthony Caravaggi have documented a growing, climate-aided population of escaped red-necked wallabies across southern England, bred in wildlife parks and private collections. Wallabies thrive in milder winters and resemble established herds on the Isle of Man. Their ecological impact remains unclear—they may compete with muntjac or alter flora—but public affection and charisma complicate any control. The Oxhill wallaby, traced to a nearby sheep farmer’s paddock, was eventually recaptured.",
-      "summaryTokens": 823,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "On a dark November night in Warwickshire, 19-year-old Molly Laird filmed a hopping red-necked wallaby on a country lane, sparking a search by bushcraft tracker Darren Parkin and ecologist Anthony Caravaggi. Caravaggi outlines how escaped wallabies—adept at digging and popular in private collections—have formed a continuous southern England population aided by milder winters. He’s mapped sightings from Cornwall to the Chilterns but cautions their browsing may alter flora and compete with deer or sheep, and any control risks public backlash. Parkin and the reporter eventually spot the escapee before it’s recaptured.",
+      "summaryTokens": 1456,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/invasive-species-flowers-iceland-nootka-lupins-lupines-aoe",
@@ -161,9 +257,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T05:00:05Z",
       "trailText": "Nootka lupins, introduced in the 1940s to repair damaged soil, are rampaging across the island, threatening its native species",
-      "summary": "Iceland’s summer landscape has been transformed by Nootka lupins, introduced in the 1940s to stabilise eroded volcanic soils. This Alaska-native legume now blankets fjords, lava fields and grasslands, covering 0.3% of the island and set to triple by 2027 under a warming climate. Instagrammers flock for purple panoramas, while scientists warn the invasive species smothers native flora, alters soil dynamics and contributes to landslides. Authorities lack national control measures, and public opinion is split between celebrating the lupins’ regenerative role in degraded terrain and urging limits to protect biodiversity.",
-      "summaryTokens": 370,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "In the 1940s Iceland’s chief forester introduced Alaska’s Nootka lupin to bind eroded volcanic soils and boost nitrogen. Its vivid purple fields now draw hordes of summer tourists and feature in wedding photos and adverts, coating fjords, mountain slopes and lava flats. But scientists warn it’s invasive—covering 0.3% of the land and set to triple by 2027—displacing native plants, altering soil structure and raising landslide risk. With eradication impossible, experts recommend targeted containment around biodiversity hotspots.",
+      "summaryTokens": 994,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest",
@@ -173,9 +269,9 @@
       "section": "environment",
       "publishedDate": "2025-12-04T00:01:58Z",
       "trailText": "Many now concerned about ability to make living in fast-changing climate after one of worst grain harvests recorded",
-      "summary": "In 2025 Britain’s arable sector lost over £800m as record heat and drought triggered a 20% drop in wheat, barley, oats and oilseed rape yields vs. the 10-year average. Three of the five worst harvests since 1984 have occurred since 2020, driven by extreme spring dryness, summer heat and winter floods amplified by global warming. With input costs rising faster than crop prices and four in five farmers worried about financial viability, experts urge urgent funding for climate adaptation, resilient crop varieties and green farming schemes to safeguard UK food security.",
-      "summaryTokens": 1010,
-      "generatedAt": "2025-12-05T03:25:33.337Z"
+      "summary": "Analysis by the ECIU estimates UK arable farmers lost over £800m in 2025 due to record hot, dry spring and summer, driving yields of wheat, oats, barley and oilseed rape 20% below the 10-year average. England’s second-worst harvest since 1984 follows multiple extreme weather events, pushing cumulative losses past £2bn since 2020. With four-fifths of growers now questioning economic viability, stakeholders warn delayed green farming incentives undermine climate adaptation, urging funding for resilient crops and soil management to safeguard food security.",
+      "summaryTokens": 502,
+      "generatedAt": "2025-12-06T03:18:24.473Z"
     },
     {
       "id": "environment/2025/dec/03/chemicals-found-english-soil-toxins-medical-substances-farming",
