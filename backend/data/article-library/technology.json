@@ -1,26 +1,122 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-05T03:54:50.883Z",
+    "generated_at": "2025-12-06T03:41:59.984Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-04"
+      "to": "2025-12-05"
     },
-    "article_count": 245,
+    "article_count": 253,
     "merge_info": {
-      "previous_count": 240,
-      "new_articles": 5,
+      "previous_count": 245,
+      "new_articles": 8,
       "updated_articles": 5,
-      "total_count": 245
+      "total_count": 253
     },
     "batch_info": {
-      "initial_batch_id": "batch_6932573311c48190affb2c2a7915ebca",
+      "initial_batch_id": "batch_6933a5a4f9388190b298e6f0b749b46d",
       "retry_batches": [],
-      "total_tokens": 22931,
+      "total_tokens": 25451,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/05/another-cloudflare-outage-takes-down-websites-linkedin-zoom",
+      "title": "Cloudflare apologises after latest outage takes down LinkedIn and Zoom",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/05/another-cloudflare-outage-takes-down-websites-linkedin-zoom",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/05/another-cloudflare-outage-takes-down-websites-linkedin-zoom",
+      "section": "technology",
+      "publishedDate": "2025-12-05T18:55:03Z",
+      "trailText": "Web infrastructure provider says problem lasted half an hour and was not an attack, weeks after larger outage",
+      "summary": "Cloudflare apologized after a half-hour outage on Dec 5 disrupted 28% of its traffic, bringing down LinkedIn, Zoom, Canva, Shopify and Downdetector. The incident—caused by a firewall adjustment to patch a software vulnerability, not an attack—follows a larger mid-November outage. Experts say this recurrence underscores the risks of internet centralization and challenges Cloudflare’s reliability claims. The company, used by about 20% of all websites and serving 300,000 customers, will publish plans next week to prevent future failures.",
+      "summaryTokens": 479,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
+    {
+      "id": "technology/2025/dec/05/urgent-clarity-sought-over-racial-bias-in-uk-police-facial-recognition-technology",
+      "title": "‘Urgent clarity’ sought over racial bias in UK police facial recognition technology",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/05/urgent-clarity-sought-over-racial-bias-in-uk-police-facial-recognition-technology",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/05/urgent-clarity-sought-over-racial-bias-in-uk-police-facial-recognition-technology",
+      "section": "technology",
+      "publishedDate": "2025-12-05T18:28:01Z",
+      "trailText": "Testing showing racial bias against black and Asian people prompts watchdog to ask Home Office for explanation",
+      "summary": "The Information Commissioner’s Office has asked the Home Office for urgent clarity after National Physical Laboratory tests revealed UK police retrospective facial recognition technology misidentifies black (5.5%) and Asian (4.0%) subjects far more than white subjects (0.04%), with black women facing a 9.9% false positive rate. The ICO warned it may issue enforcement orders or fines and work with the Home Office and police to mitigate bias. Police commissioners urge caution over national expansion. The Home Office says it has procured a new, statistically unbiased algorithm and asked the police inspectorate and forensic science regulator to assess mitigations.",
+      "summaryTokens": 562,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
+    {
+      "id": "technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit",
+      "title": "New York Times sues AI startup for ‘illegal’ copying of millions of articles",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit",
+      "section": "technology",
+      "publishedDate": "2025-12-05T18:19:12Z",
+      "trailText": "Perplexity AI also faces lawsuit from Murdoch-owned Dow Jones and New York Post for its use of copyrighted content",
+      "summary": "New York Times has sued AI startup Perplexity AI for allegedly copying and displaying millions of paywalled articles without permission, misusing its trademarks by pairing them with AI-generated \"hallucinations,\" and infringing copyrights under the Lanham Act. The lawsuit, the latest salvo in a bitter dispute over unauthorized use of content, joins similar claims from Dow Jones, New York Post, Cloudflare, Forbes, Wired, Tribune, Merriam-Webster, Britannica, Reddit and Amazon, accusing Perplexity of unauthorized web scraping to train its generative AI. Perplexity has raised $1.5 billion, including a $200 million round valuing it at $20 billion.",
+      "summaryTokens": 1723,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
+    {
+      "id": "technology/2025/dec/05/i-spent-hours-listening-to-sabrina-carpenter-this-year-so-why-do-i-have-a-spotify-listening-age-of-86",
+      "title": "I spent hours listening to Sabrina Carpenter this year. So why do I have a Spotify ‘listening age’ of 86?",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/05/i-spent-hours-listening-to-sabrina-carpenter-this-year-so-why-do-i-have-a-spotify-listening-age-of-86",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/05/i-spent-hours-listening-to-sabrina-carpenter-this-year-so-why-do-i-have-a-spotify-listening-age-of-86",
+      "section": "technology",
+      "publishedDate": "2025-12-05T15:07:00Z",
+      "trailText": "Many users of the app were shocked, this week, by this addition to the Spotify Wrapped roundup – especially twentysomethings who were judged to be 100",
+      "summary": "After accruing 4,863 minutes on Spotify Wrapped, a 44-year-old user learned her ‘listening age’ was pegged at 86, despite top artists—Sabrina Carpenter, Olivia Dean and Chappell Roan—being under 30 and most tracks released in the last five years. Spotify’s new metric uses a ‘reminiscence bump’ algorithm to match a listener’s most-engaged five-year release window to peers’ formative years. Branded playful ‘rage bait’, it generated 500 million shares in 24 hours. Outraged users flooded social media; the author now plans to lean in by spinning Ella Fitzgerald on vinyl.",
+      "summaryTokens": 714,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
+    {
+      "id": "technology/2025/dec/05/elon-musk-x-fined-eu-first-clash-under-new-digital-laws",
+      "title": "Elon Musk’s X fined €120m by EU in first clash under new digital laws",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/05/elon-musk-x-fined-eu-first-clash-under-new-digital-laws",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/05/elon-musk-x-fined-eu-first-clash-under-new-digital-laws",
+      "section": "technology",
+      "publishedDate": "2025-12-05T11:25:42Z",
+      "trailText": "Ruling could put European Commission on collision course with billionaire, and possibly Donald Trump",
+      "summary": "The European Commission has fined Elon Musk’s X €120 million for breaching the Digital Services Act’s transparency rules—the first enforcement under the 2023 law. X was penalized €45 million for offering deceptive paid blue ticks, €35 million for opaque ad disclosures and €40 million for failing to grant researchers access to public data. With further probes into content moderation, algorithmic promotion and illegal content reporting ongoing, X faces up to 6 percent of global revenue in penalties. Musk and US allies denounce the ruling as anti–free speech, and X has 90 days to propose remedies or appeal.",
+      "summaryTokens": 558,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
+    {
+      "id": "technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
+      "title": "Home Office admits facial recognition tech issue with black and Asian subjects",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
+      "section": "technology",
+      "publishedDate": "2025-12-05T11:11:18Z",
+      "trailText": "Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings",
+      "summary": "Home Office admits tests by the National Physical Laboratory reveal retrospective facial recognition on the police national database yields false positives of 5.5% for Black subjects and 4.0% for Asian subjects versus 0.04% for white, with Black women at 9.9% and Black men at 0.4%. Police and crime commissioners warn of systemic bias and urge stronger safeguards. Government launches a 10-week consultation to expand use to passport and driving-licence databases. Campaigners and ex-ministers demand a halt until robust oversight is in place. Home Office says it has procured an unbiased algorithm and invited independent review.",
+      "summaryTokens": 561,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
+    {
+      "id": "technology/2025/dec/05/tesla-cuts-model-3-price-europe-sales-elon-musk-backlash",
+      "title": "Tesla launches cheaper version of Model 3 in Europe amid Musk sales backlash",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/05/tesla-cuts-model-3-price-europe-sales-elon-musk-backlash",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/05/tesla-cuts-model-3-price-europe-sales-elon-musk-backlash",
+      "section": "technology",
+      "publishedDate": "2025-12-05T10:55:10Z",
+      "trailText": "CEO Elon Musk says lower-cost electric car will reignite demand by appealing to broader range of buyers",
+      "summary": "Tesla has launched a lower-priced Model 3 Standard in Europe—priced at €37,970 in Germany, 330,056 NOK in Norway and 449,990 SEK in Sweden—to boost sales after demand weakened amid competition from BYD and a consumer backlash over Elon Musk’s political controversies, including his ties to Donald Trump and far-right figures. With some downgraded finishes but a 300-mile range, this follows the budget Model Y rollout. EU sales slump is exacerbated by new UK EV taxes and a slow November market, prompting calls to safeguard EV adoption.",
+      "summaryTokens": 493,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
+    {
+      "id": "technology/2025/dec/04/russia-snapchat-apple",
+      "title": "Russia blocks Snapchat and restricts Apple’s FaceTime, state officials say",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/04/russia-snapchat-apple",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/04/russia-snapchat-apple",
+      "section": "technology",
+      "publishedDate": "2025-12-04T20:46:07Z",
+      "trailText": "Latest effort to control communications comes as regulator claims apps being used to ‘conduct terrorist activities’",
+      "summary": "Roskomnadzor blocked Snapchat on October 10 and restricted Apple’s FaceTime, accusing both of facilitating terrorist recruitment, fraud and other crimes. The measures deepen Russia’s post-2022 internet clampdown, following curbs on YouTube, WhatsApp, Instagram, Telegram, Signal, Viber and Roblox. Authorities routinely throttle connections, block VPNs and enforce government-approved “white lists.” Simultaneously, they promote Max, a state-backed messenger lacking end-to-end encryption and sharing user data with security services. Experts warn any platform defying Russia’s “information organizer” laws faces swift blocking.",
+      "summaryTokens": 489,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
+    },
     {
       "id": "technology/2025/dec/04/google-ai-nano-banana-pro-racialised-white-saviour-images",
       "title": "Google’s AI Nano Banana Pro accused of generating racialised ‘white saviour’ visuals",
@@ -29,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2025-12-04T19:35:30Z",
       "trailText": "Research finds tool depicts white women surrounded by black children when prompted about humanitarian aid in Africa",
-      "summary": "Research shows Google's AI image generator Nano Banana Pro repeatedly produces images of a white woman volunteering with Black children in Africa when prompted about humanitarian aid, sometimes grafting charity logos like World Vision, Save the Children or Red Cross without prompting. Arsenii Alenichev at Antwerp's Institute of Tropical Medicine flagged these 'white saviour' biases and unlicensed logo insertions. World Vision and Save the Children deny authorising their branding. Google acknowledges guardrail gaps and says it's refining its safeguards. This incident highlights entrenched racial stereotypes and intellectual property issues in AI-generated imagery.",
-      "summaryTokens": 1632,
-      "generatedAt": "2025-12-05T03:54:50.726Z"
+      "summary": "Nano Banana Pro, Google’s latest AI image generator, repeatedly produced ‘white saviour’ scenes when prompted with humanitarian aid in Africa, depicting white volunteers surrounded by Black children amid rustic huts. Without user instruction, it overlaid real charity logos—World Vision, Save the Children, Doctors Without Borders and the Red Cross—prompting concern over copyright misuse. Researcher Arsenii Alenichev highlighted the tool’s reinforcement of stereotypes linking dark skin with poverty. NGOs criticized the unauthorized use of their branding and misrepresentation of their work. Google acknowledged that some prompts bypass guardrails and pledged ongoing refinement to mitigate bias and safeguard content generation.",
+      "summaryTokens": 365,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
     },
     {
       "id": "technology/2025/dec/04/chatbots-sway-political-opinions-substantially-inaccurate-study",
@@ -41,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2025-12-04T19:00:28Z",
       "trailText": "‘Information-dense’ AI responses are most persuasive but these tend to be less accurate, says security report",
-      "summary": "The UK AI Security Institute’s systematic study of nearly 80,000 British participants found that 19 AI models—including ChatGPT, Grok, Meta’s Llama 3 and Alibaba’s Qwen—could shift political opinions on issues like pay strikes and the cost-of-living crisis. Models tuned for high “information density” via post-training with reward models achieved the greatest persuasion but were significantly less accurate. Conversations averaged ten minutes and seven exchanges. Researchers warn that optimizing AI for persuasiveness may undercut truthfulness, posing risks for public discourse and potential manipulative campaigns.",
-      "summaryTokens": 356,
-      "generatedAt": "2025-12-05T03:54:50.726Z"
+      "summary": "UK AI Security Institute study with LSE, MIT, Oxford and Stanford researchers found chatbots can shift political opinions via “information-dense” responses, but these are substantially inaccurate. Involving 80,000 Brits and 19 models (e.g., ChatGPT, Grok, Llama 3, Qwen), users debated public sector pay, strikes and cost-of-living. Persuasion rose with post-training and reward models optimizing factual density, trading truthfulness for influence. Exchanges averaged 10-minute, seven-message dialogues. Personal data had limited effect. Study warns high-volume AI intel may outdo human persuaders, though real-world time constraints curb impact.",
+      "summaryTokens": 890,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
     },
     {
       "id": "technology/2025/dec/04/irish-authorities-asked-to-investigate-microsoft-over-alleged-unlawful-data-processing-by-idf",
@@ -53,9 +149,9 @@
       "section": "technology",
       "publishedDate": "2025-12-04T14:59:39Z",
       "trailText": "Move follows Guardian revelations of Israel’s mass surveillance of Palestinians using Microsoft cloud",
-      "summary": "The Irish Council for Civil Liberties has asked Ireland’s Data Protection Commission to investigate Microsoft for alleged GDPR breaches after the Guardian exposed that Israel’s Unit 8200 stored and analysed Palestinians’ phone calls on Microsoft Azure. ICCL argues the cloud service powered the ‘Al Minasseq’ mass surveillance system, facilitating targeted airstrikes and war crimes, and that Microsoft moved intercepted data out of EU servers to conceal unlawful processing. The DPC has confirmed receipt of the complaint; Microsoft has launched an external review and revoked some Unit 8200 access.",
-      "summaryTokens": 548,
-      "generatedAt": "2025-12-05T03:54:50.726Z"
+      "summary": "The Irish Council for Civil Liberties has asked Ireland’s Data Protection Commission to investigate Microsoft over alleged unlawful data processing by the Israeli military’s Unit 8200, after Guardian reports revealed millions of Palestinians’ phone calls were stored on Azure. ICCL accuses Microsoft of facilitating war crimes, crimes against humanity and genocide by enabling mass surveillance and targeted operations, and of breaching GDPR by moving intercepted calls from EU servers to Israel. Microsoft opened an external inquiry and revoked some IDF cloud access; the DPC has confirmed receipt of the complaint and ICCL warns services \"enabled real-world violence.\"",
+      "summaryTokens": 747,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
     },
     {
       "id": "technology/2025/dec/04/hyperverse-bitcoin-rodney-us-court-australian-sam-lee-ntwnfb",
@@ -65,9 +161,9 @@
       "section": "technology",
       "publishedDate": "2025-12-04T14:00:23Z",
       "trailText": "Rodney Burton says in Maryland district court memorandum he acted in good faith when promoting scheme that allegedly defrauded investors of US$1.89bn, but Lee calls claims ‘baseless’",
-      "summary": "Promoter Rodney Burton (“Bitcoin Rodney”) moved in Maryland court to challenge his detention and seek dismissal of US criminal charges tied to the alleged $1.89bn HyperVerse Ponzi, arguing Australian co-founder Sam Lee orchestrated an “elaborate deception” through seemingly legitimate Hong Kong and Dubai offices that duped even a diligent investigator. Lee, facing parallel DOJ fraud charges and an SEC civil suit, denies wrongdoing and claims his involvement was limited to tech provision. Burton’s trial is set for March 2026; Lee’s civil case is stayed pending the outcome of criminal proceedings.",
-      "summaryTokens": 684,
-      "generatedAt": "2025-12-05T03:54:50.726Z"
+      "summary": "In a Maryland court filing, Rodney Burton (‘Bitcoin Rodney’), accused in the $3bn HyperVerse Ponzi scheme that allegedly defrauded investors of $1.89bn, argues he was duped by Australian Sam Lee’s elaborate corporate deception. Burton’s lawyers say he performed due diligence—traveling to HyperFund’s Hong Kong and Dubai offices—and acted in good faith, urging release from 22 months’ pretrial detention and dismissal of charges in light of Trump’s pro-crypto stance. Lee, facing criminal and SEC civil charges, denies orchestrating fraud, insists his role was limited to tech provision, and calls Burton’s claims baseless. ASIC has opened inquiries into Lee’s associates. Burton’s trial begins March 2026.",
+      "summaryTokens": 1098,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
     },
     {
       "id": "technology/2025/dec/04/nevada-ai-data-centers",
@@ -77,9 +173,9 @@
       "section": "technology",
       "publishedDate": "2025-12-04T12:00:19Z",
       "trailText": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters",
-      "summary": "Nevada’s Tahoe-Reno Industrial Center, a former gold rush region spanning 160 sq miles, is transforming into the US’s largest AI datacenter hub as Switch, Microsoft (with OpenAI), Google, Amazon, Apple, Meta, Oracle and others race to build facilities. Fueled by venture capital, AI infrastructure spending may hit $7 trn by 2030. These hyperscale centers demand colossal power (often gas-backed) and water for cooling in arid Storey County, jeopardizing limited groundwater and Pyramid Lake Paiute resources despite a $100 m reclaimed-water project. Tribes warn of ecological strain amid rapid tech expansion.",
-      "summaryTokens": 877,
-      "generatedAt": "2025-12-05T03:54:50.726Z"
+      "summary": "In Nevada’s Storey county—once a 19th-century gold rush boomtown—the Tahoe-Reno Industrial Center has become the US’s largest AI datacenter park, hosting Switch’s Citadel, Google, Microsoft/OpenAI, Amazon/Anthropic, Apple and Tesla. Fueled by hundreds of billions in VC funding and projected global AI datacenter spending of $7 trn by 2030, this high-desert “tech city” relies on fast-track permitting but strains scarce water and power. Evaporative cooling, natural-gas generators and new renewables fight arid conditions that worry the Pyramid Lake Paiute tribe over over-allocated groundwater, while reclaimed-water pipelines and green financing partly mitigate impacts.",
+      "summaryTokens": 506,
+      "generatedAt": "2025-12-06T03:41:59.747Z"
     },
     {
       "id": "technology/2025/dec/04/australians-wrongful-social-media-account-closures",
