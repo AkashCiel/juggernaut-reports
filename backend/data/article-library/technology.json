@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-06T03:41:59.984Z",
+    "generated_at": "2025-12-07T03:41:22.299Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-05"
+      "to": "2025-12-06"
     },
-    "article_count": 253,
+    "article_count": 254,
     "merge_info": {
-      "previous_count": 245,
-      "new_articles": 8,
-      "updated_articles": 5,
-      "total_count": 253
+      "previous_count": 253,
+      "new_articles": 1,
+      "updated_articles": 7,
+      "total_count": 254
     },
     "batch_info": {
-      "initial_batch_id": "batch_6933a5a4f9388190b298e6f0b749b46d",
+      "initial_batch_id": "batch_6934f70ade288190be82051a26f7f4cf",
       "retry_batches": [],
-      "total_tokens": 25451,
+      "total_tokens": 17701,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/06/ai-research-papers",
+      "title": "Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/06/ai-research-papers",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/06/ai-research-papers",
+      "section": "technology",
+      "publishedDate": "2025-12-06T15:00:55Z",
+      "trailText": "AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’",
+      "summary": "At NeurIPS this week, UC Berkeley undergrad-turned-mentor Kevin Zhu will present 89 of the 113 AI research papers he oversaw this year, raising alarms about peer-review standards and academic pressures. Zhu’s company, Algoverse, charges high-schoolers $3,325 for a 12-week research mentorship, producing papers on topics from healthcare to linguistics with minimal expert input and AI copy-editing. Critics like Berkeley professor Hany Farid decry this 'slop flood' of low-quality, possibly AI-generated work, driven by a publication frenzy at top AI conferences overwhelmed by surging submissions. NeurIPS and ICLR submissions have soared past 20,000 annually, straining volunteer review processes and prompting suspicions of AI-generated 'vibe coded' papers.",
+      "summaryTokens": 1553,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
+    },
     {
       "id": "technology/2025/dec/05/another-cloudflare-outage-takes-down-websites-linkedin-zoom",
       "title": "Cloudflare apologises after latest outage takes down LinkedIn and Zoom",
@@ -29,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-12-05T18:55:03Z",
       "trailText": "Web infrastructure provider says problem lasted half an hour and was not an attack, weeks after larger outage",
-      "summary": "Cloudflare apologized after a half-hour outage on Dec 5 disrupted 28% of its traffic, bringing down LinkedIn, Zoom, Canva, Shopify and Downdetector. The incident—caused by a firewall adjustment to patch a software vulnerability, not an attack—follows a larger mid-November outage. Experts say this recurrence underscores the risks of internet centralization and challenges Cloudflare’s reliability claims. The company, used by about 20% of all websites and serving 300,000 customers, will publish plans next week to prevent future failures.",
-      "summaryTokens": 479,
-      "generatedAt": "2025-12-06T03:41:59.747Z"
+      "summary": "Cloudflare apologised after a 30-minute outage on Dec 5 disrupted LinkedIn, Zoom, Canva, Shopify, Groww and Downdetector, impacting 28% of its traffic. The glitch—caused by a firewall tweak addressing a software vulnerability—was not an attack. A mid-November outage was blamed on an oversized auto-generated threat-traffic config file that crashed its systems. Cloudflare said it will detail fixes next week. Experts warn recurring outages underscore risks in centralised internet infrastructure despite Cloudflare’s reliability claims. The firm serves 20% of websites and 300,000 customers, blocking billions of daily attacks.",
+      "summaryTokens": 1141,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
     },
     {
       "id": "technology/2025/dec/05/urgent-clarity-sought-over-racial-bias-in-uk-police-facial-recognition-technology",
@@ -41,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-12-05T18:28:01Z",
       "trailText": "Testing showing racial bias against black and Asian people prompts watchdog to ask Home Office for explanation",
-      "summary": "The Information Commissioner’s Office has asked the Home Office for urgent clarity after National Physical Laboratory tests revealed UK police retrospective facial recognition technology misidentifies black (5.5%) and Asian (4.0%) subjects far more than white subjects (0.04%), with black women facing a 9.9% false positive rate. The ICO warned it may issue enforcement orders or fines and work with the Home Office and police to mitigate bias. Police commissioners urge caution over national expansion. The Home Office says it has procured a new, statistically unbiased algorithm and asked the police inspectorate and forensic science regulator to assess mitigations.",
-      "summaryTokens": 562,
-      "generatedAt": "2025-12-06T03:41:59.747Z"
+      "summary": "The UK Information Commissioner’s Office has demanded urgent clarity from the Home Office after National Physical Laboratory tests revealed that police facial recognition matched black and Asian subjects far more often incorrectly than white ones. At standard settings, false positive rates were 0.04% for white subjects versus 4.0% for Asian and 5.5% for black subjects (peaking at 9.9% for black women). The ICO warned of possible enforcement measures—binding orders or fines—and urged improvements before any national rollout. The Home Office says it is testing a new unbiased algorithm and has invited the police inspectorate and forensic science regulator to review mitigations.",
+      "summaryTokens": 631,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
     },
     {
       "id": "technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit",
@@ -53,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-12-05T18:19:12Z",
       "trailText": "Perplexity AI also faces lawsuit from Murdoch-owned Dow Jones and New York Post for its use of copyrighted content",
-      "summary": "New York Times has sued AI startup Perplexity AI for allegedly copying and displaying millions of paywalled articles without permission, misusing its trademarks by pairing them with AI-generated \"hallucinations,\" and infringing copyrights under the Lanham Act. The lawsuit, the latest salvo in a bitter dispute over unauthorized use of content, joins similar claims from Dow Jones, New York Post, Cloudflare, Forbes, Wired, Tribune, Merriam-Webster, Britannica, Reddit and Amazon, accusing Perplexity of unauthorized web scraping to train its generative AI. Perplexity has raised $1.5 billion, including a $200 million round valuing it at $20 billion.",
-      "summaryTokens": 1723,
-      "generatedAt": "2025-12-06T03:41:59.747Z"
+      "summary": "New York Times sued AI startup Perplexity AI on December 5, alleging the firm ‘illegally’ scraped and copied millions of articles—including paywalled content—to power its generative AI, displaying trademarked NYT logos beside fabricated ‘hallucinations’ falsely attributed to the paper. The complaint invokes Lanham Act trademark claims and joins similar litigation from Dow Jones and the New York Post, Forbes, Wired, Chicago Tribune, Merriam-Webster and Britannica over unauthorized web scraping. Earlier this year Cloudflare, Reddit and Amazon also sued Perplexity over covert crawling, data scraping and account access. Valued at $20bn after $1.5bn in funding from Nvidia, Bezos and others, Perplexity denies allegations.",
+      "summaryTokens": 1095,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
     },
     {
       "id": "technology/2025/dec/05/i-spent-hours-listening-to-sabrina-carpenter-this-year-so-why-do-i-have-a-spotify-listening-age-of-86",
@@ -65,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-05T15:07:00Z",
       "trailText": "Many users of the app were shocked, this week, by this addition to the Spotify Wrapped roundup – especially twentysomethings who were judged to be 100",
-      "summary": "After accruing 4,863 minutes on Spotify Wrapped, a 44-year-old user learned her ‘listening age’ was pegged at 86, despite top artists—Sabrina Carpenter, Olivia Dean and Chappell Roan—being under 30 and most tracks released in the last five years. Spotify’s new metric uses a ‘reminiscence bump’ algorithm to match a listener’s most-engaged five-year release window to peers’ formative years. Branded playful ‘rage bait’, it generated 500 million shares in 24 hours. Outraged users flooded social media; the author now plans to lean in by spinning Ella Fitzgerald on vinyl.",
-      "summaryTokens": 714,
-      "generatedAt": "2025-12-06T03:41:59.747Z"
+      "summary": "In this Spotify Wrapped review, a 44-year-old fan of 26-year-old Sabrina Carpenter learns her new “listening age” is 86—a metric Spotify introduced to gamify user habits by mapping track release dates to a listener’s ‘reminiscence bump.’ Despite 4,863 minutes of streaming modern pop (722 minutes of Carpenter, top 3% global fan) and 80% of her top 50 songs released in the last five years, Spotify flagged her taste as ’late-50s.’ The cheeky classification sparked widespread ‘rage bait’ outrage online (500 million shares in 24 hours), revealing how personalised algorithms drive engagement.",
+      "summaryTokens": 391,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
     },
     {
       "id": "technology/2025/dec/05/elon-musk-x-fined-eu-first-clash-under-new-digital-laws",
@@ -77,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-05T11:25:42Z",
       "trailText": "Ruling could put European Commission on collision course with billionaire, and possibly Donald Trump",
-      "summary": "The European Commission has fined Elon Musk’s X €120 million for breaching the Digital Services Act’s transparency rules—the first enforcement under the 2023 law. X was penalized €45 million for offering deceptive paid blue ticks, €35 million for opaque ad disclosures and €40 million for failing to grant researchers access to public data. With further probes into content moderation, algorithmic promotion and illegal content reporting ongoing, X faces up to 6 percent of global revenue in penalties. Musk and US allies denounce the ruling as anti–free speech, and X has 90 days to propose remedies or appeal.",
-      "summaryTokens": 558,
-      "generatedAt": "2025-12-06T03:41:59.747Z"
+      "summary": "Under the EU’s Digital Services Act, regulators slapped Elon Musk’s X with a €120m “first-of-its-kind” penalty for deceptive paid blue ticks, opaque advertising practices and obstructing researcher access to public data. The ruling—X’s first DSA breach decision—could spark clashes with Musk, Trump allies and Washington, as the platform faces further probes on illegal content and algorithmic amplification. X has 90 days to submit a compliance plan or appeal, with fines up to 6% of global revenues.",
+      "summaryTokens": 1240,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
     },
     {
       "id": "technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
@@ -89,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-12-05T11:11:18Z",
       "trailText": "Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings",
-      "summary": "Home Office admits tests by the National Physical Laboratory reveal retrospective facial recognition on the police national database yields false positives of 5.5% for Black subjects and 4.0% for Asian subjects versus 0.04% for white, with Black women at 9.9% and Black men at 0.4%. Police and crime commissioners warn of systemic bias and urge stronger safeguards. Government launches a 10-week consultation to expand use to passport and driving-licence databases. Campaigners and ex-ministers demand a halt until robust oversight is in place. Home Office says it has procured an unbiased algorithm and invited independent review.",
-      "summaryTokens": 561,
-      "generatedAt": "2025-12-06T03:41:59.747Z"
+      "summary": "Following National Physical Laboratory tests, the Home Office conceded its police facial recognition tool misidentifies black (5.5%) and Asian (4.0%) subjects far more often than whites (0.04%), surging to 9.9% false positives for black women. The Association of Police and Crime Commissioners decried an ‘inbuilt bias’ and lack of early disclosure to affected communities. Campaigners from Liberty and former minister David Davis demanded a halt to national FRT expansion pending transparency and safeguards. Government ministers defended manual visual checks, announced deployment of a re-tested, bias-free algorithm, and launched a 10-week public consultation on broader database access. Officials are developing a national system to house millions of images and extend searches across police, passport and driving-licence databases.",
+      "summaryTokens": 1947,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
     },
     {
       "id": "technology/2025/dec/05/tesla-cuts-model-3-price-europe-sales-elon-musk-backlash",
@@ -101,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2025-12-05T10:55:10Z",
       "trailText": "CEO Elon Musk says lower-cost electric car will reignite demand by appealing to broader range of buyers",
-      "summary": "Tesla has launched a lower-priced Model 3 Standard in Europe—priced at €37,970 in Germany, 330,056 NOK in Norway and 449,990 SEK in Sweden—to boost sales after demand weakened amid competition from BYD and a consumer backlash over Elon Musk’s political controversies, including his ties to Donald Trump and far-right figures. With some downgraded finishes but a 300-mile range, this follows the budget Model Y rollout. EU sales slump is exacerbated by new UK EV taxes and a slow November market, prompting calls to safeguard EV adoption.",
-      "summaryTokens": 493,
-      "generatedAt": "2025-12-06T03:41:59.747Z"
+      "summary": "Tesla has rolled out its lower-priced Model 3 Standard in Europe—starting at €37,970 in Germany, 330,056 NOK in Norway and 449,990 SEK in Sweden—to reignite demand amid slumping sales, rising competition from BYD and consumer backlash over Elon Musk’s political controversies. The pared-back version, launched in the US in October, retains a 300+ mile range but omits some premium features. European EV sales have weakened amid Musk’s Trump ties, alleged far-right endorsements and new UK EV taxes, prompting industry warnings that EV adoption cannot be assumed.",
+      "summaryTokens": 627,
+      "generatedAt": "2025-12-07T03:41:22.006Z"
     },
     {
       "id": "technology/2025/dec/04/russia-snapchat-apple",
