@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2025-12-06T03:28:46.074Z",
+    "generated_at": "2025-12-07T03:32:10.967Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-05"
+      "to": "2025-12-06"
     },
-    "article_count": 173,
+    "article_count": 174,
     "merge_info": {
-      "previous_count": 170,
-      "new_articles": 3,
-      "updated_articles": 2,
-      "total_count": 173
+      "previous_count": 173,
+      "new_articles": 1,
+      "updated_articles": 3,
+      "total_count": 174
     },
     "batch_info": {
-      "initial_batch_id": "batch_6933a215571881909506c207131b4bf9",
+      "initial_batch_id": "batch_6934f48e39c88190a9f83f8d53b147ce",
       "retry_batches": [],
-      "total_tokens": 12882,
-      "processing_time_hours": 0.1
+      "total_tokens": 7293,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "media/2025/dec/06/warner-bros-discovery-netflix-deal",
+      "title": "Warner Bros Disaster? Netflix inks deal for troubled Hollywood giant",
+      "webUrl": "https://www.theguardian.com/media/2025/dec/06/warner-bros-discovery-netflix-deal",
+      "apiUrl": "https://content.guardianapis.com/media/2025/dec/06/warner-bros-discovery-netflix-deal",
+      "section": "media",
+      "publishedDate": "2025-12-06T11:00:51Z",
+      "trailText": "David Zaslav, CEO of Warner Bros Discovery, promised ‘everyone’ would win by combining the storied Hollywood studios with his reality TV giant. Instead, many lost",
+      "summary": "David Zaslav’s 2021 merger of Discovery and WarnerMedia into Warner Bros Discovery promised value for studios, shareholders and viewers but delivered cost cuts, box-office struggles, a muddled streaming service and steep share declines—while Zaslav earned $51.9m last year. Now Netflix has stepped in with an $82.7bn bid for Warner Bros and HBO, pledging “more choice, more opportunities, more value.” As the upstart turned global giant acquires iconic franchises, Hollywood watches to see if this latest takeover finally succeeds.",
+      "summaryTokens": 474,
+      "generatedAt": "2025-12-07T03:32:10.728Z"
+    },
     {
       "id": "media/2025/dec/05/vanity-fair-olivia-nuzzi-rfk-jr",
       "title": "Vanity Fair and Olivia Nuzzi part ways amid scandal over RFK Jr relationship",
@@ -29,9 +41,9 @@
       "section": "media",
       "publishedDate": "2025-12-05T21:35:51Z",
       "trailText": "‘Mutual’ decision follows controversy over relationship with presidential candidate and claims of ethical breaches",
-      "summary": "Vanity Fair and Olivia Nuzzi mutually agreed to let her west coast editor contract expire at the end of 2025 after her former fiancé, journalist Ryan Lizza, alleged she underplayed her involvement with Robert F. Kennedy Jr.’s presidential campaign and had undisclosed relationships, including with former South Carolina governor Mark Sanford, whom she covered. Condé Nast reviewed the matter internally before opting not to renew her short-term deal. Nuzzi’s memoir American Canto, and its Vanity Fair excerpt, received negative reviews. Admitting she violated ethics rules, Nuzzi said she’ll step away from campaign reporting.",
-      "summaryTokens": 1574,
-      "generatedAt": "2025-12-06T03:28:45.850Z"
+      "summary": "Vanity Fair announced it will let west coast editor Olivia Nuzzi’s contract expire at year-end, citing a mutual decision after allegations of journalistic and ethical breaches surfaced. Nuzzi’s ex-fiancé, journalist Ryan Lizza, accused her of undisclosed ties to Robert F. Kennedy Jr.’s presidential campaign and an undisclosed affair with former South Carolina governor Mark Sanford while covering him. The magazine conducted an internal review amid staff concern and limited commentary. Nuzzi’s memoir, American Canto, received mixed reviews, and she has acknowledged violating ethics rules and plans to avoid campaign reporting moving forward.",
+      "summaryTokens": 932,
+      "generatedAt": "2025-12-07T03:32:10.728Z"
     },
     {
       "id": "business/2025/dec/05/netflix-frontrunner-warner-bros-discovery-streaming-and-studio-sale",
@@ -41,9 +53,9 @@
       "section": "media",
       "publishedDate": "2025-12-05T15:23:39Z",
       "trailText": "Streaming service to gain control of studio behind Harry Potter and Batman, as well as HBO, home to The White Lotus and Game of Thrones",
-      "summary": "Netflix has struck an $82.7bn cash deal to acquire Warner Bros Discovery’s studio and streaming arm, taking control of Warner Bros (Harry Potter, Batman, Superman), HBO (Game of Thrones, Succession) and key TV archives (Friends, Big Bang Theory). WBD’s cable networks (CNN, TBS, TNT) will spin off ahead of closing, though Netflix keeps TNT Sports UK. The agreement includes $5.8bn/2.8bn breakup fees, projected $2–3bn annual savings, and faces intense regulatory scrutiny amid rival bids from Paramount Skydance and Comcast.",
-      "summaryTokens": 1003,
-      "generatedAt": "2025-12-06T03:28:45.850Z"
+      "summary": "Netflix has agreed to acquire Warner Bros Discovery for $82.7bn in cash, valuing WBD’s studio and streaming assets—including Warner Bros franchises (Harry Potter, Batman, Superman), HBO series (Game of Thrones, Succession, The White Lotus), library titles (Friends, The Big Bang Theory) and UK/Ireland TNT Sports—for a combined streaming-studio powerhouse. Excluding debt, the deal values WBD at $72bn and will close after spinning off cable channels (CNN, TBS, TNT). Breakup fees of $5.8bn (Netflix) and $2.8bn (WBD) apply. Netflix projects $2–3bn annual savings by year three but faces intense regulatory scrutiny over competition and pricing power.",
+      "summaryTokens": 595,
+      "generatedAt": "2025-12-07T03:32:10.728Z"
     },
     {
       "id": "media/2025/dec/05/olivia-nuzzi-vanity-fair",
@@ -53,9 +65,9 @@
       "section": "media",
       "publishedDate": "2025-12-05T12:00:22Z",
       "trailText": "Nuzzi is on a temporary contract that ends this month – but it remains unclear whether she’s staying after former fiance Ryan Lizza’s exposés about her",
-      "summary": "After her controversial exit from New York Magazine over an undisclosed romance with RFK Jr., Olivia Nuzzi was hired on a temporary West Coast editor contract at Vanity Fair under new global editorial director Mark Guiducci. Her future is uncertain as former fiancé Ryan Lizza has published multiple exposés alleging journalistic transgressions—undisclosed affair with ex-Gov. Mark Sanford, ‘catch-and-kill’ work for Kennedy, and breaches of source confidentiality. Vanity Fair has stayed silent while reviewing her contract expiring year-end. Nuzzi has publicly apologized for ethics lapses, denied Lizza’s characterizations and faces potential fallout for Guiducci’s hiring choices, as more revelations loom.",
-      "summaryTokens": 824,
-      "generatedAt": "2025-12-06T03:28:45.850Z"
+      "summary": "Under Mark Guiducci Vanity Fair hired political writer Olivia Nuzzi as a west-coast editor on a temporary contract ending this year. Her future is in doubt after ex-fiancé Ryan Lizza published multiple exposés alleging conflicts including her relationship with RFK Jr, an affair with Mark Sanford and ‘catch-and-kill’ breaches of source trust. Vanity Fair has issued only a brief statement and declined to comment on its ongoing review. Observers warn Guiducci’s aggressive talent strategy risks brand integrity. Nuzzi, who acknowledges ethical lapses, has not confirmed contract renewal.",
+      "summaryTokens": 934,
+      "generatedAt": "2025-12-07T03:32:10.728Z"
     },
     {
       "id": "media/commentisfree/2025/dec/05/daily-telegraph-sydney-power-100-list-sharri-markson-news-corp-abc-hugh-marks-coalition-senate-estimates",
