@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-06T03:33:25.094Z",
+    "generated_at": "2025-12-07T03:34:49.704Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-05"
+      "to": "2025-12-06"
     },
-    "article_count": 150,
+    "article_count": 151,
     "merge_info": {
-      "previous_count": 148,
-      "new_articles": 2,
-      "updated_articles": 5,
-      "total_count": 150
+      "previous_count": 150,
+      "new_articles": 1,
+      "updated_articles": 3,
+      "total_count": 151
     },
     "batch_info": {
-      "initial_batch_id": "batch_6933a38278148190b88136df5aec6da9",
+      "initial_batch_id": "batch_6934f58d13588190a1fa522ba56d63fc",
       "retry_batches": [],
-      "total_tokens": 12506,
+      "total_tokens": 6537,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/06/dont-say-we-didnt-warn-you-beijing-summons-journalists-in-hong-kong-after-fire",
+      "title": "‘Don’t say we didn’t warn you’: Hong Kong foreign media told not to cause trouble after fire",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/06/dont-say-we-didnt-warn-you-beijing-summons-journalists-in-hong-kong-after-fire",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/06/dont-say-we-didnt-warn-you-beijing-summons-journalists-in-hong-kong-after-fire",
+      "section": "news",
+      "publishedDate": "2025-12-06T16:24:30Z",
+      "trailText": "Beijing security agency accuses international journalists of disregarding facts and smearing government",
+      "summary": "Beijing’s Office for Safeguarding National Security (OSNS) summoned senior reporters from foreign outlets including the New York Times and Agence France-Presse after critical coverage of Hong Kong’s deadly November 26 fire at the Wang Fuk Court complex that killed at least 159 people. The OSNS accused international media of “disregarding facts,” distorting government disaster relief, and collaborating with “anti-China” forces, warning journalists not to cross legal red lines and threatening to crack down on “trouble-making” coverage ahead of Sunday’s legislative election.",
+      "summaryTokens": 810,
+      "generatedAt": "2025-12-07T03:34:49.477Z"
+    },
     {
       "id": "news/2025/dec/05/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-12-05T21:00:33Z",
       "trailText": "Summit location | Weirdos Book Club | Fools Gold",
-      "summary": "On 5 Dec 2025, The Guardian corrects: a 29 Nov peace-talks story misnamed Budapest as Bucharest for Trump’s Putin summit; Weirdos Book Club co-host is Sara Pascoe, not Rachel Parris; and “Fools Gold” was a standalone Stone Roses single, not on their debut album. It also notes other recent corrections across topics from billionaire inheritance stats to EV range tests. Readers can submit corrections via guardian.readers@theguardian.com or to the Readers’ editor, Kings Place, London N1 9GU.",
-      "summaryTokens": 1052,
-      "generatedAt": "2025-12-06T03:33:24.865Z"
+      "summary": "The Guardian issues corrections: the peace talks story wrongly stated Trump planned a Putin summit in Bucharest, it’s Budapest; Weirdos Book Club co-host is Sara Pascoe, not Rachel Parris; and the Stone Roses single “Fools Gold” was a standalone release, not on their debut album. It also lists recent fixes on wealth inheritance, UBS report on Swiss gold and Rolex gifts to Trump, fashion’s sheer skirts, Booker T & the MGs guitarist Steve Cropper’s death, EV range tests in Australia, a review of mental health claim processes, and the bird theory relationship feature. Contact readers’ editor for further corrections.",
+      "summaryTokens": 936,
+      "generatedAt": "2025-12-07T03:34:49.477Z"
     },
     {
       "id": "news/2025/dec/05/weather-watch-everyday-phrases-nautical-expressions-wind-language",
@@ -41,9 +53,9 @@
       "section": "news",
       "publishedDate": "2025-12-05T06:00:42Z",
       "trailText": "From ‘all at sea’ to ‘by and large’, windy weather has had quite an impact on the English language",
-      "summary": "Many common English idioms—from “all at sea” and “even keel” to wind-related terms—originate in nautical usage. “Overbearing” once described a ship gaining advantage by carrying extra sail; “bear down” meant to approach under wind; “veering” (clockwise shift) and “backing” (anticlockwise) referred to wind direction; “by and large” combined sailing close to and away from the wind, now meaning “in general.” These amphibious phrases have left their maritime roots behind and become ingrained in everyday speech.",
-      "summaryTokens": 737,
-      "generatedAt": "2025-12-06T03:33:24.865Z"
+      "summary": "This article traces how maritime wind jargon became everyday English. Familiar terms like “all at sea” and “even keel” have clear nautical roots, but lesser-known expressions began as sailor shorthand for wind tactics: “overbearing” described a ship with superior sail area, “bear down” meant to approach with the wind behind, and “veering” (clockwise shift) versus “backing” (anticlockwise) came from French virer. “By and large” originally referred to alternating between sailing close-hauled and downwind, now meaning generally. These idioms have seamlessly crossed from ship decks into common speech.",
+      "summaryTokens": 494,
+      "generatedAt": "2025-12-07T03:34:49.477Z"
     },
     {
       "id": "news/2025/dec/05/the-crunch-voting-in-victoria-gambling-in-a-crypto-casino-and-the-sex-lives-of-gen-z",
@@ -53,9 +65,9 @@
       "section": "news",
       "publishedDate": "2025-12-05T00:56:11Z",
       "trailText": "Victoria is the last state still using group voting tickets to elect its upper house – and now there are calls to abolish them",
-      "summary": "A parliamentary committee has urged Victoria to scrap group voting tickets in electing its upper house, replacing them with fairer voting options. ABC charts reveal a man lost over US$180k in crypto gambling—including US$40k in eight days—highlighting risks of runaway losses. Reuters visualizes how 100,000 more California homes shifted to state-backed insurers between 2020 and 2023 as natural disasters escalate. JP Morgan data warn the tech industry needs an extra US$650 bn in annual revenue just to achieve 10% returns on AI investments. Works in Progress quantifies distribution shifts in English readability, while Mona Chalabi’s graphics dissect Gen Z’s sexual habits, from casual encounters to monogamy and political implications.",
-      "summaryTokens": 2723,
-      "generatedAt": "2025-12-06T03:33:24.865Z"
+      "summary": "The Crunch this week examines Victoria’s group voting tickets – with the electoral matters committee urging their abolition and new ballot reforms – alongside ABC’s account of a gambler losing over US$180k in a crypto casino. It highlights Reuters’ visual story on how climate-driven disasters have pushed 100,000 more California homes into non-profit ‘last resort’ insurers, JP Morgan’s finding that tech must generate an extra US$650bn/year for 10% AI returns, a distribution-focused analysis of English readability, and Mona Chalabi’s data-rich charts on American Gen Z’s sex lives from hookups to monogamy and the politics of intimacy.",
+      "summaryTokens": 1593,
+      "generatedAt": "2025-12-07T03:34:49.477Z"
     },
     {
       "id": "news/2025/dec/04/corrections-and-clarifications",
