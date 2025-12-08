@@ -1,26 +1,218 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-07T03:44:44.824Z",
+    "generated_at": "2025-12-08T03:36:12.250Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-07"
+      "to": "2025-12-08"
     },
-    "article_count": 1624,
+    "article_count": 1639,
     "merge_info": {
-      "previous_count": 1611,
-      "new_articles": 13,
-      "updated_articles": 31,
-      "total_count": 1624
+      "previous_count": 1624,
+      "new_articles": 15,
+      "updated_articles": 14,
+      "total_count": 1639
     },
     "batch_info": {
-      "initial_batch_id": "batch_6934f76a9dd48190b89ba188611388d0",
+      "initial_batch_id": "batch_693646fd7d988190831b550da949aadd",
       "retry_batches": [],
-      "total_tokens": 92994,
-      "processing_time_hours": 0.1
+      "total_tokens": 64661,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/08/trump-administration-news-update-today-latest",
+      "title": "Trump news at a glance: Key Republican backs release of video of strike on alleged drug boat",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/trump-administration-news-update-today-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/trump-administration-news-update-today-latest",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T00:48:26Z",
+      "trailText": "Democrats are pushing the Trump administration to release the video of a second strike on the drug boat which was incapacitated in the Caribbean. Key US politics stories from 7 December 2025",
+      "summary": "On Dec 7, Democrats demanded the Trump administration declassify video of a US Navy strike on an alleged Caribbean drug boat that killed two survivors of an initial attack, raising war-crimes allegations after 11 deaths. GOP backer Sen. Tom Cotton and President Trump said they’d support release, while the Pentagon reviews potential risks. Defense Secretary Pete Hegseth denied ordering a “kill them all” directive. In related headlines, the Kremlin praised Trump’s new security strategy; Donald Trump Jr. signaled a possible halt to Ukraine aid; Trump criticized Rep. Henry Cuellar; a judge limited Comey-case evidence; and Rep. Ilhan Omar condemned anti-Somali remarks.",
+      "summaryTokens": 822,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/congress-republicans-tease-trump-marjorie-taylor-greene",
+      "title": "Republicans in Congress mocked Trump privately, Marjorie Taylor Greene says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/congress-republicans-tease-trump-marjorie-taylor-greene",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/congress-republicans-tease-trump-marjorie-taylor-greene",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T00:12:13Z",
+      "trailText": "Georgia lawmaker says colleagues who made fun of president before 2024 win now support him out of fear",
+      "summary": "In a CBS 60 Minutes interview, outgoing Rep. Marjorie Taylor Greene said many GOP colleagues privately mocked President Trump’s mannerisms and her early support, then publicly embraced him with MAGA hats after he won the 2024 nomination. She, who leaves Congress in January after breaking with Trump over his handling of Jeffrey Epstein case files, has reported hundreds of threats to Capitol Police—including against her and her son—initially from the left, later from the right after Trump labeled her a “traitor.” Greene says Republicans fear his Truth Social reprisals.",
+      "summaryTokens": 801,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/ilhan-omar-trump-anti-somali-tirade-disgusting",
+      "title": "Ilhan Omar says Trump’s anti-Somali tirade ‘completely disgusting’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/ilhan-omar-trump-anti-somali-tirade-disgusting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/ilhan-omar-trump-anti-somali-tirade-disgusting",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T21:35:11Z",
+      "trailText": "Minnesota congresswoman says ‘hateful rhetoric’ can lead to ‘dangerous actions by people who listen to the president’",
+      "summary": "On CBS’s Face the Nation Minn. Rep. Ilhan Omar condemned President Trump’s cabinet-meeting remarks calling her Somali-American constituents 'garbage' and urging their deportation, warning that such dehumanizing rhetoric can spur violence. She defended her district, highlighted recent fraud prosecutions—denying any terrorism links and returning related campaign donations—and pointed to the administration’s Somali immigration curbs. Minneapolis’s mayor barred using city facilities for enforcement. In a New York Times op-ed, she accused Trump of stoking bigotry to mask failed economic promises and endorsed bipartisan fraud probes.",
+      "summaryTokens": 1829,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/democrats-trump-caribbean-drug-boat-strike-video",
+      "title": "Democrats urge Pentagon to release video of strike on alleged drug boat",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/democrats-trump-caribbean-drug-boat-strike-video",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/democrats-trump-caribbean-drug-boat-strike-video",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T20:08:00Z",
+      "trailText": "Trump team faces mounting pressure as members of Congress allege that the deadly attack was unlawful",
+      "summary": "US Democrats, including Senators Adam Schiff and Representatives Jim Himes and Adam Smith, are demanding the Pentagon release a Sept. 2 video of a Caribbean drug-boat strike that killed 11 people, two of whom were shot while clinging to capsized wreckage for an hour. The footage could confirm allegations that Defense Secretary Pete Hegseth ordered “kill them all.” President Trump says he has no objection, but Hegseth cites sensitivity and legal review; experts call the strike’s legality shaky. GOP Sen. Tom Cotton supports declassification and defends the operation.",
+      "summaryTokens": 940,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/georgia-veteran-detained-ice",
+      "title": "Detained Georgia veteran deserves to stay in US after serving country, fiancee says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/georgia-veteran-detained-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/georgia-veteran-detained-ice",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T20:00:30Z",
+      "trailText": "Godfrey Wade’s case is emblematic of rising number of non-US citizen veterans swept up by ICE under Trump’s immigration policies",
+      "summary": "Jamaican-born, decorated US Army veteran Godfrey Wade, 65, has been held since September in CoreCivic-run Stewart Detention Center in Georgia after an ICE arrest for driving without a license—highlighting Trump’s second-term policy of deporting noncitizen veterans. His fiancée, April Watkins, and six children, backed by a GoFundMe campaign, decry his detention and urge congressional action. Advocates cite KENS5 reports of medical neglect and recent suicides at Stewart, one of the largest immigration jails. Biden-era directives protecting foreign-born service members were rescinded under Trump, spurring a House inquiry into 10,000+ deported veterans and raising alarm over a VA data-sharing plan.",
+      "summaryTokens": 1340,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/06/hegseth-boat-strikes",
+      "title": "Hegseth gives defiant speech defending ‘drug boat’ strikes amid scrutiny",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/06/hegseth-boat-strikes",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/06/hegseth-boat-strikes",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T16:13:52Z",
+      "trailText": "At event in California, US defense secretary says Trump has power to take military action ‘as he sees fit’",
+      "summary": "Defense Secretary Pete Hegseth, speaking at the Reagan Library, doubled down on US strikes against alleged drug cartel vessels in the Caribbean—actions that have killed over 80 people since September—insisting President Trump can take military action “as he sees fit.” He compared traffickers to al-Qaida terrorists and declared the attacks legal under rules of war, despite widespread expert criticism that the US isn’t at war with Caribbean cartels, no convictions, scant cartel-proof and evidence that most fentanyl enters via Mexico. Scrutiny heightened after reports that a September strike targeted survivors; calls for Hegseth’s resignation grow as Democrats accuse him of recklessness.",
+      "summaryTokens": 1135,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/trump-henry-cuellar-pardon-democrat-reelection-texas",
+      "title": "Trump slams ‘lack of loyalty’ after pardoned Democrat says he won’t change party",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/trump-henry-cuellar-pardon-democrat-reelection-texas",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/trump-henry-cuellar-pardon-democrat-reelection-texas",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T16:04:09Z",
+      "trailText": "Henry Cuellar launched House re-election bid as Democrat days after Trump pardoned him over bribery charges",
+      "summary": "Rep. Henry Cuellar of Texas was pardoned by Trump, alongside his wife, on bribery charges after alleged payments from Azerbaijan and a Mexican bank. Days later, Cuellar filed for re-election as a Democrat, refusing to switch parties. Posting on Truth Social, Trump decried his 'lack of LOYALTY,' accusing him of prioritizing Democrats’ calls over support for Trump's agenda. Cuellar, a conservative House Democrat, faces a Republican-leaning district under a new Supreme Court-upheld map.",
+      "summaryTokens": 1758,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/judge-blocks-prosecutor-evidence-james-comey",
+      "title": "Judge blocks Trump prosecutors from accessing key evidence in Comey case",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/judge-blocks-prosecutor-evidence-james-comey",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/judge-blocks-prosecutor-evidence-james-comey",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T15:02:23Z",
+      "trailText": "Government faces setback after judge said it likely violated Comey ally’s protections from unreasonable searches",
+      "summary": "A federal judge temporarily barred Trump administration prosecutors from accessing digital materials seized from Daniel Richman, a Columbia law professor and James Comey ally, ruling that the government likely violated his Fourth Amendment protections by retaining and warrantlessly searching privileged files after the initial 2017–2020 investigation closed. The order, effective until Dec 12, blocks key evidence used to substantiate allegations that Comey lied to Congress about leak authorizations. This setback follows other Eastern District of Virginia challenges as it seeks to reindict Comey.",
+      "summaryTokens": 597,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/la-wildfire-survivors-holidays-christmas",
+      "title": "LA wildfire survivors rebuild holiday traditions after year of devastation",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/la-wildfire-survivors-holidays-christmas",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/la-wildfire-survivors-holidays-christmas",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T15:00:24Z",
+      "trailText": "After losing homes, heirlooms and decades of memories, Angelenos are piecing together new rituals this season",
+      "summary": "In January 2025, LA’s Pacific Palisades and Eaton wildfires destroyed over 9,400 structures, displacing thousands. Michael Holland and Anne Bannon lost 27 years’ worth of Christmas heirlooms in Altadena and now start fresh with a small tree and window lights in a Pasadena apartment. Newcomer Jodie Ludwin fled back to England after watching her Pacific Palisades home burn, refocusing on holiday memories with her children. In Altadena, nursing student Melissa Merritt—recovering from cancer—found solace in rescued toys and hunting eBay for lost ornaments. The first rebuilt Palisades house opened in November, offering a glimmer of hope for the community.",
+      "summaryTokens": 634,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/maha-maga-feud-chemicals-pesticides",
+      "title": "Maha v Maga: feud grows as Trump EPA rolls back rules on toxic chemicals",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/maha-maga-feud-chemicals-pesticides",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/maha-maga-feud-chemicals-pesticides",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T14:00:27Z",
+      "trailText": "‘Make America healthy again’ leaders call for Lee Zeldin to quit for favoring chemical companies over US families",
+      "summary": "Leaders of the Robert F. Kennedy Jr–backed “Make America Healthy Again” (Maha) movement, including Zen Honeycutt, Kelly Ryerson, and Vani Hari, have petitioned Trump to fire EPA chief Lee Zeldin, accusing him of prioritizing chemical industry interests over families. Since January, Zeldin has rolled back Biden-era toxic chemical safeguards, eased approvals of pesticides like dicamba, reinterpreted PFAS definitions, and installed industry executives in top roles. Maha warns these moves will elevate chronic disease rates and healthcare costs. The EPA defends its science-driven policies and accuses critics of misinformation.",
+      "summaryTokens": 1069,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/us-may-end-support-for-ukraine-war-effort-says-donald-trump-jr",
+      "title": "US may end support for Ukraine war effort, says Donald Trump Jr",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/us-may-end-support-for-ukraine-war-effort-says-donald-trump-jr",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/us-may-end-support-for-ukraine-war-effort-says-donald-trump-jr",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T13:44:27Z",
+      "trailText": "Eldest son of Donald Trump makes speculative comments during tirade against Volodymyr Zelenskyy and EU",
+      "summary": "Donald Trump Jr, a key figure in the MAGA movement, told a Middle East conference the US under President Trump might abandon support for Ukraine’s war effort. He accused President Zelenskyy of prolonging fighting to secure re-election, labeled Ukraine’s wealthy elite “corrupt” for fleeing and leaving a “peasant class” to fight, and derided EU sanctions as ineffective. He claimed fentanyl from Venezuela poses a greater US threat. Though unofficial, his remarks mirror pressure within the Trump team for Kyiv to cede territory and signal a potential end to US war funding.",
+      "summaryTokens": 750,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/new-york-city-wealthy-mamdani-win",
+      "title": "No, New York City’s wealthiest are not fleeing the city after Mamdani’s win",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/new-york-city-wealthy-mamdani-win",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/new-york-city-wealthy-mamdani-win",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T13:00:24Z",
+      "trailText": "Conservatives warned of a mass exodus if the democratic socialist won, but experts, and property data, paint a very different picture",
+      "summary": "Despite conservative and NY Post alarms that Democratic socialist mayor Zohran Mamdani’s modest tax hikes on top earners would spark a mass exodus to low-tax states, November Manhattan contracts for $4m+ homes rose from October and luxury inventory fell 16% year-over-year. Cornell sociologist Cristobal Young and EU Tax Observatory’s Quentin Parrinello note high-income migration is historically low—ties to family, assets and networks outweigh small tax bumps, as seen in other US and European regions.",
+      "summaryTokens": 731,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/luigi-mangione-hearings-trial-shooting",
+      "title": "Luigi Mangione court hearings gave a preview of gripping trial to come",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/luigi-mangione-hearings-trial-shooting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/luigi-mangione-hearings-trial-shooting",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T13:00:23Z",
+      "trailText": "Last week’s proceedings in murder case of Brian Thompson showed a mix of politics, social comment and drama",
+      "summary": "Last week’s New York court hearings in the Luigi Mangione murder case previewed the sensational trial over the December 2024 shooting of UnitedHealth executive Brian Thompson. Judges debated whether evidence—from the arrest at a McDonald’s by officers mocking masks to a cell placement citing an ‘Epstein-style’ scare—was obtained legally. Testimony highlighted healthcare-industry outrage, wealth inequality and gun violence. A reporter’s forcible ejection during a sealing dispute underscored press access tensions. Defense lawyers argue warrantless searches and rights violations, setting the stage for a politically charged, drama-packed trial.",
+      "summaryTokens": 872,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/animal-rights-bombings-daniel-andreas-san-diego",
+      "title": "An animal rights activist was on the FBI’s Most Wanted list for 15 years. Will he be returned to the US?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/animal-rights-bombings-daniel-andreas-san-diego",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/animal-rights-bombings-daniel-andreas-san-diego",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T13:00:23Z",
+      "trailText": "Daniel Andreas San Diego, now 47, is fighting extradition from the UK amid accusations he set off three pipe bombs in 2003",
+      "summary": "Daniel Andreas San Diego, 47, the FBI’s 21-year fugitive from the 2003 Emeryville pipe-bomb attacks on Chiron and Shaklee (no injuries), is fighting UK extradition on federal ‘ecoterrorism’ charges that carry up to 90 years’ prison. Arrested in Wales with an Irish alias in November 2024, he argues Donald Trump–era political interference, stacked charges and brutal US prison conditions violate his human rights. Westminster hearings resume December 2025 with a ruling due January 2026.",
+      "summaryTokens": 416,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/trump-immigration-ice",
+      "title": "Trump vows to slam America’s doors shut as he heaps scorn on immigrants",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/trump-immigration-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/trump-immigration-ice",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T12:00:23Z",
+      "trailText": "National guard shooting prompts extraordinary outburst and targeting of people from startling range of countries",
+      "summary": "After a gunman shot two West Virginia National Guards outside DC’s Farragut West station on Nov. 26, President Trump seized on the attacker’s Afghan origin—despite his approved asylum status—to vow a “permanent pause” on migration from all Third World countries, denaturalize dissenters and deport “non-assets.” In a White House meeting he hurled racist slurs at Minnesota’s Somali community and Rep. Ilhan Omar. ICE then launched Operation Catahoula Crunch in New Orleans and mass arrests in Minneapolis–St. Paul, while Sec. Kristi Noem proposed travel bans on 32 unnamed nations, canceling some green-card and citizenship appointments as legal experts warn of unlawful overreach.",
+      "summaryTokens": 951,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/alabama-catholic-priest-sex-minor",
+      "title": "Alabama: Woman who alleged priest paid her for sex beginning at 17 says there’s ‘no real winner’ after his resignation",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/alabama-catholic-priest-sex-minor",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/alabama-catholic-priest-sex-minor",
+      "section": "us-news",
+      "publishedDate": "2025-12-07T12:00:21Z",
+      "trailText": "Heather Jones, now 33, went public with allegations after Robert Sullivan continued to work with children",
+      "summary": "Heather Jones, 33, alleges that Alabama priest Robert Sullivan paid her hundreds of thousands of dollars for sex and companionship beginning when she was 17, exploiting her foster‐care background and work as an exotic dancer. Her 2025 complaint to the Birmingham diocese precipitated Sullivan’s Vatican‐approved resignation but no criminal probe. Jones, who says she faced gaslighting and intimidation, seeks accountability and protection for others. Meanwhile she faces a misdemeanor illegal practice of law charge she calls retaliatory.",
+      "summaryTokens": 844,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
+    },
     {
       "id": "us-news/2025/dec/07/trump-administration-news-update-today",
       "title": "Trump news at a glance: Hegseth faces most serious crisis of tenure ",
@@ -29,21 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T03:02:49Z",
       "trailText": "US defense secretary Pete Hegseth under siege over mishandling of classified military intelligence and Caribbean boat attacks. Key US politics stories from 6 December 2025",
-      "summary": "Defense Secretary Pete Hegseth, backed by Trump, defies calls for ouster after an inspector general found he misused classified intelligence via Signal and a probe alleges his Caribbean 'double-tap' boat strikes killed survivors, prompting war-crimes accusations. Meanwhile, Trump intensifies anti-immigrant rhetoric after an Afghan suspect is linked to a DC Guard shooting, and Pentagon press credentials shift to pro-Trump pundits. Dem senator Patty Murray condemns an ICE dog mauling an unresisting detainee. Other developments include a waived Southwest fine, Bob Menendez barred from office, Biden on trans rights, vaccine schedule scrutiny and a California judge challenging federal Guard command.",
-      "summaryTokens": 1199,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
-    },
-    {
-      "id": "us-news/2025/dec/06/hegseth-boat-strikes",
-      "title": "Hegseth gives defiant speech defending ‘drug boat’ strikes amid scrutiny",
-      "webUrl": "https://www.theguardian.com/us-news/2025/dec/06/hegseth-boat-strikes",
-      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/06/hegseth-boat-strikes",
-      "section": "us-news",
-      "publishedDate": "2025-12-07T00:00:58Z",
-      "trailText": "At event in California, US defense secretary says Trump has power to take military action ‘as he sees fit’",
-      "summary": "At the Ronald Reagan Library, Defense Secretary Pete Hegseth defended US strikes on alleged drug cartel boats in the Caribbean—22 attacks since September killing over 80—arguing President Trump has authority to act “as he sees fit” to protect Americans and likening traffickers to al-Qaida. Legal experts and some Republicans question the operations’ legality, cartel designations and efficacy. Scrutiny intensified after reports that a second strike targeted survivors under Hegseth’s alleged “kill everybody” order. Democrats are calling for his resignation as he also vows nuclear testing parity with China and Russia and dismisses climate change concerns.",
-      "summaryTokens": 1002,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "Defense Secretary Pete Hegseth faces calls for ouster after an inspector general report found he mishandled classified intel shared via Signal and lawmakers accuse him of ordering a deadly “double-tap” Caribbean boat strike, yet he retains Trump’s backing. Meanwhile, the administration cranks up anti-immigrant rhetoric, swaps mainstream Pentagon press passes for right-wing pundits, confronts ICE dog‐bite allegations, tracks a wounded National Guard soldier’s slow recovery, waives Southwest’s $11m fine, bars Bob Menendez from office, reopens vaccine-schedule debates and hosts Kennedy Center honorees in the Oval Office.",
+      "summaryTokens": 1001,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/trump-kennedy-center-honorees",
@@ -53,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T23:36:39Z",
       "trailText": "George Strait, ‘Sly’ Stallone and Kiss accept medals from president, who says he was ‘98% involved’ in choosing them",
-      "summary": "President Trump hosted 2025 Kennedy Center honorees George Strait, Michael Crawford, Sylvester “Sly” Stallone and rock band Kiss in the Oval Office, presenting redesigned Tiffany medallions. Trump—who never attended the center’s awards in his first term—stressed his “98%” involvement in selecting this “most accomplished” class, and highlighted his ousting of the board and plans to fully renovate the venue. Flanked by Kennedy Center president Richard Grenell, he previewed Sunday’s Honors telecast—the first hosted by a sitting president—predicting record ratings and quipping he’ll best Jimmy Kimmel. The tribute performances air later in December.",
-      "summaryTokens": 1201,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "On Dec. 6, 2025 President Trump hosted the four Kennedy Center honorees—George Strait, Michael Crawford, Sylvester Stallone and rock band Kiss—in the Oval Office, presenting redesigned Tiffany & Co. medals alongside center president Richard Grenell, a Trump appointee and special envoy to Latin America. Trump, who skipped the awards in his first term, has ousted its board for supporters and vowed a full renovation. Claiming “98% involvement” in honoree selection, he’ll become the first president to host the honors broadcast, predicting record ratings and quipping he’ll outshine Jimmy Kimmel.",
+      "summaryTokens": 1391,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/us-senator-ice-attack-dog-horrific-injuries",
@@ -65,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T18:40:33Z",
       "trailText": "Patty Murray of Washington state said ICE agents lied to Wilmer Toledo-Martinez to lure him outside before dog attacked him",
-      "summary": "Democratic Sen. Patty Murray (WA) says ICE agents lured undocumented constituent Wilmer Toledo-Martinez outside his home by posing as a construction worker, then unleashed an ‘attack dog,’ causing deep side lacerations, dizziness and temporary vision loss. Held at the Northwest ICE processing center, he was denied timely stitches and antibiotics after the mauling occurred in front of his US-citizen wife and two young children. Murray demands his immediate release and accountability. DHS has not responded. The incident follows other reported ICE use-of-force cases in Washington and Arizona.",
-      "summaryTokens": 419,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "Senator Patty Murray (D-WA) alleges that in November ICE agents deceived undocumented immigrant Wilmer Toledo-Martinez, lured outside under the guise of a car accident inquiry, then released an “attack dog” that mauled him despite nonresistance. Photos show deep side lacerations requiring hospital stitches; he was denied prompt antibiotic and injury care, left shaking and briefly blinded. Detained at NW ICE Processing Center, Toledo-Martinez—brought to the US at 15—was seized before his US-citizen wife and two young children. Murray demands his immediate release and accountability. DHS has yet to comment. Related ICE use-of-force probes include a Vancouver arrest car-foot collision and a Tucson protest chemical spray.",
+      "summaryTokens": 1094,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/west-virginia-national-guard-dc-attack",
@@ -77,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T18:04:56Z",
       "trailText": "Andrew Wolfe was shot in the head on 26 November, while Sarah Beckstrom died from her injuries",
-      "summary": "West Virginia National Guard soldier Andrew Wolfe, shot in the head on 26 November while patrolling Washington DC with colleague Sarah Beckstrom—who later died—is “slowly healing,” Gov. Patrick Morrisey says, expecting 2–3 more weeks of acute care. The suspect, Rahmanullah Lakanwal—a former Afghan “Zero Unit” member granted US asylum in 2021—faces first-degree murder charges, with additional counts and possible death‐penalty consideration. Their deployment under the Trump administration’s contested “crime emergency” spurred new Afghan asylum restrictions and criticism over politicized guard use.",
-      "summaryTokens": 490,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "West Virginia National Guard soldier Andrew Wolfe, 24, shot in the head while patrolling Washington DC under the Trump administration’s “crime emergency” deployment, is “slowly healing” and will remain in acute care 2–3 more weeks, Gov. Patrick Morrisey said. Fellow guard member Sarah Beckstrom, 20, died of her injuries. Suspect Rahmanullah Lakanwal, an Afghan asylum-seeker and former CIA-affiliated “Zero Unit” operative, faces first-degree murder and other federal charges, with the US attorney general weighing the death penalty. His next court date is Jan. 14. The shooting prompted restrictive immigration policies and criticism over the deployment’s political motives amid low DC crime rates.",
+      "summaryTokens": 1278,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/joe-biden-transgender-rights-republicans",
@@ -88,10 +268,10 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/06/joe-biden-transgender-rights-republicans",
       "section": "us-news",
       "publishedDate": "2025-12-06T15:23:43Z",
-      "trailText": "The former president gave a speech expressing support for LGBTQ+ rights at an LGBTQ+ leaders conference on Friday",
-      "summary": "At the International LGBTQ+ Leaders Conference in Washington, former President Joe Biden condemned Republicans for turning transgender rights into a “political football,” warning that the GOP under Donald Trump’s second administration is distorting equality. Accepting a lifetime achievement award, Biden urged LGBTQ+ people to “get up and fight back,” highlighting his journey from a 1990s DOMA vote to signing the Respect for Marriage Act. He affirmed every American’s right to dignity and addressed young queer audiences directly, while navigating questions about his health during a rare public appearance.",
-      "summaryTokens": 407,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "trailText": "Former president gave a speech expressing support for LGBTQ+ rights at an LGBTQ+ leaders conference on Friday",
+      "summary": "At the International LGBTQ+ Leaders Conference in Washington, former president Joe Biden condemned Republicans for weaponizing transgender rights as a \"political football\" under Donald Trump’s prospective return. While accepting a lifetime achievement award, he highlighted signing the Respect for Marriage Act and his personal evolution from opposing same-sex unions in the 1990s to championing LGBTQ+ equality. Biden urged isolated LGBTQ+ youth to \"get up and fight back\" for basic decency, dignity and respect, even as he addressed his prostate cancer and health-related verbal slip.",
+      "summaryTokens": 789,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/bob-menendez-banned-public-office-new-jersey",
@@ -101,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T15:21:47Z",
       "trailText": "State court made ruling against ex-lawmaker now serving 11-year sentence for bribery and acting as an agent of Egypt",
-      "summary": "A New Jersey judge has permanently disqualified ex-Senator Bob Menendez from any state or local office after his federal bribery conviction for taking gold, cash and acting as an agent of Egypt. The 11-year inmate, nicknamed “Gold Bar Bob,” faces contempt charges if he campaigns for public positions. Prosecutors uncovered $480,000 in cash, $150,000 in gold bars and a luxury car at his home; his wife received 4½ years for similar crimes. Attorney General Matt Platkin said the ruling underscores that corruption carries real consequences. Menendez, who resigned in August, is appealing and hopes for a Trump pardon.",
-      "summaryTokens": 559,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "New Jersey superior court judge Robert Lougy permanently barred former US Senator Bob Menendez from seeking or holding state and local public office after his 2024 bribery conviction, which saw him start an 11-year sentence in June for accepting cash, gold bars and acting as an agent of Egypt. Violating the ban incurs a contempt charge. Menendez, dubbed “Gold Bar Bob,” resigned in August 2024. Prosecutors found $480,000 in cash and $150,000 in gold at his home; his wife Nadine received 4.5 years for related influence-peddling. Menendez maintains his innocence and seeks a Trump pardon.",
+      "summaryTokens": 946,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/pattie-gonia-drag-queen-environmentalist",
@@ -113,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T15:00:55Z",
       "trailText": "Drag queen, environmentalist, diversity and inclusion advocate and social media star arrives in San Francisco",
-      "summary": "Pattie Gonia, the drag queen environmentalist and inclusion advocate, completed a solo 100-mile trek from Point Reyes to San Francisco in full drag, crossing the Golden Gate Bridge and raising over $1m for eight nonprofits promoting equitable outdoor access. Documenting each day’s camp and performance on social media, she demonstrated that visibility and advocacy can drive change. The fundraiser surpassed 35,000 donations. Known for flying a trans pride flag on El Capitan at Yosemite and a viral pull-up challenge to Defense Secretary Pete Hegseth, she caps her year with a San Francisco show.",
-      "summaryTokens": 807,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "Drag queen and environmentalist Pattie Gonia completed a 100-mile trek in full drag from Point Reyes to San Francisco’s Golden Gate Bridge, raising over $1m via GoFundMe from nearly 35,000 donors. She urged followers: “Don’t let anyone ever tell you that you can’t make a difference,” reflecting on skepticism she overcame since launching her activist persona seven years ago. The campaign supports eight nonprofits working to expand access and equity in outdoor spaces. She has staged high-profile actions—like flying a Trans pride flag at Yosemite—to amplify LGBTQ+ presence in nature.",
+      "summaryTokens": 1647,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/trump-anti-immigrant-language",
@@ -125,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T14:00:54Z",
       "trailText": "The US president has seized on the dehumanizing tactic since an Afghan man shot two national guard troops",
-      "summary": "After an Afghan man’s alleged shooting of two National Guard troops in DC, President Trump and allies escalated dehumanizing anti-immigrant rhetoric—labeling Afghans “criminals,” Somalis “garbage,” and urging reviews of all Afghan entrants. Trump vowed to strip citizenship and pause migration from “third-world” countries; USCIS halted Afghan visa and asylum processing. Senators and congressmen called for bans on “Islam immigrants.” Critics—Democrats, refugees’ groups, speech experts—decried the vitriol as xenophobic, warning the language and sweeping deportation and vetting measures target entire communities and stoke fear and potential violence. ICE operations in Minnesota spiked, intensifying community panic.",
-      "summaryTokens": 889,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "Following a DC shooting by an Afghan asylum-seeker, President Trump and administration officials have intensified dehumanizing rhetoric against immigrants, labeling Afghans “criminals” and Somalis “garbage,” and urging re-examination of Afghan arrivals, blanket bans on “Islamic immigrants,” and immediate deportations. USCIS suspended Afghan visa and asylum applications, while GOP lawmakers called for Sharia bans. Critics condemned the remarks as vile and warned they fuel xenophobic violence. Community organizers report heightened fear among Somali and Afghan residents as ICE operations surge.",
+      "summaryTokens": 728,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/pentagon-press-corps-rightwing-takeover",
@@ -137,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T13:00:52Z",
       "trailText": "Pentagon press passes once held by credentialed journalists are now in the hands of rightwing pundits and Trump allies",
-      "summary": "Once dominated by veteran reporters, the Pentagon press corps emptied its ranks in October rather than sign a 21-page rules package that bars unauthorized reporting and limits access. Dozens of rightwing influencers—Laura Loomer, Turning Point USA staffers, LindellTV, One America News host Matt Gaetz and Gateway Pundit—accepted passes instead. Critics warn this new corps, tethered to official briefings, cannot independently probe scandals such as Defense Secretary Pete Hegseth’s Signal chat leak or a controversial Caribbean strike. The New York Times sued, citing First Amendment violations, while the Pentagon celebrates its “broader” outreach to conservative audiences.",
-      "summaryTokens": 367,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "The Pentagon’s once-mainstream press corps has been replaced by over 70 rightwing pundits and Trump allies—Laura Loomer, Mike Lindell’s LindellTV, Matt Gaetz, Turning Point USA, Gateway Pundit—after legacy outlets relinquished their passes in October rather than accept a 21-page policy effectively barring unauthorized reporting. Critics, including journalism scholars and the New York Times (now suing), warn the new corps will merely parrot official lines, undermining First Amendment press independence at a time when scandals—from Pentagon IG findings on Defense Secretary Pete Hegseth’s operational leaks to questions over a Caribbean double strike—demand rigorous scrutiny.",
+      "summaryTokens": 1141,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/pete-hegseth-pentagon-trump",
@@ -149,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T12:00:52Z",
       "trailText": "Defense secretary defiant but allegations of war crimes and blistering watchdog report increase calls for him to go",
-      "summary": "Pentagon chief Pete Hegseth faces mounting calls to resign after an inspector general found he shared secret Yemeni strike plans on Signal and a Caribbean ‘double-tap’ boat operation killed survivors. Democratic leaders—from Senators Patty Murray and Jack Reed to the New Democrat Coalition—denounce his ‘incompetence’ and ‘recklessness,’ while Republicans like Rand Paul also express concern. Defiant and backed by Trump and GOP leadership, Hegseth insists he acted under the ‘fog of war.’ Observers question the legal and strategic basis of his narco-campaign and warn his leaks endangered U.S. pilots.",
-      "summaryTokens": 1127,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "Defense Secretary Pete Hegseth, a Trump appointee, faces bipartisan calls to resign after an inspector general found he leaked classified Yemeni strike plans on Signal, violating record-keeping rules and endangering pilots, and revelations that survivors of a September Caribbean narco-boat strike were killed in an unlawful “double-tap.” Democratic senators and the New Democrat Coalition label him reckless, while legal experts dispute the administration’s drug-war framing. Despite mounting pressure, Hegseth retains White House support and refuses to step down.",
+      "summaryTokens": 1687,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/06/vaccine-panel-hepatitis-b-change",
@@ -161,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T12:00:51Z",
       "trailText": "Pediatricians say panel’s decision will create confusion and access issues, and condemn ‘parody of public health’",
-      "summary": "In December 2025 ACIP advisers appointed by HHS chief RFK Jr.—including long-time anti-vaccine activists—voted to tighten hepatitis B recommendations, alarming pediatricians who warn this ‘parody of public health’ threatens the entire US childhood immunization schedule. Experts like Susan Wang and Paul Offit decried the move as confusing for parents, risking insurance coverage and undermining herd immunity amid a record measles outbreak. Legal challenges, debates over aluminum adjuvants and cumulative risk claims fuel misinformation, eroding vaccine confidence, access and protection for vulnerable and immunocompromised children, potentially reversing decades of disease prevention.",
-      "summaryTokens": 1199,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "After Robert F. Kennedy Jr. overhauled the CDC’s Advisory Committee on Immunization Practices, inserting longtime vaccine skeptics, the panel voted to alter the hepatitis B recommendation. Critics warn this sets a precedent to scrutinize the entire childhood immunization schedule, sowing confusion among parents and insurers and jeopardizing coverage and access. Experts cite no safety data justifying new restrictions, fear rising outbreaks amid the worst US measles surge in 30 years, and warn vulnerable, immunocompromised children face increased risk as public trust erodes.",
+      "summaryTokens": 660,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/05/trump-administration-news-update-today",
@@ -173,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T02:08:58Z",
       "trailText": "US Department of Homeland Security secretary Kristi Noem says list will expand to more than 30 countries",
-      "summary": "Kristi Noem said the US will expand its travel ban from 19 to over 30 countries, restricting immigrants and visitors alike, without naming new nations. The move has sparked naturalization cancellations and legal challenges. Other updates: the Supreme Court will consider Trump’s birthright citizenship order; two men killed after a second US airstrike in the Caribbean; a policy paper backing Europe’s far-right; CDC advisers limiting newborn hepatitis B shots; an order to unseal Epstein grand jury transcripts; new visa denials for content moderators; and Ilhan Omar’s backlash to Trump’s “garbage” Somali comments.",
-      "summaryTokens": 1894,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "Trump administration to expand travel bans to over 30 countries affecting immigrants and visitors; civil rights groups vow legal challenges. SCOTUS will review his birthright citizenship rollback. Survivors of a US airstrike in the Caribbean were later killed. National Security Strategy backs European far right. CDC panel recommends limiting newborn hepatitis B shots. Judge orders release of Jeffrey Epstein grand-jury files. State Dept. to deny visas to fact-checkers. Ilhan Omar condemns Trump’s anti-Somali remarks. Also: Netflix-Warner deal, LA guard lawsuit and new immigration actions.",
+      "summaryTokens": 1117,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/05/cdc-panel-rfk-hepatitis-b-vaccine",
@@ -185,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-06T01:40:47Z",
       "trailText": "Move from CDC advisers mirrors Trump team’s regressive approach to longstanding vaccine guidance",
-      "summary": "At a December 5 meeting, the CDC’s ACIP, hand-picked by Health Sec. RFK Jr., voted 8–3 to drop its decades-old guideline mandating hepatitis B vaccination for all newborns, replacing it with “shared clinical decision-making” for infants of hepatitis-negative mothers and advising blood testing after the first dose. The nonbinding but influential recommendation, praised by Trump and pending CDC director approval, is expected to sow confusion, hinder access (especially for low-income families), delay birth doses to two months, and potentially cause thousands more infections, liver cancers, and deaths annually, critics warn.",
-      "summaryTokens": 949,
-      "generatedAt": "2025-12-07T03:44:44.454Z"
+      "summary": "At a December 5 meeting, CDC’s ACIP advisers, appointed by Health Secretary Robert F. Kennedy Jr., voted 8–3 to remove the longstanding universal newborn hepatitis B vaccine recommendation and replace it with a “shared clinical decision-making” approach for infants of hepatitis B-negative mothers. Backed by the Trump administration, the change could sow confusion, limit access for low-income families and prompt insurers to drop coverage. Modeling predicts delays will cause 1,400 infections, 300 liver cancers and 480 deaths annually. Independent bodies still urge birth-dose vaccination. The nonbinding vote now goes to acting CDC director Jim O’Neill.",
+      "summaryTokens": 760,
+      "generatedAt": "2025-12-08T03:36:11.699Z"
     },
     {
       "id": "us-news/2025/dec/05/adelita-grijalva-arizona-pepper-spray-ice-protest",
