@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-07T03:41:22.299Z",
+    "generated_at": "2025-12-08T03:33:08.065Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-06"
+      "to": "2025-12-07"
     },
-    "article_count": 254,
+    "article_count": 255,
     "merge_info": {
-      "previous_count": 253,
+      "previous_count": 254,
       "new_articles": 1,
-      "updated_articles": 7,
-      "total_count": 254
+      "updated_articles": 1,
+      "total_count": 255
     },
     "batch_info": {
-      "initial_batch_id": "batch_6934f70ade288190be82051a26f7f4cf",
+      "initial_batch_id": "batch_693646d11de8819089b07dfa499980fe",
       "retry_batches": [],
-      "total_tokens": 17701,
+      "total_tokens": 5506,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/08/ai-comedy-can-robots-be-funny",
+      "title": "A robot walks into a bar: can a Melbourne researcher get AI to do comedy?",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/08/ai-comedy-can-robots-be-funny",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/08/ai-comedy-can-robots-be-funny",
+      "section": "technology",
+      "publishedDate": "2025-12-07T14:00:23Z",
+      "trailText": "Machines can be funny when they mistakenly bump into things – but standup is a tough gig even for humans",
+      "summary": "University of Melbourne researcher Dr Robert Walton is using a A$500,000 ARC grant to train about ten ground-vehicle robots (40cm–2m tall) in non-verbal standup comedy. By equipping them with motion and audio sensors to detect timing, head tilts, laughter and other audience cues, he aims to teach machines intentional humor beyond mechanical mishaps. The experiment will later consider adding voices. Its goal is to assess if robots can foster an authentic comedic connection and to study potential benefits and coercive risks of humor in human-robot interactions. Critics like Tina Fey and Tim Minchin insist true comedy relies on human flaws and lived experience.",
+      "summaryTokens": 1138,
+      "generatedAt": "2025-12-08T03:33:07.613Z"
+    },
     {
       "id": "technology/2025/dec/06/ai-research-papers",
       "title": "Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’",
@@ -29,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2025-12-06T15:00:55Z",
       "trailText": "AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’",
-      "summary": "At NeurIPS this week, UC Berkeley undergrad-turned-mentor Kevin Zhu will present 89 of the 113 AI research papers he oversaw this year, raising alarms about peer-review standards and academic pressures. Zhu’s company, Algoverse, charges high-schoolers $3,325 for a 12-week research mentorship, producing papers on topics from healthcare to linguistics with minimal expert input and AI copy-editing. Critics like Berkeley professor Hany Farid decry this 'slop flood' of low-quality, possibly AI-generated work, driven by a publication frenzy at top AI conferences overwhelmed by surging submissions. NeurIPS and ICLR submissions have soared past 20,000 annually, straining volunteer review processes and prompting suspicions of AI-generated 'vibe coded' papers.",
-      "summaryTokens": 1553,
-      "generatedAt": "2025-12-07T03:41:22.006Z"
+      "summary": "Kevin Zhu, a 2024 UC Berkeley CS grad, claims authorship of 113 AI papers this year—89 for NeurIPS workshops—via Algoverse, his paid $3,325 mentoring program where high-school co-authors and basic AI tools aid paper submission. Critics like Berkeley’s Hany Farid call this “vibe coding” spree a disaster amid a flood of low-quality research: NeurIPS saw 21,575 submissions and ICLR nearly 20,000. Rapid, cursory conference reviews and pressure to publish pure quantity over rigor have overwhelmed peer-review systems, diluting signal‐to‐noise and stifling thoughtful AI research.",
+      "summaryTokens": 1281,
+      "generatedAt": "2025-12-08T03:33:07.613Z"
     },
     {
       "id": "technology/2025/dec/05/another-cloudflare-outage-takes-down-websites-linkedin-zoom",
