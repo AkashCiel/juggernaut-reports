@@ -1,37 +1,313 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-08T03:36:12.250Z",
+    "generated_at": "2025-12-09T04:33:03.519Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-08"
+      "to": "2025-12-09"
     },
-    "article_count": 1639,
+    "article_count": 1662,
     "merge_info": {
-      "previous_count": 1624,
-      "new_articles": 15,
-      "updated_articles": 14,
-      "total_count": 1639
+      "previous_count": 1639,
+      "new_articles": 23,
+      "updated_articles": 17,
+      "total_count": 1662
     },
     "batch_info": {
-      "initial_batch_id": "batch_693646fd7d988190831b550da949aadd",
+      "initial_batch_id": "batch_6937a2d57c308190a36b71f6c417f336",
       "retry_batches": [],
-      "total_tokens": 64661,
-      "processing_time_hours": 0
+      "total_tokens": 87244,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/08/trump-administration-news-update-today",
+      "title": "Trump news at a glance: US supreme court appears set to back Trump’s power to fire independent board members",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/trump-administration-news-update-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/trump-administration-news-update-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-09T02:00:05Z",
+      "trailText": "Court appears to be split down partisan lines in favor of historic expansion of executive power – key US politics stories from 8 December 2025",
+      "summary": "Dec 8 2025: The US Supreme Court, split along partisan lines with its 6-3 conservative majority and swing Justice Barrett, signaled it will uphold presidential authority to remove FTC commissioners protected since 1935 by Humphrey’s Executor, potentially expanding executive power. Meanwhile, Israeli surveillance of US troops at a new joint Gaza aid base prompted US commanders to demand recordings cease; Defense Secretary Hegseth’s past 2016 comments on refusing “unlawful” Trump orders resurfaced; Brazil’s Lula advisor warned a US strike on Venezuela risked a “Vietnam-style” war; and Trump flagged antitrust concerns over Netflix’s $83 bn Warner Bros deal.",
+      "summaryTokens": 1267,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/supreme-court-trump-power-ftc-slaughter",
+      "title": "US supreme court appears set to back Trump on FTC firing in major expansion of power",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/supreme-court-trump-power-ftc-slaughter",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/supreme-court-trump-power-ftc-slaughter",
+      "section": "us-news",
+      "publishedDate": "2025-12-09T01:58:47Z",
+      "trailText": "Conservative justices seem to signal support for president over move to fire Democrat Rebecca Slaughter in March",
+      "summary": "At Dec. 8 arguments, the US Supreme Court’s 6-3 conservative majority signaled support for President Trump’s bid to remove FTC Commissioner Rebecca Slaughter mid-term, disputing the 1935 Humphrey’s Executor precedent that bars firing independent agency officials without cause. The administration, backed by DOJ’s appeal, invoked the unitary-executive theory, labeling agencies “headless fourth branches,” while liberal justices cautioned that unchecked removal power threatens nonpartisan oversight and risks politicizing regulators. A ruling on this and related Fed removal cases is due by June.",
+      "summaryTokens": 994,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/trump-mexico-tariffs-water-dispute",
+      "title": "‘Very unfair’: Trump threatens extra 5% tariff on Mexico over water dispute",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/trump-mexico-tariffs-water-dispute",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/trump-mexico-tariffs-water-dispute",
+      "section": "us-news",
+      "publishedDate": "2025-12-09T01:54:44Z",
+      "trailText": "President accuses neighbor of violating treaty governing water-sharing and urges water to be released ‘immediately’",
+      "summary": "Donald Trump threatened an extra 5% tariff on Mexico unless it immediately delivers 200,000 acre-feet of the 800,000 owed under the 1944 Rio Grande treaty, which requires Mexico to send 1.75 m acre-feet every five years (the US sends 1.5 m annually from the Colorado River). He said shortages are hurting Texas farmers. Mexico cites severe drought and mismanagement; a recent WWF study finds 52% of Rio Grande withdrawals unsustainable, driving farmland losses. Trump also unveiled a $12 bn farm relief package—$11 bn via the Farmer Bridge Assistance program and $1 bn for specialty crops.",
+      "summaryTokens": 627,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/san-jose-high-school-human-swastika",
+      "title": "Community outraged after California high schoolers form a human swastika",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/san-jose-high-school-human-swastika",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/san-jose-high-school-human-swastika",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T21:58:55Z",
+      "trailText": "A student at a San Jose high school posted a photo of eight students lying in the shape of a swastika on a football field",
+      "summary": "A photo showing eight Branham High students lying on the San Jose football field forming a swastika, captioned with an antisemitic Hitler quote, went viral Dec. 3, prompting outrage from the Bay Area Jewish community. The school removed the post and Instagram account, and principal Beth Silbergeld affirmed zero tolerance for hate while withholding student identities per federal law. The Bay Area Jewish Coalition decried the display, blaming gaps in Holocaust education. The district will partner with BAJC, the ADL and JCRC to institute anti-hate lessons and repair harm.",
+      "summaryTokens": 861,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/trump-farmers-aid-package",
+      "title": "Trump unveils $12bn aid package for US farmers amid tariff fallout",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/trump-farmers-aid-package",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/trump-farmers-aid-package",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T21:33:36Z",
+      "trailText": "President says money will come from tariff revenues and promises trade policies will make farmers ‘so strong’",
+      "summary": "Donald Trump announced a $12bn aid package for US farmers drawn from tariff revenues, with $11bn in one-time row-crop bridge payments and the remainder for other crops. Agriculture Secretary Brooke Rollins said funds will be distributed by February 28, with application details soon. The support addresses fallout from trade disputes—especially with China—and ongoing legal challenges to the president’s tariff authority under the International Emergency Economic Powers Act. Trump hailed a “golden age” for farmers, echoing his 2018 bailout, while blaming inflation, regulatory “crippling restrictions,” and political opponents.",
+      "summaryTokens": 670,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/democrat-jasmine-crockett-texas-senate-run",
+      "title": "Texas Democrat Jasmine Crockett launches bid for US Senate seat",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/democrat-jasmine-crockett-texas-senate-run",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/democrat-jasmine-crockett-texas-senate-run",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T21:16:59Z",
+      "trailText": "The two-term Texas congresswoman seeks to flip seat held by Republican John Cornyn in the GOP-dominated state",
+      "summary": "Two-term Dallas Democrat Rep. Jasmine Crockett filed by Dec. 8 to challenge GOP Sen. John Cornyn in the March 3 primary, aiming to flip this seat crucial for Democrats’ bid to reclaim the Senate majority; she faces state Rep. James Talarico after former candidate Colin Allred shifted to a House race. Crockett, a vocal critic of GOP policies, said she entered only if polling shows she can win the general election in this Trump-won pivotal state. Democrats need a net gain of four seats next year, and Texas’s shifting demographics make the Republican stronghold competitive.",
+      "summaryTokens": 743,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/alina-habba-resign-new-jersey-federal-prosecutor",
+      "title": "Ex-Trump lawyer Alina Habba quits as top federal prosecutor in New Jersey",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/alina-habba-resign-new-jersey-federal-prosecutor",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/alina-habba-resign-new-jersey-federal-prosecutor",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T21:04:03Z",
+      "trailText": "Resignation comes despite administration’s efforts to keep her in place after courts found she was serving unlawfully",
+      "summary": "After district and appellate courts ruled her interim US attorney appointment in New Jersey unlawful, former Trump lawyer Alina Habba resigned as top federal prosecutor. Despite the administration’s maneuver—firing Acting US Attorney Desiree Grace and reappointing Habba as ‘special attorney’—the courts barred her from prosecuting cases while leaving her indictments intact. Habba said ‘compliance is not surrender’ and will serve as senior adviser for US attorneys under AG Pam Bondi, who vows to seek review to restore her position. Trump criticized the breakdown of the ‘blue slip’ tradition.",
+      "summaryTokens": 1315,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/south-carolina-clerk-photo-murdaugh-murder-case",
+      "title": "Clerk in Murdaugh murder case pleads guilty over graphic crime-scene photos",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/south-carolina-clerk-photo-murdaugh-murder-case",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/south-carolina-clerk-photo-murdaugh-murder-case",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T20:22:09Z",
+      "trailText": "Becky Hill sentenced to probation after admitting to showing photos to photographer and lying about it in court",
+      "summary": "Mary Rebecca ‘Becky’ Hill, former Colleton County, SC clerk during the 2023 Murdaugh murder trial, pleaded guilty to obstruction of justice, perjury and two misconduct-in-office counts for showing sealed crime-scene photos to a reporter, lying in court, misusing ~$10,000 in federal child-support bonuses and $2,000 in office funds, and promoting her book. Sentenced to three years’ probation, Hill admitted sealed photo metadata matched her courthouse key-card logs. Judge Heath Taylor said her punishment spared harsher penalties without proven jury tampering. Hill’s book drew plagiarism claims; defense claims of juror influence failed on appeal.",
+      "summaryTokens": 2299,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/drinking-water-pfas-infant-mortality-study",
+      "title": "Drinking water contaminated with Pfas probably increases risk of infant mortality, study finds",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/drinking-water-pfas-infant-mortality-study",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/drinking-water-pfas-infant-mortality-study",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T20:00:47Z",
+      "trailText": "Study of 11,000 births in New Hampshire shows residents’ reproductive outcomes near contaminated sites",
+      "summary": "University of Arizona peer-reviewed analysis of 11,000 New Hampshire births finds drinking well water down gradient from 41 PFAS-contaminated sites raises infant mortality by 191%, preterm birth by 20%, low-birthweight by 43% and extreme prematurity/low weight by 168%/180%. Authors used groundwater flow mapping for causal inference and estimate US healthcare and productivity losses of $8 billion annually versus $3.8 billion in PFAS cleanup costs. PFAS “forever chemicals” bioaccumulate and link to cancer, immune disorders. Study underscores cost-effective benefits of carbon filtration or reverse osmosis amid shifting federal regulations.",
+      "summaryTokens": 1023,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/payment-survivors-sexual-abuse-new-orleans",
+      "title": "New Orleans Catholic clergy abuse survivors in line to collectively be paid $305m",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/payment-survivors-sexual-abuse-new-orleans",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/payment-survivors-sexual-abuse-new-orleans",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T19:18:32Z",
+      "trailText": "Attorneys for the victims struck deal with the church’s largest insurer to increase $230m settlement approved earlier",
+      "summary": "After months of negotiations, Travelers agreed to add $75m to a previously approved $230m bankruptcy settlement for roughly 600 survivors of New Orleans Catholic clergy sexual abuse, boosting total compensation to $305m pending Judge Grabill’s separate approval. This second-largest US diocesan payout follows weeks of testimony, including plaintiff Linda Lee Stonebreaker’s account, and comes after Louisiana’s 2021 repeal of the civil claims time bar and a 2024 supreme court ruling. The deal also mandates new abuse-identification and protection reforms; archbishop James Checchio succeeds James Aymond ahead of his retirement.",
+      "summaryTokens": 870,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/catholic-church-new-orleans-settlement-victims-sexual-abuse",
+      "title": "New Orleans Catholic archdiocese gains approval to pay $230m to sexual abuse survivors",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/catholic-church-new-orleans-settlement-victims-sexual-abuse",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/catholic-church-new-orleans-settlement-victims-sexual-abuse",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T18:46:52Z",
+      "trailText": "Settlement also includes major changes to how church identifies and discloses past claims of abuse by clergy",
+      "summary": "Judge Meredith Grabill approved a $230 m settlement for roughly 600 survivors of clergy sexual abuse in New Orleans, ending five years of Chapter 11 bankruptcy litigation triggered by expanded Louisiana statutes reviving historical claims. The deal, backed by emotional testimonies, imposes tougher disclosure requirements, independent abuse investigations, child-protection reforms and a points-based compensation process. A separate $75 m commitment from insurer Travelers, pending final judicial sign-off, could boost the total to $305 m. Funds and trust are to be secured by Dec 26 2025, with payments starting in early 2026. Critics cite $50 m in legal fees and doubt non-monetary safeguards’ effectiveness.",
+      "summaryTokens": 1230,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/ice-family-college-student-deported-honduras",
+      "title": "Family of student deported to Honduras say they were targeted by ICE agents ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/ice-family-college-student-deported-honduras",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/ice-family-college-student-deported-honduras",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T18:41:51Z",
+      "trailText": "Father of student detained at Boston airport on her way to visit family in Austin, says agents showed up at Texas home",
+      "summary": "Any Lucia López Belloza, a 19-year-old Babson College student who left Honduras at age 7, was detained by ICE at Boston airport on Nov 20 en route to surprise family in Austin for Thanksgiving and deported within 48 hours despite an emergency 72-hour removal stay. On Dec 7, three unmarked ERO vehicles appeared at her family’s Austin home; agents forced open a backyard gate and entered without a warrant or communication, then departed after two hours. Her lawyer disputes any valid deportation order. Rep. Greg Casar condemns the operation as retaliation for her speaking out.",
+      "summaryTokens": 1702,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/karoline-leavitt-nephew-ice-arrest",
+      "title": "Mother of Karoline Leavitt’s nephew rejects White House portrayal of her after ICE arrest",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/karoline-leavitt-nephew-ice-arrest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/karoline-leavitt-nephew-ice-arrest",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T18:28:51Z",
+      "trailText": "Bruna Ferreira, who was released from ICE custody Monday on bond, denies claims that she’s an absentee parent",
+      "summary": "Bruna Ferreira, the Brazilian-born mother of White House press secretary Karoline Leavitt’s 11-year-old nephew, has rejected the administration’s depiction of her as an absentee parent after her November ICE detention. In a Washington Post interview, she described co-parenting with Leavitt’s brother, Michael, organizing school runs, sports games, Leavitt’s wedding attendance and the White House Easter egg hunt. Released on a $1,500 bond by Judge Cynthia Goodman, DHS did not oppose bail. Ferreira, who entered the US on a tourist visa decades ago, denies any criminal record and calls the White House narrative “disgusting,” while Michael Leavitt denies involvement in her arrest.",
+      "summaryTokens": 891,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/military-ivf-coverage-defense-bill-mike-johnson",
+      "title": "Mike Johnson strips military IVF coverage from defense bill – report",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/military-ivf-coverage-defense-bill-mike-johnson",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/military-ivf-coverage-defense-bill-mike-johnson",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T17:12:45Z",
+      "trailText": "House speaker worked behind the scenes to strip provision after it was added as an amendment earlier this year",
+      "summary": "Mike Johnson, House speaker, removed a bipartisan amendment from the National Defense Authorization Act, stripping military IVF coverage for active-duty service members. Approved earlier by both chambers, the IVF provision was cut over anti-abortion objections to unused embryos. Resolve CEO Danielle Melfi called its exclusion “dishonorable” to troops’ family needs. Johnson lauded the bill’s rollback of “woke” programs—CRT, DEI and climate initiatives—and restoration of merit-based promotions. Trump’s promise to expand IVF access remains unmet; his latest fertility guidance is non-binding. ASRM warned one in four military personnel face infertility and urged parity with congressional benefits. Congress may vote as soon as this week.",
+      "summaryTokens": 1020,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/hegseth-unlawful-orders-trump-fox-interview",
+      "title": "Hegseth said US military should refuse ‘unlawful’ Trump orders in unearthed 2016 interview",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/hegseth-unlawful-orders-trump-fox-interview",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/hegseth-unlawful-orders-trump-fox-interview",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T16:23:29Z",
+      "trailText": "Defense secretary’s comments recirculating amid dispute over US strikes on alleged drug boats in Caribbean",
+      "summary": "In a newly unearthed 2016 Fox News clip uncovered by CNN, then-contributor Pete Hegseth asserted that U.S. troops must refuse any \"unlawful\" orders from candidate Donald Trump—echoing his critique of Trump’s vows to kill families and revive torture—arguing the military could face criminal liability. Now as Defense Secretary, Hegseth condemns Democratic senators’ similar warnings to disobey illegal commands as \"despicable\" while defending 20 recent U.S. strikes on alleged Caribbean drug-smuggling boats that have killed over 80 people, labeling suspects \"narco-terrorists\" and dismissing international law concerns.",
+      "summaryTokens": 1589,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/donald-trump-difference-making-deal-and-making-peace",
+      "title": "Trump appears not to know the difference between making a deal and making peace",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/donald-trump-difference-making-deal-and-making-peace",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/donald-trump-difference-making-deal-and-making-peace",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T15:33:39Z",
+      "trailText": "US president’s efforts under harsh spotlight as Rwanda-DRC deal and Thailand-Cambodia mediations waver",
+      "summary": "Claims of Donald Trump’s diplomatic triumphs—from a Washington-brokered Rwanda-DRC pact to mediating Thailand-Cambodia border tensions and a Gaza ceasefire—have unraveled amid fresh clashes and accusations of broken commitments. Experts invoke Johan Galtung’s concepts of negative versus positive peace to show Trump’s style is transactional dealmaking, focused on quick signings and optics rather than addressing root causes or building trust. Critics warn this performative approach yields fragile, zero-sum agreements, leaving underlying conflicts unresolved and turning mediations into exercises in bad faith with Trump as an unreliable broker.",
+      "summaryTokens": 419,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/washington-dc-police-chief-resignation",
+      "title": "Washington DC police chief resigns after less than two years",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/washington-dc-police-chief-resignation",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/washington-dc-police-chief-resignation",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T15:23:34Z",
+      "trailText": "Pamela Smith, first Black woman to lead the department, quits amid battle with Trump over control of police",
+      "summary": "Pamela Smith, the first Black woman to lead DC’s Metropolitan Police Department, is resigning after under two years amid a feud with President Trump over federal control and Mayor Muriel Bowser’s autonomy fight. Bowser lauded Smith for driving violent crime and homicides to multi-year lows, securing a 35% crime drop by early 2025. Smith cites family reasons for stepping down Dec. 31. Bowser hasn’t set a timeline for naming a successor. Her tenure included a record 2023 homicide spike, subsequent reforms, national guard deployments and a DOJ probe into alleged crime-stat manipulation.",
+      "summaryTokens": 1129,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/ice-fourth-amendment-rights-north-carolina",
+      "title": "‘We’ll need to see a warrant’: the group teaching businesses a vital tool to fight ICE raids",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/ice-fourth-amendment-rights-north-carolina",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/ice-fourth-amendment-rights-north-carolina",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T14:00:44Z",
+      "trailText": "Siembra in North Carolina gives owners fourth amendment rights trainings should federal agents show up at their door",
+      "summary": "North Carolina’s immigrant rights group Siembra has enlisted over 250 businesses to use fourth amendment tactics to resist Trump-era ICE raids. Frontage signs (“private area,” “No warrant, no entry”) and trainings inform owners that agents must show a judicial warrant for private areas, employees can call lawyers, and undocumented staff may be sheltered. Siembra offers a free workbook, posters, volunteer canvassers and business pledges. Municipalities like Durham and Carrboro and non-Latinx shops such as Scuppernong Books and 64 Harvard have joined; similar models in Oregon and Ohio exist. Siembra plans to expand across North Carolina.",
+      "summaryTokens": 812,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/first-thing-zelenskyy-european-leaders-london-talks-ending-ukraine-war",
+      "title": "First Thing: Zelenskyy to meet European leaders in London for talks on ending Ukraine war",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/first-thing-zelenskyy-european-leaders-london-talks-ending-ukraine-war",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/first-thing-zelenskyy-european-leaders-london-talks-ending-ukraine-war",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T13:41:13Z",
+      "trailText": "Ukrainian president says latest discussions with US were ‘constructive, although not easy’. Plus, the autism advocates fighting RFK Jr’s barrage of misinformation",
+      "summary": "Volodymyr Zelenskyy will hold talks in London with UK Prime Minister Rishi Sunak, France’s Emmanuel Macron and Germany’s Olaf Scholz to advance a US-authored peace proposal drafted by the Trump administration aimed at ending Russia’s full-scale invasion of Ukraine. Buoyed by a Trump-backed Gaza ceasefire, recent US-Ukraine negotiations in Washington were deemed “constructive, although not easy,” but yielded no breakthrough. US officials say they’re in the final stage of a framework deal, yet neither Kyiv nor Moscow has agreed. Donald Trump insists Zelenskyy “hasn’t yet read” the plan.",
+      "summaryTokens": 958,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/ex-honduran-president-juan-orlando-hernandez-trump-pardon",
+      "title": "Ex-Honduran president thanks God – and Trump – for drug-trafficking pardon",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/ex-honduran-president-juan-orlando-hernandez-trump-pardon",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/ex-honduran-president-juan-orlando-hernandez-trump-pardon",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T13:10:58Z",
+      "trailText": "Juan Orlando Hernández thanked the Lord for being ‘a free man’ and then Trump for ‘changing my life’",
+      "summary": "In a social media video, ex-Honduran president Juan Orlando Hernández thanked God and Donald Trump for pardoning his 45-year federal drug-trafficking sentence, handed down in March 2024 for allegedly accepting $1 million from Joaquín “El Chapo” Guzmán and using Honduras as a cocaine “superhighway.” Hernández praised Trump’s “courage” to correct what he called a politically motivated prosecution by the Biden administration’s “deep state,” echoed the former president’s rhetoric, restricted comments to tagged Trump allies, and drew bipartisan criticism for undercutting Trump’s own “war on drugs” stance.",
+      "summaryTokens": 687,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/mike-johnson-donald-trump",
+      "title": "Ignorance is BS: speaker’s stock answer on Trump’s misdeeds is ‘I don’t know’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/mike-johnson-donald-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/mike-johnson-donald-trump",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T13:00:40Z",
+      "trailText": "Mike Johnson’s denials of knowledge of presidential scandals strain credulity – but may be an effective tactic",
+      "summary": "House Speaker Mike Johnson repeatedly dodges questions on Trump administration controversies—from memecoin investor dinners and controversial pardons to a Caribbean military strike—by claiming ignorance (“I don’t know about that”), deferring to the administration (“not my lane”), or defending Trump. Experts call this unprecedented for a constitutionally empowered speaker responsible for oversight, noting over 14 feigned-unawareness instances despite a seasoned staff. Observers say Johnson’s tactic reflects his loyalty to Trump and a razor-thin House majority, shielding the president, undermining accountability, and leveraging the fast news cycle to sidestep scrutiny.",
+      "summaryTokens": 481,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
     {
       "id": "us-news/2025/dec/08/trump-administration-news-update-today-latest",
       "title": "Trump news at a glance: Key Republican backs release of video of strike on alleged drug boat",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/trump-administration-news-update-today-latest",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/trump-administration-news-update-today-latest",
       "section": "us-news",
-      "publishedDate": "2025-12-08T00:48:26Z",
+      "publishedDate": "2025-12-08T12:11:03Z",
       "trailText": "Democrats are pushing the Trump administration to release the video of a second strike on the drug boat which was incapacitated in the Caribbean. Key US politics stories from 7 December 2025",
-      "summary": "On Dec 7, Democrats demanded the Trump administration declassify video of a US Navy strike on an alleged Caribbean drug boat that killed two survivors of an initial attack, raising war-crimes allegations after 11 deaths. GOP backer Sen. Tom Cotton and President Trump said they’d support release, while the Pentagon reviews potential risks. Defense Secretary Pete Hegseth denied ordering a “kill them all” directive. In related headlines, the Kremlin praised Trump’s new security strategy; Donald Trump Jr. signaled a possible halt to Ukraine aid; Trump criticized Rep. Henry Cuellar; a judge limited Comey-case evidence; and Rep. Ilhan Omar condemned anti-Somali remarks.",
-      "summaryTokens": 822,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "GOP Sen. Tom Cotton said he wouldn’t oppose publicly releasing declassified footage of a US strike on an alleged drug boat that killed two survivors, as Democrats intensify pressure on the Trump administration over war-crime accusations after 11 died and reports of a “kill-all” order. President Trump has no objection but Pentagon chief Pete Hegseth says the video is under review. In related news, the Kremlin praised Trump’s new security strategy, Donald Jr. hinted at ending Ukraine aid, Trump blasted Rep. Cuellar’s ‘disloyalty,’ a judge blocked Comey-case evidence, and Ilhan Omar condemned anti-Somali rhetoric.",
+      "summaryTokens": 753,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/08/us-data-centers",
+      "title": "More than 200 environmental groups demand halt to new US datacenters",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/08/us-data-centers",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/08/us-data-centers",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T12:00:40Z",
+      "trailText": "Exclusive: Congress urged to act against energy-hungry facilities blamed for increasing bills and worsening climate crisis",
+      "summary": "A coalition of 230+ environmental groups (Greenpeace, Friends of the Earth, Food & Water Watch) is calling on Congress for a national moratorium on new energy-hungry datacenters powering AI and crypto, blaming them for spiking electricity bills, water shortages and rising emissions. At least 16 proposed projects worth $64bn have been delayed by local resistance over climate, financial and water security concerns. Grassroots opposition helped elect Democrats in Virginia, New Jersey and a Georgia commission race. With power demand set to nearly triple by 2035, affordability has become a bipartisan flashpoint challenging AI expansion and the Trump administration’s energy agenda.",
+      "summaryTokens": 935,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
+    },
+    {
+      "id": "us-news/2025/dec/07/trump-kennedy-center-honors",
+      "title": "Trump claims rave reviews for hosting Kennedy Center Honors – before ceremony even ends",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/trump-kennedy-center-honors",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/trump-kennedy-center-honors",
+      "section": "us-news",
+      "publishedDate": "2025-12-08T08:22:53Z",
+      "trailText": "President refers jokingly to renamed ‘Trump-Kennedy Center’ at celebration of stars from music and film",
+      "summary": "At the 2025 Kennedy Center Honors in Washington, President Trump became the first president to host the lifetime achievement gala, mocking “fake news,” dubbing it the “Trump-Kennedy Center” and touting “rave reviews” mid‐ceremony. He walked the red carpet with Melania, delivered speeches introducing pre‐recorded tributes for Sylvester Stallone, Michael Crawford, George Strait, Gloria Gaynor and Kiss, and emphasized 1970s–80s nostalgia. Since seizing control in February, he’s overhauled management, ousted the center’s president and spurred staff turnover amid multimillion‐dollar renovations, drawing a sparsely Democratic audience.",
+      "summaryTokens": 1205,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/congress-republicans-tease-trump-marjorie-taylor-greene",
@@ -41,21 +317,21 @@
       "section": "us-news",
       "publishedDate": "2025-12-08T00:12:13Z",
       "trailText": "Georgia lawmaker says colleagues who made fun of president before 2024 win now support him out of fear",
-      "summary": "In a CBS 60 Minutes interview, outgoing Rep. Marjorie Taylor Greene said many GOP colleagues privately mocked President Trump’s mannerisms and her early support, then publicly embraced him with MAGA hats after he won the 2024 nomination. She, who leaves Congress in January after breaking with Trump over his handling of Jeffrey Epstein case files, has reported hundreds of threats to Capitol Police—including against her and her son—initially from the left, later from the right after Trump labeled her a “traitor.” Greene says Republicans fear his Truth Social reprisals.",
-      "summaryTokens": 801,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Marjorie Taylor Greene says many House Republicans privately mocked Trump before his 2024 nomination but rushed to support him once he secured it. She told Lesley Stahl on 60 Minutes that colleagues who had ridiculed his speech and her backing of him began flattering him and donning MAGA hats out of fear of his retribution. Greene, leaving Congress in January after splitting with Trump over handling of Epstein-related files, reported hundreds of threats to Capitol Police, initially from the left but later from the right after she backed survivors. She warns colleagues stay silent to avoid his harsh social media posts.",
+      "summaryTokens": 1768,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/ilhan-omar-trump-anti-somali-tirade-disgusting",
-      "title": "Ilhan Omar says Trump’s anti-Somali tirade ‘completely disgusting’",
+      "title": "Ilhan Omar calls Trump’s anti-Somali tirade ‘completely disgusting’",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/07/ilhan-omar-trump-anti-somali-tirade-disgusting",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/ilhan-omar-trump-anti-somali-tirade-disgusting",
       "section": "us-news",
       "publishedDate": "2025-12-07T21:35:11Z",
       "trailText": "Minnesota congresswoman says ‘hateful rhetoric’ can lead to ‘dangerous actions by people who listen to the president’",
-      "summary": "On CBS’s Face the Nation Minn. Rep. Ilhan Omar condemned President Trump’s cabinet-meeting remarks calling her Somali-American constituents 'garbage' and urging their deportation, warning that such dehumanizing rhetoric can spur violence. She defended her district, highlighted recent fraud prosecutions—denying any terrorism links and returning related campaign donations—and pointed to the administration’s Somali immigration curbs. Minneapolis’s mayor barred using city facilities for enforcement. In a New York Times op-ed, she accused Trump of stoking bigotry to mask failed economic promises and endorsed bipartisan fraud probes.",
-      "summaryTokens": 1829,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Somalia-born Congresswoman Ilhan Omar condemned President Trump’s recent description of Minnesota’s Somali community as “garbage,” calling it “completely disgusting” and warning that dehumanizing rhetoric can spark violence. On CBS’s Face the Nation, she defended her constituents, criticized Trump’s push to send Somali Americans back to Somalia and blasted his administration’s immigration restrictions. Omar highlighted Minneapolis’s mayoral order barring federal enforcement on city property, wrote a New York Times op-ed accusing Trump of stoking bigotry to distract from broken promises, and called for full accountability in the state’s Somali fraud cases while rejecting claims that stolen funds went to terrorism.",
+      "summaryTokens": 628,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/democrats-trump-caribbean-drug-boat-strike-video",
@@ -65,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T20:08:00Z",
       "trailText": "Trump team faces mounting pressure as members of Congress allege that the deadly attack was unlawful",
-      "summary": "US Democrats, including Senators Adam Schiff and Representatives Jim Himes and Adam Smith, are demanding the Pentagon release a Sept. 2 video of a Caribbean drug-boat strike that killed 11 people, two of whom were shot while clinging to capsized wreckage for an hour. The footage could confirm allegations that Defense Secretary Pete Hegseth ordered “kill them all.” President Trump says he has no objection, but Hegseth cites sensitivity and legal review; experts call the strike’s legality shaky. GOP Sen. Tom Cotton supports declassification and defends the operation.",
-      "summaryTokens": 940,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Democrats in Congress are pressing the Pentagon to release footage of a second September strike on an alleged drug vessel in the Caribbean that killed 11 people, including two survivors clinging to a capsized hull. Allegations of unlawful killing and war crimes rose after reports SecDef Pete Hegseth ordered “kill them all.” Adm. Frank Bradley and the Pentagon defend the attack’s legality but offer no video. Sens. Adam Schiff, Reps. Jim Himes and Adam Smith demand public scrutiny. President Trump has no objection, but Hegseth cites security concerns. Sen. Tom Cotton says he’d trust the Pentagon’s declassification.",
+      "summaryTokens": 1454,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/georgia-veteran-detained-ice",
@@ -77,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T20:00:30Z",
       "trailText": "Godfrey Wade’s case is emblematic of rising number of non-US citizen veterans swept up by ICE under Trump’s immigration policies",
-      "summary": "Jamaican-born, decorated US Army veteran Godfrey Wade, 65, has been held since September in CoreCivic-run Stewart Detention Center in Georgia after an ICE arrest for driving without a license—highlighting Trump’s second-term policy of deporting noncitizen veterans. His fiancée, April Watkins, and six children, backed by a GoFundMe campaign, decry his detention and urge congressional action. Advocates cite KENS5 reports of medical neglect and recent suicides at Stewart, one of the largest immigration jails. Biden-era directives protecting foreign-born service members were rescinded under Trump, spurring a House inquiry into 10,000+ deported veterans and raising alarm over a VA data-sharing plan.",
-      "summaryTokens": 1340,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Jamaican-born, decorated US Army veteran Godfrey Wade, 65, has been in ICE custody since September at Stewart detention center in Georgia after being arrested for driving without a license. His fiancée and six children are fundraising via GoFundMe and lobbying Congress—inquiring DOJ and DHS—urging restoration of former-veteran deportation protections Trump rescinded. Wade’s case highlights reports that over 10,000 non-U.S. citizen vets have been deported, and that VA internal data-sharing may expose thousands more.",
+      "summaryTokens": 983,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/06/hegseth-boat-strikes",
@@ -89,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T16:13:52Z",
       "trailText": "At event in California, US defense secretary says Trump has power to take military action ‘as he sees fit’",
-      "summary": "Defense Secretary Pete Hegseth, speaking at the Reagan Library, doubled down on US strikes against alleged drug cartel vessels in the Caribbean—actions that have killed over 80 people since September—insisting President Trump can take military action “as he sees fit.” He compared traffickers to al-Qaida terrorists and declared the attacks legal under rules of war, despite widespread expert criticism that the US isn’t at war with Caribbean cartels, no convictions, scant cartel-proof and evidence that most fentanyl enters via Mexico. Scrutiny heightened after reports that a September strike targeted survivors; calls for Hegseth’s resignation grow as Democrats accuse him of recklessness.",
-      "summaryTokens": 1135,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "US defense secretary Pete Hegseth defended military strikes on alleged drug cartel boats in the Caribbean at a Reagan library event, arguing President Trump can act “as he sees fit.” The attacks, which have killed over 80 people since September, are justified to protect Americans, he said, likening smugglers to terrorists. Legal experts and some Republicans dispute the strikes’ legality, noting suspects lack court convictions and the US isn’t at war in the Caribbean. A Washington Post report claiming a second strike on survivors followed Hegseth’s “kill everybody” order drew his denial. Democrats, led by the New Democrat Coalition, demand his resignation as scrutiny intensifies.",
+      "summaryTokens": 558,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/trump-henry-cuellar-pardon-democrat-reelection-texas",
@@ -101,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T16:04:09Z",
       "trailText": "Henry Cuellar launched House re-election bid as Democrat days after Trump pardoned him over bribery charges",
-      "summary": "Rep. Henry Cuellar of Texas was pardoned by Trump, alongside his wife, on bribery charges after alleged payments from Azerbaijan and a Mexican bank. Days later, Cuellar filed for re-election as a Democrat, refusing to switch parties. Posting on Truth Social, Trump decried his 'lack of LOYALTY,' accusing him of prioritizing Democrats’ calls over support for Trump's agenda. Cuellar, a conservative House Democrat, faces a Republican-leaning district under a new Supreme Court-upheld map.",
-      "summaryTokens": 1758,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "After pardoning Texas Congressmember Henry Cuellar and his wife on bribery charges tied to Azerbaijan and a Mexican bank, former President Donald Trump criticized Cuellar on Truth Social for running for re-election as a Democrat and accused him of disloyalty. He blasted Cuellar’s 'lack of LOYALTY' and warned 'no more Mr. Nice guy!' Cuellar, one of the most conservative House Democrats, promptly filed as a Democrat, saying he won’t switch parties. His south Texas district was redrawn by Republicans ahead of the 2026 midterms, a map recently cleared by SCOTUS, raising GOP hopes of flipping the seat.",
+      "summaryTokens": 1974,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/judge-blocks-prosecutor-evidence-james-comey",
@@ -112,10 +388,10 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/07/judge-blocks-prosecutor-evidence-james-comey",
       "section": "us-news",
       "publishedDate": "2025-12-07T15:02:23Z",
-      "trailText": "Government faces setback after judge said it likely violated Comey ally’s protections from unreasonable searches",
-      "summary": "A federal judge temporarily barred Trump administration prosecutors from accessing digital materials seized from Daniel Richman, a Columbia law professor and James Comey ally, ruling that the government likely violated his Fourth Amendment protections by retaining and warrantlessly searching privileged files after the initial 2017–2020 investigation closed. The order, effective until Dec 12, blocks key evidence used to substantiate allegations that Comey lied to Congress about leak authorizations. This setback follows other Eastern District of Virginia challenges as it seeks to reindict Comey.",
-      "summaryTokens": 597,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "trailText": "Setback for government after judge said it probably violated Comey ally’s protections from unreasonable searches",
+      "summary": "On Dec. 7, federal judge Colleen Kollar-Kotelly temporarily barred prosecutors from accessing computer materials seized from Daniel Richman – James Comey’s friend and legal adviser – after finding the government likely conducted an unconstitutional, warrantless search of files previously obtained under expired warrants. Richman sued in November, asserting Fourth Amendment and attorney–client privilege violations as prosecutors pursue Comey on charges of lying to Congress about authorized leaks. The order, in effect until Dec. 12, compounds setbacks for the Eastern District of Virginia, whose recent grand jury declined to indict NY Attorney General Letitia James.",
+      "summaryTokens": 997,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/la-wildfire-survivors-holidays-christmas",
@@ -125,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T15:00:24Z",
       "trailText": "After losing homes, heirlooms and decades of memories, Angelenos are piecing together new rituals this season",
-      "summary": "In January 2025, LA’s Pacific Palisades and Eaton wildfires destroyed over 9,400 structures, displacing thousands. Michael Holland and Anne Bannon lost 27 years’ worth of Christmas heirlooms in Altadena and now start fresh with a small tree and window lights in a Pasadena apartment. Newcomer Jodie Ludwin fled back to England after watching her Pacific Palisades home burn, refocusing on holiday memories with her children. In Altadena, nursing student Melissa Merritt—recovering from cancer—found solace in rescued toys and hunting eBay for lost ornaments. The first rebuilt Palisades house opened in November, offering a glimmer of hope for the community.",
-      "summaryTokens": 634,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "After January’s Pacific Palisades and Eaton fires—LA’s deadliest blaze (6,800 structures, 12 dead; 9,400 destroyed in Altadena/Pasadena, half of Black households hit)—survivors are forging new holiday rituals. Altadena couple Michael Holland (64) and Anne Bannon (67) lost 27 years of ornaments, opting for a small tree and icicle lights in their Pasadena apartment. Recent arrivals Jodie Ludwin’s family returned to the UK, refocusing on family traditions. LA’s first rebuilt Palisades home marks hope; Altadena mother Melissa Merritt, recovering from cancer, treasures rescued heirlooms and a tabletop tree before celebrating resilience in England.",
+      "summaryTokens": 956,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/maha-maga-feud-chemicals-pesticides",
@@ -137,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T14:00:27Z",
       "trailText": "‘Make America healthy again’ leaders call for Lee Zeldin to quit for favoring chemical companies over US families",
-      "summary": "Leaders of the Robert F. Kennedy Jr–backed “Make America Healthy Again” (Maha) movement, including Zen Honeycutt, Kelly Ryerson, and Vani Hari, have petitioned Trump to fire EPA chief Lee Zeldin, accusing him of prioritizing chemical industry interests over families. Since January, Zeldin has rolled back Biden-era toxic chemical safeguards, eased approvals of pesticides like dicamba, reinterpreted PFAS definitions, and installed industry executives in top roles. Maha warns these moves will elevate chronic disease rates and healthcare costs. The EPA defends its science-driven policies and accuses critics of misinformation.",
-      "summaryTokens": 1069,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Leaders of the ‘Make America Healthy Again’ (Maha) movement, led by RFK Jr. and supported by influencers Zen Honeycutt, Kelly Ryerson and Vani Hari, petition Trump to dismiss EPA Administrator Lee Zeldin for prioritizing chemical and pesticide industry interests over US public health. Since January Zeldin has rolled back oversight on toxic chemicals, fast-tracked dicamba and PFAS pesticide approvals, and reduced scrutiny of existing compounds, while appointing industry executives to agency posts. EPA defends its actions as aligned with Trump-Kennedy policies, but Maha warns rollback risks higher disease rates and medical costs.",
+      "summaryTokens": 1003,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/us-may-end-support-for-ukraine-war-effort-says-donald-trump-jr",
@@ -149,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T13:44:27Z",
       "trailText": "Eldest son of Donald Trump makes speculative comments during tirade against Volodymyr Zelenskyy and EU",
-      "summary": "Donald Trump Jr, a key figure in the MAGA movement, told a Middle East conference the US under President Trump might abandon support for Ukraine’s war effort. He accused President Zelenskyy of prolonging fighting to secure re-election, labeled Ukraine’s wealthy elite “corrupt” for fleeing and leaving a “peasant class” to fight, and derided EU sanctions as ineffective. He claimed fentanyl from Venezuela poses a greater US threat. Though unofficial, his remarks mirror pressure within the Trump team for Kyiv to cede territory and signal a potential end to US war funding.",
-      "summaryTokens": 750,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "At a Middle East forum, Donald Trump Jr warned his father may withdraw US military support for Ukraine, arguing Kyiv’s “corrupt” elites fled abroad and left “peasants” to fight while looting funds. He criticized President Zelenskyy for prolonging the war to win re-election, branded EU sanctions “no plan” for merely hiking oil prices, and singled out EU foreign policy chief Kaja Kallas. He claimed only three voters in his 2022 canvass named the Ukraine war a top-10 issue and asserted Venezuelan fentanyl poses a greater threat. His remarks echo MAGA pressure on the Trump team to demand territorial concessions from Kyiv.",
+      "summaryTokens": 1347,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/08/new-york-city-wealthy-mamdani-win",
@@ -161,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T13:00:24Z",
       "trailText": "Conservatives warned of a mass exodus if the democratic socialist won, but experts, and property data, paint a very different picture",
-      "summary": "Despite conservative and NY Post alarms that Democratic socialist mayor Zohran Mamdani’s modest tax hikes on top earners would spark a mass exodus to low-tax states, November Manhattan contracts for $4m+ homes rose from October and luxury inventory fell 16% year-over-year. Cornell sociologist Cristobal Young and EU Tax Observatory’s Quentin Parrinello note high-income migration is historically low—ties to family, assets and networks outweigh small tax bumps, as seen in other US and European regions.",
-      "summaryTokens": 731,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Despite conservative warnings that Zohran Mamdani’s modest tax-hike plan would trigger a millionaire exodus, November data show rising signed contracts for Manhattan homes over $4 million and a 16% drop in luxury inventory. Cornell sociologist Cristobal Young and EU Tax Observatory’s Quentin Parrinello cite historically low migration among high earners—tied to family, cultural and business networks and immovable assets—and studies from New Jersey to France confirm limited millionaire flight, meaning roughly 98% of wealthy New Yorkers remain and will boost city revenues.",
+      "summaryTokens": 413,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/luigi-mangione-hearings-trial-shooting",
@@ -173,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T13:00:23Z",
       "trailText": "Last week’s proceedings in murder case of Brian Thompson showed a mix of politics, social comment and drama",
-      "summary": "Last week’s New York court hearings in the Luigi Mangione murder case previewed the sensational trial over the December 2024 shooting of UnitedHealth executive Brian Thompson. Judges debated whether evidence—from the arrest at a McDonald’s by officers mocking masks to a cell placement citing an ‘Epstein-style’ scare—was obtained legally. Testimony highlighted healthcare-industry outrage, wealth inequality and gun violence. A reporter’s forcible ejection during a sealing dispute underscored press access tensions. Defense lawyers argue warrantless searches and rights violations, setting the stage for a politically charged, drama-packed trial.",
-      "summaryTokens": 872,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "At contested preliminary hearings in NYC, prosecutors and defense clashed over seized evidence in the Luigi Mangione murder case, previewing a trial steeped in politics, social commentary and conspiracy. Mangione is charged with fatally shooting United Healthcare exec Brian Thompson with a ghost gun, igniting public outrage over for-profit healthcare, inequality and gun violence. Testimony ranged from a McDonald’s tipster suspicious of a mask-wearing suspect to a guard invoking Epstein-style precautions, and culminated in the forcible ejection of a reporter challenging sealed evidence. Mangione, pleading not guilty, contests warrantless searches and Miranda issues, underscoring America’s adversarial system.",
+      "summaryTokens": 956,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/animal-rights-bombings-daniel-andreas-san-diego",
@@ -185,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T13:00:23Z",
       "trailText": "Daniel Andreas San Diego, now 47, is fighting extradition from the UK amid accusations he set off three pipe bombs in 2003",
-      "summary": "Daniel Andreas San Diego, 47, the FBI’s 21-year fugitive from the 2003 Emeryville pipe-bomb attacks on Chiron and Shaklee (no injuries), is fighting UK extradition on federal ‘ecoterrorism’ charges that carry up to 90 years’ prison. Arrested in Wales with an Irish alias in November 2024, he argues Donald Trump–era political interference, stacked charges and brutal US prison conditions violate his human rights. Westminster hearings resume December 2025 with a ruling due January 2026.",
-      "summaryTokens": 416,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Daniel Andreas San Diego, 47, the FBI’s most-wanted suspect in 2003 pipe bomb attacks on Chiron and Shaklee HQs to protest animal testing, is fighting extradition from the UK. Vanishing after a traffic stop in 2003, he lived under alias “Danny Stephen Webb” in northern Wales until his November 2024 arrest. If returned and convicted, he faces up to 90 years in prison. His UK barristers argue he’ll be denied a fair, apolitical trial in the US under Trump, highlighting risks of stacked charges, harsh sentencing and prison violence. A Westminster court verdict is due January 2026.",
+      "summaryTokens": 572,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/trump-immigration-ice",
@@ -197,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T12:00:23Z",
       "trailText": "National guard shooting prompts extraordinary outburst and targeting of people from startling range of countries",
-      "summary": "After a gunman shot two West Virginia National Guards outside DC’s Farragut West station on Nov. 26, President Trump seized on the attacker’s Afghan origin—despite his approved asylum status—to vow a “permanent pause” on migration from all Third World countries, denaturalize dissenters and deport “non-assets.” In a White House meeting he hurled racist slurs at Minnesota’s Somali community and Rep. Ilhan Omar. ICE then launched Operation Catahoula Crunch in New Orleans and mass arrests in Minneapolis–St. Paul, while Sec. Kristi Noem proposed travel bans on 32 unnamed nations, canceling some green-card and citizenship appointments as legal experts warn of unlawful overreach.",
-      "summaryTokens": 951,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "After a West Virginia guardwoman’s fatal shooting by Afghan asylum-seeker Rahmanullah Lakanwal on 26 Nov, Trump blamed immigrants, promising on Thanksgiving to pause migration from \"all Third World countries,\" terminate Biden-era admissions, denaturalize \"non-assets\" and deport those \"undermining domestic tranquility.\" Aided by Stephen Miller, he broadened attacks, then at a cabinet meeting called Somali Minnesotans and Rep. Ilhan Omar \"garbage.\" ICE launched Operation Catahoula Crunch, targeting 5,000 arrests in New Orleans and Minnesota, while DHS chief Kristi Noem proposed bans on 32 unnamed nations, canceling some green-card appointments.",
+      "summaryTokens": 1206,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/alabama-catholic-priest-sex-minor",
@@ -209,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T12:00:21Z",
       "trailText": "Heather Jones, now 33, went public with allegations after Robert Sullivan continued to work with children",
-      "summary": "Heather Jones, 33, alleges that Alabama priest Robert Sullivan paid her hundreds of thousands of dollars for sex and companionship beginning when she was 17, exploiting her foster‐care background and work as an exotic dancer. Her 2025 complaint to the Birmingham diocese precipitated Sullivan’s Vatican‐approved resignation but no criminal probe. Jones, who says she faced gaslighting and intimidation, seeks accountability and protection for others. Meanwhile she faces a misdemeanor illegal practice of law charge she calls retaliatory.",
-      "summaryTokens": 844,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Heather Jones, now 33, alleges that from age 17 she exchanged sex and private companionship for financial support with longtime Homewood, Alabama priest Robert “Bob” Sullivan, who paid her hundreds of thousands over several years. After Jones’s formal complaint spurred a Birmingham diocese review and Vatican referral, Sullivan asked Pope Leo XIV to dispense him from priestly obligations and resigned on Nov. 22. Jones says there’s “no real winner” but hopes for healing, accountability and stronger protections for minors; she faces a misdemeanor she calls retaliatory.",
+      "summaryTokens": 535,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/07/trump-administration-news-update-today",
@@ -221,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-07T03:02:49Z",
       "trailText": "US defense secretary Pete Hegseth under siege over mishandling of classified military intelligence and Caribbean boat attacks. Key US politics stories from 6 December 2025",
-      "summary": "Defense Secretary Pete Hegseth faces calls for ouster after an inspector general report found he mishandled classified intel shared via Signal and lawmakers accuse him of ordering a deadly “double-tap” Caribbean boat strike, yet he retains Trump’s backing. Meanwhile, the administration cranks up anti-immigrant rhetoric, swaps mainstream Pentagon press passes for right-wing pundits, confronts ICE dog‐bite allegations, tracks a wounded National Guard soldier’s slow recovery, waives Southwest’s $11m fine, bars Bob Menendez from office, reopens vaccine-schedule debates and hosts Kennedy Center honorees in the Oval Office.",
-      "summaryTokens": 1001,
-      "generatedAt": "2025-12-08T03:36:11.699Z"
+      "summary": "Defense Secretary Pete Hegseth, backed by Trump, faces calls to resign after an inspector general found he mishandled classified intelligence via Signal ahead of Yemen strikes and lawmakers allege his Caribbean ‘double-tap’ boat attacks killed survivors. In other developments: Trump escalated anti-immigrant rhetoric after a DC National Guard shooting; Pentagon press credentials shifted to pro-Trump pundits; a wounded Guard member slowly recovers; Trump hosted Kennedy Center honorees amid board shake-ups; Sen. Patty Murray condemned an ICE dog mauling; the administration waived Southwest’s $11 m fine; ex‐Sen. Bob Menendez was disqualified from office; Biden attacked GOP on trans rights; vaccine guidelines face scrutiny; and a judge questioned federal command of deployed Guard troops.",
+      "summaryTokens": 710,
+      "generatedAt": "2025-12-09T04:33:03.054Z"
     },
     {
       "id": "us-news/2025/dec/06/trump-kennedy-center-honorees",
@@ -15473,7 +15749,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-04T00:13:35Z",
       "trailText": "Mogul appeared shocked after sentence read out to hushed courtroom but prosecutors disappointed by 50-month term",
-      "summary": "In a hushed Manhattan courtroom on Friday, Sean “Diddy” Combs was sentenced to 50 months in prison for two counts of transporting women for prostitution, far below the 135 months prosecutors sought and ten months under the advisory range. Convicted of coercing ‘freak-off’ encounters but acquitted of running a broader sex-trafficking conspiracy, Combs appeared stunned as Judge Arun Subramanian rejected his plea for mercy. Citing abuse, power and resources, the judge praised victims’ bravery and underscored Combs’s unchanged behavior despite apologies and claims of reform.",
+      "summary": "In a hushed Manhattan courtroom on Friday, Sean “Diddy” Combs was sentenced to 50 months in prison for two counts of transporting women for prostitution, far below the 135 months prosecutors sought and ten months under the advisory range. Convicted of coercing ‘freak-off’ encounters but acquitted of running a broader sex-trafficking conspiracy, Combs appeared stunned as Judge Arun Subramanian rejected his plea for mercy. Citing abuse, power and resources, the judge praised victims��� bravery and underscored Combs’s unchanged behavior despite apologies and claims of reform.",
       "summaryTokens": 543,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
@@ -16883,7 +17159,7 @@
     },
     {
       "id": "us-news/2025/sep/28/florida-ancient-canoes",
-      "title": "‘It’s incredibly exciting’: ancient canoe unearthed after Hurricane Ian stormed through Florida",
+      "title": "���It’s incredibly exciting’: ancient canoe unearthed after Hurricane Ian stormed through Florida",
       "webUrl": "https://www.theguardian.com/us-news/2025/sep/28/florida-ancient-canoes",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/sep/28/florida-ancient-canoes",
       "section": "us-news",
