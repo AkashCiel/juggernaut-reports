@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-08T03:28:39.726Z",
+    "generated_at": "2025-12-09T04:03:49.661Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-07"
+      "to": "2025-12-08"
     },
-    "article_count": 152,
+    "article_count": 153,
     "merge_info": {
-      "previous_count": 151,
+      "previous_count": 152,
       "new_articles": 1,
       "updated_articles": 1,
-      "total_count": 152
+      "total_count": 153
     },
     "batch_info": {
-      "initial_batch_id": "batch_6936458f4d148190b3c3e1c313b0ba8b",
+      "initial_batch_id": "batch_69379e817a148190be6abbb5d0bb9b24",
       "retry_batches": [],
-      "total_tokens": 3977,
-      "processing_time_hours": 0
+      "total_tokens": 5649,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/08/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/08/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/08/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-12-08T21:00:49Z",
+      "trailText": "Sue Gray",
+      "summary": "Correction: An image caption in the 4 Dec article on Starmer’s peer appointments misidentified Sue Gray as a new appointee; she was on the December 2024 list and seated as Baroness Gray of Tottenham in Feb 2025 (print only). Other corrections cover a Co. Offaly fire murder inquiry; UN alarm on Māori rights in New Zealand; arrest of a Jan 6 pipe-bomb suspect; a US student jailed 90 days for stealing four chickens; and the UK-EU youth mobility scheme letting thousands live and work abroad. Readers may send corrections to guardian.readers@theguardian.com, Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 3525,
+      "generatedAt": "2025-12-09T04:03:49.368Z"
+    },
     {
       "id": "news/2025/dec/07/corrections-and-clarifications1",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-12-07T21:00:31Z",
       "trailText": "Halo TikTok channel | Your Party vote",
-      "summary": "The Guardian issues corrections: clarifies that the “Explaining 2008 Crashgate in girl terms” post appeared on a parody TikTok channel, not Sky Sports’ Halo; amends Your Party ballot results—48.4% voted against collective leadership (not 48.6%) and 23.52% backed the “For the Many” name (not 25.23%), correcting both print and online editions including a Zarah Sultana leadership report; lists other amended stories on a US neo-Nazi leader, a disputed boat strike order, England’s £2m homeowners, the Dutch king’s Suriname visit and a Myanmar junta figure; and invites readers to send further corrections to guardian.readers@theguardian.com or the Readers’ Editor.",
-      "summaryTokens": 1092,
-      "generatedAt": "2025-12-08T03:28:39.308Z"
+      "summary": "Guardian issues corrections clarifying that a motor-racing TikTok post attributed to Sky Sports’ Halo channel was a parody on another account; the vote against Your Party’s collective leadership was 48.4%, not 48.6%, and the online article’s For The Many tally was 23.52%, not 25.23%. Additional amendments cover US neo-Nazi leader reprisals, release of a boat strike video, £2m homeowners, the Dutch king on slavery, and a Myanmar junta crony’s FIFA role. Readers can send corrections to guardian.readers@theguardian.com or write to the Readers’ editor.",
+      "summaryTokens": 1133,
+      "generatedAt": "2025-12-09T04:03:49.368Z"
     },
     {
       "id": "news/2025/dec/06/dont-say-we-didnt-warn-you-beijing-summons-journalists-in-hong-kong-after-fire",
