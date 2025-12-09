@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-08T03:33:08.065Z",
+    "generated_at": "2025-12-09T04:17:16.642Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-07"
+      "to": "2025-12-09"
     },
-    "article_count": 255,
+    "article_count": 259,
     "merge_info": {
-      "previous_count": 254,
-      "new_articles": 1,
+      "previous_count": 255,
+      "new_articles": 4,
       "updated_articles": 1,
-      "total_count": 255
+      "total_count": 259
     },
     "batch_info": {
-      "initial_batch_id": "batch_693646d11de8819089b07dfa499980fe",
+      "initial_batch_id": "batch_6937a2337fe08190ac27908dc5626bf3",
       "retry_batches": [],
-      "total_tokens": 5506,
+      "total_tokens": 11386,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/08/trump-nvidia-ai-chips-china",
+      "title": "Trump clears way for Nvidia to sell powerful AI chips to China",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/08/trump-nvidia-ai-chips-china",
+      "section": "technology",
+      "publishedDate": "2025-12-09T01:53:01Z",
+      "trailText": "Commerce department finalizing deal to allow H200 chips to be sold to China as strict Biden-era restrictions relaxed",
+      "summary": "Trump announced via Truth Social the US will permit Nvidia to export its advanced H200 AI chips to approved Chinese customers under Commerce Dept oversight, reversing Biden-era bans. The deal, also extended to AMD and Intel, demands 25% of proceeds go to the US. Nvidia CEO Jensen Huang, who lobbied Trump and pledged $500 bn in domestic AI investment, had seen prior H20 chips barred. Democrats Elizabeth Warren and Andy Kim warn the move risks enabling China’s surveillance and military AI, calling for congressional hearings. Nvidia says vetted sales balance security and support US manufacturing, predicting billions in new revenue. Chinese authorities have not yet responded.",
+      "summaryTokens": 1640,
+      "generatedAt": "2025-12-09T04:17:16.222Z"
+    },
+    {
+      "id": "technology/2025/dec/08/social-media-damages-childrens-ability-to-focus",
+      "title": "Social media use damages children’s ability to focus, say researchers",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/08/social-media-damages-childrens-ability-to-focus",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/08/social-media-damages-childrens-ability-to-focus",
+      "section": "technology",
+      "publishedDate": "2025-12-08T15:02:44Z",
+      "trailText": "Study of 8,300 US children suggests social media may be contributing to a rise in ADHD diagnoses",
+      "summary": "Researchers tracked 8,300 US children aged 10–14 and found that 1.4 hr/day social media use, unlike TV/video (2.3 hr) or gaming (1.5 hr), was linked to rising inattention symptoms and may contribute to an increase in ADHD diagnoses (from 9.5% in 2003–07 to 11.3% in 2020–22). The peer-reviewed Pediatrics Open Science study by Karolinska Institute and Oregon Health & Science University reports this effect holds across socioeconomic backgrounds and genetic risk. Average daily social media time rose from 30 min at age 9 to 2.5 hr at 13, prompting calls for stricter age verification and clearer tech guidelines.",
+      "summaryTokens": 648,
+      "generatedAt": "2025-12-09T04:17:16.222Z"
+    },
+    {
+      "id": "technology/2025/dec/08/it-has-to-be-genuine-older-influencers-drive-growth-social-media",
+      "title": "‘It has to be genuine’: older influencers drive growth on social media",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/08/it-has-to-be-genuine-older-influencers-drive-growth-social-media",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/08/it-has-to-be-genuine-older-influencers-drive-growth-social-media",
+      "section": "technology",
+      "publishedDate": "2025-12-08T12:48:59Z",
+      "trailText": "As midlife audiences turn to digital media, the 55 to 64 age bracket is an increasingly important demographic",
+      "summary": "Increasingly, 55-64-year-olds are driving social media growth by embracing genuine, community-focused content. Ampere data shows YouTube traffic up 20% in the US and 14% in the UK since 2020, TikTok UK users +16%. Midlife audiences, long loyal to linear TV, are digitising via smartphones and smart TVs, with over half watching influencer videos weekly. Berkshire PT Caroline Idiens (53) now has 2.3m Instagram followers after lockdown reels and a bestselling book Fit at 50; Inverness’s Valerie Mackay (@embracingfifty, 62) 312k TikTok, 1m Instagram; north London’s Mark Lidster (@FitnessGeezer, 62) hits 1m views. Trust and authenticity are crucial.",
+      "summaryTokens": 1812,
+      "generatedAt": "2025-12-09T04:17:16.222Z"
+    },
+    {
+      "id": "technology/2025/dec/08/scores-of-uk-parliamentarians-join-call-to-regulate-most-powerful-ai-systems",
+      "title": "Scores of UK parliamentarians join call to regulate most powerful AI systems",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/08/scores-of-uk-parliamentarians-join-call-to-regulate-most-powerful-ai-systems",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/08/scores-of-uk-parliamentarians-join-call-to-regulate-most-powerful-ai-systems",
+      "section": "technology",
+      "publishedDate": "2025-12-08T05:00:42Z",
+      "trailText": "Exclusive: Campaign urges PM to show independence from US and push to rein in development of superintelligence",
+      "summary": "Over 100 UK parliamentarians across parties call for binding regulations on frontier AI systems, fearing superintelligence could endanger national and global security. Backed by nonprofit Control AI (co-founded by Skype’s Jaan Tallinn) and figures like Des Browne and Zac Goldsmith, they urge PM Keir Starmer to resist US pressure and lead international AI safety efforts. They reference the 2023 Bletchley Park summit’s warnings and propose measures including global agreements, independent watchdogs, testing standards, power-based tripwires and off-switch requirements. Industry experts warn regulation is urgent to prevent a reckless AI arms race and catastrophic harm.",
+      "summaryTokens": 951,
+      "generatedAt": "2025-12-09T04:17:16.222Z"
+    },
     {
       "id": "technology/2025/dec/08/ai-comedy-can-robots-be-funny",
       "title": "A robot walks into a bar: can a Melbourne researcher get AI to do comedy?",
@@ -29,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-07T14:00:23Z",
       "trailText": "Machines can be funny when they mistakenly bump into things – but standup is a tough gig even for humans",
-      "summary": "University of Melbourne researcher Dr Robert Walton is using a A$500,000 ARC grant to train about ten ground-vehicle robots (40cm–2m tall) in non-verbal standup comedy. By equipping them with motion and audio sensors to detect timing, head tilts, laughter and other audience cues, he aims to teach machines intentional humor beyond mechanical mishaps. The experiment will later consider adding voices. Its goal is to assess if robots can foster an authentic comedic connection and to study potential benefits and coercive risks of humor in human-robot interactions. Critics like Tina Fey and Tim Minchin insist true comedy relies on human flaws and lived experience.",
-      "summaryTokens": 1138,
-      "generatedAt": "2025-12-08T03:33:07.613Z"
+      "summary": "University of Melbourne’s Dr Robert Walton, backed by a A$500,000 ARC grant, is teaching a swarm of 10 ground robots (40cm–2m tall) to perform non-verbal standup comedy. Eschewing text-based AI, his project focuses on timing, physical clowning and audience feedback, equipping robots with sensors to detect movement, rhythms and laughter. By simulating human senses, Walton seeks to understand if machines can evoke genuine humour, explore human–robot interaction and assess the creative and coercive risks of robotic performance. Future voice integration is under consideration.",
+      "summaryTokens": 863,
+      "generatedAt": "2025-12-09T04:17:16.222Z"
     },
     {
       "id": "technology/2025/dec/06/ai-research-papers",
