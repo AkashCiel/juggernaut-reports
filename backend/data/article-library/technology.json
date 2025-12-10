@@ -1,23 +1,23 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-09T04:17:16.642Z",
+    "generated_at": "2025-12-10T03:49:59.942Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-12-09"
     },
-    "article_count": 259,
+    "article_count": 263,
     "merge_info": {
-      "previous_count": 255,
+      "previous_count": 259,
       "new_articles": 4,
-      "updated_articles": 1,
-      "total_count": 259
+      "updated_articles": 4,
+      "total_count": 263
     },
     "batch_info": {
-      "initial_batch_id": "batch_6937a2337fe08190ac27908dc5626bf3",
+      "initial_batch_id": "batch_6938ecaef5f0819092bea34b205c492a",
       "retry_batches": [],
-      "total_tokens": 11386,
-      "processing_time_hours": 0
+      "total_tokens": 16398,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
@@ -27,11 +27,59 @@
       "webUrl": "https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china",
       "apiUrl": "https://content.guardianapis.com/technology/2025/dec/08/trump-nvidia-ai-chips-china",
       "section": "technology",
-      "publishedDate": "2025-12-09T01:53:01Z",
-      "trailText": "Commerce department finalizing deal to allow H200 chips to be sold to China as strict Biden-era restrictions relaxed",
-      "summary": "Trump announced via Truth Social the US will permit Nvidia to export its advanced H200 AI chips to approved Chinese customers under Commerce Dept oversight, reversing Biden-era bans. The deal, also extended to AMD and Intel, demands 25% of proceeds go to the US. Nvidia CEO Jensen Huang, who lobbied Trump and pledged $500 bn in domestic AI investment, had seen prior H20 chips barred. Democrats Elizabeth Warren and Andy Kim warn the move risks enabling China’s surveillance and military AI, calling for congressional hearings. Nvidia says vetted sales balance security and support US manufacturing, predicting billions in new revenue. Chinese authorities have not yet responded.",
-      "summaryTokens": 1640,
-      "generatedAt": "2025-12-09T04:17:16.222Z"
+      "publishedDate": "2025-12-09T18:45:24Z",
+      "trailText": "Commerce department finalising deal to allow H200 chips to be sold to China as strict Biden-era restrictions relaxed",
+      "summary": "Former president Donald Trump has reopened sales of Nvidia’s second-tier H200 AI chips to approved Chinese customers, ending Biden-era bans, with the US taking 25% of proceeds. The move follows Jensen Huang’s lobbying, plans to extend offers to AMD and Intel, and pledges from Nvidia to invest $500 billion in US AI infrastructure. Critics including senators Warren and Kim warn of Chinese military and surveillance uses, while Beijing may impose its own limits. China’s foreign ministry welcomed cooperation in principle but regulators could still cap imports to bolster domestic chip development.",
+      "summaryTokens": 990,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
+    },
+    {
+      "id": "technology/2025/dec/09/ai-researchers-are-to-blame-for-serving-up-slop",
+      "title": "AI researchers are to blame for serving up slop | Letter",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/09/ai-researchers-are-to-blame-for-serving-up-slop",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/09/ai-researchers-are-to-blame-for-serving-up-slop",
+      "section": "technology",
+      "publishedDate": "2025-12-09T16:43:34Z",
+      "trailText": "Letter: They have unleashed irresponsible innovations on the world and their slop generators have flooded academia, says Dr Craig Reeves",
+      "summary": "Dr Craig Reeves of Birkbeck University contends that AI researchers are to blame for unleashing irresponsible innovations that have flooded academia and other disciplines with low-quality, AI-generated “slop,” overwhelming peer review and experts untrained to detect it. As an ethics journal reviewer, he finds the volume of AI output has clogged publication pipelines and threatens to drown genuine scholarship in noise, undermining academic standards. He warns that if left unchecked, AI-driven rubbish will trigger a downward-spiralling bad imitation of scholarship with no obvious escape. Reeves insists that those ignoring these risks cannot later claim ignorance of foreseeable consequences.",
+      "summaryTokens": 2149,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
+    },
+    {
+      "id": "technology/2025/dec/09/eu-investigation-google-ai-models-gemini",
+      "title": "EU opens investigation into Google’s use of online content for AI models",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini",
+      "section": "technology",
+      "publishedDate": "2025-12-09T14:38:39Z",
+      "trailText": "European Commission to assess whether Gemini owner is putting rival companies at a disadvantage",
+      "summary": "The European Commission has opened an investigation into whether Google’s parent company Alphabet is breaching EU competition rules by using online content from publishers and YouTube creators to train its Gemini AI model. Regulators will examine if Google distorts competition by imposing unfair terms, granting itself privileged access, or failing to compensate or offer opt-out to content providers, thus disadvantaging rival AI developers. The inquiry follows reports that Google used web and YouTube content without adequate permission to power AI-driven search and generative features, and adds to recent EU probes and fines targeting US tech giants.",
+      "summaryTokens": 542,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
+    },
+    {
+      "id": "technology/2025/dec/08/australia-social-media-ban-ai",
+      "title": "Australia launches a social media ban – and is AI a bubble about to pop?",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/08/australia-social-media-ban-ai",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/08/australia-social-media-ban-ai",
+      "section": "technology",
+      "publishedDate": "2025-12-09T14:23:57Z",
+      "trailText": "Under-16s to be banned from social media in Australia, and analysts continue to monitor the massive investment in AI",
+      "summary": "Australia will enact a world-first ban on social media use by under-16s from December 10, forcing platforms like Instagram, TikTok, YouTube and Snapchat to verify age and deactivate underage accounts or face fines up to A$70 million. Teens show mixed reactions—some welcome digital relief, others decry government overreach. Malaysia, Denmark, Norway and the EU are considering similar moves. Simultaneously, unprecedented AI investment has concentrated a third of the S&P 500 in seven tech giants, fueling debate over whether AI’s rapid rise is a sustainable boom or a looming bubble.",
+      "summaryTokens": 671,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
+    },
+    {
+      "id": "technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support",
+      "title": "‘I feel it’s a friend’: quarter of teenagers turn to AI chatbots for mental health support ",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support",
+      "section": "technology",
+      "publishedDate": "2025-12-09T05:00:04Z",
+      "trailText": "Experts warn of dangers as England and Wales study shows 13- to 17-year-olds consulting AI amid long waiting lists for services",
+      "summary": "Research among 11,000 13- to 17-year-olds in England and Wales finds one in four used AI chatbots for mental health support in the past year, rising to 40% among those involved in youth violence. Victims, perpetrators and Black teens—twice as likely as white peers—cite 24/7 availability, privacy and perceived empathy where NHS and charitable services have long waits or confidentiality concerns. The Youth Endowment Fund warns AI fills unmet demand but urges human-led care amid risks from unregulated bots, spurring calls for youth-led, evidence-based regulation as lawsuits target chatbot firms over teen suicides.",
+      "summaryTokens": 682,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
     },
     {
       "id": "technology/2025/dec/08/social-media-damages-childrens-ability-to-focus",
@@ -41,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-08T15:02:44Z",
       "trailText": "Study of 8,300 US children suggests social media may be contributing to a rise in ADHD diagnoses",
-      "summary": "Researchers tracked 8,300 US children aged 10–14 and found that 1.4 hr/day social media use, unlike TV/video (2.3 hr) or gaming (1.5 hr), was linked to rising inattention symptoms and may contribute to an increase in ADHD diagnoses (from 9.5% in 2003–07 to 11.3% in 2020–22). The peer-reviewed Pediatrics Open Science study by Karolinska Institute and Oregon Health & Science University reports this effect holds across socioeconomic backgrounds and genetic risk. Average daily social media time rose from 30 min at age 9 to 2.5 hr at 13, prompting calls for stricter age verification and clearer tech guidelines.",
-      "summaryTokens": 648,
-      "generatedAt": "2025-12-09T04:17:16.222Z"
+      "summary": "Longitudinal study of 8,300 US children aged 10–14 by Karolinska Institute and Oregon Health & Science University finds daily social media use (1.4 h) linked to modest but significant increases in inattention symptoms, while TV/video (2.3 h) and gaming (1.5 h) show no association. Researchers suggest constant notifications may impair focus and contribute to rising ADHD diagnoses (from 9.5% in 2003–07 to 11.3% in 2020–22). Published in Pediatrics Open Science, the report urges stricter age verification and clearer digital consumption guidelines to support children’s cognitive development.",
+      "summaryTokens": 562,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
     },
     {
       "id": "technology/2025/dec/08/it-has-to-be-genuine-older-influencers-drive-growth-social-media",
@@ -53,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-12-08T12:48:59Z",
       "trailText": "As midlife audiences turn to digital media, the 55 to 64 age bracket is an increasingly important demographic",
-      "summary": "Increasingly, 55-64-year-olds are driving social media growth by embracing genuine, community-focused content. Ampere data shows YouTube traffic up 20% in the US and 14% in the UK since 2020, TikTok UK users +16%. Midlife audiences, long loyal to linear TV, are digitising via smartphones and smart TVs, with over half watching influencer videos weekly. Berkshire PT Caroline Idiens (53) now has 2.3m Instagram followers after lockdown reels and a bestselling book Fit at 50; Inverness’s Valerie Mackay (@embracingfifty, 62) 312k TikTok, 1m Instagram; north London’s Mark Lidster (@FitnessGeezer, 62) hits 1m views. Trust and authenticity are crucial.",
-      "summaryTokens": 1812,
-      "generatedAt": "2025-12-09T04:17:16.222Z"
+      "summary": "Caroline Idiens’s lockdown fitness reels propelled her to 2.3M Instagram followers, emblematic of a surge in midlife social-media engagement. Ampere data: YouTube traffic among 55–64-year-olds rose 20% in US, 14% UK since 2020; UK TikTok use for that cohort jumped 16% in a year. Influencers like @embracingfifty’s Valerie Mackay (1M+ IG followers) and Mark Lidster’s FitnessGeezer (1M views per video) underscore the value older audiences place on genuine, trust-based content and community. Personal trainers like Idiens, 53, and community-focused creators emphasise authenticity: \"It has to be genuine,\" Idiens says, as trust and companionship drive loyalty among followers transitioning from linear TV to digital platforms.",
+      "summaryTokens": 1369,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
     },
     {
       "id": "technology/2025/dec/08/scores-of-uk-parliamentarians-join-call-to-regulate-most-powerful-ai-systems",
@@ -65,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2025-12-08T05:00:42Z",
       "trailText": "Exclusive: Campaign urges PM to show independence from US and push to rein in development of superintelligence",
-      "summary": "Over 100 UK parliamentarians across parties call for binding regulations on frontier AI systems, fearing superintelligence could endanger national and global security. Backed by nonprofit Control AI (co-founded by Skype’s Jaan Tallinn) and figures like Des Browne and Zac Goldsmith, they urge PM Keir Starmer to resist US pressure and lead international AI safety efforts. They reference the 2023 Bletchley Park summit’s warnings and propose measures including global agreements, independent watchdogs, testing standards, power-based tripwires and off-switch requirements. Industry experts warn regulation is urgent to prevent a reckless AI arms race and catastrophic harm.",
-      "summaryTokens": 951,
-      "generatedAt": "2025-12-09T04:17:16.222Z"
+      "summary": "Over 100 cross-party UK parliamentarians, including ex-AI minister Jonathan Berry, former defence secretary Des Browne and Zac Goldsmith, backed by nonprofit Control AI (co-founded by Skype’s Jaan Tallinn), urge Keir Starmer to enact binding rules on frontier AI amid fears superintelligence threatens national and global security. They demand an independent watchdog, international treaties, mandatory testing tripwires and minimum release standards, invoking the 2023 AI safety summit’s key warnings. Campaigners warn industry lobbying is stalling safeguards, risking mental health, environmental damage and existential peril, and call for urgent legal measures within two years.",
+      "summaryTokens": 564,
+      "generatedAt": "2025-12-10T03:49:59.694Z"
     },
     {
       "id": "technology/2025/dec/08/ai-comedy-can-robots-be-funny",
