@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-12-09T03:58:48.938Z",
+    "generated_at": "2025-12-10T03:36:24.683Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-12-08"
+      "to": "2025-12-09"
     },
-    "article_count": 142,
+    "article_count": 143,
     "merge_info": {
-      "previous_count": 141,
+      "previous_count": 142,
       "new_articles": 1,
-      "updated_articles": 3,
-      "total_count": 142
+      "updated_articles": 1,
+      "total_count": 143
     },
     "batch_info": {
-      "initial_batch_id": "batch_69379e20c1208190962f1706bc879dd2",
+      "initial_batch_id": "batch_6938ea60ce488190a486a7b5b9edd875",
       "retry_batches": [],
-      "total_tokens": 10773,
+      "total_tokens": 3485,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/dec/09/hmrc-owes-me-refund-national-insurance-overpaid",
+      "title": "HMRC owes me £2,200 but says it could be 33 weeks before it pays me back",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/09/hmrc-owes-me-refund-national-insurance-overpaid",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/09/hmrc-owes-me-refund-national-insurance-overpaid",
+      "section": "money",
+      "publishedDate": "2025-12-09T07:00:02Z",
+      "trailText": "A reader says they overpaid their national insurance, but seem to be lending the government money with no interest",
+      "summary": "An Oxfordshire NHS worker who overpaid £2,200 in national insurance across two roles was told HMRC may take 33 weeks to process a refund—up from the pre-Covid norm of four weeks. After the Guardian intervened, the payment arrived in seven days alongside an apology call. HMRC cites increased demand on NI services and says it is recruiting hundreds of extra staff to clear the backlog. Readers with consumer money queries can email consumer.champions@theguardian.com or write to Consumer Champions, Money, the Guardian, 90 York Way, London N1 9GU.",
+      "summaryTokens": 548,
+      "generatedAt": "2025-12-10T03:36:24.459Z"
+    },
     {
       "id": "money/2025/dec/08/your-party-membership-portal-jeremy-corbyn-zarah-sultana",
       "title": "Your Party let me down with membership chaos",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-12-08T07:00:44Z",
       "trailText": "A reader found there seemed no way to cancel a subscription for Jeremy Corbyn and Zarah Sultana’s new party",
-      "summary": "The author, an early subscriber to Jeremy Corbyn and Zarah Sultana’s new Your Party, is unable to cancel recurring £5 card payments after the original MOU Operations–run membership portal went offline. Emails and local branch support failed; canceling allegedly requires signing up to a second, unlinked portal launched by Sultana post-Corbyn’s disavowal. MOU’s directors resigned, leaving Sultana responsible for ~£500k. She now promises full refunds via herewego@yourparty-membership.uk, while Your Party apologises and offers three months’ free membership to affected subscribers.",
-      "summaryTokens": 1134,
-      "generatedAt": "2025-12-09T03:58:48.625Z"
+      "summary": "Subscribers—many drawn by founders Jeremy Corbyn and Zarah Sultana’s promise of democratic renewal—are trapped in recurring payments, unable to cancel via either the unauthorized portal launched by Sultana with MOU Operations (over 20,000 sign-ups) or a second official site. MOU’s directors resigned citing imposed liability, and Corbyn denounced the portal. Affected members, some ethnic minorities who saw the party as a refuge from increased racism, report unreturned emails and sneaked charges. Sultana now claims all subscriptions are cancelled with refunds promised, and Your Party offers three months’ free membership.",
+      "summaryTokens": 1455,
+      "generatedAt": "2025-12-10T03:36:24.459Z"
     },
     {
       "id": "money/2025/dec/07/the-rise-of-parcel-thefts-how-to-protect-yourself-from-porch-pirates",
