@@ -1,26 +1,158 @@
 {
   "metadata": {
     "section": "business",
-    "generated_at": "2025-12-09T03:36:14.931Z",
+    "generated_at": "2025-12-10T03:19:35.511Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-08"
+      "to": "2025-12-09"
     },
-    "article_count": 607,
+    "article_count": 618,
     "merge_info": {
-      "previous_count": 596,
+      "previous_count": 607,
       "new_articles": 11,
-      "updated_articles": 4,
-      "total_count": 607
+      "updated_articles": 10,
+      "total_count": 618
     },
     "batch_info": {
-      "initial_batch_id": "batch_693793419ec48190a593af3f24488402",
+      "initial_batch_id": "batch_6938e5ab347c8190be04cb43edd6cfc3",
       "retry_batches": [],
-      "total_tokens": 34697,
-      "processing_time_hours": 0.4
+      "total_tokens": 46767,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "business/nils-pratley-on-finance/2025/dec/09/rachel-reevess-test-from-the-bond-markets-starts-now",
+      "title": "Rachel Reeves’s test from the bond markets starts now",
+      "webUrl": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/09/rachel-reevess-test-from-the-bond-markets-starts-now",
+      "apiUrl": "https://content.guardianapis.com/business/nils-pratley-on-finance/2025/dec/09/rachel-reevess-test-from-the-bond-markets-starts-now",
+      "section": "business",
+      "publishedDate": "2025-12-09T22:30:34Z",
+      "trailText": "UK gilt yields may have dropped a bit relative to other major countries, but it’s not at all clear that the fall with continue",
+      "summary": "UK 10-year gilt yields remain at a painful premium—70bp above US Treasuries, 25bp above the eurozone—costing taxpayers up to £7bn annually if unpaid, per IPPR. While fiscal credibility and Reeves’s September conference pledge helped push yields down by 20bp, they still hover around 4.5%. Persistent market doubts over long-term inflation, back-loaded tax rises, OBR growth downgrades and BoE gilt sales limit gains. Further Bank of England rate cuts and reduced political risk could ease borrowing costs, but Oxford Economics warns of a slow-burn confidence crisis ahead.",
+      "summaryTokens": 568,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/bank-of-england-expects-budget-cut-inflation-half-percentage-point",
+      "title": "Bank of England expects budget will cut inflation by up to half a percentage point",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/bank-of-england-expects-budget-cut-inflation-half-percentage-point",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/bank-of-england-expects-budget-cut-inflation-half-percentage-point",
+      "section": "business",
+      "publishedDate": "2025-12-09T19:04:42Z",
+      "trailText": "In a boost for Rachel Reeves, deputy governor says analysis shows chancellor’s policies will lower annual rate next year",
+      "summary": "Deputy governor Clare Lombardelli says Rachel Reeves’s December budget will cut UK headline inflation by 0.4–0.5 percentage points from mid-2026, mainly through removing energy levies from bills, freezing rail fares and fuel duty. The Bank’s analysis, matching the OBR’s, informs expectations of a BoE rate cut to 3.75 percent next week. Lombardelli cautions that longer-term drivers—higher wages from living-wage rises, workers’ rights, and grid-upgrade costs—could push inflation above target, so the MPC will weigh short-term gains against persistent pressures.",
+      "summaryTokens": 561,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/ofgem-investment-uk-electricity-superhighways",
+      "title": "Ofgem approves early investment in three UK electricity ‘superhighways’",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/ofgem-investment-uk-electricity-superhighways",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/ofgem-investment-uk-electricity-superhighways",
+      "section": "business",
+      "publishedDate": "2025-12-09T18:03:52Z",
+      "trailText": "Green light intended to limit amount consumers pay for windfarms to turn off during periods of high generation",
+      "summary": "Ofgem has approved early funding for three high-voltage “superhighways” to link Scottish and North Sea offshore wind farms to southern England, advancing operations from the late 2030s to as early as 2033–34. National Grid and SSE can begin work on two Eastern Green Link subsea cables and the 75-mile Grimsby-Walpole (GWNC) link. Accelerating these projects could save consumers £3–6 billion by cutting forecast annual wind curtailment costs of over £12 billion and current £2 billion constraint payments. Although the £28 billion grid upgrade programme may push some costs onto bills and face local opposition, it bolsters UK competitiveness as the EU rolls out a €1.2 trillion grid upgrade plan.",
+      "summaryTokens": 719,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/moonpig-ai-design-personalise-cards-drives-up-sales",
+      "title": "Moonpig’s use of AI to design and personalise cards drives up sales",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/moonpig-ai-design-personalise-cards-drives-up-sales",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/moonpig-ai-design-personalise-cards-drives-up-sales",
+      "section": "business",
+      "publishedDate": "2025-12-09T16:30:14Z",
+      "trailText": "About half of purchases involve shoppers using online retailer’s artificial intelligence-led features",
+      "summary": "Moonpig’s AI-driven design and personalization features have lifted H1 sales 6.7% to £169m, with AI tools now used in about 50% of orders (up from 2% two years ago). The technology—overseen by in-house teams—generates card designs, tailors messages and powers a chat system that resolves a third of queries. Strong order growth helped swing to a £26.6m pre-tax profit (vs. a £33.3m loss), while CEO Nickyl Raithatha (departing in December) says AI boosts creativity, offering 50+ design suggestions daily without cutting jobs. Incoming CEO Catherine Faiers inherits a robust festive trading period and stable post-budget demand.",
+      "summaryTokens": 519,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/home-movers-great-britain-energy-use-account-ofgem",
+      "title": "Home movers in Great Britain could get just £30 of energy use without account",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/home-movers-great-britain-energy-use-account-ofgem",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/home-movers-great-britain-energy-use-account-ofgem",
+      "section": "business",
+      "publishedDate": "2025-12-09T14:05:38Z",
+      "trailText": "Ofgem proposes cutting debt by giving new residents with no supply deal limited credit before they are cut off",
+      "summary": "Ofgem proposes that meters are remotely switched to prepayment mode when homes change residents, giving just £30 of credit—about two weeks’ use—before power is cut off absent a new supplier account. Households currently wait 70 days on average to register, boosting a record £4.5bn of consumer energy debt that adds £52 to annual bills. The plan, which follows the 2021 energy crisis, aims to curb growing arrears and kicks off an industry consultation running until early 2026. Nearly 1.9m accounts closed over five years have left £240m unclaimed.",
+      "summaryTokens": 1574,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/western-carmakers-fight-for-lives-chinese-rivals-ford-boss",
+      "title": "Western carmakers ‘in fight for lives’ against Chinese rivals, says Ford boss",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/western-carmakers-fight-for-lives-chinese-rivals-ford-boss",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/western-carmakers-fight-for-lives-chinese-rivals-ford-boss",
+      "section": "business",
+      "publishedDate": "2025-12-09T13:18:24Z",
+      "trailText": "Jim Farley’s comments come as US manufacturer and Renault announce deal to make two smaller electric cars",
+      "summary": "Ford CEO Jim Farley warns western carmakers are in a “fight for our lives” against low-cost Chinese EV rivals such as BYD and Chery, as Ford and Renault partner to develop two small electric models (and potential vans) based on Renault’s Ampere platform at the Douai plant, launching by early 2028. Farley, after cutting 4,000 jobs, decries Europe’s aggressive carbon mandates and state-subsidised Chinese imports. Renault CEO François Provost says the tie-up will boost innovation. Separately, BMW chair Oliver Zipse will retire in May, succeeded by production chief Milan Nedeljković.",
+      "summaryTokens": 1472,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/four-day-week-schools-parents-teachers-england-wales",
+      "title": "‘Bring it on!’: growing support in England for four-day week in schools",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/four-day-week-schools-parents-teachers-england-wales",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/four-day-week-schools-parents-teachers-england-wales",
+      "section": "business",
+      "publishedDate": "2025-12-09T12:05:19Z",
+      "trailText": "Why proposals for a shorter working week are winning over teachers and parents – despite the logistical headaches",
+      "summary": "Guardian report reveals overwhelming support from teachers and parents in England and Wales for piloting a four-day school week, championed by the 4 Day Week Foundation to boost teacher wellbeing, recruitment and pupil mental health. Advocates highlight reduced burnout, inclusion for autistic students, dedicated planning time and prioritised student mental health over academics. Proposals echo Scottish flexible teaching-week pilots. Critics warn of childcare gaps, funding, curriculum squeeze and special-needs impacts, underscoring logistical and equity challenges.",
+      "summaryTokens": 1231,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/uk-fraud-prevention-covid-scams-commissioner",
+      "title": "UK fraud prevention ‘still lacking’ after Covid-related scams and errors cost £11bn",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/uk-fraud-prevention-covid-scams-commissioner",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/uk-fraud-prevention-covid-scams-commissioner",
+      "section": "business",
+      "publishedDate": "2025-12-09T12:00:56Z",
+      "trailText": "Most of losses from bounceback loan, furlough pay and eat out to help out fraud not recovered, report finds",
+      "summary": "An independent report by Covid counter-fraud commissioner Tom Hayhoe warns UK fraud prevention remains inadequate after government schemes like bounceback loans, small business grants, furlough payments and eat-out-to-help-out lost £10.9bn to fraud and errors during the pandemic. Failures in accountability, data quality and contracting, plus rushed roll-outs and uneven counter-fraud capabilities, drove high risk. Hayhoe urges embedding fraud controls in crisis planning, cross-departmental scheme design with PSFA and Treasury, testing via preparedness exercises, and action plans to recover losses (£1.8bn clawed back to date).",
+      "summaryTokens": 825,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/british-shoppers-chocolate-prices-cost-christmas-dinner-worldpanel",
+      "title": "Britons face higher chocolate prices but average cost of Christmas dinner falls",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/british-shoppers-chocolate-prices-cost-christmas-dinner-worldpanel",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/british-shoppers-chocolate-prices-cost-christmas-dinner-worldpanel",
+      "section": "business",
+      "publishedDate": "2025-12-09T09:52:49Z",
+      "trailText": "Supermarkets investing heavily in promotional deals to pull in customers, Worldpanel finds",
+      "summary": "Worldpanel finds chocolate prices up 18.4% year-on-year in Nov as cocoa costs rise due to climate-impacted harvests. Christmas dinner average cost for four has marginally fallen to £32.46, driven by a 3.6% turkey price drop amid heavy supermarket promotions accounting for almost a third of spending. However, trimmings like potatoes, cranberry sauce and stuffing rose 1.1%, 10% and 6.9% respectively. Manufacturers shrink bars and cut cocoa content. Despite hikes, 5m households bought Advent calendars in Nov. Tesco leads with 28.3% share, Asda sales slump. Ocado, Lidl and Sainsbury's recorded strong growth. Grocery inflation at 4.7%, beef mince 37.1% surge prompts shift to cheaper proteins.",
+      "summaryTokens": 2209,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "australia-news/2025/dec/09/rba-interest-rate-announcement-decision-hike-mortgages-australia",
+      "title": "Australia is facing its shortest rate cut cycle in 30 years as the RBA hints it may have to start hiking",
+      "webUrl": "https://www.theguardian.com/australia-news/2025/dec/09/rba-interest-rate-announcement-decision-hike-mortgages-australia",
+      "apiUrl": "https://content.guardianapis.com/australia-news/2025/dec/09/rba-interest-rate-announcement-decision-hike-mortgages-australia",
+      "section": "business",
+      "publishedDate": "2025-12-09T07:15:25Z",
+      "trailText": "It’s sure to leave many mortgage holders feeling short-changed given the RBA’s equally historic 13 rate hikes through 2022 and 2023",
+      "summary": "RBA governor Michele Bullock held the cash rate at 3.6% and ruled out further cuts after just three reductions this year, the shortest cut cycle in three decades. She flagged that if underlying inflation persistence continues, the board may consider rate hikes in early 2026. The RBA’s pause follows a record 13 hikes in 2022-23, leaving 3.3m mortgage holders braced for higher borrowing costs. Rising CPI at 3.8% in October, intensifying fiscal pressures, and upcoming mid-year budget cuts to household energy rebates add to economic strains. The board’s next meeting is in February, with NAB warning a hike is possible.",
+      "summaryTokens": 1086,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
+    {
+      "id": "business/2025/dec/09/uk-households-cut-spending-fastest-pace-barclays",
+      "title": "UK households cut spending at fastest pace in almost five years, says Barclays",
+      "webUrl": "https://www.theguardian.com/business/2025/dec/09/uk-households-cut-spending-fastest-pace-barclays",
+      "apiUrl": "https://content.guardianapis.com/business/2025/dec/09/uk-households-cut-spending-fastest-pace-barclays",
+      "section": "business",
+      "publishedDate": "2025-12-09T05:00:04Z",
+      "trailText": "Bank reports 1.1% drop in card spending despite Black Friday boost for retailers",
+      "summary": "Barclays data show UK card spending fell 1.1% year-on-year in November—the steepest drop since February 2021—as households delayed Christmas purchases amid pre-budget uncertainty. Despite Black Friday transactions jumping 62.5% above the 2025 daily average, the British Retail Consortium and KPMG report only modest year-on-year sales gains: food up 3% (below 3.6% inflation) and non-food just 0.1%. Pub spending dipped 1.5%, with 42% of 18-34s choosing alcohol-free options, while travel agent bookings rose 10.7% and streaming subscriptions 3.5%. Consumer confidence remains subdued, prompting forecasts for a Bank of England rate cut from 4% to 3.75% this month.",
+      "summaryTokens": 405,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
+    },
     {
       "id": "business/2025/dec/08/great-british-railways-logo-branding",
       "title": "Great British Railways flies the flag as logo goes back to the future",
@@ -29,9 +161,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T22:30:50Z",
       "trailText": "Livery for renationalised railway features red, white and blue alongside familiar double arrow symbol",
-      "summary": "Great British Railways has unveiled its new red, white and blue logo—featuring the iconic double-arrow symbol—to mark the start of a renationalised network. Designed in-house at the Department for Transport, the branding appears on Hornby models, Train Sim World 6 and station displays pending train repaints next spring. The rollout coincides with Commons debates on reform legislation, a 2026 fare freeze, a Derby HQ uniting track and trains and a unified ticketing app with accessibility features. Transport Secretary Heidi Alexander says it's more than a 'paint job', heralding public-service driven change.",
-      "summaryTokens": 2092,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "Ministers unveiled the Great British Railways (GBR) livery and logo at London Bridge, featuring red, white and blue with the double-arrow motif as a heritage nod. Designed in-house by the Department for Transport, the branding accompanies landmark legislation to unify track and train operations under a renationalised system headquartered in Derby. Seven private operators are already repatriated, with full takeover by 2027. A new GBR ticketing app, station clocks and model/virtual liveries in Hornby and Train Sim World 6 support the relaunch. Transport Secretary Heidi Alexander lauded the reforms and 2026 fare freeze.",
+      "summaryTokens": 554,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/paramount-skydance-warner-bros-discovery-explainer-hostile-bid",
@@ -41,9 +173,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T21:20:26Z",
       "trailText": "The future of some of the world’s most prominent media and entertainment businesses hangs in the balance",
-      "summary": "Paramount Skydance has launched a $108.4bn hostile bid to acquire Warner Bros Discovery, outbidding Netflix’s $82.7bn offer for just WBD’s studio and HBO units. Paramount’s all-cash $30/share proposal seeks the entire company—including CNN, Discovery and linear TV—appealing directly to shareholders after its previous offers were rebuffed by the board. The deal faces regulatory scrutiny and political influence from Trump-linked financiers, with critics like Elizabeth Warren warning of concentration risks. WBD’s board will recommend to shareholders by January 8.",
-      "summaryTokens": 488,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "Paramount Skydance has launched a $108.4bn hostile bid for Warner Bros Discovery (WBD), outbidding Netflix’s $82.7bn offer for its studio and HBO assets. Netflix’s deal, endorsed by WBD’s board, would spin off cable networks like CNN and Discovery, paying shareholders $23.25 cash plus $4.50 in stock per share. Paramount’s all-cash proposal covers WBD in full at $30 per share, directly appealing to shareholders and claiming higher regulatory approval odds. WBD will advise investors on Paramount’s approach by January 8. Both bids face antitrust scrutiny amid political pressure.",
+      "summaryTokens": 1908,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/paramount-skydance-warner-bros-bid",
@@ -53,9 +185,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T21:20:07Z",
       "trailText": "Paramount’s bid for the entire company counters $82.7bn Netflix deal for WBD’s studio and streaming operation",
-      "summary": "Paramount Skydance, led by David Ellison with backing from Larry Ellison, Affinity Partners, Saudi and Qatar sovereign funds, launched a hostile $108.4bn all-cash tender for Warner Bros Discovery’s entire business, eclipsing Netflix’s $82.7bn bid for only studio and streaming assets. Paramount touts superior value, full asset control—including CNN and Discovery—and stronger regulatory prospects, urging shareholders to consider its offer within two weeks while Netflix maintains confidence in its pending deal.",
-      "summaryTokens": 783,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "Paramount Skydance, backed by David and Larry Ellison plus Affinity Partners, Saudi PIF and Qatar’s QIA, launched a $108.4bn all-cash hostile tender offer for Warner Bros Discovery, eclipsing Netflix’s $82.7bn bid for WBD’s studio and HBO assets. Paramount argues its superior premium, full-company scope and regulatory viability deliver better value for shareholders. WBD will review the proposal within two weeks. Netflix, confident in its deal, downplays the rival offer. WBD’s board faces pressure over fairness, while political ties to the Trump administration add weight to the Ellison-backed bid.",
+      "summaryTokens": 940,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/nils-pratley-on-finance/2025/dec/08/anglo-american-merger-bonus-pay-teck-deal",
@@ -65,9 +197,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T17:18:47Z",
       "trailText": "Miner will have to do things by the book after ditching plan to pay bosses millions in bonuses after Teck deal",
-      "summary": "Anglo American proposed ‘resolution 2’ to amend its 2024–25 long-term incentive scheme, guaranteeing CEO Duncan Wanblad a c.£8.5m bonus (62.5% of maximum) for closing its £50bn all-share merger with Teck Resources. Major investors including Legal & General Investment Management condemned the tactic as undermining long-term performance plans. After shareholder pressure, Anglo withdrew the resolution and will publish an updated directors’ remuneration policy next year. The group retains strong support for the Teck deal’s copper exposure and modest premium, but must now justify any expanded pay packages transparently and by the book.",
-      "summaryTokens": 959,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "Anglo American proposed a back-door pay rise for CEO Duncan Wanblad via ‘resolution 2’ of its $50bn Teck merger, amending 2024–25 long-term incentive plans to guarantee a 62.5% payout (~£8.5m) on deal completion. Major investors, including Legal & General IM, objected that hijacking LTIPs undermines five-year performance measures. Faced with shareholder revolt, Anglo withdrew the plan and will publish an updated directors’ remuneration policy next year. Wanblad still stands to benefit if share prices rise post-merger, but governance norms remain intact.",
+      "summaryTokens": 437,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/bank-of-england-cutting-jobs-overhaul-ben-bernanke-review-inflation",
@@ -77,9 +209,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T15:25:20Z",
       "trailText": "Bank under budget pressure as it responds to former Fed chair’s report into slow response to surging inflation",
-      "summary": "Under budget pressures and following former Fed chair Ben Bernanke's critique of its inflation forecasting, the Bank of England has launched a voluntary exit scheme to cut staff as part of a multiyear overhaul. Running until mid-January with departures in March, the scheme offers existing redundancy terms (10% of salary per year of service, capped at \u001a3150,000 or two years). Governor Andrew Bailey aims to boost efficiency, revamp forecasting models and communication, even as headcount rose to 5,731 and Leeds hires expand. Markets price a 0.25pp rate cut to 3.75% next week.",
-      "summaryTokens": 1523,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "The Bank of England, under budget pressure after Ben Bernanke’s critique of its forecasting failures, has opened a voluntary departure scheme—running until mid-January with March exits—as part of a multiyear efficiency and transformation drive. Staff choosing to leave will receive standard redundancy terms: 10% of salary per year of service, capped at £150,000 or two years’ pay. This overhaul accompanies updates to forecasting models and rate-communications and follows a rise in headcount to 5,731. The BoE is also expanding its Leeds office to 500 staff by 2027 and is expected to cut interest rates next week to 3.75%.",
+      "summaryTokens": 633,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/federal-reserve-interest-rates",
@@ -89,9 +221,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T12:00:39Z",
       "trailText": "Markets expect final rate cut amid pressure from Trump as Jay Powell urges central bank to proceed with caution",
-      "summary": "At its final 2025 meeting, a divided Fed is weighing a third quarter-point rate cut—markets expect it—despite missing labor and inflation data after a six-week shutdown. Rates stand at 3.75–4%. Officials split as inflation rose to 3% from 2.3% and unemployment climbed to 4.4% from 4%, prompting Chair Jerome Powell to urge caution—“driving in fog.” Reports say President Trump may back NEC director Kevin Hassett to replace Powell when his term ends in May.",
-      "summaryTokens": 787,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "With rates at 3.75–4%, a divided Fed meets for its final 2025 decision amid scarce post–shutdown data. Officials are split on a third cut after September and October half-point reductions, balancing rising inflation (2.3%→3%) against growing unemployment (4%→4.4%). Chair Jay Powell urges caution—“driving in the fog”—as markets price in another cut Wednesday. Data gaps from the six-week shutdown leave analysts guessing. Meanwhile, Trump is eyeing NEC director Kevin Hassett as Powell’s potential successor, favoring deeper cuts to spur growth without stoking prices.",
+      "summaryTokens": 357,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/anglo-american-ditch-plan-bonuses-teck-mega-merger",
@@ -101,9 +233,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T10:33:15Z",
       "trailText": "FTSE 100 miner’s U-turn follows investor opposition to payouts when deal completes, including estimated £8.5m to CEO",
-      "summary": "London-listed miner Anglo American has abandoned its proposal to award multimillion-pound bonuses—including an £8.5m share award for CEO Duncan Wanblad and 62.5% minimum share incentives for senior executives—contingent on completing its planned $50 bn merger with Teck Resources. After shareholder backlash and an ISS advisory warning that deal-linked pay undermines performance criteria, the FTSE 100 group said it will scrap the scheme and engage further on director remuneration ahead of its next AGM. Investors in both companies vote on the merger this week, which would create a leading copper producer.",
-      "summaryTokens": 552,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "Anglo American has abandoned a proposal to grant multimillion-pound bonuses—£8.5m to CEO Duncan Wanblad and enhanced long-term incentive awards guaranteeing at least 62.5% of share awards for senior executives—contingent on its planned $50bn merger with Canadian rival Teck Resources, after investors and ISS objected that linking payouts to deal completion contravened best practice and diluted performance metrics. The FTSE 100 miner will now re-engage on director pay ahead of its AGM, just one day before the pivotal shareholder vote on forming a leading global copper producer.",
+      "summaryTokens": 1384,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/ex-vodafone-franchisees-mental-health",
@@ -113,9 +245,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T10:00:38Z",
       "trailText": "Experiences raise questions about how telecoms firm treated small business owners, whose commission it cut",
-      "summary": "Vodafone’s 2020 commission cuts have triggered a high court claim by 62 ex-franchisees asserting “unjust enrichment” and precipitated mental health crises, including the suicide of former employee-turned-franchisee Adrian Howe in 2018, a near-fatal attempt by Rachael Beddow-Davison in 2022, and self-harm scars on Dan Attwal. Franchisees allege aggressive upselling to risky stores, fines for minor errors and broken underwriting promises. Vodafone rejects undue pressure claims but has paid £21m in goodwill settlements while defending the dispute as a commercial matter.",
-      "summaryTokens": 742,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "In August 2018 former Vodafone retail manager Adrian Howe took his own life days before opening two franchise stores under personal guarantees. His family and 62 ex-franchisees now suing Vodafone for £78m–£85m allege the telecoms giant unjustly enriched itself by slashing sales commissions by over 40% in 2020, forcing them to run loss-making outlets and triggering severe anxiety, depression and suicidal thoughts. A 2020 survey found 78 of 119 respondents blamed Vodafone for mental-health crises. Vodafone rejects undue pressure, labels the dispute commercial, and says it has paid at least £21m in contractual or “goodwill” payments.",
+      "summaryTokens": 628,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/extracting-hangovers-from-beer-inside-the-worlds-biggest-nolo-brewery-in-south-wales",
@@ -125,9 +257,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T08:27:59Z",
       "trailText": "AB InBev unveils its ‘de-alcoholisation’ annex at Magor site as demand for once ‘lousy’ low- or no-alcohol beer rises",
-      "summary": "AB InBev has opened a £3.9m de-alcoholisation annex at its Magor brewery in south Wales, using vacuum-distillation in stainless steel columns to strip alcohol from Budweiser, Corona and Stella Artois while preserving flavour. The facility complements the main line that produces over 1bn pints annually and powers nolo brands like Budweiser Zero, Corona Cero and Stella 0.0. As UK no- and low-alcohol beer demand grows over 20% per year—reaching 2% of market volume and boosting 0% beer revenue by 27%—AB InBev is trialling draught taps in pubs ahead of a projected 4% share by 2029.",
-      "summaryTokens": 597,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "AB InBev has opened a £3.9m de-alcoholisation annex at its Magor, South Wales brewery - one of the world's largest - using vacuum distillation to strip alcohol while preserving flavour in Budweiser, Corona and Stella Artois variants. The move targets surging UK demand for low- and no-alcohol nolo beer - now 2% of the £13.5bn market - fuelled by health-conscious zebra stripers and weekday drinkers. With 29 0.0 brands, including Corona Cero and Budweiser Zero, AB InBev cites a 27% revenue lift and predicts UK volume share could hit 4% by 2029. Government relief on business rates and local job protection underscore the strategic push amid industry cost pressures.",
+      "summaryTokens": 2915,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/08/zombie-electricity-projects-britain-face-axe-grid-connections-net-zero",
@@ -137,9 +269,9 @@
       "section": "business",
       "publishedDate": "2025-12-08T06:00:44Z",
       "trailText": "Backlog delaying ‘shovel-ready’ ventures will be cleared with aim of building virtually zero-carbon power system by 2030",
-      "summary": "Britain’s National Energy System Operator is axing over half of the 700GW queue of ‘zombie’ electricity projects to unblock virtually zero-carbon schemes and accelerate grid connections by 2030/35. Roughly £40bn of shovel-ready solar, battery and wind projects will form a new 283GW pipeline, replacing a 15-year wait under first-come, first-served rules. The fast-track list prioritises nearly 50% solar-battery, one-third onshore/offshore wind and limits gas to 3% by 2030, while reserving capacity for datacentres under lighter readiness criteria.",
-      "summaryTokens": 1022,
-      "generatedAt": "2025-12-09T03:36:14.588Z"
+      "summary": "Britain’s grid operator (Neso) will ax over half of the 700GW backlog of “zombie” electricity generation and storage projects to clear the queue for £40bn of shovel-ready schemes crucial for a near-zero carbon power system by 2030. A new delivery pipeline totalling 283GW will fast-track projects for connection by 2030 with the remainder by 2035. Nearly half the 2030 capacity is solar and batteries, a third wind, and only 3% gas. Energy secretary Ed Miliband and taskforce head Chris Stark say the reforms unlock clean power growth. The overhaul coincides with the UK marking 25 years of offshore wind.",
+      "summaryTokens": 1609,
+      "generatedAt": "2025-12-10T03:19:35.200Z"
     },
     {
       "id": "business/2025/dec/07/keir-starmer-to-make-iceland-boss-richard-walker-a-labour-peer",
