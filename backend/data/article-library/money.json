@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-12-10T03:36:24.683Z",
+    "generated_at": "2025-12-11T03:37:53.902Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-12-09"
+      "to": "2025-12-10"
     },
-    "article_count": 143,
+    "article_count": 144,
     "merge_info": {
-      "previous_count": 142,
+      "previous_count": 143,
       "new_articles": 1,
       "updated_articles": 1,
-      "total_count": 143
+      "total_count": 144
     },
     "batch_info": {
-      "initial_batch_id": "batch_6938ea60ce488190a486a7b5b9edd875",
+      "initial_batch_id": "batch_693a3c24675081909a4a495069384255",
       "retry_batches": [],
-      "total_tokens": 3485,
+      "total_tokens": 3155,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/dec/10/consumer-test-drive-can-ai-do-your-christmas-gift-shopping-for-you",
+      "title": "Consumer test drive: can AI do your Christmas gift shopping for you?",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/10/consumer-test-drive-can-ai-do-your-christmas-gift-shopping-for-you",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/10/consumer-test-drive-can-ai-do-your-christmas-gift-shopping-for-you",
+      "section": "money",
+      "publishedDate": "2025-12-10T13:01:18Z",
+      "trailText": "The short answer is yes, but if you don’t want big brands or to use Amazon then more time and a lot more prompts are needed",
+      "summary": "The Guardian tested AI gift-shopping: ChatGPT’s top picks skewed to big retailers—Canon lens (£129, Argos), Koospur tennis sensor (£71.72, Amazon), Boondocker bag (£34.98)—and defaulted to Amazon unless prompted. Limited budgets yielded odd items (tennis-socks), while niche queries produced minimalist prints or vague “Etsy-style” advice. Beauty/DIY/fitness suggestions included an Odylique moisturiser (£17.50) and Floris candle (£30), but tools reinforced gender stereotypes (pink pliers). Local searches in South London named ALKEMI, Jo’s House and Forget Me Not & Green. Google’s Gemini gave a chess strategy book (£22), Bandcamp card (£50) and hot-sauce tasting kit (£30–40). Verdict: AI can gift-shop but favors big brands and generic picks unless heavily steered.",
+      "summaryTokens": 617,
+      "generatedAt": "2025-12-11T03:37:53.772Z"
+    },
     {
       "id": "money/2025/dec/09/hmrc-owes-me-refund-national-insurance-overpaid",
       "title": "HMRC owes me £2,200 but says it could be 33 weeks before it pays me back",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2025-12-09T07:00:02Z",
       "trailText": "A reader says they overpaid their national insurance, but seem to be lending the government money with no interest",
-      "summary": "An Oxfordshire NHS worker who overpaid £2,200 in national insurance across two roles was told HMRC may take 33 weeks to process a refund—up from the pre-Covid norm of four weeks. After the Guardian intervened, the payment arrived in seven days alongside an apology call. HMRC cites increased demand on NI services and says it is recruiting hundreds of extra staff to clear the backlog. Readers with consumer money queries can email consumer.champions@theguardian.com or write to Consumer Champions, Money, the Guardian, 90 York Way, London N1 9GU.",
-      "summaryTokens": 548,
-      "generatedAt": "2025-12-10T03:36:24.459Z"
+      "summary": "An NHS worker holding two roles overpaid approximately £2,200 in national insurance and was told HMRC could take up to 33 weeks to issue a refund—effectively an interest-free loan due to pandemic-induced backlogs that have extended typical four-week turnarounds to over four months. After a Guardian inquiry, HMRC apologised by phone and processed the refund within seven days. A spokesperson attributes delays to increased NI demand and says hundreds of extra staff are being recruited. Readers can contact the Guardian’s Consumer Champions by email or post.",
+      "summaryTokens": 1064,
+      "generatedAt": "2025-12-11T03:37:53.772Z"
     },
     {
       "id": "money/2025/dec/08/your-party-membership-portal-jeremy-corbyn-zarah-sultana",
