@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-11T04:06:38.661Z",
+    "generated_at": "2025-12-12T05:38:25.398Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-10"
+      "to": "2025-12-11"
     },
-    "article_count": 267,
+    "article_count": 269,
     "merge_info": {
-      "previous_count": 263,
-      "new_articles": 4,
-      "updated_articles": 5,
-      "total_count": 267
+      "previous_count": 267,
+      "new_articles": 2,
+      "updated_articles": 4,
+      "total_count": 269
     },
     "batch_info": {
-      "initial_batch_id": "batch_693a42cbfb108190a59442dbd69a9f4f",
+      "initial_batch_id": "batch_693ba9d86b4c81908a7db5fb612afd27",
       "retry_batches": [],
-      "total_tokens": 21668,
+      "total_tokens": 13975,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/11/elon-musk-el-salvador-grok",
+      "title": "Elon Musk teams with El Salvador to bring Grok chatbot to public schools",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/11/elon-musk-el-salvador-grok",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/11/elon-musk-el-salvador-grok",
+      "section": "technology",
+      "publishedDate": "2025-12-11T23:11:59Z",
+      "trailText": "President Nayib Bukele entrusting chatbot known for calling itself ‘MechaHitler’ to create ‘AI-powered’ curricula",
+      "summary": "Elon Musk’s xAI plans to deploy its Grok chatbot to over one million students across 5,000 El Salvador public schools over two years, integrated into an AI-powered curriculum. Known for far-right conspiracy theories—self-styled “MechaHitler,” antisemitic tropes, “white genocide” claims and 2020 election denial—Grok’s controversial record contrasts with President Nayib Bukele’s tech-driven agenda, including bitcoin legal tender and Twitter governance. Bukele, who collaborated with Trump on deportations to El Salvador’s Cecot prison, hails the “extraordinary” partnership. Musk amplified the rollout on X, echoing right-wing voices like Katie Miller. xAI follows OpenAI’s Estonia ChatGPT scheme; prior AI pilots in Colombia drew criticism for harming student performance.",
+      "summaryTokens": 1297,
+      "generatedAt": "2025-12-12T05:38:24.840Z"
+    },
+    {
+      "id": "technology/2025/dec/11/disney-openai-sora",
+      "title": "Disney wants you to AI-generate yourself into your favorite Marvel movie",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/11/disney-openai-sora",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/11/disney-openai-sora",
+      "section": "technology",
+      "publishedDate": "2025-12-11T22:25:51Z",
+      "trailText": "The media company is investing $1bn in OpenAI – and allowing its characters to be used in generated videos",
+      "summary": "OpenAI's Sora video-generation app will soon let users insert their faces alongside Disney and Pixar icons - from Iron Man and Lightning McQueen to R2-D2 and Stitch - via a new three-year licensing pact. Disney is investing $1 billion in OpenAI and granting rights to roughly 200 characters for user-created clips up to 20 seconds, though talent likenesses and voices remain excluded. After years of legal threats over unlicensed AI output, this deal formalizes sanctioned use. Bob Iger says the deal 'places imagination and creativity directly into the hands of Disney fans,' with standout fan videos possibly featured on Disney+.",
+      "summaryTokens": 2173,
+      "generatedAt": "2025-12-12T05:38:24.840Z"
+    },
     {
       "id": "technology/2025/dec/10/elon-musk-doge-reflections",
       "title": "Musk calls Doge only ‘somewhat successful’ and says he would not do it again",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-12-10T16:12:37Z",
       "trailText": "Speaking on a rightwing podcast, the billionaire said he would not go back and lead the job-cutting program again",
-      "summary": "On a right-wing podcast hosted by Katie Miller, Elon Musk called Doge—Trump’s ‘department of government efficiency’ he led—only “somewhat successful” and said he wouldn’t do it again. The program cut over 200,000 federal jobs, saw 75,000 buyouts and claimed multibillion-dollar savings experts can’t verify, then was quietly disbanded. Musk said he’d have been better off focusing on Tesla amid vandalism and share-price slumps, while SpaceX readies a $25bn IPO.",
-      "summaryTokens": 733,
-      "generatedAt": "2025-12-11T04:06:38.518Z"
+      "summary": "On Katie Miller’s right-wing podcast, Elon Musk called the Trump-era “department of government efficiency” (Doge) job-cutting taskforce he led only “somewhat successful” and said he wouldn’t repeat the role. Doge purged over 200,000 federal workers with 75,000 buyouts, claimed unverified billions in savings and targeted programs like refugee services and transgender rights. Musk conceded he’d have been “better off running his companies” than executing Project 2025’s austerity plan, noting Tesla shares plunged amid protests and dealership vandalism. Doge was quietly disbanded last month, and Musk now regrets the political and operational fallout.",
+      "summaryTokens": 753,
+      "generatedAt": "2025-12-12T05:38:24.840Z"
     },
     {
       "id": "technology/2025/dec/10/ice-tracking-pregnant-women",
@@ -41,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-12-10T13:15:55Z",
       "trailText": "Pregnant immigrants in ICE monitoring programs are avoiding care, fearing detention during labor and delivery",
-      "summary": "ICE's Alternative to Detention program now requires pregnant immigrants to wear a non-removable BI Inc VeriWatch smartwatch, enabling constant GPS tracking—even during labor. Colorado hospital staff report three cases where women in late-term labor feared battery drain or removal would trigger alerts, delaying C-sections and prenatal care. BI Inc's program, which monitors nearly 200,000 immigrants, lacks clear medical-emergency protocols; device removal demands ICE approval, causing dangerous delays. Critics, including former DHS officials and rights groups, warn this opaque, discretionary surveillance violates civil liberties and deters immigrant healthcare.",
-      "summaryTokens": 2204,
-      "generatedAt": "2025-12-11T04:06:38.518Z"
+      "summary": "ICE’s Alternative to Detention program now mandates pregnant immigrants wear a non-removable BI Inc VeriWatch smartwatch for GPS tracking, with no clear protocol for removal during medical emergencies. Two Colorado hospitals reported that women in labor – including one with pre-eclampsia needing a C-section – panicked at the prospect of cutting off the device, fearing ICE would interpret it as non-compliance or seize their babies. This surveillance delays critical care, deters prenatal visits, and reflects ICE’s discretionary, opaque monitoring regime. About 200,000 immigrants in ATD face similar risks under this program overseen by BI Inc, part of opaque ICE surveillance.",
+      "summaryTokens": 949,
+      "generatedAt": "2025-12-12T05:38:24.840Z"
     },
     {
       "id": "technology/2025/dec/10/from-glacier-aesthetic-to-poetcore-pinterest-predicts-the-visual-trends-of-2026-based-on-its-search-data",
@@ -53,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-10T06:58:53Z",
       "trailText": "If search interest holds, glitchy glam, cool blue, aliencore and gummy bear aesthetics are among the vibes set to rock the creative world next year",
-      "summary": "Pinterest’s Australian data from September 2024 to August 2025 predicts 21 visual trends for 2026, driven by Gen Z, millennials, baby boomers and Gen X. Top themes include poetcore (bookish knits, ties, fountain pens), glitchy glam, cool blue glacier aesthetic, Afrohemian decor, maximalist circus, 1980s luxury, Scotland Highlands, aliencore, gummy bears aesthetic, and paleontologist (khaki, field jackets) styling. Food searches favour cabbage-based kimchi, dumplings and golumpki. Niche perfume layering, lace and travel to ethereal locales reflect a shift toward individuality, comfort and authenticity.",
-      "summaryTokens": 1092,
-      "generatedAt": "2025-12-11T04:06:38.518Z"
+      "summary": "Pinterest's 2026 trend report, based on Sept 2024–Aug 2025 English search data from over 9 million monthly Australian users (88% predictive accuracy), forecasts 21 visual aesthetics. Highlights include maximalist circus decor, glitchy glam asymmetry, cool-blue glacier bridal looks, Afrohemian interiors, poetcore’s bookish neutrals, aliencore intergalactic motifs, gummy-bear makeup and paleontologist khaki pleats. Gen Z seeks adrenaline travel; Boomers crave ethereal escapes and cruciferous kimchi cuisines. A unifying shift toward authenticity, individual curation and self-preservation underpins these niche trends.",
+      "summaryTokens": 838,
+      "generatedAt": "2025-12-12T05:38:24.840Z"
     },
     {
       "id": "technology/2025/dec/10/police-facial-recognition-technology-bias",
@@ -65,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-10T06:00:44Z",
       "trailText": "Exclusive: System more likely to suggest incorrect matches for images of women and Black people",
-      "summary": "UK police forces lobbied to lower the confidence threshold of a police national database facial‐recognition system despite a September 2024 National Physical Laboratory review showing it misidentified women, Black and Asian people, and those under 40 at significantly higher rates. Raising the threshold cut potential matches from 56% to 14%, but forces reversed the change to restore investigative leads. A recent NPL study found Black women face nearly 100‐fold more false positives than white women. The government is consulting on wider use, amid calls for stricter standards, independent scrutiny and rights safeguards, and plans to deploy a new algorithm tested as bias-free.",
-      "summaryTokens": 364,
-      "generatedAt": "2025-12-11T04:06:38.518Z"
+      "summary": "Police forces pressured to maintain a facial recognition system known to be biased against women, young people and ethnic minorities, after an NPL review found it misidentified Black and Asian suspects and women at higher rates. An NPCC-ordered increase of the confidence threshold cut potential matches from 56% to 14%, but was reversed after forces complained of fewer leads. Critics warn operational convenience overrides fundamental rights. The Home Office has launched a consultation, claims a new, less biased algorithm is being procured and insists human review will guard against errors.",
+      "summaryTokens": 661,
+      "generatedAt": "2025-12-12T05:38:24.840Z"
     },
     {
       "id": "technology/2025/dec/08/trump-nvidia-ai-chips-china",
