@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-11T03:42:22.398Z",
+    "generated_at": "2025-12-12T04:42:33.111Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-10"
+      "to": "2025-12-11"
     },
-    "article_count": 159,
+    "article_count": 161,
     "merge_info": {
-      "previous_count": 155,
-      "new_articles": 4,
-      "updated_articles": 2,
-      "total_count": 159
+      "previous_count": 159,
+      "new_articles": 2,
+      "updated_articles": 4,
+      "total_count": 161
     },
     "batch_info": {
-      "initial_batch_id": "batch_693a3c99cddc819098a0999e0930a9a8",
+      "initial_batch_id": "batch_693b9ca0af38819098c9de1a45a1cb4e",
       "retry_batches": [],
-      "total_tokens": 12118,
-      "processing_time_hours": 0.1
+      "total_tokens": 10233,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/11/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/11/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/11/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-12-11T21:00:24Z",
+      "trailText": "Richard Walker | Canadian head of government",
+      "summary": "Corrections and clarifications: Richard Walker, executive chair of Iceland, has never donated to the Labour party, though he publicly backed Labour in 2024 after years of supporting the Conservatives. Canada elects a prime minister, not a president. Other recently amended articles include: ‘Snappily ever after: Sondheim’s fairytale musical Into the Woods – in pictures’; ‘The rise of parcel thefts: how to protect yourself from porch pirates’; ‘UK households cut spending at fastest pace in almost five years, says Barclays’; and ‘Dinosaur bones, a nuclear reactor and vintage cars: photos of the day – Monday’. Send corrections to guardian.readers@theguardian.com, Readers’ editor, Kings Place, 90 York Way, London N1 9GU, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 657,
+      "generatedAt": "2025-12-12T04:42:32.776Z"
+    },
+    {
+      "id": "news/2025/dec/11/endoscopy-neanderthal-noses-not-as-adapted-to-the-cold",
+      "title": "Endoscopy finds Neanderthal noses not as adapted to the cold as expected",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/11/endoscopy-neanderthal-noses-not-as-adapted-to-the-cold",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/11/endoscopy-neanderthal-noses-not-as-adapted-to-the-cold",
+      "section": "news",
+      "publishedDate": "2025-12-11T06:00:59Z",
+      "trailText": "Study on skull of Altamura Man could be blow to adaptation theories about Neanderthals and their extinction",
+      "summary": "An endoscopic examination by University of Perugia scientists of the fragile Altamura Man Neanderthal skull, preserved in Lamalunga cave (southern Italy), identified an enlarged nasal aperture and cavity but found no delicate bony convolutions—long assumed analogous to arctic mammals’ turbinates for warming and humidifying air. This finding challenges prevailing theories that Neanderthals possessed superior cold-adapted respiratory anatomy, prompts renewed scrutiny of alternate adaptations (such as elevated metabolic rates), and intensifies debate over why Neanderthals vanished as climates warmed post–Ice Age. Researchers must now reconsider how anatomical versus behavioral factors influenced their survival and competition with Homo sapiens.",
+      "summaryTokens": 1655,
+      "generatedAt": "2025-12-12T04:42:32.776Z"
+    },
     {
       "id": "news/2025/dec/10/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +53,9 @@
       "section": "news",
       "publishedDate": "2025-12-10T21:00:47Z",
       "trailText": "Kanal museum, Brussels",
-      "summary": "Guardian corrections note clarifies the upcoming Kanal museum in Brussels will be larger than the Tate Modern’s pre-2016 footprint. It flags amendments to stories on Linda Reynolds’s Brittany Higgins defence, Daniel Day-Lewis on Tarantino’s Paul Dano comments, a Hungarian teacher charged over a Pride event, a Scottish nurse’s trans doctor tribunal win, ex-Vodafone franchisees’ mental-health struggles, ‘creepy’ billboards tracking viewers, soaring ADHD diagnoses, David Byrne photos, seismic waves for soil health and AI strengthening democracies. Readers can email guardian.readers@theguardian.com, write to Readers’ editor, Kings Place, 90 York Way, London N1 9GU or call +44 (0)20 3353 4736 for corrections or complaints.",
-      "summaryTokens": 1676,
-      "generatedAt": "2025-12-11T03:42:22.273Z"
+      "summary": "Guardian corrections 10 Dec 2025: The new Brussels Kanal museum will surpass Tate Modern’s original (pre-2016) size, not its extended footprint. Other amended stories include: politics (Linda Reynolds on Brittany Higgins), film (Daniel Day-Lewis defends Paul Dano vs Tarantino), education (Hungarian teacher Pride event charges), law (Scottish nurse tribunal ruling), business (ex-Vodafone franchisee mental-health crisis), tech (viewer-tracking digital billboards), health (ADHD diagnosis rise), science (seismic-wave soil checks), and AI’s role in democracy. Send corrections: guardian.readers@theguardian.com or Readers’ editor, Kings Place, London.",
+      "summaryTokens": 823,
+      "generatedAt": "2025-12-12T04:42:32.776Z"
     },
     {
       "id": "news/2025/dec/10/australias-social-media-ban-inside-the-12-december-guardian-weekly",
@@ -41,9 +65,9 @@
       "section": "news",
       "publishedDate": "2025-12-10T18:00:43Z",
       "trailText": "Will the world follow suit? Plus: Best books of 2025",
-      "summary": "Australia’s government has introduced the world’s first nationwide ban on social media for under-16s, locking millions of teenagers out. Backed by eSafety research showing 70% of 10–15-year-olds encounter online harm — from misogyny and violence to self-harm content — the measure targets ‘big tech’ with built-in friction to protect children. eSafety commissioner Julie Inman Grant defends the approach, but critics question enforcement for tech-savvy youths and warn of lost benefits. Several other countries are poised to follow suit, as detailed in Josh Taylor’s analysis and Doosie Morris’s interviews with young teens.",
-      "summaryTokens": 1730,
-      "generatedAt": "2025-12-11T03:42:22.273Z"
+      "summary": "In response to eSafety research revealing that 70% of 10–15-year-olds encounter online harm—misogyny, violence, disordered eating, suicide—Australia’s government enacted the world’s first under-16 social media ban on 12 December. From Wednesday millions of teens were locked out as eSafety commissioner Julie Inman Grant seeks ‘friction’ to curb big tech’s extractive impact. While policymakers in other countries watch closely, critics question enforcement among tech-savvy youths and warn disabled users will lose support. Guardian Weekly’s Josh Taylor examines the law’s origins and mechanics; Doosie Morris shares teens’ first-hand reactions.",
+      "summaryTokens": 1016,
+      "generatedAt": "2025-12-12T04:42:32.776Z"
     },
     {
       "id": "news/2025/dec/10/the-long-wave-accra-cultural-week-ghana",
@@ -53,9 +77,9 @@
       "section": "news",
       "publishedDate": "2025-12-10T14:46:28Z",
       "trailText": "Ghana’s capital is a party and entertainment hub but members of the diaspora would do well to experience its spectacular art scene",
-      "summary": "Ghana’s Accra Cultural Week transforms the capital into a vibrant art hub showcasing resilience, history and environmental advocacy. Highlight: Serge Attukwei Clottey’s [Dis]Appearing Rituals—afrogallonism sculptures in tribute to Jamestown’s Ga fishing community and Tabom heritage, evoking colonial forts, funeral pageantry and coastal life amid fast-fashion pollution. Other highlights: Reginald Sylvester II’s minimalist weld-and-found-material works; Denyse Gawu-Mensah’s archival Lightyears of Us; and Theresah Ankomah’s Volta weaving projects. The festival cements Accra—and the broader West African diasporic art scene—as a cultural destination beyond entertainment.",
-      "summaryTokens": 955,
-      "generatedAt": "2025-12-11T03:42:22.273Z"
+      "summary": "Guardian columnist Nesrine’s farewell Long Wave dispatch details her first visit to Accra Cultural Week, centering on Jamestown’s resilience through Serge Attukwei Clottey’s [Dis]Appearing Rituals and afrogallonism, which repurposes yellow jerrycans into gold mosaics. She explores Jamestown’s Ga fishing heritage and Tabom community architecture—Portuguese-built Fort Vicentia (1660) and British lighthouse (1871)—and notes vibrant funeral posters and beach installations. Clottey’s work highlights environmental costs of fast-fashion waste. Additional highlights include Reginald Sylvester II’s Tema-welded sculptures and the Yaa Asantewaa Art prize exhibitions by Denyse Gawu-Mensah and Theresah Ankomah. Amid winter party tourism, Accra’s cultural season proves a lasting artistic force.",
+      "summaryTokens": 727,
+      "generatedAt": "2025-12-12T04:42:32.776Z"
     },
     {
       "id": "news/2025/dec/10/visual-breakdown-worlds-wealthiest-people",
@@ -65,9 +89,9 @@
       "section": "news",
       "publishedDate": "2025-12-10T12:00:00Z",
       "trailText": "About 56,000 people control three times as much wealth as half of humanity. Here’s one way to illustrate that",
-      "summary": "This analysis spotlights the world’s top 0.001%—56,000 ultra-rich individuals with an average net worth near €1 billion. They control three times the wealth of the poorest half of humanity (2.8 billion adults) and see their fortunes grow at about 5% annually, versus 3.4% for lower earners. Visually, they’d all fit inside a single medium football stadium, while the bottom 50% would require 50,000 such venues. The figures highlight the extreme concentration of global wealth and the widening divide between the super-rich and the rest.",
-      "summaryTokens": 427,
-      "generatedAt": "2025-12-11T03:42:22.273Z"
+      "summary": "An inequality report finds 56,000 people – the global 0.001% – each with hundreds of millions in assets, averaging nearly €1 billion. Together they’d fit into a 56,000-seat stadium yet control three times the wealth of the poorest 2.8 billion adults (the bottom 50%), while the top 10% own 75% of global assets. Their wealth is rising at almost 5% annually vs. 3.4% for the bottom half. To illustrate the gap, it would take 50,000 such stadiums to seat the poorest half, whose combined wealth is only one-third that of this ultra-rich cohort.",
+      "summaryTokens": 969,
+      "generatedAt": "2025-12-12T04:42:32.776Z"
     },
     {
       "id": "news/2025/dec/09/corrections-and-clarifications",
