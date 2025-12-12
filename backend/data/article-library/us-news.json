@@ -1,26 +1,290 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-11T04:12:32.270Z",
+    "generated_at": "2025-12-12T05:56:24.978Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-11"
+      "to": "2025-12-12"
     },
-    "article_count": 1705,
+    "article_count": 1730,
     "merge_info": {
-      "previous_count": 1688,
-      "new_articles": 17,
-      "updated_articles": 29,
-      "total_count": 1705
+      "previous_count": 1705,
+      "new_articles": 25,
+      "updated_articles": 23,
+      "total_count": 1730
     },
     "batch_info": {
-      "initial_batch_id": "batch_693a4356ba088190abac089469100c13",
+      "initial_batch_id": "batch_693baa5ac9488190b16b82c3c51324ce",
       "retry_batches": [],
-      "total_tokens": 106014,
-      "processing_time_hours": 0.1
+      "total_tokens": 107207,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/11/trump-administration-news-update-today",
+      "title": "Trump news at a glance: president ‘sick of meetings’ as Ukraine-Russia peace deal talks drag on",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/trump-administration-news-update-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/trump-administration-news-update-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-12T02:08:14Z",
+      "trailText": "Trump’s press secretary suggested Trump was growing weary of process as Ukraine’s president under immense pressure to sign US deal – key US politics stories from 11 December 2025",
+      "summary": "On December 11, press secretary Karoline Leavitt said President Trump is “sick of meetings just for the sake of meetings” as he urges Ukraine’s Zelenskyy to sign a US-drafted peace plan focused on Donbas troop withdrawals and Zaporizhzhia control. Elsewhere, lawmakers decried the US seizure of a Venezuelan tanker; Indiana Republicans rebuffed Trump-backed redistricting; the Senate rejected ACA subsidy extensions; protesters disrupted Sec. Noem’s hearing; a grand jury declined to reindict a Trump critic; critics blasted a social-media visa-vetting proposal; and briefs noted a Pennsylvania detainee’s release, a South Carolina measles surge, military polarization, border militarization, FDA vaccine updates and Mike Lindell’s gubernatorial bid.",
+      "summaryTokens": 2594,
+      "generatedAt": "2025-12-12T05:56:24.394Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/trump-executive-order-artificial-intelligence",
+      "title": "Trump signs executive order blocking states from regulating AI",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/trump-executive-order-artificial-intelligence",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/trump-executive-order-artificial-intelligence",
+      "section": "us-news",
+      "publishedDate": "2025-12-12T00:47:14Z",
+      "trailText": "Order, which lacks the force of law, also creates taskforce whose ‘sole responsibility’ will be challenging states’ AI laws",
+      "summary": "President Trump signed a nonbinding executive order to preempt state AI rules, creating a DOJ “AI Litigation Task Force” charged with challenging any 50-state patchwork of regulations. The order revives an earlier moratorium on state AI laws that failed in Congress, and mandates review of existing requirements—from California’s safety-testing disclosures to Colorado’s algorithmic bias risk assessments. Backed by Silicon Valley, it aims to streamline approvals but faces pushback from governors, civil-rights groups and AI-safety advocates who warn it cedes power to Big Tech and ignores social, environmental and political risks.",
+      "summaryTokens": 419,
+      "generatedAt": "2025-12-12T05:56:24.394Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/indiana-republicans-redistricting",
+      "title": "Indiana Republicans reject effort to redraw voting maps in rebuke to Trump",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-redistricting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/indiana-republicans-redistricting",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T22:51:03Z",
+      "trailText": "Measure to redistrict, which would add two GOP-friendly seats, failed 19-31 after 21 Republicans joined 10 Democrats",
+      "summary": "Indiana Senate rejected a Trump-backed plan to redraw its nine-district congressional map to add two GOP seats, failing 19-31 as 21 Republicans joined 10 Democrats. The bipartisan revolt blocked a strategy to fracture Indianapolis’ Democratic base and split the NW district held by Frank Mrvan. Key holdout Greg Goode invoked constituent will. The vote, amid a national push by Trump and VP JD Vance and warnings of federal funding cuts from Heritage Action, underscored GOP divisions ahead of tight midterms.",
+      "summaryTokens": 783,
+      "generatedAt": "2025-12-12T05:56:24.394Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/kilmar-abrego-garcia-released",
+      "title": "Kilmar Ábrego García released from ICE custody in fight over Trump immigration",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/kilmar-abrego-garcia-released",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/kilmar-abrego-garcia-released",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T22:48:43Z",
+      "trailText": "Ábrego plans return to Maryland as DHS pledges to appeal judge’s decision, calling ruling ‘naked judicial activism’",
+      "summary": "After federal judge Paula Xinis ruled there was no valid removal order, Salvadoran national Kilmar Ábrego García was released from ICE custody in Pennsylvania and will return to Maryland, where he lives with his US citizen wife and child. Ábrego’s habeas petition followed his mistaken March deportation to an El Salvador prison despite credible persecution fears. He previously endured beatings, sleep deprivation and psychological torture during his wrongful detention in El Salvador. DHS vows to appeal, denouncing the ruling as “naked judicial activism.” His case has become emblematic of the Trump administration’s aggressive immigration and mass deportation policies.",
+      "summaryTokens": 933,
+      "generatedAt": "2025-12-12T05:56:24.394Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/gas-explosion-san-francisco-bay-area",
+      "title": "Gas explosion in San Francisco Bay Area injures at least six people",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/gas-explosion-san-francisco-bay-area",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/gas-explosion-san-francisco-bay-area",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T21:55:04Z",
+      "trailText": "Explosion led to three-alarm blaze in Hayward, California, neighborhood after construction crew damaged a gas pipe",
+      "summary": "An underground gas line ruptured at a construction site on Lewelling Boulevard in Hayward, California, around 7:30 am on Thursday when a third-party crew working on bike lanes damaged the pipe. Ten minutes after Pacific Gas & Electric crews secured multiple leaks, a massive explosion and three-alarm blaze erupted at 9:30 am, injuring six and sending debris across the neighborhood. At least eight engines and two trucks battled flames that heavily damaged three buildings and caused minor to major damage to adjacent structures. Victims were hospitalized; conditions unreported.",
+      "summaryTokens": 931,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/ice-fbi-legal-chaos",
+      "title": "ICE issues deportation order for Belarusian woman extradited by FBI",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/ice-fbi-legal-chaos",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/ice-fbi-legal-chaos",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T21:48:37Z",
+      "trailText": "Yana Leonova faces multiple charges including fraud and conspiracy for smuggling US aviation parts to Russia",
+      "summary": "Yana Leonova, a Belarusian logistics manager extradited from France under a Trump-era probe, faces fraud, conspiracy and money-laundering charges for allegedly diverting $2m in sensitive US aviation parts to Russia through an Armenian front. Two weeks post-arrival, ICE abruptly ordered her deportation—despite DOJ’s push to hold her for trial—prompting DC Magistrate Judge Zia M. Faruqui to call the turnabout “Kafkaesque.” Arrested in France in September 2024 and held under home confinement before extradition, Leonova remains detained and trapped in legal limbo.",
+      "summaryTokens": 1643,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/letitia-james-dismissed-second-indictment",
+      "title": "Grand jury again declines to indict Letitia James on mortgage fraud charges",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/letitia-james-dismissed-second-indictment",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/letitia-james-dismissed-second-indictment",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T21:11:16Z",
+      "trailText": "New York attorney general dodges indictment for second time in a week as Trump’s justice department seeks retribution",
+      "summary": "A federal grand jury in Norfolk, Va, for the second time in a week, declined to indict New York AG Letitia James on mortgage fraud charges, delivering a rare rebuke to the Trump Justice Department. Prosecutors alleged she falsely claimed her 2020 Norfolk property as a second home while renting it out, but experts called the evidence thin. The case was dismissed by a judge over improper appointment of a Trump ally US attorney, and refiled by career attorney Roger Keller—only to be rejected again.",
+      "summaryTokens": 657,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/trump-militarized-zone-california-southern-us-border",
+      "title": "Trump administration creates new militarized zone in California along southern US border",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/trump-militarized-zone-california-southern-us-border",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/trump-militarized-zone-california-southern-us-border",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T21:03:05Z",
+      "trailText": "Trump hands 760 acres of California public land to the navy for a new defense zone, deepening border militarization",
+      "summary": "The Trump administration has transferred jurisdiction over 760 acres of public land in San Diego and Imperial counties to the US Navy for a three-year National Defense Area to bolster border security along California’s southern border. Spanning from Otay Mountain Wilderness to near the Arizona line, officials say the zone will close security gaps, protect lands from unlawful use, and support mass deportation efforts. Since April, military designations have allowed troops to detain migrants, levy harsher charges and deploy surveillance equipment, even as border arrests fall to six-decade lows. Federal courts recently blocked Trump’s broader use of National Guard forces in California, citing overreach.",
+      "summaryTokens": 557,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/mike-lindell-mypillow-minnesota-governor",
+      "title": "Mike Lindell, Trump ally and MyPillow founder, running for Minnesota governor",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/mike-lindell-mypillow-minnesota-governor",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/mike-lindell-mypillow-minnesota-governor",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T20:20:08Z",
+      "trailText": "Lindell, an election conspiracist who still maintains the 2020 election was stolen, joins a crowded Republican field",
+      "summary": "Mike Lindell, MyPillow founder and prominent Trump ally who persists in false claims that the 2020 election was stolen, announced a run in Minnesota’s crowded 2026 GOP gubernatorial primary. Facing multiple defamation judgments and dire finances he labels “lawfare,” Lindell is backed by adviser Rudy Giuliani. He joins contenders like state house speaker Lisa Demuth and Scott Jensen against three-term Democratic incumbent Tim Walz. Republicans haven’t won the governor’s office since 2006. Democrats warn Lindell’s far-right stances—abortion ban support, praised healthcare cuts, and 9/11 conspiracy remarks—risk chaotic politics.",
+      "summaryTokens": 626,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/us-polarization-military-politics",
+      "title": "US’s polarization affecting military ability to remain apolitical, says former joint chiefs chair",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/us-polarization-military-politics",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/us-polarization-military-politics",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T19:40:17Z",
+      "trailText": "Retired Adm Mike Mullen said political environment facing officers is difficult as ‘we have gotten so much more divided’",
+      "summary": "At an Aspen Institute forum, retired Admiral Mike Mullen said the US military’s traditional apolitical stance is under unprecedented strain due to deep ideological divisions reaching junior ranks. He warned that politicization—exemplified by the Trump administration’s removal of senior commanders like Gen CQ Brown and Adm Lisa Franchetti, and National Guard deployments in US cities—has fragmented civil-military relations. Mullen highlighted inexperienced officers at service academies facing a complex political landscape and criticized both party interventions, including a video from six ex-Democratic lawmakers urging resistance to “illegal orders.” While expressing confidence in personnel, he questioned the reliability of orders from a politicized commander-in-chief.",
+      "summaryTokens": 1133,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/venezuela-oil-tanker-seized-us",
+      "title": "What we know about the oil tanker seized by the US off the Venezuela coast",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/venezuela-oil-tanker-seized-us",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/venezuela-oil-tanker-seized-us",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T19:39:06Z",
+      "trailText": "The Skipper, a tanker sanctioned by the US in 2022, is thought to have been carrying 1.1m barrels of Venezuelan oil",
+      "summary": "US forces seized the 1.1m-barrel VLCC Skipper off Venezuela under a 2022 sanction warrant, marking a high-profile escalation in US–Venezuela tensions. The vessel, flying a false Guyana flag, is owned by sanctioned Triton Navigation and linked to Iran’s IRGC shadow fleet. Deployed assets include the USS Gerald R. Ford and Coast Guard helicopters. The White House says crews are interviewed, and oil faces forfeiture proceedings. Critics, including Maduro, decry “international piracy.” Analysts predict the move will drive up freight costs for Venezuelan crude and intensify pressure on Maduro’s government.",
+      "summaryTokens": 944,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/fda-vaccine-regulations-unconfirmed-covid-deaths",
+      "title": "FDA to update regulations after unconfirmed claims of Covid vaccine-linked death",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/fda-vaccine-regulations-unconfirmed-covid-deaths",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/fda-vaccine-regulations-unconfirmed-covid-deaths",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T19:34:50Z",
+      "trailText": "Announcement, and lack of details in the weeks following, represents major departure from previous FDA priorities",
+      "summary": "Amid pressure from HHS Secretary Robert F. Kennedy Jr., the FDA says it will overhaul vaccine rules after an unsubstantiated internal claim that Covid shots killed ten children. CBER director Vinay Prasad’s vague memo and promise of “imminent” data contrast with the agency’s prior rapid-signal reporting. HHS asserts past leadership failed to investigate, while experts, ex-FDA chiefs, and lawmakers demand detailed evidence, warn of eroding public trust, and scrutinize plans to broaden safety monitoring, mandate randomized trials for pregnant women and children, and extend oversight to annual flu vaccines.",
+      "summaryTokens": 868,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/senate-vote-obamacare-tax-credit-bills",
+      "title": "Senate rejects dual healthcare bills as Obamacare tax credits expiration nears",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/senate-vote-obamacare-tax-credit-bills",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/senate-vote-obamacare-tax-credit-bills",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T18:51:32Z",
+      "trailText": "Votes came as premium tax credits for estimated 21.8 million enrollees of plans set to expire at end of month",
+      "summary": "The Senate on Thursday rejected two rival plans to avert the end-of-month expiration of Obamacare premium tax credits for 21.8 million enrollees. A Democratic bill to extend subsidies three years lost 51-48, while a GOP proposal to shift payments of $1,000 (plus $500 for ages 50–64) into HSAs also failed. KFF warns premiums could double without credits. Thune and Schumer traded barbs, Trump backed the HSA plan, and Speaker Johnson opposes extending subsidies in the GOP-controlled House.",
+      "summaryTokens": 349,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/protesters-kristi-noem-hearing-ice",
+      "title": "Protesters interrupt Noem hearing with Exorcist line: ‘The power of Christ compels you!’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/protesters-kristi-noem-hearing-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/protesters-kristi-noem-hearing-ice",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T18:05:02Z",
+      "trailText": "Two protesters disrupted House panel hearing, with one yelling line made famous in 1973 horror film",
+      "summary": "At a House homeland security hearing on Dec 11, 2025, protesters briefly interrupted Secretary Kristi Noem with chants “Stop ICE raids! The power of Christ compels you! End deportations,” echoing The Exorcist. Capitol Police removed them as Noem smiled. A second protester shouted “No ICE, no troops!” Rep. Bennie Thompson (D-MS) urged Noem’s resignation over alleged corruption and lawlessness in Trump’s immigration crackdowns. Noem defended her role, praising the administration’s safety efforts. The hearing unfolds amid tensions over militarized ICE tactics—flash-bangs, armored vehicles and biometric tracking—and DHS’s new contract for six Boeing 737s for deportations, part of Trump’s “largest deportation operation in American history.”",
+      "summaryTokens": 1807,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/why-my-letters-would-fail-the-trump-visa-test",
+      "title": "Why my letters would fail the Trump visa test | Brief letters",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/why-my-letters-would-fail-the-trump-visa-test",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/why-my-letters-would-fail-the-trump-visa-test",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T17:51:46Z",
+      "trailText": "Brief letters: US visa edict | 1 No Trump | Flu advice | Costly candles | Christmas spirit",
+      "summary": "A batch of Guardian readers lampoons the new US visa rule demanding five years of social-media history: one fears their anti-Trump letters would bar entry; another jokes about finding bridge players who haven’t bid “1 No Trump.” Further letters challenge NHS flu advice—arguing symptomatic mask wearers still risk spreading germs—complain that £28 for a scented candle is hardly affordable, and note that spotting “best before” dates on milk in January signals the true start of Christmas spirit.",
+      "summaryTokens": 337,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/lawmakers-venezuela-oil-tanker",
+      "title": "US lawmakers condemn seizure of Venezuelan oil tanker: ‘Trump is sleepwalking us into a war’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/lawmakers-venezuela-oil-tanker",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/lawmakers-venezuela-oil-tanker",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T16:20:16Z",
+      "trailText": "Unease grows in Washington, including among some Republicans, over Trump administration’s escalating military posture in the Caribbean",
+      "summary": "Senior lawmakers condemned the Trump administration’s Dec. 11 seizure of a Venezuelan oil tanker as a dangerous step toward regime change and war. Trump boasted of capturing the largest-ever tanker and keeping its oil amid stepped-up naval deployments and bombings of alleged drug-running vessels. Senators Chris Van Hollen, Chris Coons, Adam Schiff and Rand Paul warned the move undermines US credibility, equates to an act of war, and lacks congressional authorization. Attorney General Pam Bondi framed it as enforcing sanctions on Iran–Venezuela oil ties. Caracas denounced it as piracy. Schiff, Tim Kaine, Paul and Chuck Schumer filed a War Powers resolution to curb further military actions.",
+      "summaryTokens": 2356,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/trump-plan-vet-us-visitors-social-media-tourism",
+      "title": "‘Censorship pure and simple’: critics hit out at Trump plan to vet visitors’ social media",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/trump-plan-vet-us-visitors-social-media-tourism",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/trump-plan-vet-us-visitors-social-media-tourism",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T16:00:18Z",
+      "trailText": "Some warn proposal will decimate US tourism industry as free speech advocates say it will lead to people self-censoring",
+      "summary": "The Trump administration plans to require visa-waiver visitors from 42 countries—including the UK, Ireland, Australia, France, Germany and Japan—to disclose five years of social media posts plus phone and email histories when applying via ESTA. Critics at Index on Censorship, Amnesty International UK, Big Brother Watch and Human Rights Watch call it “censorship pure and simple,” warning it will chill speech, trigger self-censorship and decimate US tourism before the 2026 World Cup. EU officials denounce it as a rights overreach; Trump insists it’s vital for security.",
+      "summaryTokens": 1570,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/south-carolina-measles-outbreak",
+      "title": "South Carolina officials report ‘accelerating’ measles outbreak",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/south-carolina-measles-outbreak",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/south-carolina-measles-outbreak",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T14:53:08Z",
+      "trailText": "Thanksgiving travel and low vaccination rates have contributed to 27 new cases in state during past week",
+      "summary": "South Carolina officials report an accelerating measles outbreak centered on a church and schools in Spartanburg county after Thanksgiving travel and low vaccination rates. To date, 111 cases (105 unvaccinated, three partially vaccinated) have been confirmed, including 20 in under-fives and 75 in five- to 17-year-olds; 27 new cases emerged in the past week. Health authorities have quarantined 254 people and isolated 16, noting state MMR coverage has declined from 96% in 2020 to 93.5% in 2025. With 1,912 US cases in 43 states this year, officials warn the US may lose its measles elimination status and urge broader uptake of mobile clinic MMR vaccinations amid mixed federal vaccine messaging.",
+      "summaryTokens": 519,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/first-thing-venezuela-decries-act-of-piracy-after-us-forces-seize-oil-tanker-off-countrys-coast",
+      "title": "First Thing: Venezuela decries ‘act of piracy’ after US forces seize oil tanker off country’s coast",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/first-thing-venezuela-decries-act-of-piracy-after-us-forces-seize-oil-tanker-off-countrys-coast",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/first-thing-venezuela-decries-act-of-piracy-after-us-forces-seize-oil-tanker-off-countrys-coast",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T13:21:58Z",
+      "trailText": "The move marks a major escalation of Trump’s pressure campaign against Nicolás Maduro. Plus, how Hasan Piker became one of the biggest voices on the US left",
+      "summary": "US forces, backed by the FBI, HSI, Coast Guard and DoD, seized a crude oil tanker off Venezuela’s coast used to transport sanctioned Venezuelan and Iranian oil, part of Trump’s four-month pressure campaign against Nicolás Maduro. Venezuela denounced the operation as “international piracy” and theft of its natural resources. Nobel laureate opposition leader María Corina Machado, fresh from Oslo after months in hiding, applauded the move as pivotal to challenging Maduro’s regime.",
+      "summaryTokens": 1118,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/somali-minneapolis-fear-trump-ice-deportation",
+      "title": " ‘Somalis are the scapegoat’: fear rises as Trump targets Minneapolis community",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/somali-minneapolis-fear-trump-ice-deportation",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/somali-minneapolis-fear-trump-ice-deportation",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T12:00:14Z",
+      "trailText": "Residents have had to adjust how they’re living – staying home, carrying passports – since Trump launched his attack",
+      "summary": "After Trump labeled Minneapolis’s 84,000-strong Somali community “garbage” and deployed Operation Metro Surge to target them for deportations, residents live in fear of ICE raids. Karmel Mall, a community hub, sits eerily quiet as families stay home, carry passports, and volunteer watchers monitor for agents. Mayor Jacob Frey decries the scattered, chaotic enforcement while local leaders, including GOP Sen. Jim Abeler, defend Somali citizens. Clinics report canceled appointments; telehealth and mobile response teams treat patients too afraid to seek care.",
+      "summaryTokens": 1437,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/texas-prison-fmc-carswell-sexual-abuse-allegations",
+      "title": "‘Human trafficking behind prison walls’: women jailed in Texas allege rampant sexual abuse",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/texas-prison-fmc-carswell-sexual-abuse-allegations",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/texas-prison-fmc-carswell-sexual-abuse-allegations",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T11:00:12Z",
+      "trailText": "Women at FMC Carswell – long a focus of sexual abuse investigations – say prison officials have turned a blind eye",
+      "summary": "Eleven women at FMC Carswell, a federal medical women’s prison in Fort Worth, Texas, have filed lawsuits since May alleging repeated sexual assaults by six staff—doctor, chaplain and officers—over seven years, accusing the Bureau of Prisons and Office of Internal Affairs chief Beth Reese of negligence, sexual battery and trafficking. Carswell, marred by 13 staff convictions since 1997 and the highest assault rate among federal women’s prisons, routinely allowed accused abusers to retire or escape discipline, FOIA records show. Plaintiffs describe assaults in medical and BioMed units and slow, dismissive investigations. Lawyers demand systemic cultural reforms and stronger Prison Rape Elimination Act (PREA) enforcement.",
+      "summaryTokens": 1343,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/i-love-when-my-enemies-hate-me-how-hasan-piker-became-one-of-the-biggest-voices-on-the-us-left",
+      "title": "‘I love when my enemies hate me’: how Hasan Piker became one of the biggest voices on the US left",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/i-love-when-my-enemies-hate-me-how-hasan-piker-became-one-of-the-biggest-voices-on-the-us-left",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/i-love-when-my-enemies-hate-me-how-hasan-piker-became-one-of-the-biggest-voices-on-the-us-left",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T05:00:58Z",
+      "trailText": "Every day he broadcasts a marathon Twitch stream, airing his views to his three million followers. It has led to fame – and some fear – in a country ever more politically divided",
+      "summary": "Hasan Piker, a 34-year-old ex-Young Turks host with 3 million Twitch followers, runs daily 7–8-hour streams mixing politics, gaming and pop culture. He’s emerged as a high-profile US left voice, backing figures like AOC, Mamdani and Omar and espousing social-democratic, “empathy-first” views. Critiqued for a 2019 “America deserved 9/11” remark and controversial Palestine stance, he’s been suspended on Twitch four times and faced right-wing attacks, detainment by border agents and online dog-shock-collar memes. Piker warns the left cede cultural space at its peril, urges real-world organizing, and plans to stay on Twitch rather than traditional media.",
+      "summaryTokens": 1064,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
     {
       "id": "us-news/2025/dec/10/us-forces-reportedly-seize-oil-tanker-off-venezuela-coast",
       "title": "Venezuela decries ‘act of piracy’ after US forces seize oil tanker off country’s coast",
@@ -29,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-11T02:50:48Z",
       "trailText": "Footage uploaded to X by US attorney general shows its forces landing on the tanker in major escalation of Trump’s pressure campaign",
-      "summary": "US forces seized a large crude tanker off Venezuela’s coast, alleging it transported sanctioned oil from Venezuela and Iran for an illicit network tied to terrorist groups, as shown in a 45-sec video posted by AG Pam Bondi. The Maduro regime condemned the move as “piracy” amid Trump’s four-month pressure campaign that includes a $50m bounty, a Caribbean naval buildup and deadly airstrikes. The seizure coincided with opposition leader María Corina Machado winning the Nobel Peace Prize for her democratic activism against Maduro.",
-      "summaryTokens": 541,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "US forces seized a large oil tanker off Venezuela’s coast in an escalation of Trump’s four-month pressure campaign against Nicolás Maduro. Attorney General Pam Bondi released footage on X showing a helicopter boarding the vessel as US agencies executed a warrant for a tanker sanctioned for transporting illicit Venezuelan and Iranian oil. Maduro’s government denounced the action as “international piracy.” This is the first seizure of Venezuelan oil under US sanctions, following a $50m bounty on Maduro, major naval deployments and airstrikes on drug boats. Opposition leader María Corina Machado received the Nobel Peace Prize for her democratic activism.",
+      "summaryTokens": 1706,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/immigrant-students-ice-crackdowns",
@@ -41,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-11T02:45:43Z",
       "trailText": "In survey, US school principals describe ‘climate of distress’ and declines in student attendance amid crackdowns",
-      "summary": "In a nationally representative survey of over 600 US high school principals by UCLA’s IDEA, 70.4% reported immigrant students fearing for their families amid ICE raids. More than 57% saw immigrant parents leave communities and 63.8% noted attendance drops tied to immigration rhetoric. Over one-third documented spikes in anti-immigrant bullying—taunts like “Can I see your papers?” and “Go back home.” Schools responded: 77.6% created federal-agent response plans and nearly half prepared for guardian deportations. DHS called the report fear-mongering and denied targeting children.",
-      "summaryTokens": 932,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Survey of 600+ US high school principals by UCLA’s IDEA finds ICE raids and anti-immigrant rhetoric fueling a climate of distress, fear and bullying: 70.4% of students express concerns about family well-being, 63.8% miss school due to enforcement, 57.8% of immigrant families moved away, and some students are unaccounted for. Over one-third report taunts like “Can I see your papers?” Minnesota and Nebraska principals cite slurs like “Go back home,” and compare ICE raids to mass-shooter drills. Schools are adopting ICE-visit protocols (77.6%) and deportation contingencies (≈50%). DHS labels the report “fear mongering,” while principals warn trauma undermines safety and learning.",
+      "summaryTokens": 1996,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/trump-news-at-a-glance-seizure-of-oil-tanker-marks-new-level-of-tensions-between-us-and-venezuela",
@@ -53,9 +317,33 @@
       "section": "us-news",
       "publishedDate": "2025-12-11T02:23:42Z",
       "trailText": "Trump also said Colombia’s president ‘will be next’ as he announced major escalation in US pressure on Nicolás Maduro",
-      "summary": "US forces backed by FBI, DHS, Coast Guard and DoD seized a crude oil tanker off Venezuela in Donald Trump’s latest four-month campaign against Nicolás Maduro, prompting Maduro to urge citizens to ‘smash the teeth’ of the US. While objectives remain unclear, analysts see it as leverage for a possible 2027 recall referendum or blockade. Other Trump moves include a $1m 'golden visa' scheme, stricter tourist social-media checks, a Fed rate cut, Boeing jets for deportations, an insider-trading inquiry and blocked LA Guard deployment. States face atmospheric-river emergencies, RSV shot reviews, abortion pill lawsuits, RFK Jr. impeachment articles and NASA’s lost Mars orbiter.",
-      "summaryTokens": 3529,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "US forces seized a crude oil tanker off Venezuela’s coast under a federal warrant targeting vessels carrying sanctioned Venezuelan and Iranian oil, marking a major escalation in Trump’s four-month pressure campaign against Nicolás Maduro. AG Pam Bondi released helicopter-boarding footage, citing FBI, Homeland Security Investigations, Coast Guard and DoD involvement. In Caracas, Maduro urged citizens to act as “warriors” against the US “empire.” Former Biden adviser Juan González suggests such hardline actions aim to push Maduro toward a 2027 recall referendum or risk a blockade.",
+      "summaryTokens": 618,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/10/us-house-defense-bill-military-programs",
+      "title": "US House passes bill authorizing $900bn for military programs",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/10/us-house-defense-bill-military-programs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/10/us-house-defense-bill-military-programs",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T02:18:31Z",
+      "trailText": "Legislation includes pay increase for troops and a demand for more information about boat strikes in the Caribbean",
+      "summary": "The House approved 312-112 a 3,000-page defense policy bill authorizing $900 billion in military programs, including a 3.8% troop pay raise, weapons-procurement reforms, $400 million/year for Ukraine, and mandates to keep 76,000 troops in Europe and 28,500 in South Korea. It demands unedited Caribbean boat-strike video, cuts $1.6 billion in climate spending and $40 million in DEI funding, repeals Iraq war authorizations, lifts Syrian sanctions, and ties Defense Secretary Hegseth’s travel budget to congressional oversight.",
+      "summaryTokens": 496,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/11/us-house-passes-bill-to-bolster-europes-defence-in-apparent-rebuke-to-trumps-foreign-policy-strategy",
+      "title": "US House passes bill to bolster Europe’s defence, in apparent rebuke to Trump’s foreign policy strategy",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/11/us-house-passes-bill-to-bolster-europes-defence-in-apparent-rebuke-to-trumps-foreign-policy-strategy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/11/us-house-passes-bill-to-bolster-europes-defence-in-apparent-rebuke-to-trumps-foreign-policy-strategy",
+      "section": "us-news",
+      "publishedDate": "2025-12-11T01:48:55Z",
+      "trailText": "The 2026 National Defense Authorization Act (NDAA) carries $8bn more than the funding Trump requested in May",
+      "summary": "The US House approved the 2026 NDAA, boosting Europe’s defence funding by $8bn above Trump’s request, barring troop levels on the continent from falling below 76,000 for more than 45 days and blocking equipment removals. It locks in $400m security aid for Ukraine, limits cuts to 28,500 troops in South Korea, and curbs Trump’s authority over NATO missions. Backed by Speaker Mike Johnson, the bill counters Trump’s national security strategy that lambasted Europe, and now moves to the Senate for final passage. The bill also slashes diversity, equity and inclusion training programs condemned by Trump.",
+      "summaryTokens": 1150,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/pacific-north-west-flooding",
@@ -65,21 +353,21 @@
       "section": "us-news",
       "publishedDate": "2025-12-11T00:23:41Z",
       "trailText": "Bob Ferguson says he has also activated the state’s national guard to respond to the flooding",
-      "summary": "Washington Gov. Bob Ferguson declared a statewide emergency after an AR5 atmospheric river drenched the Pacific Northwest, triggering mudslides, flooded roads and rising rivers (Carbon, Cedar, Elwha, Snohomish) near record levels. He’s activated 100 National Guard troops tonight, 300 by tomorrow, and is seeking expedited federal aid. Communities from Mount Rainier to Baker face threats to homes, livestock and roads; Fall City farmer reports unprecedented barn flooding. Forecasters predict 2-4 inches of rain at lower elevations, 10 inches in the Cascades, gusts up to 45 mph, landslides and debris flows. Rescues and evacuations are underway.",
-      "summaryTokens": 1524,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Gov. Bob Ferguson declared a statewide emergency in Washington after an AR5 atmospheric river unleashed heavy rain, mudslides and flooding, washing out roads and submerging vehicles from Mount Rainier to Baker. He activated 100–300 National Guard troops, sought expedited federal aid, and warned rivers like the Carbon, Cedar, Elwha and Snohomish could near record levels, imperiling homes, farms and infrastructure. NWS forecasts up to 10in rain in Cascades, debris flows in fire-scarred slopes, and urged caution against driving floodwaters. Local deputies evacuated a mobile home park and Lewis County crews rescued five drivers trapped on flooded routes.",
+      "summaryTokens": 1196,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/mass-shooting-stockton-birthday-party",
-      "title": "No arrests or suspects in mass shooting at toddler’s birthday party in Stockton",
+      "title": "No arrests or suspects in mass shooting at toddler’s birthday party in California",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/10/mass-shooting-stockton-birthday-party",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/10/mass-shooting-stockton-birthday-party",
       "section": "us-news",
       "publishedDate": "2025-12-10T23:12:54Z",
-      "trailText": "California officials predict months-long investigation into 29 November killing of four people, including three children",
-      "summary": "After the 29 November shooting at a toddler's birthday party in Stockton, which killed four people, including three children, and injured 17, law enforcement has no suspects nor arrests and expects a months-long probe. Investigators recovered over 50 shell casings suggesting at least five guns but lack clear leads or motives amid rumors of gang ties. Officials—from San Joaquin Sheriff to Stockton Vice Mayor—stress keeping victims and families at the center, highlighting trauma and calls for justice. Advocates and city leaders decry underfunded violence prevention programs and warn of racial bias overshadowing this tragedy.",
-      "summaryTokens": 991,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "trailText": "Stockton officials predict months-long investigation into 29 November killing of four people, including three children",
+      "summary": "Stockton, CA officials report no arrests or suspects a week after the Nov. 29 mass shooting at a toddler’s birthday party that killed four, including three children, and injured 17. Investigators have recovered 50 shell casings and believe five guns were used, but motives remain unknown and probes may take months. Victims’ families and local leaders decry media focus on alleged gang ties over the losses of eight-year-olds Journey Rose Reotutar Guerrero and Maya Lupian, 14-year-old Amari Peterson and 21-year-old Susano Archuleta. Stockton vice-mayor Jason Lee blasts underfunded violence-prevention efforts amid calls for greater state support.",
+      "summaryTokens": 897,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/montana-climate-youth-activists-petition-law",
@@ -89,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T22:08:16Z",
       "trailText": "In 2023, court ruled in favor of 16 plaintiffs that officials violated their constitutional right by promoting fossil fuels",
-      "summary": "Thirteen of the 16 youth plaintiffs behind Held v. Montana have petitioned the state Supreme Court to enforce its August 2023 ruling—which found that Montana violated their constitutional right to a clean environment by promoting fossil fuels—arguing 2025 legislation now undermines that decision. New laws bar agencies from adopting air standards above the federal Clean Air Act, limit GHG inventories to six gases, exclude upstream/downstream emissions and forbid using data to deny or condition permits. The suit names Gov. Greg Gianforte and the Montana DEQ, seeking to strike down these statutes as unconstitutional.",
-      "summaryTokens": 484,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Thirteen of the original 16 youth plaintiffs from Held v. Montana petitioned the state supreme court to enforce their August 2023 victory, which ruled unconstitutional state laws barring climate impacts from environmental reviews. They challenge 2025 legislation that caps state air quality standards at federal levels, limits greenhouse gas inventories to six gases, excludes upstream/downstream emissions and forbids agencies from using emission data to deny permits. Backed by Our Children’s Trust, they argue these measures violate Montana’s constitutional right to a clean environment and seek to strike down the new laws to empower agencies to condition or deny fossil fuel projects.",
+      "summaryTokens": 807,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/trump-us-gold-card-visa-launch",
@@ -101,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T21:30:41Z",
       "trailText": "Wealthy immigrants will be able to buy residency, and $5m ‘platinum card’ will exempt holders from some US taxes",
-      "summary": "President Donald Trump unveiled a “Trump Gold Card” visa program offering wealthy foreigners a $1 million route to US residency and eventual citizenship, requiring a $15 000 DHS processing fee, background check, and $1 million individual (or $2 million corporate) investment; plus 1% annual maintenance ($20 000) and 5% transfer fee ($100 000). Amid a broader crackdown on undocumented immigrants, critics say it conflicts with America’s refugee tradition. A $5 million “Trump Platinum Card” promised next will permit 270 tax-exempt days on non-US income. Proceeds aim to fund unspecified national initiatives.",
-      "summaryTokens": 563,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Donald Trump unveiled a “Gold Card” scheme allowing wealthy foreigners to secure US residency for $1 million plus a $15 000 DHS processing fee and vetting; companies sponsoring employees pay $2 million upfront, a 1% annual maintenance fee and a 5% transfer fee. A $5 million “Platinum Card,” granting up to 270 days in the US without US tax on non-US income, is slated to follow. Launched by executive order amid aggressive immigration enforcement, the program—discounted from an initial $5 million—faces criticism for favoring the wealthy but aims to boost US talent and generate billions for national projects.",
+      "summaryTokens": 627,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/us-signs-boeing-trump-deportation-deal",
@@ -113,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T21:10:06Z",
       "trailText": "Funds for contract signed with Daedalus Aviation will come from $170bn allocated for Trump’s border policy",
-      "summary": "DHS has inked a $139.5m deal with Virginia’s Daedalus Aviation to acquire six Boeing 737s for ICE deportation flights, financed by the $170bn Trump border policy fund. DHS says the move will save $279m via more efficient routes. The procurement, endorsed by Trump and DHS Secretary Noem, replaces a shelved Spirit Airlines jet plan and coincides with a 79% surge in deportation flights—1,701 removals to 77 countries—driving Trump’s push for the “largest deportation operation” amid concerns over transparency and detainee demographics.",
-      "summaryTokens": 998,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "The DHS has inked a $140m contract with Virginia-based Daedalus Aviation to acquire six Boeing 737s for deportation operations, funded from the $170bn Trump administration border policy allocation. DHS claims $279m in taxpayer savings via efficient flight patterns. This follows a shelved bid for Spirit Airlines jets and aligns with record deportation metrics—1,701 flights to 77 countries and 500,000 removals—and has drawn scrutiny over detainee profiles and data transparency.",
+      "summaryTokens": 718,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/i-have-eyes-i-have-ears",
@@ -125,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T21:00:47Z",
       "trailText": "The US president praised an autocrat, said Europe should ‘send back’ asylum seekers and compared Ukraine’s leader to a conman",
-      "summary": "After receiving the inaugural Fifa peace prize from Infantino, Trump used a Politico interview to sow division. He praised autocrat Viktor Orbán, claimed Europe should “send back” asylum seekers to Congo, and compared Ukraine’s Zelenskiy to 19th-century showman PT Barnum. Trump garbled Crimea’s geography, boasted of his “eyes,” “ears,” and “knowledge,” and reiterated racist attacks on African immigrants and Somalis. He also slammed London mayor Sadiq Khan, floated ending birthright citizenship and insulted members of Congress. The exchange underscored his combative, inaccurate rhetoric and cast doubt on his suitability for any peace award.",
-      "summaryTokens": 815,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "After receiving FIFA’s inaugural peace prize from ally Gianni Infantino, President Trump used a Politico interview to sow division: praising autocrats Viktor Orbán and Javier Milei, urging Europe to ‘send back’ Congolese asylum seekers, mocking London mayor Sadiq Khan as ‘vicious’, launching racist attacks on Somali migrants and Ilhan Omar, bungling Crimea’s geography, likening Zelenskyy to P.T. Barnum, rambling “I have eyes. I have ears,” and even deriding birthright citizenship while dog-whistling about “Barack Hussein Obama,” a performance critics say undermines any peace credentials.",
+      "summaryTokens": 553,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/tourists-social-media-trump",
@@ -137,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T18:31:11Z",
       "trailText": "Plan would apply to countries not currently required to get visas to the US, including Britain and France",
-      "summary": "Under a new Trump administration plan, tourists from the 42 visa-exempt countries—including Britain, France, Australia, Germany and Japan—must disclose five years of social media posts, all phone numbers from that period, ten years of email addresses, plus face, fingerprint, DNA and iris scans, and family details on the ESTA form. US Customs and Border Protection says the measures implement Trump’s executive order to detect “hostile attitudes.” Critics warn these requirements will deter visitors—especially ahead of the US-hosted 2026 World Cup—and undermine free-speech principles. Public comments are open for two months.",
-      "summaryTokens": 935,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Under a new Trump administration rule, tourists from the 42 visa-exempt countries—including Britain, France, Australia, Germany and Japan—would have to disclose five years of social media posts, phone numbers, ten years of emails and submit biometrics (face, fingerprint, DNA, iris) plus family details before obtaining ESTA. Framed as ensuring visitors lack \"hostile attitudes,\" the measure follows broader visa crackdowns—on student, H-1B and journalist applicants—and adds $100 per-day park fees. With US tourism already slumping and the 2026 World Cup looming, critics warn of chilling free speech, privacy invasions and travel deterrence. A two-month public comment window is now open.",
+      "summaryTokens": 1470,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/national-guard-los-angeles-deployment-blocked",
@@ -149,9 +437,21 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T18:16:07Z",
       "trailText": "Judge ordered the guard, deployed to the city in June, returned to the control of the California governor",
-      "summary": "On Dec. 10, U.S. District Judge Charles Breyer halted the Trump administration’s June federalization of roughly 4,000 California National Guard troops in Los Angeles, ruling that recent immigration-raid protests did not amount to a rebellion. He granted Gov. Gavin Newsom’s request for a preliminary injunction to return the remaining 100 troops to state control, though his order is stayed until Monday. The administration, which had extended the deployment through February to protect federal property, vowed to appeal; Newsom called the original move unprecedented and illegal.",
-      "summaryTokens": 409,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "US District Judge Charles Breyer blocked the Trump administration’s federalization of California’s National Guard in Los Angeles, ordering roughly 100 remaining troops returned to Gov. Gavin Newsom’s control. The court rejected federal claims that late protests against immigration enforcement constituted a rebellion justifying continued federal command. Breyer had earlier deemed the June deployment illegal and granted a preliminary injunction—paused until Monday—against the administration’s extension through February. White House and state officials dispute the move’s legality, echoing reversals in other cities.",
+      "summaryTokens": 466,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
+    },
+    {
+      "id": "us-news/2025/dec/10/brad-lander-dan-goldman-new-york-congress",
+      "title": "Brad Lander to challenge Dan Goldman for New York congressional seat",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/10/brad-lander-dan-goldman-new-york-congress",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/10/brad-lander-dan-goldman-new-york-congress",
+      "section": "us-news",
+      "publishedDate": "2025-12-10T18:02:28Z",
+      "trailText": "Outgoing comptroller and progressive ally of Zohran Mamdani launches primary bid for Congress",
+      "summary": "Brad Lander, outgoing NYC comptroller and former mayoral candidate, is challenging Democratic Rep. Dan Goldman in the Manhattan–northwest Brooklyn primary. Endorsed by mayor-elect Zohran Mamdani and Sen. Bernie Sanders, Lander pledges to fight economic inequality, corporate influence and defend immigrants after his arrest by ICE at an immigration hearing. Goldman, a two-term congressman who led Trump’s first impeachment defense, supports higher taxes on the wealthy, immigrant-court protections and the Green New Deal. The race highlights a progressive-versus-moderate tug within New York Democrats.",
+      "summaryTokens": 1380,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/miami-mayor-eileen-higgins-trump-backlash",
@@ -161,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T16:08:27Z",
       "trailText": "Eileen Higgins’s win has reset the city’s political landscape in some ways not seen in 28 years, and in others not at all",
-      "summary": "Eileen Higgins, a Democrat, captured Miami’s mayoralty with nearly 60% in the run-off, ending 28 years of GOP rule. She follows outgoing mayor Francis Suarez, son of Democratic mayor Xavier Suarez. The first woman and first Democrat since the 1990s—and first non-Hispanic—her victory over Trump- and DeSantis-backed Republican Emilio González reflects a backlash against hardline immigration policies. Higgins campaigned on restoring temporary protected status and criticizing “Alligator Alcatraz,” resonating in a city where 60% are foreign-born. Her win signals shifting Hispanic and suburban voters ahead of the 2026 midterms, underscoring local rejection of national Republican rhetoric, according to Democratic leaders and former GOP Rep. David Jolly.",
-      "summaryTokens": 1993,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Democrat Eileen Higgins ended 28 years of GOP rule as Miami’s mayor, winning the runoff with nearly 60% over Trump-backed Emilio González. She’s the city’s first woman, first Democrat since 1997 and first non-Hispanic mayor in decades. Her victory in a majority-foreign-born city signals backlash against Trump and DeSantis’s tough immigration agenda (TPS cuts, Everglades detentions) and suggests Hispanic voters may swing away from Republicans ahead of the 2026 midterms.",
+      "summaryTokens": 727,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/rfk-michigan-democrat-impeach-haley-stevens",
@@ -173,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T15:21:27Z",
       "trailText": "Haley Stevens accuses health secretary of undermining public health, but Republican-run House is unlikely to act",
-      "summary": "Representative Haley Stevens (D-MI), a Senate candidate, filed articles of impeachment against Health Secretary Robert F. Kennedy Jr., accusing him of abusing authority and undermining public health by spreading conspiracies, raising costs, gutting research funding and restricting vaccines. Despite her claims that his policies endanger families and dismantle medical progress, the Republican-controlled House and Democratic leaders aren’t backing the move, making advancement unlikely. HHS dismissed the effort as partisan. Kennedy’s tenure, including vaccine-policy changes and mass firings, has drawn harsh criticism from lawmakers and six former U.S. surgeons general warning his agenda imperils national health.",
-      "summaryTokens": 941,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Michigan Rep. Haley Stevens filed articles of impeachment against Health Secretary Robert F. Kennedy Jr., accusing him of abusing authority, undermining science and public health by spreading conspiracies, hiking costs, restricting vaccines and slashing research funding. With Republicans controlling the House and Democratic leaders withholding support, the measure faces slim prospects. HHS spokesman says Kennedy remains focused on lowering costs and improving health, while critics including six former U.S. surgeons general warn his policies sow vaccine distrust, erode scientific institutions and jeopardize national health security.",
+      "summaryTokens": 470,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/rsv-shots-vaccines-rfk-hhs",
@@ -185,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T12:00:03Z",
       "trailText": "The FDA is reviewing RSV vaccines, which have drastically lowered infant hospitalizations, a spokesperson confirmed",
-      "summary": "Under HHS secretary RFK Jr, the FDA is re-examining FDA-approved RSV shots for infants and pregnant people, citing safety concerns raised by anti-vaccine activists despite zero published safety issues. These interventions, covering maternal vaccination (55–68% efficacy) and infant monoclonal antibody prophylaxis (79–83% efficacy), cut hospitalizations for the leading cause of infant respiratory admission from 2–3% to minimal levels. Kennedy’s team replaced 17 ACIP advisers, paused two RSV working groups, and offered no new data. Public health experts warn the review may limit access and undermine confidence in this proven breakthrough.",
-      "summaryTokens": 751,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Under HHS Secretary RFK Jr, the FDA has launched a safety review of three RSV vaccines for infants and maternal shots despite no new safety concerns and evidence showing 55–83% efficacy in preventing hospitalizations. Critics warn this re-examination—prompted by anti-vaccine activists—risks limiting access to shots that cut infant RSV admissions by two-thirds, undermining hard-won public trust and progress against the leading cause of infant respiratory illness. New vaccine advisers replaced previous ACIP experts, halting maternal working groups despite reassurances from former advisers that trial data showed no pre-term birth risks.",
+      "summaryTokens": 936,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/first-thing-zelenskyy-ready-for-elections-after-trump-questions-ukrainian-democracy",
@@ -197,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T11:44:39Z",
       "trailText": "Ukraine’s president to look at holding wartime vote. Plus, the hidden life of Matthew Perry",
-      "summary": "Under fire from Donald Trump’s recent Politico interview accusing him of clinging to power, Volodymyr Zelenskyy said he’s prepared to hold a wartime election within three months if Ukraine’s parliament and foreign allies agree. His five-year term expired last May, but the constitution prohibits voting during active conflict, and security and logistical hurdles have so far stalled any ballot. Despite irritation at Trump’s comments on Ukrainian democracy, Zelenskyy pledged to investigate legal and diplomatic paths toward a vote while the war continues.",
-      "summaryTokens": 609,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Ukraine’s president Volodymyr Zelenskyy said he is ready to hold a wartime national election within the next three months if Ukraine’s parliament and foreign allies agree, responding to Donald Trump’s recent allegation in a Politico interview that Zelenskyy is clinging to power and eroding Ukrainian democracy. Zelenskyy’s five-year term expired last May, but the constitution bars elections during active conflict. Despite his irritation at Trump’s intervention, Zelenskyy pledged to explore all legal, security and diplomatic avenues for a vote while the war goes on.",
+      "summaryTokens": 488,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/kamala-harris-election-autopsy",
@@ -209,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T11:00:08Z",
       "trailText": "RootsAction report finds Harris courted moderates instead of working-class Democrats – and Gaza stance did not help",
-      "summary": "RootsAction’s autopsy diagnoses Harris’s 2024 defeat as a turnout crisis caused by a campaign that courted suburban moderates and borrowing corporate-friendly messaging instead of mobilising working-class, young, progressive and Arab American voters. It cites a 6.8m vote drop from 2020, plummeting youth and minority turnout, failure to distance from Biden on Gaza, and reliance on figures like Liz Cheney and billionaires exploiting “sunny” talking points over populist policies. It urges Democrats to shift to bold economic populism—Medicare for All, higher minimum wage, anti-trust, campaign finance reform—and break with AIPAC to rebuild its base.",
-      "summaryTokens": 1520,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "RootsAction’s autopsy blames Harris’s loss on courting moderate Republicans over working-class, young and progressive Democrats, driving turnout down: she received 6.8 m fewer votes than Biden in 2020, while Trump gained 2.8 m. With just 107 days to run, “joyful” Bidenomics messaging, failure to break from Biden on Gaza and corporate-influenced advisers further alienated core voters. Mirroring 2016 Clinton missteps, the report urges Democrats to embrace bold economic populism, curb corporate contributions and realign foreign policy on Israel.",
+      "summaryTokens": 1056,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/oklahoma-liquor-store-derringer",
@@ -221,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T10:00:55Z",
       "trailText": "Local police say Dyllon Redfern, 24, brandished a derringer from the 19th century after being asked for his ID",
-      "summary": "Dyllon Redfern, 24, allegedly staged a first-degree robbery at Primo’s Wine and Spirits in Tulsa on Dec. 5 after staff refused to sell alcohol due to lack of ID. Witnesses say Redfern, clad in pajama pants and a hoodie, brandished an 1850s percussion derringer—also called a “muff” pistol—demanding cash and IDs before fleeing. Tulsa police arrested him the next morning, recovering stolen money, a customer ID and the antique firearm valued by collectors at potentially six figures. He faces at least 10 years under Oklahoma law. Officers published a photo online, sparking debate on the gun’s rarity and Civil War–era origins.",
-      "summaryTokens": 889,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Tulsa police say 24-year-old Dyllon Redfern went to Primo’s Wine and Spirits on Dec. 5, was refused service for lack of ID, then returned in pajamas wielding a single-shot, percussion-style derringer—an 1850s “muff” pocket pistol—and demanded cash and IDs. Officers later found him in a nearby QuikTrip garage with stolen money, a customer’s ID and the antique firearm, which experts call rare and valuable. Redfern faces first-degree robbery charges and at least 10 years in prison.",
+      "summaryTokens": 608,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/10/trump-news-at-a-glance-president-hints-at-abandoning-ukraine-rambles-about-weak-europe",
@@ -233,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T03:47:16Z",
       "trailText": "Trump’s sometimes incoherent Politico interview featured recycled far-right tropes about European immigration",
-      "summary": "In a rambling Politico interview, Trump hinted at abandoning Ukraine support unless Zelensky cedes territory, labeled Europe “weak” and “decaying” with immigration tropes echoing the “great replacement,” and struggled to name cities beyond Kyiv. He also launched false economy and immigration claims at a Pennsylvania rally, came under scrutiny for claiming two Florida mortgages as primary homes, won a judge’s order restoring a Turkish student’s visa, and triggered legal battles over unsealing Maxwell-Epstein court records and FIFA chief Infantino’s political ties.",
-      "summaryTokens": 1191,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "In a rambling, sometimes incoherent Politico interview transcript released Tuesday, President Trump hinted he may walk away from supporting Ukraine, misnaming cities beyond Kyiv and misrepresenting the conflict’s trajectory. He lambasted a “weak, decaying” Europe as “destroying itself” through a “disaster” immigration policy echoing far-right “great replacement” tropes—warned some nations “won’t be viable”—and urged Zelenskyy to cede territory to Russia, claiming Moscow holds the “upper hand” and Ukraine must “play ball.”",
+      "summaryTokens": 1069,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/09/trump-pennsylvania-affordability-speech",
@@ -245,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T03:16:36Z",
       "trailText": "President sought to rehab image after criticism of being out of touch, but speech aimed at midterms took different turn",
-      "summary": "At a Mount Pocono rally billed to tackle the US \"affordability crisis\", Trump unleashed 90 minutes of false economic claims and xenophobic attacks. He labeled rising prices a \"hoax\", blamed Democrats for inflation despite his own tariffs, and boasted of A+ economy \"grades\". Interspersed with crowd chants of \"USA!\" and \"Send her back!\", he launched racist jabs at Rep. Ilhan Omar, revived his \"shithole countries\" rhetoric and touted \"remigration\" to restrict immigrants. Though framed as a bid to reset the economic narrative before midterms, his speech veered into familiar campaign mode of insults, conspiracies and baseless boasts.",
-      "summaryTokens": 1398,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "At a rally-style event at Mount Pocono casino in NE Pennsylvania, Trump sought to reclaim the economic narrative, denouncing affordability concerns as a ‘hoax’ and blaming Democrats for high prices. In a 90-minute freewheeling address, he mixed policy posturing—boasting of tariffs, claiming trillions in tariff revenue and new auto and AI plant investments, a $12bn farm bailout and ‘reverse migration’—with racist attacks, targeting Ilhan Omar with baseless brother-marriage claims and revisiting his ‘shithole countries’ slur. Trump gave the economy an ‘A++++,’ despite 33% approval ratings, as he pivots to a midterms campaign blending economic populism and xenophobia.",
+      "summaryTokens": 1917,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/09/fact-check-trump-speech-pennsylvania",
@@ -256,10 +556,10 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/09/fact-check-trump-speech-pennsylvania",
       "section": "us-news",
       "publishedDate": "2025-12-10T03:05:37Z",
-      "trailText": "The US president’s speech veered into baseless attacks on inflation, migrants and Ilhan Omar as he revived grievances",
-      "summary": "At a Pennsylvania speech billed on affordability, President Trump repeatedly made false claims: he insisted prices were “way down” despite a 1.7% CPI rise since January and misrepresented turkey costs (33% down claim contradicted by Farm Bureau and LA Times). He launched racist attacks on Rep. Ilhan Omar—falsely accusing her of illegal status and incest—while disparaging Somalia. He also misclaimed that all new jobs went to immigrants, overstated boat strikes’ impact, recycled baseless inflation and 2020 election fraud narratives, and deployed anti-trans rhetoric.",
-      "summaryTokens": 1054,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "trailText": "US president’s speech veered into baseless attacks on inflation, migrants and Ilhan Omar as he revived grievances",
+      "summary": "Donald Trump’s speech in Pennsylvania, billed as an affordability address, devolved into baseless inflation boasts and xenophobic attacks. He wrongly said prices “way down,” mischaracterized turkey costs, boasted crushing inflation and claimed he inherited worst inflation ever. He repeated racist lies about Ilhan Omar’s refugee status and marriage, disparaged Somalia, and spouted false stats on immigrants taking all new jobs and Venezuelan/Congolese prisoners flooding the US. He defended unverified boat strikes, made absurd transgender and Black voter claims, and peddled 2020 election fraud myths.",
+      "summaryTokens": 1503,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/09/us-fighter-jets-gulf-of-venezuela",
@@ -269,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T02:37:34Z",
       "trailText": "Trump had further said Nicolás Maduro’s ‘days are numbered’ as military has targeted alleged drug boats",
-      "summary": "Two US Navy F/A-18 Super Hornets and EA-18G Growler electronic warfare jets circled the Gulf of Venezuela for about 40 minutes just north of Maracaibo on Dec 9, tracked live on FlightRadar24 as a show of force in the Trump administration’s escalating campaign against Nicolás Maduro. Washington disputes Caracas’s territorial claims, citing international airspace, and the Pentagon calls the flights routine. The overflights come amid a controversial military anti-drug effort that has killed some 87 suspected traffickers at sea, drawing accusations of extrajudicial killings and prompting Trump to promise Maduro’s “days are numbered” and to extend strikes onto Venezuelan soil.",
-      "summaryTokens": 1012,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Two US F/A-18 Super Hornets and two EA-18G Growler electronic warfare jets circled the Gulf of Venezuela for 40 minutes north of Maracaibo on Dec. 9, tracked in real time by FlightRadar24 as the site’s most-watched flights. Venezuela asserts the gulf falls within its territorial waters, but the Pentagon labels the mission a “routine, lawful” operation in international airspace. The patrol coincides with rising tensions over the Trump administration’s drug-war rebranding of traffickers as enemy combatants—87 killed to date—and congressional outcry over potential extrajudicial killings. President Trump reiterated Maduro’s “days are numbered” and promised land strikes against narcotraffickers.",
+      "summaryTokens": 1084,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/09/miami-mayor-election-winner-eileen-higgins",
@@ -281,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T02:01:36Z",
       "trailText": "In stunning upset victory, Higgins also becomes first woman in post and first non-Hispanic candidate since 90s",
-      "summary": "Democrat Eileen Higgins, 61, a former county commissioner, won the Miami mayoral runoff, defeating Republican Emilio González by about 19 points to become the first Democratic mayor in 30 years, first woman, and first non-Hispanic since the 1990s. Her upset victory in historically immigrant-heavy Miami-Dade, which had backed Trump in 2024 for the first time since 1988, flipped a seat Republicans had held since 1997. Higgins centered her campaign on immigration and backlash to Trump and DeSantis policies, mobilizing over 300,000 calls. National Democrats view her win as a bellwether after strong off-year performance across state and local races.",
-      "summaryTokens": 1918,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "Democrat Eileen Higgins, 61, a former county commissioner, won Miami’s mayoral run-off, becoming the city’s first Democratic mayor since 1997, first woman, and first non-Hispanic in decades. Higgins defeated Republican ex-city manager Emilio González by about 19 points, reversing Miami-Dade’s swing to Trump in 2024. Her campaign framed the race as a referendum on federal immigration policies and garnered strong grassroots support—over 300,000 phone calls—highlighting local concerns over deportations, housing and insurance costs. National and local Democrats view her upset victory as a sign of growing resistance to Trump-era agendas and a bellwether for future elections.",
+      "summaryTokens": 567,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/09/pacific-north-west-washington-oregon-storms",
@@ -293,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-10T00:03:06Z",
       "trailText": "Crews conduct high-water rescues in Washington, and flood watches put in effect along coast down to Oregon",
-      "summary": "A potent atmospheric river has unleashed heavy rain across western Washington and north-western Oregon, swelling rivers, triggering flood watches, road closures and high-water rescues using kayaks near Seattle. Over a foot of snow fell in the northern Rockies and Wyoming. Residents faced power outages, debris slides and school closures, and forecasters warn major rivers will crest later this week. A second storm and unsettled holiday weather loom. Meanwhile, an arctic blast brings wind chills below -50°F in southeast Alaska, and a fast-moving system in the upper Midwest is prompting freezing rain, heavy snow, high winds and travel advisories.",
-      "summaryTokens": 939,
-      "generatedAt": "2025-12-11T04:12:31.982Z"
+      "summary": "An atmospheric river unleashed heavy rain across western Washington and NW Oregon, swelling rivers, flooding roads and stranding vehicles, while over a foot of snow fell in the northern Rockies and NW Wyoming. Crews used inflatable kayaks near Seattle to rescue drivers and a hiker trapped by rising water. Power outages and school closures spread as forecasters warned major rivers will crest later this week and another storm will arrive Sunday, extending an unsettled pattern through the holidays. Meanwhile, an Arctic blast in southeast Alaska threatens wind chills near –50°F, and a fast-moving system brings freezing rain, heavy snow and high winds across the upper Midwest, triggering no-travel advisories.",
+      "summaryTokens": 370,
+      "generatedAt": "2025-12-12T05:56:24.395Z"
     },
     {
       "id": "us-news/2025/dec/09/california-bear-altadena-home",
