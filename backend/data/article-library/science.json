@@ -1,22 +1,22 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-12-11T03:46:49.410Z",
+    "generated_at": "2025-12-12T04:47:25.424Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-12-10"
     },
-    "article_count": 138,
+    "article_count": 139,
     "merge_info": {
-      "previous_count": 135,
-      "new_articles": 3,
-      "updated_articles": 2,
-      "total_count": 138
+      "previous_count": 138,
+      "new_articles": 1,
+      "updated_articles": 4,
+      "total_count": 139
     },
     "batch_info": {
-      "initial_batch_id": "batch_693a3e5c87a08190bb12899d3dd4e64a",
+      "initial_batch_id": "batch_693b9db9af38819083053d58dfc0640f",
       "retry_batches": [],
-      "total_tokens": 10322,
+      "total_tokens": 8338,
       "processing_time_hours": 0
     }
   },
@@ -29,9 +29,21 @@
       "section": "science",
       "publishedDate": "2025-12-10T23:00:49Z",
       "trailText": "Stargazers will be able to see potentially dozens of meteors an hour, with the peak on Sunday night",
-      "summary": "Prof Jonti Horner of the University of Southern Queensland says the Geminids—debris from asteroid 3200 Phaethon—are the best annual meteor shower. Active since December 4, it peaks Sunday night into Monday morning (peak 3–3.30am AEDT on the east coast). Under dark skies, northern cities like Darwin or Cairns could see 80–90 meteors per hour; southern observers can spot dozens hourly. For optimal viewing, move away from street lights and look toward the Gemini constellation. The shower returns annually as Earth crosses Phaethon’s dust stream. Next big event is the total lunar eclipse on 3 March 2026.",
-      "summaryTokens": 1349,
-      "generatedAt": "2025-12-11T03:46:49.297Z"
+      "summary": "Australia’s Geminid meteor shower, active since 4 December, peaks Sunday night into Monday morning. Radiating near Gemini, the shower stems from dust shed by asteroid–rock comet 3200 Phaethon. Observers on the east coast should look skyward around 3–3:30 am AEDT; viewers in northern dark-sky locales like Darwin or Cairns may see up to 80–90 meteors per hour at 2–3 am. For optimal viewing, escape artificial lights and allow eyes to adapt. Stargazers can next anticipate a total lunar eclipse on 3 March 2026.",
+      "summaryTokens": 1081,
+      "generatedAt": "2025-12-12T04:47:25.091Z"
+    },
+    {
+      "id": "science/2025/dec/10/nasa-loses-contact-maven-spacecraft-mars",
+      "title": "Nasa loses contact with spacecraft orbiting Mars for more than a decade",
+      "webUrl": "https://www.theguardian.com/science/2025/dec/10/nasa-loses-contact-maven-spacecraft-mars",
+      "apiUrl": "https://content.guardianapis.com/science/2025/dec/10/nasa-loses-contact-maven-spacecraft-mars",
+      "section": "science",
+      "publishedDate": "2025-12-10T21:22:18Z",
+      "trailText": "Space agency is investigating after Maven abruptly stopped communicating to ground stations over the weekend",
+      "summary": "Nasa’s MAVEN spacecraft, studying Mars’ upper atmosphere since its 2013 launch and serving as a relay for Curiosity and Perseverance, unexpectedly went silent over the weekend after emerging from the planet’s night side. Pre-anomaly telemetry showed all subsystems functioning normally. NASA teams are investigating the loss of communication and working to re-establish link. MAVEN’s observations have been crucial in revealing how solar wind stripped Mars’ atmosphere, transforming it from a warmer, wetter world to today’s cold desert. Relays of Odyssey and MRO remain operational. Further updates pending as the anomaly investigation continues.",
+      "summaryTokens": 868,
+      "generatedAt": "2025-12-12T04:47:25.091Z"
     },
     {
       "id": "science/2025/dec/10/man-made-fire-350000-years-earlier-than-previously-known-after-discovery-in-suffolk",
@@ -41,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-12-10T16:00:05Z",
       "trailText": "Groundbreaking find makes compelling case that humans were lighting fires much earlier than originally believed",
-      "summary": "Excavations at a Barnham, Suffolk clay pit—revisited since 2013 under the Pathways to Ancient Britain project—have uncovered evidence of human-made fire dating to around 400,000 years ago, some 350,000 years earlier than the 50,000-year-old French site. Researchers identified reddened clay heated above 700 °C, fire-cracked handaxes and rare iron pyrite fragments likely used to strike sparks. Attributed to early Neanderthals, the repeatedly used hearth implies deliberate fire control, underpinning advances in cooking, warmth, protection, social interaction and brain development in early human populations.",
-      "summaryTokens": 820,
-      "generatedAt": "2025-12-11T03:46:49.297Z"
+      "summary": "Newly published Nature research from Suffolk’s Barnham clay pit reveals early Neanderthals ignited controlled fires about 400,000 years ago—some 350,000 years earlier than previous evidence. Archaeologists found scorched earth patches, fire-cracked handaxes, rare iron pyrite (used with flint to spark flames) transported kilometers, and reddened clay heated above 700 °C through repeated use. Led by British Museum and Pathways to Ancient Britain teams, the discovery suggests fire mastery aided dietary expansion, social interaction, cognitive advances, and northward migration. This unprecedented timeline rewrites fire’s role in human evolution, hinting at deeper roots of language, myth-making, and climate adaptation.",
+      "summaryTokens": 519,
+      "generatedAt": "2025-12-12T04:47:25.091Z"
     },
     {
       "id": "science/2025/dec/10/elon-musk-spacex-preparing-for-2026-flotation-of-more-than-1tn",
@@ -53,9 +65,9 @@
       "section": "science",
       "publishedDate": "2025-12-10T08:26:24Z",
       "trailText": "Reports say space exploration company has begun talks about stock market listing that could raise more than $25bn",
-      "summary": "SpaceX has initiated talks with banks for a June/July 2026 IPO to raise over $25 bn (potentially exceeding £30 bn) and value the company between $1 tn and $1.5 tn, according to Reuters and Bloomberg. Proceeds will fund space-based datacentres, chip procurement and expansion of Starlink internet services. The company projects $15 bn revenue in 2025 and $22–24 bn in 2026, driven by satellite broadband. A public listing could rival Saudi Aramco’s $29 bn debut. Musk refutes reports of an $800 bn private share sale, highlighting years of cash-flow positivity, biannual stock buybacks, Starship and Starlink progress and acquisition of direct-to-cell spectrum.",
-      "summaryTokens": 919,
-      "generatedAt": "2025-12-11T03:46:49.297Z"
+      "summary": "SpaceX has initiated talks with banks about an IPO in June–July 2026 that could raise over $25 bn and value the company at $1–1.5 tn. Proceeds would fund space-based datacentres and chip procurement. Revenue is forecast at $15 bn in 2025, rising to $22–24 bn in 2026—mostly from Starlink—potentially rivaling Saudi Aramco’s $1.7 tn 2019 listing. Earlier reports of an $800 bn private valuation were disputed by Musk, who cited years of positive cashflow, biannual buybacks and growth from Starship, Starlink and direct-to-cell spectrum.",
+      "summaryTokens": 902,
+      "generatedAt": "2025-12-12T04:47:25.091Z"
     },
     {
       "id": "science/2025/dec/10/humans-rank-among-leading-monogamous-mammals-study-finds",
@@ -65,9 +77,9 @@
       "section": "science",
       "publishedDate": "2025-12-10T00:01:36Z",
       "trailText": "Human beings in 7th place out of 35 species on monogamy scale, according to a study by Cambridge University",
-      "summary": "Cambridge University’s Mark Dyble analysed genetic data from 35 mammal species and over 100 human populations to rank monogamy by the proportion of full vs half siblings. Humans averaged 66% full siblings, placing 7th behind Eurasian beavers (72.9%) but ahead of meerkats (59.9%). Rates varied from 26% at an Early Neolithic Cotswolds site to 100% in Neolithic northern France. The study situates humans among primarily monogamous mammals, underscores links between monogamy and paternal care, and appears in Proceedings of the Royal Society B.",
-      "summaryTokens": 1006,
-      "generatedAt": "2025-12-11T03:46:49.297Z"
+      "summary": "A Cambridge University analysis of genetic data ranks humans 7th out of 35 mammal species for monogamy, with 66% of siblings sharing both parents—surpassed by Eurasian beavers (73%) and moustached tamarins (78%), but ahead of meerkats (60%) and white-handed gibbons (63.5%). Dr. Mark Dyble compared full- versus half-sibling rates across 100+ human populations (26% in an Early Neolithic Cotswolds site to 100% in some French Neolithic groups). Published in Proceedings of the Royal Society B, the study links monogamy to paternal care and contrasts human pair-bonding with chimpanzee and gorilla promiscuity.",
+      "summaryTokens": 521,
+      "generatedAt": "2025-12-12T04:47:25.091Z"
     },
     {
       "id": "science/2025/dec/09/iain-douglas-hamilton-obituary",
