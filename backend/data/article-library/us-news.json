@@ -1,37 +1,241 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-14T03:48:22.339Z",
+    "generated_at": "2025-12-15T03:50:07.254Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-13"
+      "to": "2025-12-15"
     },
-    "article_count": 1758,
+    "article_count": 1775,
     "merge_info": {
-      "previous_count": 1744,
-      "new_articles": 14,
-      "updated_articles": 16,
-      "total_count": 1758
+      "previous_count": 1758,
+      "new_articles": 17,
+      "updated_articles": 15,
+      "total_count": 1775
     },
     "batch_info": {
-      "initial_batch_id": "batch_693e32cd5f38819096ab2eff52afb898",
+      "initial_batch_id": "batch_693f84f694fc819083fcb9ca0e5606de",
       "retry_batches": [],
-      "total_tokens": 64402,
-      "processing_time_hours": 0.1
+      "total_tokens": 79067,
+      "processing_time_hours": 0
     }
   },
   "articles": [
     {
+      "id": "us-news/2025/dec/15/trump-news-at-a-glance-president-pays-tribute-to-brown-university-shooting-victims-amid-calls-for-gun-control",
+      "title": "Trump news at a glance: president pays tribute to Brown University shooting victims amid calls for gun control",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/trump-news-at-a-glance-president-pays-tribute-to-brown-university-shooting-victims-amid-calls-for-gun-control",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/trump-news-at-a-glance-president-pays-tribute-to-brown-university-shooting-victims-amid-calls-for-gun-control",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T00:44:47Z",
+      "trailText": "Donald Trump addressed shooting as politicians urged action to improve gun controls – key US politics stories from Sunday at a glance",
+      "summary": "At a White House reception, President Trump paid respects to two killed and nine injured in the Brown University shooting—part of at least 389 US mass shootings this year—renewing calls for stricter gun control from Senator Chris Murphy. Authorities detained a person of interest in their 20s. Also: experts caution on AI healthcare incentives in Trump’s \"big, beautiful\" bill; Joe Manchin urges de-escalation amid political violence; Trump’s domestic policy chief targets a DC triumphal arch; immigration enforcement forced US-born teens to assume parental roles; journalists of color face layoffs amid anti-DEI push.",
+      "summaryTokens": 1999,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/trump-arch-washington-dc-policy-chief",
+      "title": "Trump says building DC triumphal arch is domestic policy chief’s ‘primary thing’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/trump-arch-washington-dc-policy-chief",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/trump-arch-washington-dc-policy-chief",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T22:46:32Z",
+      "trailText": "Trump praises Vince Haley, his ex-speechwriter tasked with creating Arc de Triomphe knockoff amid affordability crisis",
+      "summary": "At a White House holiday party, President Donald Trump praised Domestic Policy Council chief Vince Haley, his ex-speechwriter, announcing Haley’s primary assignment: spearheading construction of a triumphal arch on Arlington Bridge opposite the Lincoln Memorial. Trump dubbed it an “Arc de Triomphe” rival, claiming it will “blow away” Paris’s monument. He mixed French and English, referencing Jefferson, Washington and Lincoln as inspirations for the design. The announcement drew criticism as health insurance premiums are set to spike for 20 million Americans and affordability concerns persist amid tariffs. Many view the arch project as misplaced amid pressing economic hardships.",
+      "summaryTokens": 1452,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
+      "title": "Brown University shooting: what we know so far about the attack in Providence, Rhode Island",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T21:09:35Z",
+      "trailText": "A person is in custody after two people were killed and several more critically injured",
+      "summary": "On Dec 14 in Providence, RI, a shooter in black opened fire at Brown University's Barus and Holley building, killing two students and wounding nine others during final exams. Eight wounded were hospitalized, seven in critical but stable condition and one remains critical; one victim was released. Authorities remain tight-lipped about victims' identities; one suspect in their 20s was arrested nearby at a Coventry hotel using cellphone data, where two handguns were seized. A shelter-in-place was lifted on Sunday morning. Brown canceled remaining semester assessments. President Trump and local officials praised first responders and offered condolences.",
+      "summaryTokens": 1779,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/healthcare-subsidies-obamacare-tax-credit",
+      "title": "Republican says ‘deal can be had’ on healthcare as subsidies set to expire",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/healthcare-subsidies-obamacare-tax-credit",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/healthcare-subsidies-obamacare-tax-credit",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T18:41:09Z",
+      "trailText": "Senator Bill Cassidy urges collaboration between Democrats and his party after Senate rejected dual healthcare bills",
+      "summary": "Senator Bill Cassidy said a bipartisan “deal can be had” on healthcare after the Senate rejected both Democratic and Republican bids to renew expiring ACA premium tax credits and address soaring deductibles. Democrats backed a three-year extension of enhanced credits; Cassidy and Republican colleague Mike Crapo proposed depositing $1,000 into health savings accounts for bronze/catastrophic plans (plus $500 more for ages 50–64), with abortion and gender-care restrictions. Cassidy signaled willingness to accept a short-term premium credit extension if Republicans tackle $6,000 out-of-pocket deductibles, aiming to preserve subsidies for 22 million Americans.",
+      "summaryTokens": 492,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/brown-university-shooting-latest",
+      "title": "Person of interest detained in Brown University shooting that left two dead",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/brown-university-shooting-latest",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T18:06:47Z",
+      "trailText": "Nine others injured in Saturday attack that occurred during finals in engineering building in Providence, Rhode Island",
+      "summary": "Police have detained Benjamin Erickson, 24, a former US Army infantryman (May 2021–Nov 2024) and transfer student at Brown, as person of interest in the Dec. 14 engineering building shooting that killed two and wounded nine during finals. Arrested in Coventry via FBI cellular analysis, Erickson may face charges. Officers recovered a small Glock and revolver. Among the wounded is recent graduate Kendall Turner (critical) and first-year Spencer Yang (leg injury). Brown canceled classes for the semester, lifted its shelter-in-place order at 5:42 am Sunday, and maintains limited campus access. The incident has reignited national gun control debates.",
+      "summaryTokens": 1211,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/joe-manchin-erika-kirk-political-violence",
+      "title": "Manchin urges lawmakers to stop acting in ‘attack mode’ amid political violence",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/joe-manchin-erika-kirk-political-violence",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/joe-manchin-erika-kirk-political-violence",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T17:43:39Z",
+      "trailText": "Former senator’s comments echo recent call from Erika Kirk that ‘everyone has responsibility’ to tone down hatred",
+      "summary": "Former West Virginia senator Joe Manchin, now an independent, urged lawmakers to abandon ‘attack mode’ and tone down the heated rhetoric fueling political violence, echoing Erika Kirk after her husband Charlie Kirk’s September shooting. Speaking on WABC, Manchin called for Democrats and Republicans to free themselves from the far left and right and form a ‘sensible majority.’ His plea follows warnings from Erika Kirk and Senator Rand Paul about rising tensions over extremism, redistricting battles and recent attacks on political figures.",
+      "summaryTokens": 786,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/aca-obamacare-expires",
+      "title": "Obamacare expiration will have ‘death spiral’ effect on US healthcare – experts",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/aca-obamacare-expires",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/aca-obamacare-expires",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T17:00:07Z",
+      "trailText": "End of subsidies after failed legislation will have serious and damaging impact on entire sector, policy experts say",
+      "summary": "Experts warn that ACA subsidies ending will more than double average premiums from $888 to $1,904 in 2026, prompting a third of marketplace enrollees to shift to high-deductible plans and a quarter to go uninsured. This “death spiral”—as healthier people exit, leaving sicker pools—threatens insurer viability, raises uncompensated care costs, and could force rural hospitals to close or hike prices, impacting all insured patients. Despite 5.7 million enrollments so far, legislators failed to extend credits, even though over half of enrollees live in GOP districts reliant on ACA coverage.",
+      "summaryTokens": 549,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/times-square-new-york-bar-jimmys-corner",
+      "title": "‘I’m going to be heartbroken. This is a landmark’: cherished Times Square dive bar faces eviction",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/times-square-new-york-bar-jimmys-corner",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/times-square-new-york-bar-jimmys-corner",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T15:00:05Z",
+      "trailText": "With cheap drinks and friendly locals, Jimmy’s Corner is a New York institution. But a real-estate developer has ordered its closure – can it survive?",
+      "summary": "Jimmy's Corner, a dive bar founded by ex-boxer Jimmy Glenn in 1971, has survived Times Square's transformation with unchanged decor, $3 beers and a tight-knit crowd. After Jimmy's 2020 death, his son Adam inherited the bar but now faces eviction by landlord Durst Organization, which asserts lease rights and claims it offered favorable rent and a $250k buyout. Adam alleges his father was tricked into an eviction clause and has sued. Regulars lament the potential loss of this no-frills, community hub where tourists, locals and boxing lore collide. If forced out, Adam plans to reopen elsewhere, preserving Jimmy's spirit and pricing.",
+      "summaryTokens": 2226,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/fbi-most-wanted-list-true-crime-tv-producer",
+      "title": "A prolific true crime producer was truly a criminal the whole time, the FBI says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/fbi-most-wanted-list-true-crime-tv-producer",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/fbi-most-wanted-list-true-crime-tv-producer",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T14:57:20Z",
+      "trailText": "Agency added Mary Carole McDonnell to Most Wanted list for loan fraud tied to phony heiress story",
+      "summary": "Mary Carole McDonnell, founder of Bellum Entertainment and producer of Murderous Affairs, was added to the FBI’s Most Wanted list for alleged bank fraud and identity theft in California’s central district. Between 2016 and 2018 she posed as a McDonnell Aircraft heiress, submitted bogus documents claiming $28 million in collateral and an $80 million trust, and secured at least $15 million in bridge loans—part of nearly $30 million she swindled before defaulting and fleeing, reportedly to Dubai. Her company’s collapse left dozens of crew and contractors—like showrunner Nigel Bellis and office manager Stephanie Manos—owed hundreds of thousands in back pay and relocation costs, with slim prospects for repayment.",
+      "summaryTokens": 642,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/los-angeles-wildfires-rebuilding",
+      "title": "‘It feels endless’: despite misplaced fanfare about a model home, LA struggles to rebuild",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/los-angeles-wildfires-rebuilding",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/los-angeles-wildfires-rebuilding",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T14:00:08Z",
+      "trailText": "As LA’s mayor touted a developer’s model home, residents of Altadena and Pacific Palisades wrangle for insurance payouts",
+      "summary": "Nearly a year after the Pacific Palisades and Altadena wildfires destroyed 7,000 structures and killed 31 people, Mayor Bass’s celebratory unveiling of a Thomas James Homes model in Pacific Palisades proved hollow for displaced residents. The four-bed, 4,000 sq ft house was a developer showcase, not a homeowner rebuild, underscoring frustrations over slow insurance payouts, complex permitting, expiring relief and just 390 active builds versus thousands lost. Local advocates and UCLA planners warn of a patchwork recovery lacking a dedicated rebuilding authority or cohesive climate-resilient strategy. Residents like 30-year Palisadean Jaimie Geller fear true restoration could stretch into decades.",
+      "summaryTokens": 1150,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/journalists-of-color-layoffs",
+      "title": "‘It’s not a coincidence’: journalists of color on being laid off amid Trump’s anti-DEI push",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/journalists-of-color-layoffs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/journalists-of-color-layoffs",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T13:00:03Z",
+      "trailText": "Black and brown former employees from CBS, NBC and Teen Vogue talk about the effects of being let go",
+      "summary": "In recent rounds of CBS News, NBCUniversal and Teen Vogue layoffs tied to Paramount-Skydance and Versant Media restructurings, Black and brown journalists—particularly on CBS Evening News Plus, NBC’s specialized verticals (BLK, Latino, Asian America, Out) and Teen Vogue—were disproportionately cut while white colleagues were reassigned. Sources link the pattern to Trump’s anti-DEI executive orders, FCC rollbacks of diversity efforts and corporate mergers. Industry diversity targets (2025 ASNE pledge) remain unmet amid white overrepresentation. Affected staffers are exploring legal action and founding the Black Media Caucus to launch new outlets centering marginalized voices.",
+      "summaryTokens": 560,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/trump-healthcare-ai",
+      "title": "Experts urge caution as Trump’s big bill incentivizes AI in healthcare",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/trump-healthcare-ai",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/trump-healthcare-ai",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T12:00:04Z",
+      "trailText": "Analysts say benefits could be felt in under-resourced rural hospitals but warn against AI as a cost-cutting measure",
+      "summary": "Trump’s new $50bn Rural Health Transformation Fund, part of his “big beautiful” bill requiring AI integration in healthcare, aims to boost under-resourced rural hospitals via remote monitoring, robotics and AI. Experts note this won’t offset an estimated $911bn Medicaid cut over 10 years. AI could reduce physician administrative burdens and attract staff but raises quality, regulatory and cybersecurity risks. A recent study found AI-generated patient notes match general physicians but lag experts, and while the FDA oversees diagnostic AI, unregulated transcription tools often claim HIPAA compliance. Researchers stress the need for upskilling, robust safety infrastructure and caution against adopting AI solely as a cost-cutting measure.",
+      "summaryTokens": 1719,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/gaza-rebuild-us-contractors",
+      "title": "‘They’re trying to get rich off it’: US contractors vie to rebuild Gaza, with ‘Alligator Alcatraz’ team in the lead",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/gaza-rebuild-us-contractors",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/gaza-rebuild-us-contractors",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T11:00:03Z",
+      "trailText": "Exclusive: group behind notorious Florida immigration detention center created bid for reconstruction deal",
+      "summary": "Well-connected Republican firms and Trump insiders are scrambling to secure lucrative $70bn Gaza reconstruction and aid contracts ahead of official Board of Peace rollout. A White House taskforce led by Jared Kushner includes ex-Doge advisers Joshua Gruenbaum and Adam Hoffman, who circulated sensitive plans for a Gaza Supply System Logistics Architecture, proposing a master contractor model charging $2k to $12k per truckload to gross $1.7bn annually. Gothams LLC, operator of Florida’s “Alligator Alcatraz” detention center, emerged as frontrunner but founder Matt Michelsen withdrew citing security and PR concerns. US regulators and Israel control final approvals.",
+      "summaryTokens": 815,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/labor-movement-union-trump-nlrb",
+      "title": "‘A very hostile climate for workers’: US labor movement struggles under Trump",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/labor-movement-union-trump-nlrb",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/labor-movement-union-trump-nlrb",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T11:00:02Z",
+      "trailText": "National Labor Relations Board, the federal watchdog for workers’ rights, has been rendered toothless as employees grapple with corporations",
+      "summary": "Workers at Philly Whole Foods formed the first union at the Amazon-owned chain, only to see momentum stall after Trump fired NLRB board member Gwynne Wilcox and denied the agency quorum. With just six rulings issued versus 150 last year, cases like Whole Foods’ unresolved objection sit in limbo as staff numbers, morale and enforcement capacity dwindle. A Fifth Circuit ruling brands the NLRB unconstitutional in a SpaceX lawsuit, blocking labor cases. Trump’s pending nominees could restore quorum but also roll back Biden-era pro-worker policies. States like California and New York are stepping in with their own labor laws.",
+      "summaryTokens": 935,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/two-survivors-of-brown-university-attack-escaped-other-school-shootings",
+      "title": "Two survivors of Brown University attack escaped other school shootings",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/two-survivors-of-brown-university-attack-escaped-other-school-shootings",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/two-survivors-of-brown-university-attack-escaped-other-school-shootings",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T10:39:44Z",
+      "trailText": "Mia Tretta was shot in the abdomen in 2019 at a school near LA and Zoe Weissman witnessed a Florida shooting in 2018",
+      "summary": "Two Brown University students, Mia Tretta (21) and Zoe Weissman (20), were among those hiding under desks during a fatal final-exam shooting that killed two and wounded nine. Tretta had been shot in the abdomen in the 2019 Saugus High School attack near Los Angeles that killed two, including her best friend, and Weissman was 12 when she witnessed the 2018 Parkland massacre that left 17 dead. Both expressed anger at enduring two school shootings and frustration with US gun laws as 389 mass shootings this year underscore growing violence. Hundreds of officers searched campus as the suspect remained at large.",
+      "summaryTokens": 881,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/indiana-doordasher-pepper-spray",
+      "title": "DoorDasher in Indiana arrested for allegedly pepper-spraying delivery",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/indiana-doordasher-pepper-spray",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/indiana-doordasher-pepper-spray",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T10:00:04Z",
+      "trailText": "Kourtney Stevenson was allegedly caught on camera spraying meal with chemical that later sickened customers",
+      "summary": "A 29-year-old DoorDash courier in Indiana, Kourtney Stevenson, was arrested on Dec. 7 in Vanderburgh County and charged with felony battery and consumer product tampering after surveillance footage allegedly showed her using pepper spray on a late-night meal delivered to a married couple. The victims suffered vomiting and burning in mouth, nose, throat and stomach. Stevenson claimed she sprayed to kill a spider, but detectives noted 35°F made spiders inactive. DoorDash permanently banned her and is cooperating with authorities. She’s being held without bail in Kentucky pending extradition. The case raises food-delivery safety concerns.",
+      "summaryTokens": 1060,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/trump-administration-news-update-today",
+      "title": "Trump news at a glance: US seizure of Venezuela oil tanker an act of ‘maritime terrorism’, says Cuba",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/trump-administration-news-update-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/trump-administration-news-update-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-14T06:12:59Z",
+      "trailText": "Cuban officials denounce the US seizure of the Skipper oil tanker off Venezuela’s coast. Key US politics stories from 13 December 2025",
+      "summary": "Cuban officials condemned the US seizure of the Skipper off Venezuela’s coast as “maritime terrorism” and a breach of international law, after the tanker—loaded with nearly 2 million barrels of PDVSA crude bound for Cuba—off-loaded 50,000 barrels to a secondary vessel before diverting toward Asia. Meanwhile, top Senate Democrats demand a probe into $12 million LNG share buys by Trump-allied fossil fuel billionaires; California’s Gov. Gavin Newsom criticized Trump’s AI executive order; Afghan immigrants object to a fresh crackdown; and Trump lampooned Biden as “Sleepy Joe” during a campaign roadshow echoing his predecessor’s economic tours.",
+      "summaryTokens": 695,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
+    },
+    {
       "id": "us-news/2025/dec/13/brown-university-shooting",
-      "title": "Two people dead and nine wounded in mass shooting at Brown University, officials say",
+      "title": "Two people dead and nine wounded in mass shooting at Brown University, as suspect remains at large",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/13/brown-university-shooting",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/13/brown-university-shooting",
       "section": "us-news",
       "publishedDate": "2025-12-13T23:47:09Z",
-      "trailText": "Mayor of Providence, Rhode Island, says ‘shooter’ still at large, as officials release more details on suspect",
-      "summary": "On Saturday, Dec. 13, at around 4:22 pm local time, an active shooter opened fire in the Barus and Holley engineering and physics building at Brown University in Providence, Rhode Island, amid final exams, killing two people and critically wounding eight. The male suspect, dressed in black, remains at large despite a widespread search by Providence police, the FBI and ATF. Initial reports of a secondary shooting and an arrest were unfounded. Students were ordered to shelter in place as officials gathered evidence. Brown President Christina Paxson called it a “deeply tragic day,” and federal officials including President Trump and US Attorney General Pam Bondi offered prayers and pledged support.",
-      "summaryTokens": 1266,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "trailText": "Mayor of Providence, Rhode Island, says ‘shooter’ still at large, as officials embark on widespread manhunt",
+      "summary": "At Brown University in Providence, Rhode Island, a shooter killed two students and critically injured nine others on Saturday afternoon in the Barus and Holley engineering and physics building. Witnesses described a man in black, possibly wearing a camouflage mask, fleeing the scene onto nearby Hope Street. Authorities launched a multi-agency manhunt across campus and surrounding neighborhoods, releasing surveillance footage. University officials locked down buildings, mobilized victim support, and urged holiday crowds to remain vigilant. Investigation ongoing; suspect remains at large.",
+      "summaryTokens": 1291,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/kansas-native-american-tribe-ice-facilities",
@@ -41,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T21:12:53Z",
       "trailText": "Prairie Band Potawatomi Nation signed deal in October, but president says tribe is now trying to exit contract",
-      "summary": "The Prairie Band Potawatomi Nation’s economic arm, Prairie Band LLC’s subsidiary KPB Services, signed a $29.9m sole‐source DHS contract in October to design ICE detention centers, prompting criticism from tribal members and allied groups citing parallels with historical forced removals. Chair Joseph “Zeke” Rupnick has apologised, fired the brokers, and is pursuing contract withdrawal despite risking future revenue. The dispute highlights the clash between critical economic opportunities under tight federal funding and cultural values, and raises scrutiny over noncompetitive federal contracting and broader Native American participation in detention‐facility projects.",
-      "summaryTokens": 930,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Prairie Band Potawatomi Nation’s development arm, KPB Services, signed a $29.9m sole‐source DHS contract in October to design ICE detention centers, prompting backlash from tribal members and other Native groups. Chair Joseph “Zeke” Rupnick publicly apologized, announced plans to exit the agreement, and fired the brokers. Critics highlight historical trauma—reservations as first US detention sites—and question sole‐source award practices. The dispute underscores tensions between economic pressures facing tribes amid funding cuts and cultural values, while other Native entities also hold government detention contracts. Future engagements now must align with the nation’s principles.",
+      "summaryTokens": 1002,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/atmospheric-river-washington-canada-pacific-north-west",
@@ -53,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T20:17:47Z",
       "trailText": "This week’s weather system dumped 5tn gallons of rain on Washington state – and another one is threatening Canada",
-      "summary": "An unprecedented atmospheric river dropped over a foot of rain—more than 5 trillion gallons—on Washington this week, causing catastrophic flooding, mudslides and mass evacuations as rivers including the Nooksack and Sumas surged to record levels. Floodwaters spilled north into British Columbia, forcing highway closures and displacing hundreds in Abbotsford. Scientists link the storm’s intensity to tropical moisture sources, amplified by ocean warming from climate change. Canadian experts criticize the slow pace of US investment in cross-border flood defenses despite initiatives like the Nooksack-Sumas Transboundary Action Plan. Officials warn a second potent system threatens renewed inundation.",
-      "summaryTokens": 1018,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "An intense atmospheric river dumped over a foot of rain—roughly 5tn gallons—over western Washington this week, triggering record floodwaters, mudslides washed away homes and stranded families on rooftops, and widespread evacuations extending into British Columbia. A second system threatens to swell the Nooksack and Sumas rivers again, prompting 500 Abbotsford property evacuations and renewed calls for U.S. investment in transboundary flood infrastructure. Scientists link the surge in moisture—fed by tropical and western Pacific warming—to human-driven climate change, and Washington’s governor warned the deluge is potentially historic.",
+      "summaryTokens": 1322,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/roller-coaster-death-florida",
@@ -65,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T19:59:51Z",
       "trailText": "Kevin Rodriguez Zavala died from blunt-impact trauma on ride at Universal’s Epic Universe theme park",
-      "summary": "A Florida sheriff's office has ruled that 32-year-old Kevin Rodriguez Zavala's death on Epic Universe's high-speed roller coaster was accidental. Medical examiners attributed the death to blunt-impact trauma, noting a severe forehead laceration, orbital fracture, skull bleeding, broken nose, thigh fracture and bruising. Investigators found no staff negligence, confirming safety procedures and warnings about physical conditions. Zavala, who had prior spinal surgery and metal rods, was restrained by a lap bar that jammed for ten minutes. The 62mph dual-launch coaster debuted in May. This ruling follows heightened amusement park safety scrutiny in Florida.",
-      "summaryTokens": 1190,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Orange County sheriff’s investigators concluded 32-year-old Kevin Rodriguez Zavala’s Sept. 17 death on Epic Universe’s 62 mph dual-launch roller coaster was accidental. Medical examiners cited blunt-impact trauma—deep forehead laceration, orbital ridge fracture, skull bleeding, broken nose, fractured thigh and bruising—caused when a malfunctioning lap bar trapped and flung Zavala, who had spinal rods, during multiple high-speed drops. Universal staff followed protocols; ride warnings flagged sudden forces and advised guests with preexisting back or neck conditions not to ride. His death follows Florida’s 2022 amusement-ride safety reforms.",
+      "summaryTokens": 1705,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/washington-state-flood-waters-recede",
@@ -77,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T17:26:17Z",
       "trailText": "No fatalities reported in flooding, which prompted Trump to approve emergency declaration request from governor",
-      "summary": "Record floodwaters in western Washington began receding Friday after an atmospheric river dumped over 30 cm of rain, swelling rivers and saturating soils. No fatalities have been reported. Governor Bob Ferguson said President Trump approved the state’s emergency declaration request. Emergency crews conducted dozens of water rescues and evacuated some 10,000 residents in the Skagit River floodplain—including roughly 1,000 in Burlington—where a 2018 flood wall shielded downtown. Mount Vernon saw a new peak of 11 m. Rising waters still threaten levees as more rain looms. Overflow from the Nooksack River worsened flooding in BC’s Fraser Valley, submerging farmland and key highways.",
-      "summaryTokens": 1269,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Record-breaking flood waters in western Washington have begun to recede after days of historic inundation, emergency rescues and evacuations. Governor Bob Ferguson confirmed President Trump approved an emergency declaration following an atmospheric river that dumped over 30 cm of rain, swelling the Skagit and Nooksack rivers. No fatalities have been reported. Tens of thousands, including roughly 1,000 Burlington residents north of Seattle, were evacuated; a 2018 flood wall protected downtown Burlington as Mount Vernon’s Skagit River peaked at 11 m. Landslides, debris-clogged highways and BC’s Fraser Valley flooding persist, with more rain forecast and flash-flood risks ongoing.",
+      "summaryTokens": 884,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/cuba-denounces-us-seizure-oil-tanker-off-venezuela-coast",
@@ -89,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T16:34:44Z",
       "trailText": "Cuban foreign ministry called US military action ‘maritime terrorism’ under a policy of ‘economic suffocation’",
-      "summary": "Cuba’s foreign ministry denounced the US seizure of the tanker Skipper off Venezuela’s coast as “piracy” and “maritime terrorism,” accusing Washington of violating international law and intensifying an “economic suffocation” policy. The vessel, carrying nearly 2 million barrels of Venezuelan heavy crude bound for Matanzas, off-loaded 50,000 barrels mid-voyage before diverting east. US authorities, citing alleged IRGC-QF and Hezbollah ties, secured a DC warrant for the seizure, which coincides with fresh US sanctions on shipping firms, Maduro’s network and expanded military deployments in the Caribbean under Operation Southern Spear.",
-      "summaryTokens": 885,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Cuba’s foreign ministry denounced the US Navy’s seizure of the VLCC Skipper off Venezuela’s coast as \"piracy\" and \"maritime terrorism,\" accusing Washington of violating international law and intensifying \"economic suffocation.\" The tanker, carrying nearly 2m barrels of Venezuelan crude bound for Matanzas, off-loaded 50,000 barrels to an intermediary ship before US forces intercepted it en route to Galveston. The action coincides with new Treasury sanctions on shipping firms, Maduro’s circle and a broker tied to Iran-linked terror networks, plus a US military buildup in the Caribbean. A DC federal warrant cites terrorism-financing ties to Hezbollah and Iran’s IRGC-QF, highlighting efforts to choke Venezuelan oil revenues.",
+      "summaryTokens": 2380,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/student-loan-debt-trump-holiday-shopping",
@@ -101,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T14:00:34Z",
       "trailText": "After Trump ended key repayment plan, 40% of borrowers say their student loans make it harder to cover essentials",
-      "summary": "In a Data for Progress/TICAS survey, 40% of U.S. student loan borrowers say their debt hinders covering essentials like food, housing and transport, while 52% report impaired retirement savings and 45% cite delayed housing plans. The Trump administration’s move to end the Biden-era Save income-driven repayment plan will block new applications and shift existing borrowers to costlier plans, raising monthly payments. Georgetown alum Ben L. pays $1,850/month on $95,000 private loans, lives paycheck to paycheck, and skips holiday gift-giving. Non-profit worker Erin O. expects doubled or tripled payments on $34,680 federal debt and more restrictive PSLF eligibility, prompting a lean Christmas.",
-      "summaryTokens": 1081,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "After the Trump administration scrapped the Biden-era Save income-driven repayment plan—arguing it exceeded federal authority—and halted new enrollments, 40% of US student loan borrowers say loans hinder covering essentials like food, housing and healthcare, per TICAS/Data for Progress. Biotech professional Ben L pays $1,850 monthly on $95,000 in private loans, lives paycheck-to-paycheck and skips holiday gifts. Forty-five percent report delayed housing plans; 52% can’t save for retirement. Nonprofit worker Erin O expects her Save payments to double, forcing a lean Christmas.",
+      "summaryTokens": 999,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/katie-miller-podcast-review",
@@ -113,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T13:00:34Z",
       "trailText": "The wife of the Trump adviser aims to entice conservative women into Maga – but like much of the rest of the movement, her sales pitch is fundamentally lacking",
-      "summary": "Katie Miller, wife of Trump adviser Stephen Miller, launched The Katie Miller Podcast to recruit conservative women into the MAGA movement via a ‘family values’ curriculum. Her softball interviews with GOP figures—Pete Hegseth, JD Vance, Pam Bondi, Mike Johnson—stress devotion to God, motherhood, anti-trans talking points, vaccine and birth-control skepticism. Framed as the MAGA womanosphere’s insider space, it recycles traditionalist tropes—protecting families from ‘transgender ideology,’ seed oils and ‘radical’ public health—yet its highly staged set and vapid questions render the show aggressively vibeless, undermining Miller’s bid to expand Trump’s appeal among women.",
-      "summaryTokens": 564,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Katie Miller’s eponymous podcast positions itself as a soft-entry point for conservative women into MAGA culture, blending family, faith and anti-establishment talking points—seed oils, anti-Trump protesters and transgender “ideology”—with instructions on motherhood. Guests like Pete Hegseth, JD Vance and Kellyanne Conway face softball queries on godly conduct and domestic routines, while vaccine skepticism and anti–birth-control rhetoric underscore a “womanosphere” ethos. Despite high-profile access, Miller’s lack of chemistry and overly polished, generic interviews render the show vibeless and ineffective at authenticating or expanding Trump’s appeal among female audiences.",
+      "summaryTokens": 808,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/afghan-immigrants-trump-administration",
@@ -125,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T13:00:32Z",
       "trailText": "The US has been punishing ‘an entire group’ since the arrest of an Afghan in the shooting of two national guard troops",
-      "summary": "After an Afghan evacuee was charged with shooting two National Guard soldiers in Washington DC, the Trump administration froze USCIS asylum and visa applications for Afghans and 18 other travel-ban countries, re-investigates previously granted green cards, and shortened work permits. Afghan advocates like Yahya Haqiqi and former US ally Shir Agha Safi criticize collective punishment of over 200,000 resettled refugees, special immigrant visa holders, and asylum seekers. Communities report ICE sweeps and detentions, widespread fear over indefinite limbo, while DHS cites enhanced biometric, social-media and background checks to defend the crackdown as vital to national security.",
-      "summaryTokens": 1136,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "After an Afghan man’s arrest in the Washington DC shooting of two National Guard soldiers, the Trump administration froze USCIS asylum decisions, paused Afghan and 18 other travel-ban nationals’ visa and green-card applications, re-investigated past grants and reduced work-permit validity. ICE raids have intensified. Afghan advocates like Yahya Haqiqi in Oregon and Shir Agha Safi in Iowa warn 80,000 under Operation Allies Welcome and over 200,000 total face fear, uncertainty and indefinite limbo. Critics say the broad measures punish those who fought for US values, while officials defend enhanced vetting for security.",
+      "summaryTokens": 1002,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/you-and-me-against-the-world-who-was-behind-trumps-anti-europe-foreign-policy",
@@ -137,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T12:00:33Z",
       "trailText": "The US’s national security strategy, shared last week, claims European immigration will cause ‘civilisational erasure’",
-      "summary": "Michael Anton, the MAGA firebrand tapped to draft Trump’s radical 2025 US national security strategy (NSS), brands European immigration an existential threat, revives the Monroe doctrine, and downgrades US rivalry with China and Russia. The 33-page manifesto—shaped by figures like JD Vance, Stephen Miller and Marco Rubio—breaks with decades of bipartisan support for NATO and the EU, orders embassies to gather immigrant-crime data, and recasts the EU as a rival. Though Trump likely won’t read it, its anti-Europe vision may endure as a MAGA blueprint.",
-      "summaryTokens": 695,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Behind Trump’s new National Security Strategy is Michael Anton, ex-State Department policy planner, whose draft frames European immigration as “civilizational erasure,” revives the Monroe Doctrine, downgrades China/Russia competition and courts illiberal EU partners. Surviving a bruising interagency process, the document reflects MAGA ideologues like JD Vance, Stephen Miller and Secretary of State Marco Rubio. Though nonbinding and likely unread by Trump, its anti-immigrant, anti-EU tenor aligns with his instincts. US embassies now gather immigrant crime data, the EU is recast as a rival, and human rights reports tilt toward allies. Critics warn this NSS serves as a blueprint to upend postwar policy.",
+      "summaryTokens": 586,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/trump-fossil-fuels-allies-investigation",
@@ -149,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T12:00:33Z",
       "trailText": "Fossil fuel execs Robert Pender and Michael Sabel deny wrongdoing after report on potential conflict of interest",
-      "summary": "Senate Democrats, led by Ron Wyden and Chris Van Hollen, demand an investigation into a $24 million share purchase by LNG billionaires Robert Pender and Michael Sabel of Venture Global just days after meeting Trump White House officials who then granted a key export permit. Citing pay-to-play parallels and recent reports by the Guardian, Jeff Merkley and Ro Khanna also urge probes into conflicts of interest and insider trading. Venture Global insists compliance with SEC rules despite record lobbying spend; White House denies any presidential conflicts amid broader fossil fuel policy rollbacks.",
-      "summaryTokens": 928,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Senate Democrats Ron Wyden and Chris Van Hollen, joined by Jeff Merkley and Ro Khanna, demand an investigation into a March share purchase—over one million Venture Global LNG shares worth ~$12 million each—by founders Robert Pender and Michael Sabel days after meeting Trump officials who granted a crucial export permit. Critics allege pay-to-play and insider trading reminiscent of past Trump energy scandals, citing record fossil fuel lobbying and donations to Trump’s inauguration. Venture Global and the White House deny misconduct amid Trump’s rollback of climate rules, rising gas prices and extreme weather impacts.",
+      "summaryTokens": 548,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/trump-biden-rivals",
@@ -161,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T12:00:33Z",
       "trailText": "US president finds himself shouldering same burdens of affordability crisis and the inexorable march of time",
-      "summary": "At a Pennsylvania roadshow to showcase economic stewardship, President Trump mocked Joe Biden as “Sleepy Joe” and “Crooked Joe,” yet wrestles with the same age-related scrutiny and affordability crisis he blames on Democrats. Both 79, each has been filmed nodding off; Trump’s recent leg swelling, hand bruising and undisclosed MRI fueled fitness questions. Despite touting record wages, US job growth has slowed, unemployment risen and consumer prices high—partly due to his tariffs—echoing Biden’s struggled “Bidenomics” tours and raising fresh doubts as midterms loom.",
-      "summaryTokens": 1053,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "At a Pennsylvania rally, Trump mocked Biden as “Sleepy” and “Crooked Joe” while launching a roadshow to tout the economy, echoing Biden’s Bidenomics tour. Both septuagenarian presidents shoulder an affordability crisis, high inflation and scrutiny over age and health. Trump’s medical check-up, MRI, leg swelling, bandaged hand and on-camera nodding off mirror past concerns about Biden’s fitness. With unemployment rising, cost-of-living approval at 31% and voters skeptical, analysts warn Trump risks repeating Biden’s messaging mistakes ahead of crucial midterms.",
+      "summaryTokens": 1242,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/burrowing-owls-cruise",
@@ -173,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T12:00:32Z",
       "trailText": "Burrowing owls, who boarded cruise ship in Miami, to be returned to US next month after long spell in quarantine",
-      "summary": "A threatened pair of burrowing owls stowed away on Royal Caribbean’s Allure of the Seas in Miami and were discovered among the ship’s Central Park greenery during its February transatlantic cruise. Crew members netted and handed them to Spanish officials, and they’ve been quarantined at Murcia’s CITES wildlife center since spring. Florida Fish and Wildlife plans to airlift them back mid-January, funded by its foundation, then release them into an urban Florida area familiar from their origin after health and acclimation checks.",
-      "summaryTokens": 913,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "Two threatened burrowing owls stowed away on Royal Caribbean’s Allure of the Seas in Miami and survived a transatlantic voyage to Cartagena by sheltering in the ship’s Central Park. Spotted early in the 14-day cruise, they were netted by crew, handed to Spanish authorities and quarantined since spring at a CITES rescue center near Murcia. Florida Fish and Wildlife biologists say the ground-dwelling pair may have been lured by onboard greenery and will return to Florida by air in mid-January for health checks and release into urban habitats familiar to them.",
+      "summaryTokens": 734,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/13/drunk-raccoon-liquor-store-dmv",
@@ -185,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T11:00:32Z",
       "trailText": "Officials say raccoon that broke into Virginia liquor store on 29 November had previously hit DMV and karate studio",
-      "summary": "Officials in Ashland, Virginia revealed a mischievous raccoon has broken into three businesses on one block – a DMV office (where it snacked on vending treats), a karate studio, and an ABC liquor store on Nov. 29. There the critter smashed whiskey bottles, got intoxicated and passed out in a bathroom. Animal protection officer Samantha Martin, speaking on the “Hear in Hanover” podcast, says this is its third heist, and relocating it would be a “death sentence,” so they released it nearby. The raccoon emerged uninjured but possibly hungover. Researchers note urban raccoons show early domestication signs—shorter snouts, smaller brains and teeth, curlier tails—reflecting adaptation to city life.",
-      "summaryTokens": 578,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "In Hanover County, Virginia, a clever raccoon staged at least three break-ins on one block—helping itself to snacks at the DMV, ransacking a karate studio, then smashing bottles and downing liquor at the Ashland ABC store on November 29 before passing out in its bathroom. Animal protection officer Samantha Martin said the critter “knows how to get back in” and, after sobering up in a shelter, was released nearby rather than relocated. Officials joked it might face a hangover and “learn a lesson,” while a recent study linking urban raccoons’ shorter snouts and curlier tails to domestication highlights their adaptation to city life.",
+      "summaryTokens": 627,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/12/trump-administration-news-update-today",
@@ -197,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-13T01:56:39Z",
       "trailText": "Trump is featured in three images, while others feature Epstein with Bill Clinton, Steve Bannon and Woody Allen",
-      "summary": "House Democrats published 19 more photographs (plus 70 released later) from Jeffrey Epstein’s estate—out of nearly 100,000 images—featuring Donald Trump (in three pictures), Bill Clinton, Woody Allen, Bill Gates and others. The White House denounced the release as a “Democrat hoax,” accusing lawmakers of cherry-picking to smear Trump, while Rep. Robert Garcia, the oversight panel’s ranking member, urged an end to the “cover-up” and justice for survivors.",
-      "summaryTokens": 921,
-      "generatedAt": "2025-12-14T03:48:22.050Z"
+      "summary": "House Democrats published 90 photos from Epstein’s estate including Trump in three images, drawing White House claims of ‘Democrat hoax.’ The oversight committee is probing Epstein’s network. Meanwhile, House Republicans unveiled a last-minute ACA healthcare plan that won’t extend Obamacare tax credits. US churches are using nativity scenes to protest ICE policies; lawmakers challenge the VA’s non-citizen database; a judge paused the re-detention of Kilmar Ábrego García; preservationists sued over Trump’s White House ballroom expansion. Catastrophic floods hit the Pacific Northwest; Trump urged the Fed to heed him; TPS for Ethiopians ends; Denmark accuses the US of economic coercion; Venezuelan opposition deems Maduro’s fall inevitable.",
+      "summaryTokens": 1149,
+      "generatedAt": "2025-12-15T03:50:06.671Z"
     },
     {
       "id": "us-news/2025/dec/12/81-women-lawsuit-army-gynecologist",
@@ -3725,7 +3929,7 @@
       "section": "us-news",
       "publishedDate": "2025-11-27T21:28:05Z",
       "trailText": "Administration said ‘awareness is not a strategy’, but here is a short list of orders the president has signed to do just that",
-      "summary": "President Trump’s administration dropped World AIDS Day, declaring “awareness is not a strategy,” even as he’s signed proclamations for numerous other commemorations: anti-communism week; National Energy Dominance Month; Leif Erikson Day; Columbus Day; National Manufacturing Day; Overdose Prevention Week; Cancer Control Month; Made in America Week; and milestone anniversaries (Bunker Hill’s 250th, Victory Day, Cape Henry’s 418th). His orders emphasize energy production, border security, “America First” manufacturing, and ideological battles, sidelining HIV/AIDS recognition despite also marking mental health and autism awareness.",
+      "summary": "President Trump’s administration dropped World AIDS Day, declaring “awareness is not a strategy,” even as he��s signed proclamations for numerous other commemorations: anti-communism week; National Energy Dominance Month; Leif Erikson Day; Columbus Day; National Manufacturing Day; Overdose Prevention Week; Cancer Control Month; Made in America Week; and milestone anniversaries (Bunker Hill’s 250th, Victory Day, Cape Henry’s 418th). His orders emphasize energy production, border security, “America First” manufacturing, and ideological battles, sidelining HIV/AIDS recognition despite also marking mental health and autism awareness.",
       "summaryTokens": 1699,
       "generatedAt": "2025-11-29T03:44:51.985Z"
     },
@@ -10325,7 +10529,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-30T18:31:52Z",
       "trailText": "Low number represents a dramatic drop after US previously allowed in hundreds of thousands of people fleeing war and persecution",
-      "summary": "The Trump administration will cap refugee admissions at 7,500 for FY2026—a collapse from Biden’s 125,000 ceiling—and primarily reserve slots for white South African Afrikaners. A Federal Register notice justified it as ‘humanitarian or in the national interest’ yet gave no rationale. The move drew sharp rebuke from IRAP, Global Refuge’s CEO and the American Immigration Council, who decry its politicization of US humanitarian policy, moral erosion and exclusion of vetted refugees. It mirrors Trump’s cuts (18,000 in FY2020, 15,000 in FY2021) and follows his order against South Africa’s land reforms.",
+      "summary": "The Trump administration will cap refugee admissions at 7,500 for FY2026—a collapse from Biden’s 125,000 ceiling���and primarily reserve slots for white South African Afrikaners. A Federal Register notice justified it as ‘humanitarian or in the national interest’ yet gave no rationale. The move drew sharp rebuke from IRAP, Global Refuge’s CEO and the American Immigration Council, who decry its politicization of US humanitarian policy, moral erosion and exclusion of vetted refugees. It mirrors Trump’s cuts (18,000 in FY2020, 15,000 in FY2021) and follows his order against South Africa’s land reforms.",
       "summaryTokens": 2160,
       "generatedAt": "2025-11-02T00:28:16.264Z"
     },
