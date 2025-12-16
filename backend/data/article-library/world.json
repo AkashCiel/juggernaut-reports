@@ -1,37 +1,241 @@
 {
   "metadata": {
     "section": "world",
-    "generated_at": "2025-12-15T03:52:17.162Z",
+    "generated_at": "2025-12-16T04:35:54.928Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-15"
+      "to": "2025-12-16"
     },
-    "article_count": 1588,
+    "article_count": 1605,
     "merge_info": {
-      "previous_count": 1582,
-      "new_articles": 6,
-      "updated_articles": 7,
-      "total_count": 1588
+      "previous_count": 1588,
+      "new_articles": 17,
+      "updated_articles": 6,
+      "total_count": 1605
     },
     "batch_info": {
-      "initial_batch_id": "batch_693f8578c7848190b3fd7f7f2f757ea6",
+      "initial_batch_id": "batch_6940e0519a688190a2433cb99853c0c2",
       "retry_batches": [],
-      "total_tokens": 27824,
-      "processing_time_hours": 0
+      "total_tokens": 55875,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "world/2025/dec/16/india-electoral-roll-special-intensive-revision-threatens-democracy-muslims",
+      "title": "India’s electoral roll revision threatens democracy and Muslims, say critics",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/16/india-electoral-roll-special-intensive-revision-threatens-democracy-muslims",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/16/india-electoral-roll-special-intensive-revision-threatens-democracy-muslims",
+      "section": "world",
+      "publishedDate": "2025-12-16T01:00:07Z",
+      "trailText": "Opposition claims SIR process being used to disenfranchise minority groups to benefit Narendra Modi’s government",
+      "summary": "India’s special intensive revision (SIR) of electoral rolls across nine states and three union territories, launched by the BJP, is accused by opposition parties of covertly purging poor and Muslim voters as “illegal immigrants” while welcoming Bangladeshi Hindus, to entrench Modi’s power. Critics liken it to Assam’s NRC, citing millions removed in Bihar, legal challenges and a subsequent BJP landslide. In West Bengal, TMC links SIR to citizenship fears, distress and a reported suicide. The Election Commission insists SIR simply removes duplicates, dead or relocated voters; final lists are due February 2026.",
+      "summaryTokens": 1003,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/what-did-ukraine-peace-talks-in-berlin-achieve-and-what-happens-next",
+      "title": "What did Ukraine peace talks in Berlin achieve – and what happens next?",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/what-did-ukraine-peace-talks-in-berlin-achieve-and-what-happens-next",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/what-did-ukraine-peace-talks-in-berlin-achieve-and-what-happens-next",
+      "section": "world",
+      "publishedDate": "2025-12-16T00:50:46Z",
+      "trailText": "US meeting with Ukrainian and European leaders positive on security guarantees, but hardest questions unresolved",
+      "summary": "At Berlin talks the US, UK, France, Germany, Italy and other European leaders outlined security guarantees for Ukraine: a European-led multinational force to defend its skies and legally binding NATO commitments, EU accession support, peacetime troop funding, a US-led ceasefire monitoring mechanism and reconstruction aid leveraging frozen Russian assets. Leaders hailed a “real peace process,” but serious obstacles remain: Russia’s refusal of NATO troops, unresolved status of Russian-occupied Ukrainian territories proposed as “economic free zones,” and Kyiv’s insistence on rejecting any territorial concessions. Proposals now go to Moscow via US envoys Jared Kushner and Steve Witkoff, but key questions persist.",
+      "summaryTokens": 1082,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/ukraine-talks-european-leaders-meet-berlin-starmer-macron-zelenskyy-merz-us-witkoff",
+      "title": "Europe ready to lead ‘multinational force’ in Ukraine as part of US peace plan",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/ukraine-talks-european-leaders-meet-berlin-starmer-macron-zelenskyy-merz-us-witkoff",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/ukraine-talks-european-leaders-meet-berlin-starmer-macron-zelenskyy-merz-us-witkoff",
+      "section": "world",
+      "publishedDate": "2025-12-15T21:26:45Z",
+      "trailText": "Proposal is part of new package of security guarantees, backed by the White House, that could mark breakthrough in reaching agreement",
+      "summary": "In Berlin talks with US envoy Steve Witkoff and Jared Kushner, Ukraine, the US and ten European leaders endorsed a US-backed security package offering legally binding, article-five-style guarantees. Europe would lead a “multinational force” to help regenerate Ukraine’s 800,000-strong army, secure its airspace and seas, while the US would monitor ceasefires. The plan includes EU accession support and possible free-economic zones for occupied Donbas. Major disputes persist over Russia-held territories and the status of the Zaporizhzhia nuclear plant.",
+      "summaryTokens": 1027,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/trinidad-tobago-us-access-airports-venezuela-tensions-grow",
+      "title": "Venezuela accuses Trinidad and Tobago of taking part in US seizure of oil tanker",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/trinidad-tobago-us-access-airports-venezuela-tensions-grow",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/trinidad-tobago-us-access-airports-venezuela-tensions-grow",
+      "section": "world",
+      "publishedDate": "2025-12-15T20:06:53Z",
+      "trailText": "Maduro regime accuses Caribbean nation of participating in ‘theft of Venezuelan oil’ as tensions mount in region",
+      "summary": "Venezuela’s government denounced Trinidad and Tobago for allegedly aiding the US seizure of the oil tanker Skipper on 10 December, claiming it carried nearly 2m barrels of state crude. Caracas accused PM Kamla Persad-Bissessar of turning T&T into a US “aircraft carrier” by permitting military airport access and deploying a Northrop Grumman radar under the guise of fighting crime. In response, Maduro’s regime suspended all natural gas negotiations—including Dragon field talks—accusing T&T of vassalage and warning against threats to Venezuelan sovereignty.",
+      "summaryTokens": 547,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/jose-antonio-kast-chile-election-analysis",
+      "title": "Chile’s new far-right head is latest Latin American leader to ride hardline wave to power",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-chile-election-analysis",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/jose-antonio-kast-chile-election-analysis",
+      "section": "world",
+      "publishedDate": "2025-12-15T19:28:02Z",
+      "trailText": "From the US to Hungary to Argentina, rightwing leaders are praising José Antonio Kast’s win in Chile’s presidential race",
+      "summary": "Far-right candidate José Antonio Kast won Chile’s presidency with 58.2% in a runoff, defeating leftist Jeannette Jara by over 2 million votes. A devout Catholic and son of a Nazi party member, he opposes abortion, same-sex marriage and blames a decade of rising migration for crime. Endorsed by Marco Rubio, Viktor Orbán, Giorgia Meloni and others, Kast vows to expel some 330,000 undocumented migrants, build 5-metre walls, electric fences and deploy the military at borders—policies echoing Trump. Analysts warn his openly Pinochet-admiring stance marks the most radical rightward shift since the 1990 dictatorship’s end and risks deepening regional hardline security trends fueled by Bukele-style crackdowns and U.S. pressure.",
+      "summaryTokens": 1437,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/uk-condemns-hong-kongs-politically-motivated-targeting-of-jimmy-lai-after-conviction",
+      "title": "Governments and rights groups condemn conviction of Hong Kong activist Jimmy Lai",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/uk-condemns-hong-kongs-politically-motivated-targeting-of-jimmy-lai-after-conviction",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/uk-condemns-hong-kongs-politically-motivated-targeting-of-jimmy-lai-after-conviction",
+      "section": "world",
+      "publishedDate": "2025-12-15T18:59:46Z",
+      "trailText": "UK, EU and Australia say guilty verdict against 78-year-old is further blow to democracy and press freedom in territory",
+      "summary": "Jimmy Lai, 78-year-old British citizen and pro-democracy media tycoon, was convicted in Hong Kong’s West Kowloon court under the national security law and colonial sedition statute for conspiracy to publish seditious materials and collude with foreign forces. Facing potential life imprisonment and deteriorating health from diabetes and weight loss, Lai’s conviction sparked condemnation from the UK government—whose foreign secretary summoned China’s ambassador—alongside the EU, Australia, US president and secretary of state, Taiwan and rights groups like Amnesty International and Reporters Without Borders. They call the verdict politically motivated, a blow to press freedom, and demand his immediate release and proper medical care.",
+      "summaryTokens": 1216,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/spain-to-launch-60-monthly-nationwide-public-transport-pass",
+      "title": "Spain to launch €60 monthly nationwide public transport pass ",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/spain-to-launch-60-monthly-nationwide-public-transport-pass",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/spain-to-launch-60-monthly-nationwide-public-transport-pass",
+      "section": "world",
+      "publishedDate": "2025-12-15T18:32:32Z",
+      "trailText": "Bus and train initiative comes as government struggles to survive corruption and sexual harassment allegations",
+      "summary": "Spain’s socialist minority government will roll out a €60 flat monthly nationwide pass for buses and trains from mid-January, plus a €30 rate for those under 26. Prime Minister Pedro Sánchez says the as-yet-uncosted initiative will let users travel on middle-distance and suburban trains and national bus routes, slashing expenses by up to 60% for about two million commuters. Launched amid corruption and sexual-harassment allegations threatening his PSOE coalition, and opposition calls for a snap election—including from the Episcopal Conference—Sánchez defends the move as enhancing everyday welfare, akin to Germany’s €49 ticket.",
+      "summaryTokens": 685,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/russia-ukraine-deal-security-guarantees-starmer",
+      "title": "Any Russia-Ukraine deal is doomed without security guarantees, says Starmer",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/russia-ukraine-deal-security-guarantees-starmer",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/russia-ukraine-deal-security-guarantees-starmer",
+      "section": "world",
+      "publishedDate": "2025-12-15T17:58:59Z",
+      "trailText": "Prime minister reiterates support for Kyiv as it comes under mounting US pressure to sign up to Trump-backed plan",
+      "summary": "UK PM Keir Starmer warns that any Russia-Ukraine peace agreement will collapse without robust military guarantees from western powers. Ahead of Berlin talks with EU, Nato and eight European leaders, he champions a coalition-of-the-willing model alongside the US, pledging UK troops if logistics allow. MI6 head Blaise Metreweli accuses Putin of stalling negotiations and historical distortions, affirming lasting UK support. Meanwhile, Zelenskiy has signaled readiness to forgo NATO membership in exchange for ‘Article-5-style’ guarantees, as European states debate increased defense spending amid mounting US pressure. Starmer also criticizes Trump’s national security strategy and urges deeper Euro-Atlantic defense coordination.",
+      "summaryTokens": 1340,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "society/2025/dec/15/oxfam-gb-chief-reportedly-forced-out-over-serious-issues-with-her-leadership",
+      "title": "Infighting breaks out over departure of Oxfam chief executive Halima Begum",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/15/oxfam-gb-chief-reportedly-forced-out-over-serious-issues-with-her-leadership",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/15/oxfam-gb-chief-reportedly-forced-out-over-serious-issues-with-her-leadership",
+      "section": "world",
+      "publishedDate": "2025-12-15T17:25:12Z",
+      "trailText": "Split emerges among members of board of trustees over circumstances of charity boss’s exit from organisation",
+      "summary": "Oxfam GB chief Halima Begum departed after an independent review—drawing on testimony from 32 current and former staff—found serious leadership failings, including process breaches and interference in safeguarding probes. The board reportedly voted unanimously that trust in her was irretrievably broken, yet trustee Balwant Singh denied this, accusing colleagues of leaking confidential findings to destroy her reputation. Staff letters had warned of a climate of fear under her restructuring. Begum’s lawyers allege a ‘victimising witch-hunt,’ she’s filed a Charity Commission whistleblower complaint and vows legal challenge.",
+      "summaryTokens": 554,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/giorgia-meloni-world-leaders-gifts-auction-biden-bowl-orban-tea-set-milei-statuette",
+      "title": "Biden bowl or Milei statuette, anyone? Meloni to put world leaders’ gifts up for auction",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/giorgia-meloni-world-leaders-gifts-auction-biden-bowl-orban-tea-set-milei-statuette",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/giorgia-meloni-world-leaders-gifts-auction-biden-bowl-orban-tea-set-milei-statuette",
+      "section": "world",
+      "publishedDate": "2025-12-15T16:46:16Z",
+      "trailText": "Italian prime minister’s charity sale may also feature presents from Narendra Modi, Viktor Orbán and Volodymyr Zelenskyy",
+      "summary": "Italian premier Giorgia Meloni will auction 270 diplomatic gifts—Javier Milei’s chainsaw-wielding statuette, Joe Biden’s ceramic bowl, Viktor Orbán’s porcelain tea set, Narendra Modi’s Kerala dress, Volodymyr Zelenskyy’s tablet, blue python-skin gold-heeled shoes and Slovakian jewelry—through Rome-based Bertolami Fine Art before Christmas. Valued at €800,000 and locked in third-floor storage at Palazzo Chigi, proceeds will back various charities. The sale includes predecessors’ items and adheres to Italy’s €300-per-gift limit, underscoring Meloni’s diplomatic flair and Italy’s reinvigorated global role.",
+      "summaryTokens": 1608,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/louvre-museum-in-paris-faces-closure-as-unions-call-strike",
+      "title": "‘The last bastion before collapse’ – Louvre museum closed as workers begin strike ",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/louvre-museum-in-paris-faces-closure-as-unions-call-strike",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/louvre-museum-in-paris-faces-closure-as-unions-call-strike",
+      "section": "world",
+      "publishedDate": "2025-12-15T13:15:05Z",
+      "trailText": "Crisis-hit Paris institution still reeling from jewel heist is in dispute over staffing, renovations and ticket price rises",
+      "summary": "Crisis-hit Louvre museum in Paris closed as CGT, Sud and CFDT unions launch a rolling strike over understaffing, delayed renovations and a 45% ticket price hike for non-EU visitors including US and British tourists. The stoppage follows an October jewel heist (€88m stolen), a damaging Egyptian gallery water leak and ceiling safety fears. Unions decry state underinvestment, 200 job cuts since 2015 and ‘discriminatory’ fees that charge extra for foreign visitors viewing their own heritage. They demand urgent building consolidation over Macron’s new entrance project, warning that chronic security and maintenance failures endanger staff, collections and public access.",
+      "summaryTokens": 885,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/women-say-tricked-servitude-opus-dei-to-meet-argentina",
+      "title": "Women who say they were tricked into servitude for Opus Dei to meet in Argentina",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/women-say-tricked-servitude-opus-dei-to-meet-argentina",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/women-say-tricked-servitude-opus-dei-to-meet-argentina",
+      "section": "world",
+      "publishedDate": "2025-12-15T12:58:23Z",
+      "trailText": "Pope urged organisers to hold conference after 43 women alleged they were exploited as minors by Catholic group",
+      "summary": "In Buenos Aires on Tuesday, 43 former Opus Dei members will hold the first international conference for women who allege they were lured as minors to the Catholic institute, forced into unpaid domestic servitude, had letters censored and visits banned. Prompted by Pope Leo XIV and backed by Ending Clergy Abuse, the gathering coincides with an Argentine federal trafficking investigation into abuses from 1972 to 2015 and Vatican review of Opus Dei’s statutes after Pope Francis restricted its privileges. Opus Dei denies the claims. Participants hope for institutional reform and justice.",
+      "summaryTokens": 866,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/russia-damages-euroclear-seized-assets-eu-ukraine",
+      "title": "Russia seeks $230bn in damages from Euroclear over seized assets",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/russia-damages-euroclear-seized-assets-eu-ukraine",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/russia-damages-euroclear-seized-assets-eu-ukraine",
+      "section": "world",
+      "publishedDate": "2025-12-15T12:44:10Z",
+      "trailText": "Kremlin aims to fire warning shot against EU’s plan to use €90bn of frozen funds to give loan to Ukraine",
+      "summary": "Russia’s central bank has filed an 18 trn-rouble ($230bn) claim against Euroclear, warning the EU against using €210bn of frozen Russian assets to fund Ukraine—€185bn held at its Brussels depository. Moscow labels the plan “theft”, vows legal action and may enforce judgments in friendly jurisdictions. The EU insists the loan is legally sound, proposes an initial €90bn reparations loan repayable after Russia compensates for war damages, while exploring safeguards and alternative common borrowing amid Hungary’s opposition.",
+      "summaryTokens": 858,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
       "id": "world/2025/dec/15/jimmy-lai-verdict-hong-kong-judges-national-security-charges",
-      "title": "Jimmy Lai verdict: Hong Kong pro-democracy figure convicted of national security offences",
+      "title": "Hong Kong: Jimmy Lai facing life in prison after conviction on security charges",
       "webUrl": "https://www.theguardian.com/world/2025/dec/15/jimmy-lai-verdict-hong-kong-judges-national-security-charges",
       "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/jimmy-lai-verdict-hong-kong-judges-national-security-charges",
       "section": "world",
-      "publishedDate": "2025-12-15T03:07:36Z",
-      "trailText": "Verdicts on foreign collusion and sedition charges were city’s most closely watched rulings in decades",
-      "summary": "Jimmy Lai, 78, Hong Kong pro-democracy media tycoon and founder of Apple Daily, has been convicted on one count of conspiracy to publish seditious publications and two counts of foreign collusion under the 2020 National Security Law and a revived colonial sedition law. Judges branded him the “mastermind” of long-term plots to destabilize the Chinese government via lobbying for sanctions. He faces life imprisonment plus an additional life term; appeal scheduled for 12 January. Rights groups condemn the verdict as a sham and a direct threat to press freedom.",
-      "summaryTokens": 933,
-      "generatedAt": "2025-12-15T03:52:16.689Z"
+      "publishedDate": "2025-12-15T12:18:35Z",
+      "trailText": "Rights groups dismiss ‘sham conviction’ of media tycoon on national security offences in city’s most closely watched rulings in decades",
+      "summary": "Hong Kong media tycoon and UK citizen Jimmy Lai, 78, was found guilty under the city’s 2020 National Security Law and a revived colonial sedition statute of plotting to publish seditious material and collude with foreign powers, in a ruling that carries a possible life sentence. Judges, nominated by the government for such cases, branded him a “mastermind” seeking to destabilise China. Rights and press-freedom groups decried the politically motivated “sham conviction,” while the UK demanded his release. Three Apple Daily entities were also convicted. Lai can appeal on Jan 12 amid concerns over retrospective prosecution and his deteriorating health.",
+      "summaryTokens": 885,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/first-edition-bondi-beach-attack",
+      "title": "Monday briefing: The latest on the deadly attack on Bondi beach’s Jewish community",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/first-edition-bondi-beach-attack",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/first-edition-bondi-beach-attack",
+      "section": "world",
+      "publishedDate": "2025-12-15T06:51:24Z",
+      "trailText": "In today’s newsletter: On Sunday evening local time, two gunmen opened fire on a gathering at Sydney’s famous beach – here’s what we know so far",
+      "summary": "On Sunday evening at a Hanukah festival behind Bondi Beach in Sydney, two gunmen—identified as father and son Sajid (50) and Naveed Akram (24)—opened fire, killing at least 16 people (including one child and Rabbi Eli Schlanger) and injuring over 40. Police shot dead Sajid; Naveed remains in critical condition. Authorities declared it an antisemitic terrorist attack, deployed bomb squads to examine IEDs and found additional weapons. PM Albanese condemned it as “evil,” vowed stricter gun laws, while bystanders’ heroism in disarming an attacker likely saved lives.",
+      "summaryTokens": 746,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/assad-family-live-in-russian-luxury-as-bashar-brushes-up-on-ophthalmology",
+      "title": "Assad family live in Russian luxury as Bashar ‘brushes up on ophthalmology’",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/assad-family-live-in-russian-luxury-as-bashar-brushes-up-on-ophthalmology",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/assad-family-live-in-russian-luxury-as-bashar-brushes-up-on-ophthalmology",
+      "section": "world",
+      "publishedDate": "2025-12-15T05:00:24Z",
+      "trailText": "Family friend, sources in Russia and Syria, and leaked data help give rare insight into life of dictator’s reclusive household",
+      "summary": "Bashar al-Assad’s family now resides in luxury exile in Moscow’s gated Rublyovka and occasional UAE visits, funded by pre-war wealth frozen in Russia. Barred from politics and media by the Kremlin, Assad studies ophthalmology and Russian for private practice among Moscow’s elite. His wife Asma recovered from leukemia under Russian security’s care. Their children adjust to elite life: daughter Zein graduated MGIMO, sons Hafez and Karim maintain low profiles and travel between Moscow and Abu Dhabi under pseudonyms. Cut off from Syrian cronies, the Assads live quietly yet opulently under strict isolation as Putin’s circle deems Bashar irrelevant.",
+      "summaryTokens": 1533,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/jimmy-lai-rise-fall-hong-kong-itself",
+      "title": "The rise and fall of Jimmy Lai, whose trajectory mirrored that of Hong Kong itself",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/jimmy-lai-rise-fall-hong-kong-itself",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/jimmy-lai-rise-fall-hong-kong-itself",
+      "section": "world",
+      "publishedDate": "2025-12-15T04:31:20Z",
+      "trailText": "Progressing from child labourer to billionaire, Lai used his power and wealth to promote democracy, which ultimately pitted him against authorities in Beijing",
+      "summary": "Jimmy Lai, 78-year-old Hong Kong media tycoon and democracy activist, was convicted of conspiracy to publish seditious publications and foreign collusion under the national security law. His trial marked a definitive crackdown on Hong Kong’s pro-democracy movement. A former garment-factory child labourer who built Giordano and founded Next Magazine and Apple Daily after Tiananmen, Lai used his wealth to fund protests and fearless journalism. Arrested in 2020 and already serving nearly 10 years for protest offences, he risks life imprisonment. His conviction and Apple Daily’s closure symbolize the erosion of free expression and drew international rights and diplomatic campaigns.",
+      "summaryTokens": 1518,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
+    },
+    {
+      "id": "world/2025/dec/15/ukraine-war-briefing-britains-spy-chief-to-warn-of-russias-expansionist-threat-as-berlin-talks-enter-second-day",
+      "title": "Ukraine war briefing: Britain’s spy chief to warn of Russia’s ‘expansionist threat’ as Berlin talks enter second day",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/15/ukraine-war-briefing-britains-spy-chief-to-warn-of-russias-expansionist-threat-as-berlin-talks-enter-second-day",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/15/ukraine-war-briefing-britains-spy-chief-to-warn-of-russias-expansionist-threat-as-berlin-talks-enter-second-day",
+      "section": "world",
+      "publishedDate": "2025-12-15T01:36:31Z",
+      "trailText": "MI6 chief to deliver remarks on Monday warning ‘chaos is a feature not a bug in the Russian approach’; European leaders to join day two of talks in Berlin. What we know on day 1,391",
+      "summary": "MI6 chief Blaise Metreweli, in her first speech since becoming the agency’s first female head in October, will warn Monday that Russia poses an “aggressive, expansionist, revisionist” threat and vow sustained UK backing for Ukraine. Britain’s armed forces chief Richard Knighton will call for a “whole society” defence approach amid heightened invasion risks. In Berlin’s second day of peace talks, President Zelenskyy urged a “dignified” peace with security guarantees and a frontline ceasefire, while US envoy Steve Witkoff reported “a lot of progress.” Experts say Kyiv’s renunciation of NATO membership won’t alter dynamics. Reuters also cites Russia’s capture of Varvarivka in Zaporizhzhia.",
+      "summaryTokens": 788,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
     },
     {
       "id": "world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
@@ -41,9 +245,9 @@
       "section": "world",
       "publishedDate": "2025-12-14T23:40:25Z",
       "trailText": "The son of a Nazi party member and an admirer of Pinochet, Kast built his campaign on a promise to expel tens of thousands of undocumented migrants",
-      "summary": "Ultra-conservative José Antonio Kast has been elected Chile’s president with 58.2% of the vote, defeating leftist Jeannette Jara’s 41.8%. The Pinochet admirer and son of a Nazi party member campaigned on tougher security and anti-immigration measures, pledging to expel undocumented migrants, build detention centers, walls and trenches, and deploy the military along borders. He opposes abortion and same-sex marriage, and plans $6bn in public spending cuts. Lacking a congressional majority, Kast begins his transition after Gabriel Boric’s congratulatory call. His win reflects Chile’s left-right alternation and broader conservative surge in Latin America.",
-      "summaryTokens": 1081,
-      "generatedAt": "2025-12-15T03:52:16.689Z"
+      "summary": "Ultra-conservative ex-MP José Antonio Kast won Chile’s presidency with 58.16% against leftist Jeannette Jara’s 41.84%. The son of a Nazi party member and Pinochet admirer, Kast built his campaign on expelling some 330,000 undocumented migrants, erecting Trump-style walls, trenches and detention centers, and beefing up military border patrols to curb rising violence. A staunch Catholic who opposes abortion and same-sex marriage, he vows “firmness” on crime and illegal immigration but will face a fragmented Congress. Allies include Trump-aligned Marco Rubio and Argentina’s Javier Milei; Kast also promises $6bn in budget cuts, though details remain unclear.",
+      "summaryTokens": 511,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
     },
     {
       "id": "world/2025/dec/14/chile-presidential-election",
@@ -53,9 +257,9 @@
       "section": "world",
       "publishedDate": "2025-12-14T10:00:03Z",
       "trailText": "Trump-inspired former congressman expected to succeed Gabriel Boric but compulsory voting could create volatility",
-      "summary": "In Chile’s Dec. 14 runoff, far-right ex-congressman José Antonio Kast, 59, backed by Trump-style rhetoric and pledges to expel tens of thousands of migrants, leads polls over left-leaning former labor minister Jeannette Jara, 51. Compulsory voting brings 5 million unpredictable ballots, including protest supporters of outsider Franco Parisi. Kast’s hardcore agenda—border walls, mass deportations, iron-fist security policies—resonates amid public fears over migration and crime, positioning him to succeed Gabriel Boric.",
-      "summaryTokens": 543,
-      "generatedAt": "2025-12-15T03:52:16.689Z"
+      "summary": "In Chile’s presidential runoff ultra-conservative José Antonio Kast, a Trump-inspired former congressman and Pinochet admirer who vows to expel undocumented migrants, build border walls, and curb abortion and same-sex marriage, is favored over centre-left ex-labour minister Jeannette Jara. Despite Jara’s first-round plurality and her own iron-fist proposals—new prisons and biometric migrant registration—Kast leads in polls mobilised by compulsory voting. Analysts warn votes of outsider Franco Parisi’s 20% share are unpredictable amid heightened migration and crime anxieties.",
+      "summaryTokens": 1323,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
     },
     {
       "id": "world/2025/dec/14/us-wargames-maduro-fall-venezuela",
@@ -65,9 +269,9 @@
       "section": "world",
       "publishedDate": "2025-12-14T10:00:01Z",
       "trailText": "Venezuelan politicians battling to end Maduro’s rule reject claims his downfall would thrust their country into maelstrom of bloodshed and retribution",
-      "summary": "In 2019 US war games modeled three post-Maduro scenarios—mass uprising, palace coup, and a US ‘decapitation’ strike—all yielding prolonged chaos: military crackdowns, factional bloodletting, insurgencies in oil and mining zones, mass refugee flows. Opposition leaders María Corina Machado and Miguel Pizarro dismiss fears of civil war, citing Venezuela’s democratic traditions, but experts warn street violence, guerrilla involvement and fractured power vacuums. A negotiated transition or power-sharing, potentially granting immunity to regime figures, may curb mayhem, yet any abrupt change risks years of instability or escalation via private military contractors.",
-      "summaryTokens": 560,
-      "generatedAt": "2025-12-15T03:52:16.689Z"
+      "summary": "Declassified US war games in 2019 foreshadowed three end-of-Maduro scenarios—mass revolt, palace coup or US decapitation strike—all leading to protracted violence: military repression, rival power struggles, guerrilla attacks and deepening refugee flows. Latin America experts warn of fragmented insurgencies, ELN involvement, infrastructure sabotage and mercenary deployment if intervention occurs. Venezuelan opposition leaders, including María Corina Machado and Miguel Pizarro, dispute the inevitability of bloodshed, urging negotiated transition and limited purges, though analysts caution any post-Maduro path risks years of chaos.",
+      "summaryTokens": 615,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
     },
     {
       "id": "world/2025/dec/14/like-a-mini-louvre-two-generations-of-rothschilds-fight-over-treasure-trove-of-artworks",
@@ -77,9 +281,9 @@
       "section": "world",
       "publishedDate": "2025-12-14T06:00:54Z",
       "trailText": "Baronesses Nadine and Ariane de Rothschild at odds over the future of Swiss chateau’s priceless contents",
-      "summary": "Rothschild matriarch Nadine de Rothschild, 93, and daughter-in-law Ariane de Rothschild are locked in Swiss court over the fate of the Chateau de Pregny’s ‘mini Louvre’ art trove. Nadine says her late husband Edmond bequeathed her Louis XVI furniture, Goya, Rembrandt and other masterpieces to display in a Geneva museum foundation; Ariane insists the collection remain intact at the estate. After her son Benjamin’s 2021 death, she’s barred from the château. The dispute spans lawsuits over museum naming rights, chateau access and ownership of classified historic objects, threatening three generations of family heritage.",
-      "summaryTokens": 573,
-      "generatedAt": "2025-12-15T03:52:16.689Z"
+      "summary": "Rothschild feud over Chateau de Pregny art trove: Nadine, 93, claims her late husband Edmond bequeathed her Louis XVI furniture and paintings by Goya, Rembrandt, El Greco, Boucher within the \\\"mini Louvre\\\" to endow her Geneva museum via Edmond & Nadine de Rothschild Foundation. Daughter-in-law Ariane (60) insists the intact collection stay at the family estate. Ariane alleges Nadine is unduly influenced, invoking parallels with Liliane Bettencourt's inheritance saga. Two lawsuits: Ariane failed to bar Nadine using Edmond’s name; Nadine barred from château. Third suit battles ownership. Dispute split generations and complexities of inheritance, influence claims and museum vs private trust.",
+      "summaryTokens": 1488,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
     },
     {
       "id": "world/2025/dec/14/ukraine-war-briefing-us-envoy-to-meet-zelenskyy-europe-leaders-in-berlin",
@@ -89,9 +293,9 @@
       "section": "world",
       "publishedDate": "2025-12-14T03:08:38Z",
       "trailText": "White House official confirms Trump’s envoy Steve Witkoff will meet with Zelenskyy and European leaders this weekend.",
-      "summary": "The White House said Trump’s special envoy Steve Witkoff will meet Volodymyr Zelenskiy and European leaders in Berlin this weekend, as Germany hosts US-Ukraine ceasefire talks ahead of a Monday summit on a political peace plan. Kremlin adviser Yuri Ushakov insisted Moscow requires Ukrainian withdrawal from parts of Donetsk before a truce. Overnight Russian drone and missile strikes hit five regions, damaging energy and port infrastructure and cutting power for over a million. Odesa silos caught fire; two were wounded. Germany will send engineers to Poland’s eastern border. A Turkish vessel was struck by a Russian drone, and Belarus released 114 Ukrainian prisoners.",
-      "summaryTokens": 511,
-      "generatedAt": "2025-12-15T03:52:16.689Z"
+      "summary": "Donald Trump’s special envoy Steve Witkoff will meet President Zelenskyy and European leaders in Berlin this weekend to press for a ceasefire plan, following Germany-hosted talks. Kyiv seeks a political peace agreement as Moscow demands Ukrainian withdrawal from parts of Donetsk. Overnight Russian strikes—450 drones, 30 missiles—hit energy and ports, causing outages, a silo blaze in Odesa and wounding two. Germany will send engineers to fortify Poland’s eastern border. Polish police evacuated a threatened Kyiv-bound train. Ukraine’s navy blamed Russia for a drone attack on Turkish vessel VIVA. Belarus released 114 Ukrainian POWs.",
+      "summaryTokens": 760,
+      "generatedAt": "2025-12-16T04:35:54.501Z"
     },
     {
       "id": "world/2025/dec/13/royal-mail-postbox-antarctica-rothera-research-station",
