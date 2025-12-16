@@ -1,26 +1,278 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-15T03:50:07.254Z",
+    "generated_at": "2025-12-16T04:29:59.886Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-15"
+      "to": "2025-12-16"
     },
-    "article_count": 1775,
+    "article_count": 1794,
     "merge_info": {
-      "previous_count": 1758,
-      "new_articles": 17,
-      "updated_articles": 15,
-      "total_count": 1775
+      "previous_count": 1775,
+      "new_articles": 19,
+      "updated_articles": 17,
+      "total_count": 1794
     },
     "batch_info": {
-      "initial_batch_id": "batch_693f84f694fc819083fcb9ca0e5606de",
+      "initial_batch_id": "batch_6940deae5520819090410d1e1a85cd32",
       "retry_batches": [],
-      "total_tokens": 79067,
-      "processing_time_hours": 0
+      "total_tokens": 88896,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/16/trump-administration-latest-news-today",
+      "title": "Trump news at a glance: US president condemned over comments about Rob Reiner",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/16/trump-administration-latest-news-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/16/trump-administration-latest-news-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-16T01:15:52Z",
+      "trailText": "Lawmakers from both sides criticize ‘petty’ posts; Trump seeking $5bn in damages from BBC – key US politics stories from 15 December 2025",
+      "summary": "President Trump sparked bipartisan outrage by blaming Rob Reiner’s death on ‘Trump Derangement Syndrome’, drawing ‘vile’ condemnation from celebrities and lawmakers; he also sued the BBC for $5bn over alleged edits to his Jan 6 Capitol speech. Other top stories: green-card holder Hilda Ramirez Sanan sued ICE over ‘violent’ detention; DoJ attorneys claimed political pressure in a UC antisemitism inquiry; the Heritage Foundation appointed Christian nationalist Scott Yenor; and Gov. Newsom picked ex-CDC officials to run California’s PHNIX. Ilhan Omar said ICE stopped her son; Nancy Pelosi conceded she may never see a woman president; EU leaders backed a US-backed force for Ukraine talks.",
+      "summaryTokens": 3464,
+      "generatedAt": "2025-12-16T04:29:59.565Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/washington-state-immediate-evacuation-seattle-suburbs",
+      "title": "Washington state orders immediate evacuations in three Seattle suburbs",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/washington-state-immediate-evacuation-seattle-suburbs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/washington-state-immediate-evacuation-seattle-suburbs",
+      "section": "us-news",
+      "publishedDate": "2025-12-16T01:08:35Z",
+      "trailText": "Orders come after a levee is breached following a week of heavy rain amid a flash-flood warning",
+      "summary": "After a week of record rain from an atmospheric river, the Desimone levee on the Green River south of Seattle failed, prompting King County to order immediate evacuations east of the river in Kent, Auburn and Tukwila. The breach threatened life-threatening flash floods under an NWS warning covering 47,000 residents. Emergency crews and Washington National Guard are installing sandbags and heavy equipment to stabilize the levee until long-term repairs complete in 2031. Statewide flooding and mudslides have stranded residents, spurred helicopter rescues in Sumas and highlighted climate-driven intensification of atmospheric rivers.",
+      "summaryTokens": 953,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/brown-university-shooting-victims",
+      "title": "Rhode Island governor says officials working hard to catch Brown shooter",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/brown-university-shooting-victims",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/brown-university-shooting-victims",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T23:36:20Z",
+      "trailText": "Manhunt continues for killer of two students on campus Saturday, with suspect considered armed and dangerous",
+      "summary": "Rhode Island Gov. Daniel McKee says law enforcement is pursuing the person who killed two students and wounded nine in Saturday’s 9mm shooting inside Brown University’s engineering building during finals. Police released video and stills of a hooded person of interest, offering a $50,000 FBI reward, and stress the suspect remains armed and dangerous. Initial suspect released; manhunt continues with authorities asking for public tips. Victims include second‐year Ella Cook, a College Republicans VP, and freshman MukhammadAziz Umurzokov, an Uzbek national, while nine others are hospitalized.",
+      "summaryTokens": 993,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/california-public-health-cdc-officials",
+      "title": "Newsom appoints ex-CDC officials to lead California’s new public health network",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/california-public-health-cdc-officials",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/california-public-health-cdc-officials",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T21:40:26Z",
+      "trailText": "Dr Susan Monarez to head PHNIX, a response to Trump administration’s dismantling of public health safeguards",
+      "summary": "California Governor Gavin Newsom appointed Dr. Susan Monarez, the ousted former CDC director who clashed with HHS Secretary Robert F. Kennedy Jr. over vaccine policy, to lead the Public Health Network Innovation Exchange (PHNIX). He also named Dr. Debra Houry, ex-CDC chief medical officer who resigned after Monarez’s firing, as senior public health adviser. PHNIX will modernize California’s public health infrastructure—technology, data systems and funding—to counteract the Trump administration’s rollback of safeguards and vaccine skepticism. Both appointees testified before Congress against federal changes. Newsom positions PHNIX as a science-driven model for state, national and global public health.",
+      "summaryTokens": 2166,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/rob-reiner-death-reactions-los-angeles-hollywood",
+      "title": "From Hollywood to Brentwood, LA mourns beloved director Rob Reiner",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/rob-reiner-death-reactions-los-angeles-hollywood",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/rob-reiner-death-reactions-los-angeles-hollywood",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T20:50:28Z",
+      "trailText": "Fans pay tribute to When Harry Met Sally and The Princess Bride film-maker and his wife after apparent homicide",
+      "summary": "Los Angeles mourned veteran director Rob Reiner and his wife Michele after their apparent homicide and their son’s arrest, as fans gathered at Reiner’s Hollywood Walk of Fame star. Celebrated for hits from When Harry Met Sally and The Princess Bride to Stand By Me and This Is Spinal Tap, Reiner also starred in All in the Family. Admirers recalled his pioneering sitcom work, marriage-equality activism—co-founding the legal challenge to Proposition 8—and outspoken criticism of Trump. Michele Reiner, a longtime collaborator on films and co-founder of the I Am Your Child early development initiative, was remembered alongside him for her photography, producing and philanthropy.",
+      "summaryTokens": 957,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/university-of-california-antisemitism-investigation",
+      "title": "Lawyers accuse DoJ of political pressure in University of California antisemitism investigation",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/university-of-california-antisemitism-investigation",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/university-of-california-antisemitism-investigation",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T20:44:14Z",
+      "trailText": "Attorneys who eventually quit tell LA Times they were pushed to conclude university system had violated law",
+      "summary": "Nine DOJ civil-rights lawyers, some anonymously, told the LA Times they were pressured by Trump-appointed officials to conclude University of California campuses unlawfully discriminated against Jewish students and faculty amid pro-Palestinian Gaza protests, prompting all to resign. The rushed probe, described as a “hit job,” formed part of a broader Trump administration crackdown threatening to withhold over $500 million in research grants and levy billion-dollar fines. A federal judge recently blocked these funding cuts, ruling the investigations politically motivated. Though DOJ’s civil-rights division cited antisemitic incidents and oversaw a $6.5 million UCLA settlement, attorneys called the case fraught and weak.",
+      "summaryTokens": 1217,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/trump-rob-reiner-reaction-truth-social",
+      "title": "Trump’s post on Rob Reiner sparks outrage from lawmakers and celebrities",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/trump-rob-reiner-reaction-truth-social",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/trump-rob-reiner-reaction-truth-social",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T19:21:06Z",
+      "trailText": "President’s statement blaming acclaimed director’s death on his dislike of him described as ‘disgusting’ and ‘vile’",
+      "summary": "In a Truth Social post, President Trump blamed acclaimed director Rob Reiner’s and wife Michele’s deaths on the director’s “Trump Derangement Syndrome,” calling Reiner “tortured” and obsessed before praising his own record. LA police arrested their 32-year-old son Nick on suspicion of murder. Outrage swept both parties: celebrities Patrick Schwarzenegger and Whoopi Goldberg decried the remarks as “vile”; Democrats Gavin Newsom, Maxwell Frost, Chris Murphy, Zoe Lofgren, and Republicans Marjorie Taylor Greene and Thomas Massie condemned Trump’s comments as inappropriate, petty and shameless.",
+      "summaryTokens": 1512,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/us-news-stories-hope-happiness",
+      "title": "People in the US: what news story brought you hope or happiness in 2025?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/us-news-stories-hope-happiness",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/us-news-stories-hope-happiness",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T18:13:01Z",
+      "trailText": "We want to hear from people about the news moments that were a ray of light in among the more difficult headlines and bad news stories",
+      "summary": "A Guardian US call-out inviting Americans to share the news moments in 2025 that served as rays of light amid a backdrop of crises—political turmoil, climate disasters and economic pressures. Readers are asked to recount the stories that lifted their mood—scientific breakthroughs, environmental successes, community initiatives or cultural celebrations—and nominate their favorite positive news story of the year. Submissions are collected via an online form, with links to terms of service and privacy policy. The piece crowdsources reflections on hope and happiness in 2025.",
+      "summaryTokens": 1553,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/ice-lawsuit-violent-assault",
+      "title": "US green card holder sues ICE over claims of ‘violent assault’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/ice-lawsuit-violent-assault",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/ice-lawsuit-violent-assault",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T17:42:32Z",
+      "trailText": "Hilda Ramirez Sanan and her two US citizen children were ‘illegally and forcefully detained’, the lawsuit alleges",
+      "summary": "Hilda Ramirez Sanan, a green card holder, and her two US citizen children, including a 13-year-old on the autism spectrum, allege ICE agents in unmarked vehicles surrounded their car outside a Chelsea, Massachusetts courthouse on Sept 26. Without identifying themselves or showing a warrant, officers smashed windows with a sharp tool, injuring them with glass, twisted Sanan’s arms to handcuff her, kicked and slammed her to the ground, and yanked her son from his seatbelt, questioning and threatening him. All were hospitalized with a concussion, bruising and nerve damage. Lawyers for Civil Rights filed a $1m suit, decrying the unlawful, brutal detention; ICE has not responded.",
+      "summaryTokens": 1731,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/kash-patel-brown-shooting-suspect",
+      "title": "Kash Patel faces criticism for touting FBI’s work tracking down suspect prematurely",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/kash-patel-brown-shooting-suspect",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/kash-patel-brown-shooting-suspect",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T17:09:38Z",
+      "trailText": "FBI director said his agency helped detain ‘person of interest’ in Brown shooting – who was released hours later",
+      "summary": "Kash Patel, FBI director, is under fire after prematurely tweeting that agents detained a person of interest in the Brown University shooting, who was released hours later and with the true shooter still at large. Rhode Island AG Peter Neronha said the tip didn’t justify detention. Critics from across the spectrum—MeidasTouch’s Ron Filipkowski, commentator Adam Cochran, author Don Winslow—blast Patel as rash and incompetent. He previously made the same error claiming a suspect was in custody after the Charlie Kirk campus shooting. Former agents describe the bureau under his leadership as ‘rudderless’ with plummeting morale, dubbing him ‘Keystone Kash’.",
+      "summaryTokens": 1650,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/pennsylvania-bucks-county-sheriff-race",
+      "title": "Democrat on ousting Republican in Pennsylvania’s ’swingiest’ county: ‘Partnering with ICE is a losing proposition’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/pennsylvania-bucks-county-sheriff-race",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/pennsylvania-bucks-county-sheriff-race",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T17:00:57Z",
+      "trailText": "Danny Ceisler’s defeat in sheriff’s race of incumbent who had signed an agreement to work with ICE sends a message on US’s contentious debate around immigration policy",
+      "summary": "Bucks County, PA, a pivotal swing district, unseated Republican Sheriff Frederick Harran—who had signed a controversial 287(g) ICE partnership—when Democrat Danny Ceisler, a 33-year-old army veteran and former Shapiro aide, won by 11% (23,000 votes). Ceisler campaigned on ending local immigration enforcement, arguing it undermined public safety and terrorized immigrant communities. His victory, alongside the county’s first Democratic district attorney since 1965 and gains on the school board, reflects a backlash against Trump-style ICE collaborations and culture-war fatigue.",
+      "summaryTokens": 945,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/alaska-overdose-deaths-federal-cuts",
+      "title": "Looming federal cuts could devastate Alaska’s fight against overdose deaths",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/alaska-overdose-deaths-federal-cuts",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/alaska-overdose-deaths-federal-cuts",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T16:00:56Z",
+      "trailText": "Law enforcement and public health experts worry that potential cuts to resources that save lives and stop the flow of drugs into the state could raise overdose deaths",
+      "summary": "Alaska faces rising overdose fatalities, driven by fentanyl, at odds with national declines. The Trump administration’s proposed 2026 budget would slash Alaska’s HIDTA funding by 35% (over $100m), crippling drug interdiction in a state with vast, remote territories and only 27 troopers dedicated to drug enforcement. Simultaneously, Medicaid cuts and work requirements threaten access to addiction treatment just as new inpatient and recovery facilities expand. Law enforcement, public health leaders and bereaved families urge Senators Murkowski and Sullivan to protect HIDTA and Medicaid funding or risk devastating rural communities.",
+      "summaryTokens": 1058,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/ilhan-omar-son-ice-minnesota",
+      "title": "Congresswoman Ilhan Omar says ICE agents pulled over her son in Minnesota",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/ilhan-omar-son-ice-minnesota",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/ilhan-omar-son-ice-minnesota",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T15:38:29Z",
+      "trailText": "Representative says her son was let go once he showed ID as Trump ramps up operation targeting Somali population in Minneapolis",
+      "summary": "Representative Ilhan Omar reported that over the weekend in Minneapolis, ICE agents pulled over her teenage son after a Target stop. They released him when he produced his passport. Omar, the first Somali American congresswoman, warned they are racially profiling young men who appear Somali in areas covered by \"Operation Metro Surge,\" ordered by President Trump to target Minnesota's Somali community. She said agents also entered his mosque and accused the surge of \"blatant racial profiling\" and excessive force in a letter to DHS and ICE leaders.",
+      "summaryTokens": 1297,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
+      "title": "Brown University shooting: what we know so far about the attack in Providence, Rhode Island",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T15:22:30Z",
+      "trailText": "A person who was taken into custody after two people were killed and several more critically injured was later released",
+      "summary": "On Dec 14, a gunman in black opened fire during exams in Brown’s Barus & Holley Engineering building in Providence, killing two students—second-year Ella Cook and first-year MukhammadAziz Umurzokov—and wounding nine others, eight critically. Police briefly detained a person of interest, released without charges as the probe shifted focus; two firearms were recovered from a nearby hotel. University canceled remaining finals; shelter-in-place lifted. Investigators used cell data to trace the suspect, FBI Director Kash Patel said. President Trump paid respects to victims and wished the injured a speedy recovery.",
+      "summaryTokens": 1524,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/heritage-foundation-thinktank-scott-yenor",
+      "title": "‘Just disgraceful’: outcry as Heritage thinktank appoints far-right figure to key post",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/heritage-foundation-thinktank-scott-yenor",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/heritage-foundation-thinktank-scott-yenor",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T15:00:56Z",
+      "trailText": "Scott Yenor, who has offered views on women, marriage and LGBTQ+ rights, helped to found secretive fraternal order",
+      "summary": "The Heritage Foundation has named Scott Yenor—founder of a secretive all-male Christian nationalist network—as director of its B. Kenneth Simon Center. Yenor has publicly called to outlaw adultery, homosexuality, no-fault divorce and abortion, link homosexuality to pedophilia, and roll back Civil Rights Act sex-discrimination protections. His past controversies include resigning from Florida’s university board over sexist views and co-founding the Society for American Civic Renewal. Critics say the hire underscores Heritage’s shift toward far-right radicalism amid antisemitism scandals.",
+      "summaryTokens": 419,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/trump-agencies-style-social-media",
+      "title": "‘Virality, rumors and lies’: US federal agencies mimic Trump on social media",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/trump-agencies-style-social-media",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/trump-agencies-style-social-media",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T13:00:02Z",
+      "trailText": "Variety of agencies now deliberately provocative on social media, further inflaming discourse on serious issues",
+      "summary": "Since Trump’s first term, federal agencies like ICE, DHS, the White House and Defense have adopted his incendiary social media style—memes, ASMR videos, holiday graphics mocking migrants (“YOU’RE GOING HO HO HOME”)—to publicize deportations and security policies. Academics warn this state-sponsored “rage bait” and disinformation echoes authoritarian propaganda, dehumanizes immigrants, exploits algorithms and polarizes debate. Critics decry the co-option of Christmas imagery and unverified claims of criminality, while the administration defends using “every tool” to inform the public. EU and German laws meanwhile curb hate speech online.",
+      "summaryTokens": 874,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/brown-university-shooting-latest",
+      "title": "Brown University shooting: authorities say they released sole person of interest ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/brown-university-shooting-latest",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T12:40:00Z",
+      "trailText": "At least two people were killed and nine others injured in Saturday attack that occurred in engineering building on Providence, Rhode Island campus",
+      "summary": "A mass shooting during a final-exam review in Brown University’s engineering building left two students dead and nine wounded Saturday. Authorities detained and then released their sole person of interest after finding no link to the attack. The Rhode Island AG and FBI have launched a renewed canvass of campus and neighborhood CCTV, plus cell-geolocation sweeps, to identify the shooter. One victim remains critical; seven are stable. Brown canceled all remaining classes and exams, heightened campus security, and lifted a shelter-in-place at dawn. Local leaders and national lawmakers renewed calls for stricter US gun laws.",
+      "summaryTokens": 287,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/us-librarianbook-bans-lgbtq-rights",
+      "title": "US librarians tackle ‘manufactured crisis’ of book bans to protect LGBTQ+ rights",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/us-librarianbook-bans-lgbtq-rights",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/us-librarianbook-bans-lgbtq-rights",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T12:00:11Z",
+      "trailText": "In at least half a dozen states, librarians have joined forces with civil rights groups to oppose book bans, often facing personal and professional repercussions",
+      "summary": "In Texas, former county librarian Rhea Young was fired after refusing to relocate LGBTQ+ and sex-ed books, prompting a wrongful-termination suit. In Wyoming, Terri Lesley won a $700K settlement after defying orders to remove queer-inclusive titles. Librarians in at least six states, backed by civil-rights groups and the ACLU, are challenging over 821 book bans and more than 130 restrictive bills, calling it a “manufactured crisis.” Legal battles from South Carolina to California—and laws like the Freedom to Read Act—underscore grassroots defense of free speech and LGBTQ+ rights.",
+      "summaryTokens": 871,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/foreign-farm-workers-trump-immigration",
+      "title": "A hurricane destroyed their homes in Jamaica. Now they fear losing the jobs they rely on in the US",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/foreign-farm-workers-trump-immigration",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/foreign-farm-workers-trump-immigration",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T12:00:05Z",
+      "trailText": "Thousands of Jamaican workers who come to the US on an H-2A visa say they aren’t sure if they’ll be able to return from one year to the next",
+      "summary": "In October record Category 5 Hurricane Melissa devastated Black River, Jamaica, destroying homes and displacing families. Jamaican H-2A visa farmworkers (approx 5k annually) in upstate New York, including Owen Salmon, fear losing jobs after employers threaten non-rehire and cite US recruitment rules. Wafler and Cahoon Farms deny abuses. With United Farm Workers support they unionized in 2022 and won a New York court ruling. Their labor underpins an industry that issued over 380k H-2A visas last year (15% of the US ag workforce). Amid soaring rebuilding costs and price gouging, remittances and job security hang in the balance.",
+      "summaryTokens": 1525,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/first-thing-father-and-son-allegedly-used-licensed-firearms-in-bondi-beach-terror-attack",
+      "title": "Father and son allegedly used licensed firearms in Bondi beach terror attack | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/first-thing-father-and-son-allegedly-used-licensed-firearms-in-bondi-beach-terror-attack",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/first-thing-father-and-son-allegedly-used-licensed-firearms-in-bondi-beach-terror-attack",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T11:13:27Z",
+      "trailText": "One alleged shooter was known previously to security agencies, the Australian PM said. Plus, what we know about the Assad family’s new life after fleeing Syria last year",
+      "summary": "Guardian’s First Thing on Dec 15 reports 15 dead, dozens injured after licensed firearms used by a father–son duo in Bondi terror attack; the younger suspect was monitored by security agencies in 2019, and NSW pledges gun-law reforms. Other headlines: LA homicide probe into Rob Reiner’s death; Brown University releases sole person of interest; Ukraine may drop NATO bid; Pelosi on the marble ceiling; Jimmy Lai faces life for sedition; Trump’s DC arch plan; Obamacare premiums to soar; NYC vendors vs ICE; Assad family’s Moscow exile; climate-worsened atmospheric rivers inundate Pacific NW; matcha stains drive detergent tweaks.",
+      "summaryTokens": 1151,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
+    {
+      "id": "us-news/2025/dec/15/nancy-pelosi-female-president",
+      "title": "Nancy Pelosi calls female US president in her lifetime unlikely: ‘Marble ceiling’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/15/nancy-pelosi-female-president",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/15/nancy-pelosi-female-president",
+      "section": "us-news",
+      "publishedDate": "2025-12-15T10:00:29Z",
+      "trailText": "Former House speaker, 85, expects woman to assume Oval Office this generation but concedes she may not live to see it",
+      "summary": "Nancy Pelosi, 85, warns that a woman may not reach the US presidency in her lifetime, invoking a “marble ceiling” after Hillary Clinton’s 2016 and Kamala Harris’s 2024 defeats by Donald Trump. While she predicts a female president within the next generation, Pelosi—retiring in January 2027 after four decades and two stints as House speaker—blamed institutional resistance. She echoed Michelle Obama’s “we ain’t ready” warning and noted Harris’s lead in early 2028 Democratic polls. Pelosi also revealed an estrangement from Joe Biden after advising him to end his 2024 campaign.",
+      "summaryTokens": 1191,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
+    },
     {
       "id": "us-news/2025/dec/15/trump-news-at-a-glance-president-pays-tribute-to-brown-university-shooting-victims-amid-calls-for-gun-control",
       "title": "Trump news at a glance: president pays tribute to Brown University shooting victims amid calls for gun control",
@@ -29,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-15T00:44:47Z",
       "trailText": "Donald Trump addressed shooting as politicians urged action to improve gun controls – key US politics stories from Sunday at a glance",
-      "summary": "At a White House reception, President Trump paid respects to two killed and nine injured in the Brown University shooting—part of at least 389 US mass shootings this year—renewing calls for stricter gun control from Senator Chris Murphy. Authorities detained a person of interest in their 20s. Also: experts caution on AI healthcare incentives in Trump’s \"big, beautiful\" bill; Joe Manchin urges de-escalation amid political violence; Trump’s domestic policy chief targets a DC triumphal arch; immigration enforcement forced US-born teens to assume parental roles; journalists of color face layoffs amid anti-DEI push.",
-      "summaryTokens": 1999,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "President Trump at a White House holiday reception offered condolences for the Brown University shooting that killed two and injured nine, praising the campus while acknowledging tragedy at one of the nation’s top schools. The attack, the 389th US mass shooting this year, has renewed calls for federal gun control, with Sen. Chris Murphy drawing parallels to Sandy Hook. Providence police have detained a person of interest in their 20s, though officials have given few details.",
+      "summaryTokens": 856,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/trump-arch-washington-dc-policy-chief",
@@ -41,21 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T22:46:32Z",
       "trailText": "Trump praises Vince Haley, his ex-speechwriter tasked with creating Arc de Triomphe knockoff amid affordability crisis",
-      "summary": "At a White House holiday party, President Donald Trump praised Domestic Policy Council chief Vince Haley, his ex-speechwriter, announcing Haley’s primary assignment: spearheading construction of a triumphal arch on Arlington Bridge opposite the Lincoln Memorial. Trump dubbed it an “Arc de Triomphe” rival, claiming it will “blow away” Paris’s monument. He mixed French and English, referencing Jefferson, Washington and Lincoln as inspirations for the design. The announcement drew criticism as health insurance premiums are set to spike for 20 million Americans and affordability concerns persist amid tariffs. Many view the arch project as misplaced amid pressing economic hardships.",
-      "summaryTokens": 1452,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
-    },
-    {
-      "id": "us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
-      "title": "Brown University shooting: what we know so far about the attack in Providence, Rhode Island",
-      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
-      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island",
-      "section": "us-news",
-      "publishedDate": "2025-12-14T21:09:35Z",
-      "trailText": "A person is in custody after two people were killed and several more critically injured",
-      "summary": "On Dec 14 in Providence, RI, a shooter in black opened fire at Brown University's Barus and Holley building, killing two students and wounding nine others during final exams. Eight wounded were hospitalized, seven in critical but stable condition and one remains critical; one victim was released. Authorities remain tight-lipped about victims' identities; one suspect in their 20s was arrested nearby at a Coventry hotel using cellphone data, where two handguns were seized. A shelter-in-place was lifted on Sunday morning. Brown canceled remaining semester assessments. President Trump and local officials praised first responders and offered condolences.",
-      "summaryTokens": 1779,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Trump revealed at a White House party that his domestic policy chief, ex-speechwriter Vince Haley, is focused on building a Paris-style triumphal arch near the Arlington Bridge opposite the Lincoln Memorial. Praising Haley’s enthusiasm, Trump claimed the new monument would surpass Paris’s Arc de Triomphe. Critics note the project’s prominence contrasts with growing affordability concerns—tariffs driving up consumer costs and looming spikes in health insurance premiums for over 20 million Americans.",
+      "summaryTokens": 774,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/healthcare-subsidies-obamacare-tax-credit",
@@ -65,21 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T18:41:09Z",
       "trailText": "Senator Bill Cassidy urges collaboration between Democrats and his party after Senate rejected dual healthcare bills",
-      "summary": "Senator Bill Cassidy said a bipartisan “deal can be had” on healthcare after the Senate rejected both Democratic and Republican bids to renew expiring ACA premium tax credits and address soaring deductibles. Democrats backed a three-year extension of enhanced credits; Cassidy and Republican colleague Mike Crapo proposed depositing $1,000 into health savings accounts for bronze/catastrophic plans (plus $500 more for ages 50–64), with abortion and gender-care restrictions. Cassidy signaled willingness to accept a short-term premium credit extension if Republicans tackle $6,000 out-of-pocket deductibles, aiming to preserve subsidies for 22 million Americans.",
-      "summaryTokens": 492,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
-    },
-    {
-      "id": "us-news/2025/dec/14/brown-university-shooting-latest",
-      "title": "Person of interest detained in Brown University shooting that left two dead",
-      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-latest",
-      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/brown-university-shooting-latest",
-      "section": "us-news",
-      "publishedDate": "2025-12-14T18:06:47Z",
-      "trailText": "Nine others injured in Saturday attack that occurred during finals in engineering building in Providence, Rhode Island",
-      "summary": "Police have detained Benjamin Erickson, 24, a former US Army infantryman (May 2021–Nov 2024) and transfer student at Brown, as person of interest in the Dec. 14 engineering building shooting that killed two and wounded nine during finals. Arrested in Coventry via FBI cellular analysis, Erickson may face charges. Officers recovered a small Glock and revolver. Among the wounded is recent graduate Kendall Turner (critical) and first-year Spencer Yang (leg injury). Brown canceled classes for the semester, lifted its shelter-in-place order at 5:42 am Sunday, and maintains limited campus access. The incident has reignited national gun control debates.",
-      "summaryTokens": 1211,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Senator Bill Cassidy, chair of the Senate healthcare committee, said bipartisan cooperation remains possible after senators rejected both Democratic and Republican cost-containment bills and as soon-to-expire ACA premium tax credits threaten 22 million Americans. Democrats sought a three-year renewal; Cassidy’s GOP plan would deposit $1,000 in HSAs for ACA bronze or catastrophic enrollees (plus $500 for ages 50–64), with limits on abortion and gender-affirming care. He’s open to a short-term tax-credit extension if lawmakers agree to address high $6,000 deductibles, signaling hope for a compromise.",
+      "summaryTokens": 490,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/joe-manchin-erika-kirk-political-violence",
@@ -89,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T17:43:39Z",
       "trailText": "Former senator’s comments echo recent call from Erika Kirk that ‘everyone has responsibility’ to tone down hatred",
-      "summary": "Former West Virginia senator Joe Manchin, now an independent, urged lawmakers to abandon ‘attack mode’ and tone down the heated rhetoric fueling political violence, echoing Erika Kirk after her husband Charlie Kirk’s September shooting. Speaking on WABC, Manchin called for Democrats and Republicans to free themselves from the far left and right and form a ‘sensible majority.’ His plea follows warnings from Erika Kirk and Senator Rand Paul about rising tensions over extremism, redistricting battles and recent attacks on political figures.",
-      "summaryTokens": 786,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Former senator Joe Manchin on WABC called on lawmakers to abandon “attack mode,” urging Democrats and Republicans to cool rhetoric and form a “sensible majority” free of far-left and far-right influences. His appeal echoes Erika Kirk’s town-hall plea after her husband Charlie Kirk’s September killing. Manchin stressed civil disagreement—“you are not the enemy”—and warned that intense partisanship risks fueling recent political violence in the US, which has included two assassination attempts on Donald Trump, a firebombing at Gov. Josh Shapiro’s residence and the murders of Charlie Kirk and ex-Minnesota speaker Melissa Hortman. Republican Sen. Rand Paul also cautioned that aggressive redistricting could heighten tensions before 2026.",
+      "summaryTokens": 580,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/aca-obamacare-expires",
@@ -101,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T17:00:07Z",
       "trailText": "End of subsidies after failed legislation will have serious and damaging impact on entire sector, policy experts say",
-      "summary": "Experts warn that ACA subsidies ending will more than double average premiums from $888 to $1,904 in 2026, prompting a third of marketplace enrollees to shift to high-deductible plans and a quarter to go uninsured. This “death spiral”—as healthier people exit, leaving sicker pools—threatens insurer viability, raises uncompensated care costs, and could force rural hospitals to close or hike prices, impacting all insured patients. Despite 5.7 million enrollments so far, legislators failed to extend credits, even though over half of enrollees live in GOP districts reliant on ACA coverage.",
-      "summaryTokens": 549,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "With ACA subsidies set to expire after a failed Senate vote, average marketplace premiums could more than double from $888 to $1,904 in 2026, prompting a third of enrollees to shift to lower-premium, high-deductible plans and a quarter to drop coverage. Experts warn this adverse selection will trigger a “death spiral,” raising costs further as healthier consumers exit. Rural hospitals, already reliant on ACA patients, face rising uncompensated care and potential closures or price hikes affecting employer-insured Americans. Despite 5.7 million sign-ups to date, analysts caution the true impact will emerge after Jan. 15 when first premiums are due.",
+      "summaryTokens": 623,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/times-square-new-york-bar-jimmys-corner",
@@ -113,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T15:00:05Z",
       "trailText": "With cheap drinks and friendly locals, Jimmy’s Corner is a New York institution. But a real-estate developer has ordered its closure – can it survive?",
-      "summary": "Jimmy's Corner, a dive bar founded by ex-boxer Jimmy Glenn in 1971, has survived Times Square's transformation with unchanged decor, $3 beers and a tight-knit crowd. After Jimmy's 2020 death, his son Adam inherited the bar but now faces eviction by landlord Durst Organization, which asserts lease rights and claims it offered favorable rent and a $250k buyout. Adam alleges his father was tricked into an eviction clause and has sued. Regulars lament the potential loss of this no-frills, community hub where tourists, locals and boxing lore collide. If forced out, Adam plans to reopen elsewhere, preserving Jimmy's spirit and pricing.",
-      "summaryTokens": 2226,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Founded in 1971 by former boxer Jimmy Glenn, Jimmy’s Corner in Times Square has defied gentrification with $3 pints, vintage décor and locals-plus-tourists drawn to its intimate, wifi-free dive atmosphere. After Jimmy’s 2020 death, landlord Durst Organization invoked a contested lease clause to evict owner Adam Glenn, who has filed suit alleging the terms were exploitative. Regulars warn losing this “landmark” means erasing New York history. Glenn aims to reopen elsewhere, preserving the bar’s low prices and community spirit if forced out.",
+      "summaryTokens": 1246,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/fbi-most-wanted-list-true-crime-tv-producer",
@@ -125,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T14:57:20Z",
       "trailText": "Agency added Mary Carole McDonnell to Most Wanted list for loan fraud tied to phony heiress story",
-      "summary": "Mary Carole McDonnell, founder of Bellum Entertainment and producer of Murderous Affairs, was added to the FBI’s Most Wanted list for alleged bank fraud and identity theft in California’s central district. Between 2016 and 2018 she posed as a McDonnell Aircraft heiress, submitted bogus documents claiming $28 million in collateral and an $80 million trust, and secured at least $15 million in bridge loans—part of nearly $30 million she swindled before defaulting and fleeing, reportedly to Dubai. Her company’s collapse left dozens of crew and contractors—like showrunner Nigel Bellis and office manager Stephanie Manos—owed hundreds of thousands in back pay and relocation costs, with slim prospects for repayment.",
-      "summaryTokens": 642,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Mary Carole McDonnell, 73, former Bellum Entertainment founder and prolific true-crime TV producer responsible for 50-plus episodes of Murderous Affairs, was added to the FBI’s Most Wanted list for federal bank fraud and identity theft. Posing as a McDonnell Aircraft heiress with false documents—$28m deposit, $80m trust—she secured a $15m bridge loan from Banc of California, defaulting and allegedly scamming nearly $30m total from multiple banks. Indicted in 2018, believed hiding in Dubai, she left staff like showrunner Nigel Bellis and office manager Stephanie Manos with half-million-dollar claims, unpaid back pay and ruined careers. FBI urges public tips for extradition and asset recovery.",
+      "summaryTokens": 1158,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/los-angeles-wildfires-rebuilding",
@@ -137,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T14:00:08Z",
       "trailText": "As LA’s mayor touted a developer’s model home, residents of Altadena and Pacific Palisades wrangle for insurance payouts",
-      "summary": "Nearly a year after the Pacific Palisades and Altadena wildfires destroyed 7,000 structures and killed 31 people, Mayor Bass’s celebratory unveiling of a Thomas James Homes model in Pacific Palisades proved hollow for displaced residents. The four-bed, 4,000 sq ft house was a developer showcase, not a homeowner rebuild, underscoring frustrations over slow insurance payouts, complex permitting, expiring relief and just 390 active builds versus thousands lost. Local advocates and UCLA planners warn of a patchwork recovery lacking a dedicated rebuilding authority or cohesive climate-resilient strategy. Residents like 30-year Palisadean Jaimie Geller fear true restoration could stretch into decades.",
-      "summaryTokens": 1150,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "It feels endless: despite Mayor Bass heralding a newly built 4,000 sq ft Thomas James Homes model as the first post-wildfire recovery milestone, Pacific Palisades and Altadena survivors say it’s not a true fire rebuild. Nearly a year after blazes leveled 7,000 structures and killed 31 people, residents still wrestle with stalled insurance payouts, complex permits and expiring relief. While 340 homes are under construction and 750 rebuild plans approved, advocacy group Pali Builds and UCLA urban planners call for a dedicated rebuilding authority and resilient planning, warning full community restoration could take decades.",
+      "summaryTokens": 553,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/journalists-of-color-layoffs",
@@ -149,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T13:00:03Z",
       "trailText": "Black and brown former employees from CBS, NBC and Teen Vogue talk about the effects of being let go",
-      "summary": "In recent rounds of CBS News, NBCUniversal and Teen Vogue layoffs tied to Paramount-Skydance and Versant Media restructurings, Black and brown journalists—particularly on CBS Evening News Plus, NBC’s specialized verticals (BLK, Latino, Asian America, Out) and Teen Vogue—were disproportionately cut while white colleagues were reassigned. Sources link the pattern to Trump’s anti-DEI executive orders, FCC rollbacks of diversity efforts and corporate mergers. Industry diversity targets (2025 ASNE pledge) remain unmet amid white overrepresentation. Affected staffers are exploring legal action and founding the Black Media Caucus to launch new outlets centering marginalized voices.",
-      "summaryTokens": 560,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "At CBS, NBC and Teen Vogue, recent rounds of corporate restructuring and Trump-era directives curbing DEI saw journalists of color disproportionately laid off while white colleagues retained or reassigned. At CBS Evening News Plus, all four producers of color were axed vs five white peers reassigned; NBC shuttered dedicated Black, Latino, Asian American and LGBTQ vertical teams; Teen Vogue was folded into Vogue. Industry insiders cite FCC’s rollback of DEI and Trump’s anti-diversity orders. Affected staff are exploring legal action and launching independent outlets like the Black Media Caucus.",
+      "summaryTokens": 795,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/trump-healthcare-ai",
@@ -161,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T12:00:04Z",
       "trailText": "Analysts say benefits could be felt in under-resourced rural hospitals but warn against AI as a cost-cutting measure",
-      "summary": "Trump’s new $50bn Rural Health Transformation Fund, part of his “big beautiful” bill requiring AI integration in healthcare, aims to boost under-resourced rural hospitals via remote monitoring, robotics and AI. Experts note this won’t offset an estimated $911bn Medicaid cut over 10 years. AI could reduce physician administrative burdens and attract staff but raises quality, regulatory and cybersecurity risks. A recent study found AI-generated patient notes match general physicians but lag experts, and while the FDA oversees diagnostic AI, unregulated transcription tools often claim HIPAA compliance. Researchers stress the need for upskilling, robust safety infrastructure and caution against adopting AI solely as a cost-cutting measure.",
-      "summaryTokens": 1719,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Under the Trump administration’s “big bill,” states can tap a $50 bn Rural Health Transformation Fund over five years by meeting criteria such as integrating AI in healthcare. Experts say AI could ease staffing and administrative burdens in under-resourced rural hospitals—e.g., automating patient notes and remote monitoring—but warn the funding barely offsets $911 bn in projected Medicaid cuts. They urge balanced implementation, stronger regulation for diagnostic and note-taking tools, cybersecurity safeguards, and workforce upskilling to prevent cost-cutting compromises.",
+      "summaryTokens": 597,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/gaza-rebuild-us-contractors",
@@ -173,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T11:00:03Z",
       "trailText": "Exclusive: group behind notorious Florida immigration detention center created bid for reconstruction deal",
-      "summary": "Well-connected Republican firms and Trump insiders are scrambling to secure lucrative $70bn Gaza reconstruction and aid contracts ahead of official Board of Peace rollout. A White House taskforce led by Jared Kushner includes ex-Doge advisers Joshua Gruenbaum and Adam Hoffman, who circulated sensitive plans for a Gaza Supply System Logistics Architecture, proposing a master contractor model charging $2k to $12k per truckload to gross $1.7bn annually. Gothams LLC, operator of Florida’s “Alligator Alcatraz” detention center, emerged as frontrunner but founder Matt Michelsen withdrew citing security and PR concerns. US regulators and Israel control final approvals.",
-      "summaryTokens": 815,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Trump-endorsed Board of Peace and a parallel White House Gaza taskforce led by Jared Kushner, Steve Witkoff and Aryeh Lightstone are jockeying to award lucrative reconstruction contracts in Gaza. Two former Doge officials have circulated a “Gaza Supply System Logistics Architecture” proposing a $1.7 billion-a-year “master contractor” model charging fees of $2,000 per humanitarian truck and $12,000 per commercial load. Politically connected Gothams LLC—operator of Florida’s “Alligator Alcatraz” detention center—emerged as frontrunner but has since pulled out after scrutiny.",
+      "summaryTokens": 427,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/labor-movement-union-trump-nlrb",
@@ -185,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T11:00:02Z",
       "trailText": "National Labor Relations Board, the federal watchdog for workers’ rights, has been rendered toothless as employees grapple with corporations",
-      "summary": "Workers at Philly Whole Foods formed the first union at the Amazon-owned chain, only to see momentum stall after Trump fired NLRB board member Gwynne Wilcox and denied the agency quorum. With just six rulings issued versus 150 last year, cases like Whole Foods’ unresolved objection sit in limbo as staff numbers, morale and enforcement capacity dwindle. A Fifth Circuit ruling brands the NLRB unconstitutional in a SpaceX lawsuit, blocking labor cases. Trump’s pending nominees could restore quorum but also roll back Biden-era pro-worker policies. States like California and New York are stepping in with their own labor laws.",
-      "summaryTokens": 935,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Philadelphia Whole Foods workers won a union vote but can’t be certified after Trump fired an NLRB member, knocking out the board’s quorum. The NLRB under Trump has issued just six rulings in 11 months vs 150 in 2024, demoralizing staff and delaying cases. An appeals court has blocked enforcement in a SpaceX challenge. Trump’s nominees could restore quorum, but the administration has rescinded Biden-era pro-labor policies. States like California and New York are stepping in. The supreme court is poised to decide on the NLRB’s independence.",
+      "summaryTokens": 992,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/two-survivors-of-brown-university-attack-escaped-other-school-shootings",
@@ -197,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T10:39:44Z",
       "trailText": "Mia Tretta was shot in the abdomen in 2019 at a school near LA and Zoe Weissman witnessed a Florida shooting in 2018",
-      "summary": "Two Brown University students, Mia Tretta (21) and Zoe Weissman (20), were among those hiding under desks during a fatal final-exam shooting that killed two and wounded nine. Tretta had been shot in the abdomen in the 2019 Saugus High School attack near Los Angeles that killed two, including her best friend, and Weissman was 12 when she witnessed the 2018 Parkland massacre that left 17 dead. Both expressed anger at enduring two school shootings and frustration with US gun laws as 389 mass shootings this year underscore growing violence. Hundreds of officers searched campus as the suspect remained at large.",
-      "summaryTokens": 881,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "During a Dec. 14 shooting at Brown University that killed two and wounded nine, students Mia Tretta, 21, and Zoe Weissman, 20, found themselves reliving past traumas: Tretta had been shot in the abdomen in the 2019 Saugus High School attack that killed two, including her best friend, and Weissman witnessed the 2018 Parkland shooting at her middle-high school in Florida that left 17 dead. Both, caught off-guard in their dorms, expressed anger and disbelief that they had survived two campus shootings. Their experiences underscore mounting calls for stricter U.S. gun laws amid 389 mass shootings so far this year.",
+      "summaryTokens": 765,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/indiana-doordasher-pepper-spray",
@@ -209,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T10:00:04Z",
       "trailText": "Kourtney Stevenson was allegedly caught on camera spraying meal with chemical that later sickened customers",
-      "summary": "A 29-year-old DoorDash courier in Indiana, Kourtney Stevenson, was arrested on Dec. 7 in Vanderburgh County and charged with felony battery and consumer product tampering after surveillance footage allegedly showed her using pepper spray on a late-night meal delivered to a married couple. The victims suffered vomiting and burning in mouth, nose, throat and stomach. Stevenson claimed she sprayed to kill a spider, but detectives noted 35°F made spiders inactive. DoorDash permanently banned her and is cooperating with authorities. She’s being held without bail in Kentucky pending extradition. The case raises food-delivery safety concerns.",
-      "summaryTokens": 1060,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "Kourtney Stevenson, 29, a DoorDash driver in Indiana, was arrested for allegedly pepper-spraying a customer’s meal in view of a doorbell camera, sickening a married couple who later vomited and experienced burning sensations. Charged with felony battery and consumer product tampering, Stevenson claimed she targeted a spider—not food—though investigators noted 35°F would immobilize spiders. DoorDash permanently banned her and is cooperating with authorities. Sheriff’s investigators, aided by DoorDash records, obtained a warrant, and Stevenson is held without bail awaiting extradition.",
+      "summaryTokens": 924,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/14/trump-administration-news-update-today",
@@ -221,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T06:12:59Z",
       "trailText": "Cuban officials denounce the US seizure of the Skipper oil tanker off Venezuela’s coast. Key US politics stories from 13 December 2025",
-      "summary": "Cuban officials condemned the US seizure of the Skipper off Venezuela’s coast as “maritime terrorism” and a breach of international law, after the tanker—loaded with nearly 2 million barrels of PDVSA crude bound for Cuba—off-loaded 50,000 barrels to a secondary vessel before diverting toward Asia. Meanwhile, top Senate Democrats demand a probe into $12 million LNG share buys by Trump-allied fossil fuel billionaires; California’s Gov. Gavin Newsom criticized Trump’s AI executive order; Afghan immigrants object to a fresh crackdown; and Trump lampooned Biden as “Sleepy Joe” during a campaign roadshow echoing his predecessor’s economic tours.",
-      "summaryTokens": 695,
-      "generatedAt": "2025-12-15T03:50:06.671Z"
+      "summary": "After Washington seized the Skipper oil tanker off Venezuela’s coast—loaded with nearly 2m barrels of PDVSA heavy crude and bound for Cuba’s Matanzas but redirected to Galveston, Texas, after off-loading some 50,000 barrels—Cuban officials condemned the action as “piracy and maritime terrorism” and a breach of international law aimed at economic pressure. In US politics, senior Democrats call for probes into a $12m share-buying spree by Trump-aligned LNG magnates; Gavin Newsom slams Trump’s AI directive; Afghan advocates denounce immigration crackdowns; Trump jabs Biden on “Sleepy Joe” amid his own dozing incidents.",
+      "summaryTokens": 1337,
+      "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
       "id": "us-news/2025/dec/13/brown-university-shooting",
@@ -2021,7 +2249,7 @@
       "section": "us-news",
       "publishedDate": "2025-12-05T22:55:35Z",
       "trailText": "Text signed by president seems to echo ‘great replacement’ theory, saying Europe faces ‘civilisational erasure’",
-      "summary": "Donald Trump’s signed US National Security Strategy warns Europe faces “civilisational erasure” within 20 years from migration, EU integration and loss of national identity, echoing the racist “great replacement” theory. It explicitly urges Washington to “cultivate resistance” by backing nationalist far-right parties, opening European markets to US goods and shifting defence burdens onto EU states. The paper criticizes EU censorship and regulatory “suffocation,” calls for an end to the Ukraine war favouring Russia, and celebrates rising patriotic parties like Germany’s AfD. Germany’s foreign minister rebuffs US interference, while Democrats denounce contradictions and pro-Russia leanings.",
+      "summary": "Donald Trump’s signed US National Security Strategy warns Europe faces ��civilisational erasure” within 20 years from migration, EU integration and loss of national identity, echoing the racist “great replacement” theory. It explicitly urges Washington to “cultivate resistance” by backing nationalist far-right parties, opening European markets to US goods and shifting defence burdens onto EU states. The paper criticizes EU censorship and regulatory “suffocation,” calls for an end to the Ukraine war favouring Russia, and celebrates rising patriotic parties like Germany’s AfD. Germany’s foreign minister rebuffs US interference, while Democrats denounce contradictions and pro-Russia leanings.",
       "summaryTokens": 829,
       "generatedAt": "2025-12-07T03:44:44.454Z"
     },
@@ -12995,7 +13223,7 @@
     },
     {
       "id": "us-news/2025/oct/21/deer-diseases-rural-economies",
-      "title": "Infectious diseases are killing deer and risking rural US economies: ‘You smell the dead everywhere’",
+      "title": "Infectious diseases are killing deer and risking rural US economies: ��You smell the dead everywhere’",
       "webUrl": "https://www.theguardian.com/us-news/2025/oct/21/deer-diseases-rural-economies",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/oct/21/deer-diseases-rural-economies",
       "section": "us-news",
