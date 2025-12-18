@@ -1,26 +1,302 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-17T03:50:49.201Z",
+    "generated_at": "2025-12-18T03:46:10.297Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-17"
+      "to": "2025-12-18"
     },
-    "article_count": 1814,
+    "article_count": 1839,
     "merge_info": {
-      "previous_count": 1794,
-      "new_articles": 20,
+      "previous_count": 1814,
+      "new_articles": 25,
       "updated_articles": 22,
-      "total_count": 1814
+      "total_count": 1839
     },
     "batch_info": {
-      "initial_batch_id": "batch_6942281684a48190b4b97f25c61cad0c",
+      "initial_batch_id": "batch_6943782e730881909de267ada02154e1",
       "retry_batches": [],
-      "total_tokens": 85172,
-      "processing_time_hours": 0
+      "total_tokens": 99291,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/17/military-strike-pacific-hegseth",
+      "title": "US military carried out lethal strike on vessel in Pacific, killing four, says Pete Hegseth",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/military-strike-pacific-hegseth",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/military-strike-pacific-hegseth",
+      "section": "us-news",
+      "publishedDate": "2025-12-18T02:23:23Z",
+      "trailText": "Announcement comes day after Trump said a blockade of all sanctioned oil tankers entering and leaving Venezuela",
+      "summary": "Defense Secretary Pete Hegseth announced that Joint Task Force Southern Spear carried out a lethal kinetic strike on an eastern Pacific vessel tied to a designated terrorist organization, killing four male narco-traffickers with no US casualties. The strike, part of over 20 operations since September off the Venezuelan coast, follows President Trump’s blockade of sanctioned oil tankers to cut drug funding for Nicolás Maduro. Critics have pressed for release of footage from a 2 September attack killing eight. The administration defends the campaign as preventing drugs entering the US and hints at regime-change aims in Caracas.",
+      "summaryTokens": 736,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/18/trump-administration-latest-news-updates",
+      "title": "Trump news at a glance: Dan Bongino ‘wants to go back to his show’ says president, as deputy FBI director resigns",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/18/trump-administration-latest-news-updates",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/18/trump-administration-latest-news-updates",
+      "section": "us-news",
+      "publishedDate": "2025-12-18T01:54:07Z",
+      "trailText": "Bongino, a former Secret Service agent turned podcaster, will step down in January. Key US politics stories from Wednesday 17 December at a glance",
+      "summary": "FBI deputy director Dan Bongino, a former Secret Service agent turned podcaster, confirmed he will resign in January, thanking Trump, FBI director Kash Patel and Pam Bondi. President Trump said Bongino ‘wants to go back to his show.’ In other developments: Trump has amended White House portrait plaques with critical remarks on predecessors; four House Republicans forced a vote to extend ACA subsidies for three years; the administration plans to dismantle the NCAR climate research center under NSF oversight; FCC chair questioned agency independence; Congress passed a $901 billion defense bill including Ukraine support; billionaire Jared Isaacman was confirmed as NASA administrator; and a federal judge blocked planned layoffs of hundreds of government employees.",
+      "summaryTokens": 823,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/house-bills-ban-gender-affirming-care-children",
+      "title": "Health workers decry hasty House bills to ban gender-affirming care for children: ‘They hurt people’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/house-bills-ban-gender-affirming-care-children",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/house-bills-ban-gender-affirming-care-children",
+      "section": "us-news",
+      "publishedDate": "2025-12-18T00:15:22Z",
+      "trailText": "Two bills, one passing House, mark first time Congress votes over national care bans and escalation of anti-trans rhetoric",
+      "summary": "Two new federal bills—HR-498, introduced by Marjorie Taylor Greene, making gender-affirming care for minors a federal felony punishable by up to 10 years, and HR-3492, from Dan Crenshaw, banning Medicaid coverage for puberty blockers, hormone therapy and surgery—passed the House 216-211, though Senate approval is unlikely. It’s Congress’s first national vote on gender-affirming care bans, driven by escalating anti-trans rhetoric. Health workers, activists and Rep. Sarah McBride warn these measures will intensify mental health crises among trans youth—46% have considered suicide—and echo harmful ripple effects from Texas’s abortion restrictions.",
+      "summaryTokens": 951,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/washington-flooding-damage-governor",
+      "title": "Washington state flooding damage profound but unclear, governor warns",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/washington-flooding-damage-governor",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/washington-flooding-damage-governor",
+      "section": "us-news",
+      "publishedDate": "2025-12-18T00:00:17Z",
+      "trailText": "Record rains have forced hundreds of rescues, swamped communities and left rivers high, with more storms forecast",
+      "summary": "Washington state has endured over a week of record rains—up to 0.6m in spots—swelling rivers, triggering mudslides and causing more than 629 rescues across 10 counties. Over 400,000 residents in Washington and neighboring Oregon lost power as high winds downed lines. One fatality was reported when a motorist ignored flood warnings. Up to 100,000 people faced evacuation orders, notably in the Skagit River floodplain. Key routes, including State Route 2, are washed out and may remain closed for months. Governor Bob Ferguson cautioned that the full scope of damage won’t be clear until waters recede and landslide risks subside, urging residents to comply with evacuation orders. The state has allocated millions for emergency aid pending expected federal assistance, while the National Weather Service forecasts continued high water, heavy snow in mountain zones and strong winds through late month.",
+      "summaryTokens": 544,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/trump-fbi-deputy-director-dan-bongino",
+      "title": "FBI deputy director Dan Bongino to step down in January",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/trump-fbi-deputy-director-dan-bongino",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/trump-fbi-deputy-director-dan-bongino",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T23:47:35Z",
+      "trailText": "Former podcaster Bongino confirms departure after Trump tells reporters ‘I think he wants to go back to his show’",
+      "summary": "FBI deputy director Dan Bongino, a former Secret Service agent, NYPD officer and podcaster, has confirmed he will step down in January. Bongino thanked President Trump, FBI director Kash Patel and AG Pam Bondi—whom he had publicly clashed with over Jeffrey Epstein file releases—in a social media statement. Trump told reporters Bongino “wants to go back to his show.” Known for hosting conservative radio and for promoting conspiracy theories about a “deep state,” Bongino recently recanted unfounded claims about pipe bombs before January 6, saying investigations “are guided by facts.”",
+      "summaryTokens": 1061,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/los-angeles-wildfires-heart-attacks",
+      "title": "Heart attacks increased after Los Angeles wildfires, study finds",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/los-angeles-wildfires-heart-attacks",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/los-angeles-wildfires-heart-attacks",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T22:55:02Z",
+      "trailText": "Researchers at Cedars-Sinai say rates of heart attack and respiratory illness ‘matched worst years of Covid’",
+      "summary": "In the 90 days after January 2025’s Palisades and Eaton wildfires—which destroyed over 9,400 structures and killed 31 residents—Cedars-Sinai researchers documented a 46% spike in ER visits for heart attack symptoms, surpassing Covid-era peaks, plus a 24% rise in respiratory illnesses and a 118% jump in blood-test abnormalities among fire-affected or nearby communities. Published in the Journal of the American College of Cardiology, the WUI fire study links smoke exposure to multi-organ metabolic stress and subtle electrolyte, kidney and liver marker imbalances, while highlighting gaps in understanding long-term health impacts.",
+      "summaryTokens": 1708,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/nasa-jared-isaacman-confirmation",
+      "title": "US Senate confirms billionaire Musk ally Jared Isaacman as Nasa chief",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/nasa-jared-isaacman-confirmation",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/nasa-jared-isaacman-confirmation",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T22:07:11Z",
+      "trailText": "Vote on Isaacman, private astronaut and Mars missions advocate, passes 67-30 for him to be agency’s 15th leader",
+      "summary": "Senate confirmed billionaire private astronaut Jared Isaacman 67-30 as NASA’s 15th administrator after Trump nomination. A Shift4 founder and SpaceX ally, Isaacman advocates speeding lunar and Mars missions to outpace China. His appointment defeated acting chief Sean Duffy’s bid to absorb the agency under Transportation and resolved tensions over SpaceX contract delays. Previously shelved amid Isaacman’s Democratic donations and a Musk-Trump feud, he tapped White House allies to regain momentum. Isaacman has self-funded two all-civilian SpaceX flights, including last year’s first private spacewalk.",
+      "summaryTokens": 998,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/american-academy-pediatrics-funding-rfk",
+      "title": "American Academy of Pediatrics loses government funding after criticizing RFK Jr",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/american-academy-pediatrics-funding-rfk",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/american-academy-pediatrics-funding-rfk",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T21:57:00Z",
+      "trailText": "Cuts, which affect projects focused on issues including early identification of autism, made without prior notice to AAP",
+      "summary": "The US Department of Health and Human Services abruptly terminated seven multi-million-dollar grants to the American Academy of Pediatrics after AAP criticized Health Secretary RFK Jr’s COVID-19 vaccine guidance and used “identity-based language” in projects on racial disparities and “pregnant people.” The cuts, announced without notice, affect programs on fetal alcohol spectrum disorders, early autism identification, SIDS reduction, rural access, mental and adolescent health, birth defects and more. AAP CEO Mark Del Monte warned the decision threatens children’s health nationwide; the association is exploring legal recourse alongside ongoing lawsuits over RFK Jr’s vaccine policy changes.",
+      "summaryTokens": 883,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/fani-willis-trump-election-interference-georgia",
+      "title": "Fani Willis defends Trump prosecution at contentious Georgia hearing",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/fani-willis-trump-election-interference-georgia",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/fani-willis-trump-election-interference-georgia",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T21:05:10Z",
+      "trailText": "Fulton county DA hits back at Republican opponents who investigated her over relationship with special prosecutor",
+      "summary": "Fulton County DA Fani Willis faced a Georgia state senate special committee probing her prosecution of Donald Trump for election interference and her romantic relationship with special prosecutor Nathan Wade. Republicans, led by vice-chair Greg Dolezal, allege improper coordination with the House Jan. 6 committee—citing Wade’s billing records—and misuse of federal grants. Willis angrily rejected those claims, accusing lawmakers of racism and “lawfare,” defending her hiring of outside counsel and handling of funds. The committee can amend state laws but holds no direct sanction power. Willis vowed to remain undeterred despite threats.",
+      "summaryTokens": 994,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/trump-white-house-presidential-walk-of-fame",
+      "title": "Trump attacks Democratic foes in White House presidential portraits",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/trump-white-house-presidential-walk-of-fame",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/trump-white-house-presidential-walk-of-fame",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T20:44:25Z",
+      "trailText": "New plaques on ‘Presidential Walk of Fame’ scorn ‘divisive’ Obama and ‘by far the worst’ Biden – but Reagan is praised",
+      "summary": "White House installs new \"Presidential Walk of Fame\" plaques featuring Trump’s permanent assessments under each portrait along the West Wing colonnade. Biden’s portrait is removed, replaced by an autopen image labeled \"Sleepy Joe… by far the worst President… corrupt Election,\" Obama scorned as \"one of the most divisive figures,\" Clinton’s achievements credited to Republicans, and Reagan exalted as \"The Great Communicator… a long-time Trump fan.\" Adopting a TruthSocial–style tone, the revamp coincides with Trump’s approval slipping to 39% amid economic unease and looming ACA subsidy expirations. Healthcare experts warn looming ACA subsidy cuts will harm the sector.",
+      "summaryTokens": 1786,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/trump-fcc-brendan-carr",
+      "title": "FCC chair suggests agency is not independent amid fears of Trump power-grab",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/trump-fcc-brendan-carr",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/trump-fcc-brendan-carr",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T19:15:31Z",
+      "trailText": "Brendan Carr’s declaration raises concerns amid Trump efforts to exert greater control over independent agencies",
+      "summary": "FCC chair Brendan Carr told a Senate commerce committee the agency is not 'formally' independent, mirroring the removal of the word from its online mission statement. A Trump ally, Carr has threatened networks over critical remarks by Jimmy Kimmel, invoking the decades-old public interest standard. Democrats including Senators Klobuchar, Markey and Baldwin accused him of weaponizing the FCC to enforce political directives and erode its autonomy amid President Trump's efforts to assert greater control over agencies.",
+      "summaryTokens": 648,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/salad-dressing-hidden-valley-ranch-recall",
+      "title": "FDA recalls salad dressing after ‘plastic material’ found in ingredients",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/salad-dressing-hidden-valley-ranch-recall",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/salad-dressing-hidden-valley-ranch-recall",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T19:09:26Z",
+      "trailText": "More than 3,500 cases of dressing, including Hidden Valley Ranch, recalled after ‘foreign objects’ were discovered",
+      "summary": "The FDA classified a class II recall on Dec. 4 of over 3,500 one-gallon food-service salad dressings made by Ventura Foods—Hidden Valley Original Buttermilk Ranch, Italian, Creamy Poblano Avocado Ranch, Ventura Caesar, Pepper Mill Regal Caesar and Pepper Mill Creamy Caesar—after black plastic planting material was found in granulated onion. Shipped since Nov. 6 to 42 outlets of seven US retailers across 27 states and one in Costa Rica, these products may cause temporary, reversible health effects. Retail-size Hidden Valley bottles are unaffected. Consumers should return contaminated units for a full refund.",
+      "summaryTokens": 629,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/republicans-healthcare-subsidies-vote-petition",
+      "title": "Four Republicans join Democrats to force vote on bill that would extend Obamacare subsidies",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/republicans-healthcare-subsidies-vote-petition",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/republicans-healthcare-subsidies-vote-petition",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T19:07:07Z",
+      "trailText": "Major setback for Mike Johnson as rebellion underscores GOP anxiety over rise in healthcare costs before midterms",
+      "summary": "In a setback to House Speaker Mike Johnson, four GOP moderates—Reps. Brian Fitzpatrick, Robert Bresnahan, Ryan Mackenzie and Mike Lawler—joined Democrats to file a discharge petition forcing a January vote on a three-year extension of Affordable Care Act premium tax credits. The rebellion highlights Republican anxiety over rising healthcare costs ahead of the 2026 midterms and a rift between leadership and moderates who fear breaking promises on lower premiums. Republicans will instead vote Thursday on a conservative alternative, the Lower Health Care Premiums for All Americans Act. While the petition secured the necessary 218 signatures, its Senate prospects remain uncertain.",
+      "summaryTokens": 563,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/nick-reiner-murder-charges-parents-rob-reiner",
+      "title": "Nick Reiner appears in court on murder charges in killing of parents",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/nick-reiner-murder-charges-parents-rob-reiner",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/nick-reiner-murder-charges-parents-rob-reiner",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T18:22:46Z",
+      "trailText": "Son of Rob Reiner and Michele Singer Reiner being held without bail after his parents were found dead in their home",
+      "summary": "Nick Reiner, 32, son of actor-director Rob Reiner and photographer Michele Singer Reiner, appeared in a Los Angeles court Wednesday on two counts of first-degree murder with special circumstance of multiple murders and a knife-use allegation after his parents were found dead in their Brentwood home Dec. 14. Held without bail, he did not plead; his arraignment is delayed until Jan. 7. Siblings Romy and Jake thanked supporters and requested privacy. Defense attorney Alan Jackson cited Reiner’s mental health history, urging against premature judgments. Hollywood friends have mourned the couple.",
+      "summaryTokens": 1509,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "global/2025/dec/17/susie-wiles-vanity-fair-interview-distraction",
+      "title": "Susie Wiles interview might be a useful distraction from how poorly things are going for Americans",
+      "webUrl": "https://www.theguardian.com/global/2025/dec/17/susie-wiles-vanity-fair-interview-distraction",
+      "apiUrl": "https://content.guardianapis.com/global/2025/dec/17/susie-wiles-vanity-fair-interview-distraction",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T18:00:13Z",
+      "trailText": "The incendiary quotes don’t disguise how dissatisfied people are about jobs, inflation or the cost of living",
+      "summary": "In a Vanity Fair interview, White House chief of staff Susie Wiles blasted Trump’s cabinet—labeling JD Vance a longtime conspiracy theorist, Elon Musk “odd,” OMB director Russell Vought an “absolute zealot” and AG Pam Bondi as having “whiffed.” She also branded Trump an “alcoholic” on Epstein claims. Trump denounced the article as a “disingenuous hit piece,” but the spectacle may distract from sobering economic data: 41,000 jobs lost, manufacturing at a 3½-year low, 4.6% unemployment, rising inflation and low public approval as Americans cut spending and express mounting dissatisfaction.",
+      "summaryTokens": 1016,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/durham-north-carolina-ice",
+      "title": "In Durham, North Carolina, neighbors are protecting neighbors from ICE: ‘We care for each other’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/durham-north-carolina-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/durham-north-carolina-ice",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T17:00:12Z",
+      "trailText": "Community members have stepped up with carpools, food deliveries, school patrols and policy advocacy",
+      "summary": "In Durham, North Carolina, an activist PTA-led network has mobilized parents, volunteers and local schools to shield Latino families from a surge in ICE arrests, doubling statewide to 3,400 in 2025. Dozens of parents patrol school perimeters, organize carpools and 3D-printed whistles, deliver food via rideshares and lobby for district policies barring unauthorized ICE entry. Drawing on past campaigns like Wildin Acosta’s release and city hall resolutions, groups such as Durham Public School Strong push for clear protocols amid fear of agents entering campuses. Community ties build resilience.",
+      "summaryTokens": 990,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/trump-boulder-ncar-climate-lab",
+      "title": "Trump administration to dismantle key climate research center in Colorado",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/trump-boulder-ncar-climate-lab",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/trump-boulder-ncar-climate-lab",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T16:59:03Z",
+      "trailText": "Governor Jared Polis warned that breaking up Boulder’s NCAR would put ‘public safety at risk’",
+      "summary": "The Trump administration plans to dismantle Boulder’s NCAR—renowned for its Mesa Laboratory, two atmospheric research aircraft and Wyoming supercomputing facility—accusing it of “climate alarmism.” White House Budget Office head Russell Vought will transfer vital weather and climate work under NSF oversight. Critics including AEI’s Roger Pielke Jr. and Colorado Gov. Jared Polis warn that shuttering the 830-staff center threatens severe weather forecasting and public safety. The move, part of broader cuts—including a 30% NOAA funding reduction—targets “woke” and indigenous-science initiatives and wind-turbine research.",
+      "summaryTokens": 1132,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/tricolor-holdings-fraud-subprime-car-loans",
+      "title": "Executives of bankrupt subprime auto lender Tricolor Holdings charged with fraud",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/tricolor-holdings-fraud-subprime-car-loans",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/tricolor-holdings-fraud-subprime-car-loans",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T15:48:47Z",
+      "trailText": "Daniel Chu, company’s founder, charged with directing multiple executives since 2018 to defraud investors",
+      "summary": "US prosecutors indicted Tricolor Holdings founder and former CEO Daniel Chu and other executives for a systematic fraud scheme dating to 2018, accusing them of falsifying subprime auto-loan data, double-pledging collateral and deceiving banks. The indictment, unsealed in Manhattan federal court, alleges Chu extracted $6.25 million while saddling lenders with over $900 million in losses. Tricolor filed for Chapter 7 bankruptcy in September, spotlighting risks in private credit and a billion-dollar collapse.",
+      "summaryTokens": 537,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/lamonica-mciver-congress-new-jersey-charge",
+      "title": "Congress member who faces charges for visiting ICE facility says Trump is ‘using me as an example’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/lamonica-mciver-congress-new-jersey-charge",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/lamonica-mciver-congress-new-jersey-charge",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T15:00:10Z",
+      "trailText": "The New Jersey Democrat was charged with interfering with an immigration arrest while conducting her oversight duties",
+      "summary": "LaMonica McIver, a New Jersey Democrat in her first full term, was indicted for interfering with an immigration arrest during an unannounced May oversight visit to ICE’s Delaney Hall. She alleges the charges—carrying up to 17 years—are political retribution by the Trump administration to deter congressional oversight. McIver pleaded not guilty and cited selective prosecution given January 6 pardons and her constitutional duties; a judge denied dismissal on major counts. Her case highlights disputes over ICE facility access, unsafe detention conditions and Trump’s retribution tactics.",
+      "summaryTokens": 542,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/music-manufacture-industry-trump-tariff",
+      "title": "Trump’s tariffs are choking small US manufacturers – even those making music magic",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/music-manufacture-industry-trump-tariff",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/music-manufacture-industry-trump-tariff",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T13:00:07Z",
+      "trailText": "EarthQuaker Devices has served Smashing Pumpkins, PJ Harvey and Radiohead but says tariffs add costs up to 30%",
+      "summary": "Akron boutique guitar pedal maker EarthQuaker Devices, supplier to Smashing Pumpkins and Radiohead, has seen input costs rise by up to 30% under Trump’s China and Vietnam tariffs, eroding margins and freezing new hires. The tariffs have hit one-third of northeast Ohio manufacturers, incurring 16% tariff-related losses against just 9% gains, curbing R&D and delaying expansion. Experts warn reshoring will lag years; firms turn to foreign trade zones for relief. Regional job cuts mount, fueling economic decline.",
+      "summaryTokens": 1365,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/first-thing-trump-orders-blockade-of-sanctioned-oil-tankers-entering-and-leaving-venezuela",
+      "title": "First Thing: Trump orders blockade of oil tankers under sanctions from entering and leaving Venezuela",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/first-thing-trump-orders-blockade-of-sanctioned-oil-tankers-entering-and-leaving-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/first-thing-trump-orders-blockade-of-sanctioned-oil-tankers-entering-and-leaving-venezuela",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T12:59:10Z",
+      "trailText": "Move comes amid escalating campaign against Maduro as Venezuelan government condemns ‘grotesque threat’. Plus, how to plan a polyamorous wedding",
+      "summary": "Trump orders a total blockade of sanctioned oil tankers entering and leaving Venezuela, escalating pressure on Maduro after US forces seized roughly 2m barrels; Caracas condemns it as ‘piracy’. Providence police release footage of a Brown University shooting suspect. Nick Reiner charged with murdering his parents. Bondi attacker faces 59 offences, including terrorism. Two Democratic senators block civilian nominations over Epstein files. MIT mourns its plasma science director. Susie Wiles criticizes Trump’s team in Vanity Fair. Arctic endures record heat. Marshall Islands rolls out a crypto-backed UBI scheme.",
+      "summaryTokens": 1840,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/trump-us-attorney-investigation-intelligence-officials",
+      "title": "Maga loyalist expands investigation into intelligence officials who angered Trump",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/trump-us-attorney-investigation-intelligence-officials",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/trump-us-attorney-investigation-intelligence-officials",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T12:00:07Z",
+      "trailText": "Experts decry Jason Reding Quiñones’s ‘fishing expedition’ as subpoenas reportedly issued to John Brennan and others",
+      "summary": "Trump-appointed Miami US Attorney Jason Reding Quiñones has opened a broad probe into former intelligence officials—including ex-CIA director John Brennan, DNI James Clapper, FBI’s Peter Strzok and lawyer Lisa Page—issuing two dozen subpoenas over the 2016 Russia inquiry. Legal experts like Michael Bromwich and Barbara McQuade condemn it as a politically driven “fishing expedition” lacking any new factual basis, flouting DOJ standards and arguably barred by statutes of limitations. Backed by Trump loyalist attorney Mike Davis and set to convene a January grand jury, critics warn the investigation aims to weaponize justice to punish Trump’s perceived enemies rather than uncover genuine crimes.",
+      "summaryTokens": 821,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/17/susie-wiles-trump-key-takeaways-vanity-fair-interviews",
+      "title": "From ‘odd’ Musk to ‘painful’ tariffs: key takeaways from interviews with Trump’s chief of staff",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/17/susie-wiles-trump-key-takeaways-vanity-fair-interviews",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/17/susie-wiles-trump-key-takeaways-vanity-fair-interviews",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T06:11:45Z",
+      "trailText": "Susie Wiles has spoken to Vanity Fair magazine in a series of 11 interviews that she has since dismissed as a ‘hit piece’",
+      "summary": "In 11 Vanity Fair interviews, Trump chief of staff Susie Wiles gives candid insight into the second-term White House. She calls President Trump “an alcoholic’s personality,” defends his pivot to hardliners like Robert F. Kennedy Jr., and laments “more painful than expected” Liberation Day tariffs. Wiles brands VP J.D. Vance a long-time conspiracy theorist, slams Elon Musk’s unilateral USAID purge, faults AG Pam Bondi’s stumble in the Epstein probe, and rejects Trump’s false Clinton-Epstein claims. She describes US boat strikes on suspected smugglers as a vengeful tactic to force Nicolás Maduro to “cry uncle.”",
+      "summaryTokens": 1213,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
     {
       "id": "us-news/2025/dec/17/elon-musks-x-wins-appeal-to-lift-block-on-australians-seeing-charlie-kirk-shooting-footage",
       "title": "Elon Musk’s X wins appeal to lift block on Australians seeing Charlie Kirk shooting footage",
@@ -29,9 +305,21 @@
       "section": "us-news",
       "publishedDate": "2025-12-17T03:33:47Z",
       "trailText": "In successful challenge, X argued the video wasn’t excessively offensive and was an objective record of a ‘public event of historical and political significance’",
-      "summary": "The Australian Classification Review Board overturned its ban on footage of conservative influencer Charlie Kirk’s fatal shooting on Elon Musk’s X, after the platform appealed the eSafety commissioner’s refusal-to-classify ruling. The board’s majority judged the grainy, weapon-ambiguous clips non-gratuitous, objective public-event documentation akin to the Zapruder JFK film and reclassified them R18+, mandating age-based access controls. A minority dissented, calling the posts exploitative. X hailed the outcome as a free-speech victory; eSafety noted R18+ restrictions for under-18s. The regulator has not blocked Bondi beach terror footage but recommends content warnings.",
-      "summaryTokens": 1351,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Elon Musk’s X won an appeal after Australia’s classification review board overturned an eSafety commissioner order to block footage of conservative influencer Charlie Kirk’s fatal shooting. The board ruled the grainy, brief violence footage wasn’t gratuitous or offensive but reclassified it R18+. X argued it was a neutral record of a public, historically significant event, likening it to the JFK assassination film. A minority dissented, warning it was shared for entertainment or personal gain. eSafety noted R18+ compliance, and platforms must now label other distressing clips, including the Bondi beach terror footage.",
+      "summaryTokens": 950,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
+      "title": "Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
+      "section": "us-news",
+      "publishedDate": "2025-12-17T02:39:43Z",
+      "trailText": "Move comes amid escalating campaign against Maduro as Venezuelan government condemns ‘grotesque threat’",
+      "summary": "Donald Trump has ordered “a total and complete” blockade of all sanctioned oil tankers entering or leaving Venezuela, intensifying pressure on Nicolás Maduro after seizing a tanker with about 2 million barrels of crude. The move follows over 20 US strikes on vessels accused of drug trafficking, a bolstered military presence and a cyberattack on PDVSA. Caracas decries the blockade as “international piracy,” lawmakers call it an unauthorized act of war, and oil markets brace for further export cuts and price rises.",
+      "summaryTokens": 661,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/hepatitis-b-vaccine-cdc",
@@ -41,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-17T02:29:37Z",
       "trailText": "Change marks an abrupt end to 30 years of established medical guidance. and follows vote earlier this month",
-      "summary": "The CDC has ended its universal newborn hepatitis B vaccine mandate, following a vote by Health Secretary Robert F. Kennedy Jr.’s vaccine advisory panel, to limit birth doses to infants of mothers testing positive or with unknown status. Acting director Jim O’Neill framed the change as restoring parental informed consent, advising a two-month delay if parents defer the birth dose. Critics—including Hepatitis B Foundation’s Michaela Jackson and UChicago infectious disease expert Dr. Emily Landon—warn this reversal of 30 years of science-based guidance could undermine insurance coverage, sow confusion and raise preventable infection rates.",
-      "summaryTokens": 674,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "The CDC has ended its 30-year universal newborn hepatitis B vaccine recommendation, now advising a birth dose only for infants of HBV-positive or unknown-status mothers. Parents of HBV-negative mothers are urged to consult providers and, if they decline birth immunization, wait at least two months for the first dose. The change follows a vote by Health Secretary RFK Jr.’s advisory panel and frames vaccination as ‘individual-based decision-making.’ Critics warn it will weaken science-based guidance that drove a 90% drop in US HBV cases since 1982, risk more pediatric infections, undermine insurance coverage and clinician recommendations, and reflects anti-vaccine influence at the CDC.",
+      "summaryTokens": 560,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/17/trump-administration-latest-news-updates",
@@ -53,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-17T02:23:58Z",
       "trailText": "Trump said US armada ‘will only get bigger’ until Venezuela returns ‘all of the oil, land, and other assets that they previously stole from us’ – key US politics stories from 16 December 2025",
-      "summary": "On 16 December 2025 Trump announced a total naval blockade of sanctioned oil tankers entering or leaving Venezuela, accusing Maduro of using oil to fund drug trafficking. He deployed the “largest armada” in South American history, vowing to expand it until Caracas returns stolen oil, land and assets. Other developments include the Pentagon’s refusal to release full footage of a controversial Caribbean strike; Ilhan Omar warning his rhetoric fuels violence; new foreign‐national entry restrictions; and ongoing legal battles, including a BBC lawsuit.",
-      "summaryTokens": 593,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Trump announced a total naval blockade of all sanctioned oil tankers entering or leaving Venezuela, deploying the largest armada in South American history and warning it will grow until Caracas returns stolen oil, land and other assets; last week the US seized a Venezuelan crude tanker. Meanwhile, the Pentagon refuses to release full video of a fatal Caribbean strike, Rep. Ilhan Omar warns Trump’s dehumanizing rhetoric fuels political violence, and he signed a proclamation further restricting entry for nationals from Burkina Faso, Mali, Niger, South Sudan and Syria.",
+      "summaryTokens": 724,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/washington-flooding-levee-breach",
@@ -65,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-17T00:56:56Z",
       "trailText": "Swimmers find driver, believed to be 33-year-old man, and vehicle in about 6ft of water in ditch in Snohomish area",
-      "summary": "In the Snohomish area northeast of Seattle, a 33-year-old man who drove past flood warnings was found dead in his car submerged in about 6 ft of water—Washington’s first fatality after a week of storms that dumped up to 2 ft of rain in the Cascades. Governor Bob Ferguson warns of continued flooding, mudslides and power outages. Breached levees on the White and Green rivers prompted evacuations. To date, responders have conducted 629 rescues and 572 assisted evacuations, with as many as 100,000 people under order.",
-      "summaryTokens": 417,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Following a week of record rainfall in Washington state, a 33-year-old man ignoring warning signs drowned when his car was found submerged in six feet of water in Snohomish, marking the first flood-related fatality. Governor Bob Ferguson warned damage remains unclear as mudslides, power outages and levee breaches along the White and Green rivers forced evacuation orders for 100,000 residents. Over 600 rescues and 572 assisted evacuations have been reported. With more storms forecast, state and federal aid—including millions in emergency funds—are being mobilized.",
+      "summaryTokens": 861,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/police-brown-university-shooting-video",
@@ -77,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T23:08:41Z",
       "trailText": "Providence police say video shows person of interest ‘casing the area’ before attack in which two people were killed",
-      "summary": "Providence police released video of a masked person in a green jacket, black beanie and gloves strolling residential streets two hours before the Brown University campus shooting in which two were killed, nine injured. Chief Oscar L. Perez said footage shows the suspect ‘casing the area’ and urged sharing any camera sources—residential, vehicle or mobile—around Waterman Ave and Hope St from the past week. About 200 tips are under investigation. FBI Director Kash Patel faced criticism for prematurely declaring the case solved. AG Peter Neronha and Brown President Christina Paxson expressed confidence in law enforcement and called for patience. A $50,000 reward is offered.",
-      "summaryTokens": 1198,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Providence police have released East Side video of the masked individual they believe cased the area two hours before Saturday’s Brown University shooting, which killed two and wounded nine during finals. The suspect—wearing a black beanie, green jacket and gloves—was captured walking near Waterman Avenue and Hope Street. Police chief Oscar L. Perez said they’ve collected nearly 200 actionable tips and are seeking any resident or vehicle footage dating back a week. Rhode Island AG Peter Neronha affirmed progress; Brown’s president pledged community safety. The FBI has offered a $50,000 reward.",
+      "summaryTokens": 671,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/democrats-epstein-files-pam-bondi",
@@ -89,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T21:43:43Z",
       "trailText": "Senate duo condemn Trump administration and say ‘there can be no business as usual until justice is delivered’",
-      "summary": "Senators Jeff Merkley (D-Ore) and Ben Ray Luján (D-N.M.) will block all pending civilian Senate nominations until Florida AG Pam Bondi briefs lawmakers on compliance with the Epstein Files Transparency Act. Passed in mid-November, the law mandates DOJ release all unclassified records on Jeffrey Epstein by Dec 19. They had joined a bipartisan group seeking a status briefing earlier this month after the act overwhelmingly cleared both congressional chambers. Merkley and Luján say Bondi failed to provide the requested briefing, accusing the Trump administration of defying the law and demanding “full transparency and accountability” for Epstein’s victims before allowing nominations to proceed.",
-      "summaryTokens": 1010,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Senators Jeff Merkley and Ben Ray Luján will block all pending civilian nominations until Florida Attorney General Pam Bondi provides a briefing on the Justice Department’s compliance with the Epstein Files Transparency Act. Passed mid-November, the law mandates release of all unclassified records, documents, communications and investigative materials related to Jeffrey Epstein by December 19. The pair says Bondi failed to deliver requested bipartisan briefings on new evidence or procedural issues. Without full transparency and accountability, they argue, the Senate cannot proceed with any nominations.",
+      "summaryTokens": 404,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/trump-travel-ban-list",
@@ -101,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T21:34:39Z",
       "trailText": "US imposes restrictions on Burkina Faso, Mali, Niger, South Sudan and Syria, in addition to initial list of 12 countries",
-      "summary": "Donald Trump signed a proclamation expanding his 2017 travel ban to fully bar entry by nationals of Burkina Faso, Mali, Niger, South Sudan and Syria—adding to the initial 12-country list and Palestinian Authority passport holders. He hosted Syria’s President Ahmed al-Sharaa at the White House days earlier. Partial prohibitions target 15 additional states from Angola to Tonga. Citing a November DC guard shooting by an Afghan national and an ISIS attack in Syria, the White House asserted that inadequate vetting “necessitates” tighter controls. Homeland Security Secretary Kristi Noem had previewed the expansion.",
-      "summaryTokens": 1053,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "President Trump on Dec. 16 issued a proclamation imposing full US entry bans on Burkina Faso, Mali, Niger, South Sudan, Syria and Palestinian Authority–document holders (adding to an earlier 12-country list), plus partial restrictions on 15 more nations (Angola, Nigeria, Tanzania, etc.). Citing the November DC National Guard shooting by an Afghan asylum recipient and recent IS-linked US fatalities in Syria, and following DHS Secretary Kristi Noem’s plan to expand the list, the White House argues vetting gaps necessitate tighter border controls under national security grounds.",
+      "summaryTokens": 1756,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/rob-reiner-nick-parents-murder-charge",
@@ -113,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T21:26:40Z",
       "trailText": "LA district attorney says charges could carry the death penalty, after Nick Reiner arrested in murder of his parents",
-      "summary": "Los Angeles prosecutors will charge 32-year-old Nick Reiner with two counts of first-degree murder and special circumstances—including multiple murders and deadly-weapon allegations—in the December 14 killing of his parents, director-actor Rob Reiner and Michele Singer Reiner, at their Brentwood home. Authorities arrested him Sunday night and say the case could carry the death penalty. LAPD homicide investigators stress evidence must meet a beyond-reasonable-doubt standard. Nick, who has a history of addiction and mental-health issues and argued with his father a day earlier, awaits medical clearance before arraignment, defense counsel says.",
-      "summaryTokens": 999,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Nick Reiner, 32, faces two counts of first-degree murder for allegedly killing his parents, director-actor Rob Reiner and Michele Singer Reiner, in their Brentwood home on Dec. 14. LA District Attorney Nathan Hochman announced possible death-penalty charges, citing special circumstances of multiple murders and deadly-weapon use. LAPD homicide detectives booked Nick without bail after responding at 3:40 PM and arresting him at 9:15 PM. Arraignment awaits medical clearance. Defense attorney Alan Jackson notes Nick’s recent mental-health concerns; DA must file formal counts by Dec. 18. Evidence will be presented in court to prove guilt beyond reasonable doubt.",
+      "summaryTokens": 1153,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/data-centers-consumer-prices",
@@ -125,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T20:25:05Z",
       "trailText": "Elizabeth Warren, Richard Blumenthal and Chris Van Hollen demand answers from tech firms including Google and Amazon",
-      "summary": "Senators Elizabeth Warren, Chris Van Hollen and Richard Blumenthal have launched an inquiry into whether major tech firms are shifting the soaring costs of “energy-guzzling” data centers onto consumers. Their letters to Google, Microsoft, Amazon, Meta, CoreWeave, Digital Realty and Equinix demand detailed disclosures on data center numbers, energy consumption, state incentives, lobbying expenditures and cost-sharing arrangements. They cite up to 267% rate hikes in key regions, rising US bills (+7%) and looming climate and water impacts. Responses are due Jan. 12.",
-      "summaryTokens": 1128,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Democratic Senators Elizabeth Warren, Richard Blumenthal and Chris Van Hollen are probing whether data centers run by Google, Microsoft, Amazon, CoreWeave, Digital Realty and Equinix are shifting utility costs onto US households. In letters demanding detailed energy-usage data and tax incentives by Jan. 12, they cite regions with 267% bill hikes over five years and a 7% national increase. They urge tech firms to cover their share of infrastructure costs as data centers could consume 12% of US power by 2028. Critics warn of water use and emissions; local campaigns have stalled $64 billion in projects amid utility contracts confidentiality.",
+      "summaryTokens": 4288,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/susie-wiles-trump-interview",
@@ -137,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T19:14:45Z",
       "trailText": "Susie Wiles gives strikingly unguarded comments in 11 interviews, starting before election, with Vanity Fair",
-      "summary": "Susie Wiles’s Vanity Fair interviews reveal Trump’s boundless self-belief (“nothing he can’t do”), ferocious opportunistic retribution, and a “high-functioning alcoholic” personality. She says he broke a pledge to settle scores in his first 90 days, noting late indictments of Letitia James and James Comey. Wiles convinced him against blanket January 6 pardons after commending the FBI’s work. She lambasts Elon Musk’s bureaucracy cuts and alleged ketamine use, and Pam Bondi’s mishandling of Epstein files. She flags concerns over massive deportations while hailing his “disrupter” cabinet—Bobby Kennedy Jr., Pete Hegseth, Kristi Noem—and warning on JD Vance and Russ Vought.",
-      "summaryTokens": 1222,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "In a series of 11 Vanity Fair interviews, White House chief of staff Susie Wiles reveals Trump believes “there’s nothing he can’t do,” likening his possessive personality to that of a high-functioning alcoholic. She says a “loose agreement” to settle political scores within 90 days went off track amid ongoing retribution indictments. Wiles claims she curbed planned Jan 6 pardons after praising the FBI’s casework, blasts Elon Musk’s USAID cuts and drug-tinged posts, and faults Pam Bondi over mishandled Epstein files. She warns the deportation process needs reform and hails Trump’s “world-class disruptor” cabinet while criticizing VP Vance and OMB director Russ Vought as ideological extremes.",
+      "summaryTokens": 714,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/donald-trump-and-the-goldwater-rule",
@@ -149,9 +437,21 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T18:00:57Z",
       "trailText": "Letter: There’s a difference between armchair diagnosis and legitimate observation, and we must allow medical expertise to inform public discourse, writes Robert Krasner",
-      "summary": "Physician Robert Krasner responds to President Trump’s rambling Pennsylvania speech—where he called affordability a “hoax” and launched racist attacks—arguing the Goldwater rule’s prohibition on “armchair diagnoses” based on hearsay shouldn’t silence legitimate clinical observations. He recalls psychiatrist Allen Dyer, a rule co-author, affirming in October 2024 that it wasn’t meant as an absolute gag. When public figures openly display documented behaviours impacting national welfare, ethical discussion by medical experts is essential to inform public discourse without breaching professional standards.",
-      "summaryTokens": 1053,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Physician Robert Krasner argues the Goldwater rule—originally crafted in 1964 to curb irresponsible “armchair diagnosis”—need not bar ethical professional commentary on publicly documented behaviors of political figures. Prompted by President Trump’s rambling Pennsylvania speech marked by affordability ‘hoax’ claims and racist attacks, Krasner cites psychiatrist Dr. Allen Dyer’s October 2024 clarification that the rule was never an absolute gag order. He maintains that responsible, evidence-based observations of a public figure’s conduct, when extensively documented, can and should inform public discourse without violating medical ethics.",
+      "summaryTokens": 607,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
+    },
+    {
+      "id": "us-news/2025/dec/16/brown-university-shooting-fbi-reward",
+      "title": "FBI offers $50,000 reward as Brown University shooter still at large",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/16/brown-university-shooting-fbi-reward",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/16/brown-university-shooting-fbi-reward",
+      "section": "us-news",
+      "publishedDate": "2025-12-16T14:35:02Z",
+      "trailText": "Two students were killed and nine wounded as hunt for unknown suspect enters fourth day, amid growing frustration",
+      "summary": "Entering its fourth day, the FBI has offered a $50,000 reward for information on the “stocky-built” suspect who killed two students and wounded nine with a 9mm handgun in Brown University’s Barus & Holley building. One person of interest was briefly detained and released amid criticism of FBI director Kash Patel’s premature resolution claims. Rhode Island authorities and Providence police are appealing to student witnesses and canvassing local footage amid frustration over limited campus surveillance. The slain include second-year Ella Cook and freshman Mukhammad Aziz Umurzokov.",
+      "summaryTokens": 1305,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/ice-immigration-raids-cities",
@@ -161,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T14:00:10Z",
       "trailText": "From LA to Charlotte, organizers are learning from others’ strategies to protect residents amid federal crackdowns",
-      "summary": "Cities from Los Angeles to Charlotte are sharing grassroots tactics—whistles, ICE-watch patrols, “know your rights” trainings and encrypted hotlines—to warn and protect immigrant residents during federal raids. Los Angeles DSA volunteers pioneered whistle kits and patrols at Home Depot, then coached Chicago organizers; Chicago activists in turn shipped kits and led remote trainings for New Orleans Indivisible. ACLU chapters swap field-tested best practices nationwide, while street-vendor networks learn to distinguish ICE from local police. Decentralized neighborhood cells and rapid tip response underscore a growing cross-city solidarity defending immigrant communities amid escalating ICE operations.",
-      "summaryTokens": 485,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Grassroots groups in US cities are sharing tactics to resist ICE raids: LA activists pioneered patrols at Home Depot lots to warn day laborers, distributing whistles and 'know your rights' flyers; Chicago adopted the tactic, while New Yorkers and Charlotte residents likewise used whistles to alert neighbors. Through DSA and Indivisible, Chicago organizers shipped whistle kits to New Orleans and led remote trainings for 800 people. ACLU branches relay legal updates statewide, while street vendor networks circulate protocols to distinguish local police from ICE. Decentralized neighborhood cells coordinate via secure channels to document raids, alert communities and disrupt arrests, forging cross-city solidarity.",
+      "summaryTokens": 1703,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/first-thing-donald-trump-sues-bbc-for-up-to-10bn-over-january-6-speech-edit",
@@ -173,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T13:14:31Z",
       "trailText": "President accuses broadcaster of ‘deceptive’ editing. Plus, music labels embrace AI despite artists’ concerns",
-      "summary": "The Guardian’s First Thing digest leads with Donald Trump’s $10 bn lawsuit against the BBC for ‘deceptively’ editing his January 6 Capitol speech, seeking $5 bn each for defamation and Florida’s deceptive trade law; the BBC has apologised but vows to defend itself amid UK political support. European leaders back a US-led “multinational force” in Ukraine pending territorial talks. Hollywood director Rob Reiner’s son Nick is arrested for his parents’ suspected murder. Briefs cover a Rhode Island campus shooting, US naval narcotics-boat strikes, 1,394 family-planning clinic closures, AI’s growing role in music, the Tigris drying crisis and a raccoon-merch fundraising success.",
-      "summaryTokens": 976,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Former US president Donald Trump has filed a $10bn lawsuit against the BBC, claiming its Panorama episode maliciously and deceptively edited his Jan 6, 2021 speech to imply he urged supporters to ‘fight like hell’ at the Capitol. He seeks $5bn each for defamation and breach of Florida’s Deceptive and Unfair Trade Practices Act. The BBC has apologised for the editing error, insisted the claim is baseless and vowed to defend itself, with UK ministers publicly backing its integrity. Separately, major record labels are embracing AI music tools despite artists warning they could dilute creativity and undermine livelihoods.",
+      "summaryTokens": 568,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/minnesota-congresswoman-ilhan-omar-trump-attacks",
@@ -185,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T13:00:04Z",
       "trailText": "The US House member says president’s rhetoric about her and Somali Americans could have dangerous consequences",
-      "summary": "Minnesota congresswoman Ilhan Omar warns that Donald Trump’s repeated personal and dehumanizing attacks—including calls to expel her, baseless conspiracy theories about her marriage and chants of “Send her back!”—are fueling a rise in credible death threats and politically motivated violence against her and Somali Americans. She notes threats spiked during Trump’s presidency, contrasted with near-zero threats under Biden, and cites federal security interventions. Omar condemns scapegoating of Somali communities, affirms her legislative focus on healthcare, climate, democratic institutions and election affordability, and warns US democracy remains fragile.",
-      "summaryTokens": 546,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Rep. Ilhan Omar (D-MN) warns that President Trump’s repeated personal attacks and dehumanizing rhetoric—like calling for her deportation, pushing baseless conspiracies about her Somali heritage, and labeling Somalis “garbage”—fuel a climate of political violence and endanger Somali-American communities. She cites prosecuted death threats, a past plot requiring a six-person security detail, and a record 9,474 threat investigations by Capitol Police in 2024. Threats fell to near zero under Biden but soared under Trump. Omar calls for stronger institutional guardrails and will focus on healthcare, affordability, climate policy and defending democracy in next year’s elections.",
+      "summaryTokens": 1077,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/mia-tretta-brown-university-shooting",
@@ -197,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T12:00:53Z",
       "trailText": "Mia Tretta has advocated for gun-violence prevention since being shot as a high school student in California in 2019",
-      "summary": "Mia Tretta, a 21-year-old Brown University junior who survived a 2019 mass shooting at Saugus High School that killed two classmates, faced her second active-shooter lockdown on December 14, 2025, after a gunman killed two students and wounded nine on campus. As police hunt the suspect, Tretta, already a vocal gun-violence prevention advocate, warned of the prevailing threat posed by untraceable “ghost guns” and record teen gun deaths. She argued that politicians are failing to protect students across socioeconomic divides and urged urgent federal regulations to curb ubiquitous access to firearms.",
-      "summaryTokens": 1063,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Mia Tretta, a 21-year-old Brown junior and 2019 Saugus high school shooting survivor, endured her second mass shooting when an active shooter killed two students and injured nine on campus. Text alerts and a “Run, hide, fight” lockdown followed. She recently performed a song at Washington DC’s national gun violence vigil. Tretta, now a gun violence prevention advocate, has campaigned against untraceable ghost guns since her first shooting. She warns politicians failing to ensure safe schools amid nearly 400 multi-victim shootings in 2025. Tretta’s story underscores U.S. gun violence’s indiscriminate nature and calls for federal reforms.",
+      "summaryTokens": 1783,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/flights-linked-epstein-arrived-departed-uk-airports",
@@ -209,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T10:22:46Z",
       "trailText": "Flight logs reveal three British women onboard who were allegedly trafficked by convicted sex offender, according to BBC",
-      "summary": "BBC analysis of Epstein estate documents reveals 87 flights to/from UK airports from early 1990s to 2018 linked to the convicted sex offender, including 15 after his 2008 conviction. Unidentified ‘females’ and three British women alleged to have been trafficked appear in the logs. Victim testimony aided Ghislaine Maxwell’s 2021 US conviction, yet no full-scale UK investigation has occurred and British police say no new evidence has emerged. Meanwhile, US legislation and court orders will force the December 19 release of hundreds of thousands of files on Epstein and Maxwell’s sex-trafficking case.",
-      "summaryTokens": 1008,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "BBC analysis of Epstein estate court records reveals 87 flights between the early 1990s and 2018 linked to Jeffrey Epstein landed at or departed UK airports, including 15 after his 2008 sex-offender conviction. Logs name three British women allegedly trafficked and list unidentified female passengers. Testimony from one victim helped convict Ghislaine Maxwell in 2021, yet UK police say no new evidence warrants reopening investigations. Meanwhile, US lawmakers passed a bill to force release of all government files by December 19, and a judge cleared publication of Maxwell case materials.",
+      "summaryTokens": 484,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "world/2025/dec/16/drunk-virginia-raccoon-merch-fundraiser",
@@ -221,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T10:00:19Z",
       "trailText": "Staff at the Ashland animal shelter sold merch of raccoon they cared for after he was found passed out in a liquor store",
-      "summary": "Merch commemorating the raccoon that barged into an Ashland, Virginia liquor store on Black Friday, smashed spirits and passed out has raised over $254,000 for the Hanover County Animal Shelter. Partnering with Bonfire, the shelter sold limited-edition “Trashed Panda” shirts, sweatshirts, cups and stickers featuring the sprawled, inebriated raccoon. Proceeds fund animal care and enrichment. The raccoon, nicknamed the “liquor store bandit,” had previous break-ins at a karate studio and DMV before being released back near its familiar territory. Officials say viral fame underscores the shelter’s work rescuing wildlife in urban areas adapting rapidly to human environments.",
-      "summaryTokens": 889,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Merch commemorating a Virginia raccoon that broke into an Ashland ABC liquor store on Black Friday, smashed whisky bottles and passed out, has raised over $254,000 for the Hanover County Animal Protection Shelter via Bonfire. Limited-edition “Trashed Panda” shirts, sweatshirts, cups and stickers are within 250 sales of a 19,000-item goal; proceeds fund shelter animal care and enrichment. The viral incident followed prior raccoon break-ins at a DMV and karate studio. Officials released the creature locally after he sobered, citing relocation as a death sentence. A recent study on urban raccoon domestication added context to the stunt.",
+      "summaryTokens": 1266,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/15/us-military-strikes-vessels-pacific",
@@ -233,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T07:28:47Z",
       "trailText": "US Southern Command says boats were ‘engaged in narco-trafficking’",
-      "summary": "The US Southern Command says it killed eight people after launching precision strikes on three vessels in international waters of the eastern Pacific suspected of narco-trafficking. Released footage shows each boat engulfed in explosions as part of over 20 US military attacks on smugglers under the Trump administration’s escalatory drug war, which has left some 90 suspected traffickers dead. Legal experts warn of potential extrajudicial killings despite Pentagon claims these actions comply with US and international law, including Trump’s recent WMD designation for fentanyl.",
-      "summaryTokens": 919,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "US Southern Command conducted strikes in international waters of the Eastern Pacific on three vessels suspected of narco-trafficking, killing eight individuals. Shared footage shows vessels moving along known trafficking routes before being destroyed. This operation, part of President Trump’s intensified anti-drug campaign, brings total vessel strikes to over 20 and at least 90 suspected smugglers killed across the Pacific and Caribbean. The Pentagon claims these actions comply with US and international law, but legal experts warn of potential extrajudicial killings. The strikes follow Trump’s designation of fentanyl as a “weapon of mass destruction.”",
+      "summaryTokens": 737,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/15/trump-bbc-lawsuit",
@@ -245,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T02:49:30Z",
       "trailText": "President accuses corporation of ‘intentionally, maliciously and deceptively’ editing speech in Panorama broadcast",
-      "summary": "President Donald Trump has filed a $10 billion lawsuit against the BBC, accusing it of “intentionally, maliciously and deceptively” editing his January 6, 2021, speech in a Panorama episode to suggest he incited the Capitol attack. He seeks $5 billion in damages each for defamation and violation of Florida’s Deceptive and Unfair Trade Practices Act. The BBC apologized for the “error of judgment” and saw its director general and news chief resign amid criticism of its coverage. Trump’s team claims U.S. jurisdiction via BBC’s digital platforms, framing the suit as pushback against alleged election interference and part of his broader campaign against major media outlets.",
-      "summaryTokens": 370,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "President Donald Trump has sued the BBC in Florida federal court seeking up to $10bn in damages, alleging the broadcaster “intentionally, maliciously and deceptively” edited his January 6, 2021 rally speech in a Panorama episode to imply he incited the Capitol attack. Trump filed two counts—defamation and violation of Florida’s Deceptive Trade Practices Act—each seeking $5bn. The BBC apologized for the editing error but denies legal liability. The lawsuit follows the resignations of the BBC’s director general and news chief amid broader coverage criticisms, extending Trump’s global campaign to hold media outlets legally accountable.",
+      "summaryTokens": 803,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/15/trump-fentanyl-weapon-of-mass-destruction-drug-war",
@@ -257,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T01:19:05Z",
       "trailText": "Order classifies opioid as potential chemical weapon amid administration’s attempts to combat drug smuggling",
-      "summary": "Donald Trump’s Dec 15 executive order labels fentanyl a “weapon of mass destruction,” directing the Pentagon and DOJ to escalate military-style measures against cartels accused of flooding US communities. The administration warns fentanyl could be weaponized for large-scale terror attacks, though experts say there’s no evidence of state or terrorist groups using it as such. This follows moves to designate cartels as foreign terrorist organizations and conduct over 20 naval strikes. Critics flag policy contradictions: cutting harm-reduction funding, undercutting public health efforts, and failing to address addiction while blaming undocumented immigrants and foreign suppliers.",
-      "summaryTokens": 936,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "Former President Donald Trump signed an executive order classifying fentanyl as a 'weapon of mass destruction', labeling it a potential chemical weapon and directing the Pentagon and DOJ to intensify anti-smuggling operations. The move escalates militaristic tactics—over 20 naval strikes so far—following his prior designation of cartels as foreign terrorist organizations. Critics and drug policy experts question the WMD comparison, noting no evidence of fentanyl use in terror attacks. The order aligns with Trump's broader hemispheric dominance strategy, ties to tougher immigration and trade policies with Mexico and China, and draws concerns about neglecting domestic addiction treatment and harm reduction funding.",
+      "summaryTokens": 942,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/16/trump-administration-latest-news-today",
@@ -269,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T01:15:52Z",
       "trailText": "Lawmakers from both sides criticize ‘petty’ posts; Trump seeking $10bn in damages from BBC – key US politics stories from 15 December 2025",
-      "summary": "President Trump blamed Rob Reiner’s death on ‘Trump Derangement Syndrome’, calling the director ‘tortured’—remarks condemned as ‘petty’ and ‘vile’ by bipartisan lawmakers and celebrities like Patrick Schwarzenegger and Whoopi Goldberg. Simultaneously, Trump filed a $10 bn lawsuit against the BBC over its edited Panorama segment of his January 6 speech. Other top US politics headlines: ICE abuse suit by green‐card holder Hilda Ramirez Sanan and her children; criticism of FBI chief Kash Patel’s premature Brown shooting update; Heritage Foundation’s appointment of Christian nationalist Scott Yenor; DOJ lawyers alleging political pressure in the UC antisemitism probe; and Gov. Newsom naming ex‐CDC leaders to head California’s new PHNIX.",
-      "summaryTokens": 967,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "President Trump drew bipartisan ire after blaming Rob Reiner’s death on “Trump derangement syndrome,” calling the late director “paranoid” and “tortured,” triggering “vile” backlash from celebrities and lawmakers. He also sued the BBC for $10 billion over an edited January 6 Panorama segment. Other key developments: a Massachusetts green-card holder sues ICE over a “violent” detention; FBI director Kash Patel criticized for premature case claims; The Heritage Foundation hires Christian nationalist Scott Yenor; DOJ lawyers allege political pressure in UC antisemitism probe; Gov. Newsom appoints ex-CDC officials to lead California’s new public health network.",
+      "summaryTokens": 1776,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/15/washington-state-immediate-evacuation-seattle-suburbs",
@@ -281,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-16T01:08:35Z",
       "trailText": "Orders come after a levee is breached following a week of heavy rain amid a flash-flood warning",
-      "summary": "King County ordered immediate evacuations east of the Green River in Kent, Auburn and Tukwila after the Desimone levee breached following a week of record rainfall and an atmospheric river event. The National Weather Service issued a flash-flood warning affecting 47,000 residents and warned of life-threatening flooding. Emergency crews dropped sandbags to stabilize the breach while the Washington National Guard and Coast Guard deployed troops and helicopters for rescues. The levee, damaged in 2020 and not fully repaired until 2031, remains under close monitoring amid climate-driven increases in Pacific Northwest atmospheric rivers.",
-      "summaryTokens": 554,
-      "generatedAt": "2025-12-17T03:50:48.633Z"
+      "summary": "King County ordered immediate evacuations in Kent, Auburn and Tukwila east of the Green River after the Desimone levee breached Monday amid record rains and an NWS flash-flood warning for 47,000 residents. A car-sized section of the 2020-damaged levee collapsed under floodwaters fueled by an atmospheric river. Crews have dropped sandbags and National Guard troops are en route while long-term repairs aren’t expected until 2031. In Sumas, USCG helicopters rescued people stranded on second floors. Researchers link more intense atmospheric rivers in the Pacific Northwest to ocean-warming climate change.",
+      "summaryTokens": 558,
+      "generatedAt": "2025-12-18T03:46:09.895Z"
     },
     {
       "id": "us-news/2025/dec/15/brown-university-shooting-victims",
