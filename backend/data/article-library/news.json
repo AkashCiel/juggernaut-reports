@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-17T03:42:01.555Z",
+    "generated_at": "2025-12-18T03:37:56.410Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-16"
+      "to": "2025-12-17"
     },
-    "article_count": 167,
+    "article_count": 170,
     "merge_info": {
-      "previous_count": 165,
-      "new_articles": 2,
-      "updated_articles": 1,
-      "total_count": 167
+      "previous_count": 167,
+      "new_articles": 3,
+      "updated_articles": 2,
+      "total_count": 170
     },
     "batch_info": {
-      "initial_batch_id": "batch_694225bc28248190b5b4b74143882d84",
+      "initial_batch_id": "batch_694376aa32648190a7926b34180ed864",
       "retry_batches": [],
-      "total_tokens": 5078,
-      "processing_time_hours": 0.1
+      "total_tokens": 8877,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/17/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/17/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/17/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-12-17T21:00:16Z",
+      "trailText": "Prof Hugh Hunt letter | US Capitol riot",
+      "summary": "This notice corrects a Dec 16 letter by Prof Hugh Hunt: 10 m tonnes of stratospheric aerosol would cool Earth by 1 °C, not 10 °C. It also fixes the date of the US Capitol riot to January 6, 2021 (not 2020). Other amended pieces include US travel advice from an American citizen, an exposé on AI summaries jeopardising recipe writers’ livelihoods, The Guardian’s 50 best TV shows of 2025 (#5 Blue Lights), and the Susan Todd obituary. Queries: guardian.readers@theguardian.com or Readers’ Editor, Kings Place, London.",
+      "summaryTokens": 555,
+      "generatedAt": "2025-12-18T03:37:56.210Z"
+    },
+    {
+      "id": "news/2025/dec/17/into-the-void-inside-the-19-december-guardian-weekly",
+      "title": "Into the void: inside the 19 December Guardian Weekly",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/17/into-the-void-inside-the-19-december-guardian-weekly",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/17/into-the-void-inside-the-19-december-guardian-weekly",
+      "section": "news",
+      "publishedDate": "2025-12-17T18:00:13Z",
+      "trailText": "Trump’s erosion of the rules-based order. Plus: From climate to culture, 2025 in review",
+      "summary": "In this final 2025 edition of Guardian Weekly, Patrick Wintour examines how Donald Trump’s “mobster diplomacy” and a crisis of legitimacy in international law are unravelling the post-WWII rules-based order. The issue reflects on the Sydney terror attack’s aftermath, then highlights grassroots resilience via Guardian Global Development’s profiles of everyday heroes and Kat Lay’s report on five breakthrough medical advances. Cultural roundups cover the year’s top films, albums and TV, while commentary longs for life beyond smartphones ahead of the magazine’s Jan 2 return.",
+      "summaryTokens": 865,
+      "generatedAt": "2025-12-18T03:37:56.210Z"
+    },
+    {
+      "id": "news/2025/dec/17/how-to-use-the-holidays-to-stop-our-whatsapp-aunties-from-becoming-ai-aunties",
+      "title": "How to use the holidays to stop our ‘WhatsApp aunties’ falling for AI",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/17/how-to-use-the-holidays-to-stop-our-whatsapp-aunties-from-becoming-ai-aunties",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/17/how-to-use-the-holidays-to-stop-our-whatsapp-aunties-from-becoming-ai-aunties",
+      "section": "news",
+      "publishedDate": "2025-12-17T13:02:59Z",
+      "trailText": "Family members can be sweet and relentless but how can we aid our relatives in the age of new tech and device addiction",
+      "summary": "Opinion piece urging compassionate holiday conversations with older relatives (“WhatsApp aunties”) who unwittingly spread AI-generated deepfakes and hoaxes. The author—once fooled—details their daily forwards of greetings, prayers, news clips and viral videos, warns of their outsized influence in diaspora communities, and rejects blunt debunking. Instead, she recommends acknowledging content, then gently pointing out AI “tells” (glitches, lighting oddities), and stresses empathy given elders’ isolation and tech anxiety.",
+      "summaryTokens": 987,
+      "generatedAt": "2025-12-18T03:37:56.210Z"
+    },
     {
       "id": "news/2025/dec/16/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +65,9 @@
       "section": "news",
       "publishedDate": "2025-12-16T21:00:14Z",
       "trailText": "Royal College of Emergency Medicine | Climate Investment Funds/Green Climate Fund",
-      "summary": "Guardian issues corrections: a previous article overstated that 16,600 people died last winter due to A&E care delays; the Royal College of Emergency Medicine data actually covers all 2024 deaths linked to prolonged pre-admission waits, not post-admission holdups. The climate aid story was amended to add responses from the Climate Investment Funds and Green Climate Fund, and its headline was updated to attribute findings. Other corrections include pieces on ex-Vodafone franchisees and US church nativity scenes protesting ICE. For corrections: guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU, voicemail +44 20 3353 4736.",
-      "summaryTokens": 696,
-      "generatedAt": "2025-12-17T03:42:01.107Z"
+      "summary": "Corrections: A previous RCEM estimate was misreported as 16,600 winter deaths due to A&E delays; it covered all 2024 and long waits before admission. The November 2025 NGO report on climate aid was updated to include Climate Investment Funds/Green Climate Fund responses and an amended headline attributing findings. Other corrected pieces include articles on ex-Vodafone franchisees’ testimonies and US church nativity scenes vs ICE. Editorial feedback: guardian.readers@theguardian.com, Readers’ editor postal and voicemail contacts.",
+      "summaryTokens": 914,
+      "generatedAt": "2025-12-18T03:37:56.210Z"
     },
     {
       "id": "news/2025/dec/16/australia-shooting-muslim-ban-democrats-republicans",
@@ -41,9 +77,9 @@
       "section": "news",
       "publishedDate": "2025-12-16T16:13:28Z",
       "trailText": "Randy Fine and Tommy Tuberville, US legislators, face backlash for Islamophobic calls to deport Muslims",
-      "summary": "In response to an Australian mass shooting, GOP Rep. Randy Fine and Sen. Tommy Tuberville demanded a Muslim travel ban, mass deportations and citizenship revocations, calling Islam a 'cult' and alleging Muslims have 'declared war'. Fine amplified Islamophobic posts, equating diversity with 'suicidal', and urging prosecutions of Gaza supporters. Democrats—from Rep. Alexandria Ocasio-Cortez to Sens. Schumer, Murray and Murphy—denounced the calls as bigoted and un-American. CAIR labeled Tuberville an 'anti-Muslim bigot', noting his refusal to engage with local Muslims. Critics warn the rhetoric mirrors Trump-era bans and fuels rising GOP Islamophobia.",
-      "summaryTokens": 1284,
-      "generatedAt": "2025-12-17T03:42:01.107Z"
+      "summary": "After an Australia mass shooting, GOP Rep Randy Fine and Sen Tommy Tuberville urged a US Muslim travel ban, mass deportations of legal and illegal Muslim immigrants, and citizenship revocations, calling Islam a “cult” bent on conquest. Democrats—AOC, Patty Murray, Chris Murphy, Chuck Schumer—denounced the proposals as vile Islamophobia. CAIR labeled Tuberville the first senator deemed an “anti-Muslim bigot.” Fine doubled down on social media; Tuberville spurned Muslim community outreach. The clash underscores rising anti-Muslim rhetoric on the US right.",
+      "summaryTokens": 806,
+      "generatedAt": "2025-12-18T03:37:56.210Z"
     },
     {
       "id": "news/2025/dec/15/corrections-and-clarifications",
