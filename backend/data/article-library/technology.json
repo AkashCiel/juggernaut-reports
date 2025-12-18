@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-17T03:48:29.123Z",
+    "generated_at": "2025-12-18T03:42:29.963Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-16"
+      "to": "2025-12-17"
     },
-    "article_count": 278,
+    "article_count": 281,
     "merge_info": {
-      "previous_count": 274,
-      "new_articles": 4,
-      "updated_articles": 2,
-      "total_count": 278
+      "previous_count": 278,
+      "new_articles": 3,
+      "updated_articles": 4,
+      "total_count": 281
     },
     "batch_info": {
-      "initial_batch_id": "batch_694227a82fb081909a4415ee4eb0b0dd",
+      "initial_batch_id": "batch_694377d8ecf0819081d619bd7bcc6d94",
       "retry_batches": [],
-      "total_tokens": 11750,
+      "total_tokens": 15980,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/17/from-nvidia-to-openai-silicon-valley-woos-westminster-as-ex-politicians-take-tech-firm-roles",
+      "title": "From Nvidia to OpenAI, Silicon Valley woos Westminster as ex-politicians take tech firm roles",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/17/from-nvidia-to-openai-silicon-valley-woos-westminster-as-ex-politicians-take-tech-firm-roles",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/17/from-nvidia-to-openai-silicon-valley-woos-westminster-as-ex-politicians-take-tech-firm-roles",
+      "section": "technology",
+      "publishedDate": "2025-12-17T18:02:22Z",
+      "trailText": "Commons committee monitoring revolving door that gave jobs to George Osborne, Nick Clegg and Tony Blair",
+      "summary": "Silicon Valley’s AI giants have cultivated deep ties with Westminster, enlisting former ministers—from George Osborne at OpenAI to Rishi Sunak at Anthropic, Nick Clegg at Meta and Tony Blair’s Tony Blair Institute, backed by Oracle’s Larry Ellison—in lobbying and advisory roles. Nvidia’s CEO Jensen Huang even hosted PM Keir Starmer and senior cabinet members at a London event to tout AI investments. The Commons science committee is monitoring the revolving door as ex-politicians help tech firms secure global government contracts. Meanwhile, the UK appoints industry figures like Google DeepMind’s Raia Hadsell as AI ambassador, underscoring mutual influence.",
+      "summaryTokens": 1341,
+      "generatedAt": "2025-12-18T03:42:29.745Z"
+    },
+    {
+      "id": "technology/2025/dec/17/hackers-access-pornhub-premium-users-viewing-habits-and-search-history",
+      "title": "Hackers access Pornhub’s premium users’ viewing habits and search history",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/17/hackers-access-pornhub-premium-users-viewing-habits-and-search-history",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/17/hackers-access-pornhub-premium-users-viewing-habits-and-search-history",
+      "section": "technology",
+      "publishedDate": "2025-12-17T13:16:40Z",
+      "trailText": "ShinyHunters group reportedly behind the hack affecting data of 200m users thought to be from before 2021",
+      "summary": "Western-based ShinyHunters gang allegedly accessed 201m records of Pornhub Premium users via Mixpanel analytics, stealing email addresses, search queries, viewing history, location data and video metadata from before 2021. The Canadian-owned site says no breach of its own systems occurred, and that passwords, payment and financial info remain secure. ShinyHunters has demanded bitcoin in extortion threats to avoid selling or publishing the data. Cybersecurity firm Sophos has found no evidence of public leaks so far. ShinyHunters, part of a youth-dominated cybercrime community known as The Com, has links to previous hacks of retailers like M&S and Harrods.",
+      "summaryTokens": 1079,
+      "generatedAt": "2025-12-18T03:42:29.745Z"
+    },
+    {
+      "id": "technology/2025/dec/17/amazon-talks-invest-in-openai-developer-of-chatgpt",
+      "title": "Amazon in talks to invest $10bn in developer of ChatGPT",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/17/amazon-talks-invest-in-openai-developer-of-chatgpt",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/17/amazon-talks-invest-in-openai-developer-of-chatgpt",
+      "section": "technology",
+      "publishedDate": "2025-12-17T12:17:05Z",
+      "trailText": "OpenAI seeking to strike latest deal in its efforts to pay for huge spending on datacentres",
+      "summary": "Amazon is in talks to invest over $10bn in OpenAI—potentially lifting its valuation above $500bn—to help fund OpenAI’s commitments, including $38bn on AWS capacity over seven years and a projected $1.4tn compute spend over eight years. The deal would see Amazon supply its Trainium chips and explore enterprise ChatGPT offerings, potentially alongside other backers. OpenAI, restructured as a for-profit, has Microsoft with a ~27% stake, is planning an IPO valuing it up to $1tn, and has parallel deals with Oracle (datacentre builds) and Nvidia (chip purchases). Former UK chancellor George Osborne joins to broker global AI partnerships as Sam Altman declares a “code red” against Google’s Gemini.",
+      "summaryTokens": 711,
+      "generatedAt": "2025-12-18T03:42:29.745Z"
+    },
     {
       "id": "technology/2025/dec/16/uk-us-tech-prosperity-deal-trump-europe",
       "title": "UK insists US tech deal not dead as Trump threatens penalties against European firms",
@@ -29,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-12-16T23:20:32Z",
       "trailText": "Keir Starmer’s office claims UK still in ‘active conversations’ about deal for tech industries in both countries to cooperate",
-      "summary": "Downing Street says talks on the paused $40 billion UK-US Tech Prosperity Deal remain ‘active’, despite US complaints over the UK’s digital services tax and food-safety rules limiting agri-exports. The agreement, billed as historic cooperation on emerging technologies, was shelved after Washington accused London of imposing trade barriers. Meanwhile, the Trump administration warned European firms – from Accenture and DHL to Spotify and Siemens – of punitive fees and service restrictions if the EU doesn’t roll back ‘discriminatory’ lawsuits, taxes and fines. Brussels, citing fairness, vowed to enforce its rules equally, following a $140 million DSA penalty against Musk’s X.",
-      "summaryTokens": 438,
-      "generatedAt": "2025-12-17T03:48:28.596Z"
+      "summary": "UK insists the $40bn Tech Prosperity Deal with the US remains paused but alive, with ongoing talks despite US objections to the UK’s digital services tax and strict food-safety rules. Downing Street vows to resume negotiations soon. Simultaneously, the Trump administration threatens fees and trade restrictions on EU tech firms (Accenture, DHL, Spotify, Siemens) over “discriminatory” Digital Services Act lawsuits, taxes and fines. The European Commission retorts its rules are applied fairly. After a €140m fine on Elon Musk’s X for DSA breaches, US-EU tech tensions are mounting.",
+      "summaryTokens": 1706,
+      "generatedAt": "2025-12-18T03:42:29.745Z"
     },
     {
       "id": "technology/2025/dec/16/hinge-tinder-date-rape-lawsuit",
@@ -41,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-16T18:00:18Z",
       "trailText": "Civil suit, citing the Dating App Reporting Project, argues that dating apps could kick off serial rapists but don’t",
-      "summary": "Six women in Denver sued Match Group over Hinge and Tinder’s alleged negligence and defective design after serial rapist Dr. Stephen Matthews drugged and assaulted them between 2019-2023. The lawsuit claims apps ignored rape reports, promoted known predators, let banned users rejoin without verification, and removed unmatch reporting. Citing an investigation by the Dating Apps Reporting Project, plaintiffs seek damages but face Section 230 immunity hurdles. Match Group insists it’s boosting safety via AI moderation, ID checks and video verification.",
-      "summaryTokens": 848,
-      "generatedAt": "2025-12-17T03:48:28.596Z"
+      "summary": "Six women attacked by Denver cardiologist Stephen Matthews, who was reported multiple times but remained on Hinge and Tinder, have sued Match Group for negligence and a “defective” product that accommodates rapists. The complaint, citing the Dating Apps Reporting Project investigation, alleges the company ignored rape reports, failed to warn users, and allowed serial predators to rematch victims by unmatching. It seeks unspecified damages under product liability and negligence, challenging Section 230 immunity. Match Group defends its safety AI, ID verification and video checks, but survivors say it still prioritizes growth over user protection.",
+      "summaryTokens": 989,
+      "generatedAt": "2025-12-18T03:42:29.745Z"
     },
     {
       "id": "technology/2025/dec/16/great-lakes-us-data-centers",
@@ -53,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-16T13:00:05Z",
       "trailText": "Region struggling with drought now threatened by energy-hungry facilities – but some residents are fighting back",
-      "summary": "Water levels in the Great Lakes have fallen 2–4ft since 2019 amid drought, warmer temperatures and record evaporation, just as hyperscale data centres arrive. Aligned Data Centers broke ground on a 200,000 sq ft, four-building facility in Perkins Township, Ohio, prompting farmers and residents to fear reduced municipal pressure. Microsoft’s AI hub in Mount Pleasant and AWS projects near Lake Michigan similarly plan to draw millions of gallons annually. Communities have mounted protests and zoning bans, but companies have sued to override them. Critics warn of ecological impacts and stressed water infrastructure, while developers promise jobs, tax revenue and upgrades.",
-      "summaryTokens": 551,
-      "generatedAt": "2025-12-17T03:48:28.596Z"
+      "summary": "Water levels across the five Great Lakes have fallen 2–4 ft since 2019 amid drought and record evaporation, even as hyperscale AI data centers proliferate. Aligned Data Centers’ 200,000 ft² NEO-01 in Ohio, Microsoft’s 8.4 bn gal/yr Wisconsin facility and AWS sites near Lake Michigan draw on municipal water (Purdue: ~300,000 gal/day/site), often via open-loop cooling. Under the Great Lakes Compact, withdrawals must stay in-basin, yet towns from Fife Lake (plan scrapped) to Saline Township (OpenAI/Oracle lawsuit) clash over environmental, infrastructural and legal impacts versus promised jobs and tax incentives.",
+      "summaryTokens": 707,
+      "generatedAt": "2025-12-18T03:42:29.745Z"
     },
     {
       "id": "technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan",
@@ -65,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-12-16T05:00:14Z",
       "trailText": "Liz Kendall faces pressure from campaigners as she tells parliament there is no clear consensus on issue",
-      "summary": "A UK government consultation on AI training data drew over 10,000 responses: 95% backed stronger copyright and mandatory licensing for music, novels, films and other works, while only 3% supported the government’s preferred active opt-out approach. In response to pressure from popstars including Elton John, Dua Lipa, Sam Fender and Kate Bush—and a high-profile protest by Paul McCartney—ministers have abandoned the opt-out plan. Science secretary Liz Kendall told Parliament there is “no clear consensus” and will publish policy proposals by 18 March 2026. Campaigners led by Ed Newton-Rex and the New Media Association’s Owen Meredith urge binding licenses to ensure AI firms pay for creative content.",
-      "summaryTokens": 457,
-      "generatedAt": "2025-12-17T03:48:28.596Z"
+      "summary": "UK government consultation on AI training data saw 95% of over 10,000 respondents back stronger copyright protections and mandatory licensing for music, novels, films and no change to law, while only 3% supported a tech-favored active opt-out plan, prompting ministers to drop it. Pop stars Elton John, Dua Lipa and Sam Fender led the campaign; Paul McCartney even released a silent track. Science Minister Liz Kendall, pledging proposals by March 2026, stressed balancing innovation and creative industry growth. Rights advocates like Ed Newton-Rex and New Media Association’s Owen Meredith demand AI firms must pay for licensed content and end legal uncertainty.",
+      "summaryTokens": 1085,
+      "generatedAt": "2025-12-18T03:42:29.745Z"
     },
     {
       "id": "technology/2025/dec/15/google-ai-recipes-food-bloggers",
