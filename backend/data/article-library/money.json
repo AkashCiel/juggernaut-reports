@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-12-17T03:38:27.878Z",
+    "generated_at": "2025-12-18T03:36:02.341Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-12-16"
+      "to": "2025-12-17"
     },
-    "article_count": 155,
+    "article_count": 157,
     "merge_info": {
-      "previous_count": 152,
-      "new_articles": 3,
-      "updated_articles": 6,
-      "total_count": 155
+      "previous_count": 155,
+      "new_articles": 2,
+      "updated_articles": 2,
+      "total_count": 157
     },
     "batch_info": {
-      "initial_batch_id": "batch_69422501f8bc8190ad8d195c02d0d8ee",
+      "initial_batch_id": "batch_6943761518d4819095447738544ffa4a",
       "retry_batches": [],
-      "total_tokens": 13529,
+      "total_tokens": 7551,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/dec/17/beans-beans-the-more-you-eat-the-more-your-meals-are-healthier-and-cheaper",
+      "title": "Beans, beans, the more you eat, the more your … meals are healthier and cheaper",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/17/beans-beans-the-more-you-eat-the-more-your-meals-are-healthier-and-cheaper",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/17/beans-beans-the-more-you-eat-the-more-your-meals-are-healthier-and-cheaper",
+      "section": "money",
+      "publishedDate": "2025-12-17T07:00:27Z",
+      "trailText": "Celebrity chefs such as Jamie Oliver launch ‘Bang in Some Beans’ campaign to highlight cost savings and health advantages",
+      "summary": "Jamie Oliver, Hugh Fearnley-Whittingstall and major UK supermarkets have launched the ‘Bang in Some Beans’ campaign to double consumption of black, borlotti, butter, cannellini, fava, haricot and kidney beans by 2028. Beans offer sustainable, protein-rich, fibre-packed, low-fat, cholesterol-free nutrition at a fraction of meat costs, cutting food bills and carbon footprints. Experts recommend stretching stews, bolognese, chilli or shepherd’s pie by swapping half the meat for beans, using tinned for convenience or bulk-buying and freezing dried beans. A 400g tin of kidney beans (49p) versus 100g chicken (72p) highlights savings. Recipes include butter bean smash, bean burgers, dals, bean brownies and chocolate bean spread.",
+      "summaryTokens": 672,
+      "generatedAt": "2025-12-18T03:36:02.149Z"
+    },
+    {
+      "id": "money/2025/dec/17/learner-drivers-great-britain-driving-test-wait-2027",
+      "title": "Promise of seven-week driving test wait in Great Britain ‘unlikely to happen until 2027’",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/17/learner-drivers-great-britain-driving-test-wait-2027",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/17/learner-drivers-great-britain-driving-test-wait-2027",
+      "section": "money",
+      "publishedDate": "2025-12-17T06:00:26Z",
+      "trailText": "Government efforts to recruit examiners fail again with average test slot wait now at 22 weeks, report says",
+      "summary": "An NAO report finds DVSA’s plan to cut driving test waits from 22 weeks to seven by end-2025 won’t be met until November 2027. Despite 19 recruitment drives since 2021, net examiner hires total just 83 versus a 400 target. Around 680,000 learners have passed theory but can’t book practical tests; 70% of centres are fully booked 24 weeks ahead. Bots and touts resell slots at inflated prices; DVSA loses £24 per test, accruing a £44m deficit. DfT pledges more tests, military examiners and booking limits from spring 2026.",
+      "summaryTokens": 629,
+      "generatedAt": "2025-12-18T03:36:02.149Z"
+    },
     {
       "id": "money/2025/dec/16/fuel-retailers-savings-oil-prices-fall-barrel",
       "title": "UK fuel retailers urged to pass on savings as oil prices fall below $60 a barrel",
@@ -29,9 +53,9 @@
       "section": "money",
       "publishedDate": "2025-12-16T14:14:35Z",
       "trailText": "Pump prices ‘stuck’ despite cost of oil falling amid prospect of peace in Ukraine, say experts",
-      "summary": "Oil prices fell below $60 a barrel for first time since Feb 2021 as Russia-Ukraine peace talks intensify, yet UK pump prices barely budged—petrol down only 0.2p to 137.3p/litre, diesel to 146.6p. AA warns motorists overpaying by about 7p/litre, a £4.60 saving on a 55-litre fill unmet. Morgan Stanley and Rystad predict sanctions lift and ceasefire could release tens to hundreds of millions of barrels, easing supply constraints. Zelensky and Trump see a deal imminent, boosting hopes of sustained price relief.",
-      "summaryTokens": 751,
-      "generatedAt": "2025-12-17T03:38:27.416Z"
+      "summary": "As Brent crude dipped below $60 for the first time since February 2021—falling to $59.20—wholesale oil prices are off over 7% this month but UK pump prices remain stuck at around 137.3p/l for petrol and 146.6p/l for diesel. The AA warns retailers are denying motorists a 7p/l cut, worth £4.60 on a 55-litre tank, despite peace-deal-driven sanctions relief prospects in Ukraine. Donald Trump and Volodymyr Zelenskiy say a ceasefire is imminent, and analysts at Morgan Stanley and Rystad Energy forecast tens to hundreds of millions of barrels of Russian supply could return to market as sanctions ease and attacks cease.",
+      "summaryTokens": 1551,
+      "generatedAt": "2025-12-18T03:36:02.149Z"
     },
     {
       "id": "money/2025/dec/16/were-sunk-when-it-comes-to-getting-a-swim-refund",
@@ -41,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-12-16T07:00:14Z",
       "trailText": "Notifications of cancellations at Rebecca Adlington and Steve Parry’s swimming school don’t mention form-filling process to get money back",
-      "summary": "Parents paying Swim! by direct debit are routinely left out of pocket after lesson cancellations because notifications omit the requirement to submit a refund form within 30 days. One mother inadvertently paid for five cancelled sessions before discovering the six-page buried refund clause, which limits payouts to “certain circumstances.” Consumer lawyer Gary Rycroft warns this hidden process breaches the Consumer Protection from Unfair Trading Regulations 2008. Swim! insists statutory rights aren’t restricted and promises service improvements without explaining why cancellation emails remain silent on refunds.",
-      "summaryTokens": 278,
-      "generatedAt": "2025-12-17T03:38:27.416Z"
+      "summary": "At Swim!, the national school founded by Olympians Rebecca Adlington and Steve Parry, parents paying by direct debit report cancelled lessons without clear refund instructions. Text/email notices omit the mandatory 30-day form-filling requirement, buried in six-page terms and conditions, so many inadvertently lose fees for cancelled sessions. Trustpilot reviews and consumer lawyer Gary Rycroft call this an unfair practice under the Consumer Protection from Unfair Trading Regulations 2008, as refunds shouldn’t hinge on a “hidden process.” Swim! insists it honors statutory rights and will improve communications, yet fails to explain why notices omit refund steps.",
+      "summaryTokens": 683,
+      "generatedAt": "2025-12-18T03:36:02.149Z"
     },
     {
       "id": "money/2025/dec/15/thousands-of-speeding-fines-could-be-cancelled-after-technical-issue",
