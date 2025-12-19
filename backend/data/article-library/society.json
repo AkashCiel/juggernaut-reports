@@ -1,37 +1,109 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2025-12-18T03:41:04.827Z",
+    "generated_at": "2025-12-19T04:11:37.648Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-17"
+      "to": "2025-12-18"
     },
-    "article_count": 516,
+    "article_count": 522,
     "merge_info": {
-      "previous_count": 500,
-      "new_articles": 16,
-      "updated_articles": 5,
-      "total_count": 516
+      "previous_count": 516,
+      "new_articles": 6,
+      "updated_articles": 17,
+      "total_count": 522
     },
     "batch_info": {
-      "initial_batch_id": "batch_69437779482481908f1d8fbe41648181",
+      "initial_batch_id": "batch_6944ce3d264c8190899b73e74671feed",
       "retry_batches": [],
-      "total_tokens": 42947,
-      "processing_time_hours": 0
+      "total_tokens": 49673,
+      "processing_time_hours": 0.2
     }
   },
   "articles": [
     {
+      "id": "society/2025/dec/18/uk-government-strategy-to-protect-women-and-girls-from-violence-seriously-underfunded",
+      "title": "UK government strategy to protect women and girls from violence ‘seriously underfunded’",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/18/uk-government-strategy-to-protect-women-and-girls-from-violence-seriously-underfunded",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/18/uk-government-strategy-to-protect-women-and-girls-from-violence-seriously-underfunded",
+      "section": "society",
+      "publishedDate": "2025-12-18T19:05:36Z",
+      "trailText": "Campaigners welcome plans but say poor funding means Labour’s ambitions unlikely to be met",
+      "summary": "The UK government’s landmark £1bn VAWG strategy pledges prevention and tougher measures but campaigners say it falls seriously short. Only £3m is set aside for a teacher training pilot, with no long-term funding for frontline support. Policies include healthy-relationship and pornography education in schools, GP referrals, £50m therapy for child victims, bans on AI nudification apps, specialist police rape units, strict restraining orders, £19m for safe housing and £550m for criminal-justice support. Charities like End Violence Against Women and the domestic abuse commissioner warn it lacks sustainable core funding and has been weakened by publication delays.",
+      "summaryTokens": 888,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
+    },
+    {
+      "id": "society/2025/dec/18/david-levy-review-nhs-gender-clinics-england",
+      "title": "Long waits and ‘unacceptable’ lack of data at NHS gender clinics in England, review finds",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/18/david-levy-review-nhs-gender-clinics-england",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/18/david-levy-review-nhs-gender-clinics-england",
+      "section": "society",
+      "publishedDate": "2025-12-18T19:04:26Z",
+      "trailText": "Impossible to judge safety or effectiveness as adult clinics not systematically recording outcomes, Dr David Levy finds",
+      "summary": "Dr David Levy’s review found NHS adult gender dysphoria clinics lack systematic outcomes data, making safety and effectiveness impossible to judge. Average wait for a first appointment is 5 years 7 months, projected to reach 15 years. Referrals have surged, now 57% aged 18–25 and more birth-registered females; only 31.5% complete treatment. Long waits drive some to self-source hormones online. Clinics recorded virtually no data on detransition. Funding for non-surgical care rose from £16m to £36m (2020-25). Levy issues 20 recommendations, including mandatory outcome reporting by birth sex and launching a national improvement programme in January.",
+      "summaryTokens": 763,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
+    },
+    {
+      "id": "society/2025/dec/18/nhs-england-on-high-alert-as-flu-admissions-surge-amid-staff-strikes",
+      "title": "Stay at home if you have flu symptoms, experts urge amid fears of second surge",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/18/nhs-england-on-high-alert-as-flu-admissions-surge-amid-staff-strikes",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/18/nhs-england-on-high-alert-as-flu-admissions-surge-amid-staff-strikes",
+      "section": "society",
+      "publishedDate": "2025-12-18T17:38:59Z",
+      "trailText": "NHS England on high alert as admissions reach all-time high for this time of year",
+      "summary": "Experts warn of a potential second flu surge as NHS England records a seasonal high of 3,140 hospitalised flu patients per day—an 18% weekly rise and starkly above last year’s 2,629. Although admissions plateau nationally (10.3 per 100,000), England’s east (+39%) and south-west (+40%) see sharp increases, while the north-west drops 4%. NHS England’s national medical director warns hospitals are “not out of the woods yet,” as critical care beds occupied by flu patients rise. With doctors on strike compounding winter pressures, officials urge handwashing, ventilation, free jabs and staying home if symptomatic through the festive period.",
+      "summaryTokens": 1537,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
+    },
+    {
+      "id": "society/2025/dec/18/better-to-be-online-than-on-hold-for-a-gp",
+      "title": "Better to be online than on hold for a GP | Brief letters",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/18/better-to-be-online-than-on-hold-for-a-gp",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/18/better-to-be-online-than-on-hold-for-a-gp",
+      "section": "society",
+      "publishedDate": "2025-12-18T17:08:08Z",
+      "trailText": "Brief letters: Booking system benefits | Resident doctors’ strikes | Awful arpeggios | Waiting for HS2 | Stages of ageing",
+      "summary": "Five readers respond: Anne McLaughlin, a single mother of two disabled children, welcomes her inner-city surgery’s new online GP booking system as more efficient and less stressful than waiting on hold; Tony Fletcher challenges politicians condemning junior doctors’ strikes to account for pay lost since 2008; Edward Collier recounts suffering carpal tunnel from grade-8 piano arpeggios; David Griffiths mocks HS2’s projected four-digit start date; and Chris Southey recalls his father’s quip on three ages of man.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
+    },
+    {
+      "id": "society/2025/dec/18/badenoch-accused-of-inaccurate-claims-violence-against-women",
+      "title": "Badenoch accused of making ‘deeply inaccurate’ claims about violence against women",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/18/badenoch-accused-of-inaccurate-claims-violence-against-women",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/18/badenoch-accused-of-inaccurate-claims-violence-against-women",
+      "section": "society",
+      "publishedDate": "2025-12-18T16:31:54Z",
+      "trailText": "Tory leader says Labour should focus on migrants ‘from cultures that don’t respect women’ rather than tackling misogyny in schools",
+      "summary": "After safeguarding minister Jess Phillips unveiled a government strategy calling violence against women a ‘national emergency’ and aiming to halve these crimes within a decade, Tory leader Kemi Badenoch downplayed misogyny in schools and blamed ‘cultures that don’t respect women’ among migrants. Critics including Phillips, Imkaan’s Ghadah Alnasseri and End Violence Against Women’s Andrea Simon condemned her rhetoric as ‘deeply inaccurate’, racist and politically exploitative, noting most abuse is domestic and perpetrated by known individuals rather than recent arrivals.",
+      "summaryTokens": 350,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
+    },
+    {
+      "id": "society/2025/dec/18/uk-industrial-regions-face-entrenched-disadvantages-going-back-decades",
+      "title": "UK’s former industrial regions face ‘entrenched disadvantages’ going back decades",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/18/uk-industrial-regions-face-entrenched-disadvantages-going-back-decades",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/18/uk-industrial-regions-face-entrenched-disadvantages-going-back-decades",
+      "section": "society",
+      "publishedDate": "2025-12-18T10:07:16Z",
+      "trailText": "Stark regional inequalities persist, with rising numbers of young people not in work, education or training",
+      "summary": "Social Mobility Commission’s report warns that former industrial regions across Britain—especially Yorkshire, the north-east, the Midlands, Wales and Scotland—endure ‘entrenched disadvantages’ from decades of deindustrialisation. Between 2022 and 2024, one in seven 16–24-year-olds were NEET. Although professional employment rose to 48.2% among 25–29-year-olds, working-class and low-income women still face barriers, and job growth is concentrated in a few urban ‘beacons of hope’ such as Aberdeen, Brighton, Bristol and Manchester. Research also highlights widening class gaps, sticky class identities and shifts in success towards wellbeing and work-life balance.",
+      "summaryTokens": 713,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
+    },
+    {
       "id": "society/2025/dec/17/teachers-will-be-given-extra-training-to-tackle-misogyny-in-schools",
-      "title": "Teachers will be given extra training to tackle misogyny in schools",
+      "title": "Boys to learn difference between porn and real life to tackle misogyny in England’s schools",
       "webUrl": "https://www.theguardian.com/society/2025/dec/17/teachers-will-be-given-extra-training-to-tackle-misogyny-in-schools",
       "apiUrl": "https://content.guardianapis.com/society/2025/dec/17/teachers-will-be-given-extra-training-to-tackle-misogyny-in-schools",
       "section": "society",
-      "publishedDate": "2025-12-17T22:30:18Z",
-      "trailText": "Keir Starmer says ‘toxic ideas are taking hold early and going unchallenged’ – with teaching to focus on deepfakes and online harassment",
-      "summary": "The UK government has unveiled a multimillion-pound strategy to halve violence against women and girls by 2035, starting with extra teacher training and updated RSHE lessons from September 2026. From age 11, pupils demonstrating misogyny will attend courses on porn literacy, consent, coercion, peer pressure, deepfakes, online harassment and stalking. Teachers can intervene, refer at-risk students to behavioural programmes and access expert-led pilots in secondary schools. The plan’s three pillars target harmful manosphere influencers, dedicated rape and domestic abuse teams with protection orders, and a £550 million fund for victims, though critics warn support services lack long-term funding.",
-      "summaryTokens": 507,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "publishedDate": "2025-12-18T08:46:28Z",
+      "trailText": "Teachers to be given extra training as Keir Starmer warns ‘toxic ideas are taking hold early and going unchallenged’",
+      "summary": "England will invest millions in teacher training and behavioural courses to tackle early misogyny in schools, teaching boys from age 11 porn literacy, coercion, consent, deepfakes and healthy relationships. Part of the government’s VAWG strategy aims to halve violence against women in a decade via RSHE reforms statutory for state schools from Sept 2026, pilots on explicit image dangers and support on online harms. It outlines three pillars: countering 'manosphere' influencers, dedicated sexual offence teams with enforceable orders and £550m for victim services. Critics warn funding shortfalls may hinder specialist support and overburden schools.",
+      "summaryTokens": 1584,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/council-funding-deal-who-are-the-winners-and-losers-and-will-tax-bills-go-up",
@@ -41,9 +113,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T22:25:58Z",
       "trailText": "Cash is now being distributed using a new Fair Funding formula that gives greater weighting to local authorities with high ‘deprivation’ scores",
-      "summary": "The government’s new three-year settlement allocates council funding via a Fair Funding formula weighted by deprivation. Highly deprived areas—Middlesbrough, Manchester, Birmingham, Haringey, Newham—see the biggest spending-power gains; affluent councils such as Kensington & Chelsea and Surrey face cuts. Most local authorities plan to raise council tax by the 4.99% cap (some may exceed it) to plug budget gaps. Despite a fairer split, overall funding remains flat, leaving councils struggling with social care, homelessness and services like libraries—and up to 100 may seek exceptional support to avoid insolvency.",
-      "summaryTokens": 566,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "The government has announced a three-year funding settlement for English councils, reallocating core grants via a new Fair Funding formula weighted toward areas with high deprivation (measured by income, employment, health, housing and crime). Deprived authorities like Middlesbrough, Manchester, Birmingham and Outer London boroughs (Haringey, Newham) gain, while affluent areas (Kensington & Chelsea, Surrey) lose. Most councils plan to raise council tax by the maximum 4.99% despite some local pledges to limit increases. Though redistribution is fairer, overall resources remain tight, and many councils face continued service cuts or may resort to exceptional financial support to avoid insolvency.",
+      "summaryTokens": 387,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/conciliation-service-involved-in-efforts-to-resolve-resident-doctors-strike",
@@ -53,9 +125,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T19:52:20Z",
       "trailText": "Conciliation service ‘in contact with all the parties involved’ as medics in England strike for 14th time",
-      "summary": "Acas has offered its impartial, free conciliation services to the government and BMA to break the 14th resident doctors’ strike in England over pay and training posts. Director Kevin Rowan confirmed contact with all parties, stressing voluntary mediation requiring full consent. Despite NHS and Patients Association calls for talks, DHSC denies receiving an Acas proposal, and the BMA’s resident doctors committee rejects mediation. The legal strike mandate ends 6 January; a fresh ballot may trigger further strikes from February/March. Keir Starmer criticizes the walkout amid a flu surge; doctors cite unmet pay and training demands.",
-      "summaryTokens": 875,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "Acas, the UK’s conciliation service, has offered voluntary, independent mediation to end the 14th strike by resident doctors in England over pay and training posts. Director Kevin Rowan confirmed Acas is ‘ready to help’ but has only made an offer; neither the Department of Health nor the BMA’s negotiating team has formally engaged. Patients Association CEO Rachel Power urged both sides to accept talks. The BMA’s legal mandate to strike runs until 6 January and a fresh ballot could trigger new action from February or March, while ministers focus on patient safety amid a record winter flu surge.",
+      "summaryTokens": 488,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/permanent-winter-a-day-in-the-life-of-a-hospital-dealing-with-flu-and-strikes",
@@ -65,9 +137,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T19:51:58Z",
       "trailText": "The Guardian gained rare access to Royal Stoke university hospital to see how staff free up beds for patients in a gridlocked system",
-      "summary": "Royal Stoke University Hospital, a 1,178-bed regional NHS hub, is at Opel 4, with every usable bed occupied and patients treated in corridors and ambulances waiting up to six hours. A record early flu surge colliding with a five-day junior doctors’ strike has turned winter into a year-round crisis. Staff deploy “hot clinics,” community response teams, in-reach specialists and virtual wards, while operations leads track bed flow on live dashboards. Clinicians praise resilient teamwork and resourceful problem-solving amid exhausting systemic gridlock.",
-      "summaryTokens": 1007,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "At Royal Stoke University Hospital, all 1,178 beds are occupied and dozens of patients are treated in ED corridors as ambulances queue for hours, pushing Opel risk level to 4. An early, record flu spike collides with a five-day junior doctors’ strike, worsening chronic \"permanent winter\" pressure. Staff juggle discharges, corridor beds and isolation rooms—crucial for vulnerable patients like a 74-year-old man with motor neurone disease on NIV—using hot clinics, 'In-Reach' teams and virtual wards to free space. Meticulous computer monitoring and community response teams ease bottlenecks, but IT outages and delayed transfers intensify the gridlock.",
+      "summaryTokens": 2110,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/some-of-england-most-deprived-councils-to-receive-funding-boost-in-new-deal",
@@ -77,9 +149,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T19:39:35Z",
       "trailText": "Manchester, Bradford and outer London boroughs among those to receive increases ministers hope will ‘restore pride’",
-      "summary": "Ministers have unveiled a three-year fair funding deal shifting grants from affluent south-east and rural areas to England’s most-deprived councils—Manchester, Birmingham, Luton, Bradford, Coventry, Derby and key outer London boroughs—to “restore pride” after a decade of cuts. The County Councils Network and some northern city leaders argue London’s suburbs benefit disproportionately. Wealthy central boroughs (Wandsworth, Westminster, Kensington & Chelsea, City of London, Windsor & Maidenhead) can raise council tax above 4.99% to offset losses. Reform-led councils like Kent gain funding but face uncertainty over tax cuts; others such as Durham and Warwickshire warn of service cuts. No plan addresses the projected £14bn SEN deficit by 2028.",
-      "summaryTokens": 1685,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "Under a new three-year settlement, ministers will boost grant funding for 31 deprived councils—including Manchester, Birmingham, Luton, Bradford, Coventry, Derby, Haringey and Enfield—shifting resources away from affluent south-east areas. Housing and Communities Secretary Steve Reed touts it as restoring youth services, libraries and clean streets after a decade of cuts. Some northern and county councils, alongside the County Councils Network, argue London’s suburbs are biggest winners. Wealthy boroughs like Wandsworth may exceed 4.99% council-tax cap; SEN deficits near £14bn remain unaddressed.",
+      "summaryTokens": 761,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/rights-group-challenges-trans-inclusive-swimming-policy-at-hampstead-heath",
@@ -89,9 +161,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T18:08:42Z",
       "trailText": "Allowing entry on the basis of self-identification of gender rather than biological sex is unlawful, high court told",
-      "summary": "Rights group Sex Matters has sought high court permission to challenge the City of London Corporation’s interim trans-inclusive admission rules at Hampstead Heath’s single-sex ponds, arguing self-identification entry contradicts equality law. Following last April’s Supreme Court ruling defining sex biologically, the City withdrew its EHRC-based policy, launched a 38,000-response consultation and erected signage welcoming trans women in the women’s pond. Claimants say communal changing areas compromise female privacy and dignity and pose greater safety risks. A new policy is due in March; the court will decide in January.",
-      "summaryTokens": 489,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "Sex Matters has applied for court permission to challenge the City of London Corporation’s interim trans-inclusive swimming policy at Hampstead Heath, arguing that allowing entry to single-sex ponds and changing rooms on self-identified gender rather than biological sex breaches equality law. Since 2019 trans and non-binary swimmers have used ponds matching their identity under EHRC guidance, but following last April’s Supreme Court ruling the City withdrew its gender-identity policy and is consulting on new rules. Interim signage welcomes women and those identifying as women at the ladies’ pond and men and trans men at the men’s pond. A ruling on permission is due in January.",
+      "summaryTokens": 756,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/will-resident-doctors-lose-support-over-latest-strike",
@@ -101,9 +173,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T17:59:52Z",
       "trailText": "Letters: Karen Ford says strike action is set to continue because of political posturing, while an NHS consultant worries about the deteriorating relationship among colleagues. Plus letters from John Sowerby, Dr Mussaddaq Iqbal, Gill Kelly and a final-year medical student",
-      "summary": "Letters in response to the junior doctors’ strike warn it will persist due to a 30,000-to-10,000 mismatch in training posts, political posturing, and inadequate workforce planning despite a promised 1,000 extra roles from 2026. Contributors highlight rising debts (~£120k), no mortality impact in past strikes, eroding consultant support, misguided calls to prioritize UK graduates over overseas doctors, misrepresented “4,000 training posts,” low morale among students, and calls for honest, long-term NHS training and retention plans.",
-      "summaryTokens": 543,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "Letters debate why resident doctors’ strikes persist: retired adviser Karen Ford blames insufficient specialty training posts (30k applicants vs 10k places) and political posturing over workforce planning, noting no mortality rise in past strikes yet high NHS costs. An NHS consultant warns striking again erodes consultant support and damages inter‐professional goodwill. Other correspondents highlight scapegoating overseas doctors, misrepresented “new” posts, poor government offers, crushing debts, and urge honest, long‐term training capacity plans. A final‐year student laments low morale, misleading offers and rehashed posts, while other readers contrast doctors’ 30% pay gains with nurses’ modest rises and decry strike timing during a flu surge.",
+      "summaryTokens": 1277,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/when-how-are-you-becomes-a-painful-question-to-answer",
@@ -113,9 +185,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T17:59:42Z",
       "trailText": "Letters: Mark Cottle , who has metastatic prostate cancer, responds to an article by Carolin Würfel",
-      "summary": "Mark Cottle, living with metastatic prostate cancer, describes how the simple greeting “How are you?” has become fraught with emotional difficulty. Faced with an incurable diagnosis, he finds the customary polite reply dishonest and full disclosure overwhelming. To balance honesty with social convention, he now responds relative to his fluctuating “new normal,” saying “All right today” on better days or occasionally “Pretty good today,” always appending “today” to acknowledge uncertainty about tomorrow.",
-      "summaryTokens": 462,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "Mark Cottle, from Maesygwartha, Monmouthshire, living with metastatic prostate cancer, replies to Carolin Würfel’s article about the routine “How are you?” greeting. The question, once innocuous, now forces him to choose between a perfunctory lie and exposing his harsh reality. He’s settled on “All right today” to reflect fluctuating health and his “new normal.” On better days he’ll say “Pretty good today,” but always appends “today” to signal uncertainty about tomorrow. His letter highlights the emotional burden chronic illness imposes on everyday exchanges.",
+      "summaryTokens": 1127,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/10-per-cent-over-70s-uk-alzheimers-changes-brain-study",
@@ -125,9 +197,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T16:00:11Z",
       "trailText": "Findings mean more than 1 million people could meet NHS criteria for treatment with anti-amyloid drugs",
-      "summary": "A first-ever population-based study by King’s College London, Stavanger and Gothenburg analysed p-tau217 blood biomarkers in 11,500 UK adults aged ≥50, revealing Alzheimer’s-like brain changes in 10% of over-70s—over 1 million people meeting NICE criteria for anti-amyloid drugs, far above the NHS’s 70,000 estimate. Published in Nature, the findings show prevalence rises from <8% in 50–60s to ~33% in 70s and ~67% in ≥90s, challenge sex biases in dementia, and highlight the need to adopt cost-effective blood tests in NHS practice. Researchers caution detection isn’t a diagnosis; next steps include longitudinal follow-up and integration into GP care pathways.",
-      "summaryTokens": 1611,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "First population-based real-world study of 11,500 UK adults aged 50+ using a blood p-tau217 test found Alzheimer’s-linked proteins in 10% of those over 70—implying 1m+ could meet NICE criteria for anti-amyloid therapy versus NHS’s 70,000 estimate. Prevalence rose from <8% in 50–69, ~33% in 70s, to ~66% in 90s. Published in Nature by King’s College London et al., the work underscores integrating biomarkers into NHS diagnostics and exploring early treatment despite cost barriers.",
+      "summaryTokens": 1327,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/soaring-demand-causing-shortage-of-flu-jab-appointments-across-england",
@@ -137,9 +209,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T15:17:31Z",
       "trailText": "Few bookable slots left as NHS urges people to get vaccinated amid surge in cases because of new strain",
-      "summary": "Record flu hospitalizations and a mutated H3N2 strain have triggered unprecedented demand for NHS flu jabs across England, depleting stocks and leaving major pharmacy chains—Boots, Superdrug, Tesco—with few bookable NHS appointments, especially for under-65s and pregnant women, while over-65s fare slightly better. WHO warns 27 of 38 European countries face high flu levels. Pharmacies are urged to reorder directly; independents report steadier supplies. NHS England insists there is no national shortage, with over 3 million vaccines and hundreds of thousands of slots still available through the national booking service.",
-      "summaryTokens": 1007,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "Surging demand for flu jabs across England has emptied bookable slots at major pharmacy chains (Boots, Superdrug, Tesco) as hospitals grapple with record admissions driven by a mutated H3N2 strain. While over-65 uptake is 71.7%, only 35.6% of pregnant women and 37.4% of under-65s with health conditions are vaccinated. NHS leaders and the WHO warn of an early, intense season and urge broader uptake to relieve NHS pressure; community pharmacies have been asked to reorder directly from manufacturers. Independent outlets report better stocks, and NHS England affirms no national shortage with millions of doses still available.",
+      "summaryTokens": 503,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/new-flu-strain-sweeping-across-europe-is-putting-pressure-on-healthcare-says-who",
@@ -149,9 +221,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T12:38:55Z",
       "trailText": "At least 27 of 38 countries in WHO’s European region are reporting high or very high influenza activity, body says",
-      "summary": "WHO warns new A(H3N2) sub-clade K is driving an intense flu surge across Europe, with 27 of 38 countries reporting high or very high activity and the season starting four weeks early. Over half of symptomatic patients tested positive in Ireland, Serbia, Slovenia and the UK, straining NHS, Germany’s hospitals, and French, Spanish, Romanian and Hungarian health systems. WHO urges vaccination—shown to reduce severe illness—mask-wearing, staying home when ill and relying on trusted sources. High-risk groups include older adults, pregnant women, children and health workers. Peak expected late December–early January; while not a COVID-level emergency, winter pressure is unprecedented.",
-      "summaryTokens": 704,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "WHO warns that a new A(H3N2) sub-clade K flu strain is driving an early surge across Europe, with 27 of 38 countries reporting high or very high activity. Over half of symptomatic patients in Ireland, Serbia, Slovenia and the UK test positive, as the season began four weeks early. Health systems in the UK, Germany, France, Spain, Romania and Hungary face severe strain. WHO urges vaccination—especially for older adults, pregnant women, children and health workers—plus masks and isolation if unwell. Early UK data show vaccines cut severe illness. Peak is expected late December–early January; misinformation remains a concern.",
+      "summaryTokens": 826,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/offshore-bookies-gamblers-uk-self-exclusion-scheme-gamstop",
@@ -161,9 +233,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T12:35:54Z",
       "trailText": "International network appears designed to profit from gamblers who have signed up with UK self-exclusion scheme GamStop",
-      "summary": "Article discusses how offshore gambling sites exploit UK self-excluded gamblers on GamStop, focusing on Ollie Long’s addiction and tragic suicide. Affiliate “Not on GamStop” networks (e.g. MyStake, Donbet) based in Curaçao profit by targeting vulnerable bettors. Data from Yield Sec shows illicit wagers rose from £122m in 2022 to £583m in 2024. Regulators and Google struggle to suppress unlicensed casinos amid rising search traffic. Government pledges £26m to bolster Gambling Commission enforcement, while families demand stronger measures to curb the black-market boom.",
-      "summaryTokens": 1001,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "The Long family’s son Ollie Long died by suicide after repeated gambling relapses, driven by unlicensed offshore bookmakers exploiting UK self-exclusion scheme GamStop. Affiliate sites advertising “Not on GamStop” casinos like MyStake, Donbet and Velobet in Curaçao bypass UK licensing, funneling vulnerable punters into illicit platforms. Industry data show offshore stakes rose from £122m in 2022 to £583m in 2024. Regulators face legal and technical barriers to block these sites, prompting calls for stronger enforcement, search-engine accountability and targeted funding to curb black-market gambling.",
+      "summaryTokens": 939,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/caesareans-overtake-natural-vaginal-births-england-for-first-time-nhs-data",
@@ -173,9 +245,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T09:42:54Z",
       "trailText": "45% of births were through C-sections, 44% through natural vaginal births and 11% assisted with forceps or ventouse",
-      "summary": "NHS data for April 2024–March 2025 reveals 45% of births in England were C-sections, overtaking 44% natural vaginal deliveries and 11% assisted by forceps or ventouse. Over 40% of C-sections were elective; women aged 30+ most commonly had surgical births (59% for those 40+). There were 542,235 NHS hospital deliveries, down from 636,643 in 2014–15, and 23.9% of mothers were over 35. Planned and emergency C-sections reached record highs at 20% and 25.1%. Rising maternal age, obesity and complex pregnancies drive the shift, while experts warn that reduced midwifery support and service closures limit safe birthing options.",
-      "summaryTokens": 536,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "NHS data for April 2024–March 2025 reveals 45% of 542,235 births in England were by C-section—outpacing natural vaginal deliveries (44%) for the first time—with 11% assisted by forceps or ventouse. Elective C-sections rose to 20% and emergency to 25.1%, both record highs. Vaginal delivery remains most common under age 30, while C-sections prevail for women 30+ (59% at age 40+). Experts attribute the shift to more complex pregnancies, older maternal age, obesity, service closures and intervention-heavy maternity care.",
+      "summaryTokens": 441,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/resident-doctors-in-england-begin-five-days-of-strike-action",
@@ -185,9 +257,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T07:00:29Z",
       "trailText": "NHS leaders warn ‘more patients are likely to feel the impact of this round of strikes than the previous two’",
-      "summary": "Resident doctors in England have launched a five-day strike until 7 am Monday after 83 % (35,107 of 55,000) rejected a government offer that increased training places but froze pay. This 14th walkout since March 2023 follows failed last-minute talks between the BMA and Health Secretary Wes Streeting. BMA chair Dr Jack Fletcher demands a long-term plan for phased pay rises and genuinely new posts to prevent further action. NHS England’s national medical director, Prof Meghana Pandit, warns the walkout will strain hospitals at a flu-season peak more than previous strikes.",
-      "summaryTokens": 508,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "Resident doctors in England began five days of strike action after overwhelmingly rejecting the government’s latest deal—83% voted against an offer boosting training places but withholding a pay rise. The British Medical Association and Health Secretary Wes Streeting failed to reach consensus in final talks, triggering the 14th strike since March 2023. BMA leaders demand a multi-year pay plan and genuinely new posts to avert a looming jobs crisis. NHS England warns that strikes amid record winter flu pressures will disrupt more patients than previous walkouts and deny staff a Christmas break. The Department of Health says it sought agreement and now aims to limit service disruption.",
+      "summaryTokens": 1968,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/the-guardians-hope-appeal-raises-more-than-350000-for-charities",
@@ -197,9 +269,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T07:00:26Z",
       "trailText": "The 2025 appeal is helping charities that bring divided communities together and promote tolerance",
-      "summary": "Guardian’s 2025 Hope appeal raised over £350,000 in under two weeks, including £30,000 from its annual telethon featuring 40+ journalists. Funds back five grassroots charities—Citizens UK, The Linking Network, Locality, Hope Unlimited and Who Is Your Neighbour?—delivering community projects to bridge divides, counter racism and extremist violence, and build trust: from Citizens UK’s “Walk of Hope” and Back on the Map’s post-riot neighbourhood revival to primary school interfaith linking. Amid rising migrant demonisation, proceeds also support affordable housing, youth clubs, arts schemes and refugee welcome. Editor Katharine Viner, trustees and readers hailed the generosity as an inspiring, practical stand for empathy and unity.",
-      "summaryTokens": 1545,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "The Guardian’s Hope appeal has raised over £350,000 in under two weeks, including £30,000 during its annual telethon featuring 40+ journalists like John Crace, Polly Toynbee and Simon Hattenstone. Funds support five grassroots charities—Citizens UK, The Linking Network, Locality, Hope Unlimited and Who Is Your Neighbour?—that foster empathy, community cohesion and tackle racism and xenophobia via projects like Citizens UK’s Walk of Hope, Back on the Map’s neighbourhood revival and interfaith school programmes. Editor Katharine Viner and trustees praise reader generosity for advancing tolerance, affordable housing, youth clubs, arts initiatives and refugee welcome schemes.",
+      "summaryTokens": 1019,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/17/adults-england-eating-disorders-wait-for-treatment-report",
@@ -209,9 +281,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T05:00:24Z",
       "trailText": "Audit finds on average adults wait twice as long as children for assessment and more than 10 times as long to be treated",
-      "summary": "Adults in England wait up to 700 days for eating disorder treatment, per first National Audit of Eating Disorders (NAED). Data from Jan–May reveal adults face median 28-day waits for assessment and 42-day for treatment—double children’s assessment delays and over 10× treatment waits. England has 69 adult vs 93 youth community teams and 33 vs 54 inpatient teams. 3,855 adults await assessment; 4,537 await treatment; 71% cite demand outstripping capacity. Beat warns of a “postcode lottery” and calls for accessible community/day support. NHS England pledges to reduce waits and ensure equitable specialist services, closing the child-adult care gap.",
-      "summaryTokens": 1088,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "NAED’s first national audit (Jan–May) reveals stark waits for adults with eating disorders in England: median 28 days to assessment and 42 days to treatment—some up to 700 days—compared with children’s 14-day/4-day medians and 450-day max. There are 69 adult vs 93 youth community teams and 33 vs 54 inpatient units. At audit time 3,855 adults awaited assessment and 4,537 treatment; 71% of teams cite demand exceeding capacity. Charity Beat decries a widening adult–child service gap, postcode lottery for disorders like binge eating and ARFID, and calls for expanded local intensive community/day services. NHS England says it will act on findings to drive down waits and urges GP referrals.",
+      "summaryTokens": 785,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/16/wes-streeting-and-resident-doctors-urged-to-agree-to-mediation-to-end-strikes",
@@ -221,9 +293,9 @@
       "section": "society",
       "publishedDate": "2025-12-17T00:01:34Z",
       "trailText": "Exclusive: Health bosses say mediation urgently needed to break deadlock as resident doctors prepare to strike from Wednesday",
-      "summary": "NHS Confederation chiefs urged Health Secretary Wes Streeting and the BMA’s resident doctors to accept independent mediation to end their 33-month dispute as thousands of junior doctors begin a five-day strike on Wednesday. Bosses warn the walkout has forced cancellation of tens of thousands of tests and treatments, leaving patients “collateral damage.” Talks over pay—doctors seek a 26% rise over three years—and expanded training places failed to yield agreement, with Streeting deeming the pay demand unaffordable. The BMA plans fresh ballots if ministers maintain “denial” and “half-measures.”",
-      "summaryTokens": 626,
-      "generatedAt": "2025-12-18T03:41:04.573Z"
+      "summary": "NHS Confederation has urged Health Secretary Wes Streeting and the BMA’s resident doctors committee to accept independent mediation to resolve a 33-month dispute over pay and training, ahead of a five-day strike starting 7am Wednesday. Resident doctors demand a 26% pay rise over three years and more training places, while Streeting has increased offers from 1,000 to 4,000 spots. Last-ditch talks were ‘constructive’ but deadlocked. Hospitals have cancelled tens of thousands of procedures, with patients warned as collateral damage, and NHS head Sir Jim Mackey condemned the action as ‘cruel’. The BMA may reballot medics after its current strike mandate expires on 6 January.",
+      "summaryTokens": 1607,
+      "generatedAt": "2025-12-19T04:11:37.389Z"
     },
     {
       "id": "society/2025/dec/16/striking-resident-doctors-are-digging-in-history-suggests-this-will-go-on-and-on",
