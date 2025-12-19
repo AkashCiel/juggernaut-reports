@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-18T03:42:29.963Z",
+    "generated_at": "2025-12-19T04:14:39.647Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-17"
+      "to": "2025-12-19"
     },
-    "article_count": 281,
+    "article_count": 285,
     "merge_info": {
-      "previous_count": 278,
-      "new_articles": 3,
-      "updated_articles": 4,
-      "total_count": 281
+      "previous_count": 281,
+      "new_articles": 4,
+      "updated_articles": 3,
+      "total_count": 285
     },
     "batch_info": {
-      "initial_batch_id": "batch_694377d8ecf0819081d619bd7bcc6d94",
+      "initial_batch_id": "batch_6944d0824f4c8190970b5e36ba439721",
       "retry_batches": [],
-      "total_tokens": 15980,
+      "total_tokens": 14613,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/18/tiktok-signs-deal-us-entity-sale",
+      "title": "TikTok signs Trump-backed deal to sell US entity to American investors",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/18/tiktok-signs-deal-us-entity-sale",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/18/tiktok-signs-deal-us-entity-sale",
+      "section": "technology",
+      "publishedDate": "2025-12-19T01:23:13Z",
+      "trailText": "Deal will allow app to continue operating in US as Elizabeth Warren condemns Trump and his ‘billionaire buddies’",
+      "summary": "TikTok has agreed to sell its US operations to Oracle, Silver Lake and Abu Dhabi’s MGX, with the transaction expected to close January 22 under binding agreements with ByteDance. The new joint venture allocates 50% equity to the investor consortium (15% each), 30.1% to ByteDance affiliates and 19.9% to ByteDance. Oracle, co-founded by Trump backer Larry Ellison, will license TikTok’s US recommendation algorithm and manage US user data. Critics including Elizabeth Warren and ex-NSC official Rush Doshi warn of pro-Trump billionaire influence and lingering Beijing control over the algorithm, capping a multiyear saga sparked by 2020 security bans.",
+      "summaryTokens": 636,
+      "generatedAt": "2025-12-19T04:14:39.410Z"
+    },
+    {
+      "id": "technology/2025/dec/18/facebook-tests-charging-users-to-share-links-in-potential-blow-for-news-outlets",
+      "title": "Facebook tests charging users to share links in potential blow for news outlets",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/18/facebook-tests-charging-users-to-share-links-in-potential-blow-for-news-outlets",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/18/facebook-tests-charging-users-to-share-links-in-potential-blow-for-news-outlets",
+      "section": "technology",
+      "publishedDate": "2025-12-18T18:14:58Z",
+      "trailText": "News organisations fear move could hit newsrooms and other media publishers by stopping users sharing their content",
+      "summary": "Meta is piloting a scheme that caps link-sharing for non-Meta Verified Facebook users to two free external links per month. The trial, targeting Professional Mode profiles, aims to drive subscriptions to its £9.99-plus Meta Verified tiers by gating extra link posts. Although news outlets aren't directly included, publishers warn it will curb user referrals just as Facebook traffic, already down 50% year-on-year after 2023's news deprioritisation, was beginning to recover. Media consultant David Buttle calls it part of a strategic pivot away from free news distribution. Meta describes it as a 'limited test' of subscriber value.",
+      "summaryTokens": 2826,
+      "generatedAt": "2025-12-19T04:14:39.410Z"
+    },
+    {
+      "id": "technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds",
+      "title": "AI boom has caused same CO2 emissions in 2025 as New York City, report claims",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds",
+      "section": "technology",
+      "publishedDate": "2025-12-18T11:15:59Z",
+      "trailText": "Study author says tech companies are reaping benefits of artificial intelligence age but society is left to pay cost",
+      "summary": "Research by Alex de Vries-Gao estimates AI’s 2025 carbon footprint at 80 Mt CO2—equal to New York City’s annual emissions and over 8% of global aviation—and water use at 765 bn L, one-third above all datacentre estimates and exceeding bottled-water demand. Using tech firms’ own reports, he calls for binding transparency as generative AI fuels hyperscale data centres whose electricity demand could double by 2030. IEA data shows US (45%), China (25%) and Europe (15%) lead consumption; the UK’s planned Blyth facility may emit 180,000 t CO2/year. “Society pays the environmental bill,” warns Foxglove’s Donald Campbell.",
+      "summaryTokens": 527,
+      "generatedAt": "2025-12-19T04:14:39.410Z"
+    },
+    {
+      "id": "technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research",
+      "title": "Third of UK citizens have used AI for emotional support, research reveals",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research",
+      "section": "technology",
+      "publishedDate": "2025-12-18T09:00:31Z",
+      "trailText": "AI Security Institute report finds most common type of AI tech used was general purpose assistants such as ChatGPT and Amazon Alexa",
+      "summary": "A government-backed AI Security Institute survey of 2,028 UK adults finds one-third have turned to AI—including general-purpose chatbots like ChatGPT and voice assistants—for emotional support, with 9% using them weekly and 4% daily. The report highlights user withdrawal symptoms during CharacterAI outages, the risk of political persuasion via chatbots, and calls for research into safeguarding beneficial use. It also reveals that cutting-edge models’ performance doubles every eight months, can outperform PhD-level expertise in lab troubleshooting, and are increasingly resistant to safety jailbreaks.",
+      "summaryTokens": 1111,
+      "generatedAt": "2025-12-19T04:14:39.410Z"
+    },
     {
       "id": "technology/2025/dec/17/from-nvidia-to-openai-silicon-valley-woos-westminster-as-ex-politicians-take-tech-firm-roles",
       "title": "From Nvidia to OpenAI, Silicon Valley woos Westminster as ex-politicians take tech firm roles",
@@ -29,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-17T18:02:22Z",
       "trailText": "Commons committee monitoring revolving door that gave jobs to George Osborne, Nick Clegg and Tony Blair",
-      "summary": "Silicon Valley’s AI giants have cultivated deep ties with Westminster, enlisting former ministers—from George Osborne at OpenAI to Rishi Sunak at Anthropic, Nick Clegg at Meta and Tony Blair’s Tony Blair Institute, backed by Oracle’s Larry Ellison—in lobbying and advisory roles. Nvidia’s CEO Jensen Huang even hosted PM Keir Starmer and senior cabinet members at a London event to tout AI investments. The Commons science committee is monitoring the revolving door as ex-politicians help tech firms secure global government contracts. Meanwhile, the UK appoints industry figures like Google DeepMind’s Raia Hadsell as AI ambassador, underscoring mutual influence.",
-      "summaryTokens": 1341,
-      "generatedAt": "2025-12-18T03:42:29.745Z"
+      "summary": "At a high-profile Nvidia event in London, CEO Jensen Huang hosted PM Keir Starmer and other ministers to tout AI investments, highlighting Silicon Valley’s sway over Westminster. The Commons science committee is probing a ‘revolving door’ as ex-politicians—George Osborne at OpenAI, Rishi Sunak at Anthropic and Microsoft, Nick Clegg at Meta and Tony Blair via his institute—take senior tech roles. Meanwhile, tech leaders like DeepMind’s Raia Hadsell join UK AI advisory posts, raising questions over regulatory capture and public-sector influence.",
+      "summaryTokens": 682,
+      "generatedAt": "2025-12-19T04:14:39.410Z"
     },
     {
       "id": "technology/2025/dec/17/hackers-access-pornhub-premium-users-viewing-habits-and-search-history",
@@ -41,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-17T13:16:40Z",
       "trailText": "ShinyHunters group reportedly behind the hack affecting data of 200m users thought to be from before 2021",
-      "summary": "Western-based ShinyHunters gang allegedly accessed 201m records of Pornhub Premium users via Mixpanel analytics, stealing email addresses, search queries, viewing history, location data and video metadata from before 2021. The Canadian-owned site says no breach of its own systems occurred, and that passwords, payment and financial info remain secure. ShinyHunters has demanded bitcoin in extortion threats to avoid selling or publishing the data. Cybersecurity firm Sophos has found no evidence of public leaks so far. ShinyHunters, part of a youth-dominated cybercrime community known as The Com, has links to previous hacks of retailers like M&S and Harrods.",
-      "summaryTokens": 1079,
-      "generatedAt": "2025-12-18T03:42:29.745Z"
+      "summary": "Hackers from ShinyHunters reportedly exfiltrated 201m records of Pornhub Premium users—email addresses, search and viewing histories, locations and video metadata—via an attack on analytics firm Mixpanel used by Pornhub before 2021. The Canadian-owned site says no passwords, payment data or core systems were compromised and that it ceased using Mixpanel in 2021. ShinyHunters demanded bitcoin extortion to delete the data, which Reuters and BleepingComputer first reported. Cybersecurity firm Sophos has seen no public leaks so far. Mixpanel confirms awareness of the theft but no direct breach of its platform.",
+      "summaryTokens": 945,
+      "generatedAt": "2025-12-19T04:14:39.410Z"
     },
     {
       "id": "technology/2025/dec/17/amazon-talks-invest-in-openai-developer-of-chatgpt",
@@ -53,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2025-12-17T12:17:05Z",
       "trailText": "OpenAI seeking to strike latest deal in its efforts to pay for huge spending on datacentres",
-      "summary": "Amazon is in talks to invest over $10bn in OpenAI—potentially lifting its valuation above $500bn—to help fund OpenAI’s commitments, including $38bn on AWS capacity over seven years and a projected $1.4tn compute spend over eight years. The deal would see Amazon supply its Trainium chips and explore enterprise ChatGPT offerings, potentially alongside other backers. OpenAI, restructured as a for-profit, has Microsoft with a ~27% stake, is planning an IPO valuing it up to $1tn, and has parallel deals with Oracle (datacentre builds) and Nvidia (chip purchases). Former UK chancellor George Osborne joins to broker global AI partnerships as Sam Altman declares a “code red” against Google’s Gemini.",
-      "summaryTokens": 711,
-      "generatedAt": "2025-12-18T03:42:29.745Z"
+      "summary": "Amazon is negotiating to invest over $10 billion in OpenAI—potentially lifting its valuation above $500 billion—to help fund its $38 billion AWS capacity deal and long‐term compute spend of $1.4 trillion. Despite $13 billion in annual revenue, it remains loss-making. OpenAI has converted to for-profit, with Microsoft holding a 27% stake, and is eyeing a $1 trillion IPO. It plans to use Amazon Trainium chips, could launch a corporate ChatGPT for Amazon, and may join a broader fundraising round. Other partners include Oracle’s $300 billion data-centre commitments and Nvidia chip deals. Sam Altman has declared a “code red” against AI rivals and hired ex-chancellor George Osborne.",
+      "summaryTokens": 1211,
+      "generatedAt": "2025-12-19T04:14:39.410Z"
     },
     {
       "id": "technology/2025/dec/16/uk-us-tech-prosperity-deal-trump-europe",
