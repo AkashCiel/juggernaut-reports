@@ -1,37 +1,301 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-19T04:18:05.558Z",
+    "generated_at": "2025-12-20T03:53:49.871Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-19"
+      "to": "2025-12-20"
     },
-    "article_count": 1865,
+    "article_count": 1887,
     "merge_info": {
-      "previous_count": 1839,
-      "new_articles": 26,
-      "updated_articles": 28,
-      "total_count": 1865
+      "previous_count": 1865,
+      "new_articles": 22,
+      "updated_articles": 30,
+      "total_count": 1887
     },
     "batch_info": {
-      "initial_batch_id": "batch_6944d13a1fa881908a50df6b439d7e65",
+      "initial_batch_id": "batch_69461d2ac95081909c9864aa1cd18e02",
       "retry_batches": [],
-      "total_tokens": 130161,
-      "processing_time_hours": 0.1
+      "total_tokens": 123077,
+      "processing_time_hours": 0
     }
   },
   "articles": [
     {
+      "id": "us-news/2025/dec/19/us-military-syria-airstrikes-trump",
+      "title": "US launches airstrikes against dozens of Islamic State targets in Syria",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T03:02:08Z",
+      "trailText": "Attacks come after two US soldiers and interpreter killed as Trump says US inflicting ‘very serious retaliation’",
+      "summary": "US Central Command conducted “Operation Hawkeye Strike,” launching Jordanian-supported airstrikes on over 70 ISIS targets across central Syria in retaliation for a Palmyra attack that killed two Iowa National Guard soldiers and an interpreter. President Trump hailed the strikes as “very serious retaliation” with alleged Syrian government backing. Syria’s interim government reaffirmed its anti-IS stance. Defense Secretary Hegseth vowed continued vengeance. The strikes targeted ISIS infrastructure, fighters and weapons sites. Approximately 1,000 US troops remain in Syria to prevent IS resurgence. The Palmyra killings marked the first US combat deaths since Assad’s 2024 ouster.",
+      "summaryTokens": 875,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/donald-trump-administration-news-updates-today-latest",
+      "title": "Trump news at a glance: Department of Justice releases heavily redacted cache of Epstein files",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/donald-trump-administration-news-updates-today-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/donald-trump-administration-news-updates-today-latest",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T02:20:48Z",
+      "trailText": "Long-awaited tranche of documents is heavily redacted but viewable files include images of Epstein with figures such as Bill Clinton and Michael Jackson – key US politics stories from 19 December 2025",
+      "summary": "On 19 December, the DOJ under Trump issued a first tranche of heavily redacted 2006-era Jeffrey Epstein files, disclosing images of Epstein with figures like Bill Clinton, Michael Jackson and Prince Andrew, while redacting over 1,200 victims' details. In a letter, Deputy AG Todd Blanche cited a rolling public release and pending additional documents. Congressional Democrats allege the administration flouted the Epstein Files Transparency Act by withholding unclassified records. Other Trump updates: US airstrikes on Islamic State in Syria; FBI probes anti-ICE activism; a Medicaid drug-pricing pact with pharma; border child return pressures; potential Venezuela conflict; and TikTok’s US deal.",
+      "summaryTokens": 1081,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/jeffrey-epstein-files-us-justice-department",
+      "title": "US justice department releases heavily redacted cache of Jeffrey Epstein files",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/jeffrey-epstein-files-us-justice-department",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/jeffrey-epstein-files-us-justice-department",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T02:19:34Z",
+      "trailText": "Photos included in tranche of documents as Democrats accuse Trump officials of failing to comply with law",
+      "summary": "A Department of Justice release on Dec 19 under the Epstein Files Transparency Act unveiled a heavily redacted corpus of records from its 2006 child prostitution investigation, including photos of Jeffrey Epstein with figures like Michael Jackson, Diana Ross, Bill Clinton with Ghislaine Maxwell, Richard Branson and Andrew Mountbatten-Windsor. Deputy AG Todd Blanche confirmed further rolling disclosures; over 1,200 victim identifiers were redacted. Congressional Democrats (Ro Khanna, Chuck Schumer) and Republican Thomas Massie charge the Trump administration with incomplete compliance, citing unexplained redactions. The White House calls it “unprecedented transparency,” while experts warn that significant materials and context remain withheld.",
+      "summaryTokens": 1300,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/epstein-victims-condemn-doj-files-release",
+      "title": "Survivors of Epstein’s abuse condemn justice department for only partly releasing files",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/epstein-victims-condemn-doj-files-release",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/epstein-victims-condemn-doj-files-release",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T00:45:00Z",
+      "trailText": "Lawyers for victims say they have been ‘repeatedly denied justice’ while deputy attorney general says more files will be released",
+      "summary": "Survivors and attorneys slammed the DOJ for releasing only a subset of Epstein investigation records under the new Epstein Files Transparency Act’s December 19 deadline, accusing officials of dragging feet and possible cover-ups. Deputy AG Todd Blanche promised additional disclosures amid injunction threats by Congress. Lawyers Spencer Kuvin and Gloria Allred decried decades-long delays, while survivor Jess Michaels said the partial release validated longstanding claims of negligence. Maria Farmer’s counsel hailed confirmation of her 1996 FBI complaint as “redemptive” yet lamented missed opportunities. The agency had claimed in July there was no hidden Epstein client list, even as WSJ reported Trump’s name appeared – a link he denies.",
+      "summaryTokens": 1467,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/doj-epstein-files-release-redacted-trump",
+      "title": "Trump over-promises and under-delivers with heavily redacted Epstein cache",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/doj-epstein-files-release-redacted-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/doj-epstein-files-release-redacted-trump",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T00:05:59Z",
+      "trailText": "‘Most transparent’ administration has slow-walked and stonewalled – the incomplete release smells of a cover-up",
+      "summary": "The Justice Department’s much-hyped release of hundreds of thousands of Jeffrey Epstein files under the Trump administration proved heavily redacted and largely incomplete, sparking bipartisan outrage. Despite claims of ‘historic transparency’ and promises to protect victims, many documents arrived with blacked-out passages, few references to Trump despite his well-known ties to Epstein, and missing pages promised for December 19. Critics including Senate leaders Chuck Schumer and Jeff Merkley denounced the partial dump as a cover-up and violation of the new Epstein Files Transparency Act, eroding confidence even among Republicans.",
+      "summaryTokens": 287,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/epstein-fbi-underage-girls-investigation",
+      "title": "FBI notes detail grim demands Epstein made for procurement of underage girls",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/epstein-fbi-underage-girls-investigation",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/epstein-fbi-underage-girls-investigation",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T23:37:01Z",
+      "trailText": "Interview from 2019 reveals specific preferences for recruitment, including age and race",
+      "summary": "Released by the Trump DOJ in December 2025, heavily redacted documents include an FBI evidence cover sheet and 13 pages of handwritten notes from a May 2, 2019 interview (EFTA00004179). They expose Epstein’s explicit criteria for underage recruits—ages 14–17 and preferences on race—procured as “massages.” A witness recounts Epstein rejecting “dark-skinned Dominican” girls, demanding IDs to verify minors, and roughly abusing victims in locations across Manhattan, Rochester and Brighton Beach. Photographs depict bikini-clad girls. These details echo testimony by Brazilian victim Marina Lacerda and implicate associates Jean-Luc Brunel and Ghislaine Maxwell in the global trafficking network.",
+      "summaryTokens": 830,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/elise-stefanik-ends-new-york-governor-campaign-leaving-congress",
+      "title": "Elise Stefanik ends bid for New York governor and plans to leave Congress",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/elise-stefanik-ends-new-york-governor-campaign-leaving-congress",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/elise-stefanik-ends-new-york-governor-campaign-leaving-congress",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T23:33:16Z",
+      "trailText": "Trump-allied Republican said attempting to unseat Democrat Kathy Hochul ‘is not an effective use of our time’",
+      "summary": "Republican Rep. Elise Stefanik, a staunch Trump ally known as \"ultra-MAGA,\" has ended her bid for New York governor and will not seek reelection to Congress, calling a protracted primary an \"ineffective use\" of resources. Once the GOP frontrunner, she was eclipsed by Nassau County executive Bruce Blakeman, whom party chair Ed Cox now endorses. Stefanik will serve out her term, joining a wave of GOP retirements. Trump’s pick for UN ambassador, her nomination stalled amid House majority concerns. She’s also clashed with Speaker Mike Johnson over a dropped defense provision.",
+      "summaryTokens": 1651,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/epstein-files-release-deadline",
+      "title": "US legislators say justice department is violating law by not releasing all Epstein files",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/epstein-files-release-deadline",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/epstein-files-release-deadline",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T23:15:35Z",
+      "trailText": "Todd Blanche, deputy attorney general, says release of files won’t include full set, prompting outrage from lawmakers",
+      "summary": "The DOJ released several hundred thousand unclassified Jeffrey Epstein documents Friday but withheld significant materials, prompting lawmakers to accuse the department of breaching the Epstein Files Transparency Act, which mandates full release within 30 days of enactment. Deputy AG Todd Blanche said more records would follow to protect victim privacy. Representatives Robert Garcia, Jamie Raskin, and Thomas Massie, along with Senate Minority Leader Chuck Schumer, threatened legal action to compel disclosure. Epstein survivor counsel Jennifer Freeman and legal scholar Ryan Goodman echoed criticism. The law allows limited redactions only for personal victim data or national security and ongoing investigations.",
+      "summaryTokens": 798,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/brown-university-shooting-mit-professor-motive",
+      "title": "Investigators seek motive for shootings of MIT professor and Brown students",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/brown-university-shooting-mit-professor-motive",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/brown-university-shooting-mit-professor-motive",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T22:19:27Z",
+      "trailText": "Suspect Claudio Manuel Neves Valente was found dead in New Hampshire storage facility after five-day manhunt",
+      "summary": "Investigators seek a motive in the December shootings that killed Brown engineering students Ella Cook and MukhammadAziz Umurzokov and MIT physics professor Nuno F.G. Loureiro. Suspect Claudio Manuel Neves Valente, a former brief Brown graduate student, was found dead of an apparent self-inflicted gunshot in a New Hampshire storage unit after a five-day manhunt. Authorities say a Reddit tipster “John” linked Valente’s gray rental Nissan to surveillance footage. FBI noted Valente’s shared academic background with Loureiro in Portugal. Motive remains unknown.",
+      "summaryTokens": 929,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/dollar-general-family-dollar-letter-congress",
+      "title": "Congress members demand answers on price disparities at dollar-store chains",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/dollar-general-family-dollar-letter-congress",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/dollar-general-family-dollar-letter-congress",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T19:31:43Z",
+      "trailText": "A letter from 30 lawmakers criticizes recurring overcharges at Dollar General and Family Dollar stores – questioning ‘how seriously’ the companies prioritize ethics and affordability",
+      "summary": "Thirty Democratic lawmakers, led by Rep. Nikki Budzinski, have demanded internal documents from Dollar General and Family Dollar after a Guardian investigation revealed 4,300 + price-accuracy failures at Dollar General and 2,100 + at Family Dollar since 2022. The letter highlights systemic shelf-to-register disparities on essential goods, forced arbitration clauses in apps, minimal staffing as a root cause, and the impact on low-income shoppers amid an affordability crisis. Lawmakers request four years of correspondence on pricing practices, revenue from inaccuracies, mobile-app policies and plans for consumer restitution.",
+      "summaryTokens": 418,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/trump-venezuela-war",
+      "title": "Trump and top aides refuse to rule out war with Venezuela",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/trump-venezuela-war",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/trump-venezuela-war",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T19:12:08Z",
+      "trailText": "President Nicolás Maduro orders Venezuelan navy to escort oil tankers after seizure by US forces",
+      "summary": "Donald Trump and top advisers refuse to rule out war with Venezuela after President Nicolás Maduro ordered his navy to escort oil tankers defying the largest US fleet in decades. Trump says conflict remains “on the table,” and Marco Rubio confirms US aims for regime change via naval blockades, drug-vessel strikes and tanker seizures. Tracking data show sanctioned tankers rerouting to the Indian Ocean as a US blockade cuts Maduro’s oil revenues. With 15,000 troops deployed and more than 100 maritime casualties, aides like Stephen Miller and Susie Wiles back escalating action to pressure the regime.",
+      "summaryTokens": 1499,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/wisconsin-judge-immigrant-ice-found-guilty",
+      "title": "Judge accused of helping immigrant dodge ICE agents found guilty of obstruction",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/wisconsin-judge-immigrant-ice-found-guilty",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/wisconsin-judge-immigrant-ice-found-guilty",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T18:32:24Z",
+      "trailText": "Wisconsin judge Hannah Dugan was arrested by the FBI and charged in April amid Trump’s immigration crackdown",
+      "summary": "A Milwaukee jury, after six hours of deliberation, convicted Judge Hannah Dugan of felony obstruction for helping Mexican national Eduardo Flores Ruiz evade ICE at her courthouse last April, acquitting her of a related concealment misdemeanor. Arrested for allegedly misdirecting agents and escorting Flores Ruiz through a private door, she faces up to five years and plans to appeal. The case, highlighting Trump’s immigration crackdown and debate over judicial authority, spurred Wisconsin Republicans to threaten impeachment if she doesn’t resign.",
+      "summaryTokens": 1298,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/unaccompanied-children-trump-self-deport",
+      "title": "Unaccompanied children being pressed to return to their countries by US border officials",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/unaccompanied-children-trump-self-deport",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/unaccompanied-children-trump-self-deport",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T17:00:05Z",
+      "trailText": "Exclusive: federal document reveals children arriving as undocumented immigrants being threatened with detention",
+      "summary": "Border officials present or read an “UAC Processing Pathway Advisal” to unaccompanied children soon after US arrival warning them that seeking a judge hearing or fearing return will trigger “prolonged” detention, sponsor arrest or prosecution and deportation by ICE upon turning 18. It urges “voluntary return” with no administrative consequences, a “false carrot,” say advocates. Senator Ron Wyden demands its abolishment as “shockingly coercive.” The document, revealed in a NIJC-led lawsuit and first reported by ProPublica, illustrates the Trump administration’s mass deportation push.",
+      "summaryTokens": 739,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/brown-university-shooting-tipster",
+      "title": "Tipster hailed for helping authorities identify suspect in Brown shooting ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/brown-university-shooting-tipster",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/brown-university-shooting-tipster",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T14:55:44Z",
+      "trailText": "Man known as ‘John’ expected to be eligible for $50,000 reward from FBI for providing details on the suspect",
+      "summary": "A tipster known as \"John\" aided authorities in the Brown University shooting probe by posting on Reddit about an unusual campus encounter with suspect Claudio Neves Valente and noting a rented gray Nissan with Florida plates. Prompted by Reddit users, he approached Providence police saying \"I think you are looking for me,\" provided corroborating details and is expected to claim the $50,000 FBI reward. Mayor Brett Smiley praised the Brown alumnus whose information broke the case, leading to Valente's discovery in Salem, NH, where he died by suicide. Investigators link Valente to the killing of MIT professor Nuno FG Loureiro; his motive remains unknown.",
+      "summaryTokens": 2093,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/epstein-files-release-doj-december-deadline",
+      "title": "Epstein files to be released after months of delays from Trump officials",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/epstein-files-release-doj-december-deadline",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/epstein-files-release-doj-december-deadline",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T14:38:35Z",
+      "trailText": "Huge archive – set to shed fresh light on Epstein’s misdeeds – legally obliged to be released before midnight deadline",
+      "summary": "After GOP delays, the DOJ will publish hundreds of thousands of unclassified files on Jeffrey Epstein by the midnight deadline of the Epstein Files Transparency Act, Deputy AG Todd Blanche said. The archive—covering Epstein, Ghislaine Maxwell and linked figures such as Donald Trump and Bill Clinton—must be released in searchable, downloadable form. While victim identities, classified material and active-investigation records can be redacted, sponsors Ro Khanna and Thomas Massie mandate public summaries of any redactions and warn of criminal penalties for obstruction. Congress overrode White House resistance with near-unanimous votes; oversight Democrats have already released 68 estate photographs.",
+      "summaryTokens": 1645,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/conservative-legal-christian-rightwing-group",
+      "title": "Conservative legal group aims to export its rightwing Christian mission beyond US borders",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/conservative-legal-christian-rightwing-group",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/conservative-legal-christian-rightwing-group",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T13:42:28Z",
+      "trailText": "Alliance Defending Freedom has ramped up its global spending on litigation and other campaigns to push its ultra-conservative Christian values",
+      "summary": "Alliance Defending Freedom and ADF International poured $10.9m into global litigation in 2023-24—a 70% jump on Europe—to export their conservative Christian legal model. Led by CEO Kristen Waggoner, ADF touts 39 victories at the European Court of Human Rights and 282 national wins defending “biological reality” and parental rights. Critics say ADF weaponizes religious freedom against women’s, LGBTQ+ and educational rights. In Finland, ADF backs MP Päivi Räsänen’s Supreme Court challenge over alleged anti-LGBT incitement, the first test of hostile-speech laws on sexual minorities. ADF also supports blasphemy, abortion buffer zone and free-speech defenses worldwide, framing its work as universal human rights advocacy.",
+      "summaryTokens": 650,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/trump-epa-formaldehyde-protection-proposal",
+      "title": "Trump’s EPA wants to weaken formaldehyde protections – this is what it could mean",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/trump-epa-formaldehyde-protection-proposal",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/trump-epa-formaldehyde-protection-proposal",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T13:30:01Z",
+      "trailText": "EPA proposed undoing Biden-era policy on exposure to carcinogenic toxin in latest push to weaken toxin standards",
+      "summary": "Trump’s EPA is proposing to reverse Biden-era formaldehyde risk assessments by raising the threshold for 'safe' exposure, discarding five of 58 scenarios deemed 'unreasonable risk' and weakening future restrictions on furniture, wood products, automotive, cosmetics and industrial uses. Led by ex-ACC officials Nancy Beck and Lynn Dekleva, the move shifts from a linear cancer risk model to a threshold approach, benefiting chemical makers and undermining protections against carcinogenic, respiratory and reproductive harms from ubiquitous formaldehyde in everyday goods.",
+      "summaryTokens": 1235,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/toyota-employee-lobbying",
+      "title": "Revealed: how Toyota uses retro-style games and prizes to urge US workers to lobby politicians",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/toyota-employee-lobbying",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T13:00:02Z",
+      "trailText": "Games such as Dragon Quest used to mobilize workers to back corporate goals including relaxing environmental rules",
+      "summary": "Toyota has launched “Policy Drivers,” an internal platform using retro-style video games—Dragon Quest, Star Quest, Adventure Quest, Monster Mansion—to gamify and reward US employees for lobbying federal lawmakers to weaken environmental regulations. Participants earn points by engaging with corporate policy messaging, completing quizzes and calls to Congress, and can redeem rewards like swag and trips. Critics accuse Toyota of greenwashing and exploiting workers, noting its heavy lobbying against emissions targets and California’s 2035 gas-vehicle ban despite pledges toward net-zero. The initiative exemplifies rising corporate employee mobilization in US political advocacy.",
+      "summaryTokens": 733,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/first-thing-brown-university-shooting-suspect-died-from-self-inflicted-gunshot-wound-officials-say",
+      "title": "First Thing: Brown University shooting suspect died from self-inflicted gunshot wound, officials say",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/first-thing-brown-university-shooting-suspect-died-from-self-inflicted-gunshot-wound-officials-say",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/first-thing-brown-university-shooting-suspect-died-from-self-inflicted-gunshot-wound-officials-say",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T12:38:41Z",
+      "trailText": "Claudio Neves Valente, who was found dead in a storage facility, also killed an MIT professor. Plus, what will your life look like in 2035?",
+      "summary": "In the lead item, Portuguese ex-Brown student Claudio Neves Valente, accused of killing two at Brown University and MIT physics professor Nuno FG Loureiro, was found dead by a self-inflicted gunshot wound in a New Hampshire storage unit; investigators say he acted alone. Homeland Security Secretary Kristi Noem, under Trump’s direction, has suspended the green card lottery, citing its role in his entry. Other highlights: EU approves a €90 billion Ukraine loan without using frozen Russian assets, the pending release of Jeffrey Epstein documents, and updates on TikTok’s US sale, climate-driven food changes, and cultural picks.",
+      "summaryTokens": 1669,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/fbi-terrorism-investigations-anti-ice-activity",
+      "title": "Revealed: FBI opened domestic terrorism investigations into anti-ICE activity across US",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/fbi-terrorism-investigations-anti-ice-activity",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/fbi-terrorism-investigations-anti-ice-activity",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T12:00:05Z",
+      "trailText": "Internal report shared with Guardian shows FBI has launched cases in 23 regions, some linked to Trump memo on thwarting ‘terroristic activities’",
+      "summary": "An internal FBI report dated Nov 14 reveals the Bureau has opened criminal and domestic terrorism probes into anti-ICE threats in 23 field offices—partly under Trump’s NSPM-7 “countering domestic terrorism” memo. It flags escalated violence against ICE, citing two Texas attacks (fireworks/vandalism and a detainee-shooting at Dallas), and lists “indicators” like firearms stockpiling, agent surveillance and encrypted communications. Civil rights groups (ACLU, Brennan Center) warn its vague language risks criminalizing First Amendment-protected dissent, while a DOJ memo similarly frames anti-ICE organizing as potential terror. The FBI declined to comment.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/why-did-donald-trump-jr-turn-up-in-a-tiny-british-enclave-looking-for-money",
+      "title": "Why did Donald Trump Jr turn up in a tiny British enclave looking for money?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/why-did-donald-trump-jr-turn-up-in-a-tiny-british-enclave-looking-for-money",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/why-did-donald-trump-jr-turn-up-in-a-tiny-british-enclave-looking-for-money",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T06:00:57Z",
+      "trailText": "Meetings in Gibraltar are the latest twist in worldwide campaign that is enriching the US president’s family",
+      "summary": "Donald Trump Jr unexpectedly visited Gibraltar in November, meeting at law firm Hassans alongside chief minister Fabian Picardo and crypto investors to pitch his and brother’s revived global business campaign, including the “patriotic capitalism” 1789 Capital fund established after Trump’s 2024 election. This marks a U-turn from their first-term pledge to halt foreign deals. Reuters estimates the Trump family’s income jumped from $51m to $864m in six months. Critics warn of conflicts of interest as the enclave probes a scandal involving Hassans senior partner James Levy.",
+      "summaryTokens": 1000,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
+      "id": "us-news/2025/dec/19/trump-suspends-us-green-card-lottery-dv1-visa-program",
+      "title": "Trump suspends US green card lottery in wake of Brown University and MIT shootings",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/trump-suspends-us-green-card-lottery-dv1-visa-program",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/trump-suspends-us-green-card-lottery-dv1-visa-program",
+      "section": "us-news",
+      "publishedDate": "2025-12-19T05:54:01Z",
+      "trailText": "Homeland security secretary Kristi Noem pauses high-profile visa program, saying shooting suspect Claudio Neves Valente gained green card in 2017",
+      "summary": "Homeland Security Secretary Kristi Noem, acting on former President Trump’s directive, has suspended the US Diversity Visa (DV1) lottery after shooter Claudio Neves Valente—who arrived on a student visa in 2000 and obtained permanent residency via the lottery in 2017—killed people at Brown University and MIT before dying by suicide. Trump and Noem, long opposed to the DV1 program, argue tragedy underscores risks of admitting ‘heinous’ individuals. Established in 1990, the lottery issues 50,000 green cards annually; in 2025 nearly 20 million applied and winners face standard consular vetting.",
+      "summaryTokens": 628,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
+    },
+    {
       "id": "us-news/2025/dec/18/suspect-brown-university-shooting",
-      "title": "Suspect in Brown University shooting committed suicide, officials say",
+      "title": "Brown University shooting suspect died from self-inflicted gunshot wound, officials say",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/18/suspect-brown-university-shooting",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/18/suspect-brown-university-shooting",
       "section": "us-news",
-      "publishedDate": "2025-12-19T04:04:33Z",
-      "trailText": "Man discovered dead in storage facility also believed to have killed an MIT professor at his Boston-area home",
-      "summary": "Claudio Neves Valente, 48, suspected mass shooter who killed two Brown University students—Ella Cook, 19, and Uzbek national Mukhammad Aziz Umurzokov, 18—and injured nine, committed suicide at a Salem, NH, storage facility Thursday night. Believed also responsible for the fatal shooting of an MIT professor in his Boston-area home, Valente was found with a bag and two firearms matching Providence crime-scene evidence. A former Brown physics graduate student (2000–01) and lawful permanent resident since 2017, he evaded capture by swapping license plates until an informant’s tip led police to his car. Brown’s president confirmed he had no current affiliation; the FBI noted he attended the same Lisbon university as the MIT victim.",
-      "summaryTokens": 1095,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "publishedDate": "2025-12-19T05:22:50Z",
+      "trailText": "Claudio Neves Valente, who was found dead in storage facility, also killed MIT professor at his Boston-area home",
+      "summary": "Claudio Neves Valente, 48, a Portuguese ex–Brown University physics graduate student, died by a self-inflicted gunshot in a New Hampshire storage unit after allegedly killing two people and wounding nine in a December 13 Brown shooting and fatally shooting MIT physics professor Nuno FG Loureiro two days later. Officials say he acted alone, was found with two firearms and matching evidence, evaded capture by swapping license plates and was identified via a tipster. Valente held lawful permanent residency since 2017 and had no current Brown affiliation.",
+      "summaryTokens": 475,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/home-depot-la-noise-machines-day-laborers",
@@ -41,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T02:23:27Z",
       "trailText": "Advocates call for removal of machines and demand that company speak out against ICE raids in parking lots",
-      "summary": "At its Cypress Park LA store, Home Depot mounted three high-frequency noise machines on lampposts under a highway overpass to deter day laborers, causing headaches, nausea and 'torture,' say Idepsca and City Councilwoman Eunisses Hernandez. Installed days after an ICE raid that detained ~50 migrants—and even a US citizen—these devices activate for unauthorized parking, critics allege to drive away workers. Advocates led by Maegan Ortiz demand removal and a corporate stand against ICE lot raids. Home Depot insists the machines are a safety measure against overnight parking, deny cooperating with immigration agents.",
-      "summaryTokens": 1189,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "At its Cypress Park, Los Angeles, Home Depot mounted three high-frequency noise machines on lampposts under a highway overpass to deter day laborers from gathering, triggering headaches and nausea, advocates say. Idepsca and LA councilwoman Eunisses Hernandez call the devices ‘torture,’ demand removal, and urge Home Depot to oppose ICE raids that have detained dozens at the store’s parking lot. Advocates note one ICE action even detained a US citizen and toddler. Located on Caltrans land, Home Depot insists the machines are a safety measure to prevent illegal overnight parking, denies coordinating with immigration agents and has no role in enforcement operations.",
+      "summaryTokens": 877,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/19/trump-administration-news-updates-today",
@@ -53,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T01:12:28Z",
       "trailText": "Latest batch includes photos of famous people in Epstein’s orbit, copies of foreign passports and screenshot of text messages – key US politics stories from 18 December 2025",
-      "summary": "By the Dec 19 deadline the DOJ must release all Epstein investigation files, spurring House Democrats to publish undated photos of figures like Bill Gates and Noam Chomsky, foreign passports and text-message screenshots. Other Trump-era actions include a Kennedy Center board vote to rename it the Trump–Kennedy Center; a 2.7% rise in consumer prices despite Trump’s claims; a plan to bar gender-affirming care for minors under Medicare/Medicaid; a $1,776 “warrior dividend” drawn from military housing aid; a federal marijuana downgrade; and a $6 billion merger of Truth Social owner with TAE Technologies. Additional updates cover TikTok’s U.S. sale deal, a Vatican archdiocese appointment, the DNC withholding its post-2024 review, and White House remarks on a potential prohibited third term for Trump.",
-      "summaryTokens": 858,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "All DOJ files on Jeffrey Epstein’s death probe to be public by 19 Dec, as House Democrats unveil photos implicating Bill Gates, Noam Chomsky, plus foreign passports and text messages about an 18-year-old Russian, all without context. The Kennedy Center board proposes renaming it the Trump-Kennedy Center. November CPI rose 2.7%, defying Trump’s “rapidly falling” prices claim. The administration aims to ban minors’ gender-affirming care via CMS rules, funds Trump’s $1,776 “warrior dividend” from housing aid, downgrades cannabis schedules, and announces a $6 billion merger between Trump Media and TAE Technologies. Additional items: TikTok sale, new archbishop, DNC review withheld, Trump’s barred third-term talk.",
+      "summaryTokens": 1377,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/jeffrey-epstein-estate-files-photos",
@@ -64,10 +328,10 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/18/jeffrey-epstein-estate-files-photos",
       "section": "us-news",
       "publishedDate": "2025-12-18T22:18:04Z",
-      "trailText": "Images, undated and uncaptioned, include Nabokov lines written on woman’s body and show Bill Gates and Noam Chomsky",
-      "summary": "Democrats on the House Oversight Committee released a new batch of undated, uncaptured photos from Jeffrey Epstein’s estate—featuring lines from Nabokov’s Lolita scrawled on women’s bodies, images of Bill Gates, Noam Chomsky, Woody Allen, Steve Bannon and David Brooks, redacted foreign passports, Epstein’s U.S. passport and a text screenshot soliciting underage girls. The release ratchets pressure on the DOJ to meet the Epstein Files Transparency Act deadline in under 48 hours amid internal frustrations over sparse redaction guidance and over 1,000 documents per attorney. Meanwhile, Ghislaine Maxwell filed a pro se habeas petition claiming new evidence and trial unfairness.",
-      "summaryTokens": 1149,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "trailText": "Images, undated and uncaptioned, include lines from Lolita written on woman’s body and show Bill Gates and Noam Chomsky",
+      "summary": "House oversight Democrats released an uncaptioned batch of undated photos from Jeffrey Epstein’s estate—Lolita passages written on women’s bodies, images of Bill Gates, Noam Chomsky, Woody Allen, Steve Bannon and David Brooks, redacted passports and texts about sourcing women—to ratchet up pressure on DOJ as the November-signed Epstein Files Transparency Act demands file release within 48 hours. Justice Department lawyers, given only four pages of redaction guidance, are racing to process thousands of documents, raising over-redaction concerns. Meanwhile, Ghislaine Maxwell filed a pro se habeas petition citing newly disclosed evidence to challenge her conviction.",
+      "summaryTokens": 754,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/trump-kennedy-center-renaming",
@@ -77,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T22:16:04Z",
       "trailText": "Joe Kennedy III, JFK’s grandnephew, said he doubted the Trump-Kennedy Center name change was legal",
-      "summary": "Kennedy Center’s trustees voted unanimously to rename the John F. Kennedy Center the Trump-Kennedy Center, lauded by the White House as recognition of President Trump’s work saving its finances and structure. The change, announced by press secretary Karoline Leavitt, faces legal doubts: Joe Kennedy III and critics cite a federal law barring new memorial designations. The move follows Trump’s board “take-over,” House GOP renaming proposals, and a broader review of DC cultural bodies. Ex-officio member Joyce Beatty said she was muted, contesting unanimity.",
-      "summaryTokens": 801,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "The Kennedy Center’s board of trustees, now chaired by Donald Trump following a board purge, voted unanimously to rename the institution the Trump-Kennedy Center, crediting Trump with rescuing it financially and structurally. White House press secretary Karoline Leavitt hailed Trump’s “unbelievable work” rebuilding and funding the landmark arts venue. Joe Kennedy III argued the change may violate federal law designating the center as a memorial to JFK, and ex-officio board member Rep. Joyce Beatty said she was muted and barred from objecting. Critics note a statute forbids new memorials while the administration advances further renamings and cultural overhauls.",
+      "summaryTokens": 1133,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "business/2025/dec/18/trump-1776-military-checks",
@@ -89,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T21:49:50Z",
       "trailText": "President claims bonus the result of tariff revenue but stipend had already been approved in tax-and-spend bill",
-      "summary": "In a primetime address Donald Trump vowed a one-off $1,776 “warrior dividend” for 1.45m US service members, claiming tariffs funded the payout. However, administration officials told The Washington Post the $2.5bn bonus actually repurposes military housing aid from the bipartisan tax-and-spend bill. Key details—including eligibility for reserve or National Guard, timing, and tax status—remain unresolved. The pledge comes amid looming Supreme Court scrutiny of tariff revenue, soaring US tariff rates and ongoing Caribbean and Middle East military operations.",
-      "summaryTokens": 725,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "President Trump’s promised $1,776 “warrior dividend” for 1.45m military personnel—heralded as tariff-funded—will actually draw on repurposed military housing aid approved in the One Big Beautiful Bill Act. Trump misattributes the payout to record 16.8% average tariffs (hitting households about $1,700). The $2.5bn bonus’s timing, taxable status, eligibility (active duty vs guard/reserves) and pay impact remain uncertain as the Supreme Court weighs tariff refunds. Defense Secretary Pete Hegseth says it’s tax-free and incoming.",
+      "summaryTokens": 1377,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/snow-midwest-ice-raids-trump",
@@ -101,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T20:39:03Z",
       "trailText": "Videos show people in Minnesota and Illinois throwing snowballs at federal agents trying to arrest residents",
-      "summary": "Videos from Minnesota and Illinois show neighbors hurling snowballs at ICE agents during aggressive immigrant raids, including an incident where a woman was handcuffed in a snowbank in Minneapolis as agents brandished tasers, pepper spray and firearms. After protesters rebuffed agents with snow, officers deployed teargas and pepper munitions. Minneapolis police chief Brian O’Hara criticized ICE’s forceful tactics and withdrew city officers. The ACLU of Minnesota sued DHS over alleged violations of protesters’ rights. DHS warns that assaulting a federal agent, even with snow, can be a felony punishable by severe penalties under the Trump administration.",
-      "summaryTokens": 807,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Amid a surge of ICE immigration raids in Minnesota and Illinois, neighbors have begun pelleting federal agents with snowballs to disrupt arrests, according to videos from Minneapolis and Elgin. In one clip, agents dragging a partially handcuffed woman through a snowbank faced a barrage of snow and car-horn protests before responding with pepper spray and a Taser. Minneapolis Police Chief Brian O’Hara criticized ICE’s tactics as overly aggressive, and the ACLU of Minnesota has sued DHS for rights violations. Legal experts warn snowball-throwing at officers can constitute a federal felony, exposing participants to steep penalties.",
+      "summaryTokens": 547,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/trump-cannabis-executive-order",
@@ -113,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T20:02:26Z",
       "trailText": "Change will loosen limits on research and certain regulations but stops short of making marijuana legal",
-      "summary": "President Trump signed an executive order moving cannabis from Schedule I (heroin) to Schedule III (ketamine), formally recognizing medical uses and easing research and regulatory restrictions. It authorizes a Medicare pilot reimbursing CBD products, directs HHS to develop real-world evidence studies on medical marijuana and hemp-derived cannabinoids, and aims to reduce federal tax penalties and banking hurdles for legal businesses. The order stops short of legalizing recreational use or changing arrest protocols, requiring DEA rulemaking and congressional action on full-spectrum CBD.",
-      "summaryTokens": 726,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "President Trump signed an executive order downgrading cannabis from Schedule I to Schedule III, citing medical benefits and easing research constraints. The move allows DEA rulemaking, a Medicare reimbursement pilot for CBD products, reduced federal tax penalties for hemp companies, and better banking access, but stops short of legalizing recreational use or changing arrest procedures. The order tasks HHS with real-world studies on long-term health effects and directs collaboration with Congress to broaden access to full-spectrum CBD while curbing unapproved risky products. Critics applaud medical validation but warn it falls short of full reform.",
+      "summaryTokens": 665,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/pope-new-york-archbishop-trump-immigration",
@@ -125,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T19:30:04Z",
       "trailText": "Ronald Hicks, who endorsed message condemning ICE raids, to lead one of biggest US archdioceses",
-      "summary": "Pope Leo XIV has named 58-year-old Bishop Ronald Hicks of Joliet, Illinois, as the next archbishop of New York, succeeding retiring Cardinal Timothy Dolan. The appointment signals the church’s continued challenge to the Trump administration’s immigration policies: Hicks endorsed a USCCB statement condemning ICE raids and warning of fear among immigrant communities. A Chicago native who directed an orphanage in El Salvador, Hicks will oversee 2.5 million Catholics and carry forward Dolan’s newly finalized $300 million sexual-abuse compensation fund, pledging accountability, transparency and solidarity with migrants.",
-      "summaryTokens": 429,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Pope Leo XIV has tapped 58-year-old Ronald Hicks, currently bishop of Joliet, Illinois, to succeed Cardinal Timothy Dolan as archbishop of New York, overseeing 2.5 million Catholics in Manhattan, the Bronx and Staten Island. A Chicago native with missionary stints in Peru and a five-year term running an orphanage in El Salvador, Hicks recently backed a US bishops’ statement condemning Trump administration ICE raids and criticizing immigration policies as “inhuman.” At his introductory news conference he emphasized preventing abuse and supporting survivors alongside advancing church accountability, transparency and healing. The appointment signals continuity in the Vatican’s challenge to Washington on immigration.",
+      "summaryTokens": 437,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/jeffrey-epstein-files-department-of-justice",
@@ -137,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T18:57:26Z",
       "trailText": "Justice department must release most documents by the end of Friday, and failure to do so would provoke a firestorm",
-      "summary": "In under 48 hours the DOJ must comply with the Epstein Files Transparency Act, mandating release of most documents by Dec 19 unless they jeopardize investigations, national security or victim privacy. The Trump administration’s silence has prompted lawmakers to threaten holds on civilian nominees and spark a political firestorm if the deadline is missed. The files—potentially hundreds of thousands of pages—could reveal additional victim accounts, flight logs, and names of high-profile associates such as Donald Trump and Prince Andrew, shedding light on how Epstein evaded federal charges.",
-      "summaryTokens": 410,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Less than 48 hours remain for the DOJ to comply with the Epstein Files Transparency Act, passed by Congress and signed by President Trump on November 19. By Dec. 19, the department must disclose most records on Jeffrey Epstein—civil litigation papers, grand jury testimony, flight logs, victims’ statements and associates’ names—unless they imperil ongoing investigations, national security or victim privacy. After months of silence from AG Pam Bondi and a failed 2025 DOJ memo denying a client list, lawmakers threaten to block nominees if the deadline is missed, risking a political firestorm.",
+      "summaryTokens": 930,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/nyt-david-brooks-epstein-photos-released",
@@ -149,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T18:52:32Z",
       "trailText": "Brooks, who dismissed Epstein scandal as ‘stupid story’, wrote column expressing lack of interest in developments",
-      "summary": "NYT columnist David Brooks, who earlier dismissed the Jeffrey Epstein scandal as a “stupid story” in a November column, appears in new House committee-released 2011 photos at an Epstein-hosted dinner alongside Sergey Brin. The Times clarified the dinner took place three years after Epstein’s 2008 guilty plea and says Brooks had no further contact and attended to inform his journalism. Critics note he failed to disclose this link when criticizing media fixation on Epstein. Photos of Bill Gates, Woody Allen and Noam Chomsky were released simultaneously, raising questions over timing and transparency.",
-      "summaryTokens": 1639,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Photos released by the House Oversight Committee show New York Times columnist David Brooks at a 2011 dinner at Jeffrey Epstein’s estate, seated beside Google co-founder Sergey Brin. Brooks, who in November dismissed the scandal as a “stupid story” and compared public fixation on Epstein to QAnon conspiracies, did not disclose his attendance when criticizing the coverage. The Times says this was his only contact with Epstein. The committee also published images of Bill Gates, Woody Allen and Noam Chomsky, prompting questions about transparency given Brooks’s earlier columns.",
+      "summaryTokens": 415,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/trump-transition-healthcare-funding-hhs",
@@ -160,22 +424,22 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/18/trump-transition-healthcare-funding-hhs",
       "section": "us-news",
       "publishedDate": "2025-12-18T18:52:13Z",
-      "trailText": "Proposal would prohibit Medicaid funds from being used to cover puberty blockers, hormone treatments or surgical procedures",
-      "summary": "The Trump administration’s HHS announced on Dec 18 a plan to eliminate gender-affirming care for minors in Medicaid/Medicare-participating hospitals, banning puberty blockers, hormone treatments and surgeries, and rescinding Medicaid and CHIP coverage. HHS will also direct FDA warnings to 12 breast binder manufacturers and propose narrowing the Rehabilitation Act’s disability definition to exclude gender dysphoria. It cut multimillion-dollar AAP grants over “identity-based” language. Medical groups, LGBTQ+ advocates and state attorneys general condemned the move. The GOP-led House passed bills to criminalize under-18 gender-affirming care and bar its Medicaid funding, but Senate approval looks unlikely.",
-      "summaryTokens": 564,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "trailText": "Proposal would ban use of Medicaid funds to cover puberty blockers, hormone treatments or surgical procedures",
+      "summary": "On Dec 18, HHS Secretary RFK Jr announced a proposal blocking Medicare/Medicaid hospitals from providing puberty blockers, hormone therapy or surgery to minors and banning Medicaid/CHIP coverage for gender-affirming care, labeling it “sex-rejecting procedures.” FDA will warn 12 breast binder manufacturers. HHS seeks to remove gender dysphoria as a disability under Sec.504 and cut AAP grants. Medical groups, LGBTQ+ advocates and Democratic AG James condemn the move. House also passed GOP bills to criminalize or defund care; Senate approval unlikely.",
+      "summaryTokens": 924,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/trump-vanity-fair-interview",
-      "title": "Trump critics praise Vanity Fair article for its scrutiny while allies dismiss it as hit piece",
+      "title": "Trump critics praise Vanity Fair article for its scrutiny of his officials – and unsparing photos",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/18/trump-vanity-fair-interview",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/18/trump-vanity-fair-interview",
       "section": "us-news",
       "publishedDate": "2025-12-18T18:41:14Z",
-      "trailText": "Susie Wiles, the White House chief of staff, spoke candidly about Trump’s inner circle and the piece made even bigger waves with its unsparing photos",
-      "summary": "Vanity Fair’s profile of White House chief of staff Susie Wiles combined candid, critical interviews with a dramatic portrait series of key Trump lieutenants by Christopher Anderson. Across eleven sessions, Wiles labeled Trump “an alcoholic personality,” Vance “a decade-long conspiracy theorist,” and Vought “a right-wing zealot.” The stark, unretouched close-ups—especially of press secretary Karoline Leavitt’s lip-filler marks—prompted debate over whether the images humiliated officials. Allies denounced the piece as a disingenuous hit job; critics hailed its unflinching scrutiny. Underpinning the report: audio of Wiles on Elon Musk’s ketamine use and the photographer’s insistence on visual truth without manipulation.",
-      "summaryTokens": 968,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "trailText": "Susie Wiles spoke candidly about Trump’s inner circle and the piece made even bigger waves for its photos",
+      "summary": "Vanity Fair’s deep-dive with White House chief of staff Susie Wiles combined candid criticism of Trump’s inner circle—calling the president “an alcoholic,” VP JD Vance a “conspiracy theorist” and budget director Russell Vought a “right-wing zealot”—with dramatic, unretouched portraits by Christopher Anderson. Advocates praised the overdue scrutiny and raw visuals; Trump allies decried a “hit piece” and photo manipulation. Anderson and VF countered that no blemishes were airbrushed, insisting the images truthfully captured their subjects. Social media reactions ranged from admiration for the photographer’s bold style to accusations of a smear campaign.",
+      "summaryTokens": 498,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/democrats-2024-election-autopsy",
@@ -185,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T18:29:05Z",
       "trailText": "Report on Kamala Harris’s loss to Trump would be a ‘distraction’ as party is ‘putting our learnings into motion’",
-      "summary": "DNC chair Ken Martin announced the party’s 2024 postmortem—based on stakeholder interviews in all 50 states covering organizing, messaging, fundraising and voting trends—will remain internal, deeming public release a “distraction” from ongoing midterm and future campaigns. The review found Democrats outspent Republicans yet underperformed. According to reports, it sidestepped debates over Biden’s reelection bid and Harris’s vice-presidential role. Progressive group RootsAction published its own autopsy blaming base alienation. Former DNC communications director Xochitl Hinojosa endorsed keeping findings private to focus on strategy implementation and election wins.",
-      "summaryTokens": 1069,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Ken Martin, DNC chair, says the 2024 election autopsy—an internal review interviewing stakeholders across all 50 states on presidential and down-ballot races—is complete but won’t be released publicly to avoid distracting from 2025 midterm efforts. The report identifies lessons in organizing, communications, fundraising and spending—Democrats outspent Republicans at every level—but strategic focus will shift to implementation rather than commentary. Speculation that it sidestepped questions about Biden’s candidacy and Harris’s role contrasts with RootsAction’s autopsy, which argued Harris prioritized moderates over mobilizing the progressive base.",
+      "summaryTokens": 546,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/migrants-self-deportation-trump-immigration",
@@ -197,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T18:00:38Z",
       "trailText": "People who signed up for a US ‘self-deportation’ scheme say their payoffs were delayed, misdirected or never arrived – leaving them empty-handed in their home countries",
-      "summary": "Under Trump’s 2025 “Project Homecoming,” DHS offered detained noncriminal migrants voluntary departure with a free flight home and a $1,000 “exit bonus.” Dozens of Hondurans, Colombians, Salvadorans and others signed repatriation papers expecting the payment, but many faced extra detention or misrouted wire transfers and never received funds. The program repurposes $250m in refugee resettlement monies, is run by contractor Soterex/Salus led by a former State official, and imposes multi-year or lifetime US reentry bans despite false promises.",
-      "summaryTokens": 1891,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Germán Pineda and dozens of migrants across Honduras, Nicaragua, El Salvador and Peru signed voluntary departure forms under DHS’s Trump-era Project Homecoming, lured by free flights and a $1,000 exit bonus. Many endured months in ICE custody, then never received payments due to wire errors, ineligibility misclassification or administrative chaos. Managed by Soterex Financial Services and funded from a repurposed $250 million refugee pot, the scheme offers no guaranteed legal return and imposes multi-year bans, raising coercion, transparency and contract-award concerns.",
+      "summaryTokens": 555,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/trump-third-term-alan-dershowitz",
@@ -209,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T15:52:40Z",
       "trailText": "Comments follow reports that US president discussed idea with constitutional scholar Alan Dershowitz",
-      "summary": "White House spokesperson Abigail Jackson told Axios the US would be “lucky” if Trump served beyond two terms after Alan Dershowitz, his lawyer, told him the 22nd Amendment’s ban on a third term was “not clear”. Dershowitz detailed the view in his upcoming book, raising scenarios like electors abstaining and House selection. Trump supporters including Miriam Adelson cheered the notion. Despite mixed signals from Trump, polls show low approval and allies like Speaker Johnson and Chief of Staff Wiles dismiss a third‐term bid.",
-      "summaryTokens": 854,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "White House spokeswoman Abigail Jackson said America would be ‘lucky’ if Donald Trump served a constitutionally banned third term, responding to Alan Dershowitz’s claim that the 22nd Amendment is ‘not clear.’ In his forthcoming book, Dershowitz explores electoral-college abstention or House selection as loopholes. Trump finds the idea intellectually intriguing but likely won’t run. Despite plunging approval, mixed signals persist: allies Mike Johnson and Susie Wiles dismiss a third bid, while billionaire donors like Miriam Adelson and Trump’s 2028 merchandise keep the prospect alive.",
+      "summaryTokens": 1118,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/tennessee-charlie-kirk-meme-arrest-lawsuit",
@@ -221,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T14:54:02Z",
       "trailText": "Lawsuit alleges that Larry Bushart’s first amendment rights were violated when he was arrested and jailed for 37 days",
-      "summary": "Larry Bushart, a 61-year-old ex–Tennessee officer, was jailed 37 days after posting a Facebook meme about Donald Trump’s remark on a 2024 Iowa school shooting, mistakenly linked to a local vigil for assassinated activist Charlie Kirk. Charged with threatening mass violence and held on $2 million bond, the count was later dropped. With backing from FIRE, Bushart is suing Perry County, Sheriff Nick Weems and others for First and Fourth Amendment violations, seeking damages after losing his post-retirement job.",
-      "summaryTokens": 860,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Former Perry County, Tennessee, officer Larry Bushart, 61, spent 37 days jailed on a $2 million bond after sharing on Facebook a meme linking Trump’s “we have to get over it” remark on the 2024 Iowa school shooting to a Charlie Kirk vigil. Authorities misinterpreted it as a threat to Perry County High School; charges were dropped in October. With help from FIRE, Bushart is suing the sheriff, county and investigator for First and Fourth Amendment violations, seeking compensatory and punitive damages and lost wages.",
+      "summaryTokens": 668,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/texas-antifa-ice-detention-center",
@@ -233,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T14:00:06Z",
       "trailText": "DoJ says a group of protesters at an ICE detention center was part of a terror cell; legal experts say case is an effort to crack down on leftwing groups and deter protesters",
-      "summary": "After Trump's post-Kirk pledge to 'beat the hell out of' leftwing activists, DOJ branded a July ICE detention center protest as the work of a \"North Texas antifa cell,\" charging 18 people—including two accused shooters—with terrorism. Fifteen face material support counts alongside rioting, explosives and attempted-murder charges. Prosecutors cite all-black attire, Signal chats, flyers and zines as evidence of a plotted attack that injured officers. Critics and defense argue most defendants were uninvolved, engaging in a noise demo, stifling dissent and stretching the terrorism statute's reach to routine activism. Observers warn this precedent could criminalize mainstream protest under antifa labels.",
-      "summaryTokens": 2160,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Following Trump’s vow to crack down on leftwing protesters, the DOJ in October brought unprecedented terrorism charges against 18 Texas activists labeled a ‘North Texas antifa cell’ after a July 4 noise demonstration at the Prairieland ICE detention center. Prosecutors allege they plotted an attack—citing all-black gear, encrypted Signal chats, zines and site scouting—and say two ICE officers and a police officer were shot. Fifteen face material support for terrorism plus rioting, explosives, firearms and attempted murder counts. Legal experts and defense lawyers warn this marks a dangerous expansion of domestic terrorism statutes to silence dissent.",
+      "summaryTokens": 1254,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/ice-raids-fighting-back",
@@ -245,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T14:00:04Z",
       "trailText": "As Trump carries out his mass deportation operation, residents are banding together to block raids and distribute groceries",
-      "summary": "Under Trump’s mass deportation drive—300,000+ removed and 65,000 detained—immigrant communities nationwide have formed encrypted Signal groups and grassroots networks to resist ICE raids. In Chicago, Protect Rogers Park volunteers chase agents on bikes and hand out whistles; a local fetish shop owner has distributed 400 whistles free; in LA’s Boyle Heights, student-led teams have delivered groceries to 1,500 families; Maryland parents run “walking school buses” to escort Latino children; and in New York, Mi Tlalli funds commissary accounts, mental-health care and mutual aid for detainees.",
-      "summaryTokens": 990,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Under Trump’s mass deportation drive—300,000 removed, 65,000 detained—communities from Chicago to Los Angeles have banded together to counter ICE raids. Chicago’s Protect Rogers Park rapid responders chase agents by bike and sound whistles; a local fetish shop donated 400 whistles. In LA, public health student Miguel Montes delivered groceries to 1,500 families via Raíces Con Voz. Maryland parents run “walking school buses” to escort Latino children. In New York, Mi Tlalli court watchers provide mutual aid, sending $50 weekly to 300 detainees and supporting 3,000 contacts. Organizers use encrypted Signal chats, trainings and assemblies to build solidarity and “outlast” ICE.",
+      "summaryTokens": 1014,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/cdc-flu-vaccination",
@@ -257,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T12:00:15Z",
       "trailText": "Americans told ‘time to get vaccinated is now’ as concerning mutation of influenza virus circulates in US",
-      "summary": "CDC urges immediate flu vaccination after last season’s record 288 pediatric deaths—highest outside a pandemic—as influenza activity and a mutated H3N2 subclade K spread. Officials warn vaccine access is hampered by HHS cuts and RFK Jr.–driven misinformation. New CDC guidance drops thimerosal; FDA may require annual pediatric and pregnancy trials, risking access. Last season vaccines were 63–78% effective in children, 41–55% in adults; early UK data show 70–75% (children), 30–40% (adults). Antiviral use remains low (35% high-risk children). Recommended for everyone ≥6 months.",
-      "summaryTokens": 689,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "CDC urges immediate flu vaccination and antiviral treatment as US influenza activity rises and a concerning H3N2 subclade K circulates. Last season saw record 288 pediatric deaths, 610K–1.3M hospitalizations, and 109 encephalopathy cases (74% ICU, 19% fatal) amid only 16% vaccination among eligible children. Officials removed thimerosal from endorsed flu shots, face FDA approval changes potentially limiting annual vaccine trials, and combat misinformation from HHS leadership. Early UK data show 70–75% vaccine effectiveness in children, 30–40% in adults, underscoring vaccines’ role in preventing hospitalization and death.",
+      "summaryTokens": 814,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/us-toy-company-trump-tariffs",
@@ -269,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T12:00:14Z",
       "trailText": "Learning Resources is suing the administration, claiming the president’s tariffs are illegal – and millions of dollars are on the line",
-      "summary": "Learning Resources, a family-owned educational toy maker with 500+ US employees, is challenging President Trump’s IEEPA tariffs at the Supreme Court in Learning Resources v. Trump. After paying $2 m in 2024 and projecting $14 m in 2025 solely on new China duties, the company—joined by state attorneys general and Costco—seeks refunds and argues the president overstepped Congress’s taxation power. Volatile levies (peaking at 145%), shifting rates every days, have disrupted supply chains, forced costly moves from China to India, slowed hiring, cut product launches and prompted inventory build-ups. The court’s ruling will decide both future tariff authority and the viability of retroactive reimbursements.",
-      "summaryTokens": 702,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Learning Resources, a family-owned educational toy maker with 500 employees and a 364,000 sq ft warehouse outside Chicago, is suing the Trump administration (Learning Resources v. Trump) in the Supreme Court, challenging IEEPA-based tariffs. The company paid $2 m in 2024 and faces $14 m in new levies this year, disrupted supply chains—eg, moving BubblePlush production to India only to incur an extra $50 k when rates spiked. Seeking refunds, it argues only Congress can levy taxes. Tariff volatility has forced hiring freezes, product delays and pre-buys, underscoring the high cost of reshoring.",
+      "summaryTokens": 1139,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/class-action-organization-universities",
@@ -281,21 +545,21 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T12:00:14Z",
       "trailText": "Class Action, a grassroots network formed after the affirmative action ruling, seeks to be critical of universities in their current form",
-      "summary": "Class Action is a two-year-old grassroots network of students and recent graduates formed after the 2023 affirmative action ruling to critique elitism in US higher education and transform, not dismantle, universities. Co-founded by Stanford senior Ryan Cieslikowski and John Jay professor Evan Mandery, it now spans 76 campuses and led campaigns banning legacy admissions in California, Connecticut, Rhode Island and Massachusetts, and diversifying career services beyond lucrative corporate funnels. At a Yale conference it drafted an “academic social contract” demanding admissions equity, student board representation, local accountability and repurposing university resources for the public good while defending academic freedom.",
-      "summaryTokens": 617,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Class Action, a grassroots student network founded in 2023 after the Supreme Court’s affirmative action ruling, critiques the elitism of US universities and seeks transformative reform rather than dismantling them. Spearheaded by Yale senior Emily Hettinger and Stanford alumnus Ryan Cieslikowski with adviser Evan Mandery, it has held a Yale conference of 300 students, conducted a nationwide listening tour, and is drafting an “academic social contract” to realign university wealth, governance and mission with the public good. Campaign victories include California’s ban on legacy admissions, and on 76 campuses members push to diversify career services and steer graduates toward public-interest roles. Class Action now builds formal chapters to defend academic freedom, expand student representation on boards, and foster inclusive coalitions that bridge societal divides.",
+      "summaryTokens": 645,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/michigan-data-center-fight",
-      "title": "‘Uniquely evil’: Michigan residents fight against huge data center backed by top tycoons",
+      "title": "‘Uniquely evil’: Michigan residents fight against huge datacenter backed by top tycoons",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/18/michigan-data-center-fight",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/18/michigan-data-center-fight",
       "section": "us-news",
       "publishedDate": "2025-12-18T12:00:12Z",
       "trailText": "Locals band together in David v Goliath fight against facility they say would jack up bills, increase pollution and destroy area’s character",
-      "summary": "Saline Township residents are battling a proposed 1.4 GW, $7 bn data center—part of the Trump-backed “Stargate” project with $500 bn in federal subsidies—arguing it will hike energy bills, pollute groundwater, erode rural character and trigger Michigan’s fossil-fuel off-ramp under its clean-energy law. After a board vote blocked it, Related Digital sued and reversed the decision. Opponents led by Kate Haushalter and Josh LeBaron, calling it “uniquely evil,” are pressing the Michigan Public Service Commission for a contested case. Backers including Sam Altman, Larry Ellison, Gov. Whitmer and DTE Energy cite AI infrastructure, national security and job creation.",
-      "summaryTokens": 1292,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "In rural Saline Township, Michigan, a broad coalition of residents has mobilized against the $7 billion, 1.4 GW “Stargate” datacenter backed by Donald Trump, Sam Altman, Larry Ellison, Gov. Gretchen Whitmer, DTE Energy and developer Related Co. Locals warn the facility would hike energy bills, pollute groundwater, erode the township’s bucolic character and undermine state renewable targets. After trustees initially rejected the plan, Related Digital sued and the board reversed. Opponents, joined by the Michigan attorney general, Sierra Club and former legislator Yousef Rabhi, are pressing the MPSC to require a full contested review of costs and environmental risks.",
+      "summaryTokens": 1028,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/first-thing-us-military-strike-pacific-boat",
@@ -305,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T11:53:41Z",
       "trailText": "UN condemns strikes as extrajudicial executions. Plus, Trump’s end-of-year ‘Bah! Humbug!’ address",
-      "summary": "US forces struck another Pacific vessel allegedly trafficking drugs, killing four and raising its campaign death toll to 99 since September. No evidence has been offered, and the UN, Amnesty and Human Rights Watch call the strikes extrajudicial killings. A Colombian family has filed a petition with the Inter-American Commission on Human Rights. Former president Trump’s ‘Bah! Humbug!’ end-of-year address blamed Biden, trade deals and immigrants amid slipping poll numbers. Other briefs cover Morocco’s protests, a double-murder court appearance, FCC independence, EU plans to tap Russian assets, streaming diversity, holiday guest tips and a Ukraine frontline documentary.",
-      "summaryTokens": 1453,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "US defense secretary Pete Hegseth announced another lethal strike on an alleged drug-trafficking vessel in the eastern Pacific, killing four and raising the campaign’s death toll to 99 since September. Critics, including the UN, Amnesty International and Human Rights Watch, condemn the strikes as extrajudicial executions, citing no public evidence and a Colombian family’s petition to the Inter-American Commission on Human Rights over a September bombing. Elsewhere, Donald Trump’s frosty end-of-year “Bah! Humbug!” address blamed Biden, trade deals and immigrants as his approval slides.",
+      "summaryTokens": 740,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/us-mental-health-poll",
@@ -317,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T11:00:07Z",
       "trailText": "Drop is cause for public health concern, but news isn’t all bad as acknowledging struggles is ‘a good sign’, experts say",
-      "summary": "According to a Gallup poll, just 72% of adults now rate their mental health as “good” or “excellent,” with “excellent” dropping below 30%—the lowest since tracking began—down from over 42% pre-2020. Experts link part of the decline to greater willingness to acknowledge struggles and higher diagnoses of anxiety, depression, ADHD and bipolar disorder (per Fair Health), but also to pandemic trauma, political and economic uncertainty and social disconnection. Self-reported “excellent” mental health fell 17 points among college graduates (to 36%) and 13 points among Republicans (to 40%), narrowing historic gaps.",
-      "summaryTokens": 1066,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "A West Health–Gallup poll finds just under 30% of Americans now rate their mental health “excellent,” and 72% rate it “good” or “excellent,” both record lows since the Covid-19 era (pre-2020 levels were 42% “excellent”). Experts attribute the drop partly to increased openness about psychiatric struggles—diagnoses of anxiety, depression, bipolar disorder and ADHD have surged since 2019 (Fair Health data)—and partly to pandemic trauma, political/economic uncertainty and social disconnection. Self-ratings fell most sharply among college graduates and Republicans, narrowing historical gaps and signaling broad, shared distress alongside growing willingness to acknowledge mental health issues.",
+      "summaryTokens": 429,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/trump-end-year-primetime-nation-address-opinion-polls-economy",
@@ -329,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T05:55:06Z",
       "trailText": "Primetime speech – delivered with shouty spirit but no cheer – betrayed a figure dogged by a cost of living crisis and the looming release of the Epstein files",
-      "summary": "Surrounded by Christmas trees in the White House Diplomatic Room, Trump delivered a shouty, 20-minute end-of-year 'Bah! Humbug!' speech revealing desperation over 33% economic approval and looming Epstein file disclosures. He lied that inflation was worst in 48 years, blamed Biden, previous trade deals, immigrants and 'sinister woke radicals,' touted a $1,776 'warrior dividend' funded by tariffs, boasted peace deals and 'reverse migration,' and demonized transgender rights and Somali Americans. Abandoning tradition, he ranted in monotone anger, exposing GOP dissent and the need for a familiar foil as he fights sagging polls and cost-of-living discontent.",
-      "summaryTokens": 1358,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Surrounded by Christmas decorations in a 20-minute “Bah! Humbug!” primetime address, Trump channeled Ebenezer Scrooge, railing against Biden, immigrants and “woke radicals” amid a cost-of-living crisis and looming Epstein files. He falsely claimed 48-year high inflation under Biden, touted a sharp drop in gas prices, and announced a $1,776 “warrior dividend” for service members funded by tariffs. Monotone and shouty, he blamed trade deals and a “corrupt system,” revealing desperation over 33% economic approval, Republican dissent and the search for new political foes.",
+      "summaryTokens": 502,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/17/military-strike-pacific-hegseth",
@@ -341,9 +605,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T05:29:23Z",
       "trailText": "Hegseth announcement comes day after Trump blockades all sanctioned oil tankers entering and leaving Venezuela",
-      "summary": "US forces launched a lethal strike on an alleged narco-trafficking vessel in the eastern Pacific, killing four and bringing the campaign’s death toll to 99, Defense Secretary Pete Hegseth said. The action follows President Trump’s blockade of sanctioned Venezuelan oil tankers, which he claims finance drug cartels. Venezuela insists exports continue normally, while President Maduro appealed to the UN for support and China condemned US “bullying.” A Democratic bid in Congress to require war-powers approval was blocked by House Republicans amid accusations Trump covets Venezuelan oil.",
-      "summaryTokens": 475,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Defense Secretary Pete Hegseth announced a lethal strike on a suspected narco-trafficking vessel in the eastern Pacific, killing four and bringing the campaign’s death toll to 99 since September. The action follows President Trump’s blockade of sanctioned Venezuelan oil tankers, accusing Caracas of seizing US oil to fund drug operations. Venezuela, backed by China, insists exports continue despite threats of regime change. House Republicans blocked measures to require congressional approval for strikes, while Mexico’s president and UN chief António Guterres face pressure to prevent regional escalation amid accusations that Trump’s true goal is ousting Maduro for oil interests.",
+      "summaryTokens": 550,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/18/trump-administration-latest-news-updates",
@@ -353,9 +617,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T01:54:07Z",
       "trailText": "Bongino, a former Secret Service agent turned podcaster, will step down in January. Key US politics stories from Wednesday 17 December at a glance",
-      "summary": "FBI deputy director Dan Bongino will resign in January, thanking Trump, Kash Patel and former AG Pam Bondi after reportedly clashing over Epstein files. Trump praised his service and hinted he’d return to his show. The White House revamped presidential portraits to brand Biden the “worst president,” and four House Republicans forced a vote to extend ACA subsidies. The administration plans to dismantle the National Center for Atmospheric Research, the FCC chair disavowed agency independence, and the Senate advanced a $901bn defense bill with Ukraine aid, alongside moves on Venezuela, pediatric grant cuts and NASA’s new administrator.",
-      "summaryTokens": 2593,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "FBI deputy director Dan Bongino, a former Secret Service agent turned podcaster, will step down in January, thanking Trump, FBI director Kash Patel and former AG Pam Bondi, with the president quipping he “wants to go back to his show.” Elsewhere, Trump’s White House updates presidential portraits to denounce Biden; four Republicans join Democrats to force a vote extending Obamacare subsidies; the administration plans to dismantle Colorado’s NCAR climate center; FCC chair questions agency independence; Congress advances a $901bn defense bill including aid for Ukraine; plus key moves on Venezuela, HHS grants, NASA leadership and federal workforce layoffs blocked by a judge.",
+      "summaryTokens": 621,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/17/house-bills-ban-gender-affirming-care-children",
@@ -365,9 +629,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T00:15:22Z",
       "trailText": "Two bills mark first time Congress votes over national care bans and escalation of anti-trans rhetoric",
-      "summary": "On December 17, the House approved two unprecedented federal measures targeting transgender youth. Rep. Marjorie Taylor Greene’s bill (216-211) would criminalize any gender-affirming care for minors under 18—punishable by up to 10 years in prison—while Rep. Dan Crenshaw’s proposal would eliminate Medicaid coverage for puberty blockers, hormone therapy and surgery. Opponents like Rep. Sarah McBride, policy aide Nicholas Mitchell and nurse-activist Odile Saint-Flour warn these bans exacerbate suicide risk—46% of trans and nonbinary youth considered suicide in 2024—and mirror the chilling effects seen under state abortion restrictions. Critics argue both bills represent government overreach into medical decisions affecting a vulnerable 1% of the population.",
-      "summaryTokens": 1484,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "On Dec. 17 the House passed Greene’s bill, 216-211, to criminalize gender-affirming care for under-18s—punishable by up to 10 years—marking Congress’s first vote on national care bans. A second Crenshaw bill would bar Medicaid from covering puberty blockers, hormones or surgeries for minors. Advocates warn these measures fuel anti-trans rhetoric, exacerbate high suicide rates among trans youth, and mirror broad collateral harms seen in state abortion bans. Opponents, including Rep. Sarah McBride, decry federal overreach into medical decisions, argue open-access care reduces mental health crises and question prioritizing these bans over healthcare funding lapses.",
+      "summaryTokens": 955,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/17/washington-flooding-damage-governor",
@@ -377,9 +641,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-18T00:00:17Z",
       "trailText": "Record rains have forced hundreds of rescues, swamped communities and left rivers high, with more storms forecast",
-      "summary": "In Washington state, Gov. Bob Ferguson warns damage from over a week of Pacific storms—dumping nearly 0.6m of rain—remains unclear as swollen rivers forced 629 rescues across 10 counties, 572 evacuations and left over 400,000 residents without power from southern Washington to Portland. Record rains inundated communities, saturated levees failed, key highways like State Route 2 washed out with closures likely lasting months. One man died after driving into floodwaters. The National Weather Service forecasts elevated rivers, mudslides and high winds persisting until late month. Officials have allocated millions for emergency aid, urging strict compliance with evacuation orders.",
-      "summaryTokens": 1904,
-      "generatedAt": "2025-12-19T04:18:05.174Z"
+      "summary": "Gov. Bob Ferguson warns that after more than a week of Pacific storms dumping 0.6m of rain across western Washington, the extent of flooding damage remains unclear. Rising rivers triggered over 629 rescues and 572 assisted evacuations across 10 counties, leaving more than 100,000 under evacuation orders. High winds downed trees and powerlines, cutting electricity for 400,000 in Washington and Oregon. Mudslides, washed-out highways—State Route 2 may stay closed for months—and levee breaches persist under flood and wind watches. One fatality has occurred. The state has authorized millions in aid while crews await receding waters to assess damages and federal assistance.",
+      "summaryTokens": 1909,
+      "generatedAt": "2025-12-20T03:53:49.589Z"
     },
     {
       "id": "us-news/2025/dec/17/trump-fbi-deputy-director-dan-bongino",
@@ -11333,7 +11597,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-31T16:36:57Z",
       "trailText": "Heritage Foundation defended former Fox News host, others slammed him for platforming white supremacist",
-      "summary": "Conservatives split over Tucker Carlson’s decision to host antisemite Nick Fuentes, who attacked ‘Christian Zionists’ like Ted Cruz and George W. Bush. Heritage Foundation president Kevin Roberts defended Carlson and condemned ‘cancel culture,’ arguing conservatives need not reflexively back Israel. Senators such as Cruz and groups like the Republican Jewish Coalition blasted the interview as mainstreaming hatred, warning antisemitism poses an ‘existential crisis’ for the GOP. Democrats led by Chuck Schumer also decried the move, while conservative media criticized Carlson for failing to challenge Fuentes’s praise of Hitler and conspiratorial claims.",
+      "summary": "Conservatives split over Tucker Carlson’s decision to host antisemite Nick Fuentes, who attacked ‘Christian Zionists�� like Ted Cruz and George W. Bush. Heritage Foundation president Kevin Roberts defended Carlson and condemned ‘cancel culture,’ arguing conservatives need not reflexively back Israel. Senators such as Cruz and groups like the Republican Jewish Coalition blasted the interview as mainstreaming hatred, warning antisemitism poses an ‘existential crisis’ for the GOP. Democrats led by Chuck Schumer also decried the move, while conservative media criticized Carlson for failing to challenge Fuentes’s praise of Hitler and conspiratorial claims.",
       "summaryTokens": 424,
       "generatedAt": "2025-11-02T14:04:35.310Z"
     },
@@ -12041,7 +12305,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-29T12:47:44Z",
       "trailText": "Parish of St Elizabeth ‘under water’ after Jamaica’s ‘storm of the century’. Plus, Trump and Xi to meet for first time since 2019",
-      "summary": "Hurricane Melissa, Jamaica’s most intense storm since records began in 1851, made landfall as a category 5, submerging St Elizabeth, triggering landslides, cutting power to 530,000 and housing 15,000 in shelters; it’s now a category 3 barreling into Cuba. Meanwhile, Israeli airstrikes in Gaza killed at least 104, including 35 children, threatening a fragile US-brokered ceasefire. Donald Trump and Xi Jinping will meet at APEC in Seoul—their first encounter since 2019—to negotiate trade, rare earths and semiconductor controls. Quick hits: Indonesia’s planned capital risks becoming a ghost town, Tanzania votes amid opposition bans, a mercenary’s Dubai detention sparks coup fears, US top 0.1% carbon emissions dwarf poorest 10%, and a Finnish forest preschool experiment explores nature’s health benefits.",
+      "summary": "Hurricane Melissa, Jamaica’s most intense storm since records began in 1851, made landfall as a category 5, submerging St Elizabeth, triggering landslides, cutting power to 530,000 and housing 15,000 in shelters; it’s now a category 3 barreling into Cuba. Meanwhile, Israeli airstrikes in Gaza killed at least 104, including 35 children, threatening a fragile US-brokered ceasefire. Donald Trump and Xi Jinping will meet at APEC in Seoul—their first encounter since 2019���to negotiate trade, rare earths and semiconductor controls. Quick hits: Indonesia’s planned capital risks becoming a ghost town, Tanzania votes amid opposition bans, a mercenary’s Dubai detention sparks coup fears, US top 0.1% carbon emissions dwarf poorest 10%, and a Finnish forest preschool experiment explores nature’s health benefits.",
       "summaryTokens": 553,
       "generatedAt": "2025-11-02T00:28:16.264Z"
     },
@@ -17897,7 +18161,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-05T12:00:34Z",
       "trailText": "Billionaire philanthropist makes ‘perfect cartoon villain’ as Trump attacks Democratic contributors before midterms",
-      "summary": "Donald Trump has publicly singled out billionaire donor George Soros for a potential Justice Department investigation into “leftwing terrorism” funding—despite no evidence—labeling him “at the top of everything.” Critics say the timing—just over a year before midterms—aims to intimidate Democratic mega-donors and chill contributions. Soros, aged 95, has donated over $32bn through the Open Society Foundations to global democracy, human rights, and civil rights groups. Conservatives long cast him as a “cartoon villain,” deploying coded antisemitic tropes.",
+      "summary": "Donald Trump has publicly singled out billionaire donor George Soros for a potential Justice Department investigation into “leftwing terrorism” funding���despite no evidence—labeling him “at the top of everything.” Critics say the timing—just over a year before midterms—aims to intimidate Democratic mega-donors and chill contributions. Soros, aged 95, has donated over $32bn through the Open Society Foundations to global democracy, human rights, and civil rights groups. Conservatives long cast him as a “cartoon villain,” deploying coded antisemitic tropes.",
       "summaryTokens": 1628,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
