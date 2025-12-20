@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-12-19T03:42:41.819Z",
+    "generated_at": "2025-12-20T03:42:56.290Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-12-17"
+      "to": "2025-12-19"
     },
-    "article_count": 157,
+    "article_count": 159,
     "merge_info": {
       "previous_count": 157,
-      "new_articles": 0,
-      "updated_articles": 2,
-      "total_count": 157
+      "new_articles": 2,
+      "updated_articles": 0,
+      "total_count": 159
     },
     "batch_info": {
-      "initial_batch_id": "batch_6944c96f405081909cbd7c3a189ec558",
+      "initial_batch_id": "batch_69461ae809a88190bfb9be6792d46ddf",
       "retry_batches": [],
-      "total_tokens": 4878,
+      "total_tokens": 3303,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/dec/19/what-will-happen-contactless-card-100-pounds-limit-scrapped",
+      "title": "What will happen when the £100 contactless card limit is scrapped?",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/19/what-will-happen-contactless-card-100-pounds-limit-scrapped",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/19/what-will-happen-contactless-card-100-pounds-limit-scrapped",
+      "section": "money",
+      "publishedDate": "2025-12-19T16:09:06Z",
+      "trailText": "Watchdog says banks will be able to respond to changing consumer demands, inflation and new technology",
+      "summary": "In March 2026 the FCA will remove the £100 limit on single and cumulative contactless card transactions, letting each bank set its own caps. Currently contactless is capped at £100 per tap and £300 or five taps before PIN verification; digital wallets remain unlimited. While providers aren’t expected to rush new limits, fraud risk could rise—worst-case 131% over three years if limits increase to £150/£450—so banks must deploy fraud monitoring, customer alerts, and allow consumer-set caps. Standard reimbursement rules still apply: report theft promptly or face £35 liability. Average contactless spends (£16.10) suggest limited behavioural change.",
+      "summaryTokens": 1079,
+      "generatedAt": "2025-12-20T03:42:56.093Z"
+    },
+    {
+      "id": "money/2025/dec/19/uk-contactless-card-limit-of-100-to-be-scrapped-from-19-march",
+      "title": "UK contactless card limit of £100 to be scrapped from 19 March",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/19/uk-contactless-card-limit-of-100-to-be-scrapped-from-19-march",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/19/uk-contactless-card-limit-of-100-to-be-scrapped-from-19-march",
+      "section": "money",
+      "publishedDate": "2025-12-19T11:29:04Z",
+      "trailText": "Under changes revealed by regulator, banks and card providers encouraged to set their own maximums",
+      "summary": "From 19 March 2025 the FCA will allow banks and card issuers to abolish the £100‐per-transaction contactless cap and set their own single-transaction and cumulative limits, replacing the current £100/£300-five-tap threshold. Firms with robust fraud controls must offer consumer opt-outs or self-set limits, keeping existing fraud reimbursements. The change, driven by rising contactless use (95% of in-store payments) and inflation, is welcomed by retailers but may risk overspending, say economists.",
+      "summaryTokens": 418,
+      "generatedAt": "2025-12-20T03:42:56.093Z"
+    },
     {
       "id": "money/2025/dec/17/beans-beans-the-more-you-eat-the-more-your-meals-are-healthier-and-cheaper",
       "title": "Beans, beans, the more you eat, the more your … meals are healthier and cheaper",
