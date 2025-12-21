@@ -1,37 +1,241 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-20T03:53:49.871Z",
+    "generated_at": "2025-12-21T03:50:17.991Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-20"
+      "to": "2025-12-21"
     },
-    "article_count": 1887,
+    "article_count": 1904,
     "merge_info": {
-      "previous_count": 1865,
-      "new_articles": 22,
-      "updated_articles": 30,
-      "total_count": 1887
+      "previous_count": 1887,
+      "new_articles": 17,
+      "updated_articles": 25,
+      "total_count": 1904
     },
     "batch_info": {
-      "initial_batch_id": "batch_69461d2ac95081909c9864aa1cd18e02",
+      "initial_batch_id": "batch_69476d298d7081908b5522ebbb4a45aa",
       "retry_batches": [],
-      "total_tokens": 123077,
-      "processing_time_hours": 0
+      "total_tokens": 107969,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/21/donald-trump-administration-news-updates-today-latest",
+      "title": "Trump news at a glance: Anger grows about redactions, apparent removal of Epstein files from DoJ website",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/21/donald-trump-administration-news-updates-today-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/21/donald-trump-administration-news-updates-today-latest",
+      "section": "us-news",
+      "publishedDate": "2025-12-21T02:26:55Z",
+      "trailText": "Justice department hit with legal threats after authorities release limited, heavily redacted trove of files in apparent violation of Epstein Transparency Act. Key US politics stories from 20 December 2025",
+      "summary": "Justice Dept under Trump faced legal threats after releasing a limited, heavily redacted Epstein file trove—removing 16 documents—allegedly flouting the Epstein Transparency Act. Reps. Ro Khanna and Thomas Massie vow to pursue contempt, impeachment or prosecution. Separately, US forces intercepted a Panama‐flagged tanker off Venezuela, enforcing an oil blockade. A Bill Clinton spokesperson accused the White House of scapegoating over photos with Epstein. Economic promises of Trump’s ‘golden age’ falter: job gains have dropped 67% y/y, unemployment rose to 4.6%. Other stories: Luigi Mangione’s death‐penalty bid citing AG bias, consumer boycotts of anti‐DEI firms, LA cultural protests against immigration raids.",
+      "summaryTokens": 1171,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/bill-clinton-white-house-epstein-files",
+      "title": "Bill Clinton spokesperson says White House is using him as scapegoat after Epstein files release",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/bill-clinton-white-house-epstein-files",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/bill-clinton-white-house-epstein-files",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T21:24:22Z",
+      "trailText": "Angel Ureña said ex-president, pictured in some photos released by justice department, cut ties with Epstein in 2005",
+      "summary": "Clinton spokesperson Angel Ureña accused the White House of scapegoating the ex-president by dumping grainy, 20-year-old photos of him with Jeffrey Epstein, Ghislaine Maxwell and a redacted woman, stressing he cut ties in 2005. Ureña contrasted those who severed Epstein ties before his crimes with those who stayed, and denounced MAGA demands for scapegoats. Released images—pool and dinner shots—drew mockery from White House communications. Epstein visited Clinton at least 17 times; Clinton has no allegations. The Justice Dept photo dump precedes Jan.13-14 oversight depositions for Bill and Hillary Clinton, with contempt threats looming.",
+      "summaryTokens": 1413,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/us-second-merchant-vessel-venezuela",
+      "title": "US intercepts second merchant vessel off coast of Venezuela in international waters",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/us-second-merchant-vessel-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/us-second-merchant-vessel-venezuela",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T20:15:00Z",
+      "trailText": "Vessel does not appear to be on list of US-sanctioned vessels, which would represent escalation in blockade",
+      "summary": "On Dec 20, US Coast Guard and Pentagon forces intercepted the Panama-flagged tanker Centuries off Barbados in international waters, the second vessel seized under President Trump’s \"total and complete\" blockade since Dec. 10. Unlike the first, Centuries isn’t on America’s sanctions list, marking an escalation. Homeland Security Secretary Kristi Noem pledged to stop oil shipments funding narco-terrorism. Venezuela’s Maduro vows naval escorts, Trump hasn’t ruled out conflict, Beijing still imports crude via a clandestine \"shadow fleet\", and Mexico’s president urged UN intervention amid rising oil-price risks.",
+      "summaryTokens": 2536,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/luigi-mangione-death-penalty-pam-bondi",
+      "title": "Luigi Mangione lawyers fight death penalty, saying Pam Bondi is biased",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/luigi-mangione-death-penalty-pam-bondi",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/luigi-mangione-death-penalty-pam-bondi",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T19:25:57Z",
+      "trailText": "Lawyers also attempting to throw out two federal charges, saying US attorney general has ties to UnitedHealth Group",
+      "summary": "Defense lawyers for Luigi Mangione, accused of killing UnitedHealthcare CEO Brian Thompson, filed motions to bar the death penalty and dismiss two federal counts, alleging AG Pam Bondi is biased due to her former lobbying work at Ballard Partners representing UnitedHealth Group. They seek evidence suppression and an ethics probe into Bondi’s compensation and directives, arguing political motives taint prosecutorial discretion. A January 9 hearing in SDNY will address these claims. Mangione’s team previously secured the dismissal of two state murder charges pending a May ruling.",
+      "summaryTokens": 666,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/brown-university-shooting-suspect-autopsy",
+      "title": "Brown University shooting suspect died two days before body discovered, autopsy shows",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/brown-university-shooting-suspect-autopsy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/brown-university-shooting-suspect-autopsy",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T18:23:05Z",
+      "trailText": "Suspect’s body was discovered after he allegedly killed an MIT professor and two Brown University students",
+      "summary": "An autopsy shows Portuguese national Claudio Manuel Neves Valente (48), accused of fatally shooting MIT professor Nuno Loureiro and two Brown students and wounding nine others, died by suicide on Dec. 16—two days before his body was found in a Salem, Mass., storage locker. Investigators reconstructed a three-state rampage—first the Providence attack at Brown’s Barus & Holley building, then Loureiro’s killing near MIT—and traced a gray Nissan with Florida and Maine plates to a Boston rental via a Reddit tip. A former classmate says Neves Valente, a disgruntled ex-Brown doctoral student, was “bored” and “hated” the university; authorities have not established a motive.",
+      "summaryTokens": 642,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/conservative-response-epstein-release",
+      "title": "From praise to rage: conservative response to Epstein release is mixed",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/conservative-response-epstein-release",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/conservative-response-epstein-release",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T18:11:32Z",
+      "trailText": "Republicans such as Thomas Massie and Marjorie Taylor Greene slam redactions, but others express satisfaction",
+      "summary": "Conservative reaction to the DOJ’s partial release of Jeffrey Epstein case files is sharply divided: figures like Reps. Marjorie Taylor Greene and Thomas Massie accuse the DOJ of over-redaction that obscures Trump’s involvement and violates the law—Massie even hints at impeaching AG Pam Bondi—while right-wing loyalists and commentators such as Laura Loomer and Rogan O’Handley celebrate unredacted photos of Bill Clinton, Michael Jackson and Noam Chomsky, alleging Clinton’s blackmail. Deputy AG Todd Blanche defends unprecedented transparency, but critics demand the missing pages be revealed. Overall, enthusiasm on the right cooled after initial legislative pressure, and Clinton’s team reiterates his denial of any wrongdoing.",
+      "summaryTokens": 889,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/los-angeles-public-art-trump-ice-raids",
+      "title": "‘Am I Next?’ protest art in downtown LA boldly asks who’s safe from ICE",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/los-angeles-public-art-trump-ice-raids",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/los-angeles-public-art-trump-ice-raids",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T17:00:35Z",
+      "trailText": "Public exhibition, featuring billboard-sized portraits projected onto buildings, calls attention to Trump administration’s attacks on civil liberties",
+      "summary": "Since Nov. 6, three LA institutions—the California Community Foundation, LA Plaza Cultura y Artes and the Japanese American National Museum—have projected nightly billboard-sized black-and-white portraits of everyday Angelenos and activists under the question “Am I Next?” and the word “Taken.” The protest art responds to Trump-era ICE raids that have detained over 65,000 immigrants (74% without convictions), spotlighting US citizens and permanent residents seized from homes, streets and jobs. Featuring faces from Edward James Olmos to local families, the campaign echoes WWII Japanese American internment, invites public photo submissions and will run indefinitely as a call to defend civil liberties.",
+      "summaryTokens": 437,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/dollar-general-settlement-price-gouging",
+      "title": "Dollar General agrees to pay $15m to settle price-gouging claims",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/dollar-general-settlement-price-gouging",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/dollar-general-settlement-price-gouging",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T17:00:34Z",
+      "trailText": "Company settles allegations it failed to honor shelf prices in multiple states, and customers anywhere in US may be eligible for repayments",
+      "summary": "Retailer Dollar General will pay at least $15m to settle nationwide suits alleging it charged higher register prices than those shown on shelves at its 20,000 stores. This resolves five consumer cases in New Jersey, New York, Oklahoma and South Carolina, following a separate $1.55m Pennsylvania deal. A Guardian probe found over 4,300 failed price inspections since 2022, hitting rural and low-income shoppers hardest. Subject to March 2026 approval, customers can claim $10 or full overcharge refunds with proof, or a $3 voucher, while Dollar General hires price monitors, funds external audits and may donate any shortfall to food banks.",
+      "summaryTokens": 1521,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/epstein-files-which-royalty-politicians-musicians-and-actors-are-in-the-photos",
+      "title": "Epstein files: which royals, politicians, musicians and actors are in the photos?",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/epstein-files-which-royalty-politicians-musicians-and-actors-are-in-the-photos",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/epstein-files-which-royalty-politicians-musicians-and-actors-are-in-the-photos",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T15:09:36Z",
+      "trailText": "Released images illustrate relationships Jeffrey Epstein and Ghislaine Maxwell forged with significant figures",
+      "summary": "US Justice Department release of thousands of photographs shows Jeffrey Epstein and Ghislaine Maxwell posing with royalty, politicians, musicians and actors. The cache includes undated images of Prince Andrew Mountbatten-Windsor at Sandringham and Balmoral; former President Bill Clinton relaxing with Michael Jackson, Diana Ross and Kevin Spacey; Labour peer Peter Mandelson celebrating Epstein’s birthday and urging his post-2008 release; singer Michael Jackson beside a large painting; Rolling Stones frontman Mick Jagger in cocktail attire; and actor Kevin Spacey in war rooms. No subjects face allegations related to Epstein’s crimes; many deny knowledge or cut ties.",
+      "summaryTokens": 1462,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/california-renewable-energy",
+      "title": "‘The biggest transformation in a century’: how California remade itself as a clean energy powerhouse ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/california-renewable-energy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/california-renewable-energy",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T15:00:33Z",
+      "trailText": "The Golden State’s clean energy use hit new highs in 2025. As the Trump administration abandons US climate initiatives, can California fill the void?",
+      "summary": "California has emerged as a global clean-energy leader in 2025, powering its $3.8 trn economy on 67% carbon-free electricity nine days out of ten and adding 30.8 GW of solar, wind and batteries since 2019. Battery capacity exploded from 771 MW to nearly 17 GW, helping cut natural gas generation by 8% in 2024 while nuclear supplied 10%. Governor Gavin Newsom is suing the Trump administration over EV bans, offshore leases and cancelled solar funding, and aims for 100% zero-carbon power by 2045.",
+      "summaryTokens": 612,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/shoppers-boycott-holiday-season-trump-economy",
+      "title": "Merry boycotting: US shoppers avoid Trump-aligned businesses amid holiday season",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/shoppers-boycott-holiday-season-trump-economy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/shoppers-boycott-holiday-season-trump-economy",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T15:00:32Z",
+      "trailText": "People are supporting economic boycotts to show discontent with businesses capitulating to Trump’s agenda",
+      "summary": "Amid Trump’s second term, ethical shoppers spearheaded the We Ain’t Buying It campaign over Black Friday, enlisting 220+ groups to boycott Target, Home Depot and Amazon for embracing anti-DEI and anti-immigration policies. The movement drove 40,000 pledges and record traffic to Little Blue Cart, a progressive small-business directory. Parallel boycotts target Spotify (ICE ads), Tesla (Musk’s agency cuts), Starbucks (union stalls) and other firms, while consumers pivot to small, local and immigrant-owned businesses, reusing, thrifting or supporting companies like Costco suing the administration. Focused protests even reversed Disney’s programming decision.",
+      "summaryTokens": 632,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/trump-justice-department-legal-threats-epstein-files-release",
+      "title": "Outrage and legal threats: Trump justice department slammed after limited Epstein files release",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/trump-justice-department-legal-threats-epstein-files-release",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/trump-justice-department-legal-threats-epstein-files-release",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T14:59:21Z",
+      "trailText": "Lawmakers voice frustration over heavy redactions and the apparent removal of files from government website",
+      "summary": "Trump’s DOJ delivered a heavily redacted, partial release of Jeffrey Epstein files, appearing to flout the Epstein Files Transparency Act requiring near-complete disclosure by Dec 19. Co-authors Rep. Ro Khanna and Rep. Thomas Massie threatened contempt, impeachment and prosecution of officials. At least 16 documents—including nude artwork photos and an image of Trump with Epstein, Maxwell and Melania—vanished from the DOJ site, fueling bipartisan outrage from Schumer, Ocasio-Cortez and others. DOJ defends its rollout, citing ongoing probes and victim protections, while Democrats weigh legal recourse.",
+      "summaryTokens": 1069,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/favorite-news-moments",
+      "title": "A new pope, a mayoral victory and a drunk raccoon: Guardian US readers on their favorite news moments of 2025",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/favorite-news-moments",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/favorite-news-moments",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T14:00:32Z",
+      "trailText": "There were some bright spots in a year of dark news stories – here are the ones that brought readers the most joy",
+      "summary": "In a year marked by wildfires, layoffs and political violence, Guardian US readers highlighted four uplifting stories: the election of Pope Leo XIV, whose calls for peace in Ukraine and Gaza and stance on immigration echoed his predecessor’s legacy; the Latvian animated feature Flow’s Oscar–winning cat odyssey, proving indie creativity can triumph; Zohran Mamdani’s youthful, idealistic New York mayoral victory; and the now-famous “drunk raccoon” whose misadventures and accompanying merch raised over $250,000 for a Virginia animal shelter, uniting readers in unexpected solidarity.",
+      "summaryTokens": 673,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/food-insecurity-restaurants-trump-economy",
+      "title": "Caviar bumps, cost jumps: US consumers on how they’re dining in Trump’s economy",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/food-insecurity-restaurants-trump-economy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/food-insecurity-restaurants-trump-economy",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T13:00:32Z",
+      "trailText": "Georgia residents are shopping vastly differently – from food pantries to $300 steak dinners",
+      "summary": "Amid Trump’s second term, Georgians report starkly divergent food experiences: low-income residents double pantry visits as SNAP pauses trigger a 30% cost climb, while middle-class households juggle grocery budgets and gig hustles. Refugee chefs turn to catering, facing ingredient surcharges but finding firm demand. At the luxury end, steakhouses and caviar suppliers implement multiple price hikes yet retain affluent diners. Overall, surging food prices widen the gap between insecurity and indulgence in Atlanta’s dining landscape.",
+      "summaryTokens": 727,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/emergency-car-repair-family-expense",
+      "title": "‘We spent $10,000 in four months’: how an emergency car repair can gut a US family’s finances",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/emergency-car-repair-family-expense",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/emergency-car-repair-family-expense",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T12:00:28Z",
+      "trailText": "A $1,000 fix is out of reach for many Americans – and so is good public transportation",
+      "summary": "In the US, where 75% commute by car, emergency repairs can wreck household budgets: AAA reports drivers spend over $1,400 annually and 64 million incur debt. In a Guardian WhatsApp group of ten parents, nearly all faced major breakdowns—California City’s Gabriela Rangel lost her engine to a flash flood and waited months for a used replacement; Rene Mayhorn Williams spent $10,000 on transmission failures in four months; single mom Jennifer Wilson logged $4,500 in repairs plus $170/month insurance. With scarce public transit, families deplete savings and pare back holiday spending.",
+      "summaryTokens": 803,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "uk-news/2025/dec/20/epstein-files-appear-to-show-ex-prince-andrew-lying-on-laps-watched-by-ghislaine-maxwell",
+      "title": "Photos of Andrew reveal how ex-prince gave Jeffrey Epstein access to British high society",
+      "webUrl": "https://www.theguardian.com/uk-news/2025/dec/20/epstein-files-appear-to-show-ex-prince-andrew-lying-on-laps-watched-by-ghislaine-maxwell",
+      "apiUrl": "https://content.guardianapis.com/uk-news/2025/dec/20/epstein-files-appear-to-show-ex-prince-andrew-lying-on-laps-watched-by-ghislaine-maxwell",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T11:14:15Z",
+      "trailText": "Andrew Mountbatten-Windsor reclines across five people in one photo watched by Ghislaine Maxwell at Sandringham",
+      "summary": "Photos from newly released US Justice Department files show Prince Andrew reclining across the laps of five redacted guests at Sandringham with Ghislaine Maxwell looking on, illustrating how he facilitated Jeffrey Epstein’s and Maxwell’s access to British high society. Other images depict them at Balmoral hunting, in the royal box at Ascot and outside 10 Downing Street, alongside figures such as Bill Clinton, Mick Jagger and Peter Mandelson. The trove, released under the Epstein Files Transparency Act, is heavily redacted and has prompted survivors and lawmakers to demand full disclosure.",
+      "summaryTokens": 621,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
     {
       "id": "us-news/2025/dec/19/us-military-syria-airstrikes-trump",
       "title": "US launches airstrikes against dozens of Islamic State targets in Syria",
       "webUrl": "https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
       "section": "us-news",
-      "publishedDate": "2025-12-20T03:02:08Z",
+      "publishedDate": "2025-12-20T10:36:44Z",
       "trailText": "Attacks come after two US soldiers and interpreter killed as Trump says US inflicting ‘very serious retaliation’",
-      "summary": "US Central Command conducted “Operation Hawkeye Strike,” launching Jordanian-supported airstrikes on over 70 ISIS targets across central Syria in retaliation for a Palmyra attack that killed two Iowa National Guard soldiers and an interpreter. President Trump hailed the strikes as “very serious retaliation” with alleged Syrian government backing. Syria’s interim government reaffirmed its anti-IS stance. Defense Secretary Hegseth vowed continued vengeance. The strikes targeted ISIS infrastructure, fighters and weapons sites. Approximately 1,000 US troops remain in Syria to prevent IS resurgence. The Palmyra killings marked the first US combat deaths since Assad’s 2024 ouster.",
-      "summaryTokens": 875,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "On December 19, 2025, US forces carried out “Operation Hawkeye Strike,” launching airstrikes across central Syria against over 70 Islamic State targets in retaliation for last weekend’s attack in Palmyra that killed two Iowa National Guard soldiers and a civilian interpreter. Jordanian jets supported the large-scale strikes, which President Trump described as “very serious retaliation” and said were fully coordinated with the Syrian government. Syria reiterated its commitment to anti-IS operations and urged coalition backing to protect civilians and restore stability. Pentagon chief Pete Hegseth warned of continued operations by the 1,000 US troops deployed to prevent an IS resurgence.",
+      "summaryTokens": 876,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
+    },
+    {
+      "id": "us-news/2025/dec/20/epstein-files-release-strategy-trump",
+      "title": "Trickle release of Epstein files on a Friday signals move to bury Trump ties",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/20/epstein-files-release-strategy-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/20/epstein-files-release-strategy-trump",
+      "section": "us-news",
+      "publishedDate": "2025-12-20T10:00:29Z",
+      "trailText": "The justice department is using a variety of tactics to try to obfuscate the US president’s connection to the sex offender",
+      "summary": "The DOJ met a Friday deadline by dumping a heavily redacted, small batch of Epstein files in a bid to hide Trump’s connections: deputy AG Todd Blanche promised hundreds of thousands of pages but released only thousands with no Trump references despite earlier warnings he appeared in the records. Instead, images of Bill Clinton and other celebrities were spotlighted by DOJ and White House spokespeople to deflect scrutiny. Lawmakers, including sponsor Thomas Massie and Rep. Ocasio-Cortez, decried the maneuver as a coverup, while the rolling release through the holidays threatens statutory transparency requirements.",
+      "summaryTokens": 862,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/donald-trump-administration-news-updates-today-latest",
@@ -41,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-20T02:20:48Z",
       "trailText": "Long-awaited tranche of documents is heavily redacted but viewable files include images of Epstein with figures such as Bill Clinton and Michael Jackson – key US politics stories from 19 December 2025",
-      "summary": "On 19 December, the DOJ under Trump issued a first tranche of heavily redacted 2006-era Jeffrey Epstein files, disclosing images of Epstein with figures like Bill Clinton, Michael Jackson and Prince Andrew, while redacting over 1,200 victims' details. In a letter, Deputy AG Todd Blanche cited a rolling public release and pending additional documents. Congressional Democrats allege the administration flouted the Epstein Files Transparency Act by withholding unclassified records. Other Trump updates: US airstrikes on Islamic State in Syria; FBI probes anti-ICE activism; a Medicaid drug-pricing pact with pharma; border child return pressures; potential Venezuela conflict; and TikTok’s US deal.",
-      "summaryTokens": 1081,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "On Dec 19 2025 the Justice Department under Trump released a heavily redacted tranche of 2006 Epstein case files—photos show Epstein with Bill Clinton, Ghislaine Maxwell and Prince Andrew; Democrats say the administration flouted the Epstein Files Transparency Act by withholding unclassified records and victim details. US forces struck Islamic State targets in Syria; the FBI opened terrorism probes into anti-ICE activism; Trump slashed Medicaid drug costs with nine pharma firms; border officials pressured migrant children into deportation; Trump refused to rule out military action against Venezuela; and TikTok secured US operation via a joint venture with Oracle.",
+      "summaryTokens": 6894,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/jeffrey-epstein-files-us-justice-department",
@@ -53,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-20T02:19:34Z",
       "trailText": "Photos included in tranche of documents as Democrats accuse Trump officials of failing to comply with law",
-      "summary": "A Department of Justice release on Dec 19 under the Epstein Files Transparency Act unveiled a heavily redacted corpus of records from its 2006 child prostitution investigation, including photos of Jeffrey Epstein with figures like Michael Jackson, Diana Ross, Bill Clinton with Ghislaine Maxwell, Richard Branson and Andrew Mountbatten-Windsor. Deputy AG Todd Blanche confirmed further rolling disclosures; over 1,200 victim identifiers were redacted. Congressional Democrats (Ro Khanna, Chuck Schumer) and Republican Thomas Massie charge the Trump administration with incomplete compliance, citing unexplained redactions. The White House calls it “unprecedented transparency,” while experts warn that significant materials and context remain withheld.",
-      "summaryTokens": 1300,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "On December 19, the DOJ published its first tranche of heavily redacted Epstein investigation files dating from 2006 onward, as mandated by the Epstein Files Transparency Act. Released materials include photos of Epstein with Michael Jackson, Diana Ross, Richard Branson, Bill Clinton with Ghislaine Maxwell, Prince Andrew, and images of seized drives and computers. Over 1,200 victim identities and sensitive details remain redacted. Congressional Democrats and some Republicans allege the Trump administration is failing to release all unclassified records and explain redactions. Deputy AG Todd Blanche says further documents will be issued on a rolling basis, while the White House lauds “historic transparency.” Critics warn carve-outs for active probes may obscure Epstein’s full network.",
+      "summaryTokens": 704,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/epstein-victims-condemn-doj-files-release",
@@ -65,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-20T00:45:00Z",
       "trailText": "Lawyers for victims say they have been ‘repeatedly denied justice’ while deputy attorney general says more files will be released",
-      "summary": "Survivors and attorneys slammed the DOJ for releasing only a subset of Epstein investigation records under the new Epstein Files Transparency Act’s December 19 deadline, accusing officials of dragging feet and possible cover-ups. Deputy AG Todd Blanche promised additional disclosures amid injunction threats by Congress. Lawyers Spencer Kuvin and Gloria Allred decried decades-long delays, while survivor Jess Michaels said the partial release validated longstanding claims of negligence. Maria Farmer’s counsel hailed confirmation of her 1996 FBI complaint as “redemptive” yet lamented missed opportunities. The agency had claimed in July there was no hidden Epstein client list, even as WSJ reported Trump’s name appeared – a link he denies.",
-      "summaryTokens": 1467,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Survivors and attorneys condemned the DOJ’s partial release of Epstein investigative files under the new Transparency Act, arguing withheld documents obstruct justice and shield powerful figures. Deputy Attorney General Todd Blanche said more records will follow, while top lawmakers threaten litigation over alleged violations of the December 19 deadline. Advocates like Spencer Kuvin, Gloria Allred and Jess Michaels decried decades of delays and cover-ups, and Maria Farmer, first to report Epstein and Maxwell in 1996, called confirmation of her FBI complaint both triumphant and tragic.",
+      "summaryTokens": 921,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/doj-epstein-files-release-redacted-trump",
@@ -77,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-20T00:05:59Z",
       "trailText": "‘Most transparent’ administration has slow-walked and stonewalled – the incomplete release smells of a cover-up",
-      "summary": "The Justice Department’s much-hyped release of hundreds of thousands of Jeffrey Epstein files under the Trump administration proved heavily redacted and largely incomplete, sparking bipartisan outrage. Despite claims of ‘historic transparency’ and promises to protect victims, many documents arrived with blacked-out passages, few references to Trump despite his well-known ties to Epstein, and missing pages promised for December 19. Critics including Senate leaders Chuck Schumer and Jeff Merkley denounced the partial dump as a cover-up and violation of the new Epstein Files Transparency Act, eroding confidence even among Republicans.",
-      "summaryTokens": 287,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "In December 2025 the DOJ released ‘Phase 1’ of Jeffrey Epstein files under Trump with hundreds of thousands of pages heavily redacted, omitting key content and any mention of Trump despite his 1990s friendship with Epstein. Norm Eisen and Democratic leaders Chuck Schumer and Jeff Merkley condemned the dump as incomplete, over-redacted and legally deficient. Although several hundred thousand documents were made public, thousands more will be phased in to protect victims. Critics say the partial, delayed rollout by the ‘most transparent’ administration smacks of cover-up.",
+      "summaryTokens": 1308,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/epstein-fbi-underage-girls-investigation",
@@ -89,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T23:37:01Z",
       "trailText": "Interview from 2019 reveals specific preferences for recruitment, including age and race",
-      "summary": "Released by the Trump DOJ in December 2025, heavily redacted documents include an FBI evidence cover sheet and 13 pages of handwritten notes from a May 2, 2019 interview (EFTA00004179). They expose Epstein’s explicit criteria for underage recruits—ages 14–17 and preferences on race—procured as “massages.” A witness recounts Epstein rejecting “dark-skinned Dominican” girls, demanding IDs to verify minors, and roughly abusing victims in locations across Manhattan, Rochester and Brighton Beach. Photographs depict bikini-clad girls. These details echo testimony by Brazilian victim Marina Lacerda and implicate associates Jean-Luc Brunel and Ghislaine Maxwell in the global trafficking network.",
-      "summaryTokens": 830,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "DoJ released FBI evidence cover sheet EFTA00004179 and 13 pages of May 2 2019 interview notes revealing Jeffrey Epstein’s demands for underage girls under the guise of “massages.” The redacted witness describes his precise preferences—girls aged 14–17 by race (“dark-skinned Dominican” but “not Spanish or dark”), ID checks to confirm under 18 and “rough” sexual encounters. Photos depict minors in bikinis near NYC and Rochester sites. Notes align with known Brazilian victims like Marina Lacerda. These documents from the Trump DOJ follow Epstein’s 2019 jail death and precede related arrests including Jean-Luc Brunel’s 2022 suicide in Paris.",
+      "summaryTokens": 1855,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/elise-stefanik-ends-new-york-governor-campaign-leaving-congress",
@@ -101,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T23:33:16Z",
       "trailText": "Trump-allied Republican said attempting to unseat Democrat Kathy Hochul ‘is not an effective use of our time’",
-      "summary": "Republican Rep. Elise Stefanik, a staunch Trump ally known as \"ultra-MAGA,\" has ended her bid for New York governor and will not seek reelection to Congress, calling a protracted primary an \"ineffective use\" of resources. Once the GOP frontrunner, she was eclipsed by Nassau County executive Bruce Blakeman, whom party chair Ed Cox now endorses. Stefanik will serve out her term, joining a wave of GOP retirements. Trump’s pick for UN ambassador, her nomination stalled amid House majority concerns. She’s also clashed with Speaker Mike Johnson over a dropped defense provision.",
-      "summaryTokens": 1651,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Rep. Elise Stefanik, a Trump-aligned ultra-MAGA Republican, has ended her New York governor campaign and will not seek reelection to Congress, citing the futility of a drawn-out primary and daunting Democratic majority in the state. Once a GOP gubernatorial frontrunner, her bid was complicated by Nassau County exec Bruce Blakeman’s entry; party chair Ed Cox endorsed Blakeman. Stefanik will complete her term in the House, where she frequently clashed with Speaker Mike Johnson. Earlier this year, her UN ambassadorship nomination was suspended amid concerns over the chamber’s narrow GOP majority.",
+      "summaryTokens": 880,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/epstein-files-release-deadline",
@@ -113,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T23:15:35Z",
       "trailText": "Todd Blanche, deputy attorney general, says release of files won’t include full set, prompting outrage from lawmakers",
-      "summary": "The DOJ released several hundred thousand unclassified Jeffrey Epstein documents Friday but withheld significant materials, prompting lawmakers to accuse the department of breaching the Epstein Files Transparency Act, which mandates full release within 30 days of enactment. Deputy AG Todd Blanche said more records would follow to protect victim privacy. Representatives Robert Garcia, Jamie Raskin, and Thomas Massie, along with Senate Minority Leader Chuck Schumer, threatened legal action to compel disclosure. Epstein survivor counsel Jennifer Freeman and legal scholar Ryan Goodman echoed criticism. The law allows limited redactions only for personal victim data or national security and ongoing investigations.",
-      "summaryTokens": 798,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "DOJ released some but not all files on Jeffrey Epstein, drawing swift rebuke from lawmakers. Deputy Attorney General Todd Blanche said hundreds of thousands of documents—photos and investigative materials—were released Friday, with similar batches to follow to protect victims. Top legislators, including Reps. Robert Garcia, Jamie Raskin and Thomas Massie, and Senate Minority Leader Chuck Schumer, threatened legal action under the Epstein Files Transparency Act, which mandated all unclassified records within 30 days. Survivor counsel Jennifer Freeman criticized the partial release and urged complete disclosure. Legal scholar Ryan Goodman also called it a violation. Freeman noted survivors like Maria Farmer have waited decades for their records.",
+      "summaryTokens": 1068,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/brown-university-shooting-mit-professor-motive",
@@ -125,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T22:19:27Z",
       "trailText": "Suspect Claudio Manuel Neves Valente was found dead in New Hampshire storage facility after five-day manhunt",
-      "summary": "Investigators seek a motive in the December shootings that killed Brown engineering students Ella Cook and MukhammadAziz Umurzokov and MIT physics professor Nuno F.G. Loureiro. Suspect Claudio Manuel Neves Valente, a former brief Brown graduate student, was found dead of an apparent self-inflicted gunshot in a New Hampshire storage unit after a five-day manhunt. Authorities say a Reddit tipster “John” linked Valente’s gray rental Nissan to surveillance footage. FBI noted Valente’s shared academic background with Loureiro in Portugal. Motive remains unknown.",
-      "summaryTokens": 929,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Investigators are probing the motive behind the killings of two Brown engineering students and MIT physics professor Nuno FG Loureiro by Claudio Manuel Neves Valente, 48, a Portuguese ex-Brown grad student. After a December 14 mass shooting at Brown’s Barus and Holley building (2 dead, 9 wounded), Neves Valente drove to Brookline and fatally shot Loureiro, his former classmate from Portugal’s Instituto Superior Técnico. Found dead in a New Hampshire storage unit with a rental Nissan and weapons, authorities credit a Reddit tipster for tracing his vehicle and still seek a clear motive.",
+      "summaryTokens": 1704,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/dollar-general-family-dollar-letter-congress",
@@ -137,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T19:31:43Z",
       "trailText": "A letter from 30 lawmakers criticizes recurring overcharges at Dollar General and Family Dollar stores – questioning ‘how seriously’ the companies prioritize ethics and affordability",
-      "summary": "Thirty Democratic lawmakers, led by Rep. Nikki Budzinski, have demanded internal documents from Dollar General and Family Dollar after a Guardian investigation revealed 4,300 + price-accuracy failures at Dollar General and 2,100 + at Family Dollar since 2022. The letter highlights systemic shelf-to-register disparities on essential goods, forced arbitration clauses in apps, minimal staffing as a root cause, and the impact on low-income shoppers amid an affordability crisis. Lawmakers request four years of correspondence on pricing practices, revenue from inaccuracies, mobile-app policies and plans for consumer restitution.",
-      "summaryTokens": 418,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Thirty Democrats led by Rep. Nikki Budzinski wrote to Dollar General and Family Dollar CEOs demanding four years of internal documents after The Guardian found over 6,400 price-accuracy violations across 28,000 US stores since 2022. They highlight systemic shelf-register price disparities—like $10.99 paper towels rang up at $15.50—amid an affordability crisis. The letter also challenges forced arbitration clauses in apps and seeks revenue data from overcharges and restitution plans. Budzinski warns rural shoppers have no alternative retailers. The lawmakers suggest federal enforcement to standardize price-accuracy protections. Both chains have yet to fully respond.",
+      "summaryTokens": 683,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/trump-venezuela-war",
@@ -149,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T19:12:08Z",
       "trailText": "President Nicolás Maduro orders Venezuelan navy to escort oil tankers after seizure by US forces",
-      "summary": "Donald Trump and top advisers refuse to rule out war with Venezuela after President Nicolás Maduro ordered his navy to escort oil tankers defying the largest US fleet in decades. Trump says conflict remains “on the table,” and Marco Rubio confirms US aims for regime change via naval blockades, drug-vessel strikes and tanker seizures. Tracking data show sanctioned tankers rerouting to the Indian Ocean as a US blockade cuts Maduro’s oil revenues. With 15,000 troops deployed and more than 100 maritime casualties, aides like Stephen Miller and Susie Wiles back escalating action to pressure the regime.",
-      "summaryTokens": 1499,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "President Trump told NBC he won’t rule out war with Venezuela as Nicolás Maduro orders his navy to escort oil tankers amid the largest US fleet in decades. At the State Department, Senator Marco Rubio affirmed the right to use “every element of national power” to defend US interests, hinting at regime change. US forces recently seized a sanctioned tanker, disrupting Maduro’s “dark fleet”—many vessels are now diverting to the Indian Ocean or trapped in blockade zones, cutting key oil revenues. Experts say the blockade raises prospects of unseating Maduro by starving his government.",
+      "summaryTokens": 920,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/wisconsin-judge-immigrant-ice-found-guilty",
@@ -161,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T18:32:24Z",
       "trailText": "Wisconsin judge Hannah Dugan was arrested by the FBI and charged in April amid Trump’s immigration crackdown",
-      "summary": "A Milwaukee jury, after six hours of deliberation, convicted Judge Hannah Dugan of felony obstruction for helping Mexican national Eduardo Flores Ruiz evade ICE at her courthouse last April, acquitting her of a related concealment misdemeanor. Arrested for allegedly misdirecting agents and escorting Flores Ruiz through a private door, she faces up to five years and plans to appeal. The case, highlighting Trump’s immigration crackdown and debate over judicial authority, spurred Wisconsin Republicans to threaten impeachment if she doesn’t resign.",
-      "summaryTokens": 1298,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Milwaukee County circuit judge Hannah Dugan was convicted of felony obstruction for misleading federal agents and guiding Mexican national Eduardo Flores Ruiz through a private exit to avoid an April ICE arrest at her courthouse. Acquitted of a related misdemeanor, she faces up to five years and plans to appeal. Flores Ruiz was deported after serving time for illegal entry. The trial highlighted Trump’s immigration policies, spurred advocacy groups’ constitutional concerns, and led to calls for her impeachment under Wisconsin law.",
+      "summaryTokens": 1421,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/unaccompanied-children-trump-self-deport",
@@ -173,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T17:00:05Z",
       "trailText": "Exclusive: federal document reveals children arriving as undocumented immigrants being threatened with detention",
-      "summary": "Border officials present or read an “UAC Processing Pathway Advisal” to unaccompanied children soon after US arrival warning them that seeking a judge hearing or fearing return will trigger “prolonged” detention, sponsor arrest or prosecution and deportation by ICE upon turning 18. It urges “voluntary return” with no administrative consequences, a “false carrot,” say advocates. Senator Ron Wyden demands its abolishment as “shockingly coercive.” The document, revealed in a NIJC-led lawsuit and first reported by ProPublica, illustrates the Trump administration’s mass deportation push.",
-      "summaryTokens": 739,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "A newly disclosed CBP “advisal” warns unaccompanied children that seeking an immigration hearing or expressing fear of return will lead to prolonged detention, sponsor arrest or deportation, and ICE custody if they turn 18 in government custody. It dangling a “voluntary return” option with no administrative penalty but falsely promising future visa eligibility. Senator Ron Wyden condemns the coercive policy as exploiting vulnerable minors; the National Immigrant Justice Center and allied groups have sued DHS over child detention practices.",
+      "summaryTokens": 464,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/brown-university-shooting-tipster",
@@ -185,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T14:55:44Z",
       "trailText": "Man known as ‘John’ expected to be eligible for $50,000 reward from FBI for providing details on the suspect",
-      "summary": "A tipster known as \"John\" aided authorities in the Brown University shooting probe by posting on Reddit about an unusual campus encounter with suspect Claudio Neves Valente and noting a rented gray Nissan with Florida plates. Prompted by Reddit users, he approached Providence police saying \"I think you are looking for me,\" provided corroborating details and is expected to claim the $50,000 FBI reward. Mayor Brett Smiley praised the Brown alumnus whose information broke the case, leading to Valente's discovery in Salem, NH, where he died by suicide. Investigators link Valente to the killing of MIT professor Nuno FG Loureiro; his motive remains unknown.",
-      "summaryTokens": 2093,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Authorities praised a tipster known as “John,” a Brown graduate, for providing key details—via Reddit and by alerting police (“I think you are looking for me”)—that led to identifying suspect Claudio Neves Valente. John’s observations of Valente’s odd behavior around a rented gray Nissan with Florida plates helped corroborate disparate clues. Providence Mayor Brett Smiley called his cooperation a “critical turning point,” enabling investigators to link Valente to the Brown University mass shooting and the MIT professor’s killing. Now eligible for the FBI’s $50,000 reward, John risked personal safety after surveillance images were released.",
+      "summaryTokens": 1254,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/epstein-files-release-doj-december-deadline",
@@ -197,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T14:38:35Z",
       "trailText": "Huge archive – set to shed fresh light on Epstein’s misdeeds – legally obliged to be released before midnight deadline",
-      "summary": "After GOP delays, the DOJ will publish hundreds of thousands of unclassified files on Jeffrey Epstein by the midnight deadline of the Epstein Files Transparency Act, Deputy AG Todd Blanche said. The archive—covering Epstein, Ghislaine Maxwell and linked figures such as Donald Trump and Bill Clinton—must be released in searchable, downloadable form. While victim identities, classified material and active-investigation records can be redacted, sponsors Ro Khanna and Thomas Massie mandate public summaries of any redactions and warn of criminal penalties for obstruction. Congress overrode White House resistance with near-unanimous votes; oversight Democrats have already released 68 estate photographs.",
-      "summaryTokens": 1645,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "By midnight Friday, per the Epstein Files Transparency Act passed over White House objections, the DOJ must publish all unclassified records related to Epstein and his network. After months of MAGA fracturing over Trump’s prior refusal, the president signed the act into law. Deputy AG Todd Blanche said today’s initial release will comprise several hundred thousand documents—photos, files from federal probes—with similar volumes to follow. Sponsors Ro Khanna and Thomas Massie warn that Pam Bondi or any official who redacts, withholds or tampers faces prosecution or contempt. Oversight Democrats published 68 estate images, raising concerns over completeness and redactions of victim identities and classified materials.",
+      "summaryTokens": 2993,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/conservative-legal-christian-rightwing-group",
@@ -209,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T13:42:28Z",
       "trailText": "Alliance Defending Freedom has ramped up its global spending on litigation and other campaigns to push its ultra-conservative Christian values",
-      "summary": "Alliance Defending Freedom and ADF International poured $10.9m into global litigation in 2023-24—a 70% jump on Europe—to export their conservative Christian legal model. Led by CEO Kristen Waggoner, ADF touts 39 victories at the European Court of Human Rights and 282 national wins defending “biological reality” and parental rights. Critics say ADF weaponizes religious freedom against women’s, LGBTQ+ and educational rights. In Finland, ADF backs MP Päivi Räsänen’s Supreme Court challenge over alleged anti-LGBT incitement, the first test of hostile-speech laws on sexual minorities. ADF also supports blasphemy, abortion buffer zone and free-speech defenses worldwide, framing its work as universal human rights advocacy.",
-      "summaryTokens": 650,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Alliance Defending Freedom and ADF International boosted global legal spending to $10.9m in 2024 (70% rise in Europe) to export ultra-conservative Christian values. Led by Kristen Waggoner, they claim 39 ECHR and 282 national court victories, backing cases from Finnish MP Päivi Räsänen’s LGBT-speech trial to Nigeria’s blasphemy defendant and UK anti-abortion buffer-zone protests. Critics warn ADF weaponizes religious freedom to curb women’s, LGBTQ+ rights and influence elections, urging restrictions on foreign funding and judicial integrity.",
+      "summaryTokens": 1128,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/trump-epa-formaldehyde-protection-proposal",
@@ -221,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T13:30:01Z",
       "trailText": "EPA proposed undoing Biden-era policy on exposure to carcinogenic toxin in latest push to weaken toxin standards",
-      "summary": "Trump’s EPA is proposing to reverse Biden-era formaldehyde risk assessments by raising the threshold for 'safe' exposure, discarding five of 58 scenarios deemed 'unreasonable risk' and weakening future restrictions on furniture, wood products, automotive, cosmetics and industrial uses. Led by ex-ACC officials Nancy Beck and Lynn Dekleva, the move shifts from a linear cancer risk model to a threshold approach, benefiting chemical makers and undermining protections against carcinogenic, respiratory and reproductive harms from ubiquitous formaldehyde in everyday goods.",
-      "summaryTokens": 1235,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Trump’s EPA aims to raise allowable formaldehyde exposure limits, reversing Biden-era findings that even minimal exposure poses cancer and other health risks. Led by industry appointees from the American Chemistry Council, the proposal rescinds risk determinations in five scenarios, weakens restrictions in 53 more, and adopts a threshold-based cancer assessment favored by chemical manufacturers. Critics warn that higher “safe” levels will prolong exposure from everyday products—furniture, textiles, cosmetics—undermining safeguards against a known carcinogen. Environmental groups say the rollback could increase cancer, respiratory and reproductive harms by ignoring cumulative exposures from consumer and workplace sources.",
+      "summaryTokens": 936,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/toyota-employee-lobbying",
@@ -233,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T13:00:02Z",
       "trailText": "Games such as Dragon Quest used to mobilize workers to back corporate goals including relaxing environmental rules",
-      "summary": "Toyota has launched “Policy Drivers,” an internal platform using retro-style video games—Dragon Quest, Star Quest, Adventure Quest, Monster Mansion—to gamify and reward US employees for lobbying federal lawmakers to weaken environmental regulations. Participants earn points by engaging with corporate policy messaging, completing quizzes and calls to Congress, and can redeem rewards like swag and trips. Critics accuse Toyota of greenwashing and exploiting workers, noting its heavy lobbying against emissions targets and California’s 2035 gas-vehicle ban despite pledges toward net-zero. The initiative exemplifies rising corporate employee mobilization in US political advocacy.",
-      "summaryTokens": 733,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "The Guardian reveals Toyota’s internal platform, Toyota Policy Drivers, uses retro‐style games (Star Quest, Adventure Quest, Dragon Quest, Monster Mansion) to reward US employees across manufacturing, finance and sales for lobbying federal and state lawmakers. Staff earn points by listening to pro-Toyota policy briefings, taking quizzes, sending scripted letters to Congress and opposing Biden‐era tailpipe rules or California’s 2035 gas-car ban. Rewards range from stickers and T-shirts to trips. Critics call the gamified program “Orwellian” greenwashing, noting Toyota’s heavy diesel and hybrid lobbying, $1 million Trump inauguration gift and status as a top climate policy adversary despite pledges to reach net-zero by 2050.",
+      "summaryTokens": 509,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/first-thing-brown-university-shooting-suspect-died-from-self-inflicted-gunshot-wound-officials-say",
@@ -245,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T12:38:41Z",
       "trailText": "Claudio Neves Valente, who was found dead in a storage facility, also killed an MIT professor. Plus, what will your life look like in 2035?",
-      "summary": "In the lead item, Portuguese ex-Brown student Claudio Neves Valente, accused of killing two at Brown University and MIT physics professor Nuno FG Loureiro, was found dead by a self-inflicted gunshot wound in a New Hampshire storage unit; investigators say he acted alone. Homeland Security Secretary Kristi Noem, under Trump’s direction, has suspended the green card lottery, citing its role in his entry. Other highlights: EU approves a €90 billion Ukraine loan without using frozen Russian assets, the pending release of Jeffrey Epstein documents, and updates on TikTok’s US sale, climate-driven food changes, and cultural picks.",
-      "summaryTokens": 1669,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Claudio Neves Valente, 48, a former Brown University student, killed two and wounded nine on campus, then fatally shot MIT physics professor Nuno F.G. Loureiro in his home. Providence police found Valente dead of a self-inflicted gunshot in a New Hampshire storage unit; investigators believe he acted alone. Homeland Security suspended the green card lottery at President Trump’s direction, citing Valente’s entry route. Elsewhere, EU leaders approved a €90 billion loan to Ukraine, the US prepares to release long-delayed Jeffrey Epstein files, and TikTok agreed to sell its US business to Oracle, Silver Lake and MGX.",
+      "summaryTokens": 973,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/fbi-terrorism-investigations-anti-ice-activity",
@@ -257,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T12:00:05Z",
       "trailText": "Internal report shared with Guardian shows FBI has launched cases in 23 regions, some linked to Trump memo on thwarting ‘terroristic activities’",
-      "summary": "An internal FBI report dated Nov 14 reveals the Bureau has opened criminal and domestic terrorism probes into anti-ICE threats in 23 field offices—partly under Trump’s NSPM-7 “countering domestic terrorism” memo. It flags escalated violence against ICE, citing two Texas attacks (fireworks/vandalism and a detainee-shooting at Dallas), and lists “indicators” like firearms stockpiling, agent surveillance and encrypted communications. Civil rights groups (ACLU, Brennan Center) warn its vague language risks criminalizing First Amendment-protected dissent, while a DOJ memo similarly frames anti-ICE organizing as potential terror. The FBI declined to comment.",
-      "summaryTokens": 948,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "An internal FBI report dated November 14 discloses that the bureau has opened criminal and domestic terrorism investigations into anti-ICE threats across 23 field office regions, linking some cases to Trump’s September NSPM-7 memo on countering domestic terrorism. The report highlights an escalation from property damage to violent attacks—citing Texas ICE facility bombings, fireworks assaults and a Dallas office shooting—flags indicators like arms stockpiling, encrypted communications and First Amendment–protected research, and warns broader civil liberties risks as rights advocates decry the memo’s vague language.",
+      "summaryTokens": 1182,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/why-did-donald-trump-jr-turn-up-in-a-tiny-british-enclave-looking-for-money",
@@ -269,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T06:00:57Z",
       "trailText": "Meetings in Gibraltar are the latest twist in worldwide campaign that is enriching the US president’s family",
-      "summary": "Donald Trump Jr unexpectedly visited Gibraltar in November, meeting at law firm Hassans alongside chief minister Fabian Picardo and crypto investors to pitch his and brother’s revived global business campaign, including the “patriotic capitalism” 1789 Capital fund established after Trump’s 2024 election. This marks a U-turn from their first-term pledge to halt foreign deals. Reuters estimates the Trump family’s income jumped from $51m to $864m in six months. Critics warn of conflicts of interest as the enclave probes a scandal involving Hassans senior partner James Levy.",
-      "summaryTokens": 1000,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "In November, Donald Trump Jr. flew to Gibraltar—home to an AI data-centre and crypto firms—to pitch investment in the Trump family’s ventures, including the Maga-aligned 1789 Capital ‘patriotic capitalism’ fund. Meeting at top law firm Hassans with local powerbroker James Levy and Chief Minister Fabian Picardo, Don Jr. solicited funds for real-estate and tech deals, part of a global moneymaking tour that critics say blurs his father’s public duties with private profit and risks conflicts of interest.",
+      "summaryTokens": 294,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/trump-suspends-us-green-card-lottery-dv1-visa-program",
@@ -281,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T05:54:01Z",
       "trailText": "Homeland security secretary Kristi Noem pauses high-profile visa program, saying shooting suspect Claudio Neves Valente gained green card in 2017",
-      "summary": "Homeland Security Secretary Kristi Noem, acting on former President Trump’s directive, has suspended the US Diversity Visa (DV1) lottery after shooter Claudio Neves Valente—who arrived on a student visa in 2000 and obtained permanent residency via the lottery in 2017—killed people at Brown University and MIT before dying by suicide. Trump and Noem, long opposed to the DV1 program, argue tragedy underscores risks of admitting ‘heinous’ individuals. Established in 1990, the lottery issues 50,000 green cards annually; in 2025 nearly 20 million applied and winners face standard consular vetting.",
-      "summaryTokens": 628,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Homeland Security Secretary Kristi Noem, at Trump’s direction, suspended the DV-1 green card lottery, blaming it for allowing Brown University/MIT shooting suspect Claudio Neves Valente—who entered on a student visa in 2000 and secured a 2017 diversity visa—to gain residency. Valente died by suicide after the December attacks. Trump, a longtime lottery opponent, framed the move as part of tougher immigration policy, mirroring past responses to isolated crimes. The program had offered up to 50,000 annual visas from roughly 20 million applicants, with nearly 131,000 selections including spouses, all subject to vetting.",
+      "summaryTokens": 1074,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/18/suspect-brown-university-shooting",
@@ -293,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T05:22:50Z",
       "trailText": "Claudio Neves Valente, who was found dead in storage facility, also killed MIT professor at his Boston-area home",
-      "summary": "Claudio Neves Valente, 48, a Portuguese ex–Brown University physics graduate student, died by a self-inflicted gunshot in a New Hampshire storage unit after allegedly killing two people and wounding nine in a December 13 Brown shooting and fatally shooting MIT physics professor Nuno FG Loureiro two days later. Officials say he acted alone, was found with two firearms and matching evidence, evaded capture by swapping license plates and was identified via a tipster. Valente held lawful permanent residency since 2017 and had no current Brown affiliation.",
-      "summaryTokens": 475,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "Claudio Neves Valente, 48, a Portuguese former Brown physics graduate student, died by a self-inflicted gunshot in a New Hampshire storage facility on Thursday, ending the three-day manhunt. Valente is accused of Saturday’s Brown University shooting that killed two—sophomore Ella Cook and first-year MukhammadAziz Umurzokov—and injured nine, and of fatally shooting MIT physics professor Nuno F.G. Loureiro at his Boston-area home on Monday. Investigators, led by Providence PD Chief Oscar Perez and RI AG Peter Neronha, traced Valente via a tipster, rental records and swapped license plates. No accomplices have been identified.",
+      "summaryTokens": 1013,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/18/home-depot-la-noise-machines-day-laborers",
@@ -305,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T02:23:27Z",
       "trailText": "Advocates call for removal of machines and demand that company speak out against ICE raids in parking lots",
-      "summary": "At its Cypress Park, Los Angeles, Home Depot mounted three high-frequency noise machines on lampposts under a highway overpass to deter day laborers from gathering, triggering headaches and nausea, advocates say. Idepsca and LA councilwoman Eunisses Hernandez call the devices ‘torture,’ demand removal, and urge Home Depot to oppose ICE raids that have detained dozens at the store’s parking lot. Advocates note one ICE action even detained a US citizen and toddler. Located on Caltrans land, Home Depot insists the machines are a safety measure to prevent illegal overnight parking, denies coordinating with immigration agents and has no role in enforcement operations.",
-      "summaryTokens": 877,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "At its Cypress Park, Los Angeles store, Home Depot installed three high-frequency noise machines under a highway overpass on Caltrans land allegedly to deter day laborers from seeking work, causing headaches and nausea. Advocates from IDEPSCA and Councilwoman Eunisses Hernandez denounce the devices as torture, demand their removal and for Home Depot to oppose ICE raids in parking lots, where agents have detained about 50 workers this year and once removed a toddler. Home Depot calls the machines a ‘safety initiative’ to curb illegal overnight parking and denies involvement with immigration enforcement.",
+      "summaryTokens": 733,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/19/trump-administration-news-updates-today",
@@ -317,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-19T01:12:28Z",
       "trailText": "Latest batch includes photos of famous people in Epstein’s orbit, copies of foreign passports and screenshot of text messages – key US politics stories from 18 December 2025",
-      "summary": "All DOJ files on Jeffrey Epstein’s death probe to be public by 19 Dec, as House Democrats unveil photos implicating Bill Gates, Noam Chomsky, plus foreign passports and text messages about an 18-year-old Russian, all without context. The Kennedy Center board proposes renaming it the Trump-Kennedy Center. November CPI rose 2.7%, defying Trump’s “rapidly falling” prices claim. The administration aims to ban minors’ gender-affirming care via CMS rules, funds Trump’s $1,776 “warrior dividend” from housing aid, downgrades cannabis schedules, and announces a $6 billion merger between Trump Media and TAE Technologies. Additional items: TikTok sale, new archbishop, DNC review withheld, Trump’s barred third-term talk.",
-      "summaryTokens": 1377,
-      "generatedAt": "2025-12-20T03:53:49.589Z"
+      "summary": "On Dec 19, DOJ must publish all Jeffrey Epstein investigation files by Friday; House Democrats released photos linking Epstein to figures including Bill Gates and Noam Chomsky. Meanwhile, the Kennedy Center board is weighing renaming to the Trump-Kennedy Center. Federal CPI rose 2.7% year-on-year versus Trump’s claims. HHS/Medicare to ban gender-affirming care for minors. The $1,776 “warrior dividend” for troops stems from housing aid. Trump reclassified marijuana out of Schedule I. Trump Media plans a $6bn merger with fusion firm TAE; an Oracle-led group will take over TikTok US. White House dismisses talk of a constitutionally barred third Trump term.",
+      "summaryTokens": 2556,
+      "generatedAt": "2025-12-21T03:50:17.550Z"
     },
     {
       "id": "us-news/2025/dec/18/jeffrey-epstein-estate-files-photos",
