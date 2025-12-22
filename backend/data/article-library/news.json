@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-21T03:36:33.984Z",
+    "generated_at": "2025-12-22T03:46:03.104Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-19"
+      "to": "2025-12-21"
     },
-    "article_count": 175,
+    "article_count": 177,
     "merge_info": {
       "previous_count": 175,
-      "new_articles": 0,
-      "updated_articles": 3,
-      "total_count": 175
+      "new_articles": 2,
+      "updated_articles": 0,
+      "total_count": 177
     },
     "batch_info": {
-      "initial_batch_id": "batch_69476ae9c960819098ec51470b047130",
+      "initial_batch_id": "batch_6948bea2ef2c8190befc886533d78a38",
       "retry_batches": [],
-      "total_tokens": 5018,
+      "total_tokens": 3359,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/21/corrections-and-clarifications1",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/21/corrections-and-clarifications1",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/21/corrections-and-clarifications1",
+      "section": "news",
+      "publishedDate": "2025-12-21T21:00:08Z",
+      "trailText": "Regina Hall | Solitaire photo",
+      "summary": "Correction 1: Paul Thomas Anderson’s film One Battle After Another stars Regina Hall, not Regina King. Correction 2: the Secret Santas feature gift was a marbles-based solitaire game, not the card game depicted. Additional amended stories include Chilean Patagonia conservation, the Kennedy Center board’s vote to add Trump’s name, the Pope’s New York archbishop appointment and its immigration implications, Saudi-backed forces on the Yemen border, the death of actress May Britt, and proposed NSW protest bans. Send editorial complaints or corrections to guardian.readers@theguardian.com or to the Readers’ editor, Kings Place, London.",
+      "summaryTokens": 614,
+      "generatedAt": "2025-12-22T03:46:02.737Z"
+    },
+    {
+      "id": "news/2025/dec/21/cycling-changing-at-speed-britain-keeping-pace",
+      "title": "Cycling is changing at speed – but is Britain keeping pace?",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/21/cycling-changing-at-speed-britain-keeping-pace",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/21/cycling-changing-at-speed-britain-keeping-pace",
+      "section": "news",
+      "publishedDate": "2025-12-21T10:00:04Z",
+      "trailText": "Emulating the bike-friendly highways enjoyed by our continental neighbours will take a lot more money and political will",
+      "summary": "Despite Team GB’s 2008 Olympic success and a brief Covid bump, England’s annual cycle trips remain static, and 2024 bike sales hit their lowest level this century, with Brompton posting its worst folding-bike figures since 2021. London alone boasts 1.5 m daily rides (43% above 2019), thanks to two decades of mayoral backing, congestion charging and low-traffic neighbourhoods. Elsewhere, weak infrastructure and wavering political will hold cycling back. UK ebike sales (c. 150 000) lag far behind Europe’s 5 m+, hindered by unsafe roads, no subsidies and an image tarnished by illegal high-speed delivery bikes. Sustained investment and leadership are vital.",
+      "summaryTokens": 772,
+      "generatedAt": "2025-12-22T03:46:02.737Z"
+    },
     {
       "id": "news/2025/dec/19/corrections-and-clarifications",
       "title": "Corrections and clarifications",
