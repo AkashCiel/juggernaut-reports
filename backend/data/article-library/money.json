@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-12-21T03:34:57.445Z",
+    "generated_at": "2025-12-22T03:44:26.636Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-12-19"
+      "to": "2025-12-21"
     },
-    "article_count": 159,
+    "article_count": 160,
     "merge_info": {
       "previous_count": 159,
-      "new_articles": 0,
-      "updated_articles": 2,
-      "total_count": 159
+      "new_articles": 1,
+      "updated_articles": 0,
+      "total_count": 160
     },
     "batch_info": {
-      "initial_batch_id": "batch_69476a8917a08190959fe98754759414",
+      "initial_batch_id": "batch_6948be785a0481909d583e4adfed6376",
       "retry_batches": [],
-      "total_tokens": 3518,
+      "total_tokens": 1967,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/dec/21/ai-cloned-voicemail-scam-criminals-fraud",
+      "title": "‘Help! I need money. It’s an emergency’: your child’s voicemail that could be a scam",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/21/ai-cloned-voicemail-scam-criminals-fraud",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/21/ai-cloned-voicemail-scam-criminals-fraud",
+      "section": "money",
+      "publishedDate": "2025-12-21T07:00:53Z",
+      "trailText": "Steps to help combat fraud in which criminals use AI-generated replica of a person’s voice to deceive victims",
+      "summary": "Fraudsters are exploiting AI voice-cloning tools to replicate a loved one’s voice using just a few seconds of audio harvested from social media clips or by eliciting a brief response on a call. They leave convincing voicemails claiming the person has been in an accident or emergency, then demand urgent money transfers to third-party accounts. McAfee researcher Oliver Devane calls it a sophisticated form of spear phishing that banks on emotional responses and faked caller IDs. To avoid falling victim, pause before sending funds, listen for strange inflections, call your relative directly on a known number, and use prearranged codewords to verify real emergencies.",
+      "summaryTokens": 1076,
+      "generatedAt": "2025-12-22T03:44:26.237Z"
+    },
     {
       "id": "money/2025/dec/19/what-will-happen-contactless-card-100-pounds-limit-scrapped",
       "title": "What will happen when the £100 contactless card limit is scrapped?",
