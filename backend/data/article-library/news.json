@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-22T03:46:03.104Z",
+    "generated_at": "2025-12-23T04:06:16.518Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-21"
+      "to": "2025-12-22"
     },
-    "article_count": 177,
+    "article_count": 178,
     "merge_info": {
-      "previous_count": 175,
-      "new_articles": 2,
-      "updated_articles": 0,
-      "total_count": 177
+      "previous_count": 177,
+      "new_articles": 1,
+      "updated_articles": 2,
+      "total_count": 178
     },
     "batch_info": {
-      "initial_batch_id": "batch_6948bea2ef2c8190befc886533d78a38",
+      "initial_batch_id": "batch_694a14eb91908190b6c487b2a4653e97",
       "retry_batches": [],
-      "total_tokens": 3359,
+      "total_tokens": 7582,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/22/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/22/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/22/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-12-22T21:00:37Z",
+      "trailText": "Hasan Piker | Roast squash velouté",
+      "summary": "Guardian issues corrections and clarifications: Hasan Piker has 3m Twitch followers—not subscribers; roast squash velouté recipe should use vegetarian brie-style cheese instead of Baron Brigod. Other amended articles cover Bondi’s Jewish memorial, NSW planning overhaul after Reeves adviser exit, high ticket costs and Trump’s influence at the Mexico World Cup, the resurgence of wired headphones, Brown University shooting suspect autopsy and a US army lawyer’s dismissal over defying Trump’s deportation policy. Send corrections to guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU.",
+      "summaryTokens": 2028,
+      "generatedAt": "2025-12-23T04:06:16.390Z"
+    },
     {
       "id": "news/2025/dec/21/corrections-and-clarifications1",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-12-21T21:00:08Z",
       "trailText": "Regina Hall | Solitaire photo",
-      "summary": "Correction 1: Paul Thomas Anderson’s film One Battle After Another stars Regina Hall, not Regina King. Correction 2: the Secret Santas feature gift was a marbles-based solitaire game, not the card game depicted. Additional amended stories include Chilean Patagonia conservation, the Kennedy Center board’s vote to add Trump’s name, the Pope’s New York archbishop appointment and its immigration implications, Saudi-backed forces on the Yemen border, the death of actress May Britt, and proposed NSW protest bans. Send editorial complaints or corrections to guardian.readers@theguardian.com or to the Readers’ editor, Kings Place, London.",
-      "summaryTokens": 614,
-      "generatedAt": "2025-12-22T03:46:02.737Z"
+      "summary": "Corrections and clarifications: The Paul Thomas Anderson film One Battle After Another stars Regina Hall, not Regina King; a Secret Santa gift described as a solitaire game was actually a marbles-based version. Other corrected articles include: Chilean Patagonia preservation; Kennedy Center board adding Trump’s name; Pope’s New York archbishop appointment; Saudi-backed forces on the Yemen border; May Britt’s death; and NSW’s temporary protest ban linked to Gaza rallies. For corrections: guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU, voicemail +44 20 3353 4736.",
+      "summaryTokens": 1962,
+      "generatedAt": "2025-12-23T04:06:16.390Z"
     },
     {
       "id": "news/2025/dec/21/cycling-changing-at-speed-britain-keeping-pace",
@@ -41,9 +53,9 @@
       "section": "news",
       "publishedDate": "2025-12-21T10:00:04Z",
       "trailText": "Emulating the bike-friendly highways enjoyed by our continental neighbours will take a lot more money and political will",
-      "summary": "Despite Team GB’s 2008 Olympic success and a brief Covid bump, England’s annual cycle trips remain static, and 2024 bike sales hit their lowest level this century, with Brompton posting its worst folding-bike figures since 2021. London alone boasts 1.5 m daily rides (43% above 2019), thanks to two decades of mayoral backing, congestion charging and low-traffic neighbourhoods. Elsewhere, weak infrastructure and wavering political will hold cycling back. UK ebike sales (c. 150 000) lag far behind Europe’s 5 m+, hindered by unsafe roads, no subsidies and an image tarnished by illegal high-speed delivery bikes. Sustained investment and leadership are vital.",
-      "summaryTokens": 772,
-      "generatedAt": "2025-12-22T03:46:02.737Z"
+      "summary": "Despite Team GB’s 2008 Olympic inspiration, cycle trips in England plateaued post-Covid and 2024 saw the lowest conventional bike sales this century. London bucked this trend with 1.5 million daily trips (+43 percent vs 2019), enabled by two decades of mayoral investment, congestion charges and low-traffic neighbourhoods. Shifts to ebikes, dockless hires and gravel bikes reflect safety-driven demand, yet the UK lags Europe’s subsidies—France, Germany, the Netherlands and Spain will sell over 5 million ebikes this year vs Britain’s ~150 000—and grapples with illegal high-speed e-scooters that harm cycling’s image. Experts warn only sustained political leadership and infrastructure funding can unlock mass bike commuting.",
+      "summaryTokens": 1169,
+      "generatedAt": "2025-12-23T04:06:16.390Z"
     },
     {
       "id": "news/2025/dec/19/corrections-and-clarifications",
