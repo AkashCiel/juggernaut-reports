@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-22T03:54:24.979Z",
+    "generated_at": "2025-12-23T04:49:46.317Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-21"
+      "to": "2025-12-22"
     },
-    "article_count": 293,
+    "article_count": 296,
     "merge_info": {
-      "previous_count": 290,
+      "previous_count": 293,
       "new_articles": 3,
-      "updated_articles": 1,
-      "total_count": 293
+      "updated_articles": 3,
+      "total_count": 296
     },
     "batch_info": {
-      "initial_batch_id": "batch_6948c06de9f88190a70dad950ff04934",
+      "initial_batch_id": "batch_694a1a81e2bc81908e07cfc83046b68f",
       "retry_batches": [],
-      "total_tokens": 12115,
-      "processing_time_hours": 0
+      "total_tokens": 13955,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify",
+      "title": "Activist group says it has scraped 86m music files from Spotify",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify",
+      "section": "technology",
+      "publishedDate": "2025-12-22T20:50:16Z",
+      "trailText": "Platform with 700m users says it is investigating after Anna’s Archive claims to have scraped tracks and metadata",
+      "summary": "Activist group Anna’s Archive claims to have illicitly scraped 86 million audio files and 256 million rows of metadata from Spotify, which hosts over 100 million tracks and 700 million users. Spotify says it identified and disabled the accounts, uncovered DRM circumvention, and believes its full catalogue remains secure. Anna’s Archive plans to distribute the files via torrents as a “preservation archive,” covering 99.6 percent of streamed music. Industry voices warn AI firms may train models on this data, echoing past LibGen use. Spotify has added anti-scraping safeguards amid a global debate on AI training on copyrighted works, with the UK due to finalise policy by March.",
+      "summaryTokens": 706,
+      "generatedAt": "2025-12-23T04:49:46.184Z"
+    },
+    {
+      "id": "technology/2025/dec/22/chinese-robotaxis-due-in-london-next-year-as-lyft-and-uber-reveal-tie-ups",
+      "title": "Chinese robotaxis due in London next year as Lyft and Uber reveal tie-ups",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/22/chinese-robotaxis-due-in-london-next-year-as-lyft-and-uber-reveal-tie-ups",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/22/chinese-robotaxis-due-in-london-next-year-as-lyft-and-uber-reveal-tie-ups",
+      "section": "technology",
+      "publishedDate": "2025-12-22T12:20:55Z",
+      "trailText": "Firms agree deals with Beijing-based Baidu to take self-driving cabs to UK capital",
+      "summary": "Lyft and Uber have struck partnerships with Beijing-based Baidu to introduce its Apollo Go self-driving cabs in London, with tests of RT6 electric taxis slated to begin in early 2026 under the UK’s frontier plan. Lyft, fresh from its Freenow acquisition, plans a hybrid fleet of autonomous vehicles and human drivers; Uber will run Baidu trials alongside Wayve collaborations. Security analysts warn that relying on Chinese tech—operational in 22 Asian cities and handling 250,000 driverless rides weekly—raises data-harvesting and remote-control risks that could threaten UK transport resilience as Westminster pushes to make Britain a European leader in driverless innovation.",
+      "summaryTokens": 703,
+      "generatedAt": "2025-12-23T04:49:46.184Z"
+    },
+    {
+      "id": "technology/2025/dec/22/mps-question-uk-palantir-contracts-security-concerns-investigation",
+      "title": "MPs question UK Palantir contracts after investigation reveals security concerns",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/22/mps-question-uk-palantir-contracts-security-concerns-investigation",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/22/mps-question-uk-palantir-contracts-security-concerns-investigation",
+      "section": "technology",
+      "publishedDate": "2025-12-22T11:26:47Z",
+      "trailText": "Journalists find Swiss government rejected company over fears US intelligence might gain access to sensitive data",
+      "summary": "An investigation by Swiss media WAV and Republik reveals that over seven years Palantir’s bids to Swiss federal agencies, including the army and health service, were rejected at least nine times amid expert warnings that as a US firm its software could expose sensitive data to US intelligence. Swiss army analysts also flagged high costs and dependence on onsite Palantir specialists. UK MPs such as Clive Lewis and Rachael Maskell have cited these findings to demand transparent due diligence on Palantir’s £75m NHS and £750m MoD contracts, while Palantir denies any data-access risk.",
+      "summaryTokens": 676,
+      "generatedAt": "2025-12-23T04:49:46.184Z"
+    },
     {
       "id": "technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism",
       "title": "Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow",
@@ -29,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-12-21T13:00:01Z",
       "trailText": "Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology",
-      "summary": "Extremist groups from neo-Nazis to Islamic State are deploying AI voice-cloning and generative tools to produce seamless, multilingual propaganda, supercharging recruitment and messaging. Neo-Nazi accelerationists used ElevenLabs to recreate Hitler’s speeches in English and turned James Mason’s Siege into an AI-narrated audiobook. Meanwhile pro-IS channels employ text-to-speech and ChatGPT for translations—e.g., Japanese subtitling—preserving ideological intensity, tone and nuance. Experts at Tech Against Terrorism and GNET note this shift surpasses human translation, retaining emotional resonance. Encrypted platforms like Rocket.Chat host slick, AI-enhanced IS videos, illustrating how text-based publications become engaging multimedia. Counterterrorism agencies struggle to keep pace as extremists also leverage crypto for funding and 3D-printed firearm files.",
-      "summaryTokens": 2349,
-      "generatedAt": "2025-12-22T03:54:24.578Z"
+      "summary": "Researchers warn extremist movements from neo-Nazis to IS exploit advanced AI voice-cloning and translation tools to magnify propaganda. Neo-Nazi channels have released English-language Hitler speeches with tens of millions of streams using ElevenLabs; an AI-generated audiobook of James Mason’s Siege fuels accelerationist messaging. Jihadist outlets on encrypted platforms deploy AI-powered text-to-speech to transform Arabic ideological content into multilingual audio, preserving tone and emotional intensity for global recruitment. Experts like Lucas Webber and Joshua Fisher-Birch note these groups also leverage ChatGPT for imagery, planning, and crypto for fundraising and 3D-printed arms. Authorities warn AI’s seamless, contextually accurate outputs represent an evolution in extremist digital propaganda strategies.",
+      "summaryTokens": 585,
+      "generatedAt": "2025-12-23T04:49:46.184Z"
     },
     {
       "id": "technology/2025/dec/21/a-tape-measure-a-metal-detector-and-a-spirit-level-25-surprisingly-useful-things-you-can-do-with-your-phone",
@@ -41,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-21T12:00:05Z",
       "trailText": "While many use our phones predominantly to doomscroll, smartphones have a range of little-known functions that could make life better and easier – from heart monitoring to even developing camera film",
-      "summary": "Smartphones hide dozens of DIY and life-hack tools: AR Measure apps act as tape measures and height gauges; magnetometer apps double as metal detectors; infrared or Wi-Fi/Bluetooth blasters become universal remotes; FilmBox and similar apps digitize negatives and old prints; iOS 26’s Hold Assist notifies you when a call is answered; LiDAR-powered scan apps generate 3D models for printing or renovation; offline GPS maps and tracking record remote hikes; microphone-based stethoscope apps capture heartbeats; built-in white-noise generators aid sleep; color-matching apps sample and preview paint shades; Google Lens/Translate live-translate signs and identify plants; Handoff or Link to Windows turns your phone into a high-quality webcam; decibel-meter apps document noise levels; NFC tags automate smart-home routines; hidden spirit-level tools hang pictures perfectly; document scanning, animated photo “memories,” blood-oxygen tracking, remote slide control, live location-sharing, podcast studio setups, voice-activated shortcuts and shared shopping lists complete the 25 surprising phone superpowers.",
-      "summaryTokens": 804,
-      "generatedAt": "2025-12-22T03:54:24.578Z"
+      "summary": "The article details 25 little-known smartphone tricks that transform your handset into everyday tools: use AR-based Measure and built-in spirit levels for DIY, magnetometer-powered metal detectors, IR or Wi-Fi remote controls, and color-matching paint apps. Digitize negatives, scan documents and animate photos. Health features include a microphone stethoscope, blood-oxygen monitoring and sleep-inducing sounds. Explore offline maps and live-translate menus abroad, identify plants with AI, record hikes, capture 3D scans via LiDAR, and measure noise levels. Turn phones into webcams, presentation remotes, smart-home hubs with NFC, podcast studios, and shopping lists. With tools spanning home improvement, travel, health and productivity, your smartphone becomes a Swiss-army gadget for modern life.",
+      "summaryTokens": 1183,
+      "generatedAt": "2025-12-23T04:49:46.184Z"
     },
     {
       "id": "technology/2025/dec/21/it-can-be-quite-a-thankless-job-why-driving-examiners-are-calling-it-quits",
@@ -53,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2025-12-21T07:00:53Z",
       "trailText": "A staff exodus and a broken booking system are helping to cause huge jams in Britain’s driving test system",
-      "summary": "Britain’s DVSA driving test system faces 22-week waits and chaos as underpaid examiners quit en masse: only a net 83 new hires since 2021 despite 19 recruitment campaigns. A broken online booking platform lets bots snap dates, inflating private test resale. Civil‐service‐capped pay (max £30k), no hybrid working and intense stress (near-miss rescues, back-to-back tests) push examiners back to instructing, where post-COVID lesson rates exceed DVSA salaries. Government plans to cut waits to seven weeks won’t land until late 2027. Instructors praise the impact but call it “thankless.”",
-      "summaryTokens": 1229,
-      "generatedAt": "2025-12-22T03:54:24.578Z"
+      "summary": "An audit warns Britain’s driving test delays—averaging 22 weeks—will persist until at least November 2027, as only 83 net DVSA examiners were hired despite 19 campaigns since 2021. Low civil-service pay (max ~£30K), high stress, a broken booking system favoured by bots and inflated resales drive experienced staff to quit. Former examiners describe rewarding pass moments but recall life-saving interventions and perilous near-misses. Instructors say the role is ‘thankless’, lacking hybrid options that competitors offer.",
+      "summaryTokens": 1005,
+      "generatedAt": "2025-12-23T04:49:46.184Z"
     },
     {
       "id": "technology/2025/dec/20/tiktok-90s-christmas-trend-tinsel-home-alone",
