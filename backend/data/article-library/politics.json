@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2025-12-23T04:08:45.331Z",
+    "generated_at": "2025-12-24T03:58:38.018Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-22"
+      "to": "2025-12-24"
     },
-    "article_count": 612,
+    "article_count": 616,
     "merge_info": {
-      "previous_count": 608,
+      "previous_count": 612,
       "new_articles": 4,
-      "updated_articles": 2,
-      "total_count": 612
+      "updated_articles": 4,
+      "total_count": 616
     },
     "batch_info": {
-      "initial_batch_id": "batch_694a15400df881909f0617ed24d429a2",
+      "initial_batch_id": "batch_694b63c001cc8190b60bef361fecc5fc",
       "retry_batches": [],
-      "total_tokens": 11845,
-      "processing_time_hours": 0
+      "total_tokens": 16749,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "politics/2025/dec/24/keir-starmer-christmas-message-kemi-badenoch-ed-davey",
+      "title": "Keir Starmer encourages Britons to ‘reach out’ to others this Christmas",
+      "webUrl": "https://www.theguardian.com/politics/2025/dec/24/keir-starmer-christmas-message-kemi-badenoch-ed-davey",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/dec/24/keir-starmer-christmas-message-kemi-badenoch-ed-davey",
+      "section": "politics",
+      "publishedDate": "2025-12-24T00:01:56Z",
+      "trailText": "Prime minister calls on people to show kindness to friends or family as leaders broadcast their festive messages",
+      "summary": "Labour leader Keir Starmer urged Britons to reach out to struggling loved ones this Christmas, praising volunteers and public workers and highlighting personal loss after his brother’s death. He’ll spend the holiday at Chequers with family. Tory leader Kemi Badenoch reflected on motherhood and Christ’s birth while thanking supporters. Lib Dem Ed Davey praised the Oslo-gifted Trafalgar Square tree as a symbol of hope. Green leader Zack Polanski condemned refugee demonisation, and King Charles will address the nation from Westminster Abbey on December 25th.",
+      "summaryTokens": 993,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
+    },
+    {
+      "id": "environment/2025/dec/23/ministers-raise-inheritance-tax-threshold-for-farms-after-backlash",
+      "title": "Ministers raise inheritance tax threshold for farms after backlash",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/23/ministers-raise-inheritance-tax-threshold-for-farms-after-backlash",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/23/ministers-raise-inheritance-tax-threshold-for-farms-after-backlash",
+      "section": "politics",
+      "publishedDate": "2025-12-23T17:38:21Z",
+      "trailText": "U-turn lifts limit from £1m to £2.5m after protests and warnings that family farms were at risk",
+      "summary": "Ministers have raised the inheritance‐tax threshold for farmland from £1m to £2.5m from April after protests from family farmers and lobbying by rural MPs, reversing Rachel Reeves’ 20% levy on estates above £1m. The U‐turn cuts the number of liable estates from 375 to 185, exempts 85% of farms, and costs £130m a year while still raising ~£300m. Downing Street cited evidence of financial distress and even suicide threats from terminally ill farmers. Farming groups and cross‐party MPs welcomed the change, though Lib Dems and Reform UK argue for full abolition.",
+      "summaryTokens": 1071,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
+    },
+    {
+      "id": "politics/2025/dec/23/reform-council-plan-shut-care-homes-betrayal-local-people-derbyshire",
+      "title": "Reform council’s plan to shut eight care homes ‘a betrayal of local people’",
+      "webUrl": "https://www.theguardian.com/politics/2025/dec/23/reform-council-plan-shut-care-homes-betrayal-local-people-derbyshire",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/dec/23/reform-council-plan-shut-care-homes-betrayal-local-people-derbyshire",
+      "section": "politics",
+      "publishedDate": "2025-12-23T13:52:02Z",
+      "trailText": "Announcement after proposed sale falls through prompts backlash and union says more than 200 jobs at risk",
+      "summary": "Derbyshire county council led by Reform UK announced closure of eight residential care homes after a proposed sale to an external provider fell through, putting over 200 jobs and vital services at risk. The GMB union condemned the move as a “betrayal” ahead of Christmas and urged alternative solutions. Labour MP Linsey Farnsworth raised the issue at PMQs, prompting Sir Keir Starmer to point to £3.7bn in extra social care funding. Reform cabinet member Joss Barnes expressed regret over the collapsed deal, citing commercial sensitivities, and pledged support to help relocate residents. The sale had been agreed by the previous Conservative council in November 2024.",
+      "summaryTokens": 956,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
+    },
+    {
+      "id": "politics/2025/dec/23/reform-uk-cap-aid-1bn-damage-britain-international-influence",
+      "title": "Reform plan to cap aid at £1bn would damage UK’s international influence, critics warn",
+      "webUrl": "https://www.theguardian.com/politics/2025/dec/23/reform-uk-cap-aid-1bn-damage-britain-international-influence",
+      "apiUrl": "https://content.guardianapis.com/politics/2025/dec/23/reform-uk-cap-aid-1bn-damage-britain-international-influence",
+      "section": "politics",
+      "publishedDate": "2025-12-23T07:00:51Z",
+      "trailText": "Exclusive: Campaigners say slashing overseas aid would leave UK unable to meet existing commitments",
+      "summary": "Reform UK’s proposal to cap overseas aid at £1bn (0.03% GDP) – versus today’s 0.5% and next government’s planned 0.3% (£9bn) – would breach multi-year commitments to the UN, World Bank, Gavi and the Global Fund (£1.6bn), slash multilateral aid from £2.8bn, leave no funding for new crises like Hurricane Melissa, and erode Britain’s influence below Russia and China, warn development NGOs, Labour and Lib Dems; Reform insists it would safeguard Ukraine and genuine disaster relief while ending wasteful projects.",
+      "summaryTokens": 1463,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
+    },
     {
       "id": "politics/2025/dec/22/keir-starmer-told-closer-eu-trade-ties-strategic-necessity-for-uk-firms",
       "title": "Keir Starmer told closer EU trade ties ‘strategic necessity’ for UK firms",
@@ -29,9 +77,9 @@
       "section": "politics",
       "publishedDate": "2025-12-22T22:30:39Z",
       "trailText": "Labour urged to accelerate reset with Brussels as many exporters struggling to trade in the EU after Brexit deal",
-      "summary": "Business lobby British Chambers of Commerce warns Labour that a deeper EU trade deal is now a “strategic necessity” as 54% of nearly 1,000 exporters — mostly SMEs — say the 2021 trade and cooperation agreement has hindered sales growth, up 13 points from last year. Only four firms rated government support on trade policy as comprehensive. The BCC proposes five priorities for 2026 talks, including cutting border checks on animal and plant products, linking emissions trading, VAT and customs simplification, a youth mobility scheme and defence collaboration. Labour ministers remain divided over EU reset scope.",
-      "summaryTokens": 883,
-      "generatedAt": "2025-12-23T04:08:45.191Z"
+      "summary": "The British Chambers of Commerce warns Keir Starmer’s government that a deeper trade deal with the EU is now a strategic necessity: in a survey of 946 mainly SME exporters, 54% say the 2021 TCA impedes their EU sales—a 13-point rise year-on-year—and only four firms rate government support as comprehensive. The BCC’s “business manifesto” calls for 2026 talks to cut agri/plant checks, link UK-EU emissions trading, rejoin Erasmus+, launch youth mobility, join the EU’s SAFE defence fund and simplify VAT and customs. Pro-EU Labour figures back deeper ties, though Starmer rules out single-market re-entry; the government says it is cutting red tape to boost growth.",
+      "summaryTokens": 664,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
     },
     {
       "id": "politics/2025/dec/22/labour-calls-rejoin-eu-customs-union-harder-starmer-resist",
@@ -41,9 +89,9 @@
       "section": "politics",
       "publishedDate": "2025-12-22T18:20:30Z",
       "trailText": "Wes Streeting’s wish for deeper trade relations to help fight against Farage is shared by growing number of MPs",
-      "summary": "Wes Streeting’s call for a customs union with the EU, diverging from Starmer’s manifesto red lines, garners backing from senior Labour figures like David Lammy and reflects polls showing 80% of 2024 Labour voters support deeper EU ties (73% back full rejoin). Amid weak US trade wins and stalled EU defence and food standards talks, pressure mounts on Starmer to promise rejoining the customs union for economic growth before the next election, despite Brussels’ tough negotiating stance.",
-      "summaryTokens": 919,
-      "generatedAt": "2025-12-23T04:08:45.191Z"
+      "summary": "Health secretary Wes Streeting departed from Labour’s official line to urge rejoining an EU customs union, aiming to differentiate the party against Nigel Farage. YouGov polling shows 80% of 2024 Labour voters back a customs union deal and 73% full EU talks. Senior figures including David Lammy privately advocate deeper ties, despite No 10’s manifesto ban in force until the next election. With independent trade deals (US, India) delivering minimal growth and EU negotiations slow and costly, internal pressure is mounting and Starmer’s resistance may soon waver.",
+      "summaryTokens": 804,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
     },
     {
       "id": "politics/2025/dec/22/rachel-reeves-sets-early-march-date-for-spring-statement-as-obr-prepares-forecast",
@@ -53,9 +101,9 @@
       "section": "politics",
       "publishedDate": "2025-12-22T16:35:54Z",
       "trailText": "Treasury announces 3 March date to prioritise ‘stability and certainty’ after criticism of buildup to November budget",
-      "summary": "Chancellor Rachel Reeves has fixed 3 March for a spring statement, tasking the Office for Budget Responsibility with fresh forecasts to deliver ‘stability and certainty’ after tax-leak chaos around November’s budget, which business leaders say chilled spending and investment. October’s unexpected GDP contraction and forecasts of flat Q4 growth, plus warnings of private-sector malaise, underscored the fallout. Reeves doubled her fiscal headroom to £22bn at the autumn statement, avoiding immediate rule breaches. The government will respond to the OBR’s March update with a parliamentary statement, fulfilling its pledge for one major fiscal event per year. Meanwhile, leak inquiries continue after November’s pre-speech data breach led to the OBR chair’s resignation.",
-      "summaryTokens": 268,
-      "generatedAt": "2025-12-23T04:08:45.191Z"
+      "summary": "Chancellor Rachel Reeves has scheduled an early spring statement for 3 March, asking the OBR to prepare economic and public finance forecasts to restore stability after prolonged tax speculation that dented consumer spending and business investment. October GDP unexpectedly contracted and private‐sector activity slowed amid uncertainty. Reeves doubled her fiscal headroom to £22bn in November’s budget, suspending an OBR fiscal mandate assessment in favor of an interim update, and pledges to respond to the March forecast with a parliamentary statement. The Treasury and OBR are investigating leaks following last year’s pre‐speech data breach.",
+      "summaryTokens": 940,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
     },
     {
       "id": "politics/2025/dec/22/britain-economy-brexit-damage-customs-union",
@@ -65,9 +113,9 @@
       "section": "politics",
       "publishedDate": "2025-12-22T14:39:36Z",
       "trailText": "The idea of a customs union has gained traction, but agreeing a deal would be far from straightforward",
-      "summary": "Nearly a decade after 2016’s vote, Brexit has depressed UK trade, with goods exports still below 2019 levels and financial services losing EU market share. Labour figures like Wes Streeting have floated a customs union with the EU — a move Keir Starmer opposes — while pursuing veterinary, arts-touring and professional-qualification deals in this year’s UK-EU “reset.” Government analysis pegs these pacts at 0.3% GDP gain by 2040 versus Brexit’s 4% drag, whereas a bespoke customs union could boost GDP by 2.2% and raise £25bn yearly, but require regulatory alignment, freedom of movement and lengthy EU talks.",
-      "summaryTokens": 1727,
-      "generatedAt": "2025-12-23T04:08:45.191Z"
+      "summary": "Almost a decade after Brexit, tougher 2020 trade barriers have slowed UK trade, investment and living standards. Exports to the EU dropped: goods volumes remain below 2019, services recovered unevenly, financial services lost market share. Labour rules out rejoining the single market or customs union but seeks targeted deals (veterinary, touring artists, professional qualifications) that would boost GDP minimally (~0.3% by 2040). A bespoke customs union could add ~2.2% GDP, £25 bn annually and cut exporters’ 2–8% rules-of-origin costs, but demands protracted EU talks and limits UK trade autonomy.",
+      "summaryTokens": 1657,
+      "generatedAt": "2025-12-24T03:58:37.886Z"
     },
     {
       "id": "politics/2025/dec/21/recovery-period-after-doctors-strikes-is-concern-for-nhs-says-streeting",
