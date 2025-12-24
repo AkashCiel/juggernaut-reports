@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-23T04:49:46.317Z",
+    "generated_at": "2025-12-24T04:20:16.017Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-22"
+      "to": "2025-12-24"
     },
-    "article_count": 296,
+    "article_count": 298,
     "merge_info": {
-      "previous_count": 293,
-      "new_articles": 3,
+      "previous_count": 296,
+      "new_articles": 2,
       "updated_articles": 3,
-      "total_count": 296
+      "total_count": 298
     },
     "batch_info": {
-      "initial_batch_id": "batch_694a1a81e2bc81908e07cfc83046b68f",
+      "initial_batch_id": "batch_694b6655aad88190a12701628187a65e",
       "retry_batches": [],
-      "total_tokens": 13955,
+      "total_tokens": 10315,
       "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe",
+      "title": "Former EU commissioner and activists barred from US in attack on European tech regulators",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe",
+      "section": "technology",
+      "publishedDate": "2025-12-24T00:54:32Z",
+      "trailText": "State department accuses group of pressuring tech firms to censor or suppress American viewpoints through regulation of disinformation",
+      "summary": "US State Dept has imposed visa bans on five Europeans – including former EU internal market commissioner Thierry Breton and four activists from Centre for Countering Digital Hate, German NGO HateAid and the Global Disinformation Index – accusing them of orchestrating pressure on US tech platforms to censor, demonetize or suppress American viewpoints under the EU’s Digital Services Act. The move, under the Immigration and Nationality Act, is part of a Trump administration campaign opposing the DSA by barring foreign actors from US entry and citing free-speech concerns.",
+      "summaryTokens": 1432,
+      "generatedAt": "2025-12-24T04:20:15.908Z"
+    },
+    {
+      "id": "technology/2025/dec/22/biggest-tech-stories-2025",
+      "title": "Elon Musk, AI and the antichrist: the biggest tech stories of 2025",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/22/biggest-tech-stories-2025",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/22/biggest-tech-stories-2025",
+      "section": "technology",
+      "publishedDate": "2025-12-23T17:03:50Z",
+      "trailText": "A look back at the biggest tech stories of the year, from the rise and fall of Musk’s Doge to lucrative investments into AI",
+      "summary": "2025 saw a tumultuous tech landscape defined by Elon Musk’s meteoric political rise and abrupt fall—his six-month whirlwind of Doge drama, dismantling of US agencies and data security, and mixed fortunes at SpaceX and Tesla. Artificial intelligence morphed into the global economic engine: the Magnificent Seven poured in billions, while sprawling datacenters reshaped landscapes amid bubble fears and US-China rivalry. Silicon Valley rallied behind Trump 2.0, scrapping DEI and aiding ICE for deregulation. Australia banned under-16s from social media. Peter Thiel’s fevered antichrist lectures capped a year of high drama.",
+      "summaryTokens": 813,
+      "generatedAt": "2025-12-24T04:20:15.908Z"
+    },
     {
       "id": "technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify",
       "title": "Activist group says it has scraped 86m music files from Spotify",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-12-22T20:50:16Z",
       "trailText": "Platform with 700m users says it is investigating after Anna’s Archive claims to have scraped tracks and metadata",
-      "summary": "Activist group Anna’s Archive claims to have illicitly scraped 86 million audio files and 256 million rows of metadata from Spotify, which hosts over 100 million tracks and 700 million users. Spotify says it identified and disabled the accounts, uncovered DRM circumvention, and believes its full catalogue remains secure. Anna’s Archive plans to distribute the files via torrents as a “preservation archive,” covering 99.6 percent of streamed music. Industry voices warn AI firms may train models on this data, echoing past LibGen use. Spotify has added anti-scraping safeguards amid a global debate on AI training on copyrighted works, with the UK due to finalise policy by March.",
-      "summaryTokens": 706,
-      "generatedAt": "2025-12-23T04:49:46.184Z"
+      "summary": "An activist collective, Anna’s Archive, says it scraped 86m tracks and 256m metadata rows from Spotify, representing 99.6% of user listening, and plans to share them via torrents as a ‘preservation archive’. Spotify, which hosts over 100m tracks and serves 700m users, disabled the accounts, confirmed the breach didn’t include its full library, and is investigating. Rights advocates warn the haul will feed AI model training. The leak echoes LibGen’s role in AI data disputes. UK creators press govt for stricter copyright rules ahead of March policy.",
+      "summaryTokens": 1002,
+      "generatedAt": "2025-12-24T04:20:15.908Z"
     },
     {
       "id": "technology/2025/dec/22/chinese-robotaxis-due-in-london-next-year-as-lyft-and-uber-reveal-tie-ups",
@@ -41,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-12-22T12:20:55Z",
       "trailText": "Firms agree deals with Beijing-based Baidu to take self-driving cabs to UK capital",
-      "summary": "Lyft and Uber have struck partnerships with Beijing-based Baidu to introduce its Apollo Go self-driving cabs in London, with tests of RT6 electric taxis slated to begin in early 2026 under the UK’s frontier plan. Lyft, fresh from its Freenow acquisition, plans a hybrid fleet of autonomous vehicles and human drivers; Uber will run Baidu trials alongside Wayve collaborations. Security analysts warn that relying on Chinese tech—operational in 22 Asian cities and handling 250,000 driverless rides weekly—raises data-harvesting and remote-control risks that could threaten UK transport resilience as Westminster pushes to make Britain a European leader in driverless innovation.",
-      "summaryTokens": 703,
-      "generatedAt": "2025-12-23T04:49:46.184Z"
+      "summary": "Lyft and Uber have partnered with Beijing’s Baidu to introduce its Apollo Go self-driving cabs in London, beginning trials in early 2026 under the UK’s frontier plan. Lyft will deploy dozens of RT6 electric robotaxis alongside human drivers in a ‘hybrid network,’ while Uber adds Baidu vehicles to its Wayve tests. Baidu’s Apollo Go, active in 22 Asian cities and handling 250,000 driverless rides weekly, raises security concerns over data harvesting and potential remote shutdowns.",
+      "summaryTokens": 544,
+      "generatedAt": "2025-12-24T04:20:15.908Z"
     },
     {
       "id": "technology/2025/dec/22/mps-question-uk-palantir-contracts-security-concerns-investigation",
@@ -53,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-22T11:26:47Z",
       "trailText": "Journalists find Swiss government rejected company over fears US intelligence might gain access to sensitive data",
-      "summary": "An investigation by Swiss media WAV and Republik reveals that over seven years Palantir’s bids to Swiss federal agencies, including the army and health service, were rejected at least nine times amid expert warnings that as a US firm its software could expose sensitive data to US intelligence. Swiss army analysts also flagged high costs and dependence on onsite Palantir specialists. UK MPs such as Clive Lewis and Rachael Maskell have cited these findings to demand transparent due diligence on Palantir’s £75m NHS and £750m MoD contracts, while Palantir denies any data-access risk.",
-      "summaryTokens": 676,
-      "generatedAt": "2025-12-23T04:49:46.184Z"
+      "summary": "UK MPs are questioning government contracts with US data firm Palantir after a Swiss investigation revealed its seven-year bid to win federal agency deals was rejected multiple times over fears US intelligence could access sensitive data. Citing an internal Swiss army report, MPs including Clive Lewis and Rachael Maskell demand transparent due diligence on Palantir’s NHS federated data platform and MoD AI tools. Palantir denies any risk to customer data. The findings have also sparked debate across Europe, notably in Germany, over reliance on US software.",
+      "summaryTokens": 537,
+      "generatedAt": "2025-12-24T04:20:15.908Z"
     },
     {
       "id": "technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism",
