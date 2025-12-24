@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-23T04:06:16.518Z",
+    "generated_at": "2025-12-24T03:53:28.197Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-22"
+      "to": "2025-12-23"
     },
-    "article_count": 178,
+    "article_count": 179,
     "merge_info": {
-      "previous_count": 177,
+      "previous_count": 178,
       "new_articles": 1,
-      "updated_articles": 2,
-      "total_count": 178
+      "updated_articles": 1,
+      "total_count": 179
     },
     "batch_info": {
-      "initial_batch_id": "batch_694a14eb91908190b6c487b2a4653e97",
+      "initial_batch_id": "batch_694b607353ec8190aa435dec95e335be",
       "retry_batches": [],
-      "total_tokens": 7582,
-      "processing_time_hours": 0
+      "total_tokens": 5211,
+      "processing_time_hours": 0.2
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/23/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/23/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/23/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-12-23T21:00:52Z",
+      "trailText": "Mathew Carver | Baron Bigod cheese | Santa Claus Express, Finland",
+      "summary": "Corrections and clarifications for 23 December: Mathew Carver, founder of Pick & Cheese, Cheese Barge and Rind, was later misnamed “Carter” (Kitchen aide, 13 Dec); Baron Bigod cheese appeared as “Brigod” in a recipe fix (Journal, 23 Dec); our Finland map scale in Santa Express (Saturday magazine, 20 Dec) read 50 mi instead of 200 mi. Other updates cover Whatnot auctions, US diplomatic recalls, Derby wolves, UK military asylum barracks, Updike rankings, Antony Price’s death, lobster boiling ban, Russia–China–Venezuela. Complaints: guardian.readers@theguardian.com or Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, tel +44 20 3353 4736.",
+      "summaryTokens": 2005,
+      "generatedAt": "2025-12-24T03:53:28.010Z"
+    },
     {
       "id": "news/2025/dec/22/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2025-12-22T21:00:37Z",
       "trailText": "Hasan Piker | Roast squash velouté",
-      "summary": "Guardian issues corrections and clarifications: Hasan Piker has 3m Twitch followers—not subscribers; roast squash velouté recipe should use vegetarian brie-style cheese instead of Baron Brigod. Other amended articles cover Bondi’s Jewish memorial, NSW planning overhaul after Reeves adviser exit, high ticket costs and Trump’s influence at the Mexico World Cup, the resurgence of wired headphones, Brown University shooting suspect autopsy and a US army lawyer’s dismissal over defying Trump’s deportation policy. Send corrections to guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU.",
-      "summaryTokens": 2028,
-      "generatedAt": "2025-12-23T04:06:16.390Z"
+      "summary": "Corrections clarify Hasan Piker has 3m Twitch followers, not subscribers; our roast squash velouté recipe erroneously listed non-vegetarian Baron Bigod – use a vegetarian brie substitute. Other amendments cover: Bondi’s Jewish memorial plans; NSW planning overhaul stalled by adviser exit; Mexico World Cup ticket pricing and Trump-era effects; wired headphones resurgence; Brown University shooting suspect’s autopsy timing; US army lawyer sacked over deportation dispute. Article amended 23 Dec 2025 to correct cheese spelling. Send corrections to guardian.readers@theguardian.com or Readers’ Editor, Kings Place, London.",
+      "summaryTokens": 2222,
+      "generatedAt": "2025-12-24T03:53:28.010Z"
     },
     {
       "id": "news/2025/dec/21/corrections-and-clarifications1",
