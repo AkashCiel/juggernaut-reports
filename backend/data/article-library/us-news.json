@@ -1,26 +1,170 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-24T04:23:50.457Z",
+    "generated_at": "2025-12-25T03:51:28.007Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-24"
+      "to": "2025-12-25"
     },
-    "article_count": 1956,
+    "article_count": 1968,
     "merge_info": {
-      "previous_count": 1933,
-      "new_articles": 23,
-      "updated_articles": 20,
-      "total_count": 1956
+      "previous_count": 1956,
+      "new_articles": 12,
+      "updated_articles": 27,
+      "total_count": 1968
     },
     "batch_info": {
-      "initial_batch_id": "batch_694b6a08fe1081908dd16791a765c91d",
+      "initial_batch_id": "batch_694cb3a699048190a29d6f5bef0bd28b",
       "retry_batches": [],
-      "total_tokens": 93669,
+      "total_tokens": 92133,
       "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/25/trump-administration-news-updates-today-latest",
+      "title": "Trump news at a glance: EU could respond to ‘unjustified’ US visa bans, official says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/25/trump-administration-news-updates-today-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/25/trump-administration-news-updates-today-latest",
+      "section": "us-news",
+      "publishedDate": "2025-12-25T03:26:36Z",
+      "trailText": "European leaders including Emmanuel Macron accused Washington of ‘coercion and intimidation’. Key US politics stories from Wednesday 24 December",
+      "summary": "The EU warns it may ‘respond swiftly and decisively’ to US visa bans on five European digital regulators and anti-disinformation activists—including ex-commissioner Thierry Breton—after Macron decried Washington’s ‘coercion and intimidation’. Secretary of State Rubio framed the move as countering ‘extraterritorial censorship’. In other Trump administration headlines: the DOJ says processing 1M more Epstein documents could take weeks; a federal judge blocks cuts to homeland security grants tied to immigration enforcement; 350 National Guard troops head to New Orleans; Palau will resettle 75 US migrants; Rep. Joyce Beatty sues to remove Trump’s name from the Kennedy Center; oil-seizure plans intensify US-Venezuela tensions.",
+      "summaryTokens": 1922,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/justice-department-epstein-files-due-to-be-released",
+      "title": "US justice department says it may need ‘a few more weeks’ to process 1m more Epstein documents for release",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/justice-department-epstein-files-due-to-be-released",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/justice-department-epstein-files-due-to-be-released",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T19:32:23Z",
+      "trailText": "DoJ says more documents have been uncovered amid criticisms for missing 19 December deadline for full release",
+      "summary": "After missing its 19 Dec deadline, the DoJ announced it uncovered over 1 million additional Epstein-related files from SDNY and the FBI, requiring several more weeks of lawyer-led review and redactions to protect victims. Of roughly 750,000 records processed, about 700,000 remain—many duplicates may cut that number. A team of 200 analysts plus volunteer prosecutors is racing to comply with the Epstein Files Transparency Act. Critics, including Reps. Khanna, Massie and Senate Democratic leader Schumer, have threatened contempt and demanded clarity on unredacted co-conspirators such as Maxwell, Brunel and Wexner. Releases have also featured false letters and videos, which the DoJ says were inadvertently disclosed by law.",
+      "summaryTokens": 1030,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/democratic-lawmaker-sues-trump-over-kennedy-center-name",
+      "title": "Democratic lawmaker sues Trump over Kennedy Center’s name change",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/democratic-lawmaker-sues-trump-over-kennedy-center-name",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/democratic-lawmaker-sues-trump-over-kennedy-center-name",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T18:13:24Z",
+      "trailText": "Joyce Beatty seeks to remove the president’s name from the newly minted ‘Trump-Kennedy Center’",
+      "summary": "Ohio Rep. Joyce Beatty sued President Trump to strip his name from the newly renamed Trump-Kennedy Center, arguing the board’s vote violated federal law requiring congressional approval and alleging she was muted during the ex-officio trustee vote. Represented by Washington Litigation Group and Democracy Defenders Action, Beatty says the change flouts John F. Kennedy’s living memorial status. The Trump administration claims the board unanimously approved the renaming; critics including Joe Kennedy III deem it legally indefensible amid Trump’s broader takeover of the arts institution.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/federal-judge-white-house-state-homeland-security-funding",
+      "title": "Federal judge blocks White House’s reductions of homeland security funding to states",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/federal-judge-white-house-state-homeland-security-funding",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/federal-judge-white-house-state-homeland-security-funding",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T17:16:47Z",
+      "trailText": "Judge said cuts were ‘another example’ of Trump administration tying state assistance to its immigration crackdown",
+      "summary": "US District Judge Mary McElroy blocked Trump administration cuts to over $230m in DHS and FEMA counterterrorism grants to Connecticut, Delaware, Minnesota, Massachusetts, New York, Rhode Island, Vermont and D.C., ruling it unlawful to condition homeland security funding on state immigration enforcement. In a 48-page decision citing the Brown University mass shooting response, she decried the “wanton abuse” of grant administration and held that political whims cannot hostage vital law enforcement programs. A 12-state AG coalition hailed the decision, while DHS plans to appeal.",
+      "summaryTokens": 802,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T16:00:15Z",
+      "trailText": "More than a year after storm ripped apart families and farms, growers are bullish about strength of their industry",
+      "summary": "Western North Carolina’s Christmas tree industry, the nation’s second-largest, is recovering from Hurricane Helene’s October 2024 devastation—infrastructure, homes and tens of thousands of Fraser firs lost, $125m in nursery and tree damage—yet grower optimism is high. Farms like Hickory Creek, Avery and C&G have rebuilt homes, fields and roads, replanted 20k new trees, doubled wreath output and shipped nationwide. A favorable 2025 spring and strong holiday sales offset reduced inventory. Extension specialists praise the region’s resilience—symbolized by last year’s White House tree—and researchers are breeding climate-hardier varieties. Public support remains vital to small growers.",
+      "summaryTokens": 950,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/23/the-12-days-of-trump-mas",
+      "title": "The 12 days of Trump-mas ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/23/the-12-days-of-trump-mas",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/23/the-12-days-of-trump-mas",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T16:00:15Z",
+      "trailText": "What has Donald Trump given us in his second term? We look at some of the numbers",
+      "summary": "In his second term, Trump logged 12-hour workdays, claimed 11 months of unmatched change, sues BBC for $10 bn over alleged speech edits, plans a 999-seat $400 m donor-funded ballroom, denies writing an 8-line Epstein note, 7 % find local living unaffordable, labeled 6 Democrats “seditious,” deployed troops in 5 cities, saw 4.6 % unemployment, was filmed dozing 3 times, remains the only twice-impeached president, and is ranked 1st by his team versus 43rd by historians.",
+      "summaryTokens": 815,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/republicans-pfas-cleanup-costs",
+      "title": "Republicans aim to exempt major polluters from Pfas cleanup costs",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/republicans-pfas-cleanup-costs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/republicans-pfas-cleanup-costs",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T15:00:15Z",
+      "trailText": "Water treatment and landfill companies given chance to make case that EPA rules should not apply to them",
+      "summary": "Republicans on the House Energy and Commerce Committee are pushing to exempt water treatment plants and landfills from bearing cleanup costs for two ‘forever chemicals,’ PFOA and PFOS, under EPA’s Superfund rules. Industry groups argue they shouldn’t pay because they merely process contaminated waste, warning that litigation diverts funds from infrastructure and drinking-water compliance. Environmental advocates counter that utilities have the authority and technology to curb PFAS discharges, citing Michigan’s successful program, and warn that carving out exemptions removes critical incentives to address widespread water and soil contamination.",
+      "summaryTokens": 471,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/tashkent-supermarket-west-village",
+      "title": "Fresh ‘manty’ and cheap figs: a post-Soviet supermarket becomes a must-visit spot in NYC",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/tashkent-supermarket-west-village",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/tashkent-supermarket-west-village",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T15:00:15Z",
+      "trailText": "Tashkent Supermarket’s new West Village location offers staples like plov and samsas hot and fresh – a taste of Central Asia for everyone",
+      "summary": "Tashkent Supermarket’s new West Village location brings fresh Central Asian staples—manty dumplings, spiced plov, flaky samsas, sweet chak-chak and homemade kompot—to Manhattan. Founded in 2012 by Uzbek immigrant Odiljon Tursunov after Hurricane Sandy, the chain has grown to five New York sites plus a New Jersey wholesale facility. Since its March opening, influencers (e.g., sistersnacking, babytamago) and Mayor-elect Zohran Mamdani have praised its hot bar and smoked fish. By sourcing cheeses from Georgia, bread from Ukraine, nuts and raisins from Uzbekistan and adapting prices for Manhattan real estate and congestion fees, Tashkent bridges nostalgia for over 1.2 million FSU immigrants while introducing new customers to Central Asian flavors.",
+      "summaryTokens": 2250,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/trump-venezuela-oil-resource-imperialism",
+      "title": "Trump’s claims to Venezuelan oil are part of broader ‘resource imperialism’, experts say",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/trump-venezuela-oil-resource-imperialism",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/trump-venezuela-oil-resource-imperialism",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T15:00:14Z",
+      "trailText": "Critics compare offensive to Iraq war, citing familiar mix of regime-change rhetoric, security pretexts and oil interests",
+      "summary": "Donald Trump’s recent push to seize oil from Venezuelan tankers exemplifies a wider rightwing “resource imperialism,” say experts. Since December, his administration has intercepted Venezuelan crude, invoked drug-trafficking pretexts and branded fentanyl a “weapon of mass destruction.” Critics liken this to the Iraq war’s regime-change rhetoric and oil-grab logic. Trump has long argued the US is entitled to foreign oil—from Iraq and Syria to Iran sanctions—while eyeing rare earth minerals in Greenland, Ukraine and elsewhere. Analysts warn his overt extractive strategy, driven by fossil-fuel dominance, escalates US-China rivalry and undermines climate and international norms.",
+      "summaryTokens": 1009,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/trump-mental-health-speech-address-2025-review",
+      "title": "Is Trump mentally OK? A look back at the president’s unusual behavior in 2025",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/trump-mental-health-speech-address-2025-review",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/trump-mental-health-speech-address-2025-review",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T14:00:14Z",
+      "trailText": "Trump has shown erratic and bizarre behavior throughout the year, leading to questions about his mental acuity",
+      "summary": "Throughout 2025, President Trump, 79, has exhibited erratic behavior—dozing off in meetings, launching bizarre asides on whales, interior décor and windmills, and inventing a false MIT–Unabomber link. He’s rambled on Obama’s stair-walking and autism, while White House spokespeople tout his “second-to-none” cognitive sharpness and MRI tests. Critics note his shortened schedule, falling approval (36%) and polls citing age concerns. Democrats plan to make his fitness a midterm issue as questions persist ahead of next year’s elections.",
+      "summaryTokens": 930,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/flame-retardant-furniture-toxic-chemicals-study",
+      "title": "Throwing out flame-retardant furniture can reduce toxic chemicals in blood, study finds",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/flame-retardant-furniture-toxic-chemicals-study",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/flame-retardant-furniture-toxic-chemicals-study",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T14:00:13Z",
+      "trailText": "Flame retardants commonly used in furniture are linked to serious health issues, including cancer and thyroid disease",
+      "summary": "A decade-long peer-reviewed study by California regulators and health groups shows removing home furniture made with flame-retardant foam (circa 1975–2015) cuts blood levels of toxic compounds linked to cancer, thyroid disease, neurotoxicity, fertility deficits and IQ declines: levels fell four times faster and halved within 1.4 years in participants who replaced their furniture. After California dropped flammability-chemical mandates in 2015 and later banned key retardants, the industry largely abandoned these chemicals. Researchers recommend swapping vintage pieces or updating foam and improving dust control to curb exposure.",
+      "summaryTokens": 615,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
+    {
+      "id": "us-news/2025/dec/24/man-dies-ice-custody-wife-deported",
+      "title": "Woman deported before she could see dying husband in ICE custody: ‘I never saw him again’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/24/man-dies-ice-custody-wife-deported",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/24/man-dies-ice-custody-wife-deported",
+      "section": "us-news",
+      "publishedDate": "2025-12-24T12:00:12Z",
+      "trailText": "Francisco Gaspar-Andrés died in El Paso hospital after being detained at Fort Bliss – his wife was deported to Guatemala without a chance to see him",
+      "summary": "Francisco Gaspar-Andrés, 48, became the first death in ICE custody at Fort Bliss’s Camp East Montana when he died Dec. 3 in an El Paso hospital—ICE cites natural liver and kidney failure, an autopsy attributes his death to alcoholic hepatic cirrhosis after 10 weeks of flu-like symptoms, bleeding gums and jaundice but delayed hospitalization. His wife, Lucía Pedro Juan, was deported to Guatemala Nov. 28, never seeing him again. Congressional Democrats, ACLU and advocates decry inhumane conditions and medical neglect, while ICE denies wrongdoing. Representative Veronica Escobar demands oversight and closure; Guatemala’s consulate seeks an investigation.",
+      "summaryTokens": 1462,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
+    },
     {
       "id": "us-news/2025/dec/24/trump-administration-news-updates-today-latest",
       "title": "Trump news at a glance: President claims tariffs behind unexpected growth, but consumer confidence falls",
@@ -29,9 +173,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-24T01:26:21Z",
       "trailText": "The surprisingly strong growth ‘reflected increases in consumer spending, exports and government spending’, according to officials. Key US politics stories from Tuesday 23 December",
-      "summary": "On 23 Dec, Commerce Dept reported Q3 GDP surged 4.3%, fastest in two years, with Trump attributing the unexpected growth to his tariffs on Truth Social. Yet the Conference Board’s consumer confidence gauge fell for a fifth consecutive month—the steepest slump since 2008—complicating the Fed’s policy outlook after three rate cuts. Meanwhile, SCOTUS halted Trump’s attempt to send National Guard troops to Chicago, the DOJ barred VA abortions even in rape/incest, and newly released Epstein files mention Trump. Ex-senator Ben Sasse disclosed terminal pancreatic cancer.",
-      "summaryTokens": 995,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Commerce Dept reports 3Q GDP up 4.3% annualized, fastest in two years, driven by consumer spending, exports and government outlays. Trump credits tariffs on Truth Social for ‘great economic numbers,’ even as consumer confidence falls for a fifth straight month—the longest since 2008—complicating Fed policy post its third rate cut this year. Newly released Epstein files reference Trump’s 1990s flight with Jeffrey Epstein; the Supreme Court blocks his National Guard deployment to Chicago; the VA abortion ban takes effect; former Sen. Ben Sasse discloses terminal cancer and violence against journalists surges.",
+      "summaryTokens": 744,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/kimberlee-singler-extradited",
@@ -41,9 +185,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-24T00:56:53Z",
       "trailText": "Kimberlee Singler was arrested in London in 2023, a week after her daughter, 9, and son, 7, found dead in Colorado",
-      "summary": "Kimberlee Singler, 37, extradited from London to Colorado to face charges of first-degree murder in the December 2023 deaths of her 9-year-old daughter and 7-year-old son. Arrested by the UK National Crime Agency in Kensington four days after the children’s bodies were found in Colorado Springs, Singler also faces counts of attempted murder, child abuse and assault. Her surviving 11-year-old daughter initially supported an intruder defense before alleging her mother claimed divine compulsion. Singler, who fought extradition over a potential life-without-parole sentence, lost appeals in January and November 2025. A judge had ordered her to hand custody to her ex-husband days before the killings amid an ongoing dispute.",
-      "summaryTokens": 895,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Kimberlee Singler, 37, was extradited from London to Colorado to face charges after her 9-year-old daughter and 7-year-old son were found dead on December 19, 2023; her 11-year-old daughter survived with injuries. Arrested by the UK’s National Crime Agency in Chelsea a week later, Singler alleged an unknown intruder attacked the family, a claim later contradicted by her surviving child. Charged with two counts of first-degree murder, one count of attempted murder, three counts of child abuse and one count of assault, Singler fought extradition on human rights grounds—arguing a mandatory life-without-parole sentence violated EU law—but lost appeals in January and November 2025. Days before the killings, a Colorado judge had ordered her to comply with a custody exchange with her ex-husband.",
+      "summaryTokens": 671,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/philadelphia-explosion-nursing-home",
@@ -53,9 +197,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-24T00:27:25Z",
       "trailText": "Five additional people unaccounted for after partial building collapse at Silver Lake center in Bristol Township",
-      "summary": "An explosion tore through Silver Lake healthcare center, a 174-bed nursing home in Bristol Township, just outside Philadelphia, on Dec. 23 around 2:17 pm, collapsing part of the building and killing at least two residents. Five remain unaccounted for and others may be trapped or injured. PECO crews had responded earlier to a reported gas odor and shut off gas and power after the blast. Emergency responders declared a mass-casualty incident amid a plume of black smoke. Investigators suspect a gas explosion pending on-site examination. Local schools serve as reunification centers under Gov. Josh Shapiro’s oversight. Medicare.gov lists the facility’s health-inspection rating as “much below average,” despite a clean fire-safety audit in Sept. 2024.",
-      "summaryTokens": 711,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "On Dec. 23, 2025, a suspected gas explosion at Silver Lake Healthcare Center in Bristol Township, PA, north-east of Philadelphia, collapsed part of the 174-bed nursing home. At least two residents died, five remain unaccounted for, and dozens more may be injured or trapped. Peco crews had reported a gas odor and shut off utilities after responding to the site around 2 p.m. Emergency responders declared a mass casualty incident; a reunification center is set up at Truman High School. Cause under investigation; facility held an overall “much below average” Medicare rating despite passing a Sept. 2024 fire safety inspection.",
+      "summaryTokens": 940,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/24/tiktok-tea-tyme-hit-pedestrian-chicago",
@@ -65,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-24T00:21:03Z",
       "trailText": "Known as Tea Tyme, Tynesha McCarty-Wroten arrested over 3 November death of Darren Lucas in Zion, Illinois",
-      "summary": "Tynesha McCarty-Wroten, 43, known online as Tea Tyme, was arrested for reckless homicide and aggravated use of a communications device after a November 3 livestreamed collision in Zion, Illinois, that killed 59-year-old Darren Lucas. Investigators obtained a screen recording of her TikTok live stream in which she exclaimed “I just hit somebody.” Wroten initially spoke to police at the scene but wasn’t charged until the state’s attorney reviewed the video. Critics condemned her subsequent Cash App fundraiser; Lucas’s family launched a GoFundMe for his widow. TikTok prohibits live driving streams, though green-screen workarounds exist.",
-      "summaryTokens": 1017,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Tynesha McCarty-Wroten, 43, known online as Tea Tyme, was arrested for reckless homicide and aggravated use of a communications device after allegedly livestreaming on TikTok while driving and fatally striking 59-year-old Darren Lucas on Nov. 3 in Zion, Illinois. Surveillance video and forensic phone analysis show she ran a red light despite her claim of having green, then broadcast the crash live. After initially refusing to surrender her phone, she later livestreamed soliciting Cash App donations, drawing public outrage. Lucas’s family has launched a GoFundMe for his widow. TikTok bans in-car livestreams, though users can bypass safety locks.",
+      "summaryTokens": 701,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/supreme-court-blocks-trump-national-guard-chicago",
@@ -77,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T22:15:22Z",
       "trailText": "In a 6-3 decision, the high court sided with a lower court ruling that blocked deployment of troops to the Illinois city",
-      "summary": "In a 6-3 decision, the US Supreme Court upheld Judge April Perry’s injunction blocking the Trump administration from federalizing hundreds of National Guard troops—including a returned Texas contingent—in Chicago to back ICE enforcement amid sustained protests at a Broadview facility, ruling the government failed to demonstrate statutory authority or necessity. Justices Alito, Thomas and Gorsuch dissented. The non-final emergency order follows refusals by lower and appellate courts and may influence parallel suits over domestic troop deployments in DC, Oregon, California and Tennessee.",
-      "summaryTokens": 922,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "The Supreme Court denied the Justice Department’s emergency request to deploy hundreds of National Guard troops to the Chicago area for immigration enforcement amid protests at the Broadview ICE facility. In a 6-3 decision, the majority upheld District Judge April Perry’s October order blocking the deployment, ruling the government had not shown authority to use military forces for domestic law enforcement. Justices Alito, Thomas and Gorsuch dissented. The ruling curbs Trump’s domestic troop deployments and may guide related challenges in DC, Oregon, California and Tennessee.",
+      "summaryTokens": 984,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/trump-flew-alone-on-jet-with-epstein-and-unnamed-20-year-old-files-suggests",
@@ -89,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T21:49:03Z",
       "trailText": "Files also include details about Epstein’s relationship with Larry Summers and apparently fake letter to Larry Nassar",
-      "summary": "In a new Justice Department release of nearly 30,000 pages of Epstein files, an SDNY prosecutor emails that Donald Trump flew on Epstein’s private jet at least eight times from 1993 to 1996—once alone with Epstein and an unnamed 20-year-old woman and on four flights with Ghislaine Maxwell—though no wrongdoing is alleged. The tranche also highlights Epstein’s relationship with Larry Summers, a bogus letter to Larry Nassar, a passport bearing Epstein’s photo under a false Saudi-Arabian alias, inquiries into David Copperfield rape claims, extensive mention of Prince Andrew, and DOJ warnings that sensationalist claims against Trump are baseless. Senate Democrats led by Chuck Schumer demand transparency on potential co-conspirators the DOJ chose not to prosecute.",
-      "summaryTokens": 927,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Justice Department released nearly 30,000 pages of Epstein files, including a January 2020 SDNY email claiming that Donald Trump flew on Epstein’s private jet at least eight times between 1993 and 1996—once alone with Epstein and a 20-year-old woman and four times when Ghislaine Maxwell was aboard. No evidence suggests criminal wrongdoing. Files also document Epstein’s ties to former Treasury secretary Larry Summers, a bogus letter to Larry Nassar, references to Prince Andrew and a fake Saudi passport, allegations involving David Copperfield and FBI raids, and a Senate call for DOJ transparency over unnamed co-conspirators.",
+      "summaryTokens": 960,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/epstein-files-larry-nassar-letter",
@@ -101,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T21:22:02Z",
       "trailText": "Justice department says FBI confirmed letter is fake and lists why it was not deemed genuine by authorities",
-      "summary": "DoJ says FBI confirmed a letter claiming to be from Jeffrey Epstein to Larry Nassar, dated August 2019 and discussing a shared “love of young ladies” and President Trump’s behavior, is fake. Released in the latest tranche of over 4,000 Bureau of Prisons files (first reported by AP in 2023), the document was returned unopened from an Arizona prison. DoJ’s X post cited mismatched handwriting, postal marks and timeline gaps, reminding that released materials may contain unfounded allegations. The ruling comes amid renewed debate over Epstein’s death and Trump’s repeated denials of wrongdoing.",
-      "summaryTokens": 1059,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "DoJ announced an alleged 2019 letter from Jeffrey Epstein to Larry Nassar referencing President Trump’s fondness for ‘young, nubile girls’ is a forgery. The FBI authenticated the document as fake and the DoJ cited signature, postmark and provenance discrepancies. First reported by the AP in 2023 amid 4,000 Bureau of Prisons pages, the letter—postmarked three days after Epstein’s 2019 custodial death—was returned to sender from an Arizona prison. Nassar, serving decades for sexual-abuse convictions, has no known link to Epstein. DoJ stressed that releasing documents under transparency laws doesn’t imply accuracy and rejected other unverified pre-election Trump allegations.",
+      "summaryTokens": 1537,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/trump-administration-abortion-veterans-affairs",
@@ -113,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T20:42:19Z",
       "trailText": "Department of Veterans Affairs says justice department found procedure not to be legally sound",
-      "summary": "Following a December DOJ memo deeming the practice legally unsound, the Trump administration has barred the Department of Veterans Affairs from providing abortions to veterans, including in cases of rape or incest, reversing a 2021 Biden-era policy that had authorized counseling and procedures in those circumstances or when pregnancy endangered a veteran’s health. The reversal, initiated in August and still undergoing rule-making, affects the VA’s 1,300-plus facilities treating 10 million veterans annually. VA guidance preserves care for life-threatening complications, but abortion advocates decry the ban as callous, especially in states with strict abortion restrictions where most female veterans reside.",
-      "summaryTokens": 958,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "The Department of Veterans Affairs, following a Department of Justice memo deeming it “not legally authorized” to provide abortions, has immediately banned all abortion services for veterans—including in rape or incest cases—overturning a Biden-era policy that had allowed counseling and procedures in such circumstances or when pregnancy threatened a veteran’s health. The 1,300-facility VA network treating nearly 10 million veterans annually is processing rollback paperwork filed in August now in the rule-making process. Internal VA guidance preserves only life-saving interventions (e.g., ectopic pregnancies). Democracy Forward condemned the ban as callous. Over half of female veterans live in states that ban abortion.",
+      "summaryTokens": 1012,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/latest-epstein-files-andrew-asking-ghislaine-maxwell-inappropriate-friends",
@@ -125,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T19:30:49Z",
       "trailText": "Documents give further insight into former royal’s ties to sex offender and raise fresh questions for Donald Trump",
-      "summary": "Documents from the Justice Department’s largest Epstein files release include 2001-02 emails between Ghislaine Maxwell and a correspondent signing off as “A,” writing from Balmoral, widely interpreted as Prince Andrew. They show him asking Maxwell to find “inappropriate friends,” arranging trips to Peru via intermediary Juan Esteban Ganoza to meet discreet young women of “good families,” and referencing his RN departure and his late valet. The files also detail FBI interest in Andrew’s ties to another accused sex offender, Peter Nygård; British police inquiries; US lawyers disputing factual inaccuracies; and multiple Trump-Epstein flight claims. Andrew denies the allegations and faces renewed pressure to cooperate.",
-      "summaryTokens": 831,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Newly released DOJ files reveal emails from 2001–02 in which Prince Andrew (signed “A” from Balmoral) asks Ghislaine Maxwell to arrange meetings with “inappropriate friends” and discreet young women via fixer Juan Esteban Ganoza. The tranche also shows FBI interest in Andrew’s links to Epstein and Peter Nygard, US lawyers disputing inaccuracies in his statements, references to Donald Trump on flights with Epstein, and recoverable redactions. Under growing pressure and stripped of titles, Andrew denies wrongdoing while UK and US leaders urge his cooperation in investigations.",
+      "summaryTokens": 424,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/the-valet-the-burnt-toast-and-the-trip-to-peru-evidence-that-suggests-andrew-link-to-ghislaine-maxwell-emails",
@@ -137,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T18:01:49Z",
       "trailText": "Documents released in relation to Jeffrey Epstein contain emails between Maxwell and an individual signing off as ‘A’ and ‘The Invisible Man’",
-      "summary": "Newly released DOJ documents include emails from August 2001 to March 2002 between Ghislaine Maxwell and ‘A’/‘The Invisible Man’, whose references to Balmoral events (a burnt-toast fire scare, breakfasts with Beatrice and Eugenie), the death of a long-serving valet days after Prince Andrew left the Royal Navy, and a planned Peru trip (Nazca Lines arranged via Juan Esteban Ganoza) align with public records of Andrew Mountbatten-Windsor. Maxwell’s and ‘A’s messages discuss ‘inappropriate friends’, royal activities, and discreet sightseeing. Though never named, contextual details bolster claims the correspondent is then-working royal Prince Andrew, who denies wrongdoing.",
-      "summaryTokens": 1241,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Documents from the DOJ reveal 2001–02 emails between Ghislaine Maxwell and a correspondent signing as “A” or “The Invisible Man,” whose references—to ‘inappropriate friends’, Balmoral’s burnt-toast fire scare, valet Michael Perry’s death and a Peru trip to the Nazca Lines—match Prince Andrew’s itinerary. Maxwell names him directly and forwards contacts for “Andrew” in Lima. Andrew has denied all accusations, but these exchanges deepen scrutiny of his relationship with Jeffrey Epstein’s circle.",
+      "summaryTokens": 1445,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/epstein-unredacted-files-social-media",
@@ -149,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T17:40:49Z",
       "trailText": "Un-redacted text from released documents began circulating on social media on Monday evening",
-      "summary": "After DOJ released Epstein case files, researchers found redactions undone via Photoshop or text highlighting, and un-redacted passages began circulating on social media. A Virgin Islands civil suit exhibit against estate executors Darren Indyke and Richard Kahn reveals Indyke approved over $400,000 in payments to underage models and details of sex-trafficking concealment—paying witnesses, threatening victims, destroying evidence. Other sections expose shell companies hiding property taxes. The 2022 $105 million settlement included no liability admission. Lawyers question compliance with the new Epstein Files Transparency Act; DOJ hasn’t responded.",
-      "summaryTokens": 805,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Independent analysts found that redactions in DOJ-released Jeffrey Epstein documents can be undone via Photoshop layer adjustments or text highlighting, and unredacted allegations began circulating on social media December 23. The exhibit from a Virgin Islands civil suit against estate executors Darren K. Indyke and Richard D. Kahn reveals schemes to funnel over $400,000 to underage models, conceal sex-trafficking crimes with hush payments, threats and evidence destruction. The 2022 settlement totaled $105 million plus island‐sale proceeds. The new Epstein Files Transparency Act allows DOJ redactions, but unanswered inquiries question consistency with the law.",
+      "summaryTokens": 359,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/washington-state-warning-toilet-rats",
@@ -161,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T16:38:58Z",
       "trailText": "Tips include flushing rat, squirt soap into toilet or if the rat is too large close toilet lid and call pest control",
-      "summary": "Residents in Washington state face unexpected toilet-invading rats after severe flooding swept rodents into sewer systems. Seattle and King County Public Health Department Facebook post urges calm and outlines safety tips: flush small rats, squirt dish soap to grease their path, or, if too large, close the lid and call pest control. Officials warn that rats are strong swimmers, can hold breath for minutes, and squeeze through dilapidated pipes, especially in older buildings. Such encounters trigger musophobia and occur more often after heavy rain. This month’s record rains forced thousands to evacuate, inundated homes, washed away roads and caused landslides.",
-      "summaryTokens": 871,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Following record December floodwaters that inundated homes, washed away roads and forced thousands to evacuate, Seattle and King County Public Health warned rodents may surface in toilets. In a Facebook post they advised residents to stay calm; flush small rats or add dish soap to grease their path; and if a rat is too large, close the lid and call pest control. Strong swimmers with slender bodies, rats exploit dilapidated pipes in older buildings during heavy rainfall.",
+      "summaryTokens": 643,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/ben-sasse-pancreatic-cancer",
@@ -173,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T16:31:11Z",
       "trailText": "Sasse, who is 53 and voted to impeach Trump, says he has ‘metastasized, stage-four pancreatic cancer’",
-      "summary": "Former Nebraska Republican Senator Ben Sasse, 53, announced via X that he has terminal stage-four metastatic pancreatic cancer, calling it a “death sentence.” Sasse, who served from 2015 to 2023 and was one of seven Republicans to vote to impeach Donald Trump in 2021, said the diagnosis is hard for “someone wired to work” and “as a husband and dad.” A Christian married father of three, he framed the news in the season of Advent. Pancreatic cancer strikes about 67,000 Americans annually, with roughly 51,000 deaths.",
-      "summaryTokens": 481,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Ben Sasse, 53, former Republican senator from Nebraska (2015–23) and one of seven GOP members who voted to impeach Donald Trump in 2021, announced on X that he’s been diagnosed with metastatic, stage-four pancreatic cancer, calling it a “death sentence.” A Harvard, Oxford and Yale PhD in history, Sasse warned of the impact on his wife and three children. In his farewell Senate speech he criticized political extremes on both left and right. As a Christian, he framed the news in the Advent season. Pancreatic cancer strikes 67,000 Americans yearly, killing about 51,000.",
+      "summaryTokens": 555,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/jes-staley-larry-summers-made-executors-will-jeffrey-esptein-estate-files-reveal",
@@ -185,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T16:02:24Z",
       "trailText": "Former Barclays boss and ex-US Treasury secretary named in versions of will of convicted child sex offender",
-      "summary": "DOJ filings show Jeffrey Epstein’s 2012–14 wills appointed ex-Barclays CEO Jes Staley and former Treasury secretary Larry Summers as executors. Staley was a successor executor in 2012 and a full executor by 2014; Summers appears only in 2014. Neither is in the final 2019 will. Epstein died in prison in August 2019. The disclosures intensify scrutiny: Staley was banned from UK banking after an FCA probe flagged a close relationship, and Summers, who left Harvard, denies involvement.",
-      "summaryTokens": 2215,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Newly released DOJ filings show former Barclays CEO Jes Staley and ex-Treasury Secretary Larry Summers were named executors in earlier versions of Jeffrey Epstein’s will: Staley as successor executor in 2012 and full executor in 2013–14, Summers as successor executor in 2014. Neither appears in the 2019 will. Epstein died awaiting trial in August 2019. Both men deny active involvement—Staley says he refused the role, Summers claims he was unaware of his inclusion. The revelations intensify scrutiny: Staley was banned from UK banking in 2023 after stepping down in 2021; Summers left Harvard in 2024 after document leaks.",
+      "summaryTokens": 2435,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/afghans-deportation-trump",
@@ -197,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T15:00:45Z",
       "trailText": "The very same immigrants welcomed to the US after risking their lives to fight the Taliban now fear detention or worse",
-      "summary": "Ali, 25, an Afghan air-force pilot who evacuated Kabul in August 2021 after fighting alongside US forces, now lives in Boise driving for Uber while training to be a commercial pilot. After a DC shooting by an Afghan evacuee, the Trump administration paused Afghan asylum and visa processing, froze green cards, halted special immigrant visas and ramped up ICE detentions. Legal advocates warn these sweeping measures punish an entire nationality and jeopardize thousands who risked their lives for the US. Ali fears he could lose status, be deported to Taliban-controlled Afghanistan and be unable to reunite with his family and fiancée.",
-      "summaryTokens": 1256,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Afghan pilot Ali, who fled Kabul on a US C-17 and now works as an Uber driver in Idaho, and thousands of other evacuees brought by Operation Allies Welcome face abrupt Trump administration measures pausing asylum and green-card processes, suspending special immigrant visas and expanding travel bans. Advocates warn these policies punish all Afghans for isolated acts, erode trust in US wartime commitments, expose families to ICE raids and undermine America’s promise to allies. Ali, granted asylum and awaiting a green card, fears deportation and separation from relatives still under Taliban rule, highlighting a betrayal of those who served America.",
+      "summaryTokens": 2477,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/epstein-files-email-a-balmoral-ghislaine-maxwell-inappropriate-friends",
@@ -209,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T15:00:44Z",
       "trailText": "Epstein files reveal messages between his accomplice and a man who appears to be Andrew Mountbatten-Windsor",
-      "summary": "Newly released emails from 2001–02 between Ghislaine Maxwell and “A”, who identifies himself at Balmoral and appears to be former Prince Andrew, discuss arranging “inappropriate friends” and meetings with young women. Messages reference Andrew’s recent departure from the Royal Navy, Balmoral Summer Camp, and a Peru trip via intermediary Juan Esteban Ganoza to organize “girls.” US lawyers noted factual inaccuracies in Andrew’s accounts. The Metropolitan Police also queried the FBI on potential investigations. Buckingham Palace and Andrew deny wrongdoing; files alone don’t imply guilt.",
-      "summaryTokens": 804,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Newly released 2001–02 emails show Ghislaine Maxwell exchanging messages with “A,” writing from Balmoral—widely presumed to be Prince Andrew—urging her to find “inappropriate friends” after his Royal Navy departure. In August 2001, “A” complains of exhaustion at Balmoral Summer Camp and teases Maxwell for only locating “appropriate” companions. A 2002 thread forwards correspondence about a Peru trip organized by Maxwell and Juan Esteban Ganoza, including setting up meetings with girls and sharing Andrew’s phone number. Subsequent documents reveal US lawyers highlighting inaccuracies in Andrew’s Epstein accounts, a public dispute over his DOJ cooperation, and a Metropolitan Police inquiry to the FBI on alleged efforts to dig up dirt on Virginia Giuffre. There is no suggestion that mere mention constitutes wrongdoing.",
+      "summaryTokens": 665,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/rare-squirrels-set-free-together",
@@ -221,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T15:00:00Z",
       "trailText": "Big Cypress fox squirrels released as a pair to reduce stress and support natural behaviors during return to the wild",
-      "summary": "Two juvenile Big Cypress fox squirrels, a threatened Florida species not treated in the decade before, spent 56 and 74 days at the Conservancy of Southwest Florida’s von Arx wildlife hospital and were released together near their original nest in high-quality pine-cypress habitat. Orphaned and injured in nest falls, they bonded during treatment, received special diets and simulated wild enclosures to develop climbing, foraging and nut-cracking skills. Released as a duo to reduce stress and support natural behaviors, one sports a rare melanistic black-and-white coat.",
-      "summaryTokens": 1371,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Two juvenile Big Cypress fox squirrels, a threatened species unseen by the Conservancy of Southwest Florida in over a decade, fell from nests and spent 56 and 74 days at von Arx wildlife hospital. Under associate director Lauren Barkley, they bonded, received special diets, and practiced climbing, foraging and nut-cracking in an outdoor enclosure. Released together into prime pine-cypress habitat near their natal nest to reduce stress and bolster wild behaviors, one displays a rare melanistic black-and-white coat.",
+      "summaryTokens": 1613,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/mauritanian-immigrants-ohio-face-deportations",
@@ -233,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T13:00:43Z",
       "trailText": "A growing group has found community around Cincinnati. Trump’s ICE crackdown threatens to send them back to Mauritania, rife with human rights problems",
-      "summary": "Since 2023 thousands of Mauritanian asylum seekers have settled in Lockland, Ohio, forming a 3,500-strong community drawn by affordable housing and entry-level jobs. Many endured perilous routes through Turkey, Colombia and the Darién Gap. Under the Trump ICE crackdown, at least 90 have been deported and over 19,000 court cases linger—second only to Senegal. Deportees face return to a country where slavery persists and Black Mauritanians endure severe racism. Local services strain under crowded housing, yet nonprofits like Queen City Bike aid immigrants fearful their next check-in could seal removal.",
-      "summaryTokens": 622,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Mauritanian asylum seekers, including musician Khalidou Sy, have formed a growing community in Lockland, Ohio, after perilous 15-day journeys via Central America. Fleeing a segregated, Arab-Berber–ruled Mauritania—last to abolish slavery with 149,000 still held and rising Fulani persecution—they face deportations under Trump’s ICE expansion, with 19,000 cases pending and at least 90 returned since 2021. Strained local housing, jobs and services and right-wing backlash contrast with rising work-permit use, car ownership and volunteer aid from groups like Queen City Bike. Families await asylum decisions amid fear of check-ins, detentions and forced repatriation.",
+      "summaryTokens": 1664,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/cop-city-atlanta-police-case",
@@ -245,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T13:00:42Z",
       "trailText": "US government continues holding on to huge amounts of seized personal property, from diaries to cellphones",
-      "summary": "Georgia’s historic racketeering case under RICO against 61 protestors opposing the $109m Cop City training center remains unresolved after a judge missed a deadline to formalize the September dismissal. The state continues to hold over 100 digital devices, hard drives, diaries and personal items—including “Tortuguita” Paez Terán’s diary and login devices—despite defense demands for their return. With 14 TB of evidence, families and organizers like the Atlanta Solidarity Fund lack critical bail records, photos and correspondence. Critics say this prolonged seizure exemplifies state overreach, attempting to stifle dissent ahead of an appeal by AG Chris Carr.",
-      "summaryTokens": 876,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Georgia’s unprecedented RICO case against 61 protesters opposing the $109m Cop City police training center remains unresolved three years on after a judge failed to file a written ruling dismissing felony conspiracy charges. Meanwhile the state continues to hold over 100 devices—cellphones, laptops, hard drives—plus diaries, letters, health records and bail-fund receipts, including the diary of slain activist Manuel “Tortuguita” Paez Terán and intimate materials from the Atlanta Solidarity Fund. Defendants’ lawyers condemn this mass seizure as government overreach and an “air of repression.”",
+      "summaryTokens": 1052,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/us-trump-administration-signs-security-deals-across-latin-america",
@@ -257,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T12:59:29Z",
       "trailText": "Venezuela’s Nicolás Maduro warns Trump administration may ‘destabilise the entire region’ amid rising tensions",
-      "summary": "In late 2025 the Trump administration quietly finalized security pacts with Paraguay (for joint anti-narcoterror operations), Ecuador (temporary US air force deployment despite a referendum rejecting foreign bases), Peru (authorizing armed US personnel), Trinidad and Tobago (airport access and a radar system) and others including Guyana, the Dominican Republic and Panama. Branded as a “war on drugs,” critics call it “gunboat diplomacy on steroids” aimed at encircling Venezuela, seizing energy reserves and laying groundwork for airstrikes under a “Trump Corollary” to the Monroe Doctrine, risking regional destabilization, warns Maduro.",
-      "summaryTokens": 1008,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "While ramping up a military campaign against Venezuela, the Trump administration has quietly inked security pacts this week with Paraguay, Ecuador, Peru and Trinidad and Tobago—granting airport access, US radar installations and temporary troop deployments under a “war on drugs” pretext. Observers see these moves, alongside deals with Guyana, the Dominican Republic and Panama and US bases in Puerto Rico, Honduras and Cuba, as part of a new “Trump Corollary” to the Monroe Doctrine aimed at securing energy reserves and positioning forces. Caracas denounces this “gunboat diplomacy on steroids,” warning that expanded US footprints risk destabilizing the entire region.",
+      "summaryTokens": 561,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/us-citizens-ice-passports",
@@ -269,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T12:00:41Z",
       "trailText": "Across the US, people have been carrying their passports amid reports of ICE detaining citizens. Five people explain what living this reality is like",
-      "summary": "Following December 2025 immigration raids, US citizens—many Latino or visibly Muslim—now carry passports to avoid wrongful ICE detentions. In Minneapolis, Somali-American nurse Munira Maalimisaq equips her clinic with telehealth and safe rides as patients present passports instead of IDs. In Kenner, landscaper Walter Cruz Perez stores his passport in a ziplock on jobs. Puerto Rican educator Carola Lopez, LA aquarium technician Miguel Rios and anonymous SoCal teacher Ana all describe heightened anxiety, canceled plans and fear that speaking Spanish or looking foreign can provoke deportation sweeps.",
-      "summaryTokens": 861,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Amid nationwide ICE raids under the second Trump administration, US citizens across ethnic communities now carry passports daily to prove citizenship and avoid wrongful detention. In Minneapolis, Somali-American nurse Munira Maalimisaq began holding her passport at her clinic to reassure patients; in Kenner, Louisiana, landscaper Walter Cruz Perez stashes his in a weatherproof phone case; educator Carola Lopez, a Puerto Rican-American,’s long-held practice of keeping her passport continues; Los Angeles maintenance worker Miguel Rios carries copies after colleagues’ detentions; and in Southern California, teacher Ana follows a high-profile ICE kidnapping of a citizen. All report heightened anxiety, disrupted routines and activism to defend civil rights.",
+      "summaryTokens": 564,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/first-thing-number-of-people-in-ice-detention-hits-record-high",
@@ -281,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T11:18:08Z",
       "trailText": "Administration has arrested 328,000 and deported 327,000 people. Plus, Bethlehem in the Israeli-occupied West Bank celebrates Christmas again",
-      "summary": "ICE holds a record 68,400+ migrants as of Dec 14, 2025, surpassing early-December’s peak; the administration has arrested 328,000 and deported nearly 327,000, with non-criminal migrants now the largest detention group. Despite rhetoric focusing on 'the worst of the worst,' being undocumented remains a civil, not criminal infraction. Communities are mobilizing to block raids and deliver groceries. Meanwhile, Bethlehem in the Israeli-occupied West Bank celebrated Christmas for the first time in three years since the Gaza war erupted. Plus coverage of Trump’s Epstein-file complaints, Senate Dems’ DOJ resolution, and China/Russia backing Venezuela against U.S. oil-tanker seizures.",
-      "summaryTokens": 1857,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "ICE’s biweekly data published Dec. 14 shows 68,400 immigrants in US detention—a new all-time high, surpassing the early-December record. Since inauguration, the administration has arrested over 328,000 people and deported nearly 327,000, yet migrants with no criminal convictions—who face only civil infractions for undocumented status—now constitute the largest detained group, contradicting vows to target “the worst” offenders. As detention capacity strains, grassroots coalitions in multiple states are organizing mutual-aid networks, staging blockade actions to thwart raids and distributing emergency groceries to affected families. Civil rights groups warn the surge violates due process and are mounting legal challenges against expanded detention policies.",
+      "summaryTokens": 2113,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/violence-against-journalists-increase-trump",
@@ -293,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T11:00:41Z",
       "trailText": "The US press have suffered about as many assaults this year as in the previous three years combined",
-      "summary": "The Freedom of the Press Foundation says US journalists faced 170 verified assaults by law enforcement at immigration protests in 2025—almost equal to the 175 attacks recorded from 2022–24 combined. Most occurred under Operation Midway Blitz’s six-week Chicago crackdown. Press advocates link the rise to Trump’s anti-media rhetoric and increased civil unrest, though direct causation is debated. Photographers Nick Stern and Raven Geary, among others, suffered serious injuries and have filed lawsuits. A federal court has barred police from using force against identified journalists without probable cause.",
-      "summaryTokens": 1187,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "Since Trump’s return to office, verified assaults on US journalists have spiked: 170 attacks by law enforcement at immigration protests as of mid-December 2025—nearly equalling the 175 incidents from 2022–24 combined. Freedom of the Press Foundation attributes the rise to both increased civil unrest coverage and anti-media presidential rhetoric that frames reporters as combatants. Notable episodes include 34 assaults during “Operation Midway Blitz” in Chicago and multiple lawsuits over baton strikes, pepper balls, and explosive munitions injuring freelance photographers and staff. Advocates warn this pattern normalises aggression against news gatherers.",
+      "summaryTokens": 939,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/trump-complains-epstein-files-are-damaging-people-who-innocently-met-him",
@@ -305,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T02:17:18Z",
       "trailText": "In his first comments since the release, the president expressed sympathy for high-profile figures, including Bill Clinton, who have come under scrutiny",
-      "summary": "President Trump, in his first comments after the Justice Department began publishing Jeffrey Epstein case files under the EFTA, decried how photos of those who “innocently met” Epstein—like Bill Clinton and Harvard’s Larry Summers—could ruin reputations. Speaking from Mar-a-Lago, he called the files a “hoax” and a Democratic ploy to distract from GOP achievements, while lamenting selective release. Meanwhile survivors and Congress demand all materials, and Clinton’s spokesperson accuses the DOJ of protecting unspecified individuals.",
-      "summaryTokens": 744,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "At Mar-a-Lago, President Trump criticized the Justice Department’s partial release of Jeffrey Epstein files, claiming publicly distributed photos unfairly tarnish those who “innocently met” Epstein—citing Bill Clinton, Harvard’s Larry Summers and unnamed bankers and lawyers. He blamed Democrats for pushing the disclosures, framed them as a GOP distraction, and dismissed the files as a “hoax.” Mandated by the nearly unanimous Epstein Files Transparency Act, only one batch has emerged, prompting survivor and congressional outcry. Clinton spokesperson Angel Urena accused the DOJ of selective leaks implying wrongdoing and demanded full release of all Clinton-related documents and images.",
+      "summaryTokens": 951,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/donald-trump-administration-news-updates-today-latest",
@@ -317,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T01:29:09Z",
       "trailText": "Donald Trump is on a naming spree; Schumer asks Senate to back legal action over partial Epstein files release – key US politics stories from Monday 22 December at a glance",
-      "summary": "President Trump announced a slate of two 'Trump-class' next-gen battleships, to expand to 20–25 vessels named after himself, marking a break from tradition. Senate Dem leader Schumer will seek legal action over partial release of Epstein files. The administration recalled nearly 30 ambassadors to elevate loyalists. CBS pulled a 60 Minutes probe on El Salvador’s Cecot prison. Interior paused five offshore windfarm leases citing national security. ICE detention hit a record 68,400. DOJ froze $90 m for trafficking survivor groups. Plus a Danish/Greenland border spat, Ellison’s $40 bn Paramount bond, and a $12 bn farm aid plan critics say falls short.",
-      "summaryTokens": 1088,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "President Trump broke naming convention by ordering a “Trump-class” fleet of 20–25 next-generation battleships—bigger, faster, 100× more powerful, including two USS Defiant ships hailed by Navy secretary John Phelan as ensuring American victory at sea. Developments: Senate leader Schumer plans a resolution to force DOJ to release full Epstein files; the administration recalled ~30 ambassadors to install loyalists; CBS pulled a 60 Minutes probe on El Salvador’s Cecot prison; DOI halted five offshore wind projects over military radar risks; ICE detention hit a record 68,400; DOJ paused $90 million in anti-trafficking grants.",
+      "summaryTokens": 4485,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/23/trump-administration-recalls-30-ambassadors-promote-loyal-diplomats",
@@ -329,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T00:37:39Z",
       "trailText": "Move comes as union representing US diplomats said it was ‘deeply concerned’ by the process, which could ‘politicise’ foreign service",
-      "summary": "According to diplomatic sources, the Trump administration has quietly recalled almost 30 career ambassadors and senior envoys—mainly in Africa, the Middle East and parts of Europe—reassigning rather than dismissing them to promote loyal appointees aligned with the “America First” agenda. The move, first flagged by Politico and AP, drew fierce criticism from the American Foreign Service Association and Senate Democrats as politicising a traditionally apolitical service, penalising former administration officers, skewing promotions and weakening U.S. influence against rivals like China and Russia.",
-      "summaryTokens": 993,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "The Trump administration quietly recalled nearly 30 career ambassadors and senior diplomats—primarily in Africa (including Niger, Uganda, Senegal, Somalia, Côte d’Ivoire, Mauritius, Nigeria, Gabon, Congo, Burundi, Cameroon, Rwanda), plus posts in Egypt, Algeria, Slovakia, Montenegro, Armenia and North Macedonia—and plans to reassign them while promoting officials loyal to its “America First” agenda. The American Foreign Service Association and affected officers warn the unprecedented purge and revised promotion criteria politicize an apolitical foreign service, penalize dedicated career staff and risk undermining U.S. diplomatic leadership amid soaring vacancies.",
+      "summaryTokens": 493,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/22/trump-new-navy-warships",
@@ -341,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-23T00:13:58Z",
       "trailText": "President says the ships will be bigger, faster and a hundred times more powerful than any previous US-built warship",
-      "summary": "President Donald Trump unveiled a new “Trump-class” battleship program at Mar-a-Lago, promising vessels bigger, faster and “100 times more powerful” than any before. Starting with two ships—USS Defiant is the prototype—he aims to build 20–25 hypersonic-armed, laser-equipped warships carrying nuclear sea-launched cruise missiles and massive guns modeled on the Iowa class. Navy Secretary John Phelan called them “game-changers” for U.S. maritime dominance. Critics see the self-eponymous naming as part of Trump’s branding spree.",
-      "summaryTokens": 943,
-      "generatedAt": "2025-12-24T04:23:50.220Z"
+      "summary": "At Mar-a-Lago on Dec 22, President Trump unveiled plans for a “Trump-class” battleship series—two initial vessels, eventually 20–25—boasting bigger size, faster speed and 100× more firepower than any previous US warship, led by the prototype USS Defiant. Navy secretary John Phelan highlighted hypersonic weapons, high-power lasers and nuclear-armed sea-launched cruise missiles, declaring American victory at sea inevitable. Critics decry this naming and recent renamings of federal institutions as part of a broader narcissistic spree.",
+      "summaryTokens": 731,
+      "generatedAt": "2025-12-25T03:51:27.753Z"
     },
     {
       "id": "us-news/2025/dec/22/california-storms-flooding-atmospheric-river",
