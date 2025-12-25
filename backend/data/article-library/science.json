@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-12-24T04:01:28.992Z",
+    "generated_at": "2025-12-25T03:43:26.822Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-23"
+      "to": "2025-12-24"
     },
-    "article_count": 150,
+    "article_count": 152,
     "merge_info": {
-      "previous_count": 145,
-      "new_articles": 5,
-      "updated_articles": 0,
-      "total_count": 150
+      "previous_count": 150,
+      "new_articles": 2,
+      "updated_articles": 1,
+      "total_count": 152
     },
     "batch_info": {
-      "initial_batch_id": "batch_694b64f666188190a6fd2ecd3de23052",
+      "initial_batch_id": "batch_694cb28751708190beb6744f3a2879e7",
       "retry_batches": [],
-      "total_tokens": 7333,
+      "total_tokens": 4960,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/dec/24/cracker-jokes-chemistry-of-custard-smuggle-science-into-christmas",
+      "title": "Cracker jokes and custard chemistry: ways to smuggle science into Christmas",
+      "webUrl": "https://www.theguardian.com/science/2025/dec/24/cracker-jokes-chemistry-of-custard-smuggle-science-into-christmas",
+      "apiUrl": "https://content.guardianapis.com/science/2025/dec/24/cracker-jokes-chemistry-of-custard-smuggle-science-into-christmas",
+      "section": "science",
+      "publishedDate": "2025-12-24T09:00:06Z",
+      "trailText": "Researchers share the easy ways to uncover moments of festive discovery, proving you don’t need a lab coat to experiment this Christmas",
+      "summary": "Researchers suggest simple festive experiments: blind-chew sweets or onion–apple pairs with nose-clamped to reveal smell’s dominant role in flavor; measure laughter at cracker jokes alone versus in groups to illustrate social contagion; dissect a roast turkey or simmer its carcass to expose wing bones and wishbone mechanics; make ice cream in sealable bags of custard, ice and salt to demonstrate freezing-point depression; scatter equal-length pine needles on lined paper and apply Buffon’s Pine Needles formula (π≈2LT/CW) to approximate π statistically. These playful activities smuggle science into Christmas without lab coats.",
+      "summaryTokens": 877,
+      "generatedAt": "2025-12-25T03:43:26.711Z"
+    },
+    {
+      "id": "science/2025/dec/24/richard-fishacre-medieval-oxford-friar-planets-stars-terrawatch",
+      "title": "The medieval Oxford friar who worked out the makeup of planets and stars ",
+      "webUrl": "https://www.theguardian.com/science/2025/dec/24/richard-fishacre-medieval-oxford-friar-planets-stars-terrawatch",
+      "apiUrl": "https://content.guardianapis.com/science/2025/dec/24/richard-fishacre-medieval-oxford-friar-planets-stars-terrawatch",
+      "section": "science",
+      "publishedDate": "2025-12-24T06:00:03Z",
+      "trailText": "Richard Fishacre used his knowledge of light and colour to argue against ‘fifth element’ theories of the day",
+      "summary": "About 800 years ago, Richard Fishacre, a Dominican friar at Oxford, challenged the prevailing four-element plus a fifth heavenly element theory by applying his insight into light and colour. He argued that the opaque red of Mars, yellow of Venus and blue-white of the Moon indicated they shared terrestrial elements like earth, water, air and fire rather than a transparent quintessence. Although criticized then, his approach prefigures modern spectroscopy: instruments like the James Webb Space Telescope now use colour and brightness shifts to identify exoplanetary atmospheres rich in water and sulphur dioxide, as on TOI-421b.",
+      "summaryTokens": 430,
+      "generatedAt": "2025-12-25T03:43:26.711Z"
+    },
     {
       "id": "science/2025/dec/23/scientists-create-replica-human-womb-lining-and-implant-early-stage-embryos",
       "title": "Scientists create replica human womb lining and implant early-stage embryos",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-12-23T16:00:46Z",
       "trailText": "Studying chemical chatter as tiny balls of cells embed could shine a light on early pregnancy and glitches that lead to miscarriage",
-      "summary": "Researchers at Cambridge’s Babraham Institute engineered a human endometrial lining in vitro by embedding patient-derived stromal cells in hydrogel and layering epithelial cells on top. Donated IVF embryos attached, implanted and secreted hCG and other pregnancy markers. Scientists monitored cultures up to the 14-day legal limit, decoding molecular crosstalk and early placental cell formation. This model illuminates why half of embryos fail implantation, offers a platform to test signalling interventions to boost IVF success and complements parallel Chinese drug-screening studies for recurrent implantation failure.",
-      "summaryTokens": 549,
-      "generatedAt": "2025-12-24T04:01:28.895Z"
+      "summary": "Using uterine biopsies from donors, researchers at Cambridge’s Babraham Institute built a 3D endometrial model by embedding stromal cells in hydrogel and overlaying epithelial cells. Day-6 IVF embryos implanted, secreted hCG, and initiated placental precursors, allowing mapping of embryo–lining molecular crosstalk over 14 days. Disrupting a key signal impaired placental tissue formation. A Chinese team replicated the model and identified compounds to rescue recurrent implantation failure. This platform promises insights into implantation failure and new approaches to boost IVF success rates.",
+      "summaryTokens": 552,
+      "generatedAt": "2025-12-25T03:43:26.711Z"
     },
     {
       "id": "science/2025/dec/22/did-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
