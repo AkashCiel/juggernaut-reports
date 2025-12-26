@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2025-12-25T03:43:26.822Z",
+    "generated_at": "2025-12-26T03:37:22.990Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-24"
+      "to": "2025-12-25"
     },
-    "article_count": 152,
+    "article_count": 154,
     "merge_info": {
-      "previous_count": 150,
+      "previous_count": 152,
       "new_articles": 2,
-      "updated_articles": 1,
-      "total_count": 152
+      "updated_articles": 2,
+      "total_count": 154
     },
     "batch_info": {
-      "initial_batch_id": "batch_694cb28751708190beb6744f3a2879e7",
+      "initial_batch_id": "batch_694e02a5c0108190ad503b1e89ed0620",
       "retry_batches": [],
-      "total_tokens": 4960,
+      "total_tokens": 7856,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2025/dec/25/nosy-researchers-quest-to-map-the-worlds-smellscapes",
+      "title": "Nosy researcher’s quest to map the world’s ‘smellscapes’",
+      "webUrl": "https://www.theguardian.com/science/2025/dec/25/nosy-researchers-quest-to-map-the-worlds-smellscapes",
+      "apiUrl": "https://content.guardianapis.com/science/2025/dec/25/nosy-researchers-quest-to-map-the-worlds-smellscapes",
+      "section": "science",
+      "publishedDate": "2025-12-25T17:00:45Z",
+      "trailText": "We can share images and sounds, so why not smells? Dr Kate McLean-MacKenzie hopes her new atlas will make scents",
+      "summary": "Designer and researcher Dr Kate McLean-MacKenzie at University of Kent has published an atlas mapping 40 urban “smellscapes” gathered since 2011. Using volunteer “smell walks” in cities from Glasgow to Kolkata, participants record olfactory cues—type, intensity, duration, valence and personal associations. McLean-MacKenzie then creates visual maps and cultural narratives, capturing ephemeral scents like New York’s “stale beer of shattered dreams.” These impressionistic maps document how smells define place and could become future historical records as environments evolve. She hopes the atlas prompts readers to engage their sense of smell, fostering empathy for diverse sensory experiences.",
+      "summaryTokens": 948,
+      "generatedAt": "2025-12-26T03:37:22.866Z"
+    },
+    {
+      "id": "science/2025/dec/25/concerns-ageing-society-ignore-opportunities-says-population-expert",
+      "title": "Concerns about ageing society ignore huge opportunities, says population expert",
+      "webUrl": "https://www.theguardian.com/science/2025/dec/25/concerns-ageing-society-ignore-opportunities-says-population-expert",
+      "apiUrl": "https://content.guardianapis.com/science/2025/dec/25/concerns-ageing-society-ignore-opportunities-says-population-expert",
+      "section": "science",
+      "publishedDate": "2025-12-25T12:00:40Z",
+      "trailText": "Sarah Harper says society must create new ways of living and working amid potential ‘silver economy’",
+      "summary": "Prof Sarah Harper of Oxford says falling fertility and ageing populations are inevitable but bring a “silver economy” of healthy, educated adults aged 50–70. Rather than fearing more retirees, societies should redesign institutions with flexible work, retraining, and equitable health and education to harness this cohort’s creativity. With two-thirds of countries below replacement fertility, future demographics will resemble a skyscraper, not a pyramid. Harper urges quality childcare, housing, gender equality to support those who choose children, acceptance of childfree women, and pension reform linking benefits to contributions, drawing parallels to women’s workforce integration.",
+      "summaryTokens": 553,
+      "generatedAt": "2025-12-26T03:37:22.866Z"
+    },
     {
       "id": "science/2025/dec/24/cracker-jokes-chemistry-of-custard-smuggle-science-into-christmas",
       "title": "Cracker jokes and custard chemistry: ways to smuggle science into Christmas",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2025-12-24T09:00:06Z",
       "trailText": "Researchers share the easy ways to uncover moments of festive discovery, proving you don’t need a lab coat to experiment this Christmas",
-      "summary": "Researchers suggest simple festive experiments: blind-chew sweets or onion–apple pairs with nose-clamped to reveal smell’s dominant role in flavor; measure laughter at cracker jokes alone versus in groups to illustrate social contagion; dissect a roast turkey or simmer its carcass to expose wing bones and wishbone mechanics; make ice cream in sealable bags of custard, ice and salt to demonstrate freezing-point depression; scatter equal-length pine needles on lined paper and apply Buffon’s Pine Needles formula (π≈2LT/CW) to approximate π statistically. These playful activities smuggle science into Christmas without lab coats.",
-      "summaryTokens": 877,
-      "generatedAt": "2025-12-25T03:43:26.711Z"
+      "summary": "Researchers outline simple home experiments to explore flavor, humour, anatomy, chemistry and math during Christmas. Zoologist Matthew Cobb demonstrates smell’s role in taste with blindfolded jellybean and onion-versus-apple tests. Cognitive neuroscientist Sophie Scott reveals laughter’s social contagion by comparing reactions to cracker jokes alone versus in groups. Palaeontologist Steve Brusatte and anatomist Sue Black recommend dissecting a cooked turkey to study bone mechanics and flight. Inorganic chemist Andrea Sella shows how salt-ice freezing produces custard-based ice cream, illustrating freezing-point depression. Finally, mathematical biologist Kit Yates adapts Buffon’s Needle with pine needles on lined paper to approximate π via probability.",
+      "summaryTokens": 580,
+      "generatedAt": "2025-12-26T03:37:22.866Z"
     },
     {
       "id": "science/2025/dec/24/richard-fishacre-medieval-oxford-friar-planets-stars-terrawatch",
@@ -41,9 +65,9 @@
       "section": "science",
       "publishedDate": "2025-12-24T06:00:03Z",
       "trailText": "Richard Fishacre used his knowledge of light and colour to argue against ‘fifth element’ theories of the day",
-      "summary": "About 800 years ago, Richard Fishacre, a Dominican friar at Oxford, challenged the prevailing four-element plus a fifth heavenly element theory by applying his insight into light and colour. He argued that the opaque red of Mars, yellow of Venus and blue-white of the Moon indicated they shared terrestrial elements like earth, water, air and fire rather than a transparent quintessence. Although criticized then, his approach prefigures modern spectroscopy: instruments like the James Webb Space Telescope now use colour and brightness shifts to identify exoplanetary atmospheres rich in water and sulphur dioxide, as on TOI-421b.",
-      "summaryTokens": 430,
-      "generatedAt": "2025-12-25T03:43:26.711Z"
+      "summary": "Dominican friar Richard Fishacre, teaching at medieval Oxford around 1225, challenged the Aristotelian four-element plus aether model by applying his observations of light and color. Despite heavy criticism, he argued that if stars and planets were made of a transparent fifth element, they'd appear clear, but the red of Mars, the yellow of Venus and the white and blue of the Moon prove they share Earth’s elements. His pioneering optics foreshadow modern spectroscopy, used by the James Webb Telescope to detect water and sulphur dioxide in exoplanet TOI-421b’s atmosphere.",
+      "summaryTokens": 1384,
+      "generatedAt": "2025-12-26T03:37:22.866Z"
     },
     {
       "id": "science/2025/dec/23/scientists-create-replica-human-womb-lining-and-implant-early-stage-embryos",
