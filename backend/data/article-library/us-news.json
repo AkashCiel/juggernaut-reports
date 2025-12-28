@@ -1,26 +1,146 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-27T03:39:23.931Z",
+    "generated_at": "2025-12-28T03:53:38.391Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-27"
+      "to": "2025-12-28"
     },
-    "article_count": 1989,
+    "article_count": 1999,
     "merge_info": {
-      "previous_count": 1974,
-      "new_articles": 15,
-      "updated_articles": 7,
-      "total_count": 1989
+      "previous_count": 1989,
+      "new_articles": 10,
+      "updated_articles": 16,
+      "total_count": 1999
     },
     "batch_info": {
-      "initial_batch_id": "batch_694f545dc464819095c165ca08a5e762",
+      "initial_batch_id": "batch_6950a8ea26008190b7a863c55cc2c2dd",
       "retry_batches": [],
-      "total_tokens": 55144,
-      "processing_time_hours": 0
+      "total_tokens": 65133,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/28/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: Republican turns ‘lowlife’ taunt back on president to raise campaign funds",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T02:46:41Z",
+      "trailText": "Thomas Massie, who co-authored Epstein files act, says president attacked him for keeping commitment to ‘help victims’. Key US politics stories from 27 December at a glance",
+      "summary": "Kentucky GOP Rep. Thomas Massie—architect of the Epstein Files Transparency Act—was labeled a “lowlife” by Trump for pushing release of Epstein documents; Massie then turned the insult into a fundraiser, raising nearly $3K in two hours for his 2026 primary against Trump-backed Ed Gallrein. Nationally, Republicans face bleak 2026 midterm prospects as young and Latino voters defect and GOP senators retire; Kennedy Center chief Richard Grenell demands $1M from a musician who canceled a Christmas Eve show over Trump’s renaming; and Trump urges Senate Republicans to eliminate the filibuster to fast-track his agenda.",
+      "summaryTokens": 754,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/27/southern-california-cleans-up-after-the-wettest-christmas-season-in-recent-history",
+      "title": "Southern California cleans up after the wettest recent Christmas season",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/27/southern-california-cleans-up-after-the-wettest-christmas-season-in-recent-history",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/27/southern-california-cleans-up-after-the-wettest-christmas-season-in-recent-history",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T18:15:09Z",
+      "trailText": "More than 17in of rain fell in Ventura county, with trees felled and hundreds of car crashes throughout the region",
+      "summary": "An atmospheric river unleashed Southern California’s wettest Christmas in history, drenching Santa Barbara with 5.91in on Dec 24–25 and dumping over 17in in Ventura County mountains. More than 10in swamped San Gabriel peaks, toppling trees, triggering hundreds of crashes and power outages statewide, and mudflows inundating homes. An EF-0 tornado with 80 mph winds carved a third-mile path in Boyle Heights, damaging homes and a strip mall. Firefighters rescued 100+ people, while Gov. Newsom and LA Mayor Bass declared emergencies across six counties. Though rains have eased, flood and mudslide risks persist ahead of New Year’s showers.",
+      "summaryTokens": 962,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/27/oregon-wine-vineyard-manager-ice-deportation",
+      "title": "A vineyard manager’s deportation shattered an Oregon town. Now his daughter is carrying on his legacy",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/27/oregon-wine-vineyard-manager-ice-deportation",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/27/oregon-wine-vineyard-manager-ice-deportation",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T17:00:42Z",
+      "trailText": "Alondra Sotelo Garcia took over her father’s business when he was deported to Mexico after three decades in the US",
+      "summary": "After ICE deported veteran vineyard manager Moises Sotelo to Mexico in July, his 26-year-old daughter Alondra Sotelo Garcia left her logistics job in Newberg, Oregon, to run his vineyard management company. Facing a global wine downturn, a split family, and mounting bills, she collaborates with her father’s former mentees to keep pruning, training and harvesting vines by hand across Willamette Valley. Meanwhile, she travels between the US and Mexico to settle her parents’ new life, manages GoFundMe finances and grapples with layoffs and community fear under the Trump administration’s sweeping immigration raids.",
+      "summaryTokens": 1008,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/27/trump-republicans-filibuster-rule-senate",
+      "title": "Trump urges Republicans to ditch filibuster rule in US Senate",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/27/trump-republicans-filibuster-rule-senate",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/27/trump-republicans-filibuster-rule-senate",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T15:00:13Z",
+      "trailText": "Rule allows minority party to block legislation, but GOP is reluctant to scrap it as they could lose majority",
+      "summary": "In a Politico interview President Trump urged Senate Republicans to eliminate the filibuster to streamline passage of his 2026 agenda, avert government shutdowns and enact priorities like voter ID and healthcare reforms. He argues the 60-vote rule is obstructing GOP governance despite a 53-seat majority and warns centrists fear losing minority protections when power shifts. Facing midterm pressure, he predicts the campaign will focus on “pricing” over “affordability” as Republicans seek to highlight economic improvements under his leadership.",
+      "summaryTokens": 659,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/27/fbi-j-edgar-hoover-building",
+      "title": "FBI to move out of brutalist J Edgar Hoover building in Washington DC",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/27/fbi-j-edgar-hoover-building",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/27/fbi-j-edgar-hoover-building",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T14:21:07Z",
+      "trailText": "Iconic building, called ‘greatest monstrosity ever constructed’ by Hoover himself, to be closed down",
+      "summary": "FBI Director Kash Patel announced permanent closure of the Brutalist J. Edgar Hoover Building in Washington DC, ending over 20 years of stalled relocation efforts. The bureau will move into existing offices at the Ronald Reagan Building and International Trade Center, repurposing former USAID space. Patel said the shift bolsters homeland defense, violent crime suppression and national security with modern facilities at lower cost. The decision follows a Maryland lawsuit over funding for a scrapped state relocation. Designed in the 1960s, the Hoover headquarters had long been derided, even by J. Edgar Hoover, as “the greatest monstrosity ever constructed in the history of Washington.”",
+      "summaryTokens": 1579,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/27/california-woman-ectopic-pregnancy",
+      "title": "California woman delivers healthy baby after ‘essentially unheard of’ ectopic pregnancy",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/27/california-woman-ectopic-pregnancy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/27/california-woman-ectopic-pregnancy",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T14:00:40Z",
+      "trailText": "Suze Lopez found out she was pregnant only days before giving birth, due to fetus hiding behind 22lb ovarian cyst",
+      "summary": "In August, Bakersfield ER nurse Suze Lopez, 41, delivered baby Ryu after an extraordinarily rare ectopic pregnancy concealed by a 22lb ovarian cyst. Implanted outside her empty uterus, the fetus reached term—an event far less than one in a million. Doctors at Cedars-Sinai removed both cyst and baby via surgery with a 30-member team. Ryu spent two weeks in the NICU; both now healthy. Lopez, who had irregular periods, a prior ovary removal and had sought a second child for 17 years, only discovered her pregnancy days earlier. The case will be documented in medical journals.",
+      "summaryTokens": 1137,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/new-orleans-archdiocese-bankruptcy-abuse-settlement",
+      "title": "Clergy abuse survivors frustrated by New Orleans archdiocese’s protracted bankruptcy",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/new-orleans-archdiocese-bankruptcy-abuse-settlement",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/new-orleans-archdiocese-bankruptcy-abuse-settlement",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T14:00:40Z",
+      "trailText": "Long-winded legal wrangling and recalcitrant Catholic church leadership thwarted hopes for timely settlement",
+      "summary": "Survivors like James Adams say the New Orleans Archdiocese’s 2020 Chapter 11 filing extended legal delays, shielded internal clergy abuse records and blocked depositions of Archbishop Aymond, who oversaw decades of cover-ups. Joint creditors’ committee meetings moved slowly under Judge Grabill’s secrecy orders, fines and purges of victim advocates frustrated claims. High-profile revelations—Fr James Collery’s decade-old abuse, Fr Paul Hart’s reassignment and lawsuit battles—amplified anger. After five years, a $305 million settlement was approved, but veterans warn the process inflicted emotional and financial tolls on survivors seeking transparency and justice.",
+      "summaryTokens": 826,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/27/inflatable-frogs-ad-campaign-trump-protest-methods",
+      "title": "Inflatable frogs and ice scrapers: nine innovative ways Americans protested against Trump in 2025",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/27/inflatable-frogs-ad-campaign-trump-protest-methods",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/27/inflatable-frogs-ad-campaign-trump-protest-methods",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T14:00:39Z",
+      "trailText": "Historically, when organizers have used tactical innovation, movement activity has peaked",
+      "summary": "Facing federal raids, cutbacks and immigration sweeps under Trump in 2025, Americans deployed nine novel nonviolent tactics: the Monrovia Home Depot ice‐scraper “buy‐in” to jam returns, inflatable frog suits by Portland’s Frog Brigade, “No Sleep for ICE” rooftop noise outside LA hotels, a #TeslaTakedown stock boycott, mass Disney+ unsubscribes after ABC censorship, high‐pitched whistles in Chicago to alert communities, nightly DC pot‐banging cacerolazos, Memphis pop-up block parties for voter outreach, and Women’s March Win ads urging ICE agents to quit.",
+      "summaryTokens": 1326,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/congress-us-house-censure",
+      "title": "Epstein texts and yelling at Trump: US House’s year of censures",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/congress-us-house-censure",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/congress-us-house-censure",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T13:00:39Z",
+      "trailText": "Lawmakers spent much of 2025 seeking to reprimand each other – here’s a look back at what sparked such outrage",
+      "summary": "In 2025, amid record-breaking floor speeches, votes and a historic shutdown, the U.S. House saw at least 17 censure or disapproval resolutions—only one (Dan Newhouse’s against Al Green for interrupting Trump) passed—sparked by incidents like Robert Garcia calling Elon Musk a “dick”; cane-waving during Trump’s address; racial slurs by Boebert and Ogles; mocking Gov. Abbott’s wheelchair; an ICE protest arrest; Ilhan Omar’s Charlie Kirk comments; election-fairness claims; Stacey Plaskett’s Epstein texts; and abuse allegations against Cory Mills. Bipartisan lawmakers now seek tighter censure rules.",
+      "summaryTokens": 1645,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
+    {
+      "id": "us-news/2025/dec/27/kentucky-republican-thomas-massie-trump-epstein-files",
+      "title": "Republican behind Epstein files act responds to Trump ‘lowlife’ taunt",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/27/kentucky-republican-thomas-massie-trump-epstein-files",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/27/kentucky-republican-thomas-massie-trump-epstein-files",
+      "section": "us-news",
+      "publishedDate": "2025-12-27T09:00:33Z",
+      "trailText": "Kentucky’s Thomas Massie used the president’s insult to raise funds to run against a Trump-endorsed candidate",
+      "summary": "Kentucky congressman Thomas Massie, co-author of the bipartisan Epstein Files Transparency Act, was labeled a “lowlife Republican” by Donald Trump on Christmas after pushing to release all federal documents on Jeffrey Epstein. Massie used the insult to solicit campaign donations for his 2026 primary against Trump-endorsed retired Navy SEAL Ed Gallrein, raising nearly $3,000 within two hours. The feud highlights a widening rift as Massie demands accountability for Epstein’s associates—citing equal consequences for figures like Andrew Mountbatten-Windsor—and presses the DOJ, which admitted to finding over a million unreleased files, to meet the act’s transparency deadline.",
+      "summaryTokens": 378,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
+    },
     {
       "id": "us-news/2025/dec/26/trump-administration-news-updates-today",
       "title": "Trump news at a glance: Nigeria says it provided intelligence for US airstrikes as Hegseth warns of more attacks",
@@ -29,9 +149,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T01:00:23Z",
       "trailText": "Country’s foreign minister says his president signed off on US air attack – key US politics stories from 26 December at a glance",
-      "summary": "US airstrikes on Islamic State camps in north-west Nigeria on Christmas Day were carried out with intelligence and presidential approval from Nigeria, FM Yusuf Tuggar said, as Defence Secretary Pete Hegseth vowed more strikes to protect Christians. Trump supporters hailed the operation. Elsewhere, a British anti-disinformation activist targeted for removal criticises US tech firms; Ukrainian President Volodymyr Zelenskyy will meet Trump at Mar-a-Lago for peace talks; and CBS News editor Bari Weiss defends pulling a 60 Minutes segment on an El Salvador prison.",
-      "summaryTokens": 1060,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Nigeria’s foreign minister Yusuf Tuggar confirmed President Bola Tinubu signed off on US airstrikes against Islamic State camps in north-west Nigeria on Christmas Day, providing intelligence and coordinating “extensive” talks with US officials. Tuggar stressed the operation targeted terrorists, not tied to Christmas or religion. US Defense Secretary Pete Hegseth warned more strikes are coming. Trump backers praised the action as a “Christmas present.” Elsewhere, a UK anti-disinformation campaigner speaks out on Trump-era removal threats; Volodymyr Zelenskiy readies Mar-a-Lago talks with Trump; briefs cover Trump’s staffing shifts, craftivist protests, and a pulled CBS News segment.",
+      "summaryTokens": 632,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/california-storms-wind-rain-snow",
@@ -41,9 +161,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T00:44:10Z",
       "trailText": "At least three people killed across state since atmospheric river storms began earlier this week",
-      "summary": "Atmospheric rivers unleashed record Christmas rainfall—up to 12 in—in Southern California, triggering mudslides that inundated homes and cars in Wrightwood, prompted evacuation warnings, road closures and power outages. San Bernardino County firefighters rescued over 100 people; Los Angeles saw 350+ vehicle collisions. At least three storm-related deaths occurred in Redding, Sacramento and San Diego. Though rainfall eases, flood and mudslide risks persist across LA, coastal and Sierra Nevada zones, where heavy snow and winds pose travel hazards. This wet spell contrasts last winter’s drought-fueled wildfires. Authorities remain on high alert with 150+ firefighters and flood watches through Friday.",
-      "summaryTokens": 945,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "A powerful atmospheric river brought the wettest Christmas in 54 years to southern California, unleashing up to 12 inches of rain that triggered mudslides burying cars and homes up to their windows in the mountain town of Wrightwood. Authorities issued evacuation warnings as roads washed out and power failed. Firefighters rescued over 100 people, including 21 airlifted by helicopter, while police logged 350 traffic collisions. At least three storm-related deaths were reported statewide. Flood watches and wind advisories remain in effect across the region, with more rain, mountain snow, and flash‐flood risks ahead.",
+      "summaryTokens": 1188,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/georgia-jailbreak-lyft-hijack",
@@ -53,9 +173,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T17:59:09Z",
       "trailText": "Stevenson Charles, Yusuf Minor and Naod Yohannes, all incarcerated for murder, recaptured on Tuesday",
-      "summary": "Three inmates—Stevenson Charles (24), Yusuf Minor (31) and Naod Yohannes (25)—escaped DeKalb County jail near Atlanta and hijacked a Lyft under a fake female alias with help from Minor’s girlfriend. They attacked the driver, threatening rape and murder during a 10-hour trip to Miramar, Florida, then used her credit cards to rent a property and steal her car. License-plate readers led police to their hideout, where officers rescued the driver and arrested the trio. Minor and Yohannes face life terms for murder; Charles is held for murder and armed robbery.",
-      "summaryTokens": 614,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Stevenson Charles (24), Yusuf Minor (31) and Naod Yohannes (25) escaped DeKalb County jail near Atlanta on Dec 22, hijacked a Lyft ride to Miramar, Florida under a fake female name—assisted by Minor’s girlfriend—attacked the driver, threatened rape and murder during the 10-hour trip, and used her credit cards to rent a property and borrow the car. Tracking via license-plate readers led to their arrest on Dec 24. Minor and Yohannes face life sentences for murder; Charles is charged with murder and armed robbery. Jail officials are reinforcing outdated facilities after the breach; phone records showed external coordination.",
+      "summaryTokens": 1013,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/trump-supporters-nigeria-airstrikes",
@@ -65,9 +185,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T17:50:21Z",
       "trailText": "Some even celebrated ‘mass killing’ and the president’s ‘resolve’ in attacking Islamic State targets",
-      "summary": "Donald Trump’s Christmas Day cruise-missile strikes on Islamic State targets in Nigeria drew enthusiastic praise from his supporters, who hailed the operation as an “amazing Christmas present” and lauded the “justified mass killing” of terrorists who have been accused of brutal attacks on Christians. Far-right activists like Laura Loomer and GOP lawmakers including Randy Fine, Riley Moore, Ted Budd and Tom Cotton framed the strikes as proof of Trump’s resolve to defend religious freedom, contrasting sharply with his more cautious approach to Venezuela. Pressure had mounted since mid-year amid Boko Haram and ISWAP atrocities; Trump delayed the attack by one day for symbolic effect.",
-      "summaryTokens": 428,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Donald Trump’s Christmas Day cruise-missile strikes on Islamic State camps in Nigeria drew effusive praise from his supporters and aligned Republicans, who hailed the attacks as a justified “mass killing” to avenge Christians. Far-right activist Laura Loomer and Florida congressman Randy Fine called it an “amazing Christmas present,” while senators Tom Cotton, Ted Budd and others emphasized defending religious minorities. The response contrasts with caution over strikes on Venezuela. Pressure had mounted since July from US religious-freedom watchdogs and congressional resolutions. Trump even postponed the operation for symbolic holiday timing.",
+      "summaryTokens": 478,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/alligator-alcatraz-protests-florida-immigration",
@@ -77,9 +197,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T16:00:12Z",
       "trailText": "Every Sunday, protesters from Florida and beyond go to the notorious immigration jail and advocate for its closure",
-      "summary": "This article describes weekly Sunday vigils at Alligator Alcatraz, a remote Florida immigration camp opened by Trump and hailed by DeSantis. Despite a federal judge ordering its closure and an appeals court reversal, families and activists—daughters of detainees, pastors, veterans and a 91-year-old civil-rights heroine—condemn alleged abuses: insulin denial, no due process, and secret deportations. Organizer Noelle Damico has rallied churches, unions and Native tribes, growing gatherings from handfuls to hundreds, with thousands expected over the holidays to demand shutdown and systemic reform.",
-      "summaryTokens": 1452,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Every Sunday since August, convoys of activists from Florida and beyond travel to the remote “Alligator Alcatraz” ICE camp in the Everglades to demand its closure. They protest alleged human rights abuses—denial of insulin, violence and forced deportations without due process—after a federal judge ordered its shutdown and an appeals court reversed. Families, clergy, veterans, civil rights elders and grassroots organizers have built a diverse alliance, vowing to sustain weekly vigils until the facility and its detention network end.",
+      "summaryTokens": 468,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/kentucky-plane-crash-death-toll",
@@ -89,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T15:54:50Z",
       "trailText": "Alain Rodriguez Colina was working at a scrapyard that the UPS cargo plane crashed into on 4 November",
-      "summary": "Kentucky’s UPS cargo plane crash death toll rose to 15 after Alain Rodriguez Colina, a scrapyard worker injured when Flight 2976 veered into Grade A Auto Parts & Recycling on 4 November, died on Christmas Day. Three UPS pilots also perished when the plane’s left MD-11 engine detached at takeoff from Louisville’s Muhammad Ali International Airport. NTSB investigators found cracks at the engine–wing mount; four days later FAA grounded all MD-11s. UPS and engine maker GE face wrongful-death lawsuits alleging inadequate maintenance, while state and city officials urged prayers for victims’ families.",
-      "summaryTokens": 810,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "After 4 November’s UPS Flight 2976 MD-11 crash at Louisville, Kentucky, where its left engine detached on take-off and the fully fuelled jet collided with a scrapyard and nearby businesses, the ground death toll rose to 15 when scrapyard worker Alain Rodriguez Colina succumbed to injuries on Christmas Day. Colina, one of four employees of Grade A Auto Parts & Recycling killed, had been at the site since 2023. Three crew members also died. NTSB investigators detected cracks at the engine-wing connection. The FAA grounded all MD-11s days later. UPS and GE face wrongful-death suits alleging maintenance lapses, both citing safety priorities amid ongoing probes.",
+      "summaryTokens": 1017,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/knitting-craft-activists-against-trump",
@@ -101,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T15:00:12Z",
       "trailText": "Fiber artists across the US are using their craft to protest against everything from national guard deployments to rollbacks on abortion rights",
-      "summary": "In Portland, Oregon, craftivists like Tracy Wright and Michele Lee Bernstein gather weekly outside ICE facilities armed with “weapons of mass construction” – knitting needles – to protest Trump’s National Guard deployment and rollbacks on abortion rights. Their “knit-ins” exemplify how fiber arts build solidarity: from frog-inspired hats fundraising for food banks to Shannon Downey’s embroidered guns raising funds against gun violence. Tracing a lineage from the Mothers of the Plaza de Mayo and the Aids Memorial Quilt to Pussyhat protests, the movement shows how communal making centers joy, sustains resilience and turns creativity into political action.",
-      "summaryTokens": 939,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "In Portland, knitters led by Tracy Wright have staged weekly “knit-ins” at ICE facilities as “weapons of mass construction” to protest Trump’s national guard deployment, forming “Knitters Against Fascism” to show solidarity with immigrants. Designer Michele Lee Bernstein’s frog-hat pattern raised hundreds for local food banks. Rooted in the craftivism coined in 2003, the movement spans embroidered guns by Shannon Downey to pussyhat campaigns, leveraging fiber arts to forge community bonds, raise funds for causes like LGBTQ+ youth, Gaza relief and reproductive rights, and sustain political activism through shared joy.",
+      "summaryTokens": 812,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/us-right-champions-psychedelic-drugs",
@@ -113,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T13:00:10Z",
       "trailText": "Texas governor among those to call for expanded access to ibogaine, said to help with treating veterans with PTSD",
-      "summary": "Evangelical Christians, GOP governors and military veterans are uniting behind ibogaine, a powerful African psychedelic, as a faith-infused therapy for PTSD and opioid addiction. Texas governor Greg Abbott approved a $50m research fund; Ohio and Colorado explore legalization. A Stanford study reported significant, side-effect-free improvements in special-forces vets. Champions include lawyer Bryan Hubbard, ex-Navy Seals Morgan Luttrell and Rob O’Neill, plus billionaire backers like Elon Musk and Sergey Brin. Some warn of cardiac arrests and a “ruthlessly transactional” treatment industry.",
-      "summaryTokens": 1120,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Evangelical Christians, Republican governors and veterans advocacy groups are championing ibogaine, an intense African psychedelic, as a 'divine technology' to treat PTSD, TBI and depression. After FDA rejected MDMA, Texas Gov. Abbott allocated $50M for ibogaine research; Colorado moving toward legal treatments; Ohio in reform talks. Stanford veterans reported breakthroughs with single-dose ibogaine. Big-tech donors (e.g. Sergey Brin’s $15M) and figures like Musk, McGregor and GOP lawmakers back access despite risks of cardiac arrest, urging medical oversight and destigmatization.",
+      "summaryTokens": 874,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/loyalty-over-all-trump-was-once-known-for-constantly-switching-out-his-staff-not-anymore",
@@ -125,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T13:00:10Z",
       "trailText": "The president’s professed satisfaction with his cabinet may reflect how hard it would be to get a replacement confirmed",
-      "summary": "Since January, Trump’s second presidency has seen unprecedented cabinet stability: unlike his first term’s record turnover, his nearly intact team—including Pete Hegseth, Kristi Noem, Kash Patel and Tulsi Gabbard—remains in place. The only shake-up saw Mike Waltz shift to UN ambassador and Rubio step in as national security adviser. Analysts attribute this to Trump’s loyalty-first approach, the difficulty of Senate confirmations amid slumping approval ratings, and his reluctance to admit mistakes. Controversies—from Hegseth’s Signal misuse and Noem’s spending to Patel’s investigative mismanagement—have failed to unseat these loyalists. Critics warn that sycophantic loyalists undermine competence and accountability across his administration.",
-      "summaryTokens": 1361,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "After a first term marked by record-high cabinet turnover and public firings, President Trump’s second administration has remained remarkably stable, retaining figures like Defense Secretary Pete Hegseth, DHS chief Kristi Noem, DNI Tulsi Gabbard and FBI Director Kash Patel. Driven by an ethos of “loyalty über alles,” Trump rewards personal allegiance over institutional independence, limiting dismissals amid tougher Senate confirmation odds. Critics warn this sycophantic court prioritizes obedience over competence and sidesteps accountability, though purges continue among federal advisory councils and career prosecutors.",
+      "summaryTokens": 556,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/us-voters-link-climate-crisis-affordability",
@@ -137,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T12:30:08Z",
       "trailText": "New polling shows 65% of registered US voters believe global heating is affecting cost of living",
-      "summary": "Yale polling finds 65% of US registered voters link global heating to higher living costs—food price spikes (coffee, chocolate), rising electricity bills and insurance premiums—attributed to extreme weather and the Trump administration’s rollbacks of solar/wind power and climate research. Nearly 80% oppose cuts to climate info, FEMA elimination and offshore wind bans. Voters cite climate‐driven agricultural losses and rising energy demands fueling datacenter backlash. Most favor climate action, though just 21% of conservative Republicans do. Yale’s Leiserowitz argues climate solutions are cost-of-living solutions, urging broader messaging beyond scientific discourse.",
-      "summaryTokens": 1322,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "A Yale University poll finds 65% of US registered voters link global heating to higher food, electricity and home insurance costs via extreme weather, droughts and grid strain. Nearly 80% oppose the Trump administration’s cuts to climate research, removal of climate data, FEMA cuts and bans on new offshore windfarms, despite White House labeling renewables a “scam.” Local backlash has also targeted power-hungry data centres. Overall, 59% favor candidates backing climate action, but only 21% of conservative Republicans do, underscoring persistent partisan divides.",
+      "summaryTokens": 925,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/hollywood-production-film-tv-industry-struggles",
@@ -149,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T12:00:09Z",
       "trailText": "After the writers’ and actors’ strikes, the pandemic, and structural shifts in technology, LA’s trying to find its footing in a changed industry",
-      "summary": "After pandemic lockdowns, the 2023 writers’ and actors’ strikes and runaway productions abroad, Los Angeles has seen a 20% drop in filming days and a one-third fall in motion-picture pension contributions as its global share of TV and film production shrank from 21.9% to 18.3% since 2022. State incentives rose from $330m to $750m and hit-season shows like Fallout leveraged $25m–$166m in tax credits to return. But streaming’s boom-bust cycle, tech giants’ dominance, smaller crews and digital workflows continue to disperse work worldwide. Insiders say LA will endure as a marketing and distribution hub, but in a leaner, restructured form.",
-      "summaryTokens": 1090,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Veteran cinematographer Bruce McCleery’s return to LA on Fallout season two—backed by $25 m in state incentives (and $166 m for season three)—illustrates California’s bid to reverse “runaway” shoots migrating to Atlanta, Toronto and beyond after 2023’s writers’ and actors’ strikes and COVID. Yet LA lost over 20 % of filming days, saw pension contributions plunge one-third, and witnessed closures from costume warehouses to rental houses. Tech advances, streaming wars and underused sound stages have reshaped production globally. Gov. Newsom’s plan to boost incentives to $750 m divides insiders, many calling for stronger IP protections.",
+      "summaryTokens": 886,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/janessa-goldbeck-vet-voice-foundation-trump",
@@ -161,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T12:00:09Z",
       "trailText": "When Trump began deploying troops to US cities, Janessa Goldbeck’s Vet Voice Foundation was ready – now they’re preparing for what may be next",
-      "summary": "Janessa Goldbeck, a former US Marine and CEO of Vet Voice Foundation, foresaw and war-gamed a Trump-led deployment of National Guard troops for immigration enforcement. Since January, her nonprofit has become pivotal in advising Democratic governors, mayors and activists, supporting litigation to limit guard missions, supplying retired generals as expert witnesses, and training volunteers on distinguishing Guard from ICE. She reports many Guardsmen resent being used as immigration police and face needless security risks. Goldbeck warns Trump is eroding the military’s apolitical ethos and may leverage troops to intimidate voters in the next election.",
-      "summaryTokens": 485,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Marine vet Janessa Goldbeck, CEO of Vet Voice Foundation, predicted and prepared for President Trump’s use of the National Guard for immigration enforcement, war-gaming coup scenarios and advising local leaders. Her group supports litigation to curb guard deployments in Democratic cities, clarifies guard versus ICE roles, and warns of safety risks (including a fatal ambush near the White House) and authoritarian threats to elections. Goldbeck joined the Marines, left in 2019 over Trump’s agenda, and now mobilizes millions of veterans to defend democracy, nonpartisan military norms, and resist Secretary of Defense Pete Hegseth’s anti-woke, anti-women in combat rhetoric.",
+      "summaryTokens": 2676,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "law/2025/dec/26/us-judge-trump-imran-ahmed-uk-anti-disinformation-campaigner",
@@ -173,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T11:24:00Z",
       "trailText": "Imran Ahmed of Center for Countering Digital Hate files complaint against senior Trump allies",
-      "summary": "US district judge Vernon S. Broderick granted a temporary restraining order blocking the Trump administration from detaining or deporting Imran Ahmed, a British anti-disinformation campaigner and CEO of the Center for Countering Digital Hate, after Ahmed sued senior Trump allies including Secretary of State Marco Rubio and AG Pam Bondi. Ahmed, a lawful Washington DC resident with a US family, is one of five Europeans sanctioned for pressuring tech firms to curb hate speech and misinformation; Elon Musk’s failed lawsuit against CCDH highlighted corporate pushback; critics decry unconstitutional censorship.",
-      "summaryTokens": 1189,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "A US judge in the Southern District of New York granted UK anti-disinformation campaigner Imran Ahmed, CEO of the Center for Countering Digital Hate, a temporary restraining order blocking his detention or deportation under a Trump administration sanction campaign targeting five Europeans. Ahmed sued senior officials including Secretary of State Marco Rubio and AG Pam Bondi, alleging unconstitutional removal. A DC resident with his American wife and daughter, he has clashed with Elon Musk over X content moderation. The state department claims they coercively push US platforms to censor American viewpoints; the UK government defends internet freedom.",
+      "summaryTokens": 806,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/brown-shooting-suspect-gruelling-academic-climate-claudio-valente-mental-toll-ex-classmates",
@@ -185,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T08:00:04Z",
       "trailText": "Cláudio Valente and one of victims, Nuno FG Loureiro, both studied at notoriously challenging Técnico in Lisbon",
-      "summary": "Cláudio Valente, the suspected gunman who killed two Brown students and an MIT professor, and victim Nuno FG Loureiro were classmates at Lisbon’s notoriously demanding Técnico, where peers recall a hyper-competitive, emotionally gruelling culture. Valente, a top-scoring engineer, dropped out of a Brown physics PhD in 2001 and never realized his academic ambitions, fueling resentment and mental health struggles, ex-colleagues say. Critics blame pressure in elite academia and lax student support, not immigration policy, for the tragedy. After Valente’s death, the US paused its diversity visa lottery, a measure peers denounce as scapegoating.",
-      "summaryTokens": 1607,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "Investigators probing Cláudio Valente’s killing of two Brown University students and an MIT professor are tracing possible roots to his and victim Nuno FG Loureiro’s time at Lisbon’s Técnico, known for its emotionally gruelling engineering program. Classmates recall Valente’s brilliance and competitiveness but say his abrupt exit from Brown’s physics PhD and the hyper-competitive academic culture exacerbated mental distress. After Valente returned to the US on a diversity visa and obtained a green card, homeland security secretary Kristi Noem paused the lottery—a move peers argue misplaces blame on immigration rather than addressing pressure and mental-health gaps in academia.",
+      "summaryTokens": 891,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/26/trump-administration-news-updates-today-latest",
@@ -197,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T04:38:03Z",
       "trailText": "Trump also wishes ‘merry Christmas to all, including the dead terrorists’, after strikes. Key US politics stories from Thursday 25 December",
-      "summary": "Donald Trump ordered deadly Christmas Day air strikes in Sokoto, Nigeria, targeting Islamic State cells in coordination with Abuja – his first direct action there – warning “hell to pay” for attacks on Christians and wishing “Merry Christmas to all, including the dead terrorists.” Nigeria’s authorities reject the Christian-persecution framing. Meanwhile, the AFL-CIO vows to battle his “Billionaire First” agenda in 2026; British campaigner Imran Ahmed sues to block a Trump administration deportation threat; and a Vanity Fair exposé stokes doubts about chief of staff Susie Wiles.",
-      "summaryTokens": 1060,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "On Christmas Day, President Trump ordered “powerful and deadly” US Africa Command strikes on Islamic State militants in Sokoto state, Nigeria—the first under his administration—citing prior warnings against the slaughter of Christians. Confirmed by Nigeria’s foreign ministry, the strikes underscore Trump’s religious framing amid local pushback against claims of Christian persecution. Other key developments: AFL-CIO officials vow to challenge his “Billionaire First” agenda in 2026; British campaigner Imran Ahmed sues to halt a deportation threat; and insider fallout over chief of staff Susie Wiles.",
+      "summaryTokens": 1057,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/25/southern-california-atmospheric-river-storm",
@@ -209,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-26T00:25:09Z",
       "trailText": "Some parts of LA saw more than 11in of rain, with flooding, road closures and debris flows reported across the region",
-      "summary": "An atmospheric river from the Pacific has drenched Southern California with over 11 inches of rain, causing floods, debris flows, road closures and a third storm-related death—a 64-year-old San Diego man crushed by a falling tree. Governor Newsom declared a state of emergency and evacuation warnings were issued in fire-scorched foothill and mountain communities. Power outages topped 100,000 statewide. Free sandbags were distributed as burn scars hinder soil absorption. Forecasters warn of more heavy rain through Saturday amid flash flood and debris flow risks.",
-      "summaryTokens": 984,
-      "generatedAt": "2025-12-27T03:39:23.354Z"
+      "summary": "An atmospheric river storm triggered historic rainfall—over 11 in in parts of L.A. County—killing three, including a man crushed by a fallen tree in San Diego. Gov. Newsom declared a state of emergency in Los Angeles and surrounding counties; LA Mayor Bass issued a local emergency. Flood watches and evacuation orders cover mountain communities and 130 vulnerable Pacific Palisades homes as burn scars fuel debris flows. Widespread road closures (Angeles Crest Hwy), 102,900 power outages (peak in Monterey), flight delays, rare east LA tornado warning, and multiple rescues (a woman swept 9 mi down San Jose Creek). A second storm wave is due through Saturday.",
+      "summaryTokens": 1081,
+      "generatedAt": "2025-12-28T03:53:38.141Z"
     },
     {
       "id": "us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says",
@@ -10973,7 +11093,7 @@
       "section": "us-news",
       "publishedDate": "2025-11-07T11:00:39Z",
       "trailText": "Hundreds from New York City, across the US and beyond share their optimism, joy and more on the mayoral election",
-      "summary": "Zohran Mamdani, 34-year-old democratic socialist and Queens assembly member, won NYC’s mayoral race with over 50% against Andrew Cuomo and Curtis Sliwa. Guardian readers from the city, across the US and overseas described a “collective exhale,” expressing hope for affordability, renewed political engagement and a “breath of fresh air.” Many praised his people-centric message and urged Democrats to embrace progressive change. Some cautioned he’ll face establishment resistance, safety risks and federal pushback. A minority voiced skepticism about his experience and policies, but most see his victory as inspiration for broader progressive movements.",
+      "summary": "Zohran Mamdani, 34-year-old democratic socialist and Queens assembly member, won NYC’s mayoral race with over 50% against Andrew Cuomo and Curtis Sliwa. Guardian readers from the city, across the US and overseas described a ��collective exhale,” expressing hope for affordability, renewed political engagement and a “breath of fresh air.” Many praised his people-centric message and urged Democrats to embrace progressive change. Some cautioned he’ll face establishment resistance, safety risks and federal pushback. A minority voiced skepticism about his experience and policies, but most see his victory as inspiration for broader progressive movements.",
       "summaryTokens": 937,
       "generatedAt": "2025-11-09T03:41:18.960Z"
     },
