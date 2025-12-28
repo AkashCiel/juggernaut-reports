@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "environment",
-    "generated_at": "2025-12-27T03:22:59.175Z",
+    "generated_at": "2025-12-28T03:34:06.892Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-26"
+      "to": "2025-12-27"
     },
-    "article_count": 668,
+    "article_count": 671,
     "merge_info": {
-      "previous_count": 661,
-      "new_articles": 7,
-      "updated_articles": 3,
-      "total_count": 668
+      "previous_count": 668,
+      "new_articles": 3,
+      "updated_articles": 7,
+      "total_count": 671
     },
     "batch_info": {
-      "initial_batch_id": "batch_694f50bb52108190bca8887532053ed8",
+      "initial_batch_id": "batch_6950a4cc7bd08190ad57dd15979e4ce0",
       "retry_batches": [],
-      "total_tokens": 22325,
+      "total_tokens": 22498,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "environment/2025/dec/27/merlin-ai-assisted-birdsong-identifying-app-bird-species",
+      "title": "‘It brings you closer to the natural world’: the rise of the Merlin birdsong identifying app",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/27/merlin-ai-assisted-birdsong-identifying-app-bird-species",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/27/merlin-ai-assisted-birdsong-identifying-app-bird-species",
+      "section": "environment",
+      "publishedDate": "2025-12-27T12:00:38Z",
+      "trailText": "Merlin has been trained to identify the songs of more than 1,300 bird species around the world",
+      "summary": "Merlin Bird ID app by Cornell Lab uses AI/ML to identify songs of 1,300+ bird species via spectrogram patterns. Launched in 2021, it’s been downloaded 33 million times in 240 countries; UK users grew 88% to 1.5 million in 2024, with 30% monthly signup increases. Novices and experts alike praise its teaching power, birdwatching confidence boost and mental health benefits from nature engagement. However, occasional misidentifications (e.g., North American species in UK, chaffinch as redstart) highlight the ongoing value of human expertise for habitat context and emotional insight.",
+      "summaryTokens": 1014,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
+    },
+    {
+      "id": "environment/2025/dec/27/london-eye-architect-proposes-14-mile-tidal-power-station-off-somerset-coast",
+      "title": "London Eye architect proposes 14-mile tidal power station off Somerset coast",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/27/london-eye-architect-proposes-14-mile-tidal-power-station-off-somerset-coast",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/27/london-eye-architect-proposes-14-mile-tidal-power-station-off-somerset-coast",
+      "section": "environment",
+      "publishedDate": "2025-12-27T11:07:04Z",
+      "trailText": "West Somerset Lagoon would harness renewable energy for UK’s AI boom – and create ‘iconic’ arc around Bristol Channel",
+      "summary": "Julia Barfield, architect of the London Eye and Brighton’s i360, is leading an £11bn proposal to build the West Somerset Lagoon, a 14-mile tidal power station off Somerset’s coast, featuring 125 underwater turbines in a semicircular arc from Minehead to Watchet. It would generate 2.5GW peak output – enough for two million homes, with 120-year lifespan. The design includes a cycle and foot path atop, datacentre pods using seawater cooling, marina, lido, and observation tower. Backers argue its predictability suits surging AI energy demand, will create skilled jobs and boost West Somerset’s deprived economy, and await government support based on value for money.",
+      "summaryTokens": 1418,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
+    },
+    {
+      "id": "environment/2025/dec/27/alps-france-skiing-snow-warming-resorts-closing-ceuze-landscape",
+      "title": "‘Ghost resorts’: as hundreds of ski slopes lie abandoned, will nature reclaim the Alps?",
+      "webUrl": "https://www.theguardian.com/environment/2025/dec/27/alps-france-skiing-snow-warming-resorts-closing-ceuze-landscape",
+      "apiUrl": "https://content.guardianapis.com/environment/2025/dec/27/alps-france-skiing-snow-warming-resorts-closing-ceuze-landscape",
+      "section": "environment",
+      "publishedDate": "2025-12-27T06:48:56Z",
+      "trailText": "With the snow line edging higher, 186 French ski resorts have shut, while global heating threatens dozens more",
+      "summary": "Rising snow lines from global heating have forced 186 French ski resorts, including 85-year-old Céüze 2000, to close, creating ‘ghost stations’ across the Alps. Abandoned lifts, cabins and machinery—often in protected areas—now leach asbestos, oils and rust into soil and water, even as winter berries, orchids and rare birds gradually recolonise deserted pistes. High removal costs and partial legal mandates leave most sites to decay, fueling debate between memorialising ski heritage or fully restoring wilderness. Early recovery at Céüze offers a preview of nature’s resilience, yet spotlights looming challenges for dozens more resorts under a 2°C warming scenario.",
+      "summaryTokens": 444,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
+    },
     {
       "id": "environment/2025/dec/26/arbuscular-mycorrhizal-fungi-living-library-vital-ecosystem-engineers",
       "title": "Defunding fungi: US’s living library of ‘vital ecosystem engineers’ is in danger of closing",
@@ -29,9 +65,9 @@
       "section": "environment",
       "publishedDate": "2025-12-26T17:00:14Z",
       "trailText": "These fungi boost plant growth and restore depleted ecosystems, but federal funding for a library housing them has been cut – and it may be forced to close",
-      "summary": "The International Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) at the University of Kansas houses over 900 living strains of symbiotic soil fungi vital to 70% of land plants. Established in 1985, INVAM’s cold-room library and greenhouse cultures enable research into plant nutrient exchange, carbon storage and ecosystem restoration. Following a lapse in NSF funding and a proposed 57% budget cut, curators warn the collection may shutter within a year, jeopardizing climate strategies, regenerative agriculture and prairie restoration projects. With commercial biofertilizers failing in 87% of trials, scientists stress federal support is crucial to preserve these ecosystem engineers.",
-      "summaryTokens": 380,
-      "generatedAt": "2025-12-27T03:22:58.832Z"
+      "summary": "At the University of Kansas, the International Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) houses over 900 living strains of symbiotic soil fungi that support 70% of land plants, boost nutrients, buffer stress and drive ecosystem restoration and carbon sequestration. Established in 1985, INVAM’s meticulous annual culturing enables critical research and high-quality biofertilizers, in stark contrast to failing commercial products. Its current US National Science Foundation funding lapses soon amid proposed budget cuts, threatening closure within a year. Scientists warn losing INVAM would cripple studies on mycorrhizal diversity, regenerative agriculture and habitat recovery.",
+      "summaryTokens": 954,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
     },
     {
       "id": "environment/2025/dec/26/wildlife-photographer-doug-gimsey-flying-foxes",
@@ -41,9 +77,9 @@
       "section": "environment",
       "publishedDate": "2025-12-26T14:00:10Z",
       "trailText": "Doug Gimesy’s extreme close-ups of ‘sky puppies’ are designed to trigger an emotional response that endears people to the ‘wrongly vilified’ mammals",
-      "summary": "Photographer Doug Gimesy spent 160 days in sweaty waders capturing 50,000 extreme close-ups of Australia’s four mainland flying-fox species, documenting behaviours from wing-umbrellas to mothers carrying pups. His striking shots—like a grey-headed flying-fox belly-dipping on water or a dusk-shot “baby on board”—aim to trigger awe and empathy, counteracting fear and vilification. Conservationists, including Dr Merlin Tuttle and NSW’s Matthew Mo, highlight such imagery as vital to raise support for vulnerable grey-headed and endangered spectacled flying foxes. Gimesy’s book Life Upside Down is now in a third of school libraries, furthering education on these key pollinators.",
-      "summaryTokens": 1043,
-      "generatedAt": "2025-12-27T03:22:58.832Z"
+      "summary": "Wildlife photographer Doug Gimesy spent over 160 days in the field and captured 50,000 images of Australia’s four mainland flying-fox species, using extreme close-ups to reveal their puppy-like faces, maternal bonds and quirky behaviours—from wings as sunshades to baby blankets. His evocative shots, endorsed by bat experts Merlin Tuttle and Matthew Mo, showcase flying-foxes’ vital pollination role and highlight threats from habitat loss, urban conflict and illegal persecution. Gimesy’s book Life Upside Down brings these ‘sky puppies’ into schools to foster empathy, understanding and stronger conservation support.",
+      "summaryTokens": 622,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
     },
     {
       "id": "environment/2025/dec/23/down-to-earth-the-filter",
@@ -53,9 +89,9 @@
       "section": "environment",
       "publishedDate": "2025-12-26T13:00:10Z",
       "trailText": "In this week’s newsletter: as we head into 2026, we’ll be testing products to help you cut waste and lighten your load on the planet",
-      "summary": "In this week’s Down to Earth newsletter, the Guardian’s Filter unit showcases tested recommendations to help readers cut waste and shop mindfully year-round. It features tried-and-trusted gift guides—from ethical brands and decades-lasting presents vetted by writers and kids to analogue and community-supporting products—plus ratings on Advent calendars, fake trees (with Carbon Trust-backed emissions analysis), festive foods, reusable crackers and more. Beyond seasonal content, it promises 2026 coverage of repairable appliances, secondhand finds and curated ‘don’t buy’ lists to drive lower-impact, longer-lasting consumption.",
-      "summaryTokens": 416,
-      "generatedAt": "2025-12-27T03:22:58.832Z"
+      "summary": "The Guardian’s Filter section champions sustainable consumerism through tried-and-tested gift guides—ethical presents for mums, cyclists and teens, analog items and durable picks from reader and writer feedback—to curb Christmas excess and post-holiday guilt. We’ve evaluated overpriced Advent calendars, artificial trees (seven-to-20-year Carbon Trust footprint), festive foods and reusable crackers, plus run durability tests on mattresses, kettles, coffee machines and more. Offering repair, secondhand and refurb insights alongside leftover and waste-reduction tips, the newsletter equips readers for conscious, lower-impact spending. In 2026, expect deeper dives into sustainable swaps, product longevity, and clear advice on what not to buy.",
+      "summaryTokens": 625,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
     },
     {
       "id": "environment/2025/dec/26/young-people-england-life-on-the-coast-18-to-30-year-olds-coastline",
@@ -65,9 +101,9 @@
       "section": "environment",
       "publishedDate": "2025-12-26T10:00:06Z",
       "trailText": "As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challenges and why they often choose to leave",
-      "summary": "Young residents (18–30) in coastal English towns—from the Isle of Wight to Berwick-upon-Tweed, Great Yarmouth, Ilfracombe and Eastbourne—praise beaches, community spirit, arts initiatives and outdoor life but face seasonal tourism jobs, scarce affordable housing and aging demographics. Many pursue apprenticeships or creative degrees, yet most friends depart for education and stable careers. Returned graduates or local hires are rare lifelines. With limited nightlife, transport and high living costs, they feel torn between loyalty to home and necessity to leave for opportunity, frustration over narratives urging 'escape' and few sustainable paths back.",
-      "summaryTokens": 946,
-      "generatedAt": "2025-12-27T03:22:58.832Z"
+      "summary": "In Guardian’s 'Against the tide' series, 18–30-year-olds from six English coastal towns reflect on local life: on the Isle of Wight, seasonal hospitality jobs, scarce affordable housing, a retiree boom and pressure to 'leave to succeed'; in Berwick-upon-Tweed, strong community bonds yet few jobs push graduates away; Great Yarmouth’s conservative culture alienates LGBTQ+ creatives who depart; Ilfracombe’s high deprivation and housing costs mean few sustainable careers without family support; and Eastbourne parents warn kids to 'get out' amid unfulfilled promises of renewal.",
+      "summaryTokens": 1004,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
     },
     {
       "id": "environment/2025/dec/26/first-of-nine-new-river-walks-for-england-announced-north-west-mersey-valley-way",
@@ -77,9 +113,9 @@
       "section": "environment",
       "publishedDate": "2025-12-26T07:00:02Z",
       "trailText": "Mersey Valley Way takes in Manchester and Stockport on its 13-mile route with other walks to be identified in 2026",
-      "summary": "The government has launched the first of nine new national river walks, the 13-mile Mersey Valley Way through Manchester and Stockport, as part of a pledge to improve access to nature. No new footpath is being created; instead existing riverside routes will receive nature recovery work, accessibility upgrades (wheelchairs, mobility scooters, prams, cyclists, horse-riders) and new signage. Future routes for each English region will be selected via competition in 2026. The initiative complements local regeneration, targets lower-income households—30,000 in Stockport—and fulfills a manifesto promise after Labour dropped a Scottish-style right to roam in favor of river walks and national forests.",
-      "summaryTokens": 1090,
-      "generatedAt": "2025-12-27T03:22:58.832Z"
+      "summary": "Mersey Valley Way, a 21km route through Greater Manchester and Stockport, is the first of nine national river walks pledged by government to boost nature access across English regions by parliament’s end. While no new footpath is created, this initiative funds path upgrades, accessibility enhancements for wheelchairs, scooters, prams, cyclists, riders, signage and community nature recovery. Next river walk locations will be chosen via a 2026 competition. The area, home to 30,000 low-income Stockport households, was selected to tackle disparities in outdoor access, says Access Minister Lady Hayman.",
+      "summaryTokens": 1072,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
     },
     {
       "id": "environment/2025/dec/26/staying-at-home-could-leave-you-exposed-to-indoor-air-pollution-study-reveals",
@@ -89,9 +125,9 @@
       "section": "environment",
       "publishedDate": "2025-12-26T06:00:02Z",
       "trailText": "Secondhand tobacco smoke and routine tasks such as operating the stove shown to be biggest emitters of indoor pollution in UK homes",
-      "summary": "University of Nottingham researchers monitored particulate levels in 20 UK homes over four weeks, finding wood-burning stoves generate sharp indoor pollution spikes during lighting, refueling and door opening. Parallel studies in southeast England and Cornwall confirm similar peaks. Mums for Lungs reports 15,000 annual neighbour-smoke complaints. To cut exposure, experts advise fewer, slower stove refuels, avoiding fires with children or on low wind or poor-air days, and boosting ventilation. University of York’s Ingenious study in Bradford (310 homes) links frying to highest particle surges; its “pan on, fan on” magnet campaign underscores running extractor hoods and opening windows when cooking or cleaning.",
-      "summaryTokens": 1422,
-      "generatedAt": "2025-12-27T03:22:58.832Z"
+      "summary": "Indoor smoking bans cut heart attack admissions by 12%, yet routine home tasks also spike pollutants. University of Nottingham measured 20 UK homes for four weeks, finding Defra-approved wood stoves trigger sharp particle peaks during lighting, refuelling and door-opening—results confirmed by studies in southeast England and Cornwall. Researchers advise less frequent, slower refuelling, avoiding fires near vulnerable people, and skipping stoves on low-wind or poor air quality days. Separately, Prof Sarah West’s Bradford study of 310 homes identifies frying as a major source; ‘pan on, fan on,’ extractor use and opening windows when cooking or cleaning can markedly reduce indoor pollution.",
+      "summaryTokens": 639,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
     },
     {
       "id": "environment/2025/dec/26/country-diary-little-rituals-to-help-sparrows-and-wrens",
@@ -101,9 +137,9 @@
       "section": "environment",
       "publishedDate": "2025-12-26T05:30:00Z",
       "trailText": "The Marches, Shropshire: Boxing Day has its own more violent customs between humans and animals. That’s not the world I choose to live in",
-      "summary": "In this Country Diary entry from Shropshire on Boxing Day, Paul Evans details how backyard feeding—scatterings of seed, mealworms and fat balls—supports a 30-strong sparrow clan and wrens, highlighting their vivid social dynamics and collective ‘hair-trigger’ reflexes, evoked by Emily Dickinson’s assurance that ‘God keeps his oath to sparrows.’ Their telepathic withdrawals at the slightest disturbance, more playful than panicked, betray complex interspecies community bonds. He contrasts these compassionate rituals with traditional Boxing Day violence against wildlife, and celebrates a communal modern wren procession rooted in folklore as ‘rituals of what ought to be’ for conservation.",
-      "summaryTokens": 1720,
-      "generatedAt": "2025-12-27T03:22:58.832Z"
+      "summary": "On Boxing Day in the Marches near Oswestry, Paul Evans transforms a backyard bird table—fat balls, seed and mealworms—into a communal haven for over 30 sparrows, whose “telepathic” panic flight reveals complex social bonds with blue tits, robins, jackdaws, collared doves, blackbirds, wood pigeons and wrens. Echoing a revived wren procession once tied to Cutty Wren folklore, these small rituals—feeding endangered sparrows and honoring wrens—embody “what ought to be,” a compassionate alternative to traditional Boxing Day wildlife pageantry.",
+      "summaryTokens": 1068,
+      "generatedAt": "2025-12-28T03:34:06.732Z"
     },
     {
       "id": "environment/2025/dec/25/fossil-hunting-australia-victoria-jan-juc-surf-coast",
