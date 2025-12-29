@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2025-12-28T03:49:53.989Z",
+    "generated_at": "2025-12-29T03:51:59.769Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-27"
+      "to": "2025-12-28"
     },
-    "article_count": 306,
+    "article_count": 308,
     "merge_info": {
-      "previous_count": 303,
-      "new_articles": 3,
-      "updated_articles": 1,
-      "total_count": 306
+      "previous_count": 306,
+      "new_articles": 2,
+      "updated_articles": 3,
+      "total_count": 308
     },
     "batch_info": {
-      "initial_batch_id": "batch_6950a854e5008190aaf3806c4eb69858",
+      "initial_batch_id": "batch_6951fa87f6f48190aa3ba84dab029b84",
       "retry_batches": [],
-      "total_tokens": 11399,
+      "total_tokens": 11292,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2025/dec/28/louis-gerstner-man-credited-with-turning-around-ibm-dies-aged-83",
+      "title": "Louis Gerstner, man credited with turning around IBM, dies aged 83",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/28/louis-gerstner-man-credited-with-turning-around-ibm-dies-aged-83",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/28/louis-gerstner-man-credited-with-turning-around-ibm-dies-aged-83",
+      "section": "technology",
+      "publishedDate": "2025-12-28T17:15:44Z",
+      "trailText": "Gerstner was chair and CEO at a time when the firm was struggling for relevance faced with rivals such as Microsoft",
+      "summary": "Louis Gerstner, who died aged 83, turned around IBM as chair and CEO from 1993 to 2002. The first outsider at the helm, he abandoned plans to split the company into “Baby Blues,” focused on integrated client solutions, scrapped uncompetitive products like OS/2, and restored profitability. His leadership reshaped IBM amid a shifting PC market dominated by Microsoft and Intel. Previously president of American Express and CEO of RJR Nabisco, Gerstner later chaired the Carlyle Group. Current CEO Arvind Krishna hailed his direct, client-centric approach and balanced focus on short-term delivery and long-term innovation.",
+      "summaryTokens": 825,
+      "generatedAt": "2025-12-29T03:51:59.554Z"
+    },
+    {
+      "id": "technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith",
+      "title": "Nvidia insists it isn’t Enron, but its AI deals are testing investor faith",
+      "webUrl": "https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith",
+      "apiUrl": "https://content.guardianapis.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith",
+      "section": "technology",
+      "publishedDate": "2025-12-28T14:00:09Z",
+      "trailText": "The chipmaker’s sprawling partnerships are driving extraordinary growth but also bank its future on the AI boom paying off quickly",
+      "summary": "Nvidia, now valued at over $4tn, has sealed more than $125bn in AI-related deals this year—from a $10bn annual investment in OpenAI to vendor-financing arrangements with CoreWeave and SPVs for xAI. Critics warn these circular financing structures echo Lucent’s 2000 bubble tactics and, via SPVs, invite Enron comparisons, though Nvidia insists its reporting is transparent. Analysts caution that if AI growth falters, write-downs on equity stakes and unpaid receivables could dent profits, and opaque sovereign deals in South Korea and Saudi Arabia add further execution risk.",
+      "summaryTokens": 1073,
+      "generatedAt": "2025-12-29T03:51:59.554Z"
+    },
     {
       "id": "technology/2025/dec/27/from-shrimp-jesus-to-erotic-tractors-how-viral-ai-slop-took-over-the-internet",
       "title": "From shrimp Jesus to erotic tractors: how viral AI slop took over the internet",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2025-12-27T17:00:44Z",
       "trailText": "Flood of unreality is an endpoint of algorithm-driven internet and product of an economy dependent on a few top tech firms",
-      "summary": "In 2024–25 the internet saw an explosion of “AI slop”: low-quality, surreal AI-generated content engineered for engagement and monetization. Memes like shrimp Jesus, cat soap operas, centenarian birthday fakes and the “Ghiblification” of public figures epitomized the trend, fueled by tools from OpenAI. Content mills worldwide—e.g. Ukrainian ex-athlete Oleksandr—spawn thousands of automated YouTube channels (including erotic tractors), earning up to $20k/month before takedowns. AI slop thrives on algorithms optimizing virality, cheap production and lax copyright, reflecting a tech-driven gig economy.",
-      "summaryTokens": 835,
-      "generatedAt": "2025-12-28T03:49:53.885Z"
+      "summary": "In 2025’s algorithm-driven internet, “AI slop”—low-quality, surreal AI content—floods social media to farm views. From viral shrimp Jesus mash-ups and 122-year-old birthday hoaxes to Ghiblified political imagery and erotic tractor videos, this clickbait ecosystem thrives on GPT-4o, DALL·E and ChatGPT tools. Creators worldwide—from Ukraine to Kenya—run conveyor-belt channels of cats, soap-opera pet dramas and adult-themed clips, chasing ad dollars despite YouTube takedowns. Only the top few percent monetize sustainably, earning up to $20k/month at peak. Observers warn that engagement-obsessed platforms and a precarious economy fuel this flood of contextless, copyright-flouting unreality.",
+      "summaryTokens": 539,
+      "generatedAt": "2025-12-29T03:51:59.554Z"
     },
     {
       "id": "technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds",
@@ -41,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2025-12-27T17:00:43Z",
       "trailText": "Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows",
-      "summary": "Over 20% of videos recommended to new YouTube users are low-quality AI-generated “slop,” according to Kapwing, which analysed 15,000 top channels, finding 278 dedicated to slop that have 63 bn views, 221 m subscribers and $117 m in annual revenue. Testing a new account, 104 of the first 500 recommendations were AI slop, one-third classified as “brainrot.” Popular channels like India’s Bandar Apna Dost (2.4 bn views, $4.3 m est.) and Singapore’s Pouty Frenchie (2 bn views, $4 m est.) illustrate an emerging ecosystem—spread via Telegram, Discord and courses—letting creators in middle-income countries monetise algorithmic niches despite platform efforts to curb inauthentic content.",
-      "summaryTokens": 2123,
-      "generatedAt": "2025-12-28T03:49:53.885Z"
+      "summary": "A Kapwing study of 15,000 top YouTube channels finds over 20% of videos shown to new users are low-quality AI-generated ‘slop’ designed to farm views. Among 278 pure AI slop channels—amassing 63 billion views and 221 million subscribers—annual revenue is estimated at $117 million. In a fresh account test, 104 of 500 recommended videos were AI slop and one-third fell into ‘brainrot’. Notable channels include India’s Bandar Apna Dost (2.4 billion views, ~$4.25 million revenue), Singapore’s Pouty Frenchie (2 billion views) and US-based Cuentos Facinantes (6.65 million subscribers). AI slop proliferates in mid-income markets like India, Brazil and Nigeria, as creators exploit platform algorithms with decontextualized, addictive content.",
+      "summaryTokens": 436,
+      "generatedAt": "2025-12-29T03:51:59.554Z"
     },
     {
       "id": "technology/2025/dec/28/las-vegas-police-free-tesla-cybertrucks",
@@ -53,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2025-12-27T13:00:39Z",
       "trailText": "Mysterious donors gave a fleet of 10 of the vehicles – which have had a number of recalls – to the police earlier this year",
-      "summary": "Las Vegas Metropolitan Police Department deployed a donated fleet of 10 Tesla Cybertrucks plus a SWAT “sting protector” in January 2025, a $2.7m gift from venture capitalist Ben Horowitz and his wife Felicia via the charity Behind the Blue. Retrofits by UpFit added sirens, barrier shields, ladders and tactical radios and disabled “Beast mode.” The donation followed months of planning since December 2024 and comes amid recalls for protruding panels, exploding lightbars and uncontrolled acceleration. Critics, including the ACLU of Nevada, warn that flashy EVs don’t improve community safety and question the influence of tech benefactors on policing.",
-      "summaryTokens": 949,
-      "generatedAt": "2025-12-28T03:49:53.885Z"
+      "summary": "Las Vegas PD unveiled ten donated Tesla Cybertrucks and a SWAT “sting protector,” retrofitted by UpFit for about $2.7 million via Andreessen Horowitz co-founder Ben Horowitz and wife Felicia, funneled through the charity Behind the Blue. The first US police force with Cybertruck patrols, each truck sports barrier shields, radios and tactical gear, and has had eight safety recalls—panels, light bars, pedal defects—addressed pre-deployment; Tesla’s “beast” mode was disabled. Previous Horowitz gifts include license-plate readers, drones and AI 911 tools. ACLU Nevada warns the fleet projects Musk branding over community safety, while Sheriff McMahill hails them as “the most technologically advanced” at zero taxpayer cost despite national backlash and slumping Cybertruck sales.",
+      "summaryTokens": 797,
+      "generatedAt": "2025-12-29T03:51:59.554Z"
     },
     {
       "id": "technology/2025/dec/26/apple-seeks-to-appeal-15bn-ruling-it-overcharged-uk-customers",
