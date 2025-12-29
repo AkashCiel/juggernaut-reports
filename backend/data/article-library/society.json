@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2025-12-28T03:47:24.934Z",
+    "generated_at": "2025-12-29T03:50:23.344Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-27"
+      "to": "2025-12-28"
     },
-    "article_count": 552,
+    "article_count": 557,
     "merge_info": {
-      "previous_count": 549,
-      "new_articles": 3,
-      "updated_articles": 2,
-      "total_count": 552
+      "previous_count": 552,
+      "new_articles": 5,
+      "updated_articles": 3,
+      "total_count": 557
     },
     "batch_info": {
-      "initial_batch_id": "batch_6950a794f6708190a0b4b70f3c551d03",
+      "initial_batch_id": "batch_6951fa27bca081908282a86c85611abf",
       "retry_batches": [],
-      "total_tokens": 11774,
-      "processing_time_hours": 0.1
+      "total_tokens": 17443,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs",
+      "title": "AI being used to help cut A&E waiting times in England this winter",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs",
+      "section": "society",
+      "publishedDate": "2025-12-28T22:30:18Z",
+      "trailText": "Forecasting tool predicts when demand will be highest, allowing NHS trusts to better plan staffing and bed space",
+      "summary": "NHS trusts in England are deploying an AI-driven A&E forecasting tool to predict peak demand based on historical data—weather patterns, school holidays, flu and Covid rates—to optimize winter staffing, bed allocation and resource deployment. Used by about 50 trusts, the algorithm guides decisions such as deploying consultants or nurses in busier specialties and expediting discharges to free beds. Part of the AI Exemplars programme, ministers and clinical directors say the initiative modernises the NHS, reduces bureaucratic burden and improves urgent care planning.",
+      "summaryTokens": 474,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
+    },
+    {
+      "id": "society/2025/dec/28/dagenhams-sewing-machinists-did-not-go-on-strike-primarily-for-equal-pay",
+      "title": "Dagenham’s sewing machinists did not go on strike primarily for equal pay | Letters",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/28/dagenhams-sewing-machinists-did-not-go-on-strike-primarily-for-equal-pay",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/28/dagenhams-sewing-machinists-did-not-go-on-strike-primarily-for-equal-pay",
+      "section": "society",
+      "publishedDate": "2025-12-28T17:54:26Z",
+      "trailText": "Letter: Sarah Boston on the women who fought for and ultimately won recognition of the skill and value of their work",
+      "summary": "In 1968, 187 sewing machinists at Ford’s Dagenham plant struck when a new grade structure rated their semi-skilled work as grade B instead of the C they sought. Production stopped until Barbara Castle secured a pay rise from 85% to full male grade B rate over two years. Their equal-value claim under the 1983 Equal Value Regulations led in 1984 to an ACAS panel unanimously regrading their roles to grade C, finally recognizing the skill and value of their work.",
+      "summaryTokens": 1500,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
+    },
+    {
+      "id": "society/2025/dec/28/andy-whitelaw-obituary",
+      "title": "Andy Whitelaw obituary",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/28/andy-whitelaw-obituary",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/28/andy-whitelaw-obituary",
+      "section": "society",
+      "publishedDate": "2025-12-28T15:37:09Z",
+      "trailText": "Doctor whose groundbreaking techniques for premature babies include ‘therapeutic cooling’ for newborns with oxygen deprivation",
+      "summary": "Neonatologist Andy Whitelaw (1946–2025) pioneered intraventricular haemorrhage treatment using drainage, irrigation and fibrinolytic therapy (Drift trials) and therapeutic hypothermia for oxygen-deprived newborns in CoolCap and TOBY trials. He also championed kangaroo care. He served as Hammersmith consultant (1981–89), paediatrics professor at Oslo (1989–97) and Bristol neonatal medicine professor (1998–2011), later presiding over the Neonatal Society. His methods significantly improved long-term neurodevelopment in preterm infants. Survived by wife Marianne Thoresen, four children and eight grandchildren.",
+      "summaryTokens": 1595,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
+    },
+    {
+      "id": "society/2025/dec/28/vulnerable-people-still-living-in-unsafe-supported-housing-in-england-two-years-after-law-was-passed",
+      "title": "Vulnerable people still living in unsafe supported housing in England two years after law was passed",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/28/vulnerable-people-still-living-in-unsafe-supported-housing-in-england-two-years-after-law-was-passed",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/28/vulnerable-people-still-living-in-unsafe-supported-housing-in-england-two-years-after-law-was-passed",
+      "section": "society",
+      "publishedDate": "2025-12-28T07:00:02Z",
+      "trailText": "Charities and MP Bob Blackman urge government to implement law to tackle scandal of ‘exempt’ accommodation",
+      "summary": "Two years after the 2023 Supported Housing Act received royal assent, ministerial delays on regulations leave thousands in unregulated “exempt” homes at risk. MP Bob Blackman and charities warn rogue landlords exploit housing benefit, packing vulnerable ex-prisoners, abuse survivors and those with mental health or addiction issues into overcrowded, mould-infested properties with scant support. Campaigners report horror stories—from sharing one washing machine among 70 residents to 36 known deaths in 2024—and urge swift implementation of minimum standards, licensing schemes and national oversight, beyond piecemeal council measures and a recent £124m funding boost.",
+      "summaryTokens": 505,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
+    },
+    {
+      "id": "society/2025/dec/28/vulnerable-people-set-up-to-fail-in-birminghams-streets-of-unregulated-supported-housing",
+      "title": "Vulnerable people ‘set up to fail’ in Birmingham’s streets of unregulated ‘supported’ housing ",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/28/vulnerable-people-set-up-to-fail-in-birminghams-streets-of-unregulated-supported-housing",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/28/vulnerable-people-set-up-to-fail-in-birminghams-streets-of-unregulated-supported-housing",
+      "section": "society",
+      "publishedDate": "2025-12-28T07:00:01Z",
+      "trailText": "The city now has 30,000 units crammed with people with mental health and other problems",
+      "summary": "In Birmingham, unregulated 'exempt' accommodation has ballooned to about 30,000 units, with hotspots like Selly Park’s Pershore Road where 42% of terraces are 6–9-bed houses leased via housing benefit. Landlords cram vulnerable tenants—people with mental health issues, addictions or fleeing abuse—into poorly supervised homes. Residents such as John Freeman and 'Sarah' describe weekly token checks, constant drug use, violence, and no tailored support. Local church volunteers supply emergency food and bus tickets but lack capacity. Campaigners warn of rising antisocial behaviour, high crime rates and community erosion, calling for tighter regulation to replace profit-led schemes with real care.",
+      "summaryTokens": 1293,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
+    },
     {
       "id": "society/2025/dec/27/equal-pay-settlements-for-female-council-workers-pass-1bn",
       "title": "Equal pay settlements for female council workers pass £1bn",
@@ -29,9 +89,9 @@
       "section": "society",
       "publishedDate": "2025-12-27T20:30:32Z",
       "trailText": "GMB union says 30,000 claims settled with six local councils for average of £30,000 and expects 10,000 more in 2026",
-      "summary": "The GMB union has secured £1.1bn in equal-pay settlements for nearly 30,000 female local‐council workers across six authorities—averaging £30,000 each—including a £250m Birmingham deal and Glasgow’s 2022 £770m settlement. Under the Equality Act 2010, claims focus on roles like carers, cleaners and teaching assistants whose pay grades and benefits lag male-dominated jobs. With 40,000 claims still outstanding across 26 councils and another 10,000 expected in 2026 at five more authorities, settlements at Sheffield (£60m), Leeds (£10m), Blaenau Gwent (£3m) and Falkirk (£3m) underline growing liabilities amid wider council funding pressures.",
-      "summaryTokens": 586,
-      "generatedAt": "2025-12-28T03:47:24.791Z"
+      "summary": "Equal pay settlements for female local council workers have exceeded £1bn after the GMB union secured 30,000 out-of-court claims across six councils—Glasgow (£770m), Birmingham (£250m), Sheffield (£60m), Leeds (£10m), Blaenau Gwent (£3m) and Falkirk (£3m)—averaging £30,000 per claim. Under the Equality Act 2010, women in roles such as cleaners, carers and assistants argued for parity with male-dominated jobs. Another 40,000 claims across 26 councils, plus 10,000 new claims expected in 2026, could add hundreds of millions more, intensifying financial pressure on local authorities.",
+      "summaryTokens": 899,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
     },
     {
       "id": "society/2025/dec/27/jobsplus-community-project-unemployment-work-teesside-stockton",
@@ -41,9 +101,9 @@
       "section": "society",
       "publishedDate": "2025-12-27T12:00:37Z",
       "trailText": "Stockton’s JobsPlus is a pilot scheme with caseworkers who connect individual people with potential jobs, providing direct financial help where necessary",
-      "summary": "JobsPlus is a pilot hyperlocal employment scheme in Stockton-on-Tees spanning Primrose Hill and Newtown, where caseworkers provide CV support, job matching, direct financial help and ongoing moral support. Inspired by a US model, it offers intensive community-based advice, incentives (£400 bonus after eight weeks) and taps local champions. Beneficiaries include security guard Bryan Stokell, retiree Yaw Botwe and teen Megan Steel. Since summer 2024, over 1,000 residents have enrolled and 270+ secured jobs; the DWP- and charity-backed project now awaits funding renewal in March amid rising UK unemployment.",
-      "summaryTokens": 748,
-      "generatedAt": "2025-12-28T03:47:24.791Z"
+      "summary": "Stockton’s JobsPlus pilot deploys local caseworkers in Primrose Hill and Newtown estates, Teesside, offering hyperlocal employment support, CV help, direct financial aid (£400 bonus, transport, interview outfits) and community engagement modeled on a US scheme. Backed by the DWP and Youth Futures Foundation, the 10-site trial has registered over 1,000 residents, with 270+ securing jobs and reaching the eight-week milestone. Participants include a security guard with health issues, a 19-year-old casino hire, single parents and care leavers. Sessions at a community hub boost social capital, while funding expires March 2025 amid pending renewal.",
+      "summaryTokens": 883,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
     },
     {
       "id": "society/2025/dec/27/how-community-action-confronting-racism-belfast",
@@ -53,9 +113,9 @@
       "section": "society",
       "publishedDate": "2025-12-27T08:00:34Z",
       "trailText": "An initiative linking people across race, class and faith offers an antidote to silence, hate and growing division Donate to the charity appeal here",
-      "summary": "At Belfast’s 174 Trust, the Circle of Change initiative brings together twelve strangers of varied race, class and faith for monthly meetups to share experiences, confront prejudice and fund local tolerance projects. Since 2018, circles have raised £50,000 for black after-school care and, in 2024, supported Tunes Translated’s Irish music classes for refugees and locals. Participants like Maureen Hamblin and Tony Macaulay say crossing sectarian and racial divides restored hope, challenged the bystander effect and modelled how small, personal acts can counter rising hate.",
-      "summaryTokens": 866,
-      "generatedAt": "2025-12-28T03:47:24.791Z"
+      "summary": "Maureen Hamblin, a black woman from Kenya, overcame isolation and renewed faith in Belfast through the Circle of Change, an initiative by the 174 Trust that brings race, class and faith-diverse groups together monthly to share stories and fund local tolerance projects. Since 2018 each circle tackles polarisation by visiting unfamiliar venues, raising thousands for after-school care and music integration schemes like Tunes Translated. Delivered from the Duncairn centre, the programme counters silence, hate and bystander inaction, proving small, personal acts can rebuild hope and community cohesion.",
+      "summaryTokens": 862,
+      "generatedAt": "2025-12-29T03:50:23.103Z"
     },
     {
       "id": "society/2025/dec/26/nhs-bme-staff-britain-fails-appreciate-roles",
