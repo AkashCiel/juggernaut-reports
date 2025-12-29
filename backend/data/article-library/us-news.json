@@ -1,26 +1,146 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-28T03:53:38.391Z",
+    "generated_at": "2025-12-29T03:54:19.739Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-28"
+      "to": "2025-12-29"
     },
-    "article_count": 1999,
+    "article_count": 2009,
     "merge_info": {
-      "previous_count": 1989,
+      "previous_count": 1999,
       "new_articles": 10,
-      "updated_articles": 16,
-      "total_count": 1999
+      "updated_articles": 12,
+      "total_count": 2009
     },
     "batch_info": {
-      "initial_batch_id": "batch_6950a8ea26008190b7a863c55cc2c2dd",
+      "initial_batch_id": "batch_6951fae8d95c8190b13e58694e9ffdf5",
       "retry_batches": [],
-      "total_tokens": 65133,
-      "processing_time_hours": 0.1
+      "total_tokens": 51749,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/29/trump-administration-latest-news-today",
+      "title": "Trump news at a glance: progress but no breakthrough in Ukraine peace talks",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/29/trump-administration-latest-news-today",
+      "section": "us-news",
+      "publishedDate": "2025-12-29T00:51:29Z",
+      "trailText": "Donald Trump says ‘one or two tough’ issues could lead to negotiations breaking down – key US politics stories from 28 December at a glance",
+      "summary": "After a two-hour Florida meeting with Ukraine’s Volodymyr Zelenskyy, President Trump said a draft Ukraine-Russia peace deal is “95% done,” but “one or two tough” issues—territory and endgame—remain, despite an “excellent” 2½-hour call with Russia’s Vladimir Putin. Other highlights: the US economy shows mixed jobs and inflation performance; Rep. Mike Turner says US strikes in Nigeria and Syria align with longstanding anti-IS policy; the FBI mobilized resources in Minnesota, dismantling a $250m food-aid fraud (78 indictments, 57 convictions); a severe winter storm sweeps the Plains; overdose deaths continue an uneven decline; silver prices hit record highs; and Bernie Sanders warns of AI risks and suggests a datacenter moratorium.",
+      "summaryTokens": 2003,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
+      "title": "FBI deploys more resources to ‘dismantle fraud schemes’ in Minnesota",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T20:08:06Z",
+      "trailText": "Kash Patel claims $250m scheme that stole Covid aid is ‘tip of iceberg’ and alleges state’s Somalia population is to blame",
+      "summary": "The FBI has surged personnel into Minnesota to dismantle large-scale fraud exploiting federal Covid-era programs, director Kash Patel announced after dismantling a $250 million food-aid scheme. Patel warned this is \"the tip of a very large iceberg\"; federal estimates suggest up to $9 billion stolen, largely tied to Minnesota's Somali community, with some defendants referred for denaturalization and deportation. A viral report highlighted a $4 million daycare scam. Former president Donald Trump has branded Somali immigrants a fraud hub and ended their legal protections, prompting Rep Ilhan Omar to denounce racist rhetoric and defend pandemic aid measures.",
+      "summaryTokens": 2170,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters",
+      "title": "Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T19:00:07Z",
+      "trailText": "Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas",
+      "summary": "On CNN’s State of the Union, Sen. Bernie Sanders warned that AI—driven by the richest tech moguls like Musk and Zuckerberg—threatens jobs, income security and human interaction, calling it “the most consequential technology” and urging Congress to study its mental health impact and consider a moratorium on new datacenters. GOP Sen. Katie Britt proposed the Guard Act to ban minors’ access to AI companions, require disclosure of non-human status and impose criminal liability for harmful content.",
+      "summaryTokens": 788,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/military-strikes-nigeria-syria-trump-islamic-state",
+      "title": "US strikes on Nigeria and Syria are ‘consistent’ with policy to combat IS, Republican says",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/military-strikes-nigeria-syria-trump-islamic-state",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/military-strikes-nigeria-syria-trump-islamic-state",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T17:37:15Z",
+      "trailText": "House armed services committee’s Mike Turner denied that military strikes showed new Trump approach to US forces",
+      "summary": "Rep. Mike Turner told ABC’s This Week that recent US cruise-missile strikes on Islamic State camps in Nigeria and Syria represent a continuation of long-standing counter-IS policy from Trump’s first term, not a new second-term doctrine. He stressed IS remains a global threat requiring allied cooperation. President Trump hailed the Nigeria strike as a “Christmas present” against IS “butchers,” and Defense Secretary Pete Hegseth vowed to protect Christians there. Turner also linked US consistency on IS to support for Ukraine against Putin’s attacks.",
+      "summaryTokens": 538,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/oklahoma-man-target-practice-fatal-shooting-neighbor",
+      "title": "Oklahoma man doing target practice in back yard charged in fatal shooting of neighbor",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/oklahoma-man-target-practice-fatal-shooting-neighbor",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/oklahoma-man-target-practice-fatal-shooting-neighbor",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T17:21:32Z",
+      "trailText": "Cody Adams, 33, charged with manslaughter after neighbor blocks away was killed as he was firing at a drink can",
+      "summary": "Cody Wayne Adams, 33, is charged with first-degree manslaughter after a stray bullet from his new Christmas handgun struck and killed Sandra Phelps several blocks away as she sat under her porch holding a child. Adams had been firing at an energy drink can in his backyard, which lacked any ballistic backstop, investigators found. Matching the shooting angle, authorities arrested him after he tearfully confirmed he had been target practicing that afternoon. Released on $100,000 bond, his case underscores the US’s high rate of unintentional handgun deaths.",
+      "summaryTokens": 605,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/catholic-bishop-michael-pham-protecting-immgrants",
+      "title": "For this Catholic bishop, protecting immigrants is personal",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/catholic-bishop-michael-pham-protecting-immgrants",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/catholic-bishop-michael-pham-protecting-immgrants",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T16:00:10Z",
+      "trailText": "Michael Pham fled communist Vietnam by boat as a child. Now, as bishop of San Diego, he is putting faith into action",
+      "summary": "Michael Pham, the first Vietnamese American US diocesan bishop, draws on his own 1960s boat‐escape from Vietnam to launch Faithful Accompaniment in Trust and Hope, a program mobilizing 500 clergy and volunteers from 17 faiths to visibly accompany immigrants at San Diego’s federal court, reducing visible ICE arrests and shifting enforcement tactics. Amid ongoing sexual‐abuse settlements in his diocese, Pham frames immigrant advocacy as a nonpartisan gospel imperative, urging Catholics across political divides to listen, dialogue and welcome the stranger.",
+      "summaryTokens": 606,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/texas-father-rescues-kidnapped-daughter-tracking-phone",
+      "title": "Texas father rescues kidnapped 15-year-old daughter after tracking her phone’s location ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/texas-father-rescues-kidnapped-daughter-tracking-phone",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/texas-father-rescues-kidnapped-daughter-tracking-phone",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T14:40:59Z",
+      "trailText": "Authorities say they arrested a man, 23, for kidnapping teen in a Houston suburb as she walked her dog on Christmas",
+      "summary": "On Christmas Day in Porter, Texas, a 15-year-old was abducted at knifepoint while walking her dog. Her father used phone parental controls to locate her two miles away in a wooded Harris County area inside a pickup with 23-year-old Giovanni Rosales Espinoza. He rescued her and alerted deputies, who arrested Rosales without incident. He faces aggravated kidnapping and indecency with a child charges and remains in custody without bail. Montgomery County Sheriff Wesley Doolittle praised deputies’ swift action. Victim and father identities are withheld; Texas law imposes minimum sentences of five years for kidnapping and two years plus sex offender registration for indecency.",
+      "summaryTokens": 1016,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/epstein-files-reveal-routine-child-abuse",
+      "title": "‘You know what I like’: Epstein files reveal disgraced financier’s routine abuse of girls",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/epstein-files-reveal-routine-child-abuse",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/epstein-files-reveal-routine-child-abuse",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T13:00:07Z",
+      "trailText": "Released documents detail the assembly line-like process with which Jeffrey Epstein procured underage victims",
+      "summary": "DOJ’s newly released 2000s investigative files show Epstein and associates ran an assembly-line grooming operation from 2002 to 2005, trafficking dozens of underage girls as young as 14 through paid massage work. Ghislaine Maxwell and staff recruited students under the guise of office jobs, coordinated call-in drop-offs and pressured victims to recruit peers. FBI notes from 2019 describe a crisis over 'running out of girls' and highlight strict age verification. Files also implicate modeling agent Jean-Luc Brunel, uninvestigated 1996 child-pornography leads and evidence of shared abuse images. Victims were treated as commodities by a network that viewed them as replaceable bodies.",
+      "summaryTokens": 1337,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/cecot-el-salvador-venezuela-immigration",
+      "title": "‘We became famous, but at what cost?’: after the horrors of Cecot, the search for a normal life",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/cecot-el-salvador-venezuela-immigration",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/cecot-el-salvador-venezuela-immigration",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T12:00:09Z",
+      "trailText": "After months of torture in the Salvadorian prison, the men deported from the US reunite with families in Venezuela",
+      "summary": "Deported from the US without due process and accused of Tren de Aragua membership, 252 Venezuelan asylum seekers spent four brutal months in El Salvador’s notorious Cecot prison—beaten, abused and raped, per HRW and Cristosal. Released in July via a US-Venezuela diplomatic swap, they returned home to PTSD, public stigma and dire finances. Makeup artist Andry Hernández Romero—wrongfully branded a gang member—can’t find work and endures flashbacks of “La Isla” torture. Ostracized by salons and haunted by memories, he and his 251 peers draw strength from shared therapy, dreaming of rebuilding their lives and pursuing justice.",
+      "summaryTokens": 1333,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
+    {
+      "id": "us-news/2025/dec/28/crisis-intervention-training-overdose-death-decline",
+      "title": "The little-known program contributing to a decline in overdose deaths in the US",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/28/crisis-intervention-training-overdose-death-decline",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/28/crisis-intervention-training-overdose-death-decline",
+      "section": "us-news",
+      "publishedDate": "2025-12-28T12:00:08Z",
+      "trailText": "Crisis intervention training helps police recognize substance use disorders and connect people with treatment",
+      "summary": "Since fall 2023, US overdose deaths have dipped unevenly across states, with West Virginia among the biggest improvers. Public health experts point to expanding crisis intervention training (CIT) for police as a factor: officers learn to spot substance use crises, engage individuals with empathy and de-escalation, and arrange ‘warm handoffs’ to treatment instead of arrest. Early comparisons show jurisdictions with CIT see greater fatality declines. Advocates argue this approach reduces crime and repeat overdose, while skeptics favor incarceration over treatment.",
+      "summaryTokens": 341,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
+    },
     {
       "id": "us-news/2025/dec/28/trump-administration-news-updates-today",
       "title": "Trump news at a glance: Republican turns ‘lowlife’ taunt back on president to raise campaign funds",
@@ -29,9 +149,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-28T02:46:41Z",
       "trailText": "Thomas Massie, who co-authored Epstein files act, says president attacked him for keeping commitment to ‘help victims’. Key US politics stories from 27 December at a glance",
-      "summary": "Kentucky GOP Rep. Thomas Massie—architect of the Epstein Files Transparency Act—was labeled a “lowlife” by Trump for pushing release of Epstein documents; Massie then turned the insult into a fundraiser, raising nearly $3K in two hours for his 2026 primary against Trump-backed Ed Gallrein. Nationally, Republicans face bleak 2026 midterm prospects as young and Latino voters defect and GOP senators retire; Kennedy Center chief Richard Grenell demands $1M from a musician who canceled a Christmas Eve show over Trump’s renaming; and Trump urges Senate Republicans to eliminate the filibuster to fast-track his agenda.",
-      "summaryTokens": 754,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "Kentucky Republican Thomas Massie, co-author of the Epstein Files Transparency Act, was branded a “lowlife” by Donald Trump on Christmas after pushing to release federal Epstein records. Massie seized the insult to solicit nearly $3,000 in campaign donations within hours as he prepares for a 2026 primary challenge backed by Trump’s pick, retired Navy SEAL Ed Gallrein. Meanwhile, Trump urged Senate Republicans to abolish the filibuster to advance his agenda, the Kennedy Center sued a musician for $1m over a Trump-related show cancelation, and other updates include Tesla Cybertrucks in Vegas policing, a rare ectopic pregnancy birth in California and Northeast winter storm flight disruptions.",
+      "summaryTokens": 439,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/27/southern-california-cleans-up-after-the-wettest-christmas-season-in-recent-history",
@@ -41,9 +161,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T18:15:09Z",
       "trailText": "More than 17in of rain fell in Ventura county, with trees felled and hundreds of car crashes throughout the region",
-      "summary": "An atmospheric river unleashed Southern California’s wettest Christmas in history, drenching Santa Barbara with 5.91in on Dec 24–25 and dumping over 17in in Ventura County mountains. More than 10in swamped San Gabriel peaks, toppling trees, triggering hundreds of crashes and power outages statewide, and mudflows inundating homes. An EF-0 tornado with 80 mph winds carved a third-mile path in Boyle Heights, damaging homes and a strip mall. Firefighters rescued 100+ people, while Gov. Newsom and LA Mayor Bass declared emergencies across six counties. Though rains have eased, flood and mudslide risks persist ahead of New Year’s showers.",
-      "summaryTokens": 962,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "An atmospheric river dumped record rainfall across Southern California over Christmas Eve and Day—5.91in at Santa Barbara and over 17in in Ventura County—triggering hydroclimate whiplash. The deluge felled trees, cut power, caused hundreds of crashes, mudflows into homes and spawned an EF-0 tornado in Boyle Heights that damaged a house and strip mall. Mayor Bass and Gov. Newsom declared emergencies in multiple counties as L.A. firefighters rescued over 100 people. With flash-flood and mudslide risks persisting, forecasters predict a dry weekend before renewed rain and Sierra Nevada snowfall around New Year’s.",
+      "summaryTokens": 822,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/27/oregon-wine-vineyard-manager-ice-deportation",
@@ -53,9 +173,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T17:00:42Z",
       "trailText": "Alondra Sotelo Garcia took over her father’s business when he was deported to Mexico after three decades in the US",
-      "summary": "After ICE deported veteran vineyard manager Moises Sotelo to Mexico in July, his 26-year-old daughter Alondra Sotelo Garcia left her logistics job in Newberg, Oregon, to run his vineyard management company. Facing a global wine downturn, a split family, and mounting bills, she collaborates with her father’s former mentees to keep pruning, training and harvesting vines by hand across Willamette Valley. Meanwhile, she travels between the US and Mexico to settle her parents’ new life, manages GoFundMe finances and grapples with layoffs and community fear under the Trump administration’s sweeping immigration raids.",
-      "summaryTokens": 1008,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "After vineyard manager Moises Sotelo was detained by ICE in June and deported in July, his daughter Alondra Sotelo Garcia quit her shipping logistics job and moved back to Newberg to run the family’s vineyard‐management company. With her mother, Irma, joining Moises in Mexico, Alondra took charge of staff, navigated a downturn in the global wine market, and organized GoFundMe proceeds to secure housing and support her parents’ resettlement. Balancing seasonal vineyard tasks and mounting bills, she marshals community ties to keep the business afloat. Her story highlights the human, economic and agricultural fallout of aggressive deportation policies in rural Oregon.",
+      "summaryTokens": 947,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/27/trump-republicans-filibuster-rule-senate",
@@ -65,9 +185,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T15:00:13Z",
       "trailText": "Rule allows minority party to block legislation, but GOP is reluctant to scrap it as they could lose majority",
-      "summary": "In a Politico interview President Trump urged Senate Republicans to eliminate the filibuster to streamline passage of his 2026 agenda, avert government shutdowns and enact priorities like voter ID and healthcare reforms. He argues the 60-vote rule is obstructing GOP governance despite a 53-seat majority and warns centrists fear losing minority protections when power shifts. Facing midterm pressure, he predicts the campaign will focus on “pricing” over “affordability” as Republicans seek to highlight economic improvements under his leadership.",
-      "summaryTokens": 659,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "In a December 27 Politico interview, former President Donald Trump urged Senate Republicans to eliminate the filibuster—the procedural tool allowing a minority of senators to block bills—arguing it hampers GOP priorities and risks another government shutdown. With a narrow 53–47 majority, Trump said scrapping the rule would pave the way for healthcare reform, voter ID requirements and other agenda items ahead of the 2026 midterms. He reprised an October call to end the filibuster to reopen the government and framed upcoming campaigns around “pricing” amid signs of cooling inflation, contrasting it with Democrats’ “affordability” messaging.",
+      "summaryTokens": 939,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/27/fbi-j-edgar-hoover-building",
@@ -77,9 +197,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T14:21:07Z",
       "trailText": "Iconic building, called ‘greatest monstrosity ever constructed’ by Hoover himself, to be closed down",
-      "summary": "FBI Director Kash Patel announced permanent closure of the Brutalist J. Edgar Hoover Building in Washington DC, ending over 20 years of stalled relocation efforts. The bureau will move into existing offices at the Ronald Reagan Building and International Trade Center, repurposing former USAID space. Patel said the shift bolsters homeland defense, violent crime suppression and national security with modern facilities at lower cost. The decision follows a Maryland lawsuit over funding for a scrapped state relocation. Designed in the 1960s, the Hoover headquarters had long been derided, even by J. Edgar Hoover, as “the greatest monstrosity ever constructed in the history of Washington.”",
-      "summaryTokens": 1579,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "The FBI plans to permanently close its aging, brutalist J Edgar Hoover building in Washington DC after two decades of failed relocation efforts. Director Kash Patel announced the agency will move personnel into existing offices at the Ronald Reagan Building and International Trade Center, utilizing vacated USAID spaces. He emphasized modern facilities, resource savings, and enhanced national security capabilities. The decision follows a Maryland lawsuit over scrapped congressional-funded relocation plans and revives debate over the building’s controversial 1960s design—once dubbed “the greatest monstrosity ever constructed” by its namesake.",
+      "summaryTokens": 792,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/27/california-woman-ectopic-pregnancy",
@@ -89,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T14:00:40Z",
       "trailText": "Suze Lopez found out she was pregnant only days before giving birth, due to fetus hiding behind 22lb ovarian cyst",
-      "summary": "In August, Bakersfield ER nurse Suze Lopez, 41, delivered baby Ryu after an extraordinarily rare ectopic pregnancy concealed by a 22lb ovarian cyst. Implanted outside her empty uterus, the fetus reached term—an event far less than one in a million. Doctors at Cedars-Sinai removed both cyst and baby via surgery with a 30-member team. Ryu spent two weeks in the NICU; both now healthy. Lopez, who had irregular periods, a prior ovary removal and had sought a second child for 17 years, only discovered her pregnancy days earlier. The case will be documented in medical journals.",
-      "summaryTokens": 1137,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "Suze Lopez, a 41-year-old ER nurse from Bakersfield, delivered baby Ryu in August via emergency surgery after doctors discovered an advanced abdominal ectopic pregnancy hidden behind a 22-lb ovarian cyst. Occurring in 1 in 30,000 pregnancies—and full-term in fewer than 1 in a million—Ryu’s development went unnoticed until days before birth. A 30-physician team at Cedars-Sinai removed both the cyst and the baby in a single operation. Lopez, who’s had ovarian cysts for years, initially attributed symptoms to her cyst. Both mother and Ryu have fully recovered, and Cedars-Sinai plans to document this unprecedented case in medical literature.",
+      "summaryTokens": 1021,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/28/new-orleans-archdiocese-bankruptcy-abuse-settlement",
@@ -101,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T14:00:40Z",
       "trailText": "Long-winded legal wrangling and recalcitrant Catholic church leadership thwarted hopes for timely settlement",
-      "summary": "Survivors like James Adams say the New Orleans Archdiocese’s 2020 Chapter 11 filing extended legal delays, shielded internal clergy abuse records and blocked depositions of Archbishop Aymond, who oversaw decades of cover-ups. Joint creditors’ committee meetings moved slowly under Judge Grabill’s secrecy orders, fines and purges of victim advocates frustrated claims. High-profile revelations—Fr James Collery’s decade-old abuse, Fr Paul Hart’s reassignment and lawsuit battles—amplified anger. After five years, a $305 million settlement was approved, but veterans warn the process inflicted emotional and financial tolls on survivors seeking transparency and justice.",
-      "summaryTokens": 826,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "Since May 2020 the New Orleans archdiocese’s Chapter 11 filing stalled abuse claims by 310 alleged clerical predators (the church lists just 79), frustrating survivors like ex-CCF president James Adams. Judge Grabill’s secrecy orders forestalled depositions, purged victims’ reps from the creditors’ committee and fined lawyers for leaks. After five years of slow negotiations and contested discovery, a $305 million settlement won approval in December 2025, but survivors lament the emotional toll of protracted legal wrangling and church opacity.",
+      "summaryTokens": 481,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/27/inflatable-frogs-ad-campaign-trump-protest-methods",
@@ -113,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T14:00:39Z",
       "trailText": "Historically, when organizers have used tactical innovation, movement activity has peaked",
-      "summary": "Facing federal raids, cutbacks and immigration sweeps under Trump in 2025, Americans deployed nine novel nonviolent tactics: the Monrovia Home Depot ice‐scraper “buy‐in” to jam returns, inflatable frog suits by Portland’s Frog Brigade, “No Sleep for ICE” rooftop noise outside LA hotels, a #TeslaTakedown stock boycott, mass Disney+ unsubscribes after ABC censorship, high‐pitched whistles in Chicago to alert communities, nightly DC pot‐banging cacerolazos, Memphis pop-up block parties for voter outreach, and Women’s March Win ads urging ICE agents to quit.",
-      "summaryTokens": 1326,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "Americans deployed nine novel nonviolent tactics to resist Trump’s 2025 policies nationwide: from symbolic ice-scraper buy-ins at Home Depot and whimsical inflatable-frog demonstrations (“tactical frivolity”) at ICE facilities, to “No Sleep for ICE” hotel noise campaigns, #TeslaTakedown boycotts, mass unsubscribes from Disney+, high-pitch whistle alerts in Chicago, nightly cacerolazo pot-banging in DC, pop-up block parties for votes in Memphis, and a Women’s March Win ad urging ICE staff to “walk away.” These innovations echo civil rights-era strategy, broadening grassroots engagement across LA, Portland, Chicago, DC, Memphis and beyond.",
+      "summaryTokens": 831,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/28/congress-us-house-censure",
@@ -125,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T13:00:39Z",
       "trailText": "Lawmakers spent much of 2025 seeking to reprimand each other – here’s a look back at what sparked such outrage",
-      "summary": "In 2025, amid record-breaking floor speeches, votes and a historic shutdown, the U.S. House saw at least 17 censure or disapproval resolutions—only one (Dan Newhouse’s against Al Green for interrupting Trump) passed—sparked by incidents like Robert Garcia calling Elon Musk a “dick”; cane-waving during Trump’s address; racial slurs by Boebert and Ogles; mocking Gov. Abbott’s wheelchair; an ICE protest arrest; Ilhan Omar’s Charlie Kirk comments; election-fairness claims; Stacey Plaskett’s Epstein texts; and abuse allegations against Cory Mills. Bipartisan lawmakers now seek tighter censure rules.",
-      "summaryTokens": 1645,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "In a record-breaking year for the House, lawmakers introduced at least 17 censure or disapproval resolutions over insults to Elon Musk, Al Green’s shouting at Trump, racial slurs, mocking Governor Abbott’s wheelchair, confrontations at ICE facilities, and texts with Jeffrey Epstein. Only one—against Green—passed, prompting bipartisan bids to tighten censure rules. Other targets included Boebert, Crockett, Ogles, Omar, Garcia, Plaskett and Mills, amid accusations of back-room deals to shield allies. Though censures carry no formal penalties beyond public rebuke, the spree underscored deep partisan rancor and calls to curb procedural abuse.",
+      "summaryTokens": 942,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/27/kentucky-republican-thomas-massie-trump-epstein-files",
@@ -137,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T09:00:33Z",
       "trailText": "Kentucky’s Thomas Massie used the president’s insult to raise funds to run against a Trump-endorsed candidate",
-      "summary": "Kentucky congressman Thomas Massie, co-author of the bipartisan Epstein Files Transparency Act, was labeled a “lowlife Republican” by Donald Trump on Christmas after pushing to release all federal documents on Jeffrey Epstein. Massie used the insult to solicit campaign donations for his 2026 primary against Trump-endorsed retired Navy SEAL Ed Gallrein, raising nearly $3,000 within two hours. The feud highlights a widening rift as Massie demands accountability for Epstein’s associates—citing equal consequences for figures like Andrew Mountbatten-Windsor—and presses the DOJ, which admitted to finding over a million unreleased files, to meet the act’s transparency deadline.",
-      "summaryTokens": 378,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "Rep. Thomas Massie, co-author of the bipartisan Epstein Files Transparency Act, was derided by Donald Trump as a “lowlife Republican” on Truth Social after pushing for release of Jeffrey Epstein documents to aid victims. Massie seized the insult in an X post to solicit campaign donations ahead of his 2026 primary challenge against Trump-endorsed Ed Gallrein, raising $3,000 from 40 donors within two hours. The spat underscores a growing rift: Trump’s Justice Department missed the Act’s December 19 deadline, though it released some files and uncovered over a million additional documents pending review.",
+      "summaryTokens": 1004,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/26/trump-administration-news-updates-today",
@@ -149,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T01:00:23Z",
       "trailText": "Country’s foreign minister says his president signed off on US air attack – key US politics stories from 26 December at a glance",
-      "summary": "Nigeria’s foreign minister Yusuf Tuggar confirmed President Bola Tinubu signed off on US airstrikes against Islamic State camps in north-west Nigeria on Christmas Day, providing intelligence and coordinating “extensive” talks with US officials. Tuggar stressed the operation targeted terrorists, not tied to Christmas or religion. US Defense Secretary Pete Hegseth warned more strikes are coming. Trump backers praised the action as a “Christmas present.” Elsewhere, a UK anti-disinformation campaigner speaks out on Trump-era removal threats; Volodymyr Zelenskiy readies Mar-a-Lago talks with Trump; briefs cover Trump’s staffing shifts, craftivist protests, and a pulled CBS News segment.",
-      "summaryTokens": 632,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "On Dec 26, Nigeria’s foreign minister Yusuf Tuggar confirmed President Tinubu green-lit U.S. Christmas Day strikes on Islamic State camps in northwest Nigeria, supplying “extensive” intelligence in calls with U.S. Secretary of State Marco Rubio. Tuggar said operations target militants, not religion, and future coordinated raids are possible. U.S. Defense Secretary Pete Hegseth warned more strikes are coming. Trump supporters celebrated the action, while other briefs note Volodymyr Zelenskiy’s planned Mar-a-Lago talks, a UK anti-disinformation campaigner facing U.S. removal, craftivist protests, Trump’s staffing shift toward loyalty, and Bari Weiss’s pulled 60 Minutes episode.",
+      "summaryTokens": 703,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/26/california-storms-wind-rain-snow",
@@ -161,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-27T00:44:10Z",
       "trailText": "At least three people killed across state since atmospheric river storms began earlier this week",
-      "summary": "A powerful atmospheric river brought the wettest Christmas in 54 years to southern California, unleashing up to 12 inches of rain that triggered mudslides burying cars and homes up to their windows in the mountain town of Wrightwood. Authorities issued evacuation warnings as roads washed out and power failed. Firefighters rescued over 100 people, including 21 airlifted by helicopter, while police logged 350 traffic collisions. At least three storm-related deaths were reported statewide. Flood watches and wind advisories remain in effect across the region, with more rain, mountain snow, and flash‐flood risks ahead.",
-      "summaryTokens": 1188,
-      "generatedAt": "2025-12-28T03:53:38.141Z"
+      "summary": "Mudslides triggered by an atmospheric river dumped up to 12 inches of rain on Wrightwood, California, on Christmas, burying cars and homes to window height and prompting evacuation orders for the 5,000-resident town northeast of Los Angeles. San Bernardino County firefighters rescued over 100 people, while LA County handled more than 350 collisions. It was downtown LA’s wettest Christmas in 54 years. Since the storms began, three have died: a motorist in Redding, a Sacramento sheriff’s deputy and a man in San Diego felled by a tree. More flash flooding, wind-driven debris flows and heavy Sierra Nevada snowfall are forecast, with flood watches statewide and a weekend Northeast winter storm looming.",
+      "summaryTokens": 962,
+      "generatedAt": "2025-12-29T03:54:19.318Z"
     },
     {
       "id": "us-news/2025/dec/26/georgia-jailbreak-lyft-hijack",
