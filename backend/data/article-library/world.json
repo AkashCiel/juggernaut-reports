@@ -1,37 +1,265 @@
 {
   "metadata": {
     "section": "world",
-    "generated_at": "2025-12-29T03:57:00.679Z",
+    "generated_at": "2025-12-30T03:56:03.198Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2025-12-29"
     },
-    "article_count": 1804,
+    "article_count": 1822,
     "merge_info": {
-      "previous_count": 1794,
-      "new_articles": 10,
-      "updated_articles": 15,
-      "total_count": 1804
+      "previous_count": 1804,
+      "new_articles": 18,
+      "updated_articles": 14,
+      "total_count": 1822
     },
     "batch_info": {
-      "initial_batch_id": "batch_6951fb74afa88190a9896a34042ec58b",
+      "initial_batch_id": "batch_69534c4f19308190a42e8a079a39d462",
       "retry_batches": [],
-      "total_tokens": 53571,
-      "processing_time_hours": 0
+      "total_tokens": 77526,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "world/2025/dec/29/gaza-ceasefire-hinges-return-last-israeli-hostage-netanyahu-trump",
+      "title": "Hamas will have ‘hell to pay’ if it fails to disarm, Trump warns after Netanyahu meeting",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/gaza-ceasefire-hinges-return-last-israeli-hostage-netanyahu-trump",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/gaza-ceasefire-hinges-return-last-israeli-hostage-netanyahu-trump",
+      "section": "world",
+      "publishedDate": "2025-12-29T23:00:19Z",
+      "trailText": "Israeli prime minister said he will award Trump with Israel prize, highest civilian honor, while visiting Mar-a-Lago",
+      "summary": "At Mar-a-Lago, Donald Trump backed Benjamin Netanyahu, warning Hamas it will have ‘hell to pay’ if it fails to disarm under the Gaza ceasefire. In a show of mutual praise, Netanyahu announced he will award Trump the Israel Prize—the first non-Israeli recipient. Washington is pressing Israel to pull back troops and install a Palestinian technocratic interim authority alongside an international stabilisation force, but Israel insists Hamas return the remains of the last Israeli hostage before any phase-two steps. Hamas refuses full disarmament, retaining light arms and rejecting a withdrawal timetable.",
+      "summaryTokens": 1067,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
+      "title": "Jair Bolsonaro undergoes second procedure to treat persistent hiccups",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
+      "section": "world",
+      "publishedDate": "2025-12-29T22:07:50Z",
+      "trailText": "Former Brazilian president underwent a phrenic nerve block while temporarily released from prison for surgery",
+      "summary": "Former Brazilian president Jair Bolsonaro, jailed for a 27-year sentence over his 2022 election coup attempt, underwent a second minimally invasive phrenic nerve block on Dec 29 to treat nine months of persistent hiccups. Hospitalised since Christmas Eve for court-authorised hernia surgery, the right-side procedure succeeded; doctors postponed the left-side block. His condition is stable, with discharge slated for Jan 1 before returning to a federal police jail in Brasília. Accompanied by wife Michelle, he endorsed son Flavio’s 2026 presidential bid while in hospital.",
+      "summaryTokens": 929,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/volodymyr-zelenskyy-donald-trump-us-security-guarantees-ukraine",
+      "title": "Zelenskyy accuses Russia of trying to sabotage peace talks with ‘typical Russian lies’",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/volodymyr-zelenskyy-donald-trump-us-security-guarantees-ukraine",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/volodymyr-zelenskyy-donald-trump-us-security-guarantees-ukraine",
+      "section": "world",
+      "publishedDate": "2025-12-29T19:35:45Z",
+      "trailText": "Russia’s claim it foiled drone attack on Putin residence shows ‘they do not want to finish this war’, Ukrainian president says",
+      "summary": "In a two-hour Mar-a-Lago meeting with Donald Trump, Volodymyr Zelenskyy denounced Russia’s claim of foiling a Ukrainian drone strike on Putin’s residence as “typical Russian lies” designed to undermine US-backed peace efforts. He warned of looming attacks on Kyiv, rejected Moscow’s land-withdrawal demands, and outlined new US security guarantees—15 years of protections pending US Congress and Ukrainian parliamentary approval. Zelenskyy proposed a demilitarised economic zone along current lines, a referendum after a 60-day ceasefire, and pledged further talks with European leaders and Trump.",
+      "summaryTokens": 637,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/netanyahu-to-meet-trump-in-us-amid-fears-of-israeli-regional-offensives",
+      "title": "Netanyahu meets Trump in US amid fears of Israeli regional offensives",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/netanyahu-to-meet-trump-in-us-amid-fears-of-israeli-regional-offensives",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/netanyahu-to-meet-trump-in-us-amid-fears-of-israeli-regional-offensives",
+      "section": "world",
+      "publishedDate": "2025-12-29T19:33:44Z",
+      "trailText": "Israel’s PM travels to Mar-a-Lago as US administration reported to be running out of patience over Gaza ceasefire",
+      "summary": "At Mar-a-Lago, PM Netanyahu held his fifth US meeting with Trump, focusing on advancing phase two of Trump’s 20-point Gaza ceasefire plan—namely Hamas disarmament, interim technocratic authority and international stabilisation force—amid US frustration over Israeli delays and fears Israel will open new fronts against Hezbollah in Lebanon or Iran’s missile sites. Trump reiterated threats to ‘knock down’ Iran if it rebuilds missiles and claimed credit for hostage releases, while reportedly urging a pardon for Netanyahu. Analysts note regional ceasefire violations, Gaza’s humanitarian crisis and Netanyahu’s upcoming election shaping his push for US backing on security and arms sales.",
+      "summaryTokens": 886,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "section": "world",
+      "publishedDate": "2025-12-29T18:48:34Z",
+      "trailText": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration",
+      "summary": "A train on the Interoceanic route in Oaxaca derailed, killing 13 of the 250 passengers and injuring 98 (five critically). Built to link the Atlantic and Pacific under former president AMLO and overseen by the military, the project joins the Mayan Train in rapid-build public works now under scrutiny for safety after multiple derailments this year. Opposition PRI leader Alejandro Moreno demands pausing construction and a full audit. President Claudia Sheinbaum, who will visit Oaxaca, insists all safety protocols were met and vows a thorough investigation into the cause.",
+      "summaryTokens": 348,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/key-factors-in-the-unstoppable-rise-of-fascists-in-germany",
+      "title": "Key factors in the unstoppable rise of fascists in Germany | Letters",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/key-factors-in-the-unstoppable-rise-of-fascists-in-germany",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/key-factors-in-the-unstoppable-rise-of-fascists-in-germany",
+      "section": "world",
+      "publishedDate": "2025-12-29T17:44:25Z",
+      "trailText": "Letters: Dr Jens Holst on why voters are drifting towards the right, Ahmed Dirie on arming ourselves against Fascism 2.0 movement, and Paul Gander on the role of the state and the media",
+      "summary": "Three letters dissect the AfD surge: Dr Jens Holst argues that conservative-SPD coalition policies on rising living costs, soaring rents, widening inequality and prioritisation of global finance capital over social cohesion fuel right-wing support, echoing 1930s fears of big business and Bolshevism. Ahmed Dirie warns that modern “administrative fascism” trades uniforms for bureaucratic tools—Islamophobia, militarised borders, procedural “remigration” plans and the demonisation of ecological restructuring—to normalise civilisational exclusion and erode universal human dignity. Paul Gander highlights state heavy-handed policing, terrorism labels and compliant media propaganda as the real convergence enabling today’s authoritarian drift.",
+      "summaryTokens": 1936,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+      "title": "More than 3,000 migrants died trying to reach Spain in 2025",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+      "section": "world",
+      "publishedDate": "2025-12-29T17:31:31Z",
+      "trailText": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say",
+      "summary": "NGO Caminando Fronteras reports 3,090 migrants drowned en route to Spain between January and mid-December 2025—a steep drop from 10,457 in 2024 attributed to tighter border controls. Activists warn these measures have pushed crossings onto more dangerous routes, causing 303 shipwrecks, 70 missing boats, and high fatality counts from Algeria to the Balearics (1,037) and West Africa to the Canaries (1,906). Arrivals fell to 35,935 from 60,311 amid an EU–Mauritania deal funded with €210m. Human Rights Watch accuses Mauritania of migrant abuses, and the report condemns ‘necropolitics’, delayed rescues, and insufficient resources.",
+      "summaryTokens": 649,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/germanys-far-right-afd-invited-to-join-munich-security-conference-2026",
+      "title": "Germany’s far-right AfD invited to join Munich Security Conference 2026",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/germanys-far-right-afd-invited-to-join-munich-security-conference-2026",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/germanys-far-right-afd-invited-to-join-munich-security-conference-2026",
+      "section": "world",
+      "publishedDate": "2025-12-29T16:25:42Z",
+      "trailText": "Move comes after party’s exclusion for last two years was lambasted by JD Vance at this year’s event",
+      "summary": "After two years barring Alternative für Deutschland, the Munich Security Conference has invited all Bundestag parties’ foreign affairs and defence committee MPs, including around 19 AfD deputies, to its 2026 gathering. Organisers say this restores a pre-2024 policy and is decided independently, despite US Vice-President JD Vance’s criticism for prior exclusions. The move, overseen by interim chair Wolfgang Ischinger, sparks debate over normalising a party labelled extremist by Germany’s spies, amid AfD’s growing electoral strength and concerns over Kremlin ties.",
+      "summaryTokens": 1062,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/palestinian-family-fighting-save-west-bank-farm-israel-settlers",
+      "title": "‘A gift that cannot be sold’: the Palestinian family fighting to save their West Bank farm",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/palestinian-family-fighting-save-west-bank-farm-israel-settlers",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/palestinian-family-fighting-save-west-bank-farm-israel-settlers",
+      "section": "world",
+      "publishedDate": "2025-12-29T14:00:40Z",
+      "trailText": "For more than three decades, the Nassars have battled Israeli efforts to reclassify their property as ‘state land’",
+      "summary": "Over three decades, the Christian Palestinian Nassar family south of Bethlehem has legally defended their 42-hectare Wadi Salem farm—bought in 1916 and re-registered under Ottoman, British, Jordanian and Israeli administrations—against Israeli efforts since 1991 to declare it state land. Cut off from water and electricity by settlers in Area C, they manually irrigate olive trees with rainwater and host international volunteers. Despite two Israeli supreme court rulings upholding their deed, military appeals persist amid accelerated West Bank land seizures since October 2023.",
+      "summaryTokens": 994,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
       "id": "world/2025/dec/29/china-live-fire-military-drills-around-taiwan",
-      "title": "China launches live-fire drills encircling Taiwan",
+      "title": "China launches live-fire drills around Taiwan simulating blockade of major ports",
       "webUrl": "https://www.theguardian.com/world/2025/dec/29/china-live-fire-military-drills-around-taiwan",
       "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/china-live-fire-military-drills-around-taiwan",
       "section": "world",
-      "publishedDate": "2025-12-29T03:49:38Z",
-      "trailText": "Taipei condemns exercise that Chinese army calls ‘a stern warning against “Taiwan independence” separatist forces and external interference forces’",
-      "summary": "China's PLA launched multi-domain live-fire drills codenamed Justice Mission 2025 around Taiwan, deploying naval, air and rocket units to encircle the island in three southern and two northern maritime and air zones. Beijing framed the exercise as a 'stern warning' against Taiwan independence and foreign interference to defend sovereignty, provoking Taipei's condemnation and its own counter readiness drills. The manoeuvres, first since April, follow US $11bn arms sales to Taiwan, hawkish remarks from Japan’s new prime minister on possible military support, and Taiwan’s push for heightened combat readiness by 2027 amid China’s modernisation drive and reunification threats.",
-      "summaryTokens": 939,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "publishedDate": "2025-12-29T13:40:12Z",
+      "trailText": "Taipei condemns exercise that Chinese army calls ‘a stern warning’ against separatist and external forces",
+      "summary": "China’s PLA launched ‘Justice Mission 2025’ live-fire drills around Taiwan, deploying destroyers, frigates, bombers, fighters, drones and long-range missiles to simulate blockades of key ports, anti-submarine strikes and sea-air coordination, aiming to warn ‘separatist’ forces and deter US involvement after Washington’s record $11bn arms sale. Taiwan detected 28 PLA ships and 89 warplanes, decried the exercises as escalatory and held counter-readiness drills. Analysts note the expanded maritime warning zones overlapping Taiwan’s 12-nautical-mile border signal Beijing’s growing anti-access/area denial capabilities ahead of a projected 2027 invasion.",
+      "summaryTokens": 826,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/ukraine-deal-trump-russia-zelenskyy",
+      "title": "Is claim Ukraine deal is ‘95% done’ just another empty assertion from Trump?",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/ukraine-deal-trump-russia-zelenskyy",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/ukraine-deal-trump-russia-zelenskyy",
+      "section": "world",
+      "publishedDate": "2025-12-29T13:38:52Z",
+      "trailText": "A sober observer assessing the US president’s claim may react the same way as Zelenskyy – with shock and disbelief",
+      "summary": "After a Mar-a-Lago meeting with Volodymyr Zelenskyy, Donald Trump claimed a Russia-Ukraine peace deal was “95% done,” but the remaining 5%—Vladimir Putin’s consent—remains elusive. Repeated missed deadlines (Thanksgiving, Christmas), ongoing drone strikes and Russia’s insistence on retaining influence in Ukraine underscore the gulf. Ukraine’s dire winter and Western-backed security guarantees provide leverage yet remain vague, while neither the US nor Europe is ready to impose enforceable commitments on Moscow. Trump’s deference to Putin and lack of pressure raise doubts a durable ceasefire is attainable without a dramatic shift in Russia’s stance or stronger Western resolve.",
+      "summaryTokens": 828,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/osaki-japan-town-record-bear-encounters-2025",
+      "title": "Japanese town reeling from year of record bear encounters",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/osaki-japan-town-record-bear-encounters-2025",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/osaki-japan-town-record-bear-encounters-2025",
+      "section": "world",
+      "publishedDate": "2025-12-29T11:00:34Z",
+      "trailText": "Bears are becoming a growing problem in some of Japan’s urban areas as they are forced to venture further in search of food",
+      "summary": "Osaki, a 128,000-resident town in north-east Japan, saw a fourfold rise in bear sightings this year (400 vs. fewer than 100 in 2024) amid nationwide record attacks (197) and 13 deaths between April and November. Driven by poor acorn and beechnut harvests, growing Asian black and brown bear populations are venturing into urban areas, prompting a state of emergency, tourism declines and local government culls. Experts warn that delayed hibernation and lost habitat borders will extend encounters into winter, calling for national wildlife management policies.",
+      "summaryTokens": 742,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
+      "title": "Trump says ‘tough’ issues remain for Ukraine peace deal after meeting Zelenskyy in Florida",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
+      "section": "world",
+      "publishedDate": "2025-12-29T08:18:27Z",
+      "trailText": "US president said ‘thorny’ questions over territory have yet to be resolved and expressed sympathy with Russia not wanting a ceasefire",
+      "summary": "At Palm Beach’s Mar-a-Lago, Donald Trump told Volodymyr Zelenskyy their draft 20-point Ukraine peace deal is “95% done” and “closer than ever,” but admitted “tough” questions over Donbas territory and ceasefire terms remain unresolved. Trump expressed sympathy for Russian reluctance to agree a ceasefire and offered to address Ukraine’s parliament, while Zelenskyy praised US envoys and cited “90%” progress. Despite positive optics, confusion persisted over the occupied Zaporizhzhia plant’s status and Russia showed no sign of yielding. Zelenskyy arrived amid massive Russian missile and drone attacks on Kyiv, underscoring the need for stronger security guarantees and Western pressure.",
+      "summaryTokens": 519,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/british-egyptian-rights-activist-alaa-abd-el-fattah-apologises-for-hurtful-tweets",
+      "title": "British-Egyptian rights activist Alaa Abd el-Fattah apologises for ‘hurtful’ tweets",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/british-egyptian-rights-activist-alaa-abd-el-fattah-apologises-for-hurtful-tweets",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/british-egyptian-rights-activist-alaa-abd-el-fattah-apologises-for-hurtful-tweets",
+      "section": "world",
+      "publishedDate": "2025-12-29T08:10:09Z",
+      "trailText": "Campaigner recently released from prison makes statement after PM’s support is questioned by Tory MPs",
+      "summary": "Alaa Abd el-Fattah, the British-Egyptian human rights campaigner recently freed after over a decade in Egyptian prison, has issued an unequivocal apology for a series of ‘shocking and hurtful’ tweets from 2010–12 that praised violence against Zionists and insulted British people. Highlighted by Tory MPs to question Keir Starmer’s support, critics have called for his British citizenship revocation or deportation. Abd el-Fattah framed the remarks as youthful online anger amid regional conflicts, insisted some were misinterpreted or satirical, and urged judgment based on his non-violent pro-democracy record, defence of minorities and LGBTQ rights in Egypt rather than past social media posts.",
+      "summaryTokens": 1040,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/boy-5-killed-after-arm-trapped-in-ski-resort-travelator-in-japan-hokkaido",
+      "title": "Boy, 5, died after arm trapped in ski resort travelator in Japan",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/boy-5-killed-after-arm-trapped-in-ski-resort-travelator-in-japan-hokkaido",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/boy-5-killed-after-arm-trapped-in-ski-resort-travelator-in-japan-hokkaido",
+      "section": "world",
+      "publishedDate": "2025-12-29T07:57:52Z",
+      "trailText": "Hinata Goto reportedly fell as he was trying to get off the 30-metre-long walkway",
+      "summary": "Five-year-old Hinata Goto of Sapporo died in late December after his arm became trapped in a 30m “snow escalator” conveyor at Asari ski resort in Otaru, Hokkaido. Designed without handrails and only 60cm wide, the travelator links the car park and slopes but allegedly failed to stop when his mother pressed the emergency button. Firefighters freed the boy after 40 minutes; he was pronounced dead at hospital. With no staff on duty nearby, police have launched a professional negligence investigation. Visitors and locals criticized the aging mechanism—which can shake on steep sections—and demand safety overhauls to protect child skiers.",
+      "summaryTokens": 1277,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/peace-power-and-profit-the-logic-behind-donald-trumps-dealmaking-diplomacy",
+      "title": "Peace, power and profit – the logic behind Donald Trump’s dealmaking diplomacy",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/peace-power-and-profit-the-logic-behind-donald-trumps-dealmaking-diplomacy",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/peace-power-and-profit-the-logic-behind-donald-trumps-dealmaking-diplomacy",
+      "section": "world",
+      "publishedDate": "2025-12-29T06:45:28Z",
+      "trailText": "As Trump’s business and diplomacy fuse, critics warn that his approach risks trading stability – and US democracy – for leverage",
+      "summary": "Trump’s presidency has merged dealmaking and statecraft in a business-first approach that critics say jeopardises US democracy. While he touts ceasefire renewals in Gaza and accords from Southeast Asia to the Caucasus, NYU’s Mohamad Bazzi warns these ‘peace deals’ sideline sovereignty and enrich the Trump family. Big-ticket deals—from $21.9 m Saudi licensing fees to a speculative Trump meme coin—go alongside Jared Kushner’s Gulf-funded equity overlaps with ceasefire talks. A leaked 20-point plan shared with Russia and Steve Witkoff’s Moscow advisories exemplify this profit-driven diplomacy.",
+      "summaryTokens": 1665,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/kiwi-chow-dissenting-director-deadline-hong-kong",
+      "title": "‘They want to destroy my career’: Kiwi Chow on life as a dissenting director in Hong Kong",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/kiwi-chow-dissenting-director-deadline-hong-kong",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/kiwi-chow-dissenting-director-deadline-hong-kong",
+      "section": "world",
+      "publishedDate": "2025-12-29T06:00:30Z",
+      "trailText": "With his new film rejected by official censors, the award-winning film-maker says he is being punished for his outspoken views",
+      "summary": "Kiwi Chow, the 46-year-old Hong Kong director behind Ten Years and Revolution of Our Times, has been censored after authorities refused to approve Deadline—a drama about student suicide and academic pressure—on national security grounds. Chow, who sees the ban as a personal attack, declined to appeal, calling it futile. In a tightened security climate marked by post-2019 protest crackdowns, a deadly housing fire and ‘patriots only’ elections, he criticizes government collusion and historical distortion. Despite living with fear, he refuses to self-censor and vows to keep making films that challenge official narratives.",
+      "summaryTokens": 620,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/too-important-not-to-fight-for-spains-wine-industry-seeks-infusion-of-new-blood",
+      "title": "‘Too important not to fight for’: Spain’s wine industry seeks infusion of new blood",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/too-important-not-to-fight-for-spains-wine-industry-seeks-infusion-of-new-blood",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/too-important-not-to-fight-for-spains-wine-industry-seeks-infusion-of-new-blood",
+      "section": "world",
+      "publishedDate": "2025-12-29T06:00:30Z",
+      "trailText": "Rural depopulation compounding challenges of climate emergency and changing technologies in drawing young people to sector",
+      "summary": "Spain’s €22.4bn wine industry, dominated by growers aged over 51 (74%), faces a looming labour gap as 22,600 new workers are needed to replace retiring vintners, the OIVE warns. Rural depopulation from la España vaciada and climate stress deter under-40s (9.3%). OIVE president Fernando Ezquerro calls for modernising vineyards with digital and sustainability skills. Younger winemakers like 36-year-old chemical engineer Óscar de Íscar exemplify the appeal of entrepreneurship, tourism-driven sales and high-tech production, underscoring the sector’s cultural and economic role in rural revitalisation.",
+      "summaryTokens": 887,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/more-than-300-earthquakes-recorded-in-uk-this-year-study-finds",
+      "title": "More than 300 earthquakes recorded in UK this year, study finds",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/more-than-300-earthquakes-recorded-in-uk-this-year-study-finds",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/more-than-300-earthquakes-recorded-in-uk-this-year-study-finds",
+      "section": "world",
+      "publishedDate": "2025-12-29T05:00:31Z",
+      "trailText": "Western Highlands and southern Wales among most active regions, according to British Geological Survey",
+      "summary": "British Geological Survey data shows over 300 UK earthquakes in 2025, with hotspots in Perthshire and the western Highlands, southern Wales, Yorkshire and Lancashire. Perth and Kinross recorded the two strongest onshore tremors—a magnitude 3.7 and 3.6 near Loch Lyon on 20 October—prompting 198 felt reports up to 37 miles away. A magnitude-3.2 event at Silverdale, Lancashire, on 3 December drew 700 reports. Using 80 monitoring stations, BGS logged quakes daily and stresses studying them to assess risks to energy and infrastructure; magnitude-4 events recur every 3–4 years, magnitude-5s every few decades and magnitude-6s every few centuries.",
+      "summaryTokens": 646,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
+    },
+    {
+      "id": "world/2025/dec/29/search-for-malaysia-airlines-flight-mh370-expected-to-resume",
+      "title": "Search for Malaysia Airlines flight MH370 expected to resume on Tuesday",
+      "webUrl": "https://www.theguardian.com/world/2025/dec/29/search-for-malaysia-airlines-flight-mh370-expected-to-resume",
+      "apiUrl": "https://content.guardianapis.com/world/2025/dec/29/search-for-malaysia-airlines-flight-mh370-expected-to-resume",
+      "section": "world",
+      "publishedDate": "2025-12-29T05:00:30Z",
+      "trailText": "Marine robotics firm to renew its search more than decade after plane disappeared with 239 people onboard",
+      "summary": "Marine robotics firm Ocean Infinity will resume its search for missing Malaysia Airlines flight MH370 on 30 December, conducting intermittent seabed scans over 55 days across a new 5,800 sq-mile area under a no-find, no-fee $70m contract. MH370 vanished on 8 March 2014 en route Kuala Lumpur–Beijing with 239 aboard. Prior multinational searches (2014–17) and Ocean Infinity’s 2018 mission failed to locate wreckage, though debris washed ashore. A 2018 Malaysian probe cited a manual turn-back and possible third-party interference. Relatives seek closure after a decade.",
+      "summaryTokens": 695,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/29/passengers-on-cruise-ship-that-ran-aground-off-png-to-be-flown-home-after-refloat-efforts-fail",
@@ -41,9 +269,9 @@
       "section": "world",
       "publishedDate": "2025-12-29T03:47:51Z",
       "trailText": "Coral Adventurer, being investigated for allegedly leaving behind passenger who died, ran aground with 124 people on board on Saturday",
-      "summary": "An Australian expedition ship, Coral Adventurer, ran aground on a reef 30km off Lae, Papua New Guinea, on Saturday with 80 passengers and 40 crew. A tug dispatched Sunday failed to refloat it, prompting operator Coral Expeditions to cancel the voyage and arrange a charter flight to fly all passengers home to Cairns as early as Tuesday. Initial inspections found no hull damage; further surveys will follow. The vessel, already under unrelated investigation after an October incident in which an 80-year-old passenger died after being left behind on Lizard Island, remains stuck pending refloat efforts.",
-      "summaryTokens": 954,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "Coral Adventurer, an Australian expedition cruise ship under investigation after an alleged passenger death in October, ran aground on a coral reef off Papua New Guinea (about 30 km from Lae) on Saturday with 80 passengers and 44 crew aboard. No injuries were reported. Tugboat refloat efforts failed, prompting Coral Expeditions to cancel the cruise and charter flights to repatriate everyone to Cairns as early as Tuesday. Initial inspections found no hull damage; further surveys and environmental checks will follow once the vessel is refloated.",
+      "summaryTokens": 809,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/myanmar-elections-voting-begins-under-junta-stranglehold-with-aung-san-suu-kyi-banned",
@@ -53,21 +281,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T13:58:26Z",
       "trailText": "Turnout appears low for vote in which most candidates seen as allies of junta and large areas excluded by war",
-      "summary": "Phase one of Myanmar’s three-stage election closed under the military junta, widely condemned as a sham to legitimize the December 2021 coup. The junta’s USDP proxy fields most candidates; Aung San Suu Kyi’s NLD is banned. Large conflict zones were excluded. Muted campaigning and low turnout in Yangon amid threats, arrests under a new election protection law. UN rights chief called the vote an act of violence and repression. China, Russia, India and Vietnam sent observers; Western governments condemned. Preliminary results due Sunday; next rounds on 11 and 25 January.",
-      "summaryTokens": 1135,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
-    },
-    {
-      "id": "world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
-      "title": "Trump says Ukraine peace deal ‘closer than ever’ after meeting with Zelenskyy in Florida",
-      "webUrl": "https://www.theguardian.com/world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
-      "apiUrl": "https://content.guardianapis.com/world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
-      "section": "world",
-      "publishedDate": "2025-12-28T12:56:12Z",
-      "trailText": "US president said ‘thorny’ questions over territory have yet to be resolved and expressed sympathy with Russia not wanting a ceasefire",
-      "summary": "At Mar-a-Lago, Donald Trump told Volodymyr Zelenskyy that a draft Ukraine peace deal is “closer than ever” and “95% done,” but “thorny” issues remain over Donbas territory and security guarantees. Trump expressed sympathy for Russia’s resistance to a ceasefire and gave conflicting comments on the Zaporizhzhia nuclear plant. Zelenskyy praised US envoys Kushner and Witkoff, thanked Trump’s team and urged sustained pressure on Russia after recent airstrikes killed four in Kyiv. Observers warn peace needs Putin’s commitment to halt attacks.",
-      "summaryTokens": 495,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "First-phase polls in Myanmar's conflict zones closed under the military junta, widely condemned as a sham to legitimize Min Aung Hlaing's rule. Aung San Suu Kyi and the NLD are banned, most candidates are junta allies, the USDP. Areas under anti-junta control were excluded. Turnout in Yangon was low amid fear and repression. The UN labels the vote violent and unfair; China, Russia, India and Vietnam sent observers. A new electoral law criminalises dissent with harsh penalties. Critics decry a 'theatre of the absurd' as airstrikes and fighting rage in Sagaing and Mandalay. Further phases are set for January.",
+      "summaryTokens": 3841,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/kyivs-heritage-rebuilding-shadow-of-war",
@@ -77,9 +293,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T10:00:04Z",
       "trailText": "Volunteers and neighbours are restoring the century-old homes as an act of defiance against Russia’s assault",
-      "summary": "Volunteers in Kyiv’s Shevchenkivskyi district are painstakingly restoring early 20th-century art nouveau mansions as an act of cultural defiance against intensified Russian air raids. Neighbours like Lesia Danylenko celebrated new transom windows and restored doors on a 1906 Martin Klug house, symbolizing commitment to Ukraine. Yet campaigners from Heritage Kyiv and True Kyiv confront frontline casualties, harsh winters, corrupt officials and developers who covertly demolish listed facades. With only 80 of 3,500 original brick-mansion doors remaining, activists warn that without genuine political will, Kyiv’s architectural heritage could disappear forever.",
-      "summaryTokens": 499,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "Volunteers in Kyiv’s Shevchenkivskyi district are restoring early 20th-century art nouveau houses—adorned with horse-chestnut leaves, camomile flowers and turrets—as symbolic defiance against Russia’s intensified air raids. Projects like Lesia Danylenko’s “croissant” transom window embody residents’ commitment to normal life and homeland. Heritage Kyiv activists warn that corrupt developers, apathetic officials and harsh winters threaten these rare mansions, with just 80 of 3,500 original doors surviving. They lament political inertia under Mayor Klitschko and frontline losses of defenders like blogger Serhiy Mironov. True Kyiv volunteers, led by Nelli Chudna, operate a 1910 creeper-clad house as museum. Advocates insist urgent preservation is vital to safeguard Kyiv’s architectural identity.",
+      "summaryTokens": 2156,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/27/zelenskyy-to-meet-european-leaders-and-trump-for-ukraine-peace-talks-amid-fresh-strikes-on-kyiv",
@@ -89,9 +305,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T09:26:55Z",
       "trailText": "Russia’s “barbaric” attack on capital draws condemnation as Ukrainian leader readies for Florida meeting",
-      "summary": "Following a 10-hour Russian drone and missile barrage—500 drones, 40 missiles—that crippled Kyiv’s energy grid and left households freezing, Zelenskyy travels to Florida to refine his nearly finalized 20-point peace plan in talks with Donald Trump. En route, he secured $2.5bn Canadian aid, garnered EU pledges of sustained support and pressed allies to intensify pressure on Russia, which claims downing 111 Ukrainian drones and capturing two eastern towns, prompting Polish jets to scramble.",
-      "summaryTokens": 996,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "After Russia’s overnight drone and missile assault on Kyiv—nearly 500 drones, 40 missiles—power remains unstable, with 750,000 households restored but the left bank still under outages amid sub-zero temperatures. One killed, two dozen injured. Zelenskyy paused in Canada to secure $2.5bn more aid, condemned the strikes as “barbaric,” then heads to Florida to refine his 20-point peace plan with Trump. He’s also in talks with Macron, von der Leyen and Costa, warning that only stronger international pressure can deter Moscow’s Christmas attacks. Russia claims to have downed 111 drones and seized more towns. Peace hinges on addressing conflict roots and security guarantees.",
+      "summaryTokens": 1230,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/behind-crisis-korean-film-why-k-pop-isnt-immune",
@@ -101,9 +317,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T08:00:03Z",
       "trailText": "Both industries dominate the world but now face fundamental transformation and uncertainty at home",
-      "summary": "South Korea’s twin pillars of soft power—its film and K-pop industries—are facing domestic crises. Cinema admissions have plunged 45% since 2019, slashing box office revenue and halving local releases amid high production costs, streaming competition and consolidation of chains. K-pop physical sales dropped nearly 20%, prompting agencies to focus on superfans and global touring while smaller labels falter. International adaptations like Netflix’s Demon Hunters signal a “de-territorialised” Korean aesthetic. A new ₩51tn five-year cultural plan and overseas expansions aim to sustain growth, but critics warn of creative erosion without reviving domestic infrastructure.",
-      "summaryTokens": 753,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "Once a cultural superpower, South Korea’s film industry has seen admissions plunge 45% since 2019 to 123m and box office fall from $1.3bn to $812m. Production budgets and mid-tier titles have dwindled, prompting consolidation of cinema chains and a shift to streaming with shorter holdback windows. Meanwhile, K-pop album sales dropped 19.5% in 2024, driving agencies to rely on global tours and core superfans. Smaller labels are squeezed, and international creators now adapt Korean aesthetics abroad. Seoul’s government unveiled a five-year ₩51.4tn cultural investment plan to bolster exports, but risks overlooking domestic infrastructure vital for creative renewal.",
+      "summaryTokens": 575,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/tommy-robinson-says-he-found-jesus-in-prison-churches-disagree-about-how-to-respond",
@@ -113,9 +329,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T08:00:03Z",
       "trailText": "C of E faces dilemma as far right claims Christianity to push agenda that often clashes with gospel message",
-      "summary": "Far-right leader Tommy Robinson, now claiming a prison-led Christian conversion, held a scaled-down \"Unite the Kingdom\" outdoor carol service in Whitehall attended by 1,500 under \"Jesus saves\" signs. His prison minister asserts Robinson \"received Jesus\" behind bars. His portrayal of British identity as inherently Christian has split the Church of England: figures like Bishop Arun Arora demand robust opposition to Islamophobia and xenophobia, while others warn that direct denunciation may amplify his platform. Baptist, Methodist and URC bodies publicly condemned UTK. In January C of E bishops will debate how to engage Christian nationalists and balance mission with rejecting far-right politics.",
-      "summaryTokens": 1546,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "Tommy Robinson, leader of the far-right ‘Unite the Kingdom’ movement, claims he ‘found Jesus’ in prison after visits from Spirit Embassy minister Rikki Doolan. His December carol service in Whitehall drew only 1,500 attendees versus 150,000 in September, prompting Anglican, Baptist, Methodist and URC leaders to debate responding to Christian nationalism. Within the Church of England, figures like Bishop Arun Arora urge a firm rebuttal of Robinson’s Islamophobia and xenophobia, while others, including Archbishops Stephen Cottrell and Sarah Mullally, worry that overt opposition may backfire. At January’s bishops’ meeting and a forthcoming Theos study, church leaders will decide whether to confront or risk normalizing Robinson’s political use of faith.",
+      "summaryTokens": 1050,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/germany-military-recruits-bundeswehr-new-rules-young-men",
@@ -125,9 +341,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T07:00:03Z",
       "trailText": "As young men face new rules forcing them to indicate their readiness to serve, the Bundeswehr drums up support at a trade show",
-      "summary": "At the Essen Motor Show the Bundeswehr unveiled tanks, arms carriers, VR gear and a khaki Porsche to boost recruitment as Germany plans to expand its professional army by 80,000 to 260,000 troops and 140,000 reservists within a decade. From January 1, all 18-year-old men must declare service readiness and, within two years, take mandatory health tests. To entice volunteers, pay rises, language courses, subsidised licenses, train travel and qualifications are offered. Outreach spans sports venues, supermarkets and “girls’ days”. Amid pacifist legacy and Ukraine war fears, many young Germans back stronger defence and debate conscription’s return.",
-      "summaryTokens": 956,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "At the Essen Motor Show, Germany’s Bundeswehr stages a major recruitment campaign—showcasing armoured vehicles, VR simulators and a khaki Porsche—to help expand its professional force by 80,000 and reservists by 140,000 over the next decade. From January, 18-year-old men must complete questionnaires and health tests indicating service readiness. To win volunteers, the army is boosting pay, offering language courses, subsidised licenses, free train travel in uniform and new qualifications. After conscription ended in 2011, public outreach—from career lounges to “girls’ days”—seeks to shift pacifist attitudes amid the war in Ukraine.",
+      "summaryTokens": 822,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/australian-cruise-ship-investigated-after-leaving-passenger-behind-runs-aground-off-png-with-120-people-on-board",
@@ -137,9 +353,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T05:31:47Z",
       "trailText": "Coral Adventurer says passengers and crew are safe while team tries to refloat ship and inspects the hull",
-      "summary": "The Coral Adventurer, an Australian expedition cruise ship under investigation for allegedly leaving 80-year-old passenger Suzanne Rees behind in October, ran aground early Saturday about 30 km off Papua New Guinea’s Lae with 120 aboard. Operator Coral Expeditions reports all safe; an initial inspection found no hull damage, and authorities have been notified. Passengers are ashore as a salvage team refloats the vessel and inspects the marine environment. Rees's body was found after the ship turned back from 100 km out; the 60-day circumnavigation was cancelled, passengers refunded, with balconies priced at $86,400 each.",
-      "summaryTokens": 1539,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "Coral Adventurer, under investigation after passenger Suzanne Rees died alone during a Lizard Island excursion, ran aground early Saturday about 30 km off Lae, PNG, with 120 crew and passengers aboard. The operator reports no injuries or hull damage in initial checks, and authorities will conduct formal inspections while refloating efforts proceed. Rees, 80, from Sydney, went missing on 26 October; her body was found after the ship turned back 100 km and later canceled the 60-day voyage, refunding guests. Balcony cabins list at $86,400 per person.",
+      "summaryTokens": 1210,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/central-african-republic-goes-to-polls-as-president-seeks-third-term",
@@ -149,9 +365,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T05:00:00Z",
       "trailText": "Opposition hopes to tap into frustrations of people living in country where conflict remains a daily reality",
-      "summary": "The Central African Republic holds quadruple elections as President Faustin-Archange Touadéra seeks a third term after a 2023 referendum removed term limits and extended mandates to seven years. Some 2.3 million voters will choose the president, parliament and local councils. Key challengers are former prime ministers Anicet Georges Dologuélé and Henri-Marie Dondra. An April peace accord with major rebel groups has raised hopes of stabilization, but ongoing displacement, rural violence, online-only voter lists, security by UN peacekeepers and Wagner mercenaries, plus opposition boycotts, underscore logistical and legitimacy concerns alongside growing Russian and Rwandan influence.",
-      "summaryTokens": 504,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "On Dec 28, 2025, 2.3m registered voters in the Central African Republic cast ballots in a quad election—presidential, parliamentary, local and municipal—as incumbent Faustin-Archange Touadéra seeks a third term after a 2023 referendum scrapped term limits and extended mandates to seven years. Seven candidates, including former PMs Anicet Dologuélé and Henri-Marie Dondra, vie amid ongoing sectarian violence that has displaced over half a million internally and across borders. Despite a 2022 peace accord and UN MINUSCA security support, Wagner mercenaries and Rwandan forces wield influence. Critics warn online-only voter lists and boycotts risk disenfranchisement.",
+      "summaryTokens": 1539,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/liu-de-wen-helping-taiwan-dead-return-to-china",
@@ -161,9 +377,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T04:00:56Z",
       "trailText": "Liu De-wen operates at a sensitive space in Taiwan’s history, as Beijing demands reunification with the island",
-      "summary": "Liu De-wen, 58, has spent 23 years retrieving urns of deceased waishengren—former KMT soldiers and mainland migrants buried across Taiwan—and personally transporting their ashes back to ancestral Fujian, honouring filial wishes and bridging divided families. Operating without official funding, he navigates complex cross-strait sensitivities: his “ferryman of the souls” role is lauded by Beijing as proof of kinship amid reunification rhetoric, even as most Taiwanese oppose unification and veteran returns remain rare.",
-      "summaryTokens": 794,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "Liu De-wen, a 58-year-old Taiwanese volunteer and former borough chief, has devoted 23 years to repatriating the ashes of hundreds of “waishengren” — mainland Chinese soldiers, forced conscripts and migrants brought to Taiwan by the KMT after 1949 — to ancestral villages in Fujian. Working without government funding, he locates neglected graves, handles legal permits and personally transports urns across the Taiwan Strait, earning praise in PRC media as a “ferryman of souls.” Beijing leverages his story to underscore cross-strait family ties amid reunification rhetoric that most Taiwanese reject.",
+      "summaryTokens": 1078,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/ukraine-war-briefing-nabu-and-sapo-raid-kyiv-parliament-in-new-corruption-inquiry",
@@ -173,9 +389,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T02:38:06Z",
       "trailText": "Russia not strong enough to take Donetsk and then keep fighting, says ISW; Zelenskyy heads to Florida for talks with Trump. What we know on day 1,404",
-      "summary": "Ukraine’s anti-corruption bureaus Nabu and Sapo raided Verkhovna Rada offices in Kyiv, probing MPs for alleged vote-buying bribes after an earlier energy-sector kickback scandal that forced Zelenskiy’s chief of staff to resign. Zelenskiy, en route to Florida to meet Donald Trump, said he’d continue coordinating with European partners after Canada announced $2.5 bn in aid. The Institute for the Study of War reports Russia lacks manpower to seize all of Donetsk, pressing Ukraine to cede unoccupied areas while eyeing future offensives; Russian milbloggers acknowledge Ukrainian gains near Kupiansk. Moscow’s claims to have taken Myrnohrad, Huliaipole and Pokrovsk are contested by Kyiv. A 10-hour Russian drone and missile barrage cut heating to a third of Kyiv, killing one and wounding two dozen.",
-      "summaryTokens": 624,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "Ukraine’s anti-corruption bureaus Nabu and Sapo raided MPs’ offices in Kyiv’s parliament over alleged bribery-for-votes, following previous investigations that forced Zelenskyy’s chief of staff to resign. President Zelenskyy, after meeting Canada’s PM who pledged $2.5bn, heads to Florida for talks with Trump to coordinate European support. The ISW warns Russia, lacking manpower for Donetsk, is pressuring Ukraine to cede unoccupied territory. Ukrainian forces claim tactical gains around Kupiansk amid contested fighting in Myrnohrad and Huliaipole. A 10-hour Russian barrage on Kyiv killed one, wounded two dozen and left a third without heating.",
+      "summaryTokens": 1224,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/28/myanmar-is-going-to-the-polls-but-its-not-the-people-who-hold-the-power-its-china",
@@ -185,9 +401,9 @@
       "section": "world",
       "publishedDate": "2025-12-28T00:01:51Z",
       "trailText": "As the military pushes ahead with a widely condemned election, Beijing’s priorities are proving decisive",
-      "summary": "Myanmar’s military has regained territory and pressed ahead with a widely condemned, sham election dominated by its proxy USDP, buoyed by Beijing’s strategic support. Under a constitution skewed to the junta, coup leader Min Aung Hlaing is set to assume executive office. China, frustrated by post-coup instability and crime, has alternately backed ethnic armed groups via border closures and later pivoted to bolster the junta with weapons, diplomatic platforms, and election observers. Its goal: stabilize a corridor for Belt and Road projects. While anti-China sentiment grows at perceived meddling, Beijing remains poised to recalibrate support if infrastructure and ceasefire promises falter.",
-      "summaryTokens": 1347,
-      "generatedAt": "2025-12-29T03:57:00.357Z"
+      "summary": "The Myanmar military, buoyed by Chinese support, has regained territory and is pushing ahead with a widely condemned December 2025 election. Beijing has used border closures, drone technology, weapons transfers and diplomatic backing—sending observers and integrating the junta into SCO platforms—to pressure ethnic armed groups into ceasefires and return land. Balancing its infrastructure and anti-crime interests, China hedges its bet despite ties to various factions. The sham vote, dominated by the military-backed USDP, cements junta chief Min Aung Hlaing’s grip while Beijing monitors project progress.",
+      "summaryTokens": 1322,
+      "generatedAt": "2025-12-30T03:56:02.933Z"
     },
     {
       "id": "world/2025/dec/27/bayeux-tapestry-to-be-insured-for-800m-for-british-museum-exhibition",
@@ -10732,7 +10948,7 @@
       "apiUrl": "https://content.guardianapis.com/world/2025/nov/03/rome-tower-collapse-torre-dei-conti-italy",
       "section": "world",
       "publishedDate": "2025-11-04T00:35:01Z",
-      "trailText": "Romanian worker was taken to hospital in ‘serious condition’ after being saved from Torre dei Conti rubble, but died soon after",
+      "trailText": "Romanian worker was taken to hospital in ‘serious condition�� after being saved from Torre dei Conti rubble, but died soon after",
       "summary": "A Romanian construction worker, Octay Stroici, died after being rescued from rubble following two partial collapses of the 13th-century Torre dei Conti adjacent to Rome’s Colosseum. The first section fell at 10.30am, the second about 90 minutes later during aerial-ladder operations, intermittently re-burying Stroici. He was conscious when freed, then died in hospital. A second Romanian colleague suffered serious head trauma; two others sustained minor injuries. Funded by EU post-pandemic recovery, the restoration works now face scrutiny. PM Meloni and city authorities offered condolences as the site remains cordoned off.",
       "summaryTokens": 825,
       "generatedAt": "2025-11-06T04:06:00.852Z"
