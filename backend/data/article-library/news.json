@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-26T03:34:33.045Z",
+    "generated_at": "2025-12-31T04:21:23.277Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-24"
+      "to": "2025-12-30"
     },
-    "article_count": 181,
+    "article_count": 182,
     "merge_info": {
       "previous_count": 181,
-      "new_articles": 0,
-      "updated_articles": 2,
-      "total_count": 181
+      "new_articles": 1,
+      "updated_articles": 0,
+      "total_count": 182
     },
     "batch_info": {
-      "initial_batch_id": "batch_694e023189a4819090748fc08d7ada7d",
+      "initial_batch_id": "batch_6954a4a154508190bb70f743e04af19f",
       "retry_batches": [],
-      "total_tokens": 5391,
+      "total_tokens": 1598,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/30/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/30/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/30/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2025-12-30T21:00:51Z",
+      "trailText": "Anthony McGann",
+      "summary": "Guardian updated its 11 December 2025 article “The Eldonian dream: Inside the fight for Liverpool’s community housing utopia” to correct a mischaracterisation of Judge Halliwell’s ruling in the winding-up petition against the Eldonian Community Trust, clarifying that while it was conceivable Anthony McGann could influence decisions through family ties, there is no substantial evidence he did so. Additional wording tweaks enhanced clarity. It also lists other recent corrections—covering topics from Trump’s impact on international law, Bristol van dwellers, England’s tree cover drive, Spain’s housing debate and US storm risks to TV reviews and nonfiction trends—and provides contact details for editorial complaints and corrections.",
+      "summaryTokens": 1011,
+      "generatedAt": "2025-12-31T04:21:23.187Z"
+    },
     {
       "id": "news/2025/dec/23/how-we-eat-and-gather-is-central-to-who-we-are-the-diaspora-at-christmas",
       "title": "How we eat and gather is central to who we are: the diaspora at Christmas",
