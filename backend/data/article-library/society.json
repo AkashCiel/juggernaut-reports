@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2025-12-30T03:45:30.895Z",
+    "generated_at": "2025-12-31T04:30:07.282Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-30"
+      "to": "2025-12-31"
     },
-    "article_count": 565,
+    "article_count": 570,
     "merge_info": {
-      "previous_count": 557,
-      "new_articles": 8,
-      "updated_articles": 5,
-      "total_count": 565
+      "previous_count": 565,
+      "new_articles": 5,
+      "updated_articles": 8,
+      "total_count": 570
     },
     "batch_info": {
-      "initial_batch_id": "batch_69534a9827488190a42738f437c45452",
+      "initial_batch_id": "batch_6954a5d67cf081909b14308d124115c5",
       "retry_batches": [],
-      "total_tokens": 27857,
-      "processing_time_hours": 0
+      "total_tokens": 28475,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "society/2025/dec/31/coughs-hiccups-accident-and-emergency-hospitals-nhs-england",
+      "title": "Huge rise in number of people in England’s A&Es for coughs or hiccups",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/31/coughs-hiccups-accident-and-emergency-hospitals-nhs-england",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/31/coughs-hiccups-accident-and-emergency-hospitals-nhs-england",
+      "section": "society",
+      "publishedDate": "2025-12-31T00:01:01Z",
+      "trailText": "Lack of prompt access to primary care blamed for rise in hospital cases of minor ailments including blocked noses",
+      "summary": "NHS England data reveal a surge in A&E visits for minor ailments, with cough attendances rising nearly tenfold to 435,728 in 2024-25 and millions more for sore throat, headache, earache, blocked nose, hiccups and constipation. Over 2.2m patients were discharged with ‘no abnormality detected’ and 500,000+ left before diagnosis. Health leaders warn this reflects poor primary care access and GP-underfunding, urging ‘turbocharged’ neighbourhood health services, extended pharmacy prescribing and 111 online. Meanwhile serious emergency cases like cardiac arrests and fractures have remained stable, highlighting misallocation of A&E resources.",
+      "summaryTokens": 1145,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
+    },
+    {
+      "id": "society/2025/dec/31/new-ehrc-chair-mary-ann-stephenson-lgbtq-transgender-groups",
+      "title": "Judge me on what I do, says new EHRC chair after transgender groups’ criticism",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/31/new-ehrc-chair-mary-ann-stephenson-lgbtq-transgender-groups",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/31/new-ehrc-chair-mary-ann-stephenson-lgbtq-transgender-groups",
+      "section": "society",
+      "publishedDate": "2025-12-31T00:01:00Z",
+      "trailText": "Mary-Ann Stephenson says she must build relationship with LGBTQ+ sector amid debate over single-sex spaces",
+      "summary": "Mary-Ann Stephenson, appointed chair of the Equality and Human Rights Commission in December after government overruling parliamentary objections, says opponents should “judge me on what I do.” She argues her open letters opposing campus censorship and supporting Allison Bailey were mischaracterized as anti-trans, reflecting her commitment to free expression. Acknowledging LGBTQ+ groups’ concerns, she pledges to uphold all protected characteristics, including trans rights in single-sex spaces. Her immediate task is finalizing guidance on implementing the Supreme Court’s April ruling on biological sex for public bodies, emphasizing legal solidity and equal access.",
+      "summaryTokens": 873,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
+    },
+    {
+      "id": "society/2025/dec/30/surge-in-ketamine-cases-hits-urology-wards",
+      "title": "‘Absolutely frightening’: surge in ketamine cases hits UK urology wards",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/30/surge-in-ketamine-cases-hits-urology-wards",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/30/surge-in-ketamine-cases-hits-urology-wards",
+      "section": "society",
+      "publishedDate": "2025-12-30T18:00:48Z",
+      "trailText": "Young adults and teenagers prevalent in ‘skyrocketing’ admissions linked to class B drug, say doctors in northern England",
+      "summary": "Urology departments across northern England are nearing breaking point as ketamine-related admissions have skyrocketed, particularly among teenagers and young adults. ONS data shows monthly usage is up 251.85% since 2015. Chronic recreational use, often initiated as a coping mechanism during Covid lockdowns, causes irreversible bladder and urinary tract damage. In Barnsley A&E attendances rose from 11 cases in 2021 to 50 from January to May 2025. Consultants warn wards are ill-equipped; ongoing abuse even cancels necessary surgeries. Experts call for targeted secondary school education and enhanced rehabilitation support to address high relapse rates and prevent lifelong harm.",
+      "summaryTokens": 816,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
+    },
+    {
+      "id": "society/2025/dec/30/offenders-england-wales-to-alcohol-levels-tracked-over-new-year-period",
+      "title": "Offenders in England and Wales to have alcohol levels tracked over new year period",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/30/offenders-england-wales-to-alcohol-levels-tracked-over-new-year-period",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/30/offenders-england-wales-to-alcohol-levels-tracked-over-new-year-period",
+      "section": "society",
+      "publishedDate": "2025-12-30T15:17:35Z",
+      "trailText": "Sobriety tags worn by thousands released from prison or serving community sentences will monitor wearers’ sweat",
+      "summary": "Over the New Year festive period, 5,000 offenders released or serving community sentences in England and Wales will wear sweat-monitoring sobriety tags to detect alcohol consumption 24/7. Deployed since 2021, these devices differentiate between low-alcohol foods like mince pies and alcoholic drinks, alert probation officers on any reading, and have kept tagged offenders sober 97% of days. While the government and PCCs credit tags with cutting seasonal drink-fuelled crime—costing £21 bn annually—addiction services warn they risk withdrawal and fail to tackle root causes. Plans call for tens of thousands more tags under expanded probation budgets.",
+      "summaryTokens": 1461,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
+    },
+    {
+      "id": "society/2025/dec/30/two-new-subtypes-of-ms-found-in-exciting-breakthrough",
+      "title": "Two new subtypes of MS found in ‘exciting’ breakthrough",
+      "webUrl": "https://www.theguardian.com/society/2025/dec/30/two-new-subtypes-of-ms-found-in-exciting-breakthrough",
+      "apiUrl": "https://content.guardianapis.com/society/2025/dec/30/two-new-subtypes-of-ms-found-in-exciting-breakthrough",
+      "section": "society",
+      "publishedDate": "2025-12-30T05:00:56Z",
+      "trailText": "Exclusive: Scientists uncovered biological strands using artificial intelligence and hope discovery will revolutionise treatment",
+      "summary": "Scientists at UCL and Queen Square Analytics used AI (SuStaIn), serum neurofilament light chain markers and MRI scans in 600 MS patients to identify two biological subtypes: early sNfL, marked by high protein levels and rapid corpus callosum lesion formation (aggressive), and late sNfL, with early grey matter atrophy before sNfL rise (slower). Published in Brain, the breakthrough could enable targeted monitoring and treatment, matching aggressive cases to high-efficacy drugs and slower cases to neuroprotective therapies, moving beyond relapsing/progressive categories.",
+      "summaryTokens": 747,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
+    },
     {
       "id": "society/2025/dec/30/ae-nhs-in-trouble-normalised-corridor-care-says-leading-uk-medic",
       "title": "A&Es in ‘big trouble’ because of ‘normalised’ corridor care, says leading UK medic",
@@ -29,9 +89,9 @@
       "section": "society",
       "publishedDate": "2025-12-30T00:01:49Z",
       "trailText": "Emergency medicine specialist says improved social care and efficiency would help crisis in NHS",
-      "summary": "Emergency medicine president Dr Ian Higginson warns that corridor care is now normalized in UK A&Es, linking over 16,600 annual deaths to prolonged waits. RCEM data show nearly 20% of March patients treated in non-clinical areas and over 50,000 waits exceeding 12 hours in November. Higginson urges political will for hospital efficiency, more staff per bed and enhanced social/community care. Health officials acknowledge the crisis and vow to eliminate corridor treatment by the next election. He likens the toll to bus or plane crashes to underscore the need for urgent action.",
-      "summaryTokens": 1256,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "Dr Ian Higginson, president of the Royal College of Emergency Medicine, warns UK A&Es are ‘in big trouble’ as corridor care becomes normalised, linking over 16,600 annual deaths to extremely long waits. Almost 20% of patients occupy non-clinical escalation areas and 50,648 waited over 12 hours in November. While Health Secretary Wes Streeting vows to end corridor care by the next election, Higginson calls for hospital efficiency, increased staffing and enhanced social/community care to reduce burnout, improve flow and patient safety.",
+      "summaryTokens": 1060,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/29/to-say-six-seven-is-to-embrace-idiocy",
@@ -41,9 +101,9 @@
       "section": "society",
       "publishedDate": "2025-12-29T17:44:54Z",
       "trailText": "Letter: Primary school teacher Marlon Minty says none of the children he asked understood where the ‘craze’ comes from or why it is funny",
-      "summary": "Primary school teacher Marlon Minty criticizes the “six-seven” craze, dismissing it as a poorly constructed social-media stunt designed to rack up clicks and enrich influencers. When he quizzed his pupils, none understood its origins or supposed humor. He champions his classroom mantra—“If you don’t know why you’re doing something, don’t do it”—and, while not banning the phrase, warns that participating without comprehension reduces students to idiocy. True hope, he argues, is built on kindness, honesty and critical thinking, not viral gimmicks.",
-      "summaryTokens": 611,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "Primary teacher Marlon Minty rejects the idea that “six-seven” is a hopeful mantra, calling it an “embracement of idiocy.” After investigating the social-media craze—a viral mash-up dismissed by US scaremongers as cult or secret code—he found children unaware of its origin or humor. Minty warns that jumping on viral trends without understanding diminishes critical thinking and plays into influencers’ profit motives. In his Reading, Berkshire classroom, he discourages mindless participation: “If you don’t know why you’re doing something, don’t do it.” True hope, he argues, arises from kindness and honesty, not from viral fads.",
+      "summaryTokens": 1795,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/29/from-adolescence-to-the-manosphere-has-2025-been-the-year-of-the-boy",
@@ -53,9 +113,9 @@
       "section": "society",
       "publishedDate": "2025-12-29T17:00:41Z",
       "trailText": "Much attention was paid to the problem of misogyny, but focus was also placed on issues such as paternity leave and mental health",
-      "summary": "In 2025, the Netflix drama Adolescence ignited UK-wide alarm over the manosphere’s toxic influence on boys, prompting interventions—from Gareth Southgate’s warning to the Lost Boys report—and protests like the June “Dad strike” over meager paternity leave. The government launched England’s first Men’s Health Strategy and revised its Violence Against Women and Girls policy to address boy-focused prevention. MPs formed a Labour group for men and boys, while initiatives such as Movember’s Young Men and Media Collective promote positive male role models amid debates on balancing boys’ and women’s issues.",
-      "summaryTokens": 553,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "2025 saw a shift in spotlight from misogyny to boys’ well-being after Netflix’s Adolescence exposed toxic manosphere influence. High-profile warnings—from Gareth Southgate to the Lost Boys study—and the first Dad Strike over poor paternity leave led to England’s inaugural Men’s Health Strategy and a Violence Against Women and Girls plan targeting boys. Labour MPs formed a parliamentary men-and-boys group championing positive role models. Amid enduring Andrew Tate influence, Movember’s Young Men and Media Collective funds healthier masculine messaging. Experts warn patriarchy harms all and call for balanced, future-proof policy.",
+      "summaryTokens": 623,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/29/gen-z-shunning-the-pre-flight-pint-for-matcha-green-tea-airports-say",
@@ -65,9 +125,9 @@
       "section": "society",
       "publishedDate": "2025-12-29T15:21:31Z",
       "trailText": "Healthier trends of younger travellers are transforming departure lounge habits, says Manchester Airport Group",
-      "summary": "At UK airports, Gen Z passengers are swapping pre-flight pints for wellness drinks—matcha tea sales rose 165%, super smoothies 650% and gut-health shots 102%—and flying “skincare in the sky” with a 399% surge in face-mask sales. Influenced by TikTok trends and AI travel agents, they favour Stanley bottles, city breaks (Barcelona, Amsterdam, Dublin, New York) and offbeat Eastern European destinations over party resorts. Airbnb data shows growing interest in Buenos Aires, Busan, João Pessoa and Nakano, reflecting this generation’s health- and selfie-driven travel habits.",
-      "summaryTokens": 574,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "Manchester Airport Group data shows Gen Z passengers (born 1997–2012) increasingly bypass pre-flight pints in favour of health-driven alternatives: matcha tea sales soared 165% (61,500 extra cups across Manchester, Stansted and East Midlands), super smoothies rose 650%, gut-health shots 102% and onboard face masks 399%. Influenced by TikTok trends and AI tools (one in four under-25s used ChatGPT to plan trips), younger travellers favour selfie-friendly Stanley bottles (10,000 sold, sixfold rise) and city breaks (Barcelona, Amsterdam, Dublin, New York) or offbeat spots (Albania, Bulgaria, Romania). Airbnb interest spiked for Buenos Aires, Busan, João Pessoa and Nakano, reflecting a wellness-focused, exploratory mindset.",
+      "summaryTokens": 866,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/29/uk-medical-regulator-warns-against-buying-weight-loss-jabs-from-social-media-channels",
@@ -77,9 +137,9 @@
       "section": "society",
       "publishedDate": "2025-12-29T13:53:28Z",
       "trailText": "MHRA says buying from illegal online sellers can put health at real risk amid booming black market",
-      "summary": "The MHRA warns UK consumers not to buy popular weight-loss jabs (e.g. Wegovy, Mounjaro) from unregulated social-media or online sellers, citing health risks from counterfeit, contaminated or improperly stored products. Limited NHS access, prescription requirements and high cost have fuelled a booming black market; the MHRA seized over £250,000 of fake injection pens in October and banks report average scams of £120 per victim. Shoppers should watch for unusually low prices and “miracle” claims, and seek advice from healthcare professionals. Health minister Dr Zubir Ahmed stresses only licensed obesity drugs from registered pharmacies against valid prescriptions.",
-      "summaryTokens": 568,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "The UK Medicines and Healthcare products Regulatory Agency (MHRA) has warned consumers not to buy weight-loss jabs like Wegovy, Mounjaro or unlicensed retatrutide from social media or other illicit outlets. With NHS access restricted, demand has fuelled a black market—over £250,000 in counterfeit injections were seized in Northampton—while scams cost victims about £120 each. The MHRA cautions that illegal products may be contaminated, mis-dosed or improperly stored and urges buyers to use only registered pharmacies with a valid prescription.",
+      "summaryTokens": 551,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/29/most-europeans-think-state-pensions-will-become-unaffordable-polling-shows",
@@ -89,9 +149,9 @@
       "section": "society",
       "publishedDate": "2025-12-29T10:00:35Z",
       "trailText": "YouGov survey finds many say payments are too low and oppose reforms such as raising retirement age or cuts",
-      "summary": "A six-country YouGov poll (Italy, France, Germany, Spain, Poland, UK) finds 52–61% in Italy, France, Germany and Spain (45% Poland, 32% UK) already view state pensions as unaffordable and 49–66% expect them to collapse by the time today’s 30–40-year-olds retire. Yet 53–83% say current payments are too low. Majorities oppose raising the retirement age (47–65%), cutting pensions (61–81%) or higher taxes on workers, while 41–57% back mandatory private/workplace pensions and 27–57% support measures to keep older workers employed. Italians (66%) most favour taxing wealthy pensioners.",
-      "summaryTokens": 718,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "YouGov survey in six countries (Italy, France, Germany, Spain, Poland, UK) finds 32–61% view current state pensions as unaffordable and 49–66% expect them unaffordable by the time today’s 30-40s retire. 53–83% deem benefits too low (72–88% of pensioners). 57–72% of workers doubt a comfortable retirement but oppose raising pension age (47–65%), cutting benefits (61–81%) or higher worker taxes. 41–57% support private pensions, 27–57% back extended work support, Italians stand out in taxing or denying wealthy pensioners.",
+      "summaryTokens": 1153,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/29/readers-tell-us-how-they-would-use-their-last-chance-to-send-a-letter-denmark",
@@ -101,9 +161,9 @@
       "section": "society",
       "publishedDate": "2025-12-29T05:00:31Z",
       "trailText": "With the Danish postal service ending its letter deliveries, we asked what you would put in your final envelope",
-      "summary": "Denmark’s postal service will cease letter delivery end-December, prompting our call for readers’ final letters. Philip, 66, sends grandson Remy a lifetime of love and wisdom in verse; widower Chris Clark, 83, closes the loop on 55 years of love with his late wife Tryn via quoted courting letters; Annie, 68, thanks her mother for weekly lifelines; Dipak, 66, recounts life’s lessons in an open letter; others thank formative teachers, distant pen pals, a Mexican girlfriend, and posties who carried memories. Each message blends personal history, emotion and gratitude.",
-      "summaryTokens": 948,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "As Denmark's postal service ceases letter delivery at year's end, readers share their heartfelt 'last letters': grandparents pen poems to grandchildren; a widower closes five decades of love letters; an Irish expat thanks her mother for lifelines; a civil servant reflects on life for 'no one in particular'; alumni writers send gratitude to a formative teacher; an old pen-friend spans continents; a long-distance couple pledges affection; and a tutor salutes departing posties. Across generations, contributors underscore letters' enduring power amid digitalisation.",
+      "summaryTokens": 1442,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/29/gambling-firms-spent-nearly-5m-to-advertise-on-tfl-since-london-mayors-ban-pledge",
@@ -113,9 +173,9 @@
       "section": "society",
       "publishedDate": "2025-12-29T05:00:29Z",
       "trailText": "Sadiq Khan’s office blames delay on lack of government guidance on links between gambling ads and harm",
-      "summary": "Since his 2021 manifesto pledge to ban gambling ads on Transport for London, companies have spent £4.6m on 500+ campaigns and over £7.5m across TfL services in three terms. Despite Sadiq Khan citing a lack of government guidance on advertising’s harm, ad numbers doubled to 223 this year, including a withdrawn 888 campaign. Having previously banned HFSS adverts on clear health grounds, Khan’s office says legal risk remains absent a national harms review. Campaigners and seven London councils urge him to act. Over 1m Britons have gambling problems; UK firms spend up to £2bn on ads annually.",
-      "summaryTokens": 1281,
-      "generatedAt": "2025-12-30T03:45:30.725Z"
+      "summary": "Since Sadiq Khan’s 2021 pledge to ban online casino and bookmaker ads on TfL, gambling firms have spent £4.6m on over 500 campaigns (223 this year), driving total TfL ad revenue from betting to £7.5m across his three terms. Khan blames a lack of government guidance on links between gambling ads and harm for delaying the ban, while critics note dozens of councils have imposed similar prohibitions without legal challenge. The stand-off persists despite studies correlating ad exposure with addiction affecting over 1 million people, and the failed 888 casino campaign withdrawal highlights public concern. No DCMS review is underway, leaving the mayor’s manifesto promise in limbo.",
+      "summaryTokens": 971,
+      "generatedAt": "2025-12-31T04:30:07.136Z"
     },
     {
       "id": "society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs",
