@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2025-12-31T04:20:41.833Z",
+    "generated_at": "2026-01-01T03:51:02.365Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2025-12-30"
+      "to": "2025-12-31"
     },
-    "article_count": 175,
+    "article_count": 178,
     "merge_info": {
-      "previous_count": 174,
-      "new_articles": 1,
-      "updated_articles": 3,
-      "total_count": 175
+      "previous_count": 175,
+      "new_articles": 3,
+      "updated_articles": 1,
+      "total_count": 178
     },
     "batch_info": {
-      "initial_batch_id": "batch_6954a3e1c1c88190814100d21788a770",
+      "initial_batch_id": "batch_6955ee77a4fc81909fa0c2e86667ef86",
       "retry_batches": [],
-      "total_tokens": 8106,
-      "processing_time_hours": 0.1
+      "total_tokens": 8237,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2025/dec/31/typical-households-would-save-138-a-year-under-forecast-drop-in-energy-price-cap",
+      "title": "Drop in energy price cap from April forecast to save typical home £138 a year",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/31/typical-households-would-save-138-a-year-under-forecast-drop-in-energy-price-cap",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/31/typical-households-would-save-138-a-year-under-forecast-drop-in-energy-price-cap",
+      "section": "money",
+      "publishedDate": "2025-12-31T13:37:10Z",
+      "trailText": "Predicted 8% cut to upper limit for Great Britain could reduce bills to lowest level in 15 months",
+      "summary": "In April Great Britain’s energy price cap is forecast to fall 8%, shaving £138 off the average annual dual-fuel bill to £1,620—the lowest since September 2024—after the autumn budget shifted household charges into general taxation. Measures include ending the Energy Company Obligation and cutting renewables obligation contributions by 75%, while Ofgem’s 0.2% cap rise to £1,758 from January contrasts with this projected drop. Future grid upgrades will add £108/yr by 2031. The Labour government aims for a £300 reduction by 2030 via clean power expansion, tax-funded levies and incentives for home solar and heat pumps. US gas supplies and a milder winter have eased wholesale prices, while the cap excludes Northern Ireland.",
+      "summaryTokens": 1294,
+      "generatedAt": "2026-01-01T03:51:01.902Z"
+    },
+    {
+      "id": "money/2025/dec/31/young-people-in-the-uk-can-you-afford-to-put-money-into-a-pension-scheme",
+      "title": "Young people in the UK: can you afford to put money into a pension scheme? ",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/31/young-people-in-the-uk-can-you-afford-to-put-money-into-a-pension-scheme",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/31/young-people-in-the-uk-can-you-afford-to-put-money-into-a-pension-scheme",
+      "section": "money",
+      "publishedDate": "2025-12-31T12:25:00Z",
+      "trailText": "We’d like to hear from people in the UK, under the age of 30, about whether they’re managing to put money into a pension scheme – or cannot afford to",
+      "summary": "With 150,000 UK borrowers carrying over £100,000 in student debt, tenants spending 36.3% of earnings on rent and ongoing cost-of-living pressures, many under-30s are forced to sacrifice holidays or skip pension contributions. We want to hear from UK residents aged 18–29 about their current pension arrangements: if you’re not saving into a scheme, what’s stopping you? How do tax, student loan repayments, rent and everyday living costs impact your ability to pay in? What are your retirement expectations or concerns? Share your experiences via our submission form. If you encounter issues submitting, support and details on terms and privacy policy are available.",
+      "summaryTokens": 1152,
+      "generatedAt": "2026-01-01T03:51:01.902Z"
+    },
+    {
+      "id": "money/2025/dec/31/uk-house-prices-first-time-buyers-2026-sales-interest-rate-cuts-rent-rises",
+      "title": "UK house prices: first-time buyers ‘will drive 2026 sales’ amid interest rate cuts",
+      "webUrl": "https://www.theguardian.com/money/2025/dec/31/uk-house-prices-first-time-buyers-2026-sales-interest-rate-cuts-rent-rises",
+      "apiUrl": "https://content.guardianapis.com/money/2025/dec/31/uk-house-prices-first-time-buyers-2026-sales-interest-rate-cuts-rent-rises",
+      "section": "money",
+      "publishedDate": "2025-12-31T06:00:04Z",
+      "trailText": "Rent rises likely to slow after rapid increases in recent years, lenders and estate agents forecast",
+      "summary": "First-time buyers will power UK housing in 2026 as mortgage rates fall, wages outpace inflation and affordability improves, with house prices forecast to rise 2–4% and rents growth slowing to 2–3.5%. 2025 saw muted 1.8% price gains after stamp-duty changes and tax uncertainty. Low 3.55–4% fixed rates and eased deposit rules (10–15%) drive record first-time buyer share. Regional growth narrows north-south divide, London flatlines. Economists expect two further BoE cuts next year, reducing mortgage-to-income ratios toward long-term averages. Average UK home value ~£273k. Average rents at £1,360 pm. Renters’ Rights Act spurs landlords to sell smaller homes to FTBs.",
+      "summaryTokens": 1195,
+      "generatedAt": "2026-01-01T03:51:01.902Z"
+    },
     {
       "id": "money/2025/dec/30/plymouth-had-uk-steepest-rise-in-house-prices-in-2025",
       "title": "Plymouth had UK’s steepest rise in house prices in 2025",
@@ -29,9 +65,9 @@
       "section": "money",
       "publishedDate": "2025-12-30T06:00:59Z",
       "trailText": "Average property price in city rose by 12.6%, while Stafford and Wigan also had double-digit growth",
-      "summary": "Property prices in Plymouth climbed 12.6% in 2025 to £278,808, the fastest UK rise, driven by infrastructure projects like Royal William Yard and boosted retail, sporting and lifestyle amenities, per Lloyds. Stafford and Wigan saw double-digit growth, while UK average rose 3.7% year-on-year. Regional markets led by Northern Ireland (+5.8%), Scotland and the north-west outperformed London, where values fell 0.1% to £574,514. Prime central London declines slowed to 0.9% in Q4 after budget-linked tax changes, with outer prime and regional prime down 0.2–0.6%. Edinburgh prime rose 2.1%, and county house price drops moderated.",
-      "summaryTokens": 660,
-      "generatedAt": "2025-12-31T04:20:41.735Z"
+      "summary": "Plymouth led UK house-price growth in 2025 with a 12.6% jump to a £278,808 average, driven by investment in Royal William Yard, enhanced retail, sports and lifestyle amenities. Stafford and Wigan also saw double-digit rises, while Hull entered the top-10 growth list at 6.5%. Nationwide, prices rose 3.7%, with Northern Ireland up 5.8% and London down 0.1% to £574,514. Lloyds highlights localised market shifts. Savills notes prime central London values fell slower, with outer prime and regional markets softening less post-budget, as tax changes on non-dom residents reshape high-end demand.",
+      "summaryTokens": 719,
+      "generatedAt": "2026-01-01T03:51:01.902Z"
     },
     {
       "id": "money/2025/dec/29/tell-us-have-you-changed-your-career-plans-because-of-the-risk-of-an-ai-takeover",
