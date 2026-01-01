@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2025-12-31T04:21:23.277Z",
+    "generated_at": "2026-01-01T03:54:16.101Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-30"
+      "to": "2025-12-31"
     },
-    "article_count": 182,
+    "article_count": 185,
     "merge_info": {
-      "previous_count": 181,
-      "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 182
+      "previous_count": 182,
+      "new_articles": 3,
+      "updated_articles": 1,
+      "total_count": 185
     },
     "batch_info": {
-      "initial_batch_id": "batch_6954a4a154508190bb70f743e04af19f",
+      "initial_batch_id": "batch_6955ef2f31688190ab277efbf551ec64",
       "retry_batches": [],
-      "total_tokens": 1598,
-      "processing_time_hours": 0
+      "total_tokens": 7594,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "news/2025/dec/31/billionaires-added-record-wealth-2025",
+      "title": "Billionaires added record $2.2tn in wealth in 2025",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/31/billionaires-added-record-wealth-2025",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/31/billionaires-added-record-wealth-2025",
+      "section": "news",
+      "publishedDate": "2025-12-31T18:27:46Z",
+      "trailText": "Just eight billionaires accounted for a quarter of the gains, led by Elon Musk, Jeff Bezos, Larry Ellison and Larry Page",
+      "summary": "The world’s 500 richest individuals added a record $2.2 trn in 2025—boosting their combined net worth to $11.9 trn—driven by Donald Trump’s 2024 election win and surging crypto, equities and metals. Eight billionaires—top among them Elon Musk ($190.3 bn gain to $622.7 bn), Larry Ellison ($57.7 bn gain to $249.8 bn), Jeff Bezos and Larry Page—accounted for a quarter of the increase. Gina Rinehart tripled her fortune to $37.7 bn via rare-earth metals, while Manuel Villar lost $12.6 bn after Golden MV shares plunged. Oxfam says these gains could lift 3.8 bn people out of poverty, highlighting policy-driven inequality.",
+      "summaryTokens": 2251,
+      "generatedAt": "2026-01-01T03:54:15.641Z"
+    },
+    {
+      "id": "news/2025/dec/31/from-the-world-cup-to-the-return-of-michaela-coel-2026-promises-to-excite-and-bring-joy",
+      "title": "From the World Cup to the return of Michaela Coel, 2026 promises to excite and bring joy",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/31/from-the-world-cup-to-the-return-of-michaela-coel-2026-promises-to-excite-and-bring-joy",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/31/from-the-world-cup-to-the-return-of-michaela-coel-2026-promises-to-excite-and-bring-joy",
+      "section": "news",
+      "publishedDate": "2025-12-31T12:56:57Z",
+      "trailText": "A very Long Wave-coded book, a landmark Nigerian film and more Black art and culture on its way in the next 12 months",
+      "summary": "Culture highlights for 2026 center Black diaspora joy: the expanded 48-team World Cup spotlights Ghana vs England, Senegal’s semi-final hopes and Caribbean debutant Curaçao; Antigua Carnival, Hargeisa and Calabash book fairs plus Bocas Lit Fest and Carifesta; Obama Presidential Library’s June opening in Chicago; debut novels (Terry’s Wilderness of Mirrors, Hickson-Lovence’s About to Fall Apart, McKenzie-Goddard’s Smallie); film/TV including Michaela Coel’s Mother Mary, First Day on Earth and My Father’s Shadow plus Industry S4; Bad Bunny’s Latin tour; V&A East’s Black music retrospective.",
+      "summaryTokens": 965,
+      "generatedAt": "2026-01-01T03:54:15.641Z"
+    },
+    {
+      "id": "news/2025/dec/31/weatherwatch-hopes-heavy-snowfall-chinese-season-major-snow",
+      "title": "Weatherwatch: Hopes for heavy snowfall in Chinese season of Major Snow",
+      "webUrl": "https://www.theguardian.com/news/2025/dec/31/weatherwatch-hopes-heavy-snowfall-chinese-season-major-snow",
+      "apiUrl": "https://content.guardianapis.com/news/2025/dec/31/weatherwatch-hopes-heavy-snowfall-chinese-season-major-snow",
+      "section": "news",
+      "publishedDate": "2025-12-31T06:00:01Z",
+      "trailText": "Seasonal foods are chosen in this period with the idea that black foods are preferable for the darkest time of the year",
+      "summary": "From Dec 7–21, the Chinese solar term Major Snow heralds the deeper winter phase when heavy snowfall is auspicious for next year’s harvest. Festive foods include red bean porridge on Day 1 and “black foods”—sesame, beans, rice, shiitake—to match the deep darkness. It also marks large-scale pickling of meats for winter. The central five days peak in Yin energy—symbolizing stillness and the year’s turning point as tigers begin mating—before buds emerge late in the period.",
+      "summaryTokens": 411,
+      "generatedAt": "2026-01-01T03:54:15.641Z"
+    },
     {
       "id": "news/2025/dec/30/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +65,9 @@
       "section": "news",
       "publishedDate": "2025-12-30T21:00:51Z",
       "trailText": "Anthony McGann",
-      "summary": "Guardian updated its 11 December 2025 article “The Eldonian dream: Inside the fight for Liverpool’s community housing utopia” to correct a mischaracterisation of Judge Halliwell’s ruling in the winding-up petition against the Eldonian Community Trust, clarifying that while it was conceivable Anthony McGann could influence decisions through family ties, there is no substantial evidence he did so. Additional wording tweaks enhanced clarity. It also lists other recent corrections—covering topics from Trump’s impact on international law, Bristol van dwellers, England’s tree cover drive, Spain’s housing debate and US storm risks to TV reviews and nonfiction trends—and provides contact details for editorial complaints and corrections.",
-      "summaryTokens": 1011,
-      "generatedAt": "2025-12-31T04:21:23.187Z"
+      "summary": "An online Guardian article about the Eldonian Community Trust was updated on 11 December 2025 to correct a misquote of Judge Halliwell’s ruling. While the judgment noted it was ‘conceivable’ that Anthony McGann could influence ECT decisions, it found no substantial evidence he did. Additional edits improved overall clarity. A range of other pieces—from Trump and international law to UK housing, environmental features and cultural reviews—were also amended. Readers can send corrections or complaints via guardian.readers@theguardian.com, post to the Readers’ editor at Kings Place, London, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 682,
+      "generatedAt": "2026-01-01T03:54:15.641Z"
     },
     {
       "id": "news/2025/dec/23/how-we-eat-and-gather-is-central-to-who-we-are-the-diaspora-at-christmas",
