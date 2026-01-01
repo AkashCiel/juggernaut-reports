@@ -1,26 +1,242 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2025-12-31T04:36:10.389Z",
+    "generated_at": "2026-01-01T04:08:40.993Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2025-12-31"
+      "to": "2026-01-01"
     },
-    "article_count": 2037,
+    "article_count": 2054,
     "merge_info": {
-      "previous_count": 2024,
-      "new_articles": 13,
+      "previous_count": 2037,
+      "new_articles": 17,
       "updated_articles": 16,
-      "total_count": 2037
+      "total_count": 2054
     },
     "batch_info": {
-      "initial_batch_id": "batch_6954a777758c8190b603f626c25931b7",
+      "initial_batch_id": "batch_6955f29a868081908ec82b70594d455b",
       "retry_batches": [],
-      "total_tokens": 63315,
-      "processing_time_hours": 0.1
+      "total_tokens": 72477,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "us-news/2025/dec/31/trump-administration-news-updates-today-latest",
+      "title": "Trump news at a glance: the end of some national guard efforts and all childcare payments",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/trump-administration-news-updates-today-latest",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/trump-administration-news-updates-today-latest",
+      "section": "us-news",
+      "publishedDate": "2026-01-01T00:58:46Z",
+      "trailText": "Trump abruptly announced attempts to impose troops in some cities, while reportedly freezing childcare payments to all states – key US politics stories from 31 December at a glance",
+      "summary": "On Dec 31, 2025 the Trump administration abruptly scrapped plans to deploy federal troops in Los Angeles, Chicago and Portland and HHS froze all state childcare payments until spending is verified. A federal appeals court allowed ending Medicaid funding for Planned Parenthood in 22 states plus DC. Meanwhile, 23% of Americans call the healthcare system in crisis, the Kennedy Center altered bylaws to concentrate votes among Trump-appointed trustees ahead of adding his name, Jack Smith testified he never spoke to Biden about his cases, and Wall Street closed 2025 near record highs.",
+      "summaryTokens": 1563,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/trump-administration-childcare-funding-freeze",
+      "title": "Trump administration reportedly freezes all childcare payments to all states ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/trump-administration-childcare-funding-freeze",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/trump-administration-childcare-funding-freeze",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T23:13:34Z",
+      "trailText": "Trump official says funds will be released ‘only when states prove they are being spent legitimately’",
+      "summary": "The Department of Health and Human Services has frozen all federal childcare payments to every state, mandating detailed documentation—justification, receipts or photo evidence, attendance logs, licensing, inspection and monitoring reports—before releasing funds. Announced by HHS deputy secretary Jim O’Neill and assistant secretary Alex Adams, the move responds to a viral video alleging fraud at Somali American daycare centers in Minneapolis. Minnesota Governor Tim Walz denounced the nationwide freeze as a politically motivated, xenophobic tactic.",
+      "summaryTokens": 458,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/jack-smith-house-testimony",
+      "title": "Jack Smith told House committee he had ‘proof beyond reasonable doubt’ in cases against Trump",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/jack-smith-house-testimony",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/jack-smith-house-testimony",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T22:34:10Z",
+      "trailText": "Ex-special counsel testified in front of judiciary committee about aborted federal prosecution of Donald Trump",
+      "summary": "Former special counsel Jack Smith told the Republican-led House Judiciary Committee in a private deposition that he never consulted President Biden or AG Garland on the classified-documents and election-interference cases against Trump, asserting he had “proof beyond a reasonable doubt.” He cautioned that unpunished election meddling would be “catastrophic” for democracy, defended the lawful phone-data subpoenas, and said he’d prosecute any president on identical facts. Both federal indictments were later dropped after Trump’s 2024 victory following Supreme Court and Judge Cannon rulings.",
+      "summaryTokens": 1236,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/trump-national-guard-deployment-stopped",
+      "title": "Trump backs away from deploying national guard in Los Angeles, Chicago and Portland",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/trump-national-guard-deployment-stopped",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/trump-national-guard-deployment-stopped",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T22:27:20Z",
+      "trailText": "Decision comes after DoJ stopped contesting California court’s ruling to return control of guard to state’s governor",
+      "summary": "Trump abruptly halted federal National Guard deployments in Los Angeles, Chicago and Portland after the Justice Department dropped its appeal of a California court’s order restoring Governor Gavin Newsom’s command and the Supreme Court rebuked efforts to federalize troops in Illinois. Newsom ordered state guards home, denouncing the move as illegal intimidation. On Truth Social, Trump vowed a stronger redeployment when crime rises. The climbdown follows legal setbacks over his use of guard units to enforce immigration policies and clouds plans for forces in DC and New Orleans.",
+      "summaryTokens": 849,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/ice-recruitment-media-campaign",
+      "title": "ICE plans $100m yearlong ‘wartime recruitment’ media blitz to attract new agents",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/ice-recruitment-media-campaign",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/ice-recruitment-media-campaign",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T21:52:09Z",
+      "trailText": "Campaign will target rightwing ideologues to fill ranks to meet Trump deportation goals in 2026",
+      "summary": "ICE has unveiled a $100 million, year-long “wartime recruitment” media blitz aimed at right-wing audiences—MAGA radio listeners, gun enthusiasts, military affairs and men’s lifestyle followers—using geofencing at bases, races, trade shows and campuses. The agency plans to spend over $8 million on fitness, military and tactical influencers, deploy patriotic ads and offer up to $50 000 bonuses and $60 000 in loan repayment. With $77 billion in new enforcement funding, ICE has fielded 220 000 applications and made 18 000 offers, gearing up for an “explosion” of arrests in 2026.",
+      "summaryTokens": 695,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/new-york-city-metrocard-retired",
+      "title": "End of an era as New York City transit retires three-decade-old MetroCard",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/new-york-city-metrocard-retired",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/new-york-city-metrocard-retired",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T21:38:09Z",
+      "trailText": "Resisted at first, the replacement for the subway token became an indelible symbol of the city",
+      "summary": "On Jan 1, as newly elected mayor Zohran Mamdani takes office, NYC's three-decade-old MetroCard is retired and sales cease, replaced by OMNY contactless taps. Introduced in 1994 after tokens phased out, MetroCard's magnetic-stripe passes and unlimited 30-day option transformed commuting but suffered swipe failures. Jodi Shapiro of the Transit Museum calls it revolutionary; its special swipe technique, commemorative designs from Bowie to Seinfeld, and Hillary Clinton's five-swipe Bronx struggle cemented its cultural status. A Washington Square Park funeral and fare-gifting tradition underscore mixed nostalgia, as MetroCards remain valid until 2026.",
+      "summaryTokens": 1522,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/14/journalists-of-color-layoffs",
+      "title": "‘It’s not a coincidence’: journalists of color on being laid off amid Trump’s anti-DEI push",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/journalists-of-color-layoffs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/journalists-of-color-layoffs",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T20:41:46Z",
+      "trailText": "Black and brown former employees from CBS, NBC and Teen Vogue talk about the effects of being let go",
+      "summary": "Black and brown journalists at CBS, NBC and Teen Vogue say they were disproportionately laid off amid corporate restructurings and Trump’s anti-DEI directives. At CBS News, four producers of color lost jobs while five white colleagues were reassigned after its Skydance–Paramount merger, a disparity spotlighted in a viral TikTok. NBC dismantled its dedicated Black, Latino, Asian American and LGBTQ+ vertical teams, folding their work into the broader newsroom. Teen Vogue’s integration into Vogue led to the exit of most women of color on staff. These cuts align with FCC moves to de-prioritize DEI and have spurred plans for a Black Media Caucus to launch new outlets.",
+      "summaryTokens": 1141,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/trump-walz-omar-minnesota-childcare-funding",
+      "title": "Trump attacks Walz and Omar after freezing Minnesota childcare funding",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/trump-walz-omar-minnesota-childcare-funding",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/trump-walz-omar-minnesota-childcare-funding",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T18:25:36Z",
+      "trailText": "US president goes on racist tirade against lawmaker and Somali Americans, alleging fraud in industry",
+      "summary": "President Donald Trump froze federal Minnesota childcare funding, citing alleged rampant fraud—up to 90% he attributed to Somali immigrants—while launching racist attacks on Gov. Tim Walz (calling him “Crooked Governor”) and Rep. Ilhan Omar (accusing her of scamming, calling for deportations). The move follows YouTuber Nick Shirley’s viral but disputed videos on fraud at Somali American daycare centers. Walz and Omar condemned the politicization of anti-fraud efforts, noting prosecutions of 98 individuals and disputing Trump’s broader smears against their state and community.",
+      "summaryTokens": 804,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/epstein-files-trump-doj",
+      "title": "US justice department reportedly reviewing more than 5m pages of Epstein files",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/epstein-files-trump-doj",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/epstein-files-trump-doj",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T18:18:01Z",
+      "trailText": "Figure represents significant expansion on earlier estimates as Democrats accuse Trump officials of ‘hiding something’",
+      "summary": "NYT reports the DOJ is reviewing over 5 million pages of FBI files on Jeffrey Epstein—an expansion beyond the 300 GB estimate—that is diverting national security and criminal case resources. Deputy AG Todd Blanche has enlisted around 400 lawyers to work through the holidays, aiming for a Jan 20 completion. Senate Democrats led by Chuck Schumer accuse the DOJ of releasing fewer than 40,000 pages (0.01%) and hiding materials. A Christmas Eve DOJ post pledges compliance with the Epstein Files Transparency Act and Trump’s release order. Early disclosures show FBI alerts a decade earlier and some inauthentic documents.",
+      "summaryTokens": 1398,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/planned-parenthood-medicaid-funding-ends",
+      "title": "Court allows White House to end Medicaid funding for Planned Parenthood in 22 states",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/planned-parenthood-medicaid-funding-ends",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/planned-parenthood-medicaid-funding-ends",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T18:07:41Z",
+      "trailText": "Appeals court reversed injunction blocking Trump administration’s defunding of reproductive healthcare giant",
+      "summary": "An appeals panel of the 1st US Circuit Court on Tuesday lifted Judge Indira Talwani’s injunction, allowing the Trump administration to end Medicaid reimbursements for Planned Parenthood health centers in 22 states plus DC. The move enforces a GOP ‘One Big Beautiful Bill Act’ provision barring Medicaid funding to tax-exempt reproductive providers performing abortions who received over $800,000 in reimbursements. California AG Rob Bonta and other Democratic attorneys general argue the law imposes an unconstitutional retroactive condition and risks closing scores of clinics—jeopardizing STI tests, cancer screenings and contraception for more than 1.5 million Medicaid visits in 2024.",
+      "summaryTokens": 751,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/trump-kennedy-center",
+      "title": "Kennedy Center reportedly changed rules before vote to add Trump’s name",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/trump-kennedy-center",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/trump-kennedy-center",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T16:29:03Z",
+      "trailText": "Bylaws that would limit voting to Trump-appointed trustees appears to reveal long-held renaming plan",
+      "summary": "In May, the Kennedy Center quietly revised bylaws to bar ex-officio board members (Congressional appointees) from voting or forming a quorum. This change enabled a unanimous December 18 vote—restricted to Trump-appointed trustees—to rename the venue the Donald J. Trump and John F. Kennedy Memorial Center for the Performing Arts. Artists and lawmakers have protested, with some bookings canceled and Rep. Joyce Beatty suing to restore Congressional authorization. Critics argue the move violates the center’s charter; audience ratings for Trump-hosted Honors awards also plunged.",
+      "summaryTokens": 796,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/florida-bear-hunt",
+      "title": "‘Heartbreaking’: Florida wildlife groups decry state-sanctioned bear hunt",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/florida-bear-hunt",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/florida-bear-hunt",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T16:26:31Z",
+      "trailText": "Fifty-two black bears were killed in three-week hunt state officials said was necessary to reduce ursine population",
+      "summary": "Florida’s Fish and Wildlife Conservation Commission (FWC) reported killing 52 black bears in a Dec 6-28 hunt—its first since a 2015 event was halted after nearly 300 bears, many pregnant or with cubs, were killed. Aimed at controlling a rebound from hundreds in the 1970s to over 4,000 bears today, the FWC issued 172 single-take permits across four high-density zones, barred dog packs initially, and plans to phase them in later. Officials hailed the hunt as science-based and conservative. Wildlife groups, citing an 81% public opposition poll, condemned bait traps, archery and “trophy hunter” displays as barbaric, promising continued legal fights. Full harvest data is pending.",
+      "summaryTokens": 1417,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/healthcare-americans-poll-data-insurance",
+      "title": "‘A state of crisis’: record number of Americans are pessimistic about US healthcare system",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/healthcare-americans-poll-data-insurance",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/healthcare-americans-poll-data-insurance",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T16:07:01Z",
+      "trailText": "Costs, insurance delays and difficult-to-obtain mental health treatment plague the US health system",
+      "summary": "Poll by West Health-Gallup finds a record 23% of Americans see US healthcare as in crisis and 47% cite major problems, with 29% naming cost as the top concern. Critics cite insurance delays, rising drug prices and leadership under Secretary Robert F. Kennedy Jr. as driving distrust. KFF analyst Emma Wager says aging demographics and inflation make care costs unpredictable. West Health's Timothy Lash warns high prices drive stress, worsen health and force patients to skip treatments – a trend Gallup shows peaks in Mississippi. Experts highlight mental health carve-out copays, calling for integration into primary care to lower expenses and improve outcomes.",
+      "summaryTokens": 1835,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/muhammad-akbar-ali-youngest-georgia-house-democrat",
+      "title": "‘Not my first rodeo’: meet the 21-year-old serving as Georgia’s youngest state legislator",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/muhammad-akbar-ali-youngest-georgia-house-democrat",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/muhammad-akbar-ali-youngest-georgia-house-democrat",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T16:00:15Z",
+      "trailText": "Democrat Muhammad Akbar Ali joins the Georgia state house as a legislator representing an Atlanta suburb",
+      "summary": "21-year-old Democrat Muhammad Akbar Ali won a runoff for Georgia’s 107th House District in Snellville, becoming the youngest state legislator. A former legislative aide and longtime Gwinnett activist, he emphasizes bipartisan relationships and grassroots outreach in a 70% nonwhite, immigrant-rich district. His coalition spanned DSA to ex-governor Roy Barnes. Campaign themes included Medicaid expansion, affordable housing, lower property taxes, school safety and small-business relief. Ali vows to boost youth turnout and cross the aisle effectively.",
+      "summaryTokens": 990,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/climate-crisis-guardian-readers",
+      "title": "How the climate crisis showed up in Americans’ lives this year: ‘The shift has been swift and stark’ ",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/climate-crisis-guardian-readers",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/climate-crisis-guardian-readers",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T15:00:13Z",
+      "trailText": "Guardian US readers share how global heating and biodiversity loss affected their lives in ways that don’t always make the headlines",
+      "summary": "In a year of record heat and storms, Guardian US readers recount swift, stark shifts: a Pacific Northwest father laments snow’s disappearance for his children as regional temps rise; an Appalachian Trail hiker confronts dried streams and mosquito plagues post-Hurricane Helene; a Sacramento gardener struggles with a shrinking growing season, abandoning crops and pivoting to drought-tolerant legumes; and a retired naturalist mourns dwindling butterflies and birds even as he fights for conservation. These personal accounts underscore the intimate impacts of biodiversity loss and global heating and the urgent need to adapt local practices to a rapidly changing climate.",
+      "summaryTokens": 802,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/tracy-beth-hoeg-fda-vaccines",
+      "title": "‘She has no expertise’: the US medical community girds for Tracy Beth Høeg’s tenure at the FDA",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/tracy-beth-hoeg-fda-vaccines",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/tracy-beth-hoeg-fda-vaccines",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T14:00:16Z",
+      "trailText": "The Danish American who doubted Covid shots is meant to lead drug regulation – but has focused on vaccines",
+      "summary": "Tracy Beth Høeg, a sports physician and Covid-vaccine skeptic, has been named acting director of the FDA’s Center for Drug Evaluation and Research (CDER). Lacking drug-development or regulatory leadership experience, she has pushed for a Denmark-style childhood schedule, questioned aluminium adjuvant and myocarditis data, and proposed excluding young men from Covid shots. Her appointment—after collaboration with vaccines chief Vinay Prasad—and oversight of a fast-track drug voucher program alarm former CDER directors, who warn of reduced transparency, scientific rigor and a push to dismantle approved vaccines.",
+      "summaryTokens": 1777,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/trump-family-business-delays-launch-of-gold-smartphone",
+      "title": "Trump family business delays launch of $499 gold smartphone",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/trump-family-business-delays-launch-of-gold-smartphone",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/trump-family-business-delays-launch-of-gold-smartphone",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T12:59:21Z",
+      "trailText": "US-made device planned by end of year hit by recent government shutdown affecting shipments",
+      "summary": "Trump Mobile has postponed the December launch of its $499 gold-coloured T1 smartphone—marketed as a US-made rival to Apple and Samsung—after the recent government shutdown disrupted shipments. Customers paid $100 deposits despite unclear domestic manufacturing capacity. Led by Donald Jr. and Eric Trump under a Trump Organization licensing deal, the venture also offers a $47.45/month service plan and refurbished iPhones and Samsungs at mixed prices. Having generated over $8 million in licensing revenue in 2024, the telecom expansion raises potential conflict-of-interest concerns under federal regulation.",
+      "summaryTokens": 674,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
+    {
+      "id": "us-news/2025/dec/31/us-death-penalty-executions-2025",
+      "title": "US executions surged in 2025 to highest level in 16 years",
+      "webUrl": "https://www.theguardian.com/us-news/2025/dec/31/us-death-penalty-executions-2025",
+      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/31/us-death-penalty-executions-2025",
+      "section": "us-news",
+      "publishedDate": "2025-12-31T12:00:09Z",
+      "trailText": "Forty-seven men killed by states operating death penalty – almost double last year’s number",
+      "summary": "In 2025 US states carrying out capital punishment executed 47 men, nearly double 2024 and the highest annual total since 2009. Driven by President Trump’s Jan. 20 executive order “Restoring the death penalty” and DOJ new federal prosecutions, Florida’s executions jumped from one to 19, making it the leading state alongside Texas, Alabama and South Carolina, which collectively accounted for about 75% of all executions. Twelve states resumed or ramped up use—Louisiana with nitrogen gas, South Carolina with firing squad—while the Supreme Court denied every stay, even as public support fell to a 50-year low of 52%.",
+      "summaryTokens": 562,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
+    },
     {
       "id": "us-news/2025/dec/31/trump-administration-minnesota-freeze-federal-funding-childcare",
       "title": "Trump administration freezes childcare funding to Minnesota in wake of fraud scheme allegations",
@@ -29,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-31T03:05:24Z",
       "trailText": "Officials claim to find ‘rampant fraud’ in childcare funding, but prosecutions began in Biden era and Tim Walz says ‘we’ve spent years cracking down on it’",
-      "summary": "The Trump administration froze federal childcare funding in Minnesota after HHS deputy Jim O’Neill cited “rampant fraud” first exposed in Biden-era prosecutions. Investigations began with 2022 indictments of 47 defendants in a $250 million Covid-19 nutrition scheme, yielding convictions of 57 tied to nonprofit Feeding Our Future. A prosecutor says half of $18 billion across 14 state programs since 2018 may have been stolen, mostly by Somali Americans. Trump used the allegations to push refugee bans and target Rep. Ilhan Omar. O’Neill now requires photo receipts, launched a fraud hotline, and ordered Gov. Tim Walz to deliver a daycare audit; Walz calls the move politicized and vows stronger oversight.",
-      "summaryTokens": 966,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "The Trump administration has halted federal childcare funding in Minnesota, citing “rampant fraud” uncovered in programs dating back to Biden-era prosecutions. HHS deputy Jim O’Neill announced new nationwide requirements for receipts, photos and justifications, plus a fraud hotline, and demanded Governor Tim Walz conduct an audit of attendance, licenses and investigations. Conservatives, led by influencer Nick Shirley, focused on Somali American operators in Minneapolis, despite indictments since 2022 that convicted 57 people in a $250m child nutrition scheme. Walz insists his administration has long cracked down on fraud and accuses Trump of politicizing vital support programs.",
+      "summaryTokens": 430,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/31/trump-administration-news-updates-today",
@@ -41,9 +257,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-31T01:00:01Z",
       "trailText": "More musical acts pull out of performances after Trump slaps his name on the building – key US politics stories from 30 December at a glance",
-      "summary": "After the Kennedy Center board voted to rename the venue the “Trump-Kennedy Center”, musicians from drummer/vibraphonist Chuck Redd to Grammy-nominated septet the Cookers and folk singer Kristy Lee have canceled performances, citing artistic freedom and integrity and prompting legal threats from president Richard Grenell. Federal judges meanwhile ordered continued funding for the CFPB and blocked expiration of South Sudanese temporary protected status. Separately, Israel’s president denied Trump’s pardon claim for Netanyahu; Iran urged renewed nuclear talks; and Trump downplayed Chinese live-fire drills around Taiwan.",
-      "summaryTokens": 670,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "Donald Trump’s renaming of DC’s Kennedy Center to the “Trump-Kennedy Center” has prompted jazz septet the Cookers, drummer Chuck Redd and folk singer Kristy Lee to cancel scheduled gigs, condemning the decision as politically motivated. In other stories, a federal judge orders continued funding for the CFPB, halts the end of South Sudanese TPS, and Israel’s presidential office denies Trump’s claim of a Netanyahu pardon. Iran urges renewed nuclear talks, Trump downplays China’s Taiwan drills, and updates include a DC pipe bomber hearing, JFK’s granddaughter’s death, Musk’s Doge transparency questions, citizenship exclusions, and New York’s incoming mayor swearing in underground.",
+      "summaryTokens": 1076,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/trump-wind-turbine-bald-eagle-falcon",
@@ -53,9 +269,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-31T00:42:33Z",
       "trailText": "A pity that Trump, or one of the 18 intelligence agencies reporting to him, did not trace the image back to its source",
-      "summary": "While on holiday at his Florida resort, Trump posted—and the official White House account amplified—a photo of a dead bird beneath a turbine, lamenting windmills killing “our beautiful Bald Eagles.” Neither he nor the 18 intelligence agencies under his purview traced its origin: the image actually shows a falcon killed at an Israeli wind farm in 2017, bearing no eagle markings and Hebrew script on the turbine. Shot by Hedy Ben Eliahou for Israel’s Nature and Parks Authority and published in Haaretz, it highlights shared concerns over annual bird deaths—around two dozen—in Israeli wind farms.",
-      "summaryTokens": 1510,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "Donald Trump, while on holiday in Florida, posted on X an image claiming windmills were killing bald eagles, a message amplified by a White House account. The photo actually shows a falcon killed at an Israeli wind farm in 2017—captured by Hedy Ben Eliahou for Israel’s Nature and Parks Authority and first published by Haaretz. Visual clues like Hebrew lettering and the bird’s markings were overlooked by Trump and his 18 intelligence agencies. Haaretz noted Israeli turbines kill about two dozen birds annually, spurring campaigns against new Golan Heights wind farms.",
+      "summaryTokens": 675,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/california-snowpack-water",
@@ -65,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T23:53:03Z",
       "trailText": "Water stored as snow during the winter months feeds waterways in the summer and supplies cities and farms",
-      "summary": "California’s first snowpack survey of the season recorded 24 in (61 cm) at the Sierra Nevada’s Phillips station, representing 50% of average water content for late December and 71% statewide, officials said. A series of atmospheric river storms reversed an early dry spell, building a base for spring melt that supplies roughly one-third of California’s annual water. Reservoirs already exceed 123% of their historical average, but hydrologists warn snowpack remains below last year’s early-season levels and that continued winter storms are essential to reach the April peak and ensure summer water availability for 39 million residents and the agricultural sector.",
-      "summaryTokens": 619,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "After a series of December storms fueled by an atmospheric river, California’s first snowpack survey at the Phillips station in the Sierra Nevada recorded 24 in depth, raising statewide snowpack to 71% of average. The snowpack, which melts into rivers and groundwater to supply about a third of the state’s annual water, currently holds 50% of its typical water content for late December and 21% of the April 1 average. While reservoirs stand at 123% of norm, officials warn that continued winter storms will be crucial to secure water for California’s 39 million residents and agriculture.",
+      "summaryTokens": 738,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/hikers-dead-southern-california-mount-baldy",
@@ -77,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T21:30:36Z",
       "trailText": "One person had made an emergency call after companion fell 500ft, but rescue copter couldn’t land due to high winds",
-      "summary": "On Dec. 30, San Bernardino County sheriff’s deputies recovered the bodies of three hikers along Mount Baldy’s Devil’s Backbone trail after high winds thwarted rescue helicopter landings. A caller reported his 19-year-old friend’s 500-ft fall around 11:30 am, providing GPS coordinates, but two landing attempts were aborted. A medic was hoisted down hours later and found all three deceased at 7:30 pm. Identities and causes of death remain under investigation. Their deaths echo actor Julian Sands’ 2023 fatality nearby. That same day, deputies rescued two men from another Mount Baldy trail, one injured in a 100-ft fall.",
-      "summaryTokens": 512,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "Three hikers were found dead Monday evening along Mount Baldy’s 10,000 ft Devil’s Backbone trail after high winds thwarted two helicopter landing attempts. A caller with GPS coordinates reported at 11:30 am that a 19-year-old companion had tumbled 500 ft down a remote mountainside. A medic hoisted in by 7:30 pm discovered all three unresponsive; identities and causes remain unconfirmed. Earlier that day, two other hikers (ages 18 and 31) were rescued from a different Mount Baldy trail after a 100 ft fall.",
+      "summaryTokens": 1010,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/dc-pipe-bombing-suspect-confession-hearing",
@@ -89,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T20:35:37Z",
       "trailText": "Lawyers for Brian Cole argue he should be released ahead of trial for allegedly planting devices in DC in 2021",
-      "summary": "At a Dec. 2025 detention hearing, Brian Cole Jr., charged with planting 2021 pipe bombs at DNC and RNC headquarters before Jan. 6, argued for GPS-monitored home detention citing autism, OCD, no prior record and no injuries since devices didn’t detonate. Prosecutors highlighted his detailed post-arrest confession—he initially denied being the bomber but admitted after a 15-second pause, then described bomb construction, transport and anti-establishment motive tied to the 2020 election—and seized bomb materials from his Virginia home. Judge Sharbaugh will issue an expedited ruling on release. Cole faces up to 20 years.",
-      "summaryTokens": 1587,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "Brian Cole Jr appeared at a federal detention hearing after his arrest for allegedly planting pipe bombs at the DNC and RNC HQs in DC on Jan. 5, 2021. His lawyers argue he should be released pending trial under GPS home detention, citing his autism, OCD and lack of criminal history and noting no devices exploded. Prosecutors counter that Cole confessed in detail to constructing and planting the bombs—motivated by anger over the 2020 election and inspired by Northern Ireland’s Troubles—and pose he remains dangerous, facing up to 20 years in prison. Judge Sharbaugh will issue a ruling soon.",
+      "summaryTokens": 682,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/tatiana-schlossberg-jfk-dies",
@@ -101,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T20:29:05Z",
       "trailText": "Schlossberg, 35, revealed in November diagnosis of mutation of cancer of blood and bone marrow",
-      "summary": "Tatiana Schlossberg, 35-year-old granddaughter of JFK and former New York Times climate reporter, died after revealing in November she had acute myeloid leukemia with a rare mutation. Her passing was announced by the JFK Presidential Library. Diagnosed shortly after the birth of her second child, she underwent treatment at NewYork-Presbyterian/Columbia. In a New Yorker essay, Schlossberg lamented her prognosis, criticized cousin RFK Jr’s cuts to NIH and mRNA vaccine research funding for straining her care, and reflected on filling her remaining time with memories of her two young children. She leaves behind a three-year-old son and a one-year-old daughter.",
-      "summaryTokens": 881,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "Tatiana Schlossberg, 35-year-old granddaughter of John F. Kennedy, died after revealing in November a diagnosis of acute myeloid leukemia with a rare mutation. Announced by the JFK Presidential Library, her passing follows treatment begun shortly after the May 2024 birth of her second child. A Yale and Oxford alumna, she was a New York Times climate reporter and contributor to The Atlantic, Washington Post and Vanity Fair. In a New Yorker essay, she criticized cousin Robert F. Kennedy Jr.’s cuts to vaccine and NIH funding. She leaves two young children.",
+      "summaryTokens": 669,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/consumer-financial-protection-bureau-funding",
@@ -113,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T19:17:43Z",
       "trailText": "Consumer Financial Protection Bureau is at risk after Donald Trump vowed to shutter it since his return to office",
-      "summary": "DC Judge Amy Berman Jackson ordered the Trump administration to resume funding the Consumer Financial Protection Bureau (CFPB), rejecting acting director Russell Vought’s claim that Federal Reserve losses bar its non-Congressional financing. Jackson called the funding cutoff a “manufactured” tactic to starve the agency, upholding an earlier injunction that blocked mass firings and dismantling. The D.C. Circuit will hear the broader case in February 2026. The CFPB has operated seamlessly since 2011, returning $21 billion to consumers. Sen. Elizabeth Warren hailed the ruling as a shield against illegal closure attempts.",
-      "summaryTokens": 422,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "A federal judge in DC, Amy Berman Jackson, ruled that the Trump administration must maintain CFPB funding, rejecting acting director Russell Vought’s argument that Federal Reserve losses cut off its revenue stream. Jackson deemed the starve-the-agency tactic, based on an OLC memo, invalid and noted the CFPB has been financed seamlessly since its 2011 inception, even amid Fed expense shortfalls. The DC Circuit will hear a broader appeal in February 2026. Senate Banking Committee Democrat Elizabeth Warren praised the decision, which protects the watchdog days before its funding lapsed and highlights its $21 billion returned to consumers.",
+      "summaryTokens": 2292,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/zohran-mamdani-swearing-in-subway-station",
@@ -125,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T17:56:31Z",
       "trailText": "Mamdani to take oath of office on New Year’s Eve in gilded age subway station beneath city hall",
-      "summary": "Mayor-elect Zohran Mamdani, 34, will be sworn in on New Year’s Eve in an abandoned Gilded Age subway station beneath City Hall—opened in 1904, decommissioned in 1945 and landmarked in 1979—to symbolize a ‘new era’ of civic ambition. New York AG Letitia James will administer the private midnight ceremony, followed by a public oath by Sen. Bernie Sanders on the steps of City Hall and a Broadway block party. Only ex-mayor Bill de Blasio has confirmed attendance; ex-mayors Bloomberg, Giuliani and outgoing Eric Adams remain undecided. After Elon Musk criticized his FDNY chief pick, Mamdani defended appointing EMS veteran Lillian Bonsignore.",
-      "summaryTokens": 1092,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "New York’s mayor-elect Zohran Mamdani will take his oath on New Year’s Eve in a decommissioned gilded-age subway station beneath City Hall, symbolizing a ‘new era’ and the city’s working-class roots. The 1904 station, landmarked in 1979, will host a private midnight ceremony led by AG Letitia James, followed by a public swearing-in by Senator Bernie Sanders on the steps of City Hall and a post-inauguration block party on Broadway. Mayor Eric Adams’s attendance is uncertain; tech billionaire Elon Musk criticized Mamdani’s FDNY pick, EMS veteran Lillian Bonsignore, prompting Mamdani to highlight her 30-year record.",
+      "summaryTokens": 831,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/trump-kennedy-center-nye-band-cancellation",
@@ -137,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T15:57:18Z",
       "trailText": "The Cookers on Monday pulled out of a New Year’s Eve jazz gig at the controversially renamed ‘Trump-Kennedy’ center",
-      "summary": "In late December, The Cookers, a Grammy-nominated septet of post-bop jazz legends, withdrew two days before their New Year’s Eve performance at Washington’s newly renamed Trump-Kennedy Center. Citing jazz’s roots in freedom and struggle, the predominantly African American band decried the rename as “overt racism” undermining Black music and culture. Their pullout follows drummer Chuck Redd’s Christmas Eve cancellation, folk singer Kristy Lee’s January gig withdrawal, and Doug Varone and Dancers’ April show cancellation. Kennedy Center president Richard Grenell threatened lawsuits and accused left-wing activists of boycotting, while The Cookers apologized to fans and reaffirmed their commitment to unity and artistic integrity.",
-      "summaryTokens": 446,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "The Cookers, a Grammy-nominated septet of veteran post-bop musicians, withdrew two days before their New Year’s Eve gig at the newly renamed Trump-Kennedy Center, joining drummer Chuck Redd, folk singer Kristy Lee and Doug Varone & Dancers in boycotting what they call an act of ‘intolerance’ and ‘erasure.’ Citing jazz’s roots in freedom and resistance, saxophonist Billy Harper denounced the center’s renaming as racist and an affront to Black culture. Kennedy Center president Richard Grenell threatened lawsuits and accused opponents of ‘boycotting the arts’ for political reasons.",
+      "summaryTokens": 428,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/us-citizenship-immigration-trump",
@@ -149,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T12:00:40Z",
       "trailText": "Aspirant Americans tell of exclusions from ceremonies by sudden policy introduced on ‘security’ grounds",
-      "summary": "At a December oath ceremony at Boston’s Faneuil Hall, USCIS staff barred applicants born in 19 Trump-listed “high-risk” countries from swearing allegiance despite years of vetting, invoking a December 5 memo citing a National Guard shooting. Advocacy groups report paused or canceled green-card and naturalization interviews and ceremonies in over 16 cities—affecting Iranians, Haitians, Yemenis, Afghans and others—leaving legal residents distraught. Simultaneously, Justice Department guidance aims to ramp up denaturalization cases, marking a broad escalation of Trump’s immigration agenda beyond undocumented migrants.",
-      "summaryTokens": 682,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "At Boston's Faneuil Hall and over 16 US cities, a December 5 USCIS memo halted green-card and naturalization interviews and canceled oath ceremonies for nationals of 19 'high-risk' countries—including Haiti, Sudan, Venezuela and Afghanistan—citing security after a DC shooting. Long-term residents, like a 50-year-old Haitian assistant, were barred despite years of vetting, triggering distress and mass cancellations by email. Immigration advocates warn this abrupt policy, coupled with a push to file thousands of denaturalization cases, signals an authoritarian expansion of Trump's immigration crackdown.",
+      "summaryTokens": 1706,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/30/shawn-harris-marjorie-taylor-green-georgia",
@@ -161,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T12:00:40Z",
       "trailText": "After the far-right US representative’s resignation, Harris wonders who his opponent for Georgia’s 14th district will be",
-      "summary": "Retired brigadier general Shawn Harris, who narrowed Greene’s margin in Georgia’s 14th district in 2024, was poised to challenge far-right Rep. Marjorie Taylor Greene until her sudden resignation. Now he awaits the GOP’s pick—mainline conservative or extremist—in an R+19 seat and plans to court moderate Republicans with his centrist military credentials. Harris blasts Congress for ceding war powers, demands oversight of Caribbean operations and Pentagon leadership, and spotlights rural economic distress: an agriculture recession, soaring grocery costs and hidden homelessness, urging federal focus on local farms and families.",
-      "summaryTokens": 612,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "Retired brigadier general and rancher Shawn Harris, who won a record 135,000 votes and outperformed Trump by three points in GA-14’s R+19 district, had geared up to face far-right Marjorie Taylor Greene before her sudden resignation. Now he’s bracing for Republicans to nominate either an extremist or a center-right contender. Harris positions himself as a centrist with military oversight credentials—calling for congressional war declarations and criticizing Pentagon leadership—while emphasizing cost-of-living relief, rural homelessness solutions, and agriculture support. He runs canned goods drives and urges Congress to lower grocery prices amid an agriculture recession.",
+      "summaryTokens": 1465,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/29/military-deaths-boat-strike-pacific",
@@ -173,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T01:24:32Z",
       "trailText": "Two men killed in Hegseth-led attack on boat suspected of carrying drugs in international waters, Pentagon says",
-      "summary": "The US military carried out a lethal kinetic strike on a suspected drug-smuggling vessel in international waters of the eastern Pacific, killing two men, Pentagon says. Video released marks the 30th such naval attack since September and raises the anti-trafficking death toll to at least 107. US Southern Command says Defense Secretary Pete Hegseth directed the operation after intelligence confirmed the vessel’s involvement in narco-trafficking on known routes. No US personnel were harmed. President Trump, echoing false claims that each intercepted shipment would kill 25,000 Americans, also asserted without evidence that US forces struck a Venezuelan dock facility over the weekend.",
-      "summaryTokens": 1006,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "On Dec. 29, the Pentagon confirmed a lethal kinetic strike in international waters of the eastern Pacific killed two men aboard a suspected drug-smuggling vessel, marking the 30th US naval attack on narco-traffickers since September and raising the death toll to at least 107. The operation, ordered by Defense Secretary Pete Hegseth per US Southern Command, targeted a boat on known trafficking routes; no US forces were harmed. President Trump has justified these strikes—falsely claiming each shipment would kill 25,000 Americans—and asserted, without evidence, an undisclosed Venezuelan port strike over the weekend.",
+      "summaryTokens": 550,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/29/trump-netanyahu-meeting-takeaways",
@@ -185,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T01:09:20Z",
       "trailText": "US president hosted Israeli prime minister to discuss stalled Gaza peace plan, Iran and an award for Trump",
-      "summary": "At Mar-a-Lago on Dec 29, 2025, Trump hosted Netanyahu, announcing five key alignments and disputes: (1) They’ll give Hamas a short deadline to disarm or risk “hell to pay,” with unnamed countries ready to attack. (2) Trump backed fresh Israeli strikes on Iran’s missile and alleged nuclear buildup, promising to “eradicate” threats. (3) He acknowledged but refused to detail disagreements over West Bank annexation. (4) Trump claimed Israeli president Herzog told him a pardon for Netanyahu was “on its way,” a claim Herzog’s office denied. (5) Netanyahu revealed Trump will be the first non-Israeli recipient of the Israel Prize for his Jerusalem embassy move, Golan recognition and hostage efforts.",
-      "summaryTokens": 1095,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "At Mar-a-Lago, Trump and Netanyahu agreed on pushing Gaza ceasefire terms: Hamas must disarm within a short timeframe or face harsh reprisals, possibly from unnamed states. Trump signaled support for Israeli strikes on Iran over its missile and nuclear programs, warning of immediate US action. He acknowledged but declined to detail disagreements over West Bank status, hinting at forthcoming decisions. Trump also repeated his claim that Israeli President Herzog assured him of a pardon for Netanyahu—a claim Jerusalem denied. Finally, Netanyahu announced Trump would be the first non-Israeli to receive the Israel Prize for pro-Israel policies and hostage-release efforts.",
+      "summaryTokens": 1773,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/29/trump-administration-latest-news",
@@ -197,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2025-12-30T00:51:23Z",
       "trailText": "Israeli prime minister’s Florida trip included announcement that he will award Trump with Israel prize",
-      "summary": "At Mar-a-Lago, Donald Trump hailed Israeli PM Benjamin Netanyahu’s Florida visit, pledged full-throated support and warned Hamas it would have “hell to pay” if it failed to disarm. In turn, Netanyahu announced awarding Trump the unprecedented Israel Prize. Trump also attacked Fed chair Jerome Powell as a “fool,” threatened to fire and sue him over alleged “gross incompetence” and repeated false renovation-cost claims. He claimed without details that US forces struck a “big facility” in Venezuela. Meanwhile, a Harris poll finds nearly half of Americans say their financial security is worsening, and the US pledged $2 billion to a new UN aid mechanism after prior cuts.",
-      "summaryTokens": 1200,
-      "generatedAt": "2025-12-31T04:36:10.117Z"
+      "summary": "At Mar-a-Lago, President Trump warned Hamas would pay a steep price if it fails to disarm, offered full support to Israeli PM Netanyahu—who announced he’ll award Trump Israel’s highest civilian prize—and assailed Fed Chair Jerome Powell as a “fool,” threatening to sue over renovation costs. He claimed an undisclosed US strike on a “big facility” in Venezuela, boasted of economic strength despite nearly half of Americans feeling less secure, backed a $2 billion UN aid mechanism, and faced critiques from Marjorie Taylor Greene, Nancy Pelosi and environmental watchdogs amid fresh climate denial.",
+      "summaryTokens": 677,
+      "generatedAt": "2026-01-01T04:08:40.350Z"
     },
     {
       "id": "us-news/2025/dec/29/beyonce-billionaire-forbes",
@@ -3283,18 +3499,6 @@
       "trailText": "As LA’s mayor touted a developer’s model home, residents of Altadena and Pacific Palisades wrangle for insurance payouts",
       "summary": "It feels endless: despite Mayor Bass heralding a newly built 4,000 sq ft Thomas James Homes model as the first post-wildfire recovery milestone, Pacific Palisades and Altadena survivors say it’s not a true fire rebuild. Nearly a year after blazes leveled 7,000 structures and killed 31 people, residents still wrestle with stalled insurance payouts, complex permits and expiring relief. While 340 homes are under construction and 750 rebuild plans approved, advocacy group Pali Builds and UCLA urban planners call for a dedicated rebuilding authority and resilient planning, warning full community restoration could take decades.",
       "summaryTokens": 553,
-      "generatedAt": "2025-12-16T04:29:59.566Z"
-    },
-    {
-      "id": "us-news/2025/dec/14/journalists-of-color-layoffs",
-      "title": "‘It’s not a coincidence’: journalists of color on being laid off amid Trump’s anti-DEI push",
-      "webUrl": "https://www.theguardian.com/us-news/2025/dec/14/journalists-of-color-layoffs",
-      "apiUrl": "https://content.guardianapis.com/us-news/2025/dec/14/journalists-of-color-layoffs",
-      "section": "us-news",
-      "publishedDate": "2025-12-14T13:00:03Z",
-      "trailText": "Black and brown former employees from CBS, NBC and Teen Vogue talk about the effects of being let go",
-      "summary": "At CBS, NBC and Teen Vogue, recent rounds of corporate restructuring and Trump-era directives curbing DEI saw journalists of color disproportionately laid off while white colleagues retained or reassigned. At CBS Evening News Plus, all four producers of color were axed vs five white peers reassigned; NBC shuttered dedicated Black, Latino, Asian American and LGBTQ vertical teams; Teen Vogue was folded into Vogue. Industry insiders cite FCC’s rollback of DEI and Trump’s anti-diversity orders. Affected staff are exploring legal action and launching independent outlets like the Black Media Caucus.",
-      "summaryTokens": 795,
       "generatedAt": "2025-12-16T04:29:59.566Z"
     },
     {
@@ -20261,7 +20465,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-03T19:34:03Z",
       "trailText": "On the ground in the Oregon city, with rich fall colors and leafy hiking trails, things look different than on Trump’s TV",
-      "summary": "In Portland, Oregon, residents rebut Donald Trump’s portrayal of their city as ‘living in hell,’ showcasing verdant hiking trails, fall foliage, a thriving food scene and bookstore culture via TikTok and Instagram. Fewer than ten demonstrators faced off with a pro-Trump influencer, prompting three arrests and an impending 200-troop National Guard deployment. Locals—from Powell’s Books to Haitian eatery Kann—warn false claims threaten small businesses. Protesters plan an “Emergency Naked Bike Ride” against militarization. Veteran Amanda Cochran holds “Vets Against Militarization” signs, while chicken-costume organizer Jack Dickinson satirizes right-wing agitators, arguing Portland refuses to play their provocation game.",
+      "summary": "In Portland, Oregon, residents rebut Donald Trump’s portrayal of their city as ‘living in hell,’ showcasing verdant hiking trails, fall foliage, a thriving food scene and bookstore culture via TikTok and Instagram. Fewer than ten demonstrators faced off with a pro-Trump influencer, prompting three arrests and an impending 200-troop National Guard deployment. Locals—from Powell’s Books to Haitian eatery Kann���warn false claims threaten small businesses. Protesters plan an “Emergency Naked Bike Ride” against militarization. Veteran Amanda Cochran holds “Vets Against Militarization” signs, while chicken-costume organizer Jack Dickinson satirizes right-wing agitators, arguing Portland refuses to play their provocation game.",
       "summaryTokens": 1020,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
@@ -22241,7 +22445,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-26T01:51:11Z",
       "trailText": "Former FBI director James Comey has said he is innocent, adding ‘let’s have a trial and keep the faith’. Key US politics stories from 25 September 2025 at a glance",
-      "summary": "Former FBI Director James Comey was indicted on false statements to Congress and obstruction charges in Trump’s campaign against adversaries. Comey declared his innocence, urging a trial and expressing faith in the DOJ. AG Pam Bondi affirmed that no one is above the law after Trump tweeted \"JUSTICE IN AMERICA!\" swinging retribution. Other highlights: Texas ICE shooting suspect’s anti-ICE motive; DOJ probing Soros’s Open Society Foundations; Trump���s domestic terror memo and hefty new tariffs on drugs, trucks and cabinets; TikTok divestiture order; Disney investors’ Jimmy Kimmel probe; removal of Trump-Epstein statue; and ongoing federal watchdog disputes.",
+      "summary": "Former FBI Director James Comey was indicted on false statements to Congress and obstruction charges in Trump’s campaign against adversaries. Comey declared his innocence, urging a trial and expressing faith in the DOJ. AG Pam Bondi affirmed that no one is above the law after Trump tweeted \"JUSTICE IN AMERICA!\" swinging retribution. Other highlights: Texas ICE shooting suspect’s anti-ICE motive; DOJ probing Soros’s Open Society Foundations; Trump���s domestic terror memo and hefty new tariffs on drugs, trucks and cabinets; TikTok divestiture order; Disney investors�� Jimmy Kimmel probe; removal of Trump-Epstein statue; and ongoing federal watchdog disputes.",
       "summaryTokens": 1328,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
@@ -24101,7 +24305,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-19T02:14:15Z",
       "trailText": "Demonstrators condemn CEO Bob Iger and fellow executives for ‘bending the knee’ to Trump administration",
-      "summary": "About 200–300 protesters, spurred by the Writers Guild of America, rallied outside Disney’s Burbank headquarters to demand the reinstatement of Jimmy Kimmel Live! after Disney and ABC, led by CEO Bob Iger, suspended the show under pressure from FCC chair Brendan Carr and the Trump administration. Carrying signs decrying “corporate cowardice” and chanting “un-American,” participants framed the suspension as a blatant attack on free speech. Parallel demonstrations in New York and Hollywood echoed WGA demands to keep up pressure on Disney until Kimmel returns, decrying this as authoritarian censorship.",
+      "summary": "About 200–300 protesters, spurred by the Writers Guild of America, rallied outside Disney’s Burbank headquarters to demand the reinstatement of Jimmy Kimmel Live! after Disney and ABC, led by CEO Bob Iger, suspended the show under pressure from FCC chair Brendan Carr and the Trump administration. Carrying signs decrying “corporate cowardice” and chanting ���un-American,” participants framed the suspension as a blatant attack on free speech. Parallel demonstrations in New York and Hollywood echoed WGA demands to keep up pressure on Disney until Kimmel returns, decrying this as authoritarian censorship.",
       "summaryTokens": 743,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
