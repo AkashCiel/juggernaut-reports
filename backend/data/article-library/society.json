@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2026-01-03T05:49:03.381Z",
+    "generated_at": "2026-01-04T04:51:47.355Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-02"
+      "to": "2026-01-03"
     },
-    "article_count": 587,
+    "article_count": 592,
     "merge_info": {
-      "previous_count": 575,
-      "new_articles": 12,
-      "updated_articles": 1,
-      "total_count": 587
+      "previous_count": 587,
+      "new_articles": 5,
+      "updated_articles": 5,
+      "total_count": 592
     },
     "batch_info": {
-      "initial_batch_id": "batch_6958a9e81d088190a839a1c44987c2ab",
+      "initial_batch_id": "batch_6959f05f4f808190a34f204d3f93cdae",
       "retry_batches": [],
-      "total_tokens": 26993,
-      "processing_time_hours": 0.3
+      "total_tokens": 26347,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2026/jan/03/us-spike-influenza-december",
+      "title": "US sees spike in flu cases in December, after most severe season since 2018",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/03/us-spike-influenza-december",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/03/us-spike-influenza-december",
+      "section": "society",
+      "publishedDate": "2026-01-03T19:01:05Z",
+      "trailText": "Not clear whether more people will get the flu this season, but more than 3,100 people have died in last year in US",
+      "summary": "In December the CDC reported a sharp surge in influenza—an estimated 7.5 million infections and 81,000 hospitalizations, a 25% jump in one week—with 32 states at high or very-high activity. This follows 2024–25’s worst season since 2018, which saw over 3,100 deaths and 279 pediatric fatalities. A new subclade K variant and an early European outbreak heighten concerns of a severe remainder of the season. Vaccine distribution trails last year by 13 million doses after the CDC canceled its campaign. Experts urge unvaccinated high-risk groups to get vaccinated, use at-home tests and seek prompt antiviral treatment if positive.",
+      "summaryTokens": 1714,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
+    },
+    {
+      "id": "society/2026/jan/03/more-than-half-of-uk-therapists-report-rise-in-out-of-control-porn-use",
+      "title": "More than half of UK therapists report rise in out-of-control porn use",
+      "webUrl": "https://www.theguardian.com/society/2026/jan/03/more-than-half-of-uk-therapists-report-rise-in-out-of-control-porn-use",
+      "apiUrl": "https://content.guardianapis.com/society/2026/jan/03/more-than-half-of-uk-therapists-report-rise-in-out-of-control-porn-use",
+      "section": "society",
+      "publishedDate": "2026-01-03T17:00:42Z",
+      "trailText": "Exclusive: Survey finds growing number ‘neglecting responsibilities’ or ‘damaging relationships’ as a result",
+      "summary": "The BACP surveyed nearly 3,000 therapists and found 53% reported rising problematic porn use—neglecting responsibilities, damaging relationships, causing physical issues such as erectile dysfunction—and seeking more extreme content. Dr Paula Hall warns of significant harms across ages and genders and urges a national pornography strategy beyond age checks plus more resources, early interventions and stigma reduction. She runs Pivotal Recovery, an online self-help resource offering therapist training to treat porn addiction as a spectrum disorder. Therapist Andrew Harvey notes clients replace partner intimacy with addictive novelty, reporting day-to-day impairment. Treatment focuses on restoring healthy sexual well-being rather than abstinence.",
+      "summaryTokens": 3084,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
+    },
+    {
+      "id": "society/2026/jan/03/uk-man-on-his-struggle-with-porn-addiction",
+      "title": "‘I’d try to hide it as best I could’: a UK man on his struggle with porn addiction",
+      "webUrl": "https://www.theguardian.com/society/2026/jan/03/uk-man-on-his-struggle-with-porn-addiction",
+      "apiUrl": "https://content.guardianapis.com/society/2026/jan/03/uk-man-on-his-struggle-with-porn-addiction",
+      "section": "society",
+      "publishedDate": "2026-01-03T17:00:42Z",
+      "trailText": "Ben Lennard talks about how his pornography use began to interfere with his life – and gradually get out of control",
+      "summary": "Ben Lennard, a British man in his mid-20s, developed a porn addiction after encountering explicit content aged 10–11. Initially masked with humor among friends, his compulsive use began to dominate his life: interfering with relationships, self-esteem and mental health, fuelled by constant cravings and unrealistic body/sexual expectations. Diagnosed with ADHD in 2024, he recognized his impulsivity and “thrill-seeking” brain wiring. Enabled by the Online Safety Act’s verification requirements, he quit “cold turkey” and now feels liberated discussing his struggle publicly. Lennard’s experience highlights pornography’s addictive potential, digital age risks, and the importance of awareness, diagnosis and self-imposed barriers.",
+      "summaryTokens": 1019,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
+    },
+    {
+      "id": "society/2026/jan/03/growing-numbers-over-60s-homelessness-charities-warn",
+      "title": "Growing numbers of over-60s facing homelessness, charities warn",
+      "webUrl": "https://www.theguardian.com/society/2026/jan/03/growing-numbers-over-60s-homelessness-charities-warn",
+      "apiUrl": "https://content.guardianapis.com/society/2026/jan/03/growing-numbers-over-60s-homelessness-charities-warn",
+      "section": "society",
+      "publishedDate": "2026-01-03T12:00:37Z",
+      "trailText": "Housing crisis reaches UK’s oldest generations as high private rents and lack of social housing hits pensioners",
+      "summary": "UK charities warn homelessness among over-60s has surged as soaring private rents, frozen housing benefit and scarce social homes push pensioners into unstable housing. St Mungo’s reports rising numbers of over-65s (including an 87-year-old) with complex health needs seeking emergency support yet deemed non-priority, while the Salvation Army notes 10% of its residential clients are over 55. Research shows a 50% rise in older homelessness in five years and a 35% jump in temporary accommodation for over-55s since 2022. Cases include a 63-year-old forced to sleep in his car for seven weeks, suffering severe health impacts. Experts urge prioritising older renters, planning palliative and end-of-life care in homeless services, and expediting the government’s long-delayed housing strategy.",
+      "summaryTokens": 669,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
+    },
+    {
+      "id": "society/2026/jan/03/vaping-safer-than-smoking-so-why-are-people-struggling-to-quit-e-cigarettes",
+      "title": "Vaping safer than smoking – so why are people struggling to quit e-cigarettes?",
+      "webUrl": "https://www.theguardian.com/society/2026/jan/03/vaping-safer-than-smoking-so-why-are-people-struggling-to-quit-e-cigarettes",
+      "apiUrl": "https://content.guardianapis.com/society/2026/jan/03/vaping-safer-than-smoking-so-why-are-people-struggling-to-quit-e-cigarettes",
+      "section": "society",
+      "publishedDate": "2026-01-03T06:00:32Z",
+      "trailText": "With vaping now more common than smoking, experts explain addiction and what actually helps people quit",
+      "summary": "With 5.4 m UK adults now vaping versus 4.9 m smoking, many users find quitting e-cigarettes harder than expected despite lower health risks. Misperceptions—63% of young people wrongly view vaping as equally or more harmful—and the ease of discreet, habitual use fuel dependence. Experts stress combustible smoke’s unique toxins make cigarettes far deadlier, but nicotine’s physical and psychological grip persists. Early evidence supports quit strategies combining nicotine replacement (patches, gum, varenicline), behavioural support (text messages, therapy) and gradual reduction, while youth interventions focus on motivation, peer influence and harm avoidance.",
+      "summaryTokens": 374,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
+    },
     {
       "id": "society/2026/jan/02/we-can-still-rely-on-the-kindness-of-strangers",
       "title": "We can still rely on the kindness of strangers  | Letters ",
@@ -29,9 +89,9 @@
       "section": "society",
       "publishedDate": "2026-01-02T16:26:53Z",
       "trailText": "Letters: Readers respond to an article by Martin Kettle about a lost wallet and restored faith in human nature",
-      "summary": "Readers respond to Martin Kettle’s account of a lost wallet by sharing stories of human kindness: Phil Bloomfield, who broke his femur shopping on Christmas Eve, praises passersby, paramedics and NHS staff; Lyn Dade finds solace in a wooden plaque reminding her to look outward; David Hanke recovers his wallet with cash intact (minus a puzzling £50-to-£5 swap); Martin Cooper’s fox returns a leather purse; Richard Brackenbury’s wallet is returned by a Kurdish refugee; John Bailey celebrates a wedding ring reunited after decades; Bob Epton issues a public call for his lost blue wallet in France.",
-      "summaryTokens": 1965,
-      "generatedAt": "2026-01-03T05:49:03.211Z"
+      "summary": "Guardian readers respond to Martin Kettle’s piece, sharing personal tales of strangers’ goodwill: in Gloucestershire, Phil Bloomfield’s Christmas Eve fall prompted shop staff and paramedics to rush him to Bristol hospital for a hip replacement on Christmas Day; Lyn Dade found solace in a ‘dance in the rain’ plaque during her own health and financial trials; David Hanke’s hospital-café wallet, minus some notes, was returned intact; Martin Cooper credited a fox for unearthing a forgotten purse; Richard Brackenbury was reunited with his wallet by a Kurdish refugee; John Bailey’s 1974 wedding ring resurfaced after decades; and Bob Epton appeals for the return of a blue wallet lost in France. These anecdotes underline renewed faith in community empathy.",
+      "summaryTokens": 775,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
     },
     {
       "id": "society/2026/jan/02/flu-patient-numbers-fall-nhs-hospitals-england",
@@ -41,9 +101,9 @@
       "section": "society",
       "publishedDate": "2026-01-02T14:31:37Z",
       "trailText": "Medical director says NHS ‘far from complacent’ as cold snap bites, with average of 2,676 flu patients a day on wards",
-      "summary": "Flu hospitalisations in England fell for a second consecutive week, averaging 2,676 patients per day in the week to 28 Dec, a 13% drop from 3,061 the previous week. Critical care admissions eased slightly, while bed occupancy for norovirus-like illnesses remained stable at around 284 per day. The UKHSA issued amber and yellow cold alerts amid plummeting temperatures. NHS medical director Prof Meghana Pandit and health charities praised rising vaccine uptake and warned of sustained winter pressures. Ambulance handovers improved to 18% over 30 minutes and 4% over an hour, the lowest this season.",
-      "summaryTokens": 1594,
-      "generatedAt": "2026-01-03T05:49:03.211Z"
+      "summary": "England’s NHS saw flu hospital admissions drop for a second week to 2,676 patients a day in the week to 28 Dec—a 13% fall from 3,061 after peaking at 3,140 in mid-December. Critical care cases rose to 128 beds. The UKHSA issued amber and yellow cold alerts as temperatures plunged. NHS medical director Prof Meghana Pandit credited over half a million flu vaccinations but warned pressures remain high. Health charities and Health Secretary Wes Streeting urged vulnerable groups to get jabs and take cold-weather precautions. NHS 111 recorded its second busiest day, while ambulance handovers improved to winter levels.",
+      "summaryTokens": 4244,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
     },
     {
       "id": "society/2026/jan/02/coroner-calls-circumcision-safety-measures-baby-death-london",
@@ -53,9 +113,9 @@
       "section": "society",
       "publishedDate": "2026-01-02T13:51:49Z",
       "trailText": "Six-month-old Mohamed Abdisamad’s death from infection prompts concern at lack of training for circumcisers",
-      "summary": "After six-month-old Mohamed Abdisamad died of an invasive streptococcus infection a week after a non-therapeutic circumcision in February 2023, West London assistant coroner Anton van Dellen warned that the absence of infection-control training, accreditation, consent processes, standardised aftercare, wound dressing guidance and record-keeping for circumcisers risks future fatalities. His prevention of future deaths report, sent to the Department of Health and Social Care and local authorities with a 56-day response deadline, calls for mandatory oversight and hygiene protocols.",
-      "summaryTokens": 482,
-      "generatedAt": "2026-01-03T05:49:03.211Z"
+      "summary": "After the February 2023 death of six-month-old Mohamed Abdisamad from invasive Streptococcus pyogenes infection following a non-therapeutic circumcision, assistant coroner Anton van Dellen warned of further infant fatalities due to unregulated practices. His Prevention of Future Deaths report highlights the absence of mandatory training, infection-control protocols, accreditation or registration for circumcisers, lack of consent processes, aftercare duties, analgesia guidance and record-keeping. Sent to the Department of Health and Social Care and the Ministry of Housing, Communities and Local Government, the report urges statutory safety measures within 56 days.",
+      "summaryTokens": 1014,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
     },
     {
       "id": "society/2026/jan/02/racial-and-religious-hate-on-uk-public-transport-is-growing-data-shows",
@@ -65,9 +125,9 @@
       "section": "society",
       "publishedDate": "2026-01-02T06:00:03Z",
       "trailText": "Anti-racism groups warn some people are avoiding public transport or limiting their use of it for fear of abuse",
-      "summary": "New figures from British Transport Police reveal racially motivated incidents on UK trains and buses rose from 2,827 in 2019–20 to 3,258 in 2024–25, while religious hate crimes climbed from 343 to 419 before dipping to 372. Community groups report under-reporting and fear has led some passengers—especially visible minorities and children—to avoid or limit travel. Victims describe verbal abuse, threats and even assaults emboldened by anonymity and alcohol. Campaigners and the British Muslim Trust call for better CCTV, staff training and prosecutions to curb this escalating public-transport hate.",
-      "summaryTokens": 432,
-      "generatedAt": "2026-01-03T05:49:03.211Z"
+      "summary": "British Transport Police figures obtained by the Guardian reveal racial hate crimes on UK public transport rose from 2,827 in 2019–20 to 3,258 in 2024–25, while reported religious hate offences climbed from 343 to 419 (dipping to 372 in 2024–25). Campaigners warn perpetrators—often emboldened by alcohol—exploit isolated carriages to target visible minorities and that many victims, including Muslim women and schoolchildren, now micro-analyse their movements or avoid travel altogether. A high-profile Glasgow train attack saw a passenger hosed with Dettol and racially abused. Community leaders demand urgent action from police, transport operators and councils amid under-reporting and a parallel rise in post-October 2023 antisemitic incidents.",
+      "summaryTokens": 787,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
     },
     {
       "id": "society/2026/jan/02/uk-children-to-get-chickenpox-vaccine-with-measles-mumps-and-rubella-jab",
@@ -77,9 +137,9 @@
       "section": "society",
       "publishedDate": "2026-01-02T00:01:53Z",
       "trailText": "NHS to administer combined immunisation in move in line with approach in US, Canada, Australia and Germany",
-      "summary": "From Friday, NHS across the UK will replace the 1988 MMR jab with a combined MMRV vaccine to immunise children against measles, mumps, rubella and chickenpox. Offered at 12 and 18 months, the switch aligns Britain with the US, Canada, Australia and Germany, where MMRV has cut varicella cases and hospital admissions. Backed by JCVI advice, it’s expected to save £15m annually for the NHS and £24m in parental income losses. Officials say free routine chickenpox immunisation safeguards against serious complications, overcoming earlier concerns around shingles resurgence.",
-      "summaryTokens": 946,
-      "generatedAt": "2026-01-03T05:49:03.211Z"
+      "summary": "Starting 2 January 2026, the NHS across England, Scotland, Wales and Northern Ireland will swap the longstanding MMR jab for an MMRV combination, offering two doses at 12 and 18 months to shield toddlers against measles, mumps, rubella and chickenpox. Half of UK children contract chickenpox by age four (90% by ten), which can lead to chest infections, fits or hospital stays. The move—recommended by the JCVI—mirrors the US, Canada, Australia and Germany, is forecast to save £15m in NHS costs and £24m in parental lost earnings, and removes the previous £150 private fee. Experts cite evidence of reduced chickenpox and mature-shingles safeguards via adult vaccination.",
+      "summaryTokens": 1229,
+      "generatedAt": "2026-01-04T04:51:47.180Z"
     },
     {
       "id": "society/2026/jan/01/the-reason-for-italys-demographic-winter",
