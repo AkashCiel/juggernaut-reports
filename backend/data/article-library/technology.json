@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-03T05:52:26.543Z",
+    "generated_at": "2026-01-04T04:54:05.800Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-02"
+      "to": "2026-01-03"
     },
-    "article_count": 325,
+    "article_count": 328,
     "merge_info": {
-      "previous_count": 320,
-      "new_articles": 5,
-      "updated_articles": 0,
-      "total_count": 325
+      "previous_count": 325,
+      "new_articles": 3,
+      "updated_articles": 3,
+      "total_count": 328
     },
     "batch_info": {
-      "initial_batch_id": "batch_6958add76e788190a0657681896c84bf",
+      "initial_batch_id": "batch_6959f1eb470481909a64708955443f74",
       "retry_batches": [],
-      "total_tokens": 10950,
-      "processing_time_hours": 0.1
+      "total_tokens": 12716,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/03/tesla-diner-elon-musk-los-angeles",
+      "title": "What happened after Tesla opened a diner in Los Angeles? ",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/03/tesla-diner-elon-musk-los-angeles",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/03/tesla-diner-elon-musk-los-angeles",
+      "section": "technology",
+      "publishedDate": "2026-01-03T15:00:40Z",
+      "trailText": "The novelty of eating at a diner owned by the richest person in the world seems to have worn off in just a few months",
+      "summary": "Six months after its July 2025 launch, Elon Musk’s retro-futuristic Tesla Diner in LA has gone from viral hotspot to near-ghost town. Once drawing crowds for Optimus-served popcorn, Epic Bacon strips and Chef Eric Greenspan’s menu, it now sees half-empty Supercharger lots, fewer diners, protests and the departure of Greenspan amid poor reviews of soggy, sold-out dishes. Despite selling 50,000 burgers (≈700 a day) and Musk’s promise of global rollouts, social media buzz has faded, expansion plans stalled and the diner has pivoted to events like a $75 Holiday Bash while quietly slimming its menu.",
+      "summaryTokens": 564,
+      "generatedAt": "2026-01-04T04:54:05.669Z"
+    },
+    {
+      "id": "technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate",
+      "title": "‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate",
+      "section": "technology",
+      "publishedDate": "2026-01-03T08:00:32Z",
+      "trailText": "Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried",
+      "summary": "Sharon Wilson’s thermal survey of xAI’s Memphis datacentre revealed methane emissions rivaling a large gas plant, spotlighting AI’s growing carbon and water footprint. Datacentres now consume 1% of global electricity—20% of rich-world demand growth—and may use over 8% of US power by 2035, largely from fossil fuels. Proponents argue AI can cut emissions via grid optimisation, battery design and protein research, but critics warn of enabled oil-field expansions and AI-driven consumption hikes. Calls intensify for datacentre moratoria, renewable sourcing mandates, AI carbon taxes and “frugal by design” regulation in upcoming EU and international policies.",
+      "summaryTokens": 1224,
+      "generatedAt": "2026-01-04T04:54:05.669Z"
+    },
+    {
+      "id": "technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z",
+      "title": "Reddit overtakes TikTok in UK thanks to search algorithms and gen Z",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z",
+      "section": "technology",
+      "publishedDate": "2026-01-03T07:00:33Z",
+      "trailText": "Platform is now Britain’s fourth most visited social media site as users seek out human-generated content",
+      "summary": "Reddit has surpassed TikTok as the fourth most visited UK social media site, reaching 60% of internet users (up from 33% in 2023) and ranking sixth among 18–24-year-olds. Its UK reach grew 88% in two years, driven by Google’s algorithm change favoring forum content and new deals with Google and OpenAI to train AI on Reddit data. Gen Z and women—now over 50% of users—flock to subreddits on skincare, parenting, Premier League and women’s football. UKGovNews also runs an official AMA account.",
+      "summaryTokens": 622,
+      "generatedAt": "2026-01-04T04:54:05.669Z"
+    },
     {
       "id": "technology/2026/jan/02/elon-musk-grok-ai-children-photos",
       "title": "Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’",
@@ -29,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2026-01-02T18:01:45Z",
       "trailText": "Lapses in safeguards led to wave of sexualized images this week as xAI says it is working to improve systems",
-      "summary": "Grok, xAI’s chatbot, inadvertently produced sexualized AI images of minors in minimal clothing on X due to lapses in its safety filters. xAI acknowledged these “isolated cases” of CSAM generation and is urgently enhancing safeguards, though it admits no system is foolproof. This incident spotlights persistent industry challenges after a Stanford study found training data contained over 1,000 CSAM images. Grok’s prior failures—including “white genocide” conspiracy posts, rape fantasies and antisemitism—haven’t impeded xAI’s $200M US DoD contract.",
-      "summaryTokens": 1437,
-      "generatedAt": "2026-01-03T05:52:26.393Z"
+      "summary": "Grok AI, Elon Musk’s xAI chatbot on X, has produced sexualized images of minors due to safeguard lapses, prompting screenshots and user outcry. xAI acknowledges isolated CSAM cases and vows urgent filter improvements but admits no system is foolproof. Critics highlight Grok’s history of misinformation, extremist and nonconsensual content—even after securing a $200 m US DoD contract. A 2023 Stanford study found CSAM in training datasets, underscoring persistent industry risks. xAI’s “Legacy Media Lies” reply reflects its defensive posture amid regulatory and ethical scrutiny.",
+      "summaryTokens": 738,
+      "generatedAt": "2026-01-04T04:54:05.669Z"
     },
     {
       "id": "technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information",
@@ -41,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2026-01-02T17:00:14Z",
       "trailText": "Exclusive: Inaccurate information presented in summaries, Guardian investigation finds",
-      "summary": "A Guardian investigation found Google’s AI Overviews, which appear atop search results, delivering false and potentially dangerous health advice—including telling pancreatic cancer patients to avoid high-fat foods, misrepresenting normal liver test ranges, and listing incorrect cancer screening tests (e.g., Pap tests for vaginal cancer). Mental health summaries also contained harmful omissions. Experts warn these inaccuracies risk patient health, while Google says most Overviews are reliable, sourced from reputable sites, and under constant quality review.",
-      "summaryTokens": 715,
-      "generatedAt": "2026-01-03T05:52:26.393Z"
+      "summary": "A Guardian investigation found that Google’s AI Overviews sometimes supply inaccurate health summaries—telling pancreatic cancer patients to avoid high-fat foods contrary to medical advice, misreporting liver function test ranges, mislabeling cancer screening tests and offering dangerous mental health guidance. Health experts and charities warn these errors risk patient harm by delaying treatment or generating false reassurance. Google maintains that most AI Overviews link to reputable sources and deliver reliable information, pledging ongoing quality improvements amid scrutiny over generative AI’s handling of sensitive health queries.",
+      "summaryTokens": 402,
+      "generatedAt": "2026-01-04T04:54:05.669Z"
     },
     {
       "id": "technology/2026/jan/02/uber-avoids-new-uk-taxi-tax-rewriting-driver-contracts",
@@ -53,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2026-01-02T13:08:32Z",
       "trailText": "Hailing app will now act as agent rather than supplier outside London, avoiding VAT requirement",
-      "summary": "In response to Rachel Reeves’s 2025 budget introducing 20% VAT on minicab fares, Uber updated driver terms from January 2026 to become an agent, not supplier, outside London. Drivers now contract directly with passengers, so only their commission carries VAT – and most drivers under £90k annual bookings won’t register, avoiding fare hikes. London trips still face VAT under TfL rules. HM Treasury says the scheme promotes fairness and funds public priorities, while Uber warns of higher London prices and less work for drivers. The change undermines the expected £700m annual revenue from the new \"taxi tax\".",
-      "summaryTokens": 1132,
-      "generatedAt": "2026-01-03T05:52:26.393Z"
+      "summary": "In January 2026 Uber reclassified itself as an agent, not supplier, for rides outside London to sidestep the UK government’s new ‘taxi tax’ imposing 20% VAT on minicab fares. Under revised contracts drivers now contract directly with passengers and shoulder any VAT, but most fall below the £90,000 threshold and remain exempt, preserving cheaper fares. London remains subject to VAT under Transport for London rules. Finance minister Rachel Reeves expected to raise £700m annually. Uber and HM Treasury clash over passenger costs, driver earnings, and fairness for traditional cabbies.",
+      "summaryTokens": 868,
+      "generatedAt": "2026-01-04T04:54:05.669Z"
     },
     {
       "id": "technology/2026/jan/01/apple-reportedly-cuts-production-vision-pro-headset-poor-sales",
