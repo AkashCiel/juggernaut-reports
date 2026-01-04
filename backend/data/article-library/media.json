@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2026-01-03T04:17:38.139Z",
+    "generated_at": "2026-01-04T04:18:56.453Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-02"
+      "to": "2026-01-03"
     },
-    "article_count": 221,
+    "article_count": 222,
     "merge_info": {
-      "previous_count": 220,
+      "previous_count": 221,
       "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 221
+      "updated_articles": 1,
+      "total_count": 222
     },
     "batch_info": {
-      "initial_batch_id": "batch_6958983fcefc819091dbfc4988a9c409",
+      "initial_batch_id": "batch_6959e917813881909c2cb56002da3d99",
       "retry_batches": [],
-      "total_tokens": 1730,
-      "processing_time_hours": 0
+      "total_tokens": 6286,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "media/2026/jan/03/trump-public-radio-cuts-donations",
+      "title": "Trump cuts have fueled ‘rage-giving’ to US rural public radio. Will it be enough?",
+      "webUrl": "https://www.theguardian.com/media/2026/jan/03/trump-public-radio-cuts-donations",
+      "apiUrl": "https://content.guardianapis.com/media/2026/jan/03/trump-public-radio-cuts-donations",
+      "section": "media",
+      "publishedDate": "2026-01-03T13:00:38Z",
+      "trailText": "Across the US, federal public media cuts have galvanized many communities to donate to their local radio stations",
+      "summary": "In July 2025 the Trump administration’s abrupt elimination of CPB funding left over 1,500 public media outlets like WYSO in a $600K hole, prompting emergency drives that spurred a ‘rage-giving’ surge: 120K new donors gave $20M, boosting overall gifts by $70M and driving a 61% donor growth and near doubling of donors under 45. Foundations pledged $36.5M, including $26.5M for the Public Media Bridge Fund, yet these sums fall far short of the $535M cuts. Rural stations face layoffs and service reductions, and experts warn initial outpouring may wane over time, threatening long-term viability.",
+      "summaryTokens": 1014,
+      "generatedAt": "2026-01-04T04:18:56.336Z"
+    },
     {
       "id": "media/2026/jan/02/unilever-ad-strategy-vaseline-tiktok-social-media",
       "title": "‘Social listening’: Unilever seeks to capitalise on Vaseline’s TikTok moment",
@@ -29,9 +41,9 @@
       "section": "media",
       "publishedDate": "2026-01-02T11:46:29Z",
       "trailText": "Multinational boosts online chatter after social media users showcase product’s widespread use in life hacks",
-      "summary": "Unilever is doubling down on “social listening,” partnering with TikTok creators to amplify Vaseline life-hack videos—covering shoe cleaning, perfume preservation and squeaky-door fixes—then having in-house scientists validate hits and debunk myths like teeth whitening or lash growth. New CEO Fernando Fernández plans to devote half of the ad budget to social platforms as UK TV and print revenues have fallen by £600m, capitalizing on creator-driven ads that grow four times faster than traditional media, while still eyeing high-ROI events such as the Super Bowl.",
-      "summaryTokens": 610,
-      "generatedAt": "2026-01-03T04:17:37.944Z"
+      "summary": "Unilever is harnessing a TikTok-driven life-hack craze for its 150-year-old Vaseline brand to pivot ad spending from TV and print to social media “social listening”. Viral user videos touted uses—from prolonging perfume and easing spicy-lip pain to household hacks—which Unilever’s scientists validated while debunking myths like teeth whitening. CEO Fernando Fernández and digital head Selina Sykes plan to allocate half its ad budget to content creators, scaling authentic advocacy over broadcast. This shift reflects broader trends: creator-focused ad spend is growing four times faster than traditional media as younger audiences trust influencers. Unilever still values TV’s reach for the Super Bowl.",
+      "summaryTokens": 2671,
+      "generatedAt": "2026-01-04T04:18:56.336Z"
     },
     {
       "id": "media/2025/dec/31/a-captive-audience-for-the-kings-speech",
