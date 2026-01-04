@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2026-01-03T04:42:05.173Z",
+    "generated_at": "2026-01-04T04:27:50.289Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-02"
+      "to": "2026-01-03"
     },
-    "article_count": 644,
+    "article_count": 645,
     "merge_info": {
-      "previous_count": 638,
-      "new_articles": 6,
-      "updated_articles": 0,
-      "total_count": 644
+      "previous_count": 644,
+      "new_articles": 1,
+      "updated_articles": 2,
+      "total_count": 645
     },
     "batch_info": {
-      "initial_batch_id": "batch_695899be5b408190814204bfea315f0b",
+      "initial_batch_id": "batch_6959ebae5fe481908082d998741ccc3f",
       "retry_batches": [],
-      "total_tokens": 11420,
-      "processing_time_hours": 0.3
+      "total_tokens": 5476,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "politics/2026/jan/03/reform-uk-says-child-rapists-would-face-whole-life-jail-terms-if-elected",
+      "title": "Reform UK says it would impose whole-life jail terms on child rapists",
+      "webUrl": "https://www.theguardian.com/politics/2026/jan/03/reform-uk-says-child-rapists-would-face-whole-life-jail-terms-if-elected",
+      "apiUrl": "https://content.guardianapis.com/politics/2026/jan/03/reform-uk-says-child-rapists-would-face-whole-life-jail-terms-if-elected",
+      "section": "politics",
+      "publishedDate": "2026-01-03T17:29:39Z",
+      "trailText": "Zia Yusuf announces plans for mandatory sentences with no parole, as party targets grooming gangs",
+      "summary": "Reform UK’s policy chief Zia Yusuf announced plans to impose mandatory whole-life orders on anyone convicted of child rape, with no possibility of parole, extending to historic offences. The party argues this will ensure proportional punishment for grooming gangs, citing 677 convictions for sexual abuse of under-16s in 2024 and claims that average sentences under Conservatives fell to nine years. Reform intends to free up capacity via deportations and Nightingale prisons. The government stresses judicial independence but highlights its own child protection overhaul and explicit aggravators for grooming.",
+      "summaryTokens": 483,
+      "generatedAt": "2026-01-04T04:27:50.116Z"
+    },
     {
       "id": "politics/2026/jan/02/downing-street-has-only-itself-to-blame-for-lack-of-grip-on-whitehall-say-experts",
       "title": "Downing Street has only itself to blame for lack of grip on Whitehall, say experts",
@@ -29,9 +41,9 @@
       "section": "politics",
       "publishedDate": "2026-01-02T18:27:59Z",
       "trailText": "Ex-No 10 adviser Paul Ovenden says ‘political perma-class’ has distracted government, but critics argue ministers already have power to act",
-      "summary": "Ex-No 10 strategist Paul Ovenden accuses Keir Starmer’s government of being hobbled by a “political perma-class” and a sprawling “stakeholder state,” distracted by high-profile campaigns such as freeing activist Alaa Abd el-Fattah. He urges a government with a “stiffened spine” to cut red tape. Yet experts—including Institute for Government’s Alex Thomas, FDA union chief Dave Penman and former Labour advisers—contend ministers already wield the power to reform Whitehall, blaming weak central leadership, churn and poor performance management rather than external bodies.",
-      "summaryTokens": 564,
-      "generatedAt": "2026-01-03T04:42:05.005Z"
+      "summary": "Downing Street blamed itself for failing to reform Whitehall amidst distractions by a \"political perma-class\" and \"stakeholder state\" that obsess over fringe issues like freeing activist Alaa Abd el-Fattah. Former No 10 adviser Paul Ovenden argued the system is hampered by campaign groups, quangos, regulators, litigation and status-driven civil servants, and called for a government with the will to dismantle red tape. Experts counter that ministers already hold the power to drive change but need sustained focus, political will and stronger centre management. Critics also warn that obsessing over Whitehall reform risks neglecting voters’ priorities like living standards and services.",
+      "summaryTokens": 893,
+      "generatedAt": "2026-01-04T04:27:50.116Z"
     },
     {
       "id": "politics/2026/jan/02/abd-el-fattah-distractions-running-joke-says-ex-starmer-adviser-paul-ovenden",
@@ -41,9 +53,9 @@
       "section": "politics",
       "publishedDate": "2026-01-02T10:07:53Z",
       "trailText": "Paul Ovenden argues time spent discussing political prisoner was symptom of government struggling to focus",
-      "summary": "Paul Ovenden, who resigned as Keir Starmer’s director of strategy, says the government’s efforts to free British-Egyptian prisoner Alaa Abd el-Fattah became a “running joke” among officials and diverted attention from voters’ core domestic concerns. Meetings were frequently “railroaded” into discussions of Abd el-Fattah, whose Boxing Day return reignited rows over decade-old posts advocating violence. Ovenden warns such distractions, alongside debates on reparations and pub smoking bans, fuel public frustration. In the Times, he urges rolling back regulations, cutting welfare spending and ending the state pension triple-lock.",
-      "summaryTokens": 631,
-      "generatedAt": "2026-01-03T04:42:05.005Z"
+      "summary": "Paul Ovenden, until last year Keir Starmer’s director of strategy, says the government’s focus on freeing British-Egyptian detainee Alaa Abd el-Fattah became a ‘running joke’ among ministers. Abd el-Fattah, freed on Boxing Day, returned amid row over decade-old social media posts advocating violence against Zionists. Ovenden told BBC Radio 4 that weeks of meetings on his case, driven by well-connected activist groups and constraints from arm’s-length bodies, diverted attention from bread-and-butter issues. In a Times opinion piece he warns that such distractions fuel public frustration and calls for rolling back environmental rules, cutting welfare and ending the pension triple-lock to refocus on delivering core voter priorities.",
+      "summaryTokens": 1033,
+      "generatedAt": "2026-01-04T04:27:50.116Z"
     },
     {
       "id": "politics/2026/jan/01/a-new-year-brings-new-battles-for-democracy-and-for-labour",
