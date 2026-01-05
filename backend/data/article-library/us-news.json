@@ -1,26 +1,146 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-04T05:07:28.642Z",
+    "generated_at": "2026-01-05T04:42:38.732Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-04"
+      "to": "2026-01-05"
     },
-    "article_count": 2087,
+    "article_count": 2097,
     "merge_info": {
-      "previous_count": 2082,
-      "new_articles": 5,
-      "updated_articles": 18,
-      "total_count": 2087
+      "previous_count": 2087,
+      "new_articles": 10,
+      "updated_articles": 7,
+      "total_count": 2097
     },
     "batch_info": {
-      "initial_batch_id": "batch_6959f275b7c08190982b8982a0ca264e",
+      "initial_batch_id": "batch_695b407ae2bc81909ab2e8799d407aca",
       "retry_batches": [],
-      "total_tokens": 49997,
-      "processing_time_hours": 0.2
+      "total_tokens": 39627,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2026/jan/05/trump-administration-news-latest-updates-today",
+      "title": "Trump news at a glance: Republicans backpedal on claims US will ‘run’ Venezuela",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/05/trump-administration-news-latest-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/05/trump-administration-news-latest-updates-today",
+      "section": "us-news",
+      "publishedDate": "2026-01-05T03:57:38Z",
+      "trailText": "Trump has called on Venezuela’s interim leader to adhere to US demands as top Republicans scramble to answer questions about what happens next – key US politics stories from 4 January 2026",
+      "summary": "After Trump’s dramatic assertion that the US would “run” Venezuela post-capture of Nicolás Maduro, top Republicans distanced themselves as he now urges interim leader Delcy Rodríguez to meet US demands or face possible new intervention. Officials hold some 15,000 troops nearby. Democrats decry the raid as illegal, protests erupted in US cities, and TPS holders can apply for refugee status. Fallout extends from a Danish PM rebuking Greenland annexation talk to Canadian distrust of US health data, weakened disaster preparedness, a convicted WI judge’s resignation and celebrations in Doral.",
+      "summaryTokens": 1756,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/rain-flooding-california-bay-area",
+      "title": "High tides and heavy rain flood parts of California’s Bay Area",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/rain-flooding-california-bay-area",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/rain-flooding-california-bay-area",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T23:41:30Z",
+      "trailText": "King tides cause highest floodwaters in decades for area, while people are rescued from trapped cars and roads close",
+      "summary": "Heavy rains and king tides have flooded five Bay Area counties under flood watch, with up to 3 in of rain and a king tide reaching 2.56 ft—the highest since 1998—triggering widespread road closures and rescues of motorists trapped in 3–4 ft of water across Marin, Sonoma, Alameda, San Mateo and San Francisco. The National Weather Service issued a coastal flood advisory through Monday, with more rain and snow expected. In Southern California, mudslides and floods forced San Diego shelter evacuations, killed one man in Santa Barbara County, shut highways, canceled airport operations after >4 in of rain, and rain continues through Tuesday.",
+      "summaryTokens": 1343,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/tommy-lee-jones-family-statement-daughter-victoria-death",
+      "title": "‘Respect our privacy’: family of Tommy Lee Jones after his daughter’s death",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/tommy-lee-jones-family-statement-daughter-victoria-death",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/tommy-lee-jones-family-statement-daughter-victoria-death",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T22:09:57Z",
+      "trailText": "Victoria Jones, daughter of US film actor, was found unresponsive at a San Francisco hotel on New Year’s Day",
+      "summary": "After 34-year-old Victoria Jones was found dead at the Fairmont San Francisco on New Year’s Day, Tommy Lee Jones’s family issued a statement thanking well-wishers and asking for privacy. Jones was pronounced dead on scene after officers responded to a medical emergency; officials say no foul play is suspected and a cause of death has not been released, though a TMZ dispatch suggests a possible overdose. The actor’s daughter—who appeared in Men in Black II and One Tree Hill—faced multiple misdemeanor arrests last year for substance-related and domestic incidents and was placed under a temporary conservatorship in 2023 for court-ordered drug rehabilitation.",
+      "summaryTokens": 882,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/kristi-noem-venezuela-leader-tps-refugee",
+      "title": "Venezuelans under TPS can apply for refugee status, Kristi Noem says",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/kristi-noem-venezuela-leader-tps-refugee",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/kristi-noem-venezuela-leader-tps-refugee",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T21:51:27Z",
+      "trailText": "Homeland security secretary says Venezuelan leader needs to protect America against drug trafficking and terrorists",
+      "summary": "US Homeland Security Secretary Kristi Noem said Washington seeks a Venezuelan leader who partners to curb drug trafficking and terrorism, and announced that Venezuelans under the revoked TPS program—terminated in late 2025 and affecting 250,000-plus residents—can apply for refugee status. Noem defended ending TPS as a national-interest move, highlighting Venezuela’s increased freedoms and the need to uphold program integrity. Many former TPS holders, concentrated in Florida, face legal battles, with Miami Mayor Elaine Higgins calling to restore their status amid ongoing instability in Venezuela.",
+      "summaryTokens": 1307,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/democrats-trump-white-house-venezuela",
+      "title": "‘They lied to our face’: Democrats decry Trump’s military raid on Venezuela",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/democrats-trump-white-house-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/democrats-trump-white-house-venezuela",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T18:12:27Z",
+      "trailText": "Lawmakers call US intervention and capture of Maduro ‘wildly illegal’ and say it lacked congressional approval",
+      "summary": "Top Democrats condemned Donald Trump’s predawn military raid in Venezuela as a ‘‘wildly illegal’’ regime-change operation carried out without congressional authorization or consultation with the ‘‘gang of eight.’’ Senators Chris Murphy and Jim Himes denounced the action as a constitutional breach and ‘‘imperial adventure,’’ while House leader Hakeem Jeffries called it ‘‘an act of war’’ disguised as a counter-narcotics mission. Chuck Schumer and Rand Paul will push a privileged Senate War Powers resolution to block further hostilities absent explicit congressional approval. Critics warn the intervention risks endless conflict and is driven by oil-profit motives.",
+      "summaryTokens": 551,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/wisconsin-judge-resigns-immigration-ice",
+      "title": "Wisconsin judge resigns after being convicted of obstructing immigrant arrest",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/wisconsin-judge-resigns-immigration-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/wisconsin-judge-resigns-immigration-ice",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T17:59:30Z",
+      "trailText": "Hannah Dugan faced calls to resign from state Republicans amid threats to impeach her if she did not",
+      "summary": "Milwaukee County Circuit Court Judge Hannah Dugan resigned Jan. 4 after her Dec. 19 conviction for obstructing federal officers who sought to arrest undocumented immigrant Eduardo Flores-Ruiz in her courtroom. Dugan diverted ICE and FBI agents, allowed Flores-Ruiz to attend future hearings via Zoom and led him through a private door; he was later detained and deported. Facing Republican threats of impeachment and citing the need to protect judicial independence amid ongoing federal proceedings, she said Wisconsin citizens deserved an uncontested bench. Both GOP Assembly Speaker Robin Vos and Democratic election commission chair Ann Jacobs praised her decision.",
+      "summaryTokens": 1071,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/donald-trump-disaster-response-preparedness",
+      "title": "‘The perfect storm’: Trump has left the US less prepared for natural disasters, experts say",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/donald-trump-disaster-response-preparedness",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/donald-trump-disaster-response-preparedness",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T17:00:11Z",
+      "trailText": "Emergency managers say the US president has presided over a dangerous erosion in US capacity to prepare for and respond to natural disasters",
+      "summary": "Experts warn Trump's second-term policies have weakened US disaster preparedness by cutting budgets, firing staff and undermining climate science at FEMA and NOAA. Key climate-resilience grants like BRIC were suspended, while leadership churn and low morale stifled rapid response capabilities. As record storms, floods and fires hit in 2025, agencies were understaffed and ill-equipped, and state and local authorities lacked resources to compensate. Emergency managers caution that without swift restoration of funding, leadership and data infrastructure, communities will face greater risk and suffering when disasters strike.",
+      "summaryTokens": 1943,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/trump-congress-venezuela-attack",
+      "title": "Trump’s attack on Venezuela without alerting Congress tests limits of executive power",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/trump-congress-venezuela-attack",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/trump-congress-venezuela-attack",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T15:28:08Z",
+      "trailText": "Trump’s audacious arrest of Maduro marks a conspicuous break with convention, even as previously observed by the president himself",
+      "summary": "Under President Trump’s second term, US forces captured Venezuelan leader Nicolás Maduro without notifying Congress until the operation was underway, bypassing the 1973 War Powers Resolution and standard “gang of eight” briefings. Democrats condemned the unilateral regime-change raid as an unconstitutional power grab, while few Republicans objected. The move follows a military buildup off Venezuela and at least 35 lethal drug-interdiction strikes without congressional approval, prompting bipartisan calls to reform or enforce Congress’s war powers authority.",
+      "summaryTokens": 1226,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/san-diego-flooding-evacuation-homeless-shelter",
+      "title": "Flooding forces hundreds to flee homeless shelter in San Diego",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/san-diego-flooding-evacuation-homeless-shelter",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/san-diego-flooding-evacuation-homeless-shelter",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T15:00:09Z",
+      "trailText": "Officials evacuated about 325 men and women from Bridge shelter on New Year’s Day after heavy rains",
+      "summary": "A record-breaking January storm dumped two inches of rain on San Diego’s downtown, flooding the Bridge homeless shelter for the third time in seven years and prompting evacuation of about 325 residents to a nearby park gym on New Year’s Day. Governor Newsom declared a state emergency as winter storms, following 2023 wildfires, raised flood and debris flow risks in burn-scarred areas. Advocates warn climate-driven disasters worsen homelessness and housing shortages: in 2024, 11 million Americans were displaced by natural catastrophes, and Maui’s 2023 wildfires spurred an 83% rise in homelessness. “Not a great start to the new year,” said Bridge operator Alpha Project’s CEO Bob McElroy.",
+      "summaryTokens": 1090,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
+    {
+      "id": "us-news/2026/jan/04/republican-governors-muslim-community-attacks",
+      "title": "Republican claims of ‘terrorism’ leave everyone unsafe, Muslim leader warns",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/04/republican-governors-muslim-community-attacks",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/04/republican-governors-muslim-community-attacks",
+      "section": "us-news",
+      "publishedDate": "2026-01-04T13:00:08Z",
+      "trailText": "Edward Ahmed Mitchell of Council on American-Islamic Relations says Texas and Florida governors abusing power",
+      "summary": "CAIR deputy director Edward Ahmed Mitchell warns Texas Gov. Greg Abbott and Florida Gov. Ron DeSantis have abused power by unilaterally designating CAIR and the Muslim Brotherhood as “terrorist” organizations—barring them from property, contracts and due process. He cautions that this sets a precedent for any governor to outlaw dissenting groups, likening it to 1950s-era bans on the NAACP. CAIR is suing in both states and remains operational. Mitchell attributes the measures to anti-Muslim hysteria driven by pro-Israel and hate groups and highlights a post-October 2023 spike in Islamophobic incidents nationwide.",
+      "summaryTokens": 494,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
+    },
     {
       "id": "us-news/2026/jan/04/naked-imperialism-how-trump-intervention-in-venezuela-is-a-return-to-form-for-the-us",
       "title": "‘Naked imperialism’: how Trump intervention in Venezuela is a return to form for the US",
@@ -29,9 +149,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-04T04:00:01Z",
       "trailText": "Most of the Americas have suffered from interference from their powerful northern neighbour – and are usually the worse off for it",
-      "summary": "Donald Trump ordered the US bombardment of Venezuela and capture of President Nicolás Maduro, marking the first direct US military attack on a South American country and signaling a return to Monroe doctrine–style “naked imperialism.” Citing a new national security strategy that calls for an expanded military presence, Trump declared “American dominance” in the hemisphere unassailable. This unprecedented operation echoes earlier interventions—from the 1847 US invasion of Mexico, the 1898 Cuba occupation, 1915 Haiti invasion, Cold War–era coups and Operation Condor, to the 1989 Panama Noriega seizure—and raises doubts about long-term stability or democracy in Venezuela.",
-      "summaryTokens": 1087,
-      "generatedAt": "2026-01-04T05:07:28.374Z"
+      "summary": "In January 2026, the Trump administration launched the first direct US military strike on a South American nation, bombing Venezuela and capturing President Nicolás Maduro. Trump declared that American hegemony in the Western hemisphere “will never be questioned again,” reviving a “Trump corollary” to the Monroe Doctrine. Historians compare this to the annexation of Texas and 1847 invasion of Mexico, the 1898 occupation of Cuba, Panama’s 1989 Noriega operation and CIA-backed coups in Chile, Argentina and Brazil. Experts warn US interventions rarely yield lasting democracy or stability, instead entrenching long-term political turmoil across the Americas.",
+      "summaryTokens": 1849,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
     },
     {
       "id": "us-news/2026/jan/04/trump-administration-news-latest-updates",
@@ -41,9 +161,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-04T01:27:21Z",
       "trailText": "With Nicolás Maduro in US custody, Donald Trump says ‘we will run’ Venezuela until ‘a safe, proper and judicious transition’ can be made – key US politics stories from 3 January 2026",
-      "summary": "In a surprise US special forces raid that knocked out power in parts of Caracas, President Trump seized long-time Venezuelan leader Nicolás Maduro and his wife, Cilia Flores, vowing the US will “run” Venezuela until a “safe, proper and judicious” transition. Republicans hailed enforcement of a 2020 narco-trafficking indictment; Democrats and global powers—including France, China and Russia—condemned the operation as illegal imperialism evoking Iraq. Analysts warn of a “Putinization” of US foreign policy, while major oil firms stay silent on rebuilding the Venezuelan petroleum sector.",
-      "summaryTokens": 936,
-      "generatedAt": "2026-01-04T05:07:28.374Z"
+      "summary": "On 3 January 2026, US special forces launched an overnight assault on Caracas, seizing Venezuelan president Nicolás Maduro and his wife Cilia Flores, cutting power across parts of the capital. President Trump vowed the US would “run” Venezuela until a “safe, proper and judicious” transition, touting billions for oil industry rebuilding. The operation sparked partisan clashes—Republicans lauding enforcement of a narco-trafficking indictment, Democrats decrying imperial overreach—and drew sharp international criticism over possible breaches of international law.",
+      "summaryTokens": 793,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
     },
     {
       "id": "us-news/2026/jan/03/trump-nicolas-maduro-venezuela",
@@ -53,9 +173,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-03T22:05:35Z",
       "trailText": "Though he also discussed plans to ‘run’ Venezuela, the US president could not resist upending his moment of glory",
-      "summary": "At Mar-a-Lago, Trump hailed the daring US military operation that toppled Venezuelan strongman Nicolás Maduro, floated vaguely running Venezuela, yet quickly derailed his Churchillian moment by airing grievances—against city mayors, state governors, past generals, Congress “leakers,” and Joe Biden. Praising current commanders but dismissing predecessors, he boasted of US crime-fighting help in Chicago, Memphis, New Orleans and LA. Pressed on his secretive planning and the Honduras pardon, Trump blamed Biden’s administration for unfair persecution. Despite a world-shifting raid, he remained fixated on personal slights.",
-      "summaryTokens": 936,
-      "generatedAt": "2026-01-04T05:07:28.374Z"
+      "summary": "At Mar-a-Lago, Trump hailed the US military’s audacious overnight operation that toppled Venezuelan dictator Nicolás Maduro, boasting vague plans to ‘run’ Venezuela but repeatedly digressing into grievances. He criticized his legal treatment, specific governors, mayors and past generals, lamented lack of credit for crime-fighting efforts in DC, Memphis, New Orleans, LA and Chicago, and blasted Congress for leaks. Questioned on pardoning ex-Honduran president Juan Orlando Hernández, he blamed Joe Biden’s administration. Even after a historic intervention, Trump’s address remained marked by personal slights, partisan attacks and thin-skinned tangents.",
+      "summaryTokens": 504,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
     },
     {
       "id": "us-news/2026/jan/03/sisters-of-watts-california-community",
@@ -65,9 +185,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-03T15:00:40Z",
       "trailText": "The Sisters of Watts have served families for a decade, providing food, fitness, money and after-school programs",
-      "summary": "Since 2016, four siblings who grew up in 2.2 sq miles of Watts – Keisha, Robin, Jessica and Penny Daniels – and their extended network have led the Sisters of Watts, a nonprofit delivering food giveaways, fitness, tutoring, after-school programs, housing aid and re-entry support. Through signature events such as Thanksgiving meals for 100+ families and back-to-school drives drawing nearly 4,000 people, they have fostered community bonds, empowered entrepreneurs like ex-inmate Izell Leonard Sr. and opened a neighborhood safe house. Operating largely on small grants, donations and a $100K LAPD safety partnership grant, they face financial precarity but continuously leverage partnerships to sustain and expand services.",
-      "summaryTokens": 952,
-      "generatedAt": "2026-01-04T05:07:28.374Z"
+      "summary": "The Sisters of Watts, four siblings raised in the 2.2-square-mile Watts neighborhood of South Los Angeles, have spent a decade running a grassroots nonprofit that fills resource gaps for working-class families. Led by Keisha and Robin Daniels alongside Jessica Crummie and Penny Daniels, they host food and backpack giveaways, fitness classes, back-to-school drives, youth sports teams and a community “safe house” offering tutoring, laundry and a giving closet. Funded by small grants, donations and a $100K LAPD community safety award, they also support housing, domestic-violence survivors and reentry programs, empowering residents like former inmate–turned–baker Izell Leonard Sr.",
+      "summaryTokens": 631,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
     },
     {
       "id": "us-news/2026/jan/03/epstein-files-police-failures",
@@ -77,9 +197,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-03T14:00:39Z",
       "trailText": "New documents reveal numerous missed opportunities as experts and victims condemn US authorities’ failures",
-      "summary": "Documents released under the Epstein Files Transparency Act detail repeated missed opportunities to prosecute Jeffrey Epstein’s abuse from a 1996 FBI report by Maria Farmer through a 2004 taxi-driver tip, a 2008 lenient state plea deal and an unpursued 2011 FBI interview with Virginia Giuffre. Experts cite local-federal communication gaps, prosecutors’ risk aversion in ‘he said, she said’ sex-crime cases and Epstein’s powerful network. Analogies to 9/11 intelligence failures underscore fragmented data. Only after a 2019 Miami Herald exposé was Epstein arrested; he died by suicide and Ghislaine Maxwell was later convicted.",
-      "summaryTokens": 945,
-      "generatedAt": "2026-01-04T05:07:28.374Z"
+      "summary": "Newly released Justice Department files expose two decades of missed chances to prosecute Jeffrey Epstein, as local and federal agencies failed to act on at least five early allegations—from a 1996 child-pornography report and a 1997 Victoria’s Secret audition claim to 2001 and 2004 witness tips—due to poor interagency communication, risk-averse prosecutors uncomfortable with “he-said, she-said” sex crimes and entrenched biases. A 2008 Florida plea deal further shielded Epstein until a 2019 Miami Herald exposé prompted federal charges; experts cite systemic inertia and possible elite influence.",
+      "summaryTokens": 612,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
     },
     {
       "id": "us-news/2026/jan/02/trump-administration-news-latest-updates-today",
@@ -89,9 +209,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-03T01:00:23Z",
       "trailText": "Venezuelan leader calls for ‘dialogue and diplomacy’ between Washington and Caracas following US claims of airstrike",
-      "summary": "Venezuelan President Nicolás Maduro has called on Donald Trump to abandon “illegal warmongering” and initiate “serious talks” amid ambiguity over a purported pre-Christmas CIA airstrike—the first on Venezuelan soil since Trump’s five-month military pressure campaign involving naval deployments, drug-trafficking airstrikes, oil tanker blockades and vessel seizures. Maduro rejects US narco-terrorism accusations as a pretext to seize Venezuela’s oil, gold and rare-earth metals and demands dialogue and diplomacy. The digest also highlights Trump’s Iran warnings, DHS artwork controversy, NASA’s Artemis 2 agenda, domestic political shifts and security incidents.",
-      "summaryTokens": 1709,
-      "generatedAt": "2026-01-04T05:07:28.374Z"
+      "summary": "Venezuelan leader Nicolás Maduro has called on President Trump to abandon \"illegal warmongering\" and begin \"serious talks\" amid mystery over a pre-Christmas CIA airstrike on Venezuelan soil—the first such strike under Trump’s military pressure. During a televised interview, Maduro denied US claims of hitting a drug-trafficking docking facility, accusing Washington of fabricating narco-terrorism charges to seize Venezuela’s oil, gold and rare-earth metals. He likened these allegations to false WMD pretexts and urged dialogue to replace Trump’s naval deployments, airstrikes, tanker blockades and sanctions. Since August, the administration has deployed a massive naval fleet, imposed a \"total blockade\" on sanctioned oil tankers, seized two vessels and pursued a third.",
+      "summaryTokens": 1477,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
     },
     {
       "id": "us-news/2026/jan/02/california-ban-open-carry-unconstitutional",
@@ -101,9 +221,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-03T00:43:49Z",
       "trailText": "Ninth circuit sides with gun owner that ban in counties with more than 200,000 people violates second amendment",
-      "summary": "A 2-1 Ninth Circuit panel ruled California’s ban on openly carrying firearms in counties over 200,000 residents unconstitutional under the Supreme Court’s 2022 Bruen test. Judges VanDyke and a fellow Trump appointee found open carry part of America’s historical tradition predating the Bill of Rights, citing the 1967 Mulford Act’s racially motivated response to Black Panther patrols. The court partially reversed a 2023 lower-court decision in favor of gun owner Mark Baird, while upholding licensing rules in smaller counties. Senior Judge N. Randy Smith dissented. The decision fuels nationwide Bruen challenges ahead of March’s US v Hemani argument.",
-      "summaryTokens": 561,
-      "generatedAt": "2026-01-04T05:07:28.374Z"
+      "summary": "A Ninth Circuit panel ruled 2-1 that California’s ban on open carry in counties with over 200,000 residents violates the Second Amendment under the Supreme Court’s 2022 Bruen test. Judge Lawrence VanDyke, with another Trump appointee, found open carry rooted in pre-1791 tradition and deemed the Mulford Act of 1967 racially motivated. The ruling partially reverses a lower court decision in gun owner Mark Baird’s challenge, leaves smaller-county licensing intact and drew a dissent from Judge N. Randy Smith.",
+      "summaryTokens": 664,
+      "generatedAt": "2026-01-05T04:42:38.093Z"
     },
     {
       "id": "us-news/2026/jan/02/kentucky-woman-arrest-abortion",
@@ -19913,7 +20033,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-08T13:45:32Z",
       "trailText": "Memphis lawmaker to go up against Steve Cohen, joining wave of younger candidates calling for generational change",
-      "summary": "Memphis state representative Justin Pearson, 30, known as one of the “Tennessee Three” expelled and reinstated after a 2023 gun-control protest, launched a Democratic primary bid against 76-year-old Rep. Steve Cohen in Tennessee’s deep-blue 9th district. Criticizing stagnant leadership amid a 22.6% local poverty rate, Pearson’s progressive platform includes cheaper healthcare, housing affordability, tougher gun laws and generational change. Backed by Justice Democrats and David Hogg’s Leaders We Deserve (pledging $1 million), he argues it’s time to “pass the torch.”",
+      "summary": "Memphis state representative Justin Pearson, 30, known as one of the “Tennessee Three” expelled and reinstated after a 2023 gun-control protest, launched a Democratic primary bid against 76-year-old Rep. Steve Cohen in Tennessee’s deep-blue 9th district. Criticizing stagnant leadership amid a 22.6% local poverty rate, Pearson���s progressive platform includes cheaper healthcare, housing affordability, tougher gun laws and generational change. Backed by Justice Democrats and David Hogg’s Leaders We Deserve (pledging $1 million), he argues it’s time to “pass the torch.”",
       "summaryTokens": 824,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
@@ -22745,7 +22865,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-26T12:52:35Z",
       "trailText": "About two dozen protested after midnight, carrying flags and signs and calling out ‘baby killer’ and ‘free Palestine’",
-      "summary": "About two dozen demonstrators staged a late-night protest outside Benjamin Netanyahu’s Manhattan hotel ahead of his UN general assembly address, chanting “baby killer,” “free Palestine” and waving Palestinian flags. Police herded the non-violent crowd onto the sidewalk and arrested several participants. The action—aimed at disrupting Netanyahu’s sleep—coincides with his expected defiant stance on Israel’s Gaza offensive, which has killed at least 65,000 Palestinians and injured 167,000 since October 2023. In recent days, the UK, Canada, Australia, France and Portugal formally recognized a Palestinian state, a move Netanyahu denounced as a “reward for terrorism.”",
+      "summary": "About two dozen demonstrators staged a late-night protest outside Benjamin Netanyahu’s Manhattan hotel ahead of his UN general assembly address, chanting “baby killer,” “free Palestine” and waving Palestinian flags. Police herded the non-violent crowd onto the sidewalk and arrested several participants. The action—aimed at disrupting Netanyahu’s sleep—coincides with his expected defiant stance on Israel’s Gaza offensive, which has killed at least 65,000 Palestinians and injured 167,000 since October 2023. In recent days, the UK, Canada, Australia, France and Portugal formally recognized a Palestinian state, a move Netanyahu denounced as a “reward for terrorism.���",
       "summaryTokens": 624,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
