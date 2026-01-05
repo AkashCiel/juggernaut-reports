@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2026-01-04T04:21:37.257Z",
+    "generated_at": "2026-01-05T04:18:38.786Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2026-01-03"
+      "to": "2026-01-04"
     },
-    "article_count": 180,
+    "article_count": 181,
     "merge_info": {
-      "previous_count": 179,
+      "previous_count": 180,
       "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 180
+      "updated_articles": 1,
+      "total_count": 181
     },
     "batch_info": {
-      "initial_batch_id": "batch_6959ea39321081909d81359ddd6de597",
+      "initial_batch_id": "batch_695b3b2615588190bf37ea769ff8f7f2",
       "retry_batches": [],
-      "total_tokens": 5319,
+      "total_tokens": 7308,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2026/jan/04/digital-wallet-fraud-bank-card-stolen-fraud-apple-pay-google-pay",
+      "title": "Digital wallet fraud: how your bank card can be stolen without it leaving your wallet",
+      "webUrl": "https://www.theguardian.com/money/2026/jan/04/digital-wallet-fraud-bank-card-stolen-fraud-apple-pay-google-pay",
+      "apiUrl": "https://content.guardianapis.com/money/2026/jan/04/digital-wallet-fraud-bank-card-stolen-fraud-apple-pay-google-pay",
+      "section": "money",
+      "publishedDate": "2026-01-04T07:00:01Z",
+      "trailText": "Fraudsters use phishing to steal card details, which fund a spending spree using Apple Pay or Google Pay",
+      "summary": "Fraudsters phish for bank card details via fake texts or calls, then pose as your bank, claim to block bogus transactions and pressure you to approve a legitimate bank notification or share a code to ‘secure’ your account. Unknowingly, victims authorize criminals to add their card to Apple Pay or Google Pay, enabling high-value purchases of electronics or designer goods which are resold. Santander and HSBC report rising wallet-fraud losses, prompting banks to bolster authentication measures. Experts advise never sharing one-time passcodes, always calling your bank via its official number, and monitoring alerts and transactions to spot fraud early.",
+      "summaryTokens": 878,
+      "generatedAt": "2026-01-05T04:18:38.515Z"
+    },
     {
       "id": "money/2026/jan/03/new-year-money-tools-apps-finances-2026-tax-travel-cash",
       "title": "New year money: 26 tools and apps to help you sort your finances in 2026",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2026-01-03T07:00:30Z",
       "trailText": "From cheaper shopping to tax and travel cash, there is a host of resources to help you out. We pick some of the best",
-      "summary": "In 2026, 26 digital tools and apps help consumers optimize pensions (Scottish Widows Mirror, pension credit calculator), manage tax (HMRC app, tax-code checker), boost savings (MSE’s premium bonds calculator, Travel Money Max), track spending (HyperJar, Trolley.co.uk), claim benefits (Turn2us, Free Childcare, CTF finder, My Lost Account), monitor credit (Credit Karma), block scams (Trend Micro ScamCheck), leverage loyalty (Tesco Clubcard, Meerkat), cut food waste (Too Good To Go, Olio), improve energy efficiency (bank-hosted Home Efficiency tool), plan finances (Emergency fund calculator, Midlife MOT) and more.",
-      "summaryTokens": 1284,
-      "generatedAt": "2026-01-04T04:21:37.143Z"
+      "summary": "Guardian Money rounds up 26 essential apps and online tools to overhaul your 2026 finances: from AI-driven pension checkers (Scottish Widows Pension Mirror) and HMRC’s self-assessment and tax-code apps to barcode scanners for healthier spending (Yuka), benefits and pension credit calculators (Turn2us, gov.uk), premium bonds odds and prize checkers, travel currency comparators (MoneySavingExpert), credit-score monitors (Credit Karma), deal-finders (Camelcamelcamel, HotUKDeals), budgeting platforms (HyperJar, Emma, Plum), scam blockers (Trend Micro ScamCheck), energy-efficiency planners, emergency-fund targets, lost-account and child-trust-fund finders, free childcare eligibility tools and a midlife financial MOT. Each resource streamlines saving, spending, tax and service access for the year ahead.",
+      "summaryTokens": 1126,
+      "generatedAt": "2026-01-05T04:18:38.515Z"
     },
     {
       "id": "money/2026/jan/01/from-energy-prices-to-interest-rates-the-dates-that-could-affect-your-finances-in-2026",
