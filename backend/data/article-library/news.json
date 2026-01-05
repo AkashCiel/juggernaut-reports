@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-04T04:25:10.540Z",
+    "generated_at": "2026-01-05T04:20:58.417Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-02"
+      "to": "2026-01-04"
     },
-    "article_count": 190,
+    "article_count": 191,
     "merge_info": {
       "previous_count": 190,
-      "new_articles": 0,
-      "updated_articles": 3,
-      "total_count": 190
+      "new_articles": 1,
+      "updated_articles": 0,
+      "total_count": 191
     },
     "batch_info": {
-      "initial_batch_id": "batch_6959ead91a1c81909931c397e13d2a9b",
+      "initial_batch_id": "batch_695b3ba7925481908a1cafd2c9d1e22d",
       "retry_batches": [],
-      "total_tokens": 5058,
-      "processing_time_hours": 0.1
+      "total_tokens": 3418,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/04/corrections-and-clarifications1",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/04/corrections-and-clarifications1",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/04/corrections-and-clarifications1",
+      "section": "news",
+      "publishedDate": "2026-01-04T21:00:16Z",
+      "trailText": "Chris Rea obituary | Firth of Forth | Addison Rae’s Obsessed",
+      "summary": "Corrections to recent articles: Chris Rea obituary misnamed Cargo Fleet as Cargo Street; a new-year swimmers item called the Forth of Firth instead of the Firth of Forth; and Addison Rae’s debut single Obsessed was released in 2021, not 2023. Other amendments address hikers on Mount Baldy, a 14-mile tidal power plan by the London Eye architect, Japan’s nuclear power pivot, Michael Mann’s films, an Ulster Scots Beckett translation, a Godot revival, slow IPO confidence, urban greening and species, 75 years of The Archers and a €1m Picasso raffle. Send corrections to guardian.readers@theguardian.com or Readers’ editor at Kings Place, 90 York Way, London N1 9GU (voice +44 20 3353 4736).",
+      "summaryTokens": 2850,
+      "generatedAt": "2026-01-05T04:20:58.133Z"
+    },
     {
       "id": "news/2026/jan/02/corrections-and-clarifications",
       "title": "Corrections and clarifications",
