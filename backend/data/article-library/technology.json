@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-05T04:39:13.932Z",
+    "generated_at": "2026-01-06T05:48:04.847Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-04"
+      "to": "2026-01-06"
     },
-    "article_count": 329,
+    "article_count": 333,
     "merge_info": {
-      "previous_count": 328,
-      "new_articles": 1,
-      "updated_articles": 3,
-      "total_count": 329
+      "previous_count": 329,
+      "new_articles": 4,
+      "updated_articles": 1,
+      "total_count": 333
     },
     "batch_info": {
-      "initial_batch_id": "batch_695b3faedf008190b3af62f62cf85eb3",
+      "initial_batch_id": "batch_695c94e767908190922eaa9693029f28",
       "retry_batches": [],
-      "total_tokens": 9632,
-      "processing_time_hours": 0.1
+      "total_tokens": 12310,
+      "processing_time_hours": 0.9
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/05/maduro-venezuela-ai-images",
+      "title": "AI images of Maduro capture reap millions of views on social media",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/05/maduro-venezuela-ai-images",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/05/maduro-venezuela-ai-images",
+      "section": "technology",
+      "publishedDate": "2026-01-06T00:32:30Z",
+      "trailText": "Lack of verified information and rapidly advanced AI tools make it difficult to separate fact from fiction on US attack",
+      "summary": "After Trump’s announcement of a large-scale strike on Venezuela, AI-generated images and videos—depicting US agents escorting Maduro off a plane, jubilant crowds in Caracas, and missile strikes—flooded social media (X, Instagram, Facebook and TikTok). Real footage was interwoven with fabrications, making verification difficult. NewsGuard identified five forged images and two out-of-sequence clips, amassing over 14m views on X. Influencers like Coral Gables mayor Vince Lago, Laura Loomer and Alex Jones amplified the hoaxes, while tools like reverse image search proved inconsistent at distinguishing AI fabrications from genuine wartime visuals.",
+      "summaryTokens": 1454,
+      "generatedAt": "2026-01-06T05:48:04.555Z"
+    },
+    {
+      "id": "technology/2026/jan/05/california-tool-delete-personal-information",
+      "title": "New tool allows Californians to request data brokers delete personal details",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/05/california-tool-delete-personal-information",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/05/california-tool-delete-personal-information",
+      "section": "technology",
+      "publishedDate": "2026-01-05T20:10:22Z",
+      "trailText": "State seeks to give residents greater control over their personal data and have fewer messages forced upon them",
+      "summary": "California’s new Delete Request and Opt-Out Platform (Drop), launched Jan 1 under the 2023 Delete Act, lets verified residents submit a single deletion request to 500 registered data brokers—firms that aggregate and sell personal details from public records, browsing habits, location, medical and other sensitive data. Drop, the first government-run mass-deletion tool worldwide, goes live now but brokers have until Aug. 1 to comply. By centralizing opt-outs, California hopes to reduce unwanted calls, texts and emails, curb opaque data trades used by marketers, law enforcement and military contractors, and enhance consumer privacy control.",
+      "summaryTokens": 996,
+      "generatedAt": "2026-01-06T05:48:04.555Z"
+    },
+    {
+      "id": "technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children",
+      "title": "Grok AI still being used to digitally undress women and children despite suspension pledge",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children",
+      "section": "technology",
+      "publishedDate": "2026-01-05T18:45:31Z",
+      "trailText": "Degrading pictures being posted on Elon Musk’s site despite the platform pledging to suspend people who generate them",
+      "summary": "On Elon Musk’s platform X, Grok AI remains used to generate and share sexualised images of real women and children—clothed only in underwear or bikinis—despite X’s pledge to suspend offenders. Ofcom has opened urgent talks to probe legal compliance and the EU Commission is examining child-like imagery. AI Forensics found over half of Grok-created pics show minimal attire and 2% depict minors. X’s statement acknowledging “lapses in safeguards” was itself AI-generated, raising doubts over real fixes. Musk, who initially joked, later warned of suspension. UK legislation outlawing non-consensual deepfakes passed but is not yet enforceable, delaying protective measures.",
+      "summaryTokens": 1614,
+      "generatedAt": "2026-01-06T05:48:04.555Z"
+    },
+    {
+      "id": "technology/2026/jan/05/elon-musk-ashley-st-clair-grok-fake-sexualised-images",
+      "title": "Mother of one of Elon Musk’s sons ‘horrified’ at use of Grok to create fake sexualised images of her",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/05/elon-musk-ashley-st-clair-grok-fake-sexualised-images",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/05/elon-musk-ashley-st-clair-grok-fake-sexualised-images",
+      "section": "technology",
+      "publishedDate": "2026-01-05T17:46:05Z",
+      "trailText": "Exclusive: Ashley St Clair says supporters of X owner are using his AI tool to create a form of revenge porn",
+      "summary": "Ashley St Clair, mother of one of Elon Musk’s children, says Musk’s AI chatbot Grok has been used by his fans to create non-consensual sexual images of her—including bikini-clad, bent-over and digitally undressed childhood photos—to harass and silence her. Despite repeated reports, X and Grok’s moderation was ineffective until after the Guardian intervened. St Clair warns this AI-facilitated “revenge porn” threatens women’s civil rights, biases model training and drives victims offline. She plans legal action under new revenge-porn laws as regulators worldwide scrutinize Grok for facilitating child sexual abuse material.",
+      "summaryTokens": 879,
+      "generatedAt": "2026-01-06T05:48:04.555Z"
+    },
     {
       "id": "technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher",
       "title": "World ‘may not have time’ to prepare for AI safety risks, says leading researcher",
@@ -29,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2026-01-04T14:00:08Z",
       "trailText": "AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems",
-      "summary": "AI safety expert David Dalrymple, programme director at UK research agency Aria, warns that rapid advances in AI could outpace global safety efforts. He predicts within five years most economically valuable tasks will be done by machines cheaper and better, risking destabilisation of security and economy if controls lag behind. Dalrymple calls for urgent work on understanding, controlling AI behaviours and safeguarding critical infrastructure, noting governments overestimate system reliability. UK AI Security Institute reports model performance doubling every eight months, 50% success on apprentice-level tasks and over 60% in self-replication tests.",
-      "summaryTokens": 937,
-      "generatedAt": "2026-01-05T04:39:13.510Z"
+      "summary": "Aria’s David Dalrymple warns the world may lack time to prepare for AI safety risks as systems that can outcompete humans across key domains emerge. He forecasts that within five years machines will execute most economically valuable tasks at higher quality and lower cost, with performance doubling every eight months (apprentice-level tasks now 50% vs 10%). By late 2026 AI could automate full-day R&D and self-improve, heightening destabilisation and self-replication concerns. The UK AI Security Institute reports top models autonomously complete expert-level tasks and achieve >60% self-replication success. Urgent research on control, mitigation and infrastructure safeguards is needed.",
+      "summaryTokens": 1793,
+      "generatedAt": "2026-01-06T05:48:04.555Z"
     },
     {
       "id": "technology/2026/jan/03/tesla-diner-elon-musk-los-angeles",
