@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-05T04:28:29.154Z",
+    "generated_at": "2026-01-06T04:45:05.254Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-03"
+      "to": "2026-01-05"
     },
-    "article_count": 164,
+    "article_count": 167,
     "merge_info": {
       "previous_count": 164,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 164
+      "new_articles": 3,
+      "updated_articles": 0,
+      "total_count": 167
     },
     "batch_info": {
-      "initial_batch_id": "batch_695b3ce9c4b481908ccdaa8e4ebe186e",
+      "initial_batch_id": "batch_695c92a33c548190b6b38cd4c14e7674",
       "retry_batches": [],
-      "total_tokens": 2145,
-      "processing_time_hours": 0.1
+      "total_tokens": 4762,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2026/jan/05/did-you-solve-it-are-you-as-smart-as-spock",
+      "title": "Did you solve it? Are you as smart as Spock?",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/05/did-you-solve-it-are-you-as-smart-as-spock",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/05/did-you-solve-it-are-you-as-smart-as-spock",
+      "section": "science",
+      "publishedDate": "2026-01-05T17:00:13Z",
+      "trailText": "The solution to today’s puzzle",
+      "summary": "Posted ahead of World Logic Day, the puzzle involves three colleagues—Andy, Bea and Celine—taking turns drawing cookies from a jar of ten. They must avoid finishing with the single or joint-most or single or joint-least cookies (priority one) and otherwise maximize their own share (priority two), with no communication allowed. Backward induction shows Andy’s only safe move is to take 4 cookies. With six left, Bea cannot avoid ending first, so she takes 6, leaving Celine with none. The full solution and reasoning, credited to puzzle contributor Deniz Sarikaya for World Logic Day, illustrates how rational players leverage game theory to avoid undesirable outcomes.",
+      "summaryTokens": 1012,
+      "generatedAt": "2026-01-06T04:45:05.010Z"
+    },
+    {
+      "id": "science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
+      "title": "Can you solve it? Are you as smart as Spock?",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
+      "section": "science",
+      "publishedDate": "2026-01-05T07:10:28Z",
+      "trailText": "Raise an eyebrow for world logic day",
+      "summary": "On January 14, UNESCO-endorsed World Logic Day, a logic puzzle poses a game-theoretic scenario: Andy, Bea and Celine alternately draw cookies from a jar of ten, aiming to avoid ending up strictly with the most or the least (ties equally undesirable) while maximizing their own share. With Andy first, then Bea, then Celine, no communication or alliances allowed, rational self-interest dictates an equilibrium. The challenge invites readers to deduce each optimal move. The solution appears later; until then, discuss your favorite flawed arguments. Organiser Deniz Sarikaya links to WLD events and advanced Christmas puzzles.",
+      "summaryTokens": 878,
+      "generatedAt": "2026-01-06T04:45:05.010Z"
+    },
+    {
+      "id": "science/2026/jan/05/starwatch-here-comes-giant-jupiter-impossible-to-miss",
+      "title": "Starwatch: Here comes giant Jupiter, impossible to miss",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/05/starwatch-here-comes-giant-jupiter-impossible-to-miss",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/05/starwatch-here-comes-giant-jupiter-impossible-to-miss",
+      "section": "science",
+      "publishedDate": "2026-01-05T06:00:29Z",
+      "trailText": "Solar system’s biggest planet will be close enough to reveal its largest moons through a pair of modest binoculars",
+      "summary": "At its 2026 closest approach, Jupiter sits just 633 million km from Earth, shining as Gemini’s “third star” next to Castor and Pollux. On 9 January at 20:00 GMT, it will dominate the east sky, outshining all planets except Venus. Binoculars (×10) can reveal its four Galilean moons and cloud belts. Visible worldwide, this reflective gas giant offers prime observing opportunities; sunlight takes ~43 min to reach Jupiter and ~35 min to return to Earth.",
+      "summaryTokens": 999,
+      "generatedAt": "2026-01-06T04:45:05.010Z"
+    },
     {
       "id": "science/2026/jan/03/from-iron-age-tunnels-to-youtube-time-teams-extraordinary-digital-renaissance",
       "title": "From iron age tunnels to YouTube: Time Team’s ‘extraordinary’ digital renaissance",
