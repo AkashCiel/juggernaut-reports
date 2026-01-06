@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "global-development",
-    "generated_at": "2026-01-04T03:54:22.927Z",
+    "generated_at": "2026-01-06T03:59:10.034Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-02"
+      "to": "2026-01-05"
     },
-    "article_count": 139,
+    "article_count": 141,
     "merge_info": {
       "previous_count": 139,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 139
+      "new_articles": 2,
+      "updated_articles": 0,
+      "total_count": 141
     },
     "batch_info": {
-      "initial_batch_id": "batch_6959e4372550819082093087f3a82002",
+      "initial_batch_id": "batch_695c879469248190a338360a231840a8",
       "retry_batches": [],
-      "total_tokens": 2829,
-      "processing_time_hours": 0
+      "total_tokens": 4097,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "global-development/2026/jan/05/chatbot-ai-therapy-mental-health-clinic-uganda-algorithm",
+      "title": "The chatbot will see you now: how AI is being trained to spot mental health issues in any language",
+      "webUrl": "https://www.theguardian.com/global-development/2026/jan/05/chatbot-ai-therapy-mental-health-clinic-uganda-algorithm",
+      "apiUrl": "https://content.guardianapis.com/global-development/2026/jan/05/chatbot-ai-therapy-mental-health-clinic-uganda-algorithm",
+      "section": "global-development",
+      "publishedDate": "2026-01-05T12:00:34Z",
+      "trailText": "Calls to a clinic in Uganda are helping create a therapy algorithm that works in local languages, as specialists look to technology to address the global mental health crisis",
+      "summary": "Calls to Butabika hospital’s Kampala helpline are anonymised to train an AI model that identifies depression, suicide risk and other mental health indicators in Swahili, Luganda and dozens of African languages. Makerere AI Lab, with Ugandan and Tanzanian hospitals, plans a chatbot and SMS service to escalate urgent cases and deliver therapy where there’s a severe workforce shortage and stigma. Wellcome-funded regulators in Uganda, South Africa and the UK are building frameworks to certify safety, cultural fit and guard against AI hallucinations, aiming to scale accessible care.",
+      "summaryTokens": 996,
+      "generatedAt": "2026-01-06T03:59:09.792Z"
+    },
+    {
+      "id": "global-development/2026/jan/05/children-killed-iran-protests-security-forces",
+      "title": "Three children dead in Iran protests as security forces accused of ‘indiscriminate targeting’ ",
+      "webUrl": "https://www.theguardian.com/global-development/2026/jan/05/children-killed-iran-protests-security-forces",
+      "apiUrl": "https://content.guardianapis.com/global-development/2026/jan/05/children-killed-iran-protests-security-forces",
+      "section": "global-development",
+      "publishedDate": "2026-01-05T10:06:17Z",
+      "trailText": "Escalating protests sparked by economic chaos have seen at least 20 people killed and nearly 1,000 arrested, say human rights groups",
+      "summary": "In Iran's eight-day nationwide protests over currency collapse and rising living costs, security forces have killed at least three children—15-year-old Mostafa Falahi in Azna, 17-year-old Rasul Kadivarian and his 20-year-old brother Reza in Kermanshah, plus another 17-year-old in Qom—and arrested over 44 minors. Human rights groups (HRAI, Hengaw) report 20+ civilian deaths, 990 arrests across 78 cities, accusing indiscriminate use of teargas, pellets, military weapons and hospital raids. Demonstrators, calling for the regime’s end, face escalating economic chaos and brutal crackdowns.",
+      "summaryTokens": 698,
+      "generatedAt": "2026-01-06T03:59:09.792Z"
+    },
     {
       "id": "global-development/2026/jan/02/pakistan-women-girls-education-health-politics",
       "title": "‘I wasn’t allowed to study, but I will make sure no girl in this village hears those same words’",
