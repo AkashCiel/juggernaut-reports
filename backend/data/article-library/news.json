@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-06T04:39:00.091Z",
+    "generated_at": "2026-01-07T03:39:12.341Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-05"
+      "to": "2026-01-06"
     },
-    "article_count": 192,
+    "article_count": 194,
     "merge_info": {
-      "previous_count": 191,
-      "new_articles": 1,
+      "previous_count": 192,
+      "new_articles": 2,
       "updated_articles": 1,
-      "total_count": 192
+      "total_count": 194
     },
     "batch_info": {
-      "initial_batch_id": "batch_695c9156a2448190852b9cdc4d970a9f",
+      "initial_batch_id": "batch_695dd4fde4dc8190a412b165cfd6aa33",
       "retry_batches": [],
-      "total_tokens": 2975,
+      "total_tokens": 8750,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/06/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/06/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/06/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2026-01-06T21:00:23Z",
+      "trailText": "European population figures | Alex Mahon",
+      "summary": "Guardian issues corrections: an article on pensions misinterpreted OECD data on over-65 populations as percentages when they were ratios of individuals aged 65+ per 100 aged 20–64; former Channel 4 CEO Alex Mahon’s honour is a CBE, not an OBE. Additional updates cover Cecilia Giménez’s Monkey Christ meme, Dragon’s Teeth heritage listings, 2025 defining photographs, Billy Bonds obituary and the Amadeus review. Editorial inquiries and corrections: guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU.",
+      "summaryTokens": 868,
+      "generatedAt": "2026-01-07T03:39:12.213Z"
+    },
+    {
+      "id": "news/2026/jan/06/we-still-live-in-fast-food-nation-eric-schlosser",
+      "title": "Hard to digest: we still live in Fast Food Nation | Eric Schlosser",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/06/we-still-live-in-fast-food-nation-eric-schlosser",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/06/we-still-live-in-fast-food-nation-eric-schlosser",
+      "section": "news",
+      "publishedDate": "2026-01-06T05:00:27Z",
+      "trailText": "The long read: Twenty-five years after I revealed the practices of the industrial food giants, the profits – and dangers – of mass producing meat and milk have only grown",
+      "summary": "In ‘Hard to digest’, Schlosser revisits his Fast Food Nation thesis, revealing that in early 2024 highly pathogenic avian influenza A (H5N1) was discovered in Texas dairy cows and barn cats fed raw milk, and later in dairy and poultry workers, exposing industrial-scale livestock’s role in zoonotic disease spread. Regulatory fragmentation—USDA, FDA and CDC lack authority—plus political resistance to testing allowed H5N1 to become endemic in US dairies and farms, raising pandemic risks. Schlosser links mega-farms, corporate consolidation and absent oversight to emerging pathogens, reiterates the hidden costs of cheap industrial food and advocates true-cost accounting to internalise health and environmental externalities.",
+      "summaryTokens": 963,
+      "generatedAt": "2026-01-07T03:39:12.213Z"
+    },
     {
       "id": "news/2026/jan/05/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +53,9 @@
       "section": "news",
       "publishedDate": "2026-01-05T21:00:18Z",
       "trailText": "Liza Wilkinson | Rob Steen obituary",
-      "summary": "This corrections and clarifications note specifies that Liza Wilkinson of Belfast’s Circle of Change is Catholic, not Protestant; Rob Steen and Anne Taylor married in 1989, not 1994. It also lists recently amended articles on topics including top Republicans’ Venezuela stance; New Year celebrations; Zohran Mamdani’s oath; Ralph Fiennes’s low-volume choral review; torrential rain in southeast Asia; Australian housing tax breaks; Pauline Hanson’s US trip on Gina Rinehart’s jet; UK political photo galleries; and a Christmas in Sweden essay. Contact: guardian.readers@theguardian.com or Readers’ editor, Kings Place, 90 York Way, London N1 9GU; voicemail +44 (0)20 3353 4736.",
-      "summaryTokens": 1026,
-      "generatedAt": "2026-01-06T04:38:59.809Z"
+      "summary": "Corrections and clarifications: Liza Wilkinson, a Belfast Circle of Change participant, is Catholic, not Protestant; journalist Rob Steen married Anne Taylor in 1989, not 1994. Other amended articles include: top Republicans retreating from claims the US will run Venezuela; New Year celebrations and Zohran Mamdani’s swearing-in photos; Ralph Fiennes’s low-volume Choral review; torrential rains in southeast Asia; calls to end Australian housing tax-breaks; Mamdani sworn in underground; Pauline Hanson’s CPAC UK trip; UK political photos of the year; and a British Christmas in Sweden. Feedback: guardian.readers@theguardian.com.",
+      "summaryTokens": 558,
+      "generatedAt": "2026-01-07T03:39:12.213Z"
     },
     {
       "id": "news/2026/jan/04/corrections-and-clarifications1",
