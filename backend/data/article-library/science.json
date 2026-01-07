@@ -1,22 +1,22 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-06T04:45:05.254Z",
+    "generated_at": "2026-01-07T03:42:55.944Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2026-01-05"
     },
     "article_count": 167,
     "merge_info": {
-      "previous_count": 164,
-      "new_articles": 3,
-      "updated_articles": 0,
+      "previous_count": 167,
+      "new_articles": 0,
+      "updated_articles": 3,
       "total_count": 167
     },
     "batch_info": {
-      "initial_batch_id": "batch_695c92a33c548190b6b38cd4c14e7674",
+      "initial_batch_id": "batch_695dd5e81a188190bc38d1c814acf9af",
       "retry_batches": [],
-      "total_tokens": 4762,
+      "total_tokens": 4370,
       "processing_time_hours": 0
     }
   },
@@ -29,9 +29,9 @@
       "section": "science",
       "publishedDate": "2026-01-05T17:00:13Z",
       "trailText": "The solution to today’s puzzle",
-      "summary": "Posted ahead of World Logic Day, the puzzle involves three colleagues—Andy, Bea and Celine—taking turns drawing cookies from a jar of ten. They must avoid finishing with the single or joint-most or single or joint-least cookies (priority one) and otherwise maximize their own share (priority two), with no communication allowed. Backward induction shows Andy’s only safe move is to take 4 cookies. With six left, Bea cannot avoid ending first, so she takes 6, leaving Celine with none. The full solution and reasoning, credited to puzzle contributor Deniz Sarikaya for World Logic Day, illustrates how rational players leverage game theory to avoid undesirable outcomes.",
-      "summaryTokens": 1012,
-      "generatedAt": "2026-01-06T04:45:05.010Z"
+      "summary": "To pre-commemorate World Logic Day, the puzzle places Andy, Bea, and Celine in turn to draw from 10 cookies under two priorities: avoid ending with most or least (incl. ties), then maximize your haul. Game‐theoretic analysis shows Andy’s unique safe move is to take 4 cookies first. Any other choice would leave him last or tied first. Facing no way to avoid worst outcomes, Bea then rationally takes all 6 remaining, leaving Celine with zero. Hence the final split: 4, 6, 0. The elegant backward‐induction solution highlights rational play under ranked preferences.",
+      "summaryTokens": 1135,
+      "generatedAt": "2026-01-07T03:42:55.831Z"
     },
     {
       "id": "science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
@@ -41,9 +41,9 @@
       "section": "science",
       "publishedDate": "2026-01-05T07:10:28Z",
       "trailText": "Raise an eyebrow for world logic day",
-      "summary": "On January 14, UNESCO-endorsed World Logic Day, a logic puzzle poses a game-theoretic scenario: Andy, Bea and Celine alternately draw cookies from a jar of ten, aiming to avoid ending up strictly with the most or the least (ties equally undesirable) while maximizing their own share. With Andy first, then Bea, then Celine, no communication or alliances allowed, rational self-interest dictates an equilibrium. The challenge invites readers to deduce each optimal move. The solution appears later; until then, discuss your favorite flawed arguments. Organiser Deniz Sarikaya links to WLD events and advanced Christmas puzzles.",
-      "summaryTokens": 878,
-      "generatedAt": "2026-01-06T04:45:05.010Z"
+      "summary": "To mark UNESCO’s World Logic Day on January 14, the article poses a three-player puzzle: Andy, Bea and Celine alternately remove any number of cookies from a jar of ten. Their goals, in order of priority, are first to avoid ending up with the unique largest or smallest share (joint extremes count as bad) and second to maximise their own haul. They cannot communicate or form alliances, may take zero, and behave as perfectly rational self-interested agents. Who wins how many? Solution promised later, with spoilers discouraged.",
+      "summaryTokens": 538,
+      "generatedAt": "2026-01-07T03:42:55.831Z"
     },
     {
       "id": "science/2026/jan/05/starwatch-here-comes-giant-jupiter-impossible-to-miss",
@@ -53,9 +53,9 @@
       "section": "science",
       "publishedDate": "2026-01-05T06:00:29Z",
       "trailText": "Solar system’s biggest planet will be close enough to reveal its largest moons through a pair of modest binoculars",
-      "summary": "At its 2026 closest approach, Jupiter sits just 633 million km from Earth, shining as Gemini’s “third star” next to Castor and Pollux. On 9 January at 20:00 GMT, it will dominate the east sky, outshining all planets except Venus. Binoculars (×10) can reveal its four Galilean moons and cloud belts. Visible worldwide, this reflective gas giant offers prime observing opportunities; sunlight takes ~43 min to reach Jupiter and ~35 min to return to Earth.",
-      "summaryTokens": 999,
-      "generatedAt": "2026-01-06T04:45:05.010Z"
+      "summary": "Jupiter reaches its 2026 perihelion this week, coming within 633 million km of Earth. Positioned in Gemini, it forms a lopsided triangle with stars Castor and Pollux. With an 11× larger diameter than Earth and highly reflective cloud decks, it’s the night sky’s second-brightest planet after Venus. Visible globally around 20:00 GMT on January 9, reflected sunlight takes about 35 minutes to reach us. Naked-eye observers will see a brilliant beacon; 10× binoculars will resolve the four Galilean moons, while small telescopes reveal its cloud bands—an ideal target for amateur astronomers.",
+      "summaryTokens": 824,
+      "generatedAt": "2026-01-07T03:42:55.831Z"
     },
     {
       "id": "science/2026/jan/03/from-iron-age-tunnels-to-youtube-time-teams-extraordinary-digital-renaissance",
