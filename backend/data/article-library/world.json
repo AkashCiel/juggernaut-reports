@@ -1,26 +1,350 @@
 {
   "metadata": {
     "section": "world",
-    "generated_at": "2026-01-06T06:35:55.107Z",
+    "generated_at": "2026-01-07T03:54:43.238Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-06"
+      "to": "2026-01-07"
     },
-    "article_count": 1965,
+    "article_count": 1991,
     "merge_info": {
-      "previous_count": 1938,
-      "new_articles": 27,
-      "updated_articles": 29,
-      "total_count": 1965
+      "previous_count": 1965,
+      "new_articles": 26,
+      "updated_articles": 30,
+      "total_count": 1991
     },
     "batch_info": {
-      "initial_batch_id": "batch_695ca7e9d69c81908c2bdcc5c168f79f",
+      "initial_batch_id": "batch_695dd814c4108190a80baaf5590ef188",
       "retry_batches": [],
-      "total_tokens": 130828,
-      "processing_time_hours": 0.4
+      "total_tokens": 120364,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "world/2026/jan/07/venezuela-oil-trump-us-latest",
+      "title": "Venezuela ‘turning over’ $2bn in oil to US, Trump says, in move that could cut supply to China",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/07/venezuela-oil-trump-us-latest",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/07/venezuela-oil-trump-us-latest",
+      "section": "world",
+      "publishedDate": "2026-01-07T02:51:48Z",
+      "trailText": "Deal indicates Venezuelan government is responding to Trump’s demand that they open up to US oil companies or risk more military intervention",
+      "summary": "Donald Trump announced Venezuela will “turn over” $2 billion of crude to the US, diverting oil currently trapped by his blockade from China to US ports, with sales controlled by the US president to benefit both nations. US energy secretary Chris Wright will oversee reallocation of barrels now stored or bound for China, building on Chevron’s existing 100,000–150,000 b/d exports under sanction waivers. Caracas’ interim leader Delcy Rodríguez praised cooperation then condemned Maduro’s “kidnapping” after US forces toppled him, framing the operation as illegal.",
+      "summaryTokens": 606,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/07/teen-killed-anti-military-conscription-protest-israel-ultra-orthodox",
+      "title": "Teen killed by bus during ultra-Orthodox protest against conscription in Jerusalem",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/07/teen-killed-anti-military-conscription-protest-israel-ultra-orthodox",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/07/teen-killed-anti-military-conscription-protest-israel-ultra-orthodox",
+      "section": "world",
+      "publishedDate": "2026-01-07T02:05:08Z",
+      "trailText": "Mass demonstrations against compulsory service law have been taking place as Israel’s military tries to solve its manpower shortages",
+      "summary": "In Jerusalem on January 7, a mass ultra-Orthodox rally against a new military conscription law turned deadly when an 18-year-old was crushed by a bus. Police detained the driver, who claimed he was assaulted by protesters blocking the route, and are investigating. Thousands of ultra-Orthodox Jews, exempted from service under a 1948 ruling, have regularly demonstrated as Israel grapples with manpower shortages after two years of war. The protests have strained Prime Minister Netanyahu’s right-wing coalition, which depends on ultra-Orthodox parties United Torah Judaism and Shas and now holds a precarious 60-seat majority in parliament.",
+      "summaryTokens": 564,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/07/ukraine-war-briefing-us-backs-european-ceasefire-security-guarantees-for-first-time",
+      "title": "Ukraine war briefing: US backs European ceasefire security guarantees for first time ",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/07/ukraine-war-briefing-us-backs-european-ceasefire-security-guarantees-for-first-time",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/07/ukraine-war-briefing-us-backs-european-ceasefire-security-guarantees-for-first-time",
+      "section": "world",
+      "publishedDate": "2026-01-07T01:23:04Z",
+      "trailText": "Pledge came at Paris summit of mainly European nations to firm up guarantees to reassure Kyiv in the event of a ceasefire with Russia. What we know on day 1,414",
+      "summary": "At a Paris summit on day 1,414, the US for the first time backed a European-led “coalition of the willing” to offer binding security guarantees to Ukraine in case of a ceasefire with Russia. US envoys Steve Witkoff and Jared Kushner joined European leaders to approve protocols designed to deter and defend against renewed attacks, though territorial issues remain unresolved. Britain and France signalled readiness to deploy peacekeeping troops, and allies endorsed a US-led ceasefire monitoring system using drones and sensors. President Zelenskiy praised the “concrete content,” while Russia has yet to accept the pact. Separately, a Ukrainian drone strike set oil tanks ablaze in Belgorod with no reported casualties.",
+      "summaryTokens": 777,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/government-signals-tougher-motoring-rules-to-reduce-casualties-on-britains-roads",
+      "title": "Government signals tougher motoring rules to reduce casualties on Britain’s roads",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/government-signals-tougher-motoring-rules-to-reduce-casualties-on-britains-roads",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/government-signals-tougher-motoring-rules-to-reduce-casualties-on-britains-roads",
+      "section": "world",
+      "publishedDate": "2026-01-06T22:30:25Z",
+      "trailText": "Eye-tests for older drivers, automatic emergency braking in new cars and crackdown on drink-driving among new proposals",
+      "summary": "The UK government’s first road safety strategy in a decade aims to cut fatalities and serious injuries on its roads by 65% by 2035 via sweeping measures: lowering the drink-drive limit to 22μg, mandating alcolocks, roadside licence suspensions for suspected drink/drug-driving, doubling uninsured fines, adding seatbelt penalty points, extending learner periods, introducing triennial eyesight and optional cognitive tests for over-70s, requiring autonomous emergency braking (Dev’s law) in new cars and updating crash-test dummies beyond the standard 75kg male.",
+      "summaryTokens": 1388,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/uk-france-ready-to-deploy-troops-to-ukraine-after-ceasefire",
+      "title": "UK and France ‘ready to deploy troops’ to Ukraine after ceasefire",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/uk-france-ready-to-deploy-troops-to-ukraine-after-ceasefire",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/uk-france-ready-to-deploy-troops-to-ukraine-after-ceasefire",
+      "section": "world",
+      "publishedDate": "2026-01-06T20:26:09Z",
+      "trailText": "Trilateral declaration of intent signed after ‘coalition of the willing’ summit in Paris with plan to establish military hubs",
+      "summary": "At a Paris summit of the “coalition of the willing,” UK PM Keir Starmer, French President Emmanuel Macron and Ukraine’s Volodymyr Zelensky signed a trilateral declaration to deploy British and French troops to Ukraine after a ceasefire. The force would establish military hubs well behind the frontline to provide reassurance, monitor the truce under US leadership and avoid direct engagement with Russian troops. US envoys Steve Witkoff and Jared Kushner backed strong security guarantees from President Trump. Russia has vowed to block any NATO presence, while questions remain over territorial concessions, ceasefire terms and coalition unity.",
+      "summaryTokens": 875,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/stephen-miller-donald-trump-threats-take-over-greenland",
+      "title": "European leaders rally behind Greenland as US ramps up threats",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/stephen-miller-donald-trump-threats-take-over-greenland",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/stephen-miller-donald-trump-threats-take-over-greenland",
+      "section": "world",
+      "publishedDate": "2026-01-06T20:13:21Z",
+      "trailText": "Support comes after presidential aide Stephen Miller says ‘no one will fight US militarily over future of Greenland’",
+      "summary": "European leaders including UK PM Keir Starmer, French President Macron and German Chancellor Merz joined Denmark’s PM in a rare rebuke of US threats to seize Greenland after Trump aide Stephen Miller said “no one will fight the US militarily over future of Greenland.” They declared “Greenland belongs to its people” and stressed any decision must be made by Denmark and Greenland themselves. They also reaffirmed collective Arctic security under NATO and warned US annexation would undermine the alliance. Greenland officials expressed alarm and insisted on self-determination. The White House affirmed military intervention remains on the table, fueling concerns about NATO cohesion.",
+      "summaryTokens": 1131,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/wyoming-abortion-ban-supreme-court",
+      "title": "Wyoming supreme court strikes down near-total abortion bans",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/wyoming-abortion-ban-supreme-court",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/wyoming-abortion-ban-supreme-court",
+      "section": "world",
+      "publishedDate": "2026-01-06T20:01:14Z",
+      "trailText": "Justices rule 4-1 that laws, including a ban on abortion pills, violate a state amendment protecting healthcare choices",
+      "summary": "Wyoming’s Supreme Court ruled 4-1 to strike down two near-total abortion bans, including the nation’s first exclusive ban on abortion pills, holding that they violate Wyoming’s 2012 constitutional amendment guaranteeing competent adults’ healthcare decisions. One law would have outlawed abortion except to save a woman’s life or in cases of rape or incest; the other explicitly banned medication abortion. Wellspring Health Access, Chelsea’s Fund and individual plaintiffs had sued to block the laws. Governor Mark Gordon called the ruling “profoundly unfortunate” and plans to seek a voter-approved amendment. The decision keeps abortion legal in Wyoming amid broader state efforts to redefine abortion rights.",
+      "summaryTokens": 1721,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/nicolas-maduro-tries-to-imitate-my-dance-says-donald-trump",
+      "title": "Nicolás Maduro ‘tries to imitate my dance’, says Trump in latest accusation",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/nicolas-maduro-tries-to-imitate-my-dance-says-donald-trump",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/nicolas-maduro-tries-to-imitate-my-dance-says-donald-trump",
+      "section": "world",
+      "publishedDate": "2026-01-06T19:24:27Z",
+      "trailText": "More seriously, US president claims ousted Venezuelan leader has ‘killed millions of people’ in remarks to congressional Republicans",
+      "summary": "Speaking to congressional Republicans in Washington on Tuesday, President Donald Trump accused ousted Venezuelan leader Nicolás Maduro—who faces US terrorism and drug trafficking charges—of copying his signature hip-swaying dance during public appearances. Trump’s jibe came after a weekend US raid that abducted Maduro and his wife, Cilia Flores, leaving dozens dead. He also claimed Maduro “killed millions,” runs torture chambers in Caracas and dismissed critics of his own rally dances.",
+      "summaryTokens": 527,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/trump-venezuela-nicolas-maduro",
+      "title": "Trump touts ‘brilliant’ Venezuela attack in remarks at House Republicans retreat",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/trump-venezuela-nicolas-maduro",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/trump-venezuela-nicolas-maduro",
+      "section": "world",
+      "publishedDate": "2026-01-06T19:20:56Z",
+      "trailText": "President calls deposed leader Maduro a ‘violent guy’ in speech that receives warm reception from Republicans",
+      "summary": "At a GOP retreat, President Trump lauded a weekend assault on Venezuela that captured Nicolás Maduro as “brilliant” and highlighted zero US special forces fatalities while acknowledging heavy losses among Maduro’s guards. Amid raucous applause, he accused Democrats of failing to thank him for deposing a “violent guy,” mocked Maduro’s dancing, and alleged paid “Free Maduro” protesters. Trump also rallied Republicans on midterms, renewed claims of a “rigged” election, pushed voter ID, mused about a third term, attacked Democratic leaders’ cognitive fitness, and provocatively imitated a trans weightlifter while defending bans on transgender athletes.",
+      "summaryTokens": 808,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/07/caracas-venezuela-paramilitary-groups",
+      "title": "Armed militias deployed in Venezuela as regime attempts to impose authority",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/07/caracas-venezuela-paramilitary-groups",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/07/caracas-venezuela-paramilitary-groups",
+      "section": "world",
+      "publishedDate": "2026-01-06T18:58:44Z",
+      "trailText": "Paramilitary groups known as colectivos rove streets with assault rifles, stop and search cars and people’s phones",
+      "summary": "Venezuela’s interim government has dispatched armed colectivos — paramilitary militias on motorbikes with assault rifles — to patrol Caracas, install checkpoints, stop cars and search residents’ phones for communications, in a bid to assert control after President Maduro’s abduction during a US raid. Despite a semblance of normality, fear pervades neighbourhoods like Catia. Interim president Delcy Rodríguez hardened her anti-US stance, while interior minister Diosdado Cabello rallied security forces. With threats of new strikes, economic collapse and splits in chavismo, exiled opposition leader María Corina Machado vows to return and contest for power.",
+      "summaryTokens": 746,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/why-is-donald-trump-renewing-calls-for-takeover-of-greenland",
+      "title": "Why is Donald Trump renewing calls for takeover of Greenland?",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/why-is-donald-trump-renewing-calls-for-takeover-of-greenland",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/why-is-donald-trump-renewing-calls-for-takeover-of-greenland",
+      "section": "world",
+      "publishedDate": "2026-01-06T17:35:31Z",
+      "trailText": "US refuses to rule out military force to take control. This is why an attack on Nato ally would end alliance. And what do Greenlanders think?",
+      "summary": "Trump, citing national security and resource interests, reignited US plans to acquire Greenland, a Danish territory strategically positioned between the US and Russia, rich in oil, gas and critical minerals like lithium. Denmark’s PM Frederiksen warns any US attack on a NATO ally would end the alliance, while Greenland’s PM Nielsen urges abandoning annexation fantasies. Greenlanders demand sovereignty amid historical grievances over forced IUD sterilisation. European leaders support Denmark and Greenland. The US, seeking to counter China’s Arctic ambitions, hopes to secure existing military bases and emerging shipping routes without military intervention.",
+      "summaryTokens": 868,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/artists-decry-dismantling-antwerp-oldest-art-gallery",
+      "title": "Artists decry dismantling of Belgium’s oldest contemporary art museum",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/artists-decry-dismantling-antwerp-oldest-art-gallery",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/artists-decry-dismantling-antwerp-oldest-art-gallery",
+      "section": "world",
+      "publishedDate": "2026-01-06T17:30:15Z",
+      "trailText": "Cost-saving plan to transfer Antwerp museum’s entire collection to another city described as ‘simply insane’",
+      "summary": "Flanders’ socialist culture minister Caroline Gennez plans to cancel an €80m purpose-built high-rise for Antwerp’s Museum of Contemporary Art (M HKA) and transfer its 8,000-strong collection to Ghent’s SMAK, effectively downgrading M HKA to an “arts centre.” Directors and artists including Luc Tuymans, Anish Kapoor and Marina Abramović decry “flagrant illegalities” and the loss of Antwerp’s avant-garde legacy. With Belgium’s 5.4% GDP deficit, the financial inspectorate warns savings will be “fragmentary,” noting Ghent needs storage expansion and M HKA must buy or borrow shows.",
+      "summaryTokens": 1027,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/cops-of-the-world-by-phil-ochs-captures-the-zeitgeist-again",
+      "title": "Cops of the World by Phil Ochs captures the zeitgeist again | Brief letters",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/cops-of-the-world-by-phil-ochs-captures-the-zeitgeist-again",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/cops-of-the-world-by-phil-ochs-captures-the-zeitgeist-again",
+      "section": "world",
+      "publishedDate": "2026-01-06T17:27:33Z",
+      "trailText": "Brief letters: US imperialism | Trump’s actions in Venezuela | Roosevelt’s big stick | Tony Blair Institute | Citizen’s arrest | Fifa peace prize | Triumph of evil",
+      "summary": "Readers send letters reacting to Phil Ochs’ 1966 protest song “Cops of the World,” noting its renewed relevance amid US interventions. They debate forming a G6 after Trump’s Venezuela meddling and threats to Denmark/Greenland; contrast Teddy Roosevelt’s “big stick” with Trump’s bombast; call for Tony Blair Institute boots on the ground in Venezuela; question citizen’s arrest powers for rogue leaders; mock FIFA’s Peace Prize; and warn that evil triumphs when good men do nothing. Correspondents from Cardiff, Glasgow, Surbiton, East Yorkshire, Kent, Nottingham and Lancashire weigh in.",
+      "summaryTokens": 1005,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/ontario-canada-crown-royal-whisky-doug-ford",
+      "title": "‘Stock up’: Ontario premier promises to banish Crown Royal whisky from province",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/ontario-canada-crown-royal-whisky-doug-ford",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/ontario-canada-crown-royal-whisky-doug-ford",
+      "section": "world",
+      "publishedDate": "2026-01-06T17:17:20Z",
+      "trailText": "Doug Ford’s move comes after Diageo announced plan to shutter Ontario whisky plant and move operations to US",
+      "summary": "Ontario premier Doug Ford has vowed to ban Crown Royal from provincial liquor shelves and urged consumers to “stock up” after Diageo announced plans to close its Ontario distillery and shift production to the US, costing about 200 jobs. Since September, Ford has used the LCBO’s purchasing clout to threaten removal of Crown Royal and other Diageo brands like Guinness and Smirnoff. Diageo insists core production and bottling will remain in Canada, but Ford accuses it of planning a full move to Alabama.",
+      "summaryTokens": 793,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/iranian-security-forces-clash-protesters-tehran-grand-bazaar",
+      "title": "Iranian security forces clash with protesters at Tehran’s grand bazaar",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/iranian-security-forces-clash-protesters-tehran-grand-bazaar",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/iranian-security-forces-clash-protesters-tehran-grand-bazaar",
+      "section": "world",
+      "publishedDate": "2026-01-06T17:04:04Z",
+      "trailText": "Nationwide protests continue to grow as rights groups accuse authorities of cracking down on demonstrators",
+      "summary": "On the 10th day of nationwide unrest, Iranian security forces used teargas and force to break up sit-in protests at Tehran’s historic grand bazaar. Rights groups report at least 35 killed and over 1,200 arrested since demonstrations began over soaring inflation, a collapsing rial at a historic low and shortages of staples like cooking oil. Protests have spread to 257 sites in 88 cities. President Pezeshkian blamed sanctions for fiscal limits and announced an inquiry into security raids on an Ilam hospital. Washington labelled the hospital raids a crime against humanity. Supreme Leader Khamenei called demands legitimate but vowed to punish “rioters”.",
+      "summaryTokens": 1980,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/yvette-cooper-criticise-trump-venezuela-ukraine",
+      "title": "Why won’t Yvette Cooper criticise Trump over Venezuela? Look no further than Ukraine",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/yvette-cooper-criticise-trump-venezuela-ukraine",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/yvette-cooper-criticise-trump-venezuela-ukraine",
+      "section": "world",
+      "publishedDate": "2026-01-06T17:02:40Z",
+      "trailText": "The foreign secretary faces a tight balancing act between keeping the US involved in peace talks, and trying to maintain international order",
+      "summary": "Under pressure to secure US security guarantees for Ukraine, UK foreign secretary Yvette Cooper refrained from criticizing Donald Trump’s backing of the US-led kidnapping of Nicolás Maduro as a breach of international law. British diplomats judged that antagonizing Trump or his adviser Marco Rubio—who engineered both Ukraine guarantees and the Maduro operation—could jeopardize fragile peace talks and alternative security guarantees to NATO membership for Ukraine. Cooper instead hinted Washington should respect international law and lobbied to inject UK expertise into US plans for a democratic transition in Venezuela, while reevaluating UK-US influence under Trump’s force-driven, transactional approach.",
+      "summaryTokens": 813,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/deaths-snow-ice-freezing-temperatures-havoc-europe",
+      "title": "Six people die as snow, ice and freezing temperatures wreak havoc in Europe",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/deaths-snow-ice-freezing-temperatures-havoc-europe",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/deaths-snow-ice-freezing-temperatures-havoc-europe",
+      "section": "world",
+      "publishedDate": "2026-01-06T16:54:08Z",
+      "trailText": "Deaths in France and Bosnia as icy conditions disrupt travel in countries including UK and the Netherlands",
+      "summary": "Six people have died across Europe as snow, ice and subzero temperatures trigger travel chaos and accidents. In France three motorists died in Landes road crashes and two more in Paris (a Marne River plunge and HGV collision); in Sarajevo a woman was killed by a falling snow-laden branch. Paris (CDG, Orly) and Amsterdam Schiphol airports face 25–40% flight cancellations; Dutch rail and Eurostar services are stalled by an IT outage. Temperatures plunged below –12°C in Britain and Germany (storm due Friday). Italy braces for mid-altitude snow and Rome floods; Balkan states impose emergency measures amid floods, power cuts and Adriatic storms.",
+      "summaryTokens": 825,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/how-us-takeover-greenland-undermine-nato",
+      "title": "How a US takeover of Greenland would undermine Nato from within",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/how-us-takeover-greenland-undermine-nato",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/how-us-takeover-greenland-undermine-nato",
+      "section": "world",
+      "publishedDate": "2026-01-06T16:44:43Z",
+      "trailText": "The alliance has no provision for the previously unthinkable: one of its members turning on another",
+      "summary": "Analyzes how a hypothetical US invasion of Greenland, an unaddressed scenario in NATO’s Article 5, would undermine alliance unity and embolden Russia. Denmark’s prime minister warns such an attack would shatter NATO’s mutual-defense pact. Trump’s refusal to protect “delinquent” members and Europe’s agreement to raise defense spending to 3.5% of GDP by 2035 papered over deeper rifts. US national security doctrine’s warnings of “civilizational erasure” and renewed American claims on Greenland after Maduro’s capture underscore Washington’s dominance and challenge Danish sovereignty. With no expulsion clause among NATO’s 31 members, a US takeover would erode alliance credibility and European trust.",
+      "summaryTokens": 1976,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/israel-vast-illegal-settlement-west-bank",
+      "title": "Israel pushes ahead with vast illegal settlement in heart of West Bank",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/israel-vast-illegal-settlement-west-bank",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/israel-vast-illegal-settlement-west-bank",
+      "section": "world",
+      "publishedDate": "2026-01-06T16:22:54Z",
+      "trailText": "Exclusive: Tender posted for construction of 3,401 homes in settlement designed to ‘bury idea of a Palestinian state’",
+      "summary": "Israel’s Land Authority has posted a tender for 3,401 homes in the contested E1 area of the West Bank, aiming to sever the north and south and undermine a viable Palestinian state. Peace Now’s Settlement Watch highlights accelerated planning timelines suggesting construction could begin within a year. Backed by Netanyahu and far-right minister Smotrich, the project drew condemnation from over 20 countries as a flagrant breach of international law and a death knell for the two-state solution. Critics warn E1’s expansion, combined with broader settlement growth, risks entrenching apartheid-like realities and fueling further violence.",
+      "summaryTokens": 929,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/people-in-greenland-share-your-views-donald-trump-recent-comments",
+      "title": "People in Greenland: share your views on Trump’s recent comments",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/people-in-greenland-share-your-views-donald-trump-recent-comments",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/people-in-greenland-share-your-views-donald-trump-recent-comments",
+      "section": "world",
+      "publishedDate": "2026-01-06T16:13:47Z",
+      "trailText": "We’d like to hear from people in Greenland on their thoughts about the US president’s renewed call to take over the territory",
+      "summary": "Donald Trump aboard Air Force One doubled down on his claim that the United States should annex Greenland, arguing that its strategic location is vital to US national security and that Denmark cannot adequately defend the territory. This renewed proposal calls for Greenland to switch from an autonomous Danish dependency to a US possession. The Guardian invites Greenland residents to share their reactions and opinions via an online form, highlighting local perspectives on sovereignty, security and geopolitical implications. Guidance on submission and legal terms accompany the request.",
+      "summaryTokens": 717,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/maria-corina-machado-vows-return-venezuela-rejects-rule-maduro-deputy-delcy-rodriguez",
+      "title": "María Corina Machado vows to return to Venezuela and rejects rule of Maduro’s deputy",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/maria-corina-machado-vows-return-venezuela-rejects-rule-maduro-deputy-delcy-rodriguez",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/maria-corina-machado-vows-return-venezuela-rejects-rule-maduro-deputy-delcy-rodriguez",
+      "section": "world",
+      "publishedDate": "2026-01-06T15:47:17Z",
+      "trailText": "Opposition leader says her movement is ready to win a fair election and praises Trump for toppling the president",
+      "summary": "From exile, opposition leader María Corina Machado vows to return and rejects authority of US-backed interim president Delcy Rodríguez after Nicolás Maduro’s forcible removal. She tells Fox News her movement will win free elections by landslides—citing a supposedly fraudulent 2024 vote—accuses Rodríguez of torture, corruption and narco-trafficking, and praises Donald Trump’s role toppling Maduro. Reports suggest Trump’s backing followed CIA warnings over legitimacy issues, though others say personal grievances over Machado’s Nobel prize influenced him. Meanwhile, Maduro’s arrest order triggers a state of emergency decree that militarizes the oil sector, bans protests, and detains journalists amid reports of drone attacks near Miraflores palace.",
+      "summaryTokens": 1173,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/tiktok-scam-warning-ai-videos-princess-leonor-spain",
+      "title": "Warning over TikTok scam using AI-generated videos of Spain’s Princess Leonor",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/tiktok-scam-warning-ai-videos-princess-leonor-spain",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/tiktok-scam-warning-ai-videos-princess-leonor-spain",
+      "section": "world",
+      "publishedDate": "2026-01-06T12:50:35Z",
+      "trailText": "Princess of Asturias Foundation says fraudsters are using fake profiles and videos purporting to show heir to Spanish throne",
+      "summary": "Princess of Asturias Foundation warns that scammers are using AI-generated TikTok videos and fake profiles impersonating 20-year-old Princess Leonor promising payouts in exchange for upfront fees. After victims pay hundreds of dollars, fraudsters demand more and vanish. A 2024 El País probe traced all scam phone numbers to the Dominican Republic; some bogus videos have over a million views. The foundation insists it offers no financial aid or lotteries. TikTok’s policies ban identity spoofing, but repeated complaints received denials. Leonor, heir apparent and military trainee, is poised to become Spain’s first female monarch since Isabella II.",
+      "summaryTokens": 552,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/venezuela-opposition-maria-corina-machado-setback-trump",
+      "title": "From elation to frustration: Trump snub wrongfoots Venezuela’s opposition ",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/venezuela-opposition-maria-corina-machado-setback-trump",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/venezuela-opposition-maria-corina-machado-setback-trump",
+      "section": "world",
+      "publishedDate": "2026-01-06T12:03:15Z",
+      "trailText": "Some supporters of María Corina Machado still see path to power after US president refused to back her",
+      "summary": "After a daring raid that detained Nicolás Maduro under US custody, Venezuela’s opposition momentarily celebrated until Donald Trump publicly declined to support their leader María Corina Machado. Instead he recognised interim president Delcy Rodríguez and demanded Venezuela open its oil fields to American firms. Opposition figures from Ricardo Hausmann to Christopher Sabatini voiced astonishment and warned of a legal and political vacuum. Despite frustration, Machado’s allies insist the transition is underway and hope future elections will restore her democratic mandate.",
+      "summaryTokens": 459,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/no-safety-inspections-site-swiss-bar-fire-past-five-years-mayor-says",
+      "title": "No safety inspections at site of Swiss bar fire for past five years, mayor says",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/no-safety-inspections-site-swiss-bar-fire-past-five-years-mayor-says",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/no-safety-inspections-site-swiss-bar-fire-past-five-years-mayor-says",
+      "section": "world",
+      "publishedDate": "2026-01-06T10:38:20Z",
+      "trailText": "Nicolas Féraud says he does not know why bar in Crans-Montana had not been inspected annually, as required by law",
+      "summary": "Crans-Montana’s mayor, Nicolas Féraud, admitted the Le Constellation bar that exploded in a New Year’s Eve fire—killing 40 young partygoers and injuring 116—had not undergone required annual safety inspections since 2020. Authorities believe basement sparklers ignited soundproof foam. Féraud said a five-officer team oversaw 10,000 buildings and pledged transparency as investigators probe municipal and owner negligence. Lawyers for victims demand full accountability. Bar owners face negligent homicide inquiries. A memorial and reforms, including a sparkler ban, are planned.",
+      "summaryTokens": 429,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/wes-streeting-venezuela-disintegration-rules-based-world-order",
+      "title": "Wes Streeting warns of ‘disintegration’ of rules-based world order after Venezuela attack",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/wes-streeting-venezuela-disintegration-rules-based-world-order",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/wes-streeting-venezuela-disintegration-rules-based-world-order",
+      "section": "world",
+      "publishedDate": "2026-01-06T10:26:54Z",
+      "trailText": "UK health secretary declines to criticise Donald Trump directly but suggests he is disturbed by events of recent days",
+      "summary": "UK health secretary Wes Streeting warns the international rules-based order is ‘creaking at the seams’ and risks disintegration after the US-backed capture of Venezuelan president Nicolás Maduro. While declining to criticise Donald Trump by name, Streeting argued Britain’s security hinges on a stable global system and urged Europe to bolster its own defence and intelligence. He defended Keir Starmer’s cautious response as protecting UK interests and supporting Venezuelans’ right to choose their government. Maduro pleaded not guilty in New York to drugs and weapons charges, spotlighting international law’s fragility.",
+      "summaryTokens": 286,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/05/iran-try-risky-economic-changes-quell-protesters-anger",
+      "title": "Iran to try risky economic concessions as it attempts to quell protesters’ anger",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/05/iran-try-risky-economic-changes-quell-protesters-anger",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/05/iran-try-risky-economic-changes-quell-protesters-anger",
+      "section": "world",
+      "publishedDate": "2026-01-06T09:29:20Z",
+      "trailText": "President wants to placate demonstrators calling for political change, action on corruption and help with cost of living",
+      "summary": "Iran’s government is rolling out high-stake economic concessions after nine days of protests in 27 of 31 provinces over 52.6% inflation, rial collapse and corruption. President Masoud Pezeshkian will end decade-old foreign-exchange subsidies for importers, replacing them with direct consumer payments to cushion food price rises. Parliament is debating up to 43% wage hikes, a VAT cut to 10%, $8.8 billion in FX subsidies, guaranteed wheat purchases for bread and pension boosts. With 35+ killed and 1,200+ arrested, the judiciary has halted “appeasement,” while the UN, US and reformists demand restraint and accountability for hospital shootings.",
+      "summaryTokens": 642,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
+    {
+      "id": "world/2026/jan/06/monday-briefing-will-a-ban-on-advertising-junk-food-help-to-tackle-obesity-in-the-uk",
+      "title": " Monday briefing: Will a ban on advertising junk food help to tackle obesity in the UK? ",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/monday-briefing-will-a-ban-on-advertising-junk-food-help-to-tackle-obesity-in-the-uk",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/monday-briefing-will-a-ban-on-advertising-junk-food-help-to-tackle-obesity-in-the-uk",
+      "section": "world",
+      "publishedDate": "2026-01-06T06:33:27Z",
+      "trailText": "In today’s newsletter: As new rules ban TV and online ads for high-fat, salt and sugar products​, the curbing of junk food marketing has found cross-party support",
+      "summary": "On 5 Jan 2026 the UK imposed a ban on high-fat, salt and sugar (HFSS) ads on TV before 9 pm and paid online ads, aiming to curb rising obesity—27% of children overweight or obese—by reducing children’s exposure. William Roberts (Royal Society for Public Health) highlights the nutrient profile model applied to products from cereal bars to juice drinks. TfL’s 2019 HFSS ad ban saw calorie, fat and sugar intake drop. Industry response is mixed, with reformulation efforts. The measure has cross-party backing and could pave the way for further restrictions.",
+      "summaryTokens": 1017,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
+    },
     {
       "id": "world/2026/jan/06/ukraine-war-briefing-russian-strikes-kill-two-and-trigger-hospital-fire-ahead-of-paris-peace-talks",
       "title": "Ukraine war briefing: Russian strikes kill two and trigger hospital fire ahead of Paris peace talks",
@@ -29,21 +353,21 @@
       "section": "world",
       "publishedDate": "2026-01-06T01:26:56Z",
       "trailText": "Overnight attacks trigger evacuations ‘under fire’ at Kyiv medical facility while European leaders gather to seek peace plan breakthrough. What we know on day 1,413",
-      "summary": "Overnight Russia launched 165 drones and nine missiles, triggering a fire at a private Kyiv hospital that killed one patient and wounded three, forced evacuations in –8°C, and killed another civilian in Fastiv. Power outages hit water and heating systems. The strikes precede Paris peace talks where Macron’s “coalition of the willing,” including envoys Steve Witkoff and Jared Kushner, will discuss security guarantees for a plan Kyiv says is 90% ready. Additional strikes damaged Kharkiv energy infrastructure and a Bunge plant in Dnipro, causing a sunflower-oil leak. Zelenskiy named Chrystia Freeland economic adviser, reshuffled SBU leadership, and Russia claimed capture of Grabovske in Sumy region.",
-      "summaryTokens": 978,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "Russia launched 165 drones and nine missiles overnight, sparking a fire at a private Kyiv hospital that killed one and wounded three, and killing a man in Fastiv. Strikes cut power, forcing under-fire evacuations in –8°C. Attacks also hit Kharkiv’s energy grid and a Bunge facility in Dnipro, leaking sunflower oil. A Ukrainian drone in Tver killed one and injured two. On day 1,413, European leaders, including envoys Steve Witkoff and Jared Kushner, meet in Paris for a “coalition of the willing” peace summit said to be 90% ready. Zelenskyy pledged allied support, named Chrystia Freeland adviser and reassigned SBU chief Vasyl Malyuk.",
+      "summaryTokens": 2005,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan",
-      "title": "‘It ought to provide a deterrent’: what US action in Venezuela means for Taiwan",
+      "title": "What does the US raid in Venezuela mean for China’s designs on Taiwan?",
       "webUrl": "https://www.theguardian.com/world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan",
       "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan",
       "section": "world",
       "publishedDate": "2026-01-06T01:00:22Z",
       "trailText": "Perception that Chinese-made weapons could not stop a ‘decapitation strike’ may give Beijing pause for thought",
-      "summary": "US overnight raid capturing Nicolás Maduro spotlighted parallels between US-Venezuela power imbalance and China-Taiwan relations. Beijing claims Taiwan as a domestic matter beyond international law, dismissing the comparison. Analysts counter that failure of Chinese-made weapons in Venezuela and the US’s decapitation-strike capability reinforce deterrence. While the PLA advances toward its 2027 strategic-victory goal through AI, biotechnology and hypersonic missiles, US resolve, allied equivocation and Beijing’s UN protest illustrate shifting norms. Taiwan’s popular unity and Washington’s rapid action may prompt Beijing to rethink coercion tactics across the Taiwan Strait.",
-      "summaryTokens": 1512,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "Washington’s covert US raid seizing Venezuela’s leader Nicolás Maduro—defying China-supplied air defenses—triggered debate in Beijing and Taipei over a hypothetical Taiwan decapitation strike. China insists cross-strait reunification is a domestic affair beyond international law, yet PLA drills near Taiwan underscore its 2027 victory ambition. Taiwanese analysts argue US special operations’ success reveals a potent deterrent: Chinese-made weapons underperformed. Internationally, China and Russia decried the legal breach at the UN while European allies offered restrained criticism. Taiwan’s government remained publicly silent, even as citizens urge unity to avoid becoming “another Venezuela.”",
+      "summaryTokens": 811,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/06/venezuela-detains-journalists-after-nicolas-maduros-captured",
@@ -53,9 +377,9 @@
       "section": "world",
       "publishedDate": "2026-01-06T00:52:55Z",
       "trailText": "Thirteen of those detained were released according to the country’s National Union of Press Workers",
-      "summary": "In Caracas, Venezuelan authorities detained at least 14 journalists—including 13 from international outlets—three days after a US-led raid captured President Nicolás Maduro; 13 were released (one deported), one remains held, the SNTP reports. Reporters covering a National Assembly session were banned from filming, had phones seized and data inspected. On the Colombia border, Univision’s Juan Carlos Vélez and two Colombian crews were briefly detained and their footage erased. Visas are blocked, and a Guardian correspondent was expelled after notes were seized; RSF warns of routine press criminalisation and forced disappearances.",
-      "summaryTokens": 1319,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "After a US-led raid captured Nicolás Maduro in Caracas, Venezuelan authorities detained 14 journalists—13 later released (one deported) and one held by intelligence—seizing phones and devices. Five were covering a National Assembly session where recording was banned; others were held by military intelligence at the Guard post. Independent reporting is severely restricted; foreign visas often denied. Border teams from Univision and Colombia were briefly detained and had footage erased. SNTP decries the criminalisation of journalism, echoing RSF’s warning of forced disappearances and terrorism charges to suppress the press.",
+      "summaryTokens": 675,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/trump-must-give-up-fantasies-about-annexation-says-greenland-pm",
@@ -65,9 +389,9 @@
       "section": "world",
       "publishedDate": "2026-01-06T00:15:19Z",
       "trailText": "Mette Frederiksen criticises Donald Trump’s ‘unacceptable pressure’ as Greenland counterpart condemns ‘fantasies’",
-      "summary": "Mette Frederiksen, Denmark’s prime minister, warned that any US attack on NATO ally Greenland would collapse NATO and post-WWII security after Donald Trump renewed threats to annex the autonomous island for its strategic location and mineral resources. Greenland PM Jens-Frederik Nielsen condemned ‘fantasies about annexation’ and ‘unacceptable pressure’, while the EU, Sweden, Norway, Finland, the UK and Germany reaffirmed Denmark’s sovereignty and pledged to defend territorial integrity. Facing a general election, Frederiksen is under pressure to detail concrete defense plans. Amid an emerging Arctic power struggle between the US, China and Russia, Greenland’s future remains in Greenlanders’ hands.",
-      "summaryTokens": 1017,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "Denmark’s PM Mette Frederiksen warned that any US military attack on Greenland would spell the end of NATO and post–WW2 security after President Trump renewed threats to annex the autonomous island. Greenland’s PM Jens-Frederik Nielsen condemned Trump’s “fantasies” and “unacceptable” pressure, insisting there be no more talk of takeover. Backed by the EU and Nordic neighbours, Frederiksen and Nielsen reaffirmed Greenland’s right to self-determination, highlighting its strategic Arctic location and mineral resources.",
+      "summaryTokens": 859,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/mps-across-parties-criticise-ministers-for-stance-on-trump-attack-on-venezuela",
@@ -77,9 +401,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T20:34:39Z",
       "trailText": "Keir Starmer and Yvette Cooper challenged over cautious response to Nicolás Maduro’s capture despite widespread doubts about legality",
-      "summary": "UK MPs from Labour, Conservative and Liberal Democrats accused Yvette Cooper and PM Keir Starmer of failing to condemn Donald Trump’s capture of Venezuelan president Nicolás Maduro, warning that cautious rhetoric over its legality risks emboldening China and Russia. Emily Thornberry urged Westminster to call the action a breach of international law. Critics including Richard Burgon, Ed Davey and ex-FM Jeremy Hunt also flagged NATO credibility amid Trump’s Greenland annexation threats. Cooper, who spoke to US and Venezuelan opposition counterparts, and Starmer, prepping a “coalition of the willing” on Ukraine, have declined to label the raid illegal.",
-      "summaryTokens": 1076,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "MPs from Labour, Conservative and Liberal Democrat benches have attacked Foreign Secretary Yvette Cooper and PM Keir Starmer for refusing to condemn Donald Trump’s raid and capture of Venezuelan President Nicolás Maduro as a breach of international law, warning that Britain’s cautious stance undermines Western unity and risks emboldening China, Russia and even US threats like Greenland annexation. Cross-party figures—from Emily Thornberry and Richard Burgon to Ed Davey and former foreign secretary Jeremy Hunt—demand an explicit defence of the UN charter and concrete plans to safeguard NATO allies. Cooper spoke to her US counterpart and opposition leader María Machado but declined to label the abduction illegal, insisting Washington must set out its justification—a stance critics say reveals UK diplomatic timidity.",
+      "summaryTokens": 1037,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/keir-starmer-masterclass-hedging-bets-venezuela-raid",
@@ -89,21 +413,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T19:41:55Z",
       "trailText": "Prime minister assures colleagues he may one day stand up to Donald Trump – but not yet",
-      "summary": "After Trump’s late-night CIA-led raid kidnapping Nicolás Maduro on narco-terrorism charges, UK PM Keir Starmer waited 16 hours to respond, praising Maduro’s illegitimacy but reaffirming international law. His administration opts for “realpolitik”—minimising comment to preserve a multibillion-pound US trade deal and Ukraine peace, while opposition Lib Dems and Greens demand a stronger rebuke. Downing Street insists it would defend allies like Denmark over Greenland and will discuss the Venezuelan operation with Trump in Paris, yet maintains that tough action risks UK security and economic ties. Starmer says a firmer stance may come—“but not yet.”",
-      "summaryTokens": 955,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
-    },
-    {
-      "id": "world/2026/jan/05/iran-try-risky-economic-changes-quell-protesters-anger",
-      "title": "Iran to try risky economic concessions as it attempts to quell protesters’ anger",
-      "webUrl": "https://www.theguardian.com/world/2026/jan/05/iran-try-risky-economic-changes-quell-protesters-anger",
-      "apiUrl": "https://content.guardianapis.com/world/2026/jan/05/iran-try-risky-economic-changes-quell-protesters-anger",
-      "section": "world",
-      "publishedDate": "2026-01-05T19:20:08Z",
-      "trailText": "President wants to placate demonstrators calling for political change, action on corruption and help with cost of living",
-      "summary": "Facing protests in 27 of 31 provinces that have left at least 35 dead and 1,200 arrested, President Masoud Pezeshkian has scrapped preferential foreign-exchange subsidies in favor of direct consumer payments—a move likely to push up food prices temporarily. Inflation hit 52.6% in December as the rial plummeted. The judiciary head warned that ‘‘concessions and appeasement’’ are over, even as reformists demand justice for security forces’ shooting at Malekshahi hospital. UN and US leaders have called for respect for peaceful protests. Parliament is debating budget revisions including up to 43% pay rises, a VAT cut to 10%, and allocation of $8.8 bn in subsidized currency and guaranteed wheat purchases to stabilize living costs.",
-      "summaryTokens": 464,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "After Trump’s CIA-backed raid seizing Nicolás Maduro, Starmer waited 16 hours before calling Maduro “illegitimate” but stopped short of condemning the US, stressing respect for international law. Under pressure from Lib Dems, Greens and anxious Foreign Office officials, Downing Street adopted a realpolitik line—saying as little as possible to offend Washington and leaving legal justification to the US. Starmer, who backed Denmark on Greenland’s autonomy, is due a tactful call with Trump after a Paris summit, warning a tougher stance may wait until UK interests allow.",
+      "summaryTokens": 548,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/un-security-council-trump-attack-venezuela",
@@ -113,9 +425,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T18:57:31Z",
       "trailText": "US ambassador defends attack as ‘law enforcement’ action against an ‘illegitimate’ leader, not an act of war",
-      "summary": "At a UN Security Council emergency session, Brazil, China, Colombia, Cuba, Eritrea, Mexico, Russia, South Africa and Spain condemned President Trump’s deadly strike and capture of Venezuelan leader Nicolás Maduro and his wife as a ‘crime of aggression’ and violation of sovereignty. US envoy Mike Waltz defended it as a law-enforcement operation to execute existing indictments, not an act of war. UN Secretary-General Guterres and several ambassadors questioned its legality under the UN Charter, warning it risked regional destabilization amid deep council divisions that thwarted a collective response.",
-      "summaryTokens": 1442,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "At a UN Security Council emergency meeting convened hours before Nicolás Maduro’s Manhattan trial on narco-terrorism charges, members including Brazil, China, Russia, Colombia, South Africa and Spain denounced President Trump’s cross-border raid in Venezuela as a “crime of aggression” aimed at seizing Maduro and his wife. US envoy Mike Waltz defended the strikes as a law-enforcement operation executing criminal indictments, not acts of war. Secretary-General Guterres warned it risked regional destabilisation and violated international law. Russia, China and Latin American states demanded the pair’s release, while deep divisions and the US veto blocked censure.",
+      "summaryTokens": 1772,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/palestine-ambassador-uk-hails-embassy-proof-identity",
@@ -125,9 +437,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T18:39:23Z",
       "trailText": "Husam Zomlot says inauguration of mission in London marks change of direction for Palestinian state",
-      "summary": "On Jan 5 in London, Palestinian ambassador Husam Zomlot inaugurated Palestine’s embassy in Hammersmith, branding the upgrade from mission to embassy “historic” proof of inalienable statehood and identity. This follows the UK’s September recognition of Palestine to support a two-state solution. The building was recently defaced by masked assailants amid ongoing tensions. Zomlot warned Gaza—where the health ministry reports 422 killed since the October ceasefire—remains “living in hell.” A 14-year-old refugee, Obaidah, attended, hopeful the embassy will amplify Palestinian voices and justice.",
-      "summaryTokens": 1265,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "Palestine’s ambassador to the UK, Husam Zomlot, inaugurated the state’s embassy in Hammersmith, branding the upgrade from mission to embassy a “monumental” proof of Palestinians’ inalienable identity and sovereign statehood. He described it as a “change of direction” reflecting UK recognition in September aimed at preserving a two-state solution. The ceremony, attended by MPs, diplomats and public, came after pro-Israel vandalism targeted the building. Zomlot cited 422 Gaza deaths since October’s ceasefire and Gaza’s devastation, while 14-year-old refugee Obaidah, evacuated for medical care, spoke of hope for justice and dignity.",
+      "summaryTokens": 506,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/chrystia-freeland-economic-adviser-ukraine-canada",
@@ -137,9 +449,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T18:21:51Z",
       "trailText": "Chrystia Freeland takes on new role amid government shakeup in Kyiv as Ukrainian president replaces key figures",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has appointed Canada’s ex-finance minister and deputy PM Chrystia Freeland as economic development adviser to bolster the country’s wartime “internal resilience.” The move, part of a sweeping Kyiv shake-up that includes new intelligence chiefs, leverages Freeland’s deep Ukrainian roots, language skills and track record in investment and reform. A former journalist surveilled by the KGB, she recently served as Canada’s special rep for Ukraine’s reconstruction and will step down as Toronto MP to lead the Rhodes Trust.",
-      "summaryTokens": 801,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "President Zelenskiy appointed Canada’s former finance minister and deputy prime minister Chrystia Freeland as adviser on Ukraine’s economic development amid a major Kyiv government shake-up, replacing top intelligence chiefs and Yermak’s exit. Freeland, who speaks Ukrainian and has ancestral ties, will leverage her experience attracting investment and driving reforms to bolster resilience for recovery and defense. A former journalist, she served under Trudeau, chaired the Pinchuk forum, and was Canada’s special envoy for Ukraine reconstruction. She remains a Toronto MP and will become CEO of the Rhodes Trust in July.",
+      "summaryTokens": 1059,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/trump-colombia-invasion-petro",
@@ -149,9 +461,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T18:11:13Z",
       "trailText": "Gustavo Petro makes remark after Trump threatens military action similar to Venezuela",
-      "summary": "Following US strikes on Venezuela to oust Nicolás Maduro, President Donald Trump threatened analogous military action in Colombia, calling President Gustavo Petro a “sick man” with cocaine factories. Petro, a former M-19 guerrilla turned 2022 president, denied any narco ties—Colombia’s trade is controlled by groups like the Gulf Clan, ELN and Farc dissidents—and warned US bombing would drive campesinos into guerrilla ranks, vowing to take up arms if invaded. Washington has revoked his visa, imposed sanctions, bolstered Caribbean deployments and prompted reinforced presidential security amid bipartisan regional backlash.",
-      "summaryTokens": 799,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "Following US forces’ attack on Venezuela to oust Nicolás Maduro, Trump threatened similar intervention in Colombia, labeling President Gustavo Petro a 'cocaine-making sick man'. Petro—former M-19 guerrilla turned president—denounced the slander via X, warned that US bombs would drive campesinos into guerrilla ranks, and vowed 'for the homeland I will take up arms again'. Relations have soured over drug allegations, visa revocation and sanctions, while Colombia fortifies Petro’s security amid broad political backlash.",
+      "summaryTokens": 1293,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/volodymr-zelenskyy-sacks-ukrainian-spy-chief-vasyl-malyuk",
@@ -161,9 +473,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T18:00:12Z",
       "trailText": "Vasyl Malyuk reportedly unwilling to leave post as head of the Security Service but will now lead special operations",
-      "summary": "Ukraine’s president Volodymyr Zelenskyy has forced Vasyl Malyuk, decorated head of the Security Service (SBU) behind high-profile raids like Operation Spiderweb, to resign. Malyuk resisted but agreed to lead asymmetric special operations within the agency, focusing on deep-strike UAV missions and covert actions against Russia. His removal, seen as part of a push for new faces—or possible internal politics involving ex-chief of staff Andriy Yermak—has prompted concern over Ukraine’s intelligence effectiveness. Maj Gen Yevhen Khmara now temporarily heads the SBU.",
-      "summaryTokens": 815,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "President Zelenskyy has forced the resignation of SBU chief Vasyl Malyuk, a Hero of Ukraine famed for last year’s Operation Spiderweb drone raid that destroyed Russian strategic bombers and inflicted an estimated $7 bn in damage. Malyuk initially resisted leaving but agreed to step down and instead oversee asymmetric special operations within the SBU, rejecting posts in foreign intelligence and the national security council. His replacement, Maj Gen Yevhen Khmara, formerly headed the elite Alpha unit. Analysts speculate the shake-up reflects Zelenskyy’s push for fresh faces and political motives ahead of upcoming elections.",
+      "summaryTokens": 945,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/trump-lawless-actions-in-venezuela-demand-a-resolute-response",
@@ -173,9 +485,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T17:55:05Z",
       "trailText": "Letters: International law cannot be selective, writes Hannah Walker , while Celia Cashman calls for an alliance to challenge to US actions in Venezuela, and Charlie Owen for clarity of language",
-      "summary": "Three letters decry Donald Trump’s pledge to “run” Venezuela indefinitely and install US oil firms—conduct that breaches the UN charter, Hague regulations and Geneva conventions, constituting unlawful occupation and pillage. Hannah Walker warns that selective enforcement undermines global rule of law, echoing parallels with Ukraine. Starmer’s cautious stance is faulted for treating legality as politically conditional. Celia Cashman urges Europe, Canada, South Africa and Australia to form a defence and trading alliance and mobilise democratic protest. Charlie Owen critiques misleading language, arguing the seizure of Maduro amounts to abduction, not mere “capture.”",
-      "summaryTokens": 1447,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "Donald Trump’s vow to occupy Venezuela, install US oil firms and dictate its political transition breaches the UN charter’s ban on force, constituting occupation and pillage under Hague and Geneva rules, warn Guardian letter writers. They cite the UN secretary-general’s warning that international law has been flouted. Hannah Walker says selective enforcement would collapse norms protecting Ukraine and criticizes Keir Starmer’s refusal to condemn force as treating legality as conditional; Celia Cashman calls for a European-Canada-South Africa-Australia alliance to oppose US supremacy; Charlie Owen urges ‘abduction’ over ‘capture’ for clarity.",
+      "summaryTokens": 1704,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/nicolas-maduro-venezuela-criminal-indictment",
@@ -185,9 +497,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T17:34:59Z",
       "trailText": "US alleges the Venezuelan president has spent past two decades working with international drug trafficking groups",
-      "summary": "A US superseding indictment expands the 2020 narcotics case against Venezuelan President Nicolás Maduro and five co-defendants, adding narco-terrorism, cocaine importation and weapons charges. It accuses Maduro, his wife Cilia Flores, son Nicolás Ernesto Maduro Guerra and Tren de Aragua boss Héctor Guerrero Flores of two decades of collaborating with FARC, ELN, Sinaloa, Zetas and other cartels to ship cocaine into the US and enrich themselves. New allegations detail Flores’s bribe-taking and firearms conspiracies. Former intelligence chief Hugo Carvajal may testify for prosecutors, while Maduro’s head-of-state immunity is set to be challenged in New York federal court.",
-      "summaryTokens": 699,
-      "generatedAt": "2026-01-06T06:35:54.537Z"
+      "summary": "On Jan. 5, 2026, the US superseding indictment alleged that Venezuelan president Nicolás Maduro and five co-defendants — including his wife, Cilia Flores, son Nicolás Ernesto “Nicolasito” Maduro Guerra and Tren de Aragua leader Héctor Guerrero — spent two decades collaborating with FARC, ELN, Sinaloa, the Zetas and other narco-trafficking groups to ship cocaine and conceal weapons shipments into the US. New charges expand the 2020 complaint to include narco-terrorism, cocaine importation, machine-gun and destructive-device offenses and conspiracy, and adds Cilia Flores for accepting bribes. Prosecutors cite meetings arranged via “Nicolasito” trading weapons for cocaine; potential cooperation from ex-spy chief Hugo Carvajal; and face a court challenge over Maduro’s head-of-state immunity.",
+      "summaryTokens": 1184,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/venezuela-delcy-rodriguez-trump",
@@ -197,9 +509,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T16:19:15Z",
       "trailText": "Venezuela’s interim leader offers to work with US after Trump threatened she could pay ‘very big price’",
-      "summary": "Venezuela’s acting president Delcy Rodríguez, installed by the supreme court after Nicolás Maduro’s capture by US forces, has shifted from defiance to a conciliatory stance, inviting the US to co-operate on a development agenda under international law. Her outreach follows Donald Trump’s warning that she could “pay a very big price” unless she complies. While US-backed regime change has sidelined opposition leader María Corina Machado, Venezuelans celebrate privately amid state-of-emergency orders and fear of repression. Rodríguez vows peace, sovereignty and long-term dialogue. Her authority was backed by the military chiefs a day after her swearing-in, while Maduro and his wife pleaded not guilty to US federal drug and arms charges in New York.",
-      "summaryTokens": 836,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "Venezuela’s acting president Delcy Rodríguez, sworn in by the supreme court and swiftly recognized by the military after US forces seized Nicolás Maduro and his wife on drug and weapons charges, has offered to \"work jointly on an agenda of cooperation\" with Washington. The move from initial defiance follows Donald Trump’s warning she could \"pay a very big price\" and his threat of further strikes if she resists. His endorsement sidelines the opposition led by María Corina Machado, while Venezuelans celebrate cautiously under fear of repression.",
+      "summaryTokens": 1682,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/venezuela-trump-attack-china-interests-analysis",
@@ -209,9 +521,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T15:51:06Z",
       "trailText": "Maduro had just affirmed ‘strong bonds of brotherhood’ with Beijing when US made its shocking intervention",
-      "summary": "After Maduro’s surprise US-led arrest, China’s ties with Venezuela—its “all-weather” Latin partner—face strain. Beijing condemned the operation, backed UN debates and Wang Yi called against any nation acting as “world police”. Chinese social media decried Washington’s colonialism. China fears losses on $106 bn in loans and oil-for-credit deals as US creditors might get priority. Regulators are probing banks’ exposure. Experts say Beijing could split future oil revenues or leverage rare earth exports to shield creditors. The outcome hinges on Venezuela’s new authorities: direct negotiations or litigation if Xi-era deals are voided.",
-      "summaryTokens": 1191,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "After Maduro’s handshake with China’s envoy, Trump’s US forces ousted him, alarming Beijing, which condemned the action as imperialist, backed Maduro’s release, and urged a UN debate. China’s financial regulators are probing $10bn in outstanding Venezuelan debt from $106bn in loans since 2000, fearing US-led debt prioritization could trigger losses for Chinese lenders tied to loan-for-oil deals. Beijing, Venezuela’s biggest oil buyer (4% of China’s imports), may leverage rare earths exports or restructure future oil proceeds to protect creditors. Analysts warn legal action could follow if a US-backed regime repudiates Maduro-era agreements, forcing China to litigate Caracas rather than negotiate with Washington.",
+      "summaryTokens": 824,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/crans-montana-fire-switzerland-all-people-injured-identified-say-police",
@@ -221,9 +533,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T15:09:28Z",
       "trailText": "Bodies of first foreign victims repatriated after 40 people died in bar fire during New Year’s Eve party in Crans-Montana",
-      "summary": "All 116 people injured in the Crans-Montana New Year’s Eve bar blaze have been identified, after police revised the tally down from 119, as the bodies of the first foreign victims are repatriated. The fire, blamed on sparklers igniting foam in the basement, killed 40 young partygoers aged 14–39 and left 83 still hospitalised with severe burns. Victims include 68 Swiss, 21 French, 10 Italians and others from 11 countries. Swiss prosecutors are probing bar owners Jacques and Jessica Moretti for negligent homicide. Crans-Montana authorities have joined the proceedings as a civil party. A memorial is planned Friday with Emmanuel Macron attending.",
-      "summaryTokens": 1346,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "Valais police have identified all 116 people injured in the New Year’s Eve fire at Le Constellation bar in Crans-Montana, revising the toll down from 119. Among the wounded – 68 Swiss, 21 French, 10 Italian, four Serb, four dual nationals, two Polish and one each from seven other countries – 83 remain hospitalized with severe burns. The last of 40 fatalities, predominantly youths averaging 19 years, were confirmed Sunday; five of six Italian victims were repatriated Monday. Investigators suspect sparklers ignited foam-clad ceilings; owners Jacques and Jessica Moretti face negligent homicide probes. A memorial is planned Friday, with President Macron attending.",
+      "summaryTokens": 708,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/us-planes-monitor-tanker-ireland-clampdown-venezuelan-oil",
@@ -233,9 +545,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T15:05:02Z",
       "trailText": "Ship changed its name and registered in Russia in apparent attempt to prevent possible US seizure near British Isles",
-      "summary": "US aircraft are monitoring the oil tanker Marinera (formerly Bella 1) roughly 250 miles off Ireland after it evaded a US blockade of Venezuela in December. The vessel, now Russian-flagged with a painted Russian flag, has been tracked by P-8 surveillance planes from RAF Mildenhall and C-17 and AC-130 flights into RAF Fairford, fueling speculation of a special forces seizure. Bella 1, sanctioned for illicit cargo ties to Hezbollah, previously carried millions of barrels of Iranian and Venezuelan crude to China. The US has imposed a quarantine on Venezuelan oil to curb revenue to adversaries.",
-      "summaryTokens": 814,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "US surveillance aircraft (P-8s) are monitoring the tanker formerly known as Bella 1—now Marinera, reflagged in Russia—250 miles off Ireland after it evaded a US naval blockade of sanctioned Venezuelan oil. US C-17s and AC-130s at RAF bases suggest a possible special-forces seizure mission. Sanctioned since July 2024 over alleged Hezbollah-linked illicit cargo, the tanker joins a dozen vessels spoofing identities to dodge a Trump-ordered “complete blockade.” Venezuela denounces US “piracy” amid Maduro’s recent capture.",
+      "summaryTokens": 750,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "us-news/2026/jan/05/nicolas-maduro-venezuela-new-york-court",
@@ -245,9 +557,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T12:57:11Z",
       "trailText": "Venezuelan president captured by US in shocking raid is seen being led in handcuffs on his way to court",
-      "summary": "Nicolás Maduro, deposed Venezuelan president, was seized with wife Cilia Flores in a US special forces raid on a Caracas compound that killed around 40 people. He’s set to appear Monday in Manhattan federal court on charges including narcoterrorism, cocaine importation and illegal weapons possession; the indictment accuses him of leveraging government power to protect drug trafficking. Trump hailed the “brilliant operation” as a Latin America blueprint, imposed naval blockades, struck “narco boats” and seized oil tankers. He vowed US oil firms would rebuild Venezuela’s sector and threatened similar actions against Colombia and cartels. Acting president Delcy Rodríguez, sworn in Monday, offered to cooperate with Washington, while top Democrats condemned the raid as illegal without Congress’s approval.",
-      "summaryTokens": 839,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "In a pre-dawn US special forces raid in Caracas, deposed Venezuelan president Nicolás Maduro and wife Cilia Flores were captured, reportedly after an assault that killed at least 40. On Monday, they appeared in Manhattan federal court on charges of narco-terrorism, cocaine importation and illegal arms possession. President Trump hailed the operation as a “brilliant blueprint” for Latin America and threatened further interventions, including seizing Venezuela’s oil industry. He asserted US control of Venezuela until a “judicious transition” and hinted at possible actions in Colombia. Meanwhile, acting Venezuelan president Delcy Rodríguez, sworn in amid constitutional questions, offered pragmatic cooperation with Washington. Democrats condemned the raid as unconstitutional.",
+      "summaryTokens": 1018,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/keir-starmer-backs-danish-pm-donald-trump-threats-us-greenland-denmark",
@@ -257,9 +569,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T12:45:23Z",
       "trailText": "British prime minister says Donald Trump should stop raising idea of US annexation he claims necessary for security",
-      "summary": "Labour leader Keir Starmer supported Denmark’s PM Mette Frederiksen in rebuking Donald Trump’s repeated suggestions that the US should annex Greenland for security. Starmer told the BBC and Sky News that only Greenland and Denmark can decide its future, emphasizing their NATO alliance. Frederiksen called US “threats” absurd, while Greenland’s PM Jens-Frederik Nielsen decried annexation talk as disrespectful to autonomy and international law.",
-      "summaryTokens": 785,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "British PM Keir Starmer publicly backed Denmark’s PM Mette Frederiksen after she demanded the US end threats to annex Greenland. Starmer told BBC and Sky News that Greenland’s future rests solely with Greenland and the Danish kingdom, calling Denmark “a close ally.” Frederiksen labelled US takeover talk “absolute nonsense,” while Greenland’s PM Jens-Frederik Nielsen decried threats as disrespectful and against international law. The controversy follows Donald Trump’s reiterated security-driven claim he “needs” Greenland and a pro-Trump podcaster’s X post depicting Greenland under US stars and stripes. Danish migration minister Mike Tapp declined to publicly challenge the US rhetoric, citing diplomatic delicacy.",
+      "summaryTokens": 518,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/russia-weighs-up-fall-of-nicolas-maduro-venezuela",
@@ -269,9 +581,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T12:14:06Z",
       "trailText": "Reaction to effectiveness of US operation contrasts with loss of key ally for Putin, whose priority remains Ukraine",
-      "summary": "Russia publicly denounced the US-led raid that toppled Nicolás Maduro as illegal, yet pro-Kremlin voices privately envy its swift, decisive execution—a blueprint Moscow failed to deliver in Ukraine. The operation spotlights Russia’s intelligence blunders and its strategic focus on Ukraine, leaving it unable to aid distant allies. Losing Venezuela jeopardizes billions in unpaid loans, exposes advanced S-300, Pantsir and Buk systems to US control and risks lower oil prices if Washington taps Caracas’s reserves, even as hardliners celebrate a shift toward raw power politics over international norms.",
-      "summaryTokens": 543,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "In a swift US raid, Donald Trump–authorized forces captured Venezuela’s Nicolás Maduro, sparking Russian anger and grudging admiration at its “decisive” execution, as pro-Kremlin outlets lament Moscow’s failed blitzkrieg in Ukraine. Voices from Dva Mayora to Margarita Simonyn express envy and shame over Russia’s protracted war, while Putin, prioritizing Ukraine and ties with Trump, shuns intervention. Moscow risks losing billions in loans, advanced arms (S-300, Pantsir, Buk-M2) and crucial oil leverage. Hawks like Medvedev hail a return to power politics over international law.",
+      "summaryTokens": 882,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/paris-court-finds-10-guilty-of-harassing-brigitte-macron-online",
@@ -281,9 +593,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T11:22:29Z",
       "trailText": "Teacher and publicist among those convicted of maliciously posting or sharing false claims French first lady is a man",
-      "summary": "Paris court convicted ten (eight men, two women) aged 41–60 for online harassment of French first lady Brigitte Macron by maliciously claiming she was a man. Sentences ranged from mandated online-harassment courses to suspended jail terms up to eight months; one absentee received six months in prison. Defendants also face social media bans. This verdict follows the Macrons’ broader legal fight, including a US defamation suit against podcaster Candace Owens. Testimony from Macron’s daughter detailed harm to family and grandchildren, while Brigitte Macron pledged to combat online bullying as a role model.",
-      "summaryTokens": 940,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "A Paris court convicted ten individuals—eight men and two women, aged 41 to 60, including a teacher, gallery owner and publicist—for online harassment of First Lady Brigitte Macron by spreading malicious claims she was a man named Jean-Michel Trogneux. Sentences ranged from compulsory anti-harassment courses to suspended prison terms, with one absentee developer handed six months behind bars. Several were barred from the offending platforms. The ruling, part of transatlantic defamation battles including a US lawsuit against Candace Owens, underscores Macron’s fight against false gender attacks and online bullying.",
+      "summaryTokens": 1451,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/syria-businesses-tourism-wineries-bars-shops-ntwnfb",
@@ -293,9 +605,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T10:00:31Z",
       "trailText": "Shop owners report fewer travellers while bars and wineries hope for legal clarity on alcohol sale",
-      "summary": "After Assad's fall, Tartous tourist shops, once selling pro-regime memorabilia, now stock revolutionary-themed souvenirs, but footfall has halved amid security and travel declines. Wineries like Jarjour’s, freed from official harassment, first expanded production but halted sales due to absent alcohol laws under the Islamist-led government. Bars in Damascus face arbitrary closures and licence gaps, yet underground nightlife—rooftop raves and techno parties—persists. Statues of the Assads toppled, new president portraits banned, reflecting a tug-of-war over public symbolism. Entrepreneurs await legal clarity on alcohol and trade rules as Syrians renegotiate cultural identity and economic survival in a volatile transition.",
-      "summaryTokens": 1142,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "In post-Assad Syria’s coastal city of Tartous, souvenir sellers report a collapse in tourism since the year-old Islamist-led government replaced the regime: they’ve swapped Assad memorabilia for revolutionary flags, handicrafts and rebel portraits, yet footfall remains low amid security concerns. At the Jarjour winery, decades of harassment by former officials have ended but a lack of clear alcohol laws bars sales, forcing two years of losses. In Damascus, bars face arbitrary raids and licensing limbo even as rooftop raves and house parties flourish. Syrians navigate new cultural boundaries—defacing Assad portraits, cautious of Islamist rulers—while entrepreneurs await legal clarity to revive their businesses and wines.",
+      "summaryTokens": 1141,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/04/venezuela-trump-protests-us-cities",
@@ -305,9 +617,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T08:25:12Z",
       "trailText": "Hundreds gathered coast to coast, even as many in the diaspora celebrated ousting of Maduro",
-      "summary": "Hundreds staged coast-to-coast demonstrations in Chicago, Dallas, New York, Philadelphia, Pittsburgh, San Francisco and Seattle this weekend, opposing Trump’s military operation to capture Venezuela’s Nicolás Maduro for U.S. drug-trafficking charges. Organizers from Answer and Code Pink decried constitutional overreach, UN charter breaches and threats of war under “No Blood for Oil” placards, while many in the diaspora celebrated Maduro’s ouster. Senior Democrats condemned bypassing Congress, Republicans praised the “peaceful” mission, and activists chanting “Free Maduro” at a Brooklyn detention center also denounced deportations of Venezuelan migrants as ideological destabilization.",
-      "summaryTokens": 2348,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "Hundreds gathered in Chicago, Dallas, New York, Philadelphia, Pittsburgh, San Francisco and Seattle to protest Trump’s unilateral operation that captured Venezuelan president Nicolás Maduro—an action some diaspora members celebrated—and flew him to New York on drug-trafficking charges. Organized by ANSWER and Code Pink, protesters condemned potential war, constitutional overreach, UN charter breaches and Venezuelan deportations, waving “No Blood for Oil” signs and urging Maduro’s release. Senior Democrats decried bypassing Congress, while most Republican lawmakers praised Trump’s intervention.",
+      "summaryTokens": 730,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/04/us-running-venezuela-now-seems-less-likely-but-second-intervention-possible",
@@ -317,9 +629,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T07:41:53Z",
       "trailText": "Washington keeping 15,000-strong military presence in Caribbean in case interim president hinders US objectives",
-      "summary": "After Maduro’s ouster, Trump said direct US control of Venezuela may recede but warned of a second military strike if interim president Delcy Rodríguez fails to comply. Washington maintains a 15,000-strong force in the Caribbean and enforces a naval “quarantine” to choke Venezuelan oil. Rodríguez pledges respectful ties while Caracas loyalists demand Maduro’s return. Cuba confirmed 32 casualties. Regional governments condemned US actions, Colombia bolstered border defenses, and Maduro faces a US narco-terrorism indictment in Manhattan.",
-      "summaryTokens": 922,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "After Nicolás Maduro’s ouster, US plans to seize direct control of Venezuela receded, but Trump warned interim president Delcy Rodríguez to comply with US oil and security demands or face a second military intervention. Washington maintains 15,000 troops in the Caribbean and a maritime “quarantine” on Venezuelan oil under sanctions. Trump also threatened operations in Colombia and Mexico over drug flows. Rodríguez pledged cooperation after talks with Secretary of State Rubio. Cuba confirmed 32 casualties from the US raid. Maduro, indicted for narco-terrorism, faces arraignment in New York. EU and Latin American governments urged restraint as Venezuelans queued for supplies amid uncertainty.",
+      "summaryTokens": 755,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/uk-campaigner-diane-munday-unfinished-battle-abortion-rights",
@@ -329,9 +641,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T07:00:29Z",
       "trailText": "Diane Munday helped secure legal terminations in 1967 and, aged 94, is still calling for wider reproductive rights",
-      "summary": "Diane Munday, 94, co-founder of British Pregnancy Advice Service and veteran Abortion Law Reform Association member, marked the 1967 Abortion Act with only “half a glass” of champagne—“job only half done”—and continues pushing for full decriminalization. Drawing on her own 1961 abortion and decades of campaigning—lobbying MPs, galvanizing women’s groups, archiving case files—she backed June’s amendment to end criminal probes of terminations and urges removal of the two-doctor rule. Alarmed by the US Roe reversal and Farage’s time-limit bids, she seeks modern abortion law and applauds free morning-after pills.",
-      "summaryTokens": 835,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "Diane Munday, now 94, co-founded the British Pregnancy Advice Service and helped secure the 1967 UK Abortion Act but says “the job is only half done”. Driven by a friend’s death and her own 1961 abortion, she spent decades lobbying, gathering women’s hidden testimonies to shift public opinion. This summer, parliament passed an amendment ending criminal probes into women’s terminations, yet Munday still urges full decriminalisation and removal of two-doctor rules. She warns of US rollbacks post-Roe v Wade, welcomes free morning-after pills, but doubts a modern UK Abortion Act will arrive soon.",
+      "summaryTokens": 893,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/monday-briefing-why-the-us-moved-to-oust-venezuelas-president",
@@ -341,9 +653,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T06:44:18Z",
       "trailText": "In today’s newsletter: Saturday’s capture of Nicolás Maduro by the US was as unexpected as it was swift – but what led Trump to topple the South American regime?",
-      "summary": "Over the weekend US forces launched airstrikes in Venezuela, seized President Nicolás Maduro and wife Cilia Flores, then flew them to New York. Donald Trump said the US will “run” Venezuela to secure its oil for American firms, threatening further strikes if interim VP Delcy Rodríguez doesn’t comply. At least 40 people died. The operation follows years of US “maximum pressure” sanctions and naval deployments. Reactions split: Latin America’s right welcomes it, while leaders like Brazil’s Lula and Chile’s Boric, plus the global south, condemn it. Uncertainty looms over how Washington plans to govern 30 million people across territory twice the size of Iraq with a 15,000-strong Caribbean force.",
-      "summaryTokens": 720,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "Over the weekend, US forces launched airstrikes and seized Venezuelan president Nicolás Maduro and wife Cilia Flores, transporting them to New York. President Trump declared the operation aimed to hand Venezuela’s vast oil infrastructure to US companies and fight alleged narco-trafficking charges against Maduro, who was indicted in 2020. He warned of further strikes if interim leader Delcy Rodríguez refused US demands. The swift action—echoes of Baghdad 2003—followed years of “maximum pressure” sanctions and military threats, deploying 15,000 troops in the Caribbean. The assault, which left over 40 dead, drew mixed regional and global reactions and fresh debates on US interventionism.",
+      "summaryTokens": 1084,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/yulia-lemeshchenko-weightlifting-champion-jailed-by-russia-for-plotting-sabotage-and-assassinations",
@@ -353,9 +665,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T05:00:27Z",
       "trailText": "Yulia Lemeshchenko was defiant and did not deny the accusations, saying she had decided to fight against Russian military aggression",
-      "summary": "Yulia Lemeshchenko, 42, Ukrainian weightlifting champion, disappeared from her Kharkiv gym in autumn 2023 and resurfaced in Moscow accused of plotting sabotage (blowing up power lines near St Petersburg) and an assassination attempt on a Russian air force commander in Voronezh on behalf of Ukrainian intelligence. She was sentenced in November to 19 years. She neither denied nor recanted, saying patriotism and conscience drove her actions after witnessing devastation in Kharkiv. Russian FSB cites training via Telegram bot in Kyiv; evidence includes confession footage and explosives seized. Her trainers express shock and mixed views on the allegations.",
-      "summaryTokens": 1273,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "Yulia Lemeshchenko, 42, a Voronezh-born weightlifter who became Ukraine’s 2021 champion after moving to Kharkiv, was sentenced to 19 years in a Russian prison for allegedly plotting sabotage of power lines near St Petersburg and an assassination attempt on an air force commander. She admitted participating, professed a clear conscience and patriotism driven by Kharkiv’s war devastation. The FSB says she volunteered via a Telegram bot for Ukrainian services; authorities displayed video of her confession and seized alleged explosives and burner phones from her apartment, though experts caution confessions under duress.",
+      "summaryTokens": 1079,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "australia-news/2026/jan/05/us-trump-attack-venezuela-sydney-protest-three-arrested-ntwnfb",
@@ -365,9 +677,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T04:41:11Z",
       "trailText": "About 300 people turned out in Sydney despite NSW police prohibition on public demonstrations, as protests across Australia condemn US actions",
-      "summary": "About 300 people defied a NSW ban on public demonstrations to protest US military intervention in Venezuela in Sydney, where police arrested three—a 53-year-old woman wearing a “globalise the intifada” jacket accused of offensive messaging and two men for alleged breach of the peace. The prohibition follows new post-Bondi terror laws empowering the police commissioner to block unauthorised assemblies. Similar rallies in Melbourne and other cities denounced “regime change” and demanded respect for Venezuelan sovereignty. No charges have been filed. A NSW parliamentary inquiry is examining hate speech laws targeting slogans like “globalise the intifada” ahead of reforms.",
-      "summaryTokens": 1078,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "About 300 people defied an NSW ban to protest in Sydney against US military action in Venezuela after reports that US forces removed President Nicolás Maduro. Police arrested three—including a woman wearing a “globalise the intifada” jacket—for alleged breach of peace and displaying offensive messaging under post-Bondi anti-protest laws. A parliamentary inquiry is examining hate speech bans including that slogan. Similar rallies occurred in Melbourne. Opposition supporters counter-protested. The Venezuelan diaspora in Australia expressed mixed emotions. Prime Minister Albanese urged dialogue and diplomacy.",
+      "summaryTokens": 1132,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/05/ukraine-war-briefing-kyiv-escalating-drone-attacks-on-russia-moscow-claims",
@@ -377,9 +689,9 @@
       "section": "world",
       "publishedDate": "2026-01-05T00:50:54Z",
       "trailText": "Russia’s defence ministry said Ukraine had targeted Moscow with drones every day of 2026 so far. What we know on day 1,412",
-      "summary": "Russia's defence ministry says Ukraine has launched daily drone attacks on Moscow so far in 2026, with Russian air defences downing 57 drones over the capital and 437 nationwide by Sunday. Kyiv's long-range drones aim to disrupt military logistics and energy infrastructure and counter Russian strikes. Three of four Moscow airports closed, causing flight delays. Ukrainian drones killed two in Belgorod and one in Kursk; Russian raids on Kyiv region killed two. Kharkiv saw three wounded and five killed in a recent missile strike. A drone fire hit a battery plant in Yelets with no casualties.",
-      "summaryTokens": 1648,
-      "generatedAt": "2026-01-06T06:35:54.538Z"
+      "summary": "Russia’s defence ministry reports that Ukraine has carried out daily drone strikes on Moscow throughout early 2026, downing 57 drones over the capital and 437 nationwide by Jan 5. Kyiv’s long-range drones target energy and logistics hubs to raise Moscow’s war costs and retaliate for Russian attacks. Three of four Moscow airports closed, causing widespread flight disruptions during New Year. Ukrainian strikes killed two in Belgorod and Kursk; Russia’s overnight raids on Kyiv province and Fastiv killed two. Kharkiv saw five fatalities from a missile strike and three wounded in drone hits. A Ukrainian drone sparked a fire at the Energiya battery plant in Yelets, Lipetsk, with no casualties.",
+      "summaryTokens": 646,
+      "generatedAt": "2026-01-07T03:54:42.941Z"
     },
     {
       "id": "world/2026/jan/04/few-in-caracas-are-celebrating-as-they-face-an-uncertain-post-maduro-future",
