@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2026-01-06T04:36:30.431Z",
+    "generated_at": "2026-01-07T03:37:26.277Z",
     "date_range": {
       "from": "2025-09-19",
       "to": "2026-01-06"
     },
-    "article_count": 184,
+    "article_count": 185,
     "merge_info": {
-      "previous_count": 181,
-      "new_articles": 3,
-      "updated_articles": 1,
-      "total_count": 184
+      "previous_count": 184,
+      "new_articles": 1,
+      "updated_articles": 3,
+      "total_count": 185
     },
     "batch_info": {
-      "initial_batch_id": "batch_695c8fdf5fc881908cfec166a7dc5563",
+      "initial_batch_id": "batch_695dd45332c08190a65d2c67c6c93626",
       "retry_batches": [],
-      "total_tokens": 11293,
-      "processing_time_hours": 0.1
+      "total_tokens": 6943,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2026/jan/06/i-cant-access-my-fathers-legacy-after-solicitors-closed-down",
+      "title": "I can’t access my father’s legacy after solicitors closed down",
+      "webUrl": "https://www.theguardian.com/money/2026/jan/06/i-cant-access-my-fathers-legacy-after-solicitors-closed-down",
+      "apiUrl": "https://content.guardianapis.com/money/2026/jan/06/i-cant-access-my-fathers-legacy-after-solicitors-closed-down",
+      "section": "money",
+      "publishedDate": "2026-01-06T07:00:32Z",
+      "trailText": "The firm that is holding the files has gone out of business, and complaining may take months",
+      "summary": "After her father’s death, a Cornwall freelancer found her probate stalled when Samuel Phillips Law ceased trading without warning, retaining her file and blocking access to her inheritance and tax status. Her new solicitors warned a formal SRA complaint could take months. The Solicitors Regulation Authority had shut down Samuel Phillips and sister firm Hathaways over suspected dishonesty by principal Sufe Miah, then appointed Gordons LLP’s John Owen in Bradford to release electronic files, hold wills and deeds, and disburse client funds. Affected clients should contact Owen for assistance.",
+      "summaryTokens": 477,
+      "generatedAt": "2026-01-07T03:37:26.157Z"
+    },
     {
       "id": "money/2026/jan/05/uk-credit-card-borrowing-fastest-annual-rise-almost-two-years",
       "title": "UK credit card borrowing rises at fastest annual rate in almost two years",
@@ -29,9 +41,9 @@
       "section": "money",
       "publishedDate": "2026-01-06T00:01:24Z",
       "trailText": "Bank of England says individuals borrowed extra £2.1bn in consumer credit in November",
-      "summary": "In November UK consumer credit borrowing rose by £2.1bn vs £1.7bn in October. Net credit card debt climbed by £1bn monthly, with annual credit card growth at 12.1%, the fastest since January 2024. Other consumer credit, including personal loans and car finance, increased by £100m to £1.1bn. StepChange warns 14m households would struggle to afford Christmas amid rising living costs. While UK inflation eased to 3.2%, shop price inflation ticked up to 0.7% in December, driven by a food price rise to 3.3%. Households also added £8.1bn to bank deposits and mortgage approvals dipped to 64,500.",
-      "summaryTokens": 1223,
-      "generatedAt": "2026-01-06T04:36:30.151Z"
+      "summary": "Credit card borrowing surged to a 12.1% annual rise in November—the fastest since Jan 2024—as households added £1bn in card debt and £1.1bn in other consumer credit, lifting total borrowing by £2.1bn. Experts link the spike to Christmas costs and broader living-cost pressures. Meanwhile, UK inflation eased to 3.2%, shop price inflation rose to 0.7%, food prices to 3.3%, and retail sales fell 0.1%. Households also boosted deposits by £8.1bn, while mortgage approvals dropped to 64,500 amid pre-budget caution.",
+      "summaryTokens": 563,
+      "generatedAt": "2026-01-07T03:37:26.157Z"
     },
     {
       "id": "money/2026/jan/05/buy-to-let-landlords-autumn-budget-tax-regulations-interest-rates",
@@ -41,9 +53,9 @@
       "section": "money",
       "publishedDate": "2026-01-05T10:00:33Z",
       "trailText": "Higher taxes and tougher regulations have led to the disappearance of tens of thousands of rental properties",
-      "summary": "In its November budget the UK government announced a 2pp rise in rental income tax from April 2027 – raising rates to 22% for basic, 42% for higher and 47% for additional taxpayers. Combined with higher interest rates, stricter EPC C targets, 170 regulations, 5% extra stamp duty, reduced mortgage-relief and CGT allowances, landlord purchases fell from 15.8% in 2015 to 10.8% in 2025, removing about 200,000 rentals. First-time buyers now account for a record 33% of sales, but the OBR warns shrinking private stock will push rents up. Build-to-rent investment totals £2.6bn yet covers just 2% of the market.",
-      "summaryTokens": 1486,
-      "generatedAt": "2026-01-06T04:36:30.151Z"
+      "summary": "UK buy-to-let landlords face a worsening squeeze as Rachel Reeves’s November budget raises rental tax by 2pp from April 2027 (to 22%/42%/47%), on top of higher interest rates, reduced mortgage relief, a minimum EPC C by 2030, extra stamp duty, slashed CGT allowance and 170 regulations. Landlord acquisitions fell from 15.8% (2015) to 10.8% (2025), with Savills estimating 200K homes removed from the market. Policy aims to aid first-time buyers (33% of 2025 sales) but risks long-term rent rises amid dwindling supply and scarce social housing; build-to-rent remains just 2% of the PRS.",
+      "summaryTokens": 529,
+      "generatedAt": "2026-01-07T03:37:26.157Z"
     },
     {
       "id": "money/2026/jan/05/hmrc-dead-ni-number-pension",
@@ -53,9 +65,9 @@
       "section": "money",
       "publishedDate": "2026-01-05T07:00:28Z",
       "trailText": "It allocated my NI number to a stranger who has died, and will not process my pension top-up request as a result",
-      "summary": "An Irish retiree’s permanent NI number, held since 1991, was erroneously assigned to a deceased individual, leading HMRC to mark him dead and block his pension top-up application. After years of calls, letters, and an 86-week delay forecast following a 2015 temporary NI issue, HMRC belatedly admitted the duplication but says it can’t investigate the 1991 error due to elapsed time and instead insists he obtain a new NI number via DWP for record-merging. It offers just £250 compensation. He’s advised to seek professional advice to avoid missing entitlements or incurring tax liabilities amid these bureaucratic failings.",
-      "summaryTokens": 2162,
-      "generatedAt": "2026-01-06T04:36:30.151Z"
+      "summary": "HMRC misallocated reader’s lifelong national insurance number in 1991 to someone else who died, so when he re-entered the UK in 2015 HMRC lost his original number and issued a temporary replacement. He’s spent a decade trying to recover his original NI number, only to be told he’s “deceased” and barred from pension top-up processing. Under pressure HMRC now admits the duplication error but can’t explain how, and directs him to apply for a new NI number from DWP. It promises to merge records across three NI numbers, offers £250 compensation, and warns entanglement could jeopardise pension or tax entitlements.",
+      "summaryTokens": 1068,
+      "generatedAt": "2026-01-07T03:37:26.157Z"
     },
     {
       "id": "money/2026/jan/04/digital-wallet-fraud-bank-card-stolen-fraud-apple-pay-google-pay",
