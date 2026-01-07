@@ -1,26 +1,302 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-06T06:12:48.511Z",
+    "generated_at": "2026-01-07T03:50:36.042Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-06"
+      "to": "2026-01-07"
     },
-    "article_count": 2116,
+    "article_count": 2139,
     "merge_info": {
-      "previous_count": 2097,
-      "new_articles": 19,
-      "updated_articles": 14,
-      "total_count": 2116
+      "previous_count": 2116,
+      "new_articles": 23,
+      "updated_articles": 22,
+      "total_count": 2139
     },
     "batch_info": {
-      "initial_batch_id": "batch_695ca21e1df08190bbbae2c7b5f0bb8d",
+      "initial_batch_id": "batch_695dd71da3a8819089508aaeeed797df",
       "retry_batches": [],
-      "total_tokens": 73188,
-      "processing_time_hours": 0.4
+      "total_tokens": 100241,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2026/jan/06/trump-administration-childcare-freeze",
+      "title": "Trump administration halts more than $10bn for childcare and family assistance",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/trump-administration-childcare-freeze",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/trump-administration-childcare-freeze",
+      "section": "us-news",
+      "publishedDate": "2026-01-07T02:57:01Z",
+      "trailText": "Democrats condemn move in California, Colorado, Illinois, Minnesota and New York, calling it ‘vindictive’ and ‘cruel’",
+      "summary": "The Trump administration has frozen more than $10 billion in federal childcare and family assistance to five Democratic-led states—California, Colorado, Illinois, Minnesota and New York—citing alleged fraud in the Child Care and Development Fund ($2.4 billion), Temporary Assistance for Needy Families ($7.35 billion) and the Social Services Block Grant ($869 million). HHS said access is restricted pending review but offered no details. Democrats, including Governors Hochul and Newsom’s office and Senator Gillibrand, condemned the action as vindictive, politically motivated and an attack on immigrants, especially Minnesota’s Somali community.",
+      "summaryTokens": 552,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/trump-administration-news-latest-updates-today",
+      "title": "Trump news at a glance: President ramps up saber-rattling for Greenland",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/trump-administration-news-latest-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/trump-administration-news-latest-updates-today",
+      "section": "us-news",
+      "publishedDate": "2026-01-07T02:41:05Z",
+      "trailText": "White House says using US military to secure arctic territory is ‘always an option’ as European leaders push back",
+      "summary": "Trump renews push to acquire Greenland, exploring purchase or military options; Denmark PM warns attack would shatter NATO, and Greenland PM rejects annexation. EU allies France, Germany and Britain urge respect for Danish sovereignty. WH eyes seizing Venezuelan oil, deploying immigration agents to Minnesota, proposing taxpayer-funded oil reimbursement. Democrats decry ICE expansion; experts doubt US investment in Venezuela. Two GOP senators oppose Hegseth’s censure of Sen. Mark Kelly. Other briefs: Brown/MIT shooter video transcripts released; ex-Rep. Doug LaMalfa dies; George Conway runs for Congress; pesticide liability rider dropped; Texas teachers sue over social media probes; NRA sues its foundation.",
+      "summaryTokens": 2177,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/aldrich-ames-cia-agent-dead",
+      "title": "Aldrich Ames, CIA agent who spied for Soviet Union and Russia, dies aged 84",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/aldrich-ames-cia-agent-dead",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/aldrich-ames-cia-agent-dead",
+      "section": "us-news",
+      "publishedDate": "2026-01-07T01:20:32Z",
+      "trailText": "In damaging intelligence breach, Ames admitted to passing information to Moscow for nearly a decade",
+      "summary": "Aldrich Ames, the CIA officer who sold secrets to the Soviet Union and post-Soviet Russia for nearly a decade, has died at 84 in a Maryland prison, the Bureau of Prisons confirmed. Arrested in 1994 with his wife, Rosario, he pleaded guilty to espionage and tax evasion, receiving life without parole while she served just over five years. Ames admitted leaking CIA operations and Western agent identities for $2.5 million, citing chronic debt, and later downplayed the damage. His betrayal, chronicled in Ben Macintyre’s The Spy and the Traitor, remains among the CIA’s worst breaches.",
+      "summaryTokens": 688,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/brown-university-shooter-video-transcripts",
+      "title": "Accused Brown University shooter planned attack for years, video transcripts show",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/brown-university-shooter-video-transcripts",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/brown-university-shooter-video-transcripts",
+      "section": "us-news",
+      "publishedDate": "2026-01-07T01:14:33Z",
+      "trailText": "Justice department translated recordings made in Portuguese by man believed to be behind killings",
+      "summary": "The accused Brown University shooter, a Portuguese national and former graduate student enrolled in 2000–01, planned the Dec. 13–15 attacks for six semesters, DOJ-translated video transcripts reveal. He killed two students—Ella Cook and MukhammadAziz Umurzokov—in a Brown engineering classroom, wounded nine others, then fatally shot MIT physicist Nuno FG Loureiro at his Brookline home. Law enforcement found him days later dead by self-inflicted gunshot in a Salem, NH storage unit alongside the recording device. In the videos he denies mental illness or manifesto intent, labels the killings “incompetent,” and claims no regrets.",
+      "summaryTokens": 559,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/nick-reiner-arraignment-murder-rob-reiner",
+      "title": "Nick Reiner to appear in court for arraignment over murder of parents ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/nick-reiner-arraignment-murder-rob-reiner",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/nick-reiner-arraignment-murder-rob-reiner",
+      "section": "us-news",
+      "publishedDate": "2026-01-07T00:11:28Z",
+      "trailText": "The son of acclaimed director Rob Reiner and Michele Singer Reiner faces two counts of first-degree murder",
+      "summary": "Nick Reiner, 32, son of director Rob Reiner and photographer Michele Singer Reiner, is scheduled to be arraigned on Jan 6 in Los Angeles for two counts of first-degree murder, special circumstances of multiple killings and use of a dangerous weapon, after his parents were found fatally stabbed at their home. Held without bail since last month, he has a history of addiction and mental illness. Authorities say the couple died minutes after sustaining multiple sharp-force injuries. If convicted, he could face life without parole or death. His attorney cites complex psychiatric issues.",
+      "summaryTokens": 1249,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/trump-greenland-control-us-military",
+      "title": "White House says using US military is ‘always an option’ for acquiring Greenland ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/trump-greenland-control-us-military",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/trump-greenland-control-us-military",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T23:45:09Z",
+      "trailText": "European leaders push back forcefully against US president’s desire to seek takeover of Arctic territory",
+      "summary": "White House press secretary Karoline Leavitt said on Jan. 6 that President Trump views acquiring Greenland as a national security priority and is considering “a range of options,” including military intervention. European NATO allies—France, Germany, Britain—and Denmark’s PM Mette Frederiksen condemned any seizure, warning an attack would end postwar security. Greenland’s PM Jens-Frederik Nielsen labeled annexation fantasies “completely unacceptable.” White House deputy chief Stephen Miller questioned Denmark’s sovereignty. The White House reportedly prefers buying the island over invasion. Polls show only 7% of Americans back a military takeover. Strategic Arctic bases and NATO ties prompted urgent diplomatic talks.",
+      "summaryTokens": 1453,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/january-6-us-capitol-attack-fifth-anniversary",
+      "title": "Republicans silent and Democrats incensed on fifth anniversary of US Capitol attack",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/january-6-us-capitol-attack-fifth-anniversary",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/january-6-us-capitol-attack-fifth-anniversary",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T23:12:55Z",
+      "trailText": "Democrats hold hearing to examine impact of January 6, while protesters commemorate attack on Capitol grounds",
+      "summary": "On the fifth anniversary of the January 6 attack, Congressional Republicans largely stayed silent while House Democrats held an unofficial hearing to condemn Donald Trump’s pardons of nearly 1,500 insurrectionists, decry his threat to democracy and demand accountability. A bipartisan committee earlier concluded Trump intended to disrupt the transition. Former Capitol police officer Winston Pingeon and pardoned rioter Pam Hemphill testified. Some Republicans, like Mike Collins, downplayed the violence as a “peaceful tour,” and White House communications director Steven Cheung promoted a distorted timeline online. Pro-Trump protesters marched to the Capitol, laid flowers for Ashli Babbitt, and Enrique Tarrio forecast annual January 6 commemorations.",
+      "summaryTokens": 1275,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/minnesota-immigration-agents-trump",
+      "title": "Trump administration escalates attack on Minnesota with more immigration agents",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/minnesota-immigration-agents-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/minnesota-immigration-agents-trump",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T21:03:59Z",
+      "trailText": "Another 2,000 ICE and homeland security agents will reportedly head to the state, targeting immigrant populations",
+      "summary": "The Trump administration has deployed roughly 2,000 additional ICE and Homeland Security agents to Minnesota for 30 days under 'Operation Metro Surge,' its largest statewide enforcement action targeting alleged criminal illegal aliens and social‐services fraud. Acting ICE chief Todd Lyons and DHS secretary Kristi Noem are overseeing door-to-door raids on employers and high-profile arrests, including a murder suspect from Ecuador. Since early December, community groups have protested and many immigrants, notably Minnesota’s large Somali population, have avoided public spaces. Governor Tim Walz denounces the surge as a federal assault driven by xenophobic rhetoric.",
+      "summaryTokens": 546,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/texas-charlie-kirk-social-media",
+      "title": "Top union accuses Texas of targeting teachers over Charlie Kirk posts",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/texas-charlie-kirk-social-media",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/texas-charlie-kirk-social-media",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T20:54:59Z",
+      "trailText": "American Federation of Teachers sues over what it says are unconstitutional investigations into social media comments",
+      "summary": "Texas AFT, representing 66,000 educators, sued the Texas Education Agency and Commissioner Mike Morath over a Sept. 6 directive ordering superintendents to report teachers’ social media comments about conservative activist Charlie Kirk’s September killing. The union argues investigations into over 350 complaints—95 still open—violate teachers’ First Amendment rights, noting disciplinary actions against four off-duty educators who posted personal, non-disruptive remarks. The suit seeks to block and declare unconstitutional all probes, compel corrective guidance clarifying that such posts need not be reported, but requests no monetary damages.",
+      "summaryTokens": 865,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/trump-oil-companies-venezuela",
+      "title": "Trump says US companies will invest billions in Venezuelan oil production. Experts aren’t so sure",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/trump-oil-companies-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/trump-oil-companies-venezuela",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T18:19:13Z",
+      "trailText": "Industry insiders say US oil companies want to ‘avoid getting screwed’ and will proceed with extreme caution",
+      "summary": "Donald Trump predicted US majors would invest “billions” to fix Venezuelan oil infrastructure and boost output within 18 months of Maduro’s ouster. Experts warn that without an “iron-clad guarantee” of full US government reimbursement and sovereign-risk protection, ExxonMobil, Chevron and Conoco will proceed cautiously. Analysts forecast a three-year timeline to add about 0.5 million barrels per day by 2029 at a cost exceeding $10 billion, while restoring pre-2010 output near 2.5 million bpd could require $80–90 billion over six to seven years.",
+      "summaryTokens": 493,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/nra-sues-charity",
+      "title": "NRA sues the charitable version of itself, alleging a factional ‘beef’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/nra-sues-charity",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/nra-sues-charity",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T17:13:15Z",
+      "trailText": "New leadership claims former allies are trying to repurpose $160m in NRA Foundation donations for personal gain",
+      "summary": "NRA under new CEO Doug Hamlin has filed suit in federal DC court against its charitable arm, the NRA Foundation, accusing a LaPierre-​aligned faction of ousting the NRA’s board and seeking to divert $160 million in tax-​deductible donations toward its own power struggle. The 36-​page complaint seeks to block the foundation’s use of NRA trademarks and name, arguing donor intent was to fund public-​interest programs—gun safety, marksmanship instruction—not personal vendettas by expelled directors. The lawsuit stems from fallout of the 2024 financial scandal that ousted Wayne LaPierre amid misuse findings and a New York verdict on executive misspending.",
+      "summaryTokens": 884,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/doug-lamalfa-dies-california",
+      "title": "Doug LaMalfa, California Republican congressman, dies aged 65",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/doug-lamalfa-dies-california",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/doug-lamalfa-dies-california",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T17:06:05Z",
+      "trailText": "LaMalfa’s death cuts the House Republican majority to 218-213, tightening GOP control for passing bills",
+      "summary": "Doug LaMalfa, 65, a Republican congressman in his seventh term representing California’s rural 1st district and a fourth-generation rice farmer known for water and forestry policy, died Jan. 5 during emergency surgery in Chico; no cause has been released. His death cuts the GOP House majority to 218–213, narrowing margins on party-line measures. A Trump ally who challenged the 2020 election certification, LaMalfa chaired the Congressional Western Caucus and backed wildfire recovery tax relief. Tributes came from GOP colleagues and former President Trump.",
+      "summaryTokens": 474,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/george-conway-run-congress-democrat",
+      "title": "George Conway, a former anti-Trump Republican, to run for Congress as a Democrat",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/george-conway-run-congress-democrat",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/george-conway-run-congress-democrat",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T16:02:38Z",
+      "trailText": "Conway, a conservative lawyer and ex-husband of Trump adviser Kellyanne Conway, is vying for a New York district seat",
+      "summary": "George T. Conway III, a conservative lawyer and ex-Republican turned anti-Trump activist who co-founded the Lincoln Project and is the ex-husband of Kellyanne Conway, has launched a Democratic bid for New York’s 12th congressional district seat vacated by retiring Rep. Jerry Nadler. Conway denounced President Trump as corrupt and pledged to defend democracy. He joins a crowded primary field of at least nine contenders, including Jack Schlossberg, state assembly members Alex Bores and Micah Lasher, and Parkland survivor activist Cameron Kasky.",
+      "summaryTokens": 604,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/epstein-files-release-justice-department",
+      "title": "US justice department has released less than 1% of Epstein files, filing reveals",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/epstein-files-release-justice-department",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/epstein-files-release-justice-department",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T14:54:52Z",
+      "trailText": "Federal law required majority of documents to be released by 19 December, but only 125,575 pages have been published",
+      "summary": "A court filing shows the DOJ has released just 12,285 of more than two million Epstein-related records (125,575 pages), under 1% of files a law required by December 19. AG Pam Bondi told Judge Engelmayer that redactions to protect victims’ identities and resource-intensive review by roughly 400 DOJ attorneys and 100 FBI analysts have slowed compliance. Senate minority leader Chuck Schumer and other lawmakers accuse the Trump DOJ of deliberate delay and heavy redactions, threatening contempt actions, as no major new co-conspirator evidence has emerged.",
+      "summaryTokens": 474,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/pete-hegseth-censure-mark-kelly-republicans",
+      "title": "Two Republicans oppose Pete Hegseth’s censure of fellow Senator Mark Kelly",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/pete-hegseth-censure-mark-kelly-republicans",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/pete-hegseth-censure-mark-kelly-republicans",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T14:40:30Z",
+      "trailText": "Pushback from Susan Collins and Thom Tillis is striking amid tepid response from most other Republican senators",
+      "summary": "Two senior Republican senators, Maine’s Susan Collins and North Carolina’s Thom Tillis, publicly rebuked Pentagon Secretary Pete Hegseth’s efforts to demote and strip Senate colleague Mark Kelly’s pension after Kelly released a video urging active‐duty troops to obey the law. Collins called targeting Kelly’s military benefits for partisan speech “inappropriate”; Tillis deemed the move “ridiculous” and warned of a chilling effect on free expression. Other GOP senators offered noncommittal or procedural responses. Hegseth initiated a retirement‐grade review, labeling Kelly’s video “reckless” and “seditious.” Kelly, a former Navy captain and astronaut, slammed the censure as “un-American” intimidation.",
+      "summaryTokens": 640,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/first-thing-us-foes-allies-denounce-trump-crime-of-aggression-venezuela",
+      "title": "First Thing: US foes and allies denounce Trump’s ‘crime of aggression’ in Venezuela",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/first-thing-us-foes-allies-denounce-trump-crime-of-aggression-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/first-thing-us-foes-allies-denounce-trump-crime-of-aggression-venezuela",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T14:10:21Z",
+      "trailText": "Brazil, China, Colombia, Cuba, Eritrea, Mexico, Russia, South Africa and Spain condemn attack at UN meeting. Plus, why the world’s food system needs urgent change",
+      "summary": "At an emergency UN Security Council session, Brazil, China, Colombia, Cuba, Eritrea, Mexico, Russia, South Africa and Spain condemned Trump’s deadly strikes on Venezuela and capture of President Nicolás Maduro as a 'crime of aggression' endangering sovereignty. Maduro pleaded not guilty in Manhattan on narcotics and 'narco-terrorism' counts. Domestically, Democrats probe ICE’s diversion of 28,000+ officers, pausing child-exploitation and drug investigations, and Denmark’s PM warns a US attack on Greenland would fracture NATO. Other briefs cover vaccine rollbacks, G7 tax carve-outs, California gas-limit lawsuits, Venezuela’s 303bn-barrel reserves and culture and climate digests.",
+      "summaryTokens": 1750,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "world/2026/jan/06/cilia-flores-maduros-wife-venezuela",
+      "title": "‘She was the brains, Maduro was the brawn’: Cilia Flores’s role in Venezuela",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/06/cilia-flores-maduros-wife-venezuela",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/06/cilia-flores-maduros-wife-venezuela",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T14:06:50Z",
+      "trailText": "Flores, Nicolás Maduro’s wife, wielded far more power than just being a first lady and played a front line role in politics",
+      "summary": "Before pleading not guilty in New York on narco-terrorism and drug trafficking charges, Cilia Flores — long called Nicolás Maduro’s “first combatant” — was more than Venezuela’s first lady. A lawyer who met Maduro in the 1990s during Chávez’s imprisonment, she served as national assembly president in 2006, controlled judicial appointments, and installed relatives in state posts. Described as the regime’s “brains,” she and Maduro allegedly profited from large-scale cocaine smuggling via the Cartel de los Soles. Flores and her nephews face US indictments; she denies wrongdoing and claims injuries from her capture.",
+      "summaryTokens": 874,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/trump-venezuela-oil-climate-crisis",
+      "title": "Trump taking ‘drill, baby, drill’ plan to Venezuela ‘terrible’ for climate, experts warn",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/trump-venezuela-oil-climate-crisis",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/trump-venezuela-oil-climate-crisis",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T13:00:13Z",
+      "trailText": "‘Everybody loses’ if production supercharged in country with largest known oil reserves, critics say",
+      "summary": "Trump’s removal of President Maduro and claim over Venezuela’s 300bn-barrel reserves extends his “drill, baby, drill” agenda abroad. He urges US oil majors to invest billions, rescind state-ownership rules and push output toward 3.7m bpd. Experts warn a rise to 1.5m bpd adds 550m tons of CO₂ annually, derails global efforts to limit warming, undercuts renewables and imperils climate targets. Venezuela’s heavy crude is particularly carbon-intensive. Industry balks at political, financial and infrastructure risks—+$10 bn for +500k bpd in two years, $110 bn for Orinoco Belt. Critics condemn this as neo-colonial fossil-fuel imperialism that sacrifices climate for profit.",
+      "summaryTokens": 1630,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/michigan-utilities-political-donations",
+      "title": "Michigan loophole makes it difficult to track utilities’ donations to politicians",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/michigan-utilities-political-donations",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/michigan-utilities-political-donations",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T12:00:12Z",
+      "trailText": "Revelation comes as a first-in-the-nation citizen’s ballot initiative to ban donations by utilities picks up steam",
+      "summary": "An investigation of Michigan’s 2025 campaign finance records uncovers a reporting loophole letting DTE Energy and Consumers Energy PAC donations evade timely disclosure. Of 348 contributions reviewed, 89% show mismatched donation and receipt dates, and 37% remained unreported past the Oct. 20 deadline. Utility PACs funneled roughly $100,000 to lawmakers around the Sept. 5 vote on carbon sequestration—$40,000 still absent from reports as of mid-December—and similar delays occurred around data center bills and a regulatory appointment. Advocates say the opaque process undermines accountability, boosting a ballot measure to ban utility political donations.",
+      "summaryTokens": 1072,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/january-6-trump-us-capitol-attack",
+      "title": "January 6, five years on: sustained effort by Trump to rewrite history",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/january-6-trump-us-capitol-attack",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/january-6-trump-us-capitol-attack",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T11:00:04Z",
+      "trailText": "President and Republican allies have tried to make sure the deadly attack on the Capitol has been erased from memory",
+      "summary": "Five years after Jan 6, Trump pardoned 1,500 rioters, settled a $5 m wrongful death suit for Ashli Babbitt’s family, and his allies in the DOJ demoted career prosecutors and dropped key charges (e.g. Jared Wise). Republicans refuse to install a commemorative plaque, critics warn these legal and symbolic erasure efforts endanger democracy by rewriting unadulterated mob violence. Post-acquittal GOP consolidation propelled Trump’s comeback; special counsel Jack Smith’s probe endures despite dropped charges and Supreme Court rulings shielding Trump from disqualification and prosecution.",
+      "summaryTokens": 1125,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/ice-trump-democrats-letter",
+      "title": "US abandons child exploitation and drug cases to prioritize ICE, Democrats allege",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/ice-trump-democrats-letter",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/ice-trump-democrats-letter",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T11:00:02Z",
+      "trailText": "Exclusive: Letter decries ‘stunning abdication of basic responsibilities’ and demands to know how many officers diverted",
+      "summary": "In a letter to President Trump, 29 Democratic senators led by Ruben Gallego accuse the administration of diverting over 28,000 federal law-enforcement personnel—including FBI, DEA, ATF, U.S. Marshals and Homeland Security Investigations—from child exploitation, human trafficking, cartel, cybercrime and drug investigations to immigration enforcement. They demand a full accounting of reassignments and affected cases by January 19, citing an August 2025 Cato Institute report and a New York Times probe showing declines in narcotics arrests and weapons seizures. ICE has hired over 12,000 officers in the past year and holds a record 68,400 detainees, many non-criminal. The White House defends its record.",
+      "summaryTokens": 1789,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/06/barry-pollack-nicolas-maduro-lawyer",
+      "title": "Maduro’s legal team includes acclaimed lawyer who represented Julian Assange",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/06/barry-pollack-nicolas-maduro-lawyer",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/06/barry-pollack-nicolas-maduro-lawyer",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T09:00:32Z",
+      "trailText": "Barry Pollack, a US trial lawyer, will take on the case as the captured Venezuelan president’s private counsel",
+      "summary": "Barry Pollack, a partner at Harris St Laurent & Wechsler and celebrated US trial lawyer noted for securing Julian Assange's 2024 UK release via a plea deal, has been retained as Nicolás Maduro's private counsel in New York federal court. Maduro faces drug-terrorism, cocaine-importation and weapons charges, labelled a “narco-terrorist” by prosecutors, with potential life sentences. Pollack, praised for jury advocacy and crisis management, will challenge Maduro’s US abduction and assert head-of-state immunity, drawing on his record overturning wrongful convictions, teaching at Georgetown and serving as past president of the National Association of Criminal Defense Lawyers.",
+      "summaryTokens": 1084,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "us-news/2026/jan/05/maduro-pleads-not-guilty",
+      "title": "Deposed Maduro pleads not guilty after capture in shock US attack on Venezuela",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/05/maduro-pleads-not-guilty",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/05/maduro-pleads-not-guilty",
+      "section": "us-news",
+      "publishedDate": "2026-01-06T07:54:34Z",
+      "trailText": "President protests innocence in US court as countries at UN meeting condemn Donald Trump’s ‘crime of aggression’",
+      "summary": "Nicolás Maduro, deposed Venezuelan president, pleaded not guilty in a 30-minute Manhattan federal arraignment to four US charges—narco-terrorism conspiracy, cocaine importation and weapons offenses—two days after US special forces captured him in a Trump-ordered raid. Shackled at the ankles, he insisted he remains Venezuela’s legitimate president and “a prisoner of war.” His wife Cilia Flores also pleaded not guilty, citing injuries in the pre-dawn operation that killed at least 40. At an adjacent UN Security Council emergency meeting, a dozen nations and Secretary-General Guterres condemned the action as a crime of aggression.",
+      "summaryTokens": 563,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
     {
       "id": "us-news/2026/jan/05/venezuela-mike-johnson-speaker-congress-briefing",
       "title": "US ‘not at war’ in Venezuela, Johnson says after briefing with top officials",
@@ -29,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-06T03:03:23Z",
       "trailText": "Speaker says Trump not looking to take control militarily as Democrats say briefing raises more questions than answers",
-      "summary": "Speaker Mike Johnson told Congress after a closed-door briefing that the US is 'not at war' in Venezuela despite President Trump’s weekend operation to detain Nicolás Maduro and assert control. Johnson said it aims for behavioral change through oil sanctions rather than regime change, backing interim leader Delcy Rodríguez and pushing for elections. Democrats, led by Chuck Schumer, complained the meeting raised more questions than answers and warned of unchecked executive power. Maduro, indicted in New York on narco-terrorism charges, has pleaded not guilty. UN members condemned the raid as aggression. Senate judiciary leaders protested being excluded, Democrats plan a war powers vote this week.",
-      "summaryTokens": 1263,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "After a weekend raid to capture Nicolás Maduro, who was arrested along with his wife, indicted on narco-terrorism and weapons charges and pleaded not guilty, House Speaker Mike Johnson insisted the US is \"not at war\" in Venezuela with no troops occupying it. He described Trump’s move as behavior-change pressure via oil sanctions and support for interim leader Delcy Rodríguez. Democrats, led by Chuck Schumer, said the classified briefing raised more questions, plan a War Powers resolution, and joined UN and Judiciary panels in decrying the incursion as an act of aggression and exclusionary.",
+      "summaryTokens": 2725,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/trump-officials-sue-california-cities",
@@ -41,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-06T02:35:07Z",
       "trailText": "Suit against San Francisco-area cities Petaluma and Morgan Hill latest attack on policies that seek to rein in oil and gas",
-      "summary": "The Trump administration sued San Francisco–area cities Petaluma and Morgan Hill on Jan. 5, seeking to block their 2019 ordinances that ban natural-gas infrastructure and appliances in new construction. DOJ attorneys argue these local bans violate a 1975 federal law barring states and municipalities from regulating the “energy use” of products under federal standards. Filed in US District Court in Northern California, the complaint claims the bans impose “crushing costs” on residents. The suit marks the administration’s latest challenge to subnational fossil-fuel restrictions following a 2023 appeals-court ruling against Berkeley’s gas ban. Local and state officials have not yet commented.",
-      "summaryTokens": 945,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "On Jan. 5, the Trump administration sued Morgan Hill and Petaluma in US District Court (N.D. Cal.), challenging local 2019 ordinances banning natural gas infrastructure in new construction. DOJ attorneys argue these rules violate the federal 1975 Energy Policy and Conservation Act by regulating the “energy use” of appliances subject to federal standards and impose unlawfully “crushing costs.” The action follows a 2023 appeals court decision against Berkeley’s gas ban. City officials, Gov. Newsom and AG Bonta have not commented. Both cities had earlier joined lawsuits over Trump-era funding restrictions and sanctuary policies.",
+      "summaryTokens": 1575,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/trump-news-maduro-venezuela-court",
@@ -53,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-06T02:00:04Z",
       "trailText": "Trump’s moves spark global wave of revulsion and fears that similar actions could happen in other countries",
-      "summary": "Deposed Venezuelan president Nicolás Maduro appeared in a Manhattan federal court Monday to plead not guilty to charges of drug trafficking, weapons possession and narco-terrorism two days after his capture by U.S. special forces on Donald Trump’s orders. Maduro, who insists he remains Venezuela’s legitimately elected leader and calls himself a prisoner of war, faces an indictment filed by Attorney General Pam Bondi that echoes Trump’s claim the unilateral raid was needed to stem drug flows and seize “stolen” oil. In an emergency U.N. Security Council session, a dozen nations condemned the operation as a “crime of aggression” and breach of international law, while analysts warned the bold intervention could signal a return to U.S. imperialism in Latin America and spark similar actions against Colombia, Cuba or Iran.",
-      "summaryTokens": 585,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Former Venezuelan president Nicolás Maduro pleaded not guilty to narco-terrorism, drug and weapons charges at a brief arraignment in Manhattan two days after US special forces, on Trump’s orders, captured him at his Caracas home. UN Security Council members denounced the US action as a “crime of aggression” and breach of international law. Maduro, insisting he remains Venezuela’s legitimate president, has vowed to fight the charges as Trump touts the operation as necessary to halt drug flows and secure oil assets, alarming global critics of US imperialism.",
+      "summaryTokens": 1047,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/arizona-supreme-court-evacuated-package-explosives",
@@ -65,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T23:05:30Z",
       "trailText": "Department of education, across the street from the supreme court, also evacuated",
-      "summary": "On Jan. 5 in Phoenix, the Arizona Supreme Court building was evacuated after multiple vials sent to its mailroom tested positive for a homemade explosive substance. At about 8 a.m., the Department of Public Safety responded to a suspicious package report; by mid-morning, ATF agents and Phoenix police joined the operation. At 10:30 a.m., staff were sent home and the courthouse locked down. Nearby offices—including the state Department of Education across the street—were also cleared. DPS is leading the investigation into the package’s origin.",
-      "summaryTokens": 674,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "On Monday morning at about 8am, Arizona DPS responded to a suspicious package at the state Supreme Court building in Phoenix. Multiple vials in the mailroom tested positive for a homemade explosive, triggering evacuations of the court and the Department of Education across the street. By 10:30am, staff were sent home as DPS led the investigation with Phoenix PD and the ATF to determine the package’s origin and intended target.",
+      "summaryTokens": 390,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/ice-hilton-minneapolis",
@@ -77,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T21:34:51Z",
       "trailText": "Move sparks praise but chain says hotel independently operated and cancellations ‘not reflective of Hilton values’",
-      "summary": "ICE agents’ reservations at an independently owned Minneapolis Hilton were canceled after bookings via official emails, reportedly to protest the deployment against Somali immigrants. Hilton’s corporate office disavowed the decision, labeling the actions 'not reflective of Hilton values,' and said it’s investigating, working with Everpeak Hospitality to rebook affected guests. Everpeak apologized, reaffirming its non-discrimination policy. The incident prompted polarized one- and five-star Google reviews and local protests outside hotels hosting ICE, while federal officials defend fraud probes into Minnesota’s Somali community as a critical issue. Hilton shares dipped 1.5% in afternoon trading amid the controversy.",
-      "summaryTokens": 1263,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "At a Minneapolis Hampton Inn franchise under Hilton, staff canceled reservations for ICE agents booked at government rates, citing an influx of DHS bookings. DHS posted emails showing the hotel’s operator barred ICE stays. Hilton corporate said the property is independently owned, actions “not reflective” of brand values, and apologized, contacting impacted agents, investigating, and planning to remove the franchise from its system. Owner Everpeak Hospitality echoed apologies. Online reviews polarized. Protests have targeted hotels housing ICE. The incident ties into federal fraud probes in Minnesota’s Somali community.",
+      "summaryTokens": 594,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/nicolas-maduro-protests-new-york-court",
@@ -89,33 +365,33 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T21:08:27Z",
       "trailText": "Some demonstrators celebrated the Venezuelan president’s detention while others spoke out against US imperialism",
-      "summary": "Dozens of Venezuelan demonstrators braved freezing weather outside a Manhattan federal courthouse as Nicolás Maduro pleaded not guilty to US drug-trafficking and weapons charges. Some diaspora members, like Alejandro Flores, cheered “justice” and urged free elections, while Seattle activist Izzy McCabe denounced US “imperialism” and called for respect of international law. Asylum seeker Pedro Reyes recounted regime violence, and community group Venezuelans and Immigrants Aid warned of relatives’ risks amid Venezuela’s economic collapse. Protest signs ranged from “Free President Maduro” to “Thank you, President Trump.”",
-      "summaryTokens": 805,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
-    },
-    {
-      "id": "us-news/2026/jan/05/maduro-pleads-not-guilty",
-      "title": "Deposed Maduro pleads not guilty after capture in shock US attack on Venezuela",
-      "webUrl": "https://www.theguardian.com/us-news/2026/jan/05/maduro-pleads-not-guilty",
-      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/05/maduro-pleads-not-guilty",
-      "section": "us-news",
-      "publishedDate": "2026-01-05T20:53:02Z",
-      "trailText": "President protests innocence in US court as countries at UN meeting condemn Donald Trump’s ‘crime of aggression’",
-      "summary": "The deposed Venezuelan president Nicolás Maduro pleaded not guilty Monday in Manhattan federal court to US narco-terrorism, cocaine importation and weapons charges after his capture by US special forces in a Trump-ordered raid that killed at least 40 people and was denounced at an emergency UN session as a “crime of aggression”. Shackled, Maduro—insisting he remains president—and first lady Cilia Flores, who was injured and also arraigned, face life sentences. Defense counsel will seek bail citing “military abduction” amid global backlash and legal concerns over international law.",
-      "summaryTokens": 1566,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "At New York’s federal courthouse, dozens braved freezing temperatures to protest US seizure and trial of Venezuelan president Nicolás Maduro on drug-trafficking and weapons charges. Supporters like Caracas migrant Alejandro Flores chanted “justice” for Maduro’s detention, blaming him for Venezuela’s economic collapse. Opponents including Izzy McCabe of Freedom Road Socialist decried “US imperialism” and defended Venezuelan sovereignty. As asylum-seeker Pedro Reyes and group Venezuelans and Immigrants Aid warned of diaspora fears over family safety and humanitarian collapse, protesters carried flags and signs from “Free Maduro” to “USA, Hands Off Venezuela.”",
+      "summaryTokens": 1203,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/corporation-for-public-broadcasting-board-dissolves",
-      "title": "Corporation For Public Broadcasting formally dissolves after federal funding cuts",
+      "title": "Corporation for Public Broadcasting formally dissolves after federal funding cuts",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/05/corporation-for-public-broadcasting-board-dissolves",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/05/corporation-for-public-broadcasting-board-dissolves",
       "section": "us-news",
       "publishedDate": "2026-01-05T20:42:28Z",
       "trailText": "Board of directors vote to dissolve organization after nearly 60 years in operation after funding cuts under Trump",
-      "summary": "The US nonprofit Corporation for Public Broadcasting (CPB) announced Monday its board voted to dissolve the 58-year-old entity after Congress, following pressure from former president Trump and Project 2025, cut $1.1 billion in federal grants. Established by the Public Broadcasting Act of 1967 to allocate roughly $500 million annually to NPR, PBS and 1,500 local stations—many serving rural news-desert areas—CPB said dissolution was necessary to safeguard public media integrity. Despite $70 million in “rage giving,” an estimated 15% of stations risk closure within three years without restored funding.",
-      "summaryTokens": 498,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Established by the 1967 Public Broadcasting Act to allocate $500 m annually to NPR, PBS and 1 500 locally owned stations, the Corporation for Public Broadcasting announced its board voted to dissolve after $1.1 bn in Trump-era funding cuts—driven by Project 2025 and GOP memos—left it defunded and vulnerable. Over half of its 544 outlets serve rural communities, delivering public media to 99% of the US. A $70 m “rage-giving” surge has buffered stations, but analysts warn 15% could fold in three years. CPB’s chair believes a new Congress may restore support.",
+      "summaryTokens": 1263,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
+    },
+    {
+      "id": "technology/2026/jan/05/california-tool-delete-personal-information",
+      "title": "New tool allows Californians to request data brokers to delete personal details",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/05/california-tool-delete-personal-information",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/05/california-tool-delete-personal-information",
+      "section": "us-news",
+      "publishedDate": "2026-01-05T20:10:22Z",
+      "trailText": "State seeks to give residents greater control over their personal data and have fewer messages forced upon them",
+      "summary": "California’s new Delete Request and Opt-Out Platform (Drop) launched on Jan. 1 under the 2023 Delete Act, letting 40 million residents submit a single request to 500 registered data brokers to stop selling their personal details—public records, browsing history, location data, etc. Brokers begin processing requests Aug. 1. Touted as the world’s first government-run mass-deletion tool, Drop aims to reduce the time, cost and friction of individual opt-outs, giving Californians greater control over their data and cutting unwanted calls, emails and texts.",
+      "summaryTokens": 475,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/nicolas-maduro-court-new-york",
@@ -125,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T20:00:03Z",
       "trailText": "The Venezuelan leader entered a heartfelt not guilty plea – and told a member of the gallery he was a prisoner of war",
-      "summary": "Nicolás Maduro, escorted from Caracas to a Manhattan federal courtroom in ankle shackles, pleaded not guilty to narco-terrorism charges brought by the US Justice Department. Joined by wife Cilia Flores—both in color-coordinated jail attire and using live Spanish translation—they defied allegations, insisted on their innocence and Maduro decried his ‘abduction’ as a ‘prisoner of war.’ Judge Alvin Hellerstein confirmed their identities, set a March 17 conference and, at Maduro’s request, agreed to let him review charging papers privately. They reserved bail motions, sought medical care for Flores’s injuries, and after the hearing Maduro lobbied to keep his notes as US marshals intervened.",
-      "summaryTokens": 1147,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "In a surreal Manhattan arraignment following a U.S. military operation that seized him in Caracas, Venezuelan president Nicolás Maduro, cuffed in ankle shackles, pleaded not guilty to narco‐terrorism charges, declaring “soy inocente” and insisting he’s a prisoner of war. Flanked by first lady Cilia Flores (also pleading innocent and citing injuries), Maduro used provided translation, scribbled notes, and challenged the indictment’s legitimacy. Judge Hellerstein scheduled a March 17 conference. Neither sought bail; both requested medical care. The gallery heckled him as he departed.",
+      "summaryTokens": 544,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/a-warning-not-an-insult-us-doubles-down-on-attack-on-europe",
@@ -137,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T19:35:09Z",
       "trailText": "Forecast of Europe’s ‘civilisational erasure’ was part of call for pro-growth reform, says Trump official",
-      "summary": "The Trump administration defended its US national security strategy’s warning of Europe’s “civilisational erasure” from migration, low birthrates and censorship as a call for pro-growth reform, not an insult. US undersecretary Jacob Helberg said Washington views Europe’s relative GDP decline as a crisis needing drastic deregulation to unlock talent, capital and US investment. The US has threatened to keep 50% steel tariffs if the EU doesn’t revoke tech laws targeting billionaires like Musk. Europe’s growth lags—Germany grew 0% in Q3 2025; the EU forecasts 1.4% in 2025—while US GDP rose 4.3%.",
-      "summaryTokens": 570,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "The Trump administration defended its controversial US national security strategy’s depiction of Europe facing “civilisational erasure” as a necessary warning to revitalize an ally’s economy, not an insult. US Under-Secretary Jacob Helberg argued Europe’s shrinking global GDP share and heavy regulation constitute a crisis demanding pro-growth reforms—simplified rules to free talent, attract US investment and condition lifting 50% steel tariffs on rolling back EU tech restrictions. He said a robust Europe remains essential for the 70-year-old transatlantic alliance amid modest EU growth versus a 4.3% US rebound in Q3 2025.",
+      "summaryTokens": 952,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/jd-vance-cincinnati-ohio-home",
@@ -149,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T18:32:51Z",
       "trailText": "William Defoor, 26, to appear in court Tuesday after arrest for alleged attack on vice-president’s Cincinnati home",
-      "summary": "William Defoor, 26, of Crestview Hills, Ky., is in custody after the Secret Service and Cincinnati police arrested him early Monday for hammering and breaking multiple windows at Vice-President JD Vance’s Cincinnati riverfront home and vandalizing a Secret Service vehicle. Defoor faces misdemeanor counts—vandalism, criminal trespass, criminal damaging and obstruction of official business—and is due in court Tuesday. He previously entered mental health court for a 2024 vandalism case. Vance, away in DC, thanked law enforcement on X and criticized media for publishing images of his home.",
-      "summaryTokens": 546,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "William Defoor, 26, was arrested early Monday for allegedly hammering ground-floor windows and vandalizing a Secret Service vehicle outside Vice-President JD Vance’s Cincinnati home. Secret Service and Cincinnati police detained him shortly after midnight; court records show he’ll face misdemeanor charges of trespass, vandalism and obstruction, and that he had a prior 2024 vandalism case in mental health court. Vance, back in Washington, thanked law enforcement and asked media not to expose his children to images of the damaged residence. The Secret Service is coordinating with the U.S. attorney’s office amid heightened security after recent attacks on public officials.",
+      "summaryTokens": 1330,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/02/kentucky-woman-arrest-abortion",
@@ -161,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T17:55:07Z",
       "trailText": "Kentucky woman reportedly ordered medication to end her pregnancy and buried remains in her yard",
-      "summary": "Kentucky police arrested 35-year-old Melinda S. Spencer in Beattyville on first-degree fetal homicide, abuse of a corpse and evidence-tampering charges after she allegedly ordered abortion pills online, ended a \"developed\" pregnancy and buried fetal remains in her backyard. While Kentucky prohibits clinician-performed abortions after conception, its fetal homicide law exempts a pregnant woman's acts. ACLU of Kentucky cautions the charges may not survive legal scrutiny. Since Roe's 2022 overturn, telemedicine abortion pills surged, yet 412 US pregnancy-related prosecutions—including 16 homicide cases—illustrate a push for fetal personhood. Healthcare workers frequently tip off police in these cases.",
-      "summaryTokens": 1778,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Melinda S. Spencer, 35, was arrested in Beattyville, Kentucky, on first-degree fetal homicide, corpse abuse and evidence-tampering charges after allegedly ordering abortion pills online and burying what police described as a “developed” fetus in her backyard. Kentucky prohibits provider-performed abortions post-conception but not self-managed pill terminations, which experts deem safe in the first trimester. The ACLU notes the state’s fetal homicide law explicitly exempts a pregnant woman’s own acts and warns charges may not hold. Reproductive rights advocates cite 412 pregnancy-related prosecutions since Roe’s fall, including 16 homicide charges, as part of a growing fetal personhood campaign.",
+      "summaryTokens": 1141,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/stanford-students-felony-case-pro-palestinian-protest",
@@ -173,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T17:04:49Z",
       "trailText": "Trial is the most severe criminal case brought against US students who staged protests against Israel’s war in Gaza",
-      "summary": "Five Stanford undergraduates face trial in Santa Clara County Superior Court on felony conspiracy to trespass and vandalism charges over a June 2024 occupation of the president’s office during a pro-Palestinian protest demanding divestment. The only students nationwide indicted on felonies—unlike mostly dropped charges at other campuses—they risk over three years in prison and $329,000 in restitution. Pleading not guilty, they plan to use the five-week trial to spotlight Stanford’s ties to Israel and wartime human rights abuses despite prosecutors limiting political arguments.",
-      "summaryTokens": 607,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Five of 12 Stanford students were indicted on felony conspiracy to trespass and vandalism charges after a June 2024 occupation of the university president’s office demanding divestment from Israel. They barricaded themselves inside, splashed fake blood, and unofficially renamed the office after Palestinian surgeon Adnan al-Bursh, causing about $10,000 in damage. Suspended then reinstated, they plead not guilty in Santa Clara county court under DA Jeff Rosen, who said vandalism—not dissent—is criminal. If convicted, they face over three years in prison and $329,000 restitution. While most campuses saw protest charges dropped, this felony trial, despite failed gag attempts on “genocide” or free speech, aims to deter future dissent.",
+      "summaryTokens": 841,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/pete-hegseth-censure-senator-mark-kelly",
@@ -185,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T16:24:19Z",
       "trailText": "US defense secretary also started proceedings that could strip Kelly from retired military rank and cut pension",
-      "summary": "Defense secretary Pete Hegseth issued a formal censure to Democratic Senator Mark Kelly and launched retirement grade proceedings under UCMJ articles 133 and 134 that could strip his retired Navy captain rank and pension, accusing Kelly of seditious statements after a November video urging troops to refuse unlawful orders. Kelly denounced Hegseth as unqualified, pledging to fight. He has 30 days to respond; the Navy must finish the rank review in 45 days.",
-      "summaryTokens": 846,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Defense Secretary Pete Hegseth has formally censured Democratic Sen. Mark Kelly and initiated retirement-grade proceedings that could demote him and cut his pension, accusing the Arizona senator and retired Navy captain of making “seditious statements” by urging service members to defy unlawful orders. The action follows a November video in which Kelly and five other veteran lawmakers called on troops to uphold the Constitution. Kelly denounced Hegseth as unqualified and vowed to contest the censure. He has 30 days to respond; the Navy has 45 days to review his retired rank.",
+      "summaryTokens": 995,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/tim-walz-minnesota-governor-reelection",
@@ -197,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T15:27:24Z",
       "trailText": "Announcement comes after ongoing fraud of social services cases became focus of ire for Republicans and Trump",
-      "summary": "Democratic Governor Tim Walz, fresh off his 2024 VP bid, said he will not pursue a third term, choosing to prioritize fighting social services fraud—fraud involving meals, autism programs and housing that Republicans and Trump weaponized against Somali communities—over campaigning. He accused Trump and GOP allies of exploiting the crisis to sow division and divert resources. Walz has explored a handoff with Senator Amy Klobuchar. Despite high approval on progressive reforms in 2023, he argued he can’t both campaign fully and shield Minnesota from political gamesmanship, pledging to remain on the job through 2026.",
-      "summaryTokens": 1001,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Democratic Gov. Tim Walz announced he won’t seek an unprecedented third term in 2026, choosing instead to focus on combating organized fraud in social services—including child meal and autism program thefts that froze federal childcare funding—and resisting Republican and Trump-led immigration enforcement surges and conspiracy attacks against Somali residents. Elected in 2018 and 2024 vice-presidential candidate, Walz said he lacked bandwidth to campaign, spoke with Senator Amy Klobuchar about a replacement, and vowed to keep defending Minnesota without regret, confident Democrats will retain the governor’s office.",
+      "summaryTokens": 1057,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/loneliness-social-movements-community-purpose",
@@ -209,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T14:00:09Z",
       "trailText": "Most people join social movements to try to change the world, but many also find community and a greater sense of purpose",
-      "summary": "Activism is helping Americans overcome a “loneliness epidemic” by offering purpose, community and deep connections through shared values. For 76-year-old Lani Ritter Hall, volunteering with Third Act after her husband’s death became her daily drive and source of social bonds. Across demographics — canvassers celebrating Friendsgiving, mutual aid pantry volunteers or Palestine solidarity organizers — movement spaces foster trust, belonging and resilience. Experts caution against burnout and high-risk tactics, urging collective care. Nonetheless, organizing offers enduring friendships, enhanced well-being and a sense of agency often missing in recreational or isolated social settings.",
-      "summaryTokens": 746,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "After losing her husband, 76-year-old Lani Ritter Hall joined Third Act to fight climate and democracy threats and found renewed purpose and connection through organizing. Across generations—from Friendsgiving after canvassing to reproductive-rights volunteers and Palestine Solidarity Committee activists like Emmanuel Taranu—participants forge deep bonds and chosen families. Psychologists say movement spaces counter the US “loneliness epidemic” with shared values, though high-risk tactics can risk burnout without collective care. Mutual aid projects, exemplified by Mary Holzman-Tweed’s pandemic food pantry, similarly build belonging and lasting neighborhood ties.",
+      "summaryTokens": 738,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/monarch-butterfly-california-conservation",
@@ -221,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T13:00:08Z",
       "trailText": "Pacific Grove is known as ‘Butterfly Town USA’ for its role as an overwintering spot. As the insect’s population plummets, residents are coming to its rescue",
-      "summary": "Pacific Grove, dubbed Butterfly Town USA, is a key overwintering site for western monarchs whose population has plunged over 99% since the 1980s, facing habitat loss, pesticides, extreme weather and climate change. After a 2024 mass die-off linked to 15 pesticides, local educators and citizen scientists tally only 226 butterflies—down from 16,000—during weekly counts. Residents enforce anti-interference laws, host parades and distribute brochures promoting native plant gardens and pesticide bans. Meanwhile, a delayed Endangered Species Act decision leaves conservationists racing against a projected 100% extinction risk by 2080.",
-      "summaryTokens": 810,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Pacific Grove, California—dubbed “Butterfly Town USA”—serves as a key overwintering site for western monarchs, but their population has plunged over 99% since the 1980s. Once hosting tens of thousands of butterflies, this season’s weekly counts dropped from 16,000 in 2022 to as few as 107. Drivers include habitat loss from coastal development, extreme weather, and pesticide contamination—highlighted by a 2024 mass mortality event involving 15 toxins. Local citizen scientists and museum staff track monarch numbers, promote native planting, and lobby for ESA protection to avert probable extinction by 2080.",
+      "summaryTokens": 1132,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/03/trump-nicolas-maduro-venezuela",
@@ -233,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T12:29:30Z",
       "trailText": "Though he also discussed plans to ‘run’ Venezuela, the US president could not resist upending his moment of glory",
-      "summary": "At Mar-a-Lago, Trump hailed US forces for toppling Venezuelan dictator Nicolás Maduro and teased plans to “run” Venezuela, styling himself Churchillian in an “American empire strikes back” moment. Yet he spent most of the speech airing pet grievances—against prosecutors, governors and mayors, past generals, and an untrustworthy Congress—while demanding credit for crime-fighting, defending his contentious pardons, and repeatedly blaming President Biden for Ukraine and domestic issues. Despite orchestrating a landmark raid, Trump’s remarks revealed his thin-skinned focus on slights over substantive policy.",
-      "summaryTokens": 1387,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "At Mar-a-Lago, Trump lauded the US military’s surprise raid that deposed Venezuela’s Nicolás Maduro and floated vague plans to “run” Venezuela, but repeatedly veered into personal complaints—attacking his legal foes, Biden, Congress, governors and mayors—while praising some generals and slamming others. He boasted about crime drops in DC, Chicago and LA, defended pardoning ex-Honduran president Juan Orlando Hernández by blaming Biden’s alleged bias, and distanced himself from Russia’s war in Ukraine as “Biden’s war.” His blend of bold interventionism and petty grievances highlighted his enduring thin skin at a historic moment.",
+      "summaryTokens": 492,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/secretary-of-state-races-us-elections",
@@ -245,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T12:00:35Z",
       "trailText": "Voters will choose secretaries of state in contests that could play key role in outcome of 2028 presidential election",
-      "summary": "In the 2026 midterms, 26 states—including battlegrounds Nevada, Arizona and Michigan—will elect secretaries of state, whose certification authority proved crucial in rebuffing 2020 subversion attempts. After 2022 saw election deniers win GOP nominations and Democrats reclaim swing-state offices, Democrats aim to defend incumbents Adrian Fontes in Arizona and Cisco Aguilar in Nevada and flip seats in Iowa, Kansas and Indiana with at least $40 million in spending. Meanwhile the Justice Department is suing 22 states over federal voter list demands, and White House pressure for a national voter file underscores how control of these “castle” offices could determine the integrity of the 2028 presidential race.",
-      "summaryTokens": 1592,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "In the 2026 midterms, 26 states — including battlegrounds Nevada, Arizona and Michigan — will elect secretaries of state, the chief election officers who oversee voting and certify results. Once ignored, these down-ballot races have gained prominence after secretaries rebuffed Trump’s 2020 challenges and election-denier candidates emerged in 2022. Democrats hold key swing-state offices and plan to spend over $40 million to defend and flip seats in Iowa, Kansas and Indiana. Incumbents Adrian Fontes (AZ) and Cisco Aguilar (NV) warn that control of these offices will shape election integrity and the 2028 White House contest amid federal demands for voter data.",
+      "summaryTokens": 1978,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/first-thing-nicolas-maduro-to-appear-in-new-york-court-on-drugs-and-weapons-charges",
@@ -257,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T11:29:36Z",
       "trailText": "US officials have warned of further military intervention if Venezuela’s interim president, Delcy Rodríguez, fails to meet their demands. Plus, how gun-safety advocates are riding a ‘seismic’ wave to US legislatures",
-      "summary": "Deposed Venezuelan president Nicolás Maduro—seized in a US special forces raid in Caracas that killed around 40 people—faces drug and weapons charges in Manhattan federal court on Monday. US officials have warned of further military intervention if interim president Delcy Rodríguez doesn’t meet Washington’s demands. Concurrently, gun-safety advocates galvanized by March for Our Lives and recent mass shootings are mounting a ‘seismic’ wave of state legislative campaigns to press for stricter firearms laws.",
-      "summaryTokens": 1113,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Nicolás Maduro, Venezuela’s deposed president, is slated to appear Monday in Manhattan federal court on U.S. drug trafficking and weapons charges after special forces seized him and First Lady Cilia Flores in a weekend raid on Caracas that reportedly killed about 40. Former President Trump vowed the U.S. would “run” Venezuela, and officials warned of further military intervention unless acting leader Delcy Rodríguez meets U.S. demands. Rodríguez, initially condemning the seizure as an “atrocity,” by Sunday sought a “balanced and respectful” relationship with Washington; U.S. officials had privately identified her as a potential Maduro successor due to her Wall Street and oil industry ties, while Caracas residents reacted with a mix of relief, fear and uncertainty.",
+      "summaryTokens": 781,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/trump-us-military-hegseth-stalin",
@@ -269,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T11:00:33Z",
       "trailText": "Maj Gen Paul Eaton says US president’s effort to bend military to his will could have dire long-term consequences",
-      "summary": "Former Maj Gen Paul Eaton warns that President Trump and Defense Secretary Pete Hegseth have launched an unprecedented effort to politicize the US military, purging independent watchdogs, judge advocates and senior officers and installing loyalists—an approach he likens to Stalin’s 1940s purges. Eaton says these moves, including controversial lethal strikes ordered on Latin American narco-traffickers and a Quantico summit denouncing “wokeness,” threaten the military’s constitutional oath, reputation and operational effectiveness, and could precipitate domestic clashes if federalised National Guard troops face off against state forces.",
-      "summaryTokens": 994,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "Maj Gen Paul Eaton warns that President Trump’s and Defense Secretary Pete Hegseth’s aggressive politicization of the US military resembles Stalinist purges, risking the force’s reputation and efficiency. Eaton cites the swift removal of independent watchdogs, judge advocates, and top officers—replaced by loyalists—evoking 1940s Soviet-era tactics. He criticizes Hegseth’s ‘kill everybody’ strike orders in Latin American waters as potentially illegal. Eaton fears domestic deployment of federalized National Guard troops against states could spark violent clashes, undermining military independence and rule of law. The long-term damage, he warns, will be difficult and painful to reverse.",
+      "summaryTokens": 946,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/05/trump-administration-news-latest-updates-today",
@@ -281,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-05T03:57:38Z",
       "trailText": "Trump has called on Venezuela’s interim leader to adhere to US demands as top Republicans scramble to answer questions about what happens next – key US politics stories from 4 January 2026",
-      "summary": "After President Trump’s seizure of Venezuela’s president, he retreats from plans to “run” the country, urging interim leader Delcy Rodríguez to meet US demands or face another military intervention. Republicans sought clarifications as Washington maintains 15,000 forces offshore, prompting Democratic outrage over unauthorized regime change. Protests broke out in US cities, Canada warned against US health misinformation, Denmark rebuffed Greenland annexation threats, and experts warned that Trump’s policies have eroded US disaster preparedness. Homeland Security chief Kristi Noem said Venezuelans under TPS may apply for refugee status.",
-      "summaryTokens": 1499,
-      "generatedAt": "2026-01-06T06:12:48.045Z"
+      "summary": "After proclaiming the US would “run” Venezuela following the abduction of its president and first lady, President Trump has scaled back his rhetoric, urging interim leader Delcy Rodríguez to meet US demands or face a possible second military intervention. Republicans scrambled to clarify, while Democrats condemned the unauthorized raid. The Pentagon maintains a 15,000-strong Caribbean force. Protests erupted nationwide. Denmark’s PM and Canadian experts decried US annexation threats and health misinformation. Homeland Security Sec. Kristi Noem signaled Venezuelans under TPS could seek refugee status amid counter-narcotics objectives.",
+      "summaryTokens": 2337,
+      "generatedAt": "2026-01-07T03:50:35.731Z"
     },
     {
       "id": "us-news/2026/jan/04/rain-flooding-california-bay-area",
@@ -3449,7 +3725,7 @@
       "section": "us-news",
       "publishedDate": "2025-12-17T21:57:00Z",
       "trailText": "Cuts, which affect projects focused on issues including early identification of autism, made without prior notice to AAP",
-      "summary": "The US Department of Health and Human Services abruptly terminated seven multimillion-dollar grants to the American Academy of Pediatrics after AAP criticized Health Secretary RFK Jr’s diverging Covid-19 vaccine guidance and used identity-based language. The cuts hit projects on fetal alcohol spectrum disorders, early autism screening, SIDS reduction, rural healthcare, mental health and birth defects. HHS said the grant materials misaligned with departmental priorities. AAP CEO Mark Del Monte decried harm to children and families and plans legal action. AAP and other medical groups have sued HHS over RFK Jr’s vaccine policy changes, citing wider public health impacts.",
+      "summary": "The US Department of Health and Human Services abruptly terminated seven multimillion-dollar grants to the American Academy of Pediatrics after AAP criticized Health Secretary RFK Jr��s diverging Covid-19 vaccine guidance and used identity-based language. The cuts hit projects on fetal alcohol spectrum disorders, early autism screening, SIDS reduction, rural healthcare, mental health and birth defects. HHS said the grant materials misaligned with departmental priorities. AAP CEO Mark Del Monte decried harm to children and families and plans legal action. AAP and other medical groups have sued HHS over RFK Jr’s vaccine policy changes, citing wider public health impacts.",
       "summaryTokens": 1969,
       "generatedAt": "2025-12-19T04:18:05.174Z"
     },
@@ -16841,7 +17117,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-22T12:31:34Z",
       "trailText": "Sequoia park zoo said staff were doing an inspection when they saw a wild black bear looking in at three captive bears",
-      "summary": "At Sequoia Park Zoo in Eureka, California, staff spotted a wild American black bear leaning on a gate and peering at three captive black bears during a routine inspection. The uninvited guest showed no aggression, interacted through fencing, and briefly explored enrichment items near the night house. Zoo personnel safely lured the bear—likely from the adjacent 60-acre Sequoia Park woodland—back into the forest via a service gate. Officials praised the visitor’s “polite” behavior: remaining on the boardwalk path, keeping all feet on the ground and not attempting to scale any railings.",
+      "summary": "At Sequoia Park Zoo in Eureka, California, staff spotted a wild American black bear leaning on a gate and peering at three captive black bears during a routine inspection. The uninvited guest showed no aggression, interacted through fencing, and briefly explored enrichment items near the night house. Zoo personnel safely lured the bear—likely from the adjacent 60-acre Sequoia Park woodland—back into the forest via a service gate. Officials praised the visitor’s ��polite” behavior: remaining on the boardwalk path, keeping all feet on the ground and not attempting to scale any railings.",
       "summaryTokens": 994,
       "generatedAt": "2025-10-28T20:38:22.885Z"
     },
@@ -18989,7 +19265,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-14T11:13:42Z",
       "trailText": "UN says Gaza still needs ‘lifesaving aid’ as world leaders gather in Sharm el-Sheikh to discuss 20-point proposal. Plus, nude cyclists protest against national guard deployment",
-      "summary": "Hamas released the final 20 living hostages in Gaza in a prisoner swap that freed nearly 2,000 Palestinians, marking a rare moment of relief as world leaders convened in Sharm el-Sheikh to negotiate extending a limited Gaza truce into lasting peace. The ceasefire has halted a two-year Israeli offensive that killed almost 68,000, but key issues—including Hamas disarmament, Gaza governance, and reconstruction—remain unresolved. Egyptian President Sisi urged the Gaza war be the region’s last, while US President Trump proclaimed “peace at long last,” highlighting the truce’s precarious nature.",
+      "summary": "Hamas released the final 20 living hostages in Gaza in a prisoner swap that freed nearly 2,000 Palestinians, marking a rare moment of relief as world leaders convened in Sharm el-Sheikh to negotiate extending a limited Gaza truce into lasting peace. The ceasefire has halted a two-year Israeli offensive that killed almost 68,000, but key issues—including Hamas disarmament, Gaza governance, and reconstruction—remain unresolved. Egyptian President Sisi urged the Gaza war be the region’s last, while US President Trump proclaimed ���peace at long last,” highlighting the truce’s precarious nature.",
       "summaryTokens": 881,
       "generatedAt": "2025-10-28T20:38:22.885Z"
     },
