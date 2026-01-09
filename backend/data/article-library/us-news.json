@@ -1,37 +1,325 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-08T04:18:47.403Z",
+    "generated_at": "2026-01-09T03:59:18.752Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-08"
+      "to": "2026-01-09"
     },
-    "article_count": 2161,
+    "article_count": 2185,
     "merge_info": {
-      "previous_count": 2139,
-      "new_articles": 22,
-      "updated_articles": 26,
-      "total_count": 2161
+      "previous_count": 2161,
+      "new_articles": 24,
+      "updated_articles": 28,
+      "total_count": 2185
     },
     "batch_info": {
-      "initial_batch_id": "batch_695f2fa2ddcc8190889737d553b49c46",
+      "initial_batch_id": "batch_69607c5cb68081909166a35bed189a8d",
       "retry_batches": [],
-      "total_tokens": 108995,
-      "processing_time_hours": 0
+      "total_tokens": 120330,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2026/jan/09/morality-military-might-and-a-sense-of-mischief-key-takeaways-from-trumps-new-york-times-interview",
+      "title": "Morality, military might and a sense of mischief: key takeaways from Trump’s New York Times interview",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/09/morality-military-might-and-a-sense-of-mischief-key-takeaways-from-trumps-new-york-times-interview",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/09/morality-military-might-and-a-sense-of-mischief-key-takeaways-from-trumps-new-york-times-interview",
+      "section": "us-news",
+      "publishedDate": "2026-01-09T03:15:08Z",
+      "trailText": "Trump sounds off on Venezuela’s future, Taiwan’s security and his aims for Greenland, days after operation to seize Nicolás Maduro",
+      "summary": "In a wide-ranging New York Times interview days after overseeing the Venezuela operation, Trump insisted the US will “run” the country indefinitely, dismissing international law in favor of his personal morality and claiming control of its oil revenues. He doubled down on plans to ‘own’ Greenland rather than host NATO bases, framing it as essential for security and hinting it may conflict with alliance obligations. Trump saw no parallel between Venezuela and Taiwan under his presidency, predicted Xi won’t invade while he’s in office, and said he’d let the New START treaty expire unless a new pact—including China—emerges. His casual, conspiratorial tone and shifting personas underscored a freedom from traditional constraints.",
+      "summaryTokens": 777,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/trump-administration-news-latest-updates-today",
+      "title": "Trump news at a glance: president says his morality is ‘the only thing that can stop me’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/trump-administration-news-latest-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/trump-administration-news-latest-updates-today",
+      "section": "us-news",
+      "publishedDate": "2026-01-09T02:16:49Z",
+      "trailText": "President gives interview to New York Times as tensions mount at home and abroad over his federal and military actions",
+      "summary": "In a New York Times interview President Trump asserted that only “my own morality” limits his presidential powers, questioning the binding nature of international law and stressing US “ownership” over leases like Greenland. His remarks coincide with domestic unrest after an ICE agent’s fatal shooting in Minneapolis—now under FBI probe—and separate CBP shootings in Portland. Abroad, lawmakers advanced a war powers resolution to block unapproved military action in Venezuela amid Trump’s claims of controlling Venezuelan oil, while France and Germany publicly rebuked US policy. Back in Washington, a bipartisan House revolt revived ACA subsidies, defying the president’s stance.",
+      "summaryTokens": 933,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/democrats-homeland-security-renee-nicole-good",
+      "title": "Democrats threaten to withhold funding after ICE killing in Minneapolis",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/democrats-homeland-security-renee-nicole-good",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/democrats-homeland-security-renee-nicole-good",
+      "section": "us-news",
+      "publishedDate": "2026-01-09T01:29:46Z",
+      "trailText": "Lawmakers issue warning about homeland security budget after shooting death by federal agent of Renee Nicole Good",
+      "summary": "After the killing of 37-year-old US citizen Renee Nicole Good by an ICE officer in Minneapolis, Democrats on Capitol Hill are demanding stricter oversight of DHS and threatening to withhold funding. Citing video evidence contradicting self-defense claims, lawmakers including Sen. Chris Murphy plan reforms—warrant requirements, a ban on masked agents and limits on Border Patrol operations inland. Senate and House leaders Chuck Schumer and Hakeem Jeffries called for federal investigations. Progressive Democrats filed articles of impeachment against DHS Secretary Kristi Noem and renewed “Abolish ICE” demands as public opinion turns against Trump’s deportation push.",
+      "summaryTokens": 1012,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/judge-appoint-official-release-epstein-files",
+      "title": "US congressmen ask judge to appoint official to force release of all Epstein files",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/judge-appoint-official-release-epstein-files",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/judge-appoint-official-release-epstein-files",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T23:03:40Z",
+      "trailText": "Democrat Ro Khanna and Republican Thomas Massie seek to compel justice department to release full set of files",
+      "summary": "Democratic Rep. Ro Khanna and Republican Rep. Thomas Massie have asked Judge Paul Engelmayer to appoint a special master under the Epstein Files Transparency Act to force DOJ compliance and full release of all Epstein-related documents. They allege DOJ missed the Dec. 19 deadline, released fewer than 12,285 records (under 1%), failed to file mandatory redaction reports, and provided inconsistent data. They urge an independent monitor to verify document production and challenge improper redactions.",
+      "summaryTokens": 460,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/affordable-care-act-subsidies-vote",
+      "title": "US House breaks with Trump to revive Affordable Care Act subsidies",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/affordable-care-act-subsidies-vote",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/affordable-care-act-subsidies-vote",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T22:32:04Z",
+      "trailText": "Seventeen Republicans join Democrats to pass a three-year extension of tax credits cutting ACA premiums",
+      "summary": "On Jan 8, 2026, the US House passed 230-196 a three-year revival of ACA premium tax credits, with all Democrats and 17 moderate Republicans breaking ranks with Trump and Speaker Johnson. The credits, created under Biden but expired end-2025, curb rising premiums that would roughly double without subsidies. GOP moderates forced a floor vote via discharge petition after leadership resisted. Senate GOP is expected to amend the measure. Democrats aim to spotlight healthcare affordability ahead of November midterms, while Trump dismisses the crisis.",
+      "summaryTokens": 790,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/ice-agent-minneapolis-shooting",
+      "title": "ICE agent in Minneapolis killing identified as 10-year law enforcement veteran",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/ice-agent-minneapolis-shooting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/ice-agent-minneapolis-shooting",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T22:17:28Z",
+      "trailText": "Court records point to Jonathan E Ross as officer in Renee Nicole Good’s death, amid protests and political fallout",
+      "summary": "Federal records identify 10-year ICE Enforcement and Removal Operations veteran Jonathan E. Ross as the agent who on Jan. 6 shot and killed 37-year-old mother Renee Nicole Good during a Minneapolis immigration sweep. Body-camera footage shows Good reversing to flee as Ross fired four shots. Her death ignited nightly protests, Mayor Jacob Frey’s “ICE get out” demand, Governor Tim Walz’s criticism of an FBI-only probe, and Democrats’ threats to withhold DHS funding. DHS defended Ross’s actions under training, and officials cited his June 2025 arrest in which he was dragged and injured by a suspect later convicted of assault and sexual offenses.",
+      "summaryTokens": 752,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/jd-vance-ice-agent-killing-minneapolis-trump",
+      "title": "Vance snarls and swipes in defence of Ice agent – was the boss impressed?",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/jd-vance-ice-agent-killing-minneapolis-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/jd-vance-ice-agent-killing-minneapolis-trump",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T21:56:20Z",
+      "trailText": "The vice-president went ballistic against the media and the left – a version of Trump with even more menace",
+      "summary": "VP JD Vance clashed with reporters over Wednesday's fatal shooting of US citizen Renee Good by an ICE agent in Minneapolis, accusing media of misrepresentation and claiming without evidence that Good was part of a 'leftwing network' using terror tactics. Wearing pro-Trump attire, he insisted the officer acted in self-defense after Good allegedly tried to ram him, denounced coverage as a 'disgrace,' and vowed investigations into the supposed network. His combative briefing—mirroring Trump's media-bashing—served as a rebuke to rival Marco Rubio, who seized the spotlight during the Venezuela raid, and showcased Vance's 2028 ambitions.",
+      "summaryTokens": 1014,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/trump-power-international-law",
+      "title": "‘I don’t need international law’: Trump says power constrained only by ‘my own morality’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/trump-power-international-law",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/trump-power-international-law",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T21:19:40Z",
+      "trailText": "President says morality ‘the only thing that can stop me’ in New York Times interview on limits to his authority",
+      "summary": "Donald Trump told the New York Times that “I don’t need international law,” claiming his presidential power is limited only by his “own morality.” While he “does” technically need to adhere to international law—“it depends on what your definition is”—he insists he’s “not looking to hurt people.” He defended plans to explore buying Greenland, arguing true ownership is superior to leases or treaties, and brushed off fears his Venezuela intervention sets a China-Taiwan or Russia-Ukraine precedent. Trump downplayed the looming U.S.-Russia arms treaty expiration, suggesting a “better agreement” with China included, all amid protests over an ICE shooting and European ire over Greenland.",
+      "summaryTokens": 622,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/minneapolis-school-class-canceled-ice-killed-woman",
+      "title": "FBI takes over case of ICE agent killing US woman and cuts Minnesota’s access to evidence",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/minneapolis-school-class-canceled-ice-killed-woman",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/minneapolis-school-class-canceled-ice-killed-woman",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T20:16:29Z",
+      "trailText": "Minneapolis remains on edge, with several protests planned after shooting of Renee Nicole Good",
+      "summary": "The FBI has assumed sole control of the probe into ICE agent Jonathan E. Ross’s fatal shooting of 37-year-old US citizen Renee Good during a large-scale Minneapolis enforcement operation, revoking the Minnesota BCA’s access. Federal officials defend the agent’s self-defense claim and label Good a domestic terrorist—contradicted by widely shared video—while Gov. Walz, Mayor Frey and Rep. Omar decry federal overreach. Schools were closed and protests chanting “ICE out now” erupted near George Floyd’s killing site as over 100 CBP agents deploy through Sunday.",
+      "summaryTokens": 677,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/09/kristi-noem-dhs-press-conference-ice",
+      "title": "Kristi Noem doubles down on claim ICE agent killed woman in self-defense",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/09/kristi-noem-dhs-press-conference-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/09/kristi-noem-dhs-press-conference-ice",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T19:32:08Z",
+      "trailText": "DHS secretary’s claims have been widely disputed with video of shooting showing vehicle turning away from agent",
+      "summary": "Homeland Security Secretary Kristi Noem, speaking in New York, doubled down on her claim that an ICE agent acted in self-defense when he killed 37-year-old Renee Nicole Good in Minneapolis, labeling the incident an “act of domestic terrorism.” She repeated DHS’s assertion that Good used her car as a weapon, despite video showing it turning away and Mayor Jacob Frey denouncing the narrative as “bullshit.” Following the shooting, the Minnesota BCA said it would withdraw from the investigation as the FBI takes charge; Noem insisted BCA wasn’t “cut out.” She defended recent ICE deployments tied to fraud allegations against Somali residents, said she’s open to sending more agents, acknowledged nationwide anti-ICE protests, and urged cooperation with NYC Mayor Zohran Mamdani on immigration enforcement.",
+      "summaryTokens": 592,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/french-german-presidents-macron-steinmeier-condemn-us-foreign-policy-trump",
+      "title": "French president condemns US for ‘turning away from allies’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/french-german-presidents-macron-steinmeier-condemn-us-foreign-policy-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/french-german-presidents-macron-steinmeier-condemn-us-foreign-policy-trump",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T17:10:36Z",
+      "trailText": "Emmanuel Macron’s comments come as Germany’s president, Frank-Walter Steinmeier, warns against turning world into ‘robber’s den’",
+      "summary": "French president Macron and German president Steinmeier issued unprecedented critiques of US foreign policy under Trump, warning Washington is abandoning multilateralism and allies, risking breakdown of the postwar rules-based order. Macron told diplomats the US was \"turning away\" and France must assert strategic autonomy with less reliance on the US and China. References to the US raid on Venezuela's Maduro and Trump's Greenland gambit underscored EU leaders' dilemma: defend international law while keeping the US engaged. NATO envoys in Brussels agreed to bolster Arctic deterrence. Steinmeier cautioned weaker states could become \"defenceless,\" calling for stronger European security and military credibility.",
+      "summaryTokens": 1974,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/torso-killer-1965-murder-new-jersey",
+      "title": "US serial killer confesses to 1965 murder of 18-year-old woman in New Jersey",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/torso-killer-1965-murder-new-jersey",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/torso-killer-1965-murder-new-jersey",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T17:02:43Z",
+      "trailText": "Police close murder case of Alys Eberhardt after confession from Richard Cottingham, known as the ‘Torso Killer’",
+      "summary": "Richard Cottingham, the 79-year-old ‘Torso Killer,’ has confessed to murdering 18-year-old nursing student Alys Eberhardt in her Fair Lawn, New Jersey, home in 1965. Eberhardt was found brutally beaten nearly six decades ago; her case was reopened in 2021 and investigators uncovered details ‘never publicly known’ that prompted Cottingham’s admission. He told detectives he met her outside Hackensack Hospital and singled her out. Fair Lawn police chief Joseph Dawicki and Eberhardt’s family, including nephew Michael Smith, say the confession brings long-awaited closure. Cottingham is already serving multiple life sentences for at least 16 New York and New Jersey murders.",
+      "summaryTokens": 641,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/venezuela-protester-arrested",
+      "title": "US protester arrested after TV interview says she was targeted due to Venezuela trip",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/venezuela-protester-arrested",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/venezuela-protester-arrested",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T16:25:31Z",
+      "trailText": "Jessica Plichta faces misdemeanor charges, which locals say is a tactic of Grand Rapids, Michigan, police to suppress protests",
+      "summary": "Preschool teacher Jessica Plichta, 22, was arrested at a January 3 Grand Rapids protest opposing the Trump administration’s seizure of Venezuela’s Nicolás Maduro, immediately after her viral live TV interview. As the only arrestee among 200 protesters and co-founder of Grand Rapids Opponents of War, she suspects her recent trip to Caracas—where she attended the International People’s Assembly and met activists—spurred misdemeanor charges of obstructing a roadway and disobeying police. Local organizer Emerson Wolfe calls it a repeated police tactic to criminalize dissent, warning suppression only fuels anti-war movements.",
+      "summaryTokens": 1447,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/josh-shapiro-announces-re-election-pennsylvania",
+      "title": "Pennsylvania governor Josh Shapiro announces re-election bid",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/josh-shapiro-announces-re-election-pennsylvania",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/josh-shapiro-announces-re-election-pennsylvania",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T15:35:38Z",
+      "trailText": "Democrat sets stage for what many view as audition for future White House run",
+      "summary": "Pennsylvania Democrat Gov. Josh Shapiro, once considered for VP, officially launched his 2026 re-election campaign with events in Pittsburgh and Philadelphia, positioning it as an audition for a potential 2028 presidential bid. Since taking office in 2023, the moderate governor has delivered bipartisan wins—boosting public school funding, protecting abortion access and repairing infrastructure—but faces criticism from progressives over cautious climate and education policies. A vocal pro-Israel advocate, he survived an arson attack on the governor’s mansion and is embroiled in a public spat with Kamala Harris over her memoir’s vice-presidential selection claims. Shapiro also leads legal fights against the Trump administration and denounced its Venezuela policy as reckless.",
+      "summaryTokens": 445,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/fema-staff-cuts-trump",
+      "title": "Fema staff outraged by draft plans for deep cuts under Trump",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/fema-staff-cuts-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/fema-staff-cuts-trump",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T15:28:58Z",
+      "trailText": "Staff warn that the homeland security secretary’s proposed cuts could weaken Fema’s disaster response",
+      "summary": "Current and former FEMA employees, led by ex-spokesperson Jeremy Edwards, denounce draft plans under DHS Secretary Kristi Noem to cut over half the agency’s workforce in 2026—a measure echoing a Trump taskforce’s recommendations. More than 2,450 staff have already departed since January. In late December, senior staff received a workforce-planning spreadsheet targeting 50% layoffs and asked to flag essential roles. FEMA counters this is a routine, pre-decisional exercise with no approved cuts. Critics warn such deep reductions would cripple on-call response teams and hamper disaster relief nationwide.",
+      "summaryTokens": 1056,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/senate-inquiry-unitedhealth-nursing-homes",
+      "title": "Senators claim UnitedHealth is withholding internal documents from inquiry",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/senate-inquiry-unitedhealth-nursing-homes",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/senate-inquiry-unitedhealth-nursing-homes",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T15:16:46Z",
+      "trailText": "UnitedHealth says it will ‘continue to engage’ with lawmakers who began investigating their involvement in nursing home care after Guardian investigation",
+      "summary": "Senators Ron Wyden and Elizabeth Warren, on the Senate finance committee, say UnitedHealth has failed to hand over internal records on its nursing‐home care program—launched after a Guardian investigation—to reduce hospital transfers via bonus payments. Despite a July briefing and formal requests, the insurer provided only cursory answers and no substantive documents. The lawmakers cite a whistleblower‐written memo urging nursing homes to call UnitedHealth’s Optum division immediately and new reporting on wrongful‐death lawsuits (Mary Grant in Ohio; Cindy Deal in Georgia). They demand full compliance by January 28 or will pursue alternative policy remedies under Medicare Advantage incentives.",
+      "summaryTokens": 937,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/billionaire-tax-california",
+      "title": "Tech titans divided over whether to pay billionaire tax or flee California",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/billionaire-tax-california",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/billionaire-tax-california",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T14:52:57Z",
+      "trailText": "State residents worth more than $1bn could face one-off, 5% tax to help fund education, food assistance and healthcare",
+      "summary": "California is poised to propose a one-off 5% tax on assets of residents worth over $1bn to fund education, food assistance and healthcare, retroactive to Jan 1 with a five-year pay window. SEIU-UHW leads the initiative, needing 874,641 signatures, while Gov. Gavin Newsom opposes it. Rep. Ro Khanna champions it; Nvidia CEO Jensen Huang accepts it. In contrast, Google’s Larry Page, Palantir’s Peter Thiel and David Sacks threaten moves to tax-friendly Florida or Texas. Supporters argue it corrects unfair tax burdens; opponents warn of billionaire exodus. Proponents cite Massachusetts and Washington wealth taxes’ success; critics fear budget shortfalls if high-net-worth contributors depart.",
+      "summaryTokens": 1214,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
     {
       "id": "us-news/2026/jan/07/trump-international-groups-un",
       "title": "Outrage as Trump withdraws from key UN climate treaty along with dozens of international organisations",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/07/trump-international-groups-un",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/07/trump-international-groups-un",
       "section": "us-news",
-      "publishedDate": "2026-01-08T02:50:16Z",
+      "publishedDate": "2026-01-08T14:38:29Z",
       "trailText": "Experts decry move to leave UNFCCC as ‘embarrassing’ as president orders withdrawal from 66 international groups",
-      "summary": "President Trump signed a memorandum withdrawing the US from the UN Framework Convention on Climate Change and 65 related international bodies—including the IPCC, IRENA, ISA and IUCN—labeling them “contrary to US interests.” The move isolates America from 34 years of global climate cooperation, reversing its 1992 Senate-ratified commitment. Critics from Gina McCarthy to Al Gore denounce the decision as “shortsighted” and “embarrassing,” warning it forfeits US leadership, undermines clean-energy investment competition—especially with China—and cedes trillions in climate finance as extreme weather risks surge. Legal experts question whether he can unilaterally scrap a Senate-ratified treaty.",
-      "summaryTokens": 1659,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "President Trump issued a memorandum withdrawing the US from the UN Framework Convention on Climate Change and 65 affiliated commissions—including the IPCC, International Solar Alliance and IRENA—deeming them “contrary to US interests.” The UNFCCC, ratified by the Senate in 1992, underpins global cooperation on climate change. UN climate chief Simon Stiell called it a “colossal own goal” that threatens US security and prosperity. Former Biden adviser Gina McCarthy and NRDC president Manish Bapna warned it abandons US leadership and forfeits clean-energy investments worth trillions, ceding ground to China. Critics question Trump’s authority to unilaterally quit and warn this move will deepen economic and environmental risks.",
+      "summaryTokens": 894,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/trump-billions-social-funds-programs",
+      "title": "‘Catastrophic’: fears for families after Trump officials cut $10bn in social funds",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/trump-billions-social-funds-programs",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/trump-billions-social-funds-programs",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T13:00:09Z",
+      "trailText": "Health department’s decision to freeze money for childcare and for families in need could lead to disaster, experts say",
+      "summary": "The Trump administration abruptly froze $10bn in federal funding for childcare and aid programs including CCDF, TANF and SSBG in five Democratic states—California, Colorado, Illinois, Minnesota and New York—citing alleged widespread fraud. States must now submit extensive documentation not previously required to unlock funds. Experts warn that without quick access, hundreds of thousands of low-income families and 1.4m children could lose childcare support within weeks, triggering center closures, staff cuts and job losses, disproportionately harming women. The requirement effectively extends new reporting to all CCDF recipients, risking a nationwide de facto freeze. The move was spurred by unverified fraud claims in a viral video; timing and restoration remain uncertain.",
+      "summaryTokens": 1019,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/minneapolis-ice-renee-nicole-good",
+      "title": "Minneapolis shooting is a brutal start to Trump’s ‘largest operation’ targeting immigrants",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/minneapolis-ice-renee-nicole-good",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/minneapolis-ice-renee-nicole-good",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T13:00:09Z",
+      "trailText": "Before the killing of Renee Nicole Good, local leaders and human rights advocates had been bracing for a catastrophe",
+      "summary": "In early December, ICE, CBP and HSI deployed thousands of masked, rifle-wielding agents across Minneapolis as part of what the Trump administration called its largest operation to date. They made arrests at stores, gyms, homes and schools—often targeting people without records—and used force, tear gas and bystander tackles. On Jan 6 a federal agent fatally shot 37-year-old Renee Nicole Good, alleging she tried to weaponize her car, a claim contradicted by videos. Advocates warn this militarized surge, tied to at least 14 immigration shootings since the administration’s second term began, risks more deaths and undermines community safety.",
+      "summaryTokens": 1132,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/trump-national-parks-international-visitor-fee",
+      "title": "US national parks staff say new $100 fee for non-residents risks ‘alienating visitors for decades’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/trump-national-parks-international-visitor-fee",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/trump-national-parks-international-visitor-fee",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T12:30:07Z",
+      "trailText": "Advocates suing to reverse administration’s surcharge system that has led to passport checks and angry visitors",
+      "summary": "From Jan 1 the Trump administration imposed a $100 surcharge on non-US residents entering 11 popular national parks (Grand Canyon, Yellowstone, Everglades, etc.), hiking non-resident annual passes from $80 to $250. Park staff report chaos—long passport checks, angry tourists abandoning visits, and pass shortages bearing Trump’s portrait. Understaffed rangers report burnout and disrupted workflows. Environmental groups have sued, arguing the nationality-based fee violates federal law. Officials defend the hike as a fair contribution toward a growing maintenance backlog, while critics warn it’s xenophobic and could deter visitors for decades.",
+      "summaryTokens": 552,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/shooting-mormon-church-salt-lake-city",
+      "title": "At least two killed in shooting outside Mormon church in Salt Lake City",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/shooting-mormon-church-salt-lake-city",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/shooting-mormon-church-salt-lake-city",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T12:18:30Z",
+      "trailText": "Dozens of people were attending a funeral inside the church as the shooting happened, police said",
+      "summary": "Eight adults were shot—two fatally and six wounded, including three in critical condition—in a Jan. 8 shooting outside a Salt Lake City meetinghouse of the Church of Jesus Christ of Latter-day Saints during a funeral. Police say the non-random attack showed no anti-Mormon motive; no suspect is in custody. Roughly 100 law-enforcement vehicles and helicopters responded. Church staff are assisting investigators, and local officials and neighbors voiced grief. The LDS Church, on heightened alert since last year’s Michigan attack, extended prayers to victims.",
+      "summaryTokens": 800,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/minneapolis-ice-agent-shooting-killing",
+      "title": "‘This is not normal’: Minneapolis on edge and angry after ICE killing of woman amid federal surge",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/minneapolis-ice-agent-shooting-killing",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/minneapolis-ice-agent-shooting-killing",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T12:00:07Z",
+      "trailText": "City targeted by Trump has seen swarm of immigration agents on the streets – and residents say the tension is palpable",
+      "summary": "Since early December the Trump administration has surged hundreds of ICE officers into Minneapolis, concentrating on Somali and Latino neighborhoods. On January 8, 37-year-old US citizen Renee Nicole Good was shot dead by an ICE agent as she drove away—contradicting DHS claims she impeded law enforcement. Community monitors from the Immigrant Defense Network and volunteers have tracked hundreds of ICE vehicles, documented over 600 detentions, and organized hotlines, street observers and aid for seized families. Local businesses face labor shortages, residents live in constant fear, Mayor Frey demands ICE leave, and Governor Walz may deploy the National Guard.",
+      "summaryTokens": 553,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/first-thing-woman-in-minnesota-37-shot-and-killed-by-ice-agent-during-raid-video-shows",
+      "title": "Woman in Minnesota, 37, shot and killed by ICE agent during raid, video shows | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/first-thing-woman-in-minnesota-37-shot-and-killed-by-ice-agent-during-raid-video-shows",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/first-thing-woman-in-minnesota-37-shot-and-killed-by-ice-agent-during-raid-video-shows",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T11:23:45Z",
+      "trailText": "Mayor says ICE claims incident was self-defense are not true and urged ICE to leave Minneapolis. Plus, Trump pulls US out of 66 international bodies",
+      "summary": "In Minneapolis, ICE agents fatally shot 37-year-old legal observer Renee Nicole Good during a large-scale enforcement raid tied to alleged Somali fraud. Video footage shows her SUV reversing away, undermining DHS’s claim she “weaponized” the vehicle to attack officers. Mayor Jacob Frey denounced the self-defense narrative as false and demanded ICE leave the city. In related news, US forces seized the Russian-flagged tanker Marinera over sanctions breaches, and the Trump administration announced plans to withdraw from 66 international bodies, including the UN climate convention, drawing swift expert criticism.",
+      "summaryTokens": 877,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
+    },
+    {
+      "id": "us-news/2026/jan/08/donald-trump-smithsonian-reframe-entire-culture-united-states",
+      "title": "Trump’s assault on the Smithsonian: ‘The goal is to reframe the entire culture of the US’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/08/donald-trump-smithsonian-reframe-entire-culture-united-states",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/08/donald-trump-smithsonian-reframe-entire-culture-united-states",
+      "section": "us-news",
+      "publishedDate": "2026-01-08T05:00:03Z",
+      "trailText": "The long read: The president has vowed to kill off ‘woke’ in his second term in office, and the venerable cultural institution a few blocks from the White House is in his sights",
+      "summary": "President Trump’s second-term assault on 'woke' culture has zeroed in on the Smithsonian: an executive order decried its ‘divisive, race-centred ideology’ and empowered aide Lindsey Halligan and VP Vance to purge diversity initiatives. Trump publicly moved to oust National Portrait Gallery director Kim Sajet—who resigned after boards affirmed internal hiring powers—and orchestrated a review demanding exhibitions, labels and budgets for 'content corrections.' Threats to federal funding and tax status have driven museums to self-censor wall texts on slavery, diversity and trans visibility. This unprecedented federal pressure aims to reframe US cultural institutions toward nationalist 'Americanism.'",
+      "summaryTokens": 1469,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/trump-administration-news-latest-updates-today",
@@ -41,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-08T02:14:33Z",
       "trailText": "Operations mark latest demonstration of brazen US military power and reach",
-      "summary": "US forces seized two sanctioned oil tankers – the Russian-flagged Marinera after a two-week chase from the Caribbean into the Atlantic and the dark-fleet M Sophia in a pre-dawn Caribbean raid – enforcing Trump’s “complete blockade” on Venezuelan oil and risking a stand-off with Russia. Meanwhile, the administration announced its exit from 66 international bodies (including the UN climate treaty), faced scrutiny over an ICE agent’s fatal raid in Minnesota, advanced plans to cap defense-contractor pay and ban big investors from single-family homes, and rolled out updated dietary guidelines emphasizing whole foods.",
-      "summaryTokens": 680,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "US forces seized two sanctioned oil tankers—Russia-flagged Marinera after a two-week chase in the Caribbean and Atlantic, and the dark-fleet M Sophia pre-dawn in the Caribbean—underscoring Trump’s “complete blockade” on Venezuela oil. The White House warned of more Venezuela-linked vessel seizures and left open prosecuting crews, risking friction with Russia amid Ukraine peace talks. In related actions, Trump announced pull-outs from 66 international bodies, plans to curb defense contractors’ pay, ban big investors from single-family homes, updated dietary guidelines, and oversaw contested ICE raids and special forces operations in Venezuela.",
+      "summaryTokens": 1142,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/spencer-pratt-los-angeles-mayor-wildfires",
@@ -53,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T23:17:45Z",
       "trailText": "Pratt, who lost home in Palisades fire and has been vocal critic of city leaders, says system is ‘fundamentally broken’",
-      "summary": "Reality TV star Spencer Pratt, whose home and family’s homes burned in the 2025 Palisades fire, announced his LA mayoral campaign. Criticizing Gov. Newsom, Mayor Bass, DWP chief Janisse Quiñones, and LA Fire Dept. for mismanaging vegetation and budgets, he vows transparency against a “fundamentally broken” system favoring elites. He launched at the fire’s first anniversary rally, labeling himself “Karen Bass’ Worst Nightmare.” His bare-bones campaign site links to social media and donations. He’s endorsed by Republican Ric Grenell and joins a crowded primary including Bass, Beutner, Huang, and potential candidate Rick Caruso.",
-      "summaryTokens": 1080,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Reality TV star Spencer Pratt, who lost his Palisades home in last year’s wildfire, launched his Los Angeles mayoral bid at the fire’s first anniversary rally, blasting Gov. Gavin Newsom, Mayor Karen Bass and DWP chief Janisse Quiñones for systemic failures: decades-old poor vegetation management, alleged DEI-driven fire-dept. shortcomings and mismanaged rebuild efforts. Pratt’s campaign website is bare, offering only social links, a donation button and a headshot branded “Karen Bass’ Worst Nightmare.” He enters a crowded race with Bass, ex-LAUSD chief Austin Beutner, community organizer Rae Huang and potential candidate Rick Caruso, and has been endorsed by Republican Ric Grenell.",
+      "summaryTokens": 511,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/minnesota-ice-shooting-coverage",
@@ -65,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T23:04:49Z",
       "trailText": "Networks brought on former federal and police officials, with varying reactions and responses to Minneapolis killing",
-      "summary": "Cable news networks rapidly covered the fatal Federal ICE shooting of a woman in Minneapolis, with Fox News labeling it \"Deadly ICE-involved Shooting\", CNN as \"ICE Officer Kills Woman in Minneapolis\" and MS NOW as \"Agent Kills Woman\". CNN's John Sandweg questioned ICE hiring and training, while Fox's Chad Wolf criticized Mayor Frey's anti-ICE remarks. Fox contributor Paul Mauro blamed protesters' confrontations; host Laura Ingraham decried \"normalized\" violence against law enforcement. Jessica Tarlov on Fox called for an urgent investigation. MS NOW's Tom Manger and Nicolle Wallace chastised premature mayoral judgments and aired disturbing social media footage, stressing verification and context.",
-      "summaryTokens": 1399,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Cable networks scrambled coverage after a federal ICE agent shot and killed a Minneapolis woman. Fox News labeled it “Deadly ICE-involved Shooting,” CNN ran “ICE Officer Kills Woman in Minneapolis,” and MS NOW framed it “Agent Kills Woman.” CNN guest John Sandweg (ex-ICE) questioned whether rapid hires and compressed training contributed; on Fox, ex-DHS head Chad Wolf denounced Mayor Frey’s call to expel ICE and blamed protesters for impeding law enforcement. Fox’s Laura Ingraham decried a “normalization of violence” against officers, while Jessica Tarlov and MS NOW’s Tom Manger urged caution. Video circulated virally, with CNN verifying footage and MS NOW’s Nicolle Wallace warning viewers of its disturbing nature.",
+      "summaryTokens": 1860,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/minneapolis-shooting-immigration-crackdown",
@@ -77,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T22:05:06Z",
       "trailText": "Mayor says ICE claims incident was self-defense are not true, and tells agency to ‘get the fuck out of Minneapolis’",
-      "summary": "During a large-scale ICE immigration raid in Minneapolis on Jan. 7, an ICE agent fatally shot 37-year-old legal observer Renee Nicole Good in the face as she sat in her vehicle blocking traffic. Video footage shows her SUV backing away, contradicting DHS’s claim she ‘weaponized’ her car to attack officers. Local officials including Mayor Jacob Frey, Congresswoman Ilhan Omar, and Gov. Tim Walz condemned the shooting, demanding ICE leave the city and announcing joint state and federal investigations. Protests erupted at the scene, where demonstrators clashed with agents. The incident recalls George Floyd’s murder site and intensifies scrutiny of the Trump administration’s enforcement surge targeting Somali residents.",
-      "summaryTokens": 1146,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "During a large-scale ICE enforcement sweep in Minneapolis on Jan. 7, an ICE agent shot and killed 37-year-old US citizen Renee Nicole Macklin Good—a poet, mother of three and legal observer—after her car backed away from agents. DHS labeled her a “domestic terrorist” who tried to run over officers, but video shows the SUV reversing and no one injured. Mayor Jacob Frey, Governor Tim Walz, Congresswoman Ilhan Omar and others demanded ICE leave and announced a full FBI/Minnesota BCA probe. Protests erupted nearby, decrying the shooting as unjustified.",
+      "summaryTokens": 935,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/ice-shooting-minneapolis-minnesota-reaction",
@@ -89,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T21:32:36Z",
       "trailText": "People gathered at the scene of the killing to protest after city’s mayor demands ICE ‘get the fuck out’",
-      "summary": "In Minneapolis, during ICE’s largest 30-day enforcement surge, a federal agent fatally shot a 37-year-old woman in a car, prompting dozens of protesters and trained observers—shadowing ICE— to rally on the snowy street. Demonstrators hurled snowballs, chanted “immigrants are welcome here,” and demanded police arrest the agent. Mayor Jacob Frey joined calls for ICE to “get the fuck out,” accusing the agency of terrorizing communities. After Minneapolis police took over, ICE withdrew amid pellet and irritant deployment. The FBI and Minnesota Bureau of Criminal Apprehension now jointly probe the shooting for any legal violations.",
-      "summaryTokens": 495,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "During a large‐scale 30‐day ICE operation in Minneapolis, a federal agent fatally shot a 37-year-old white woman inside her car, sparking protests and condemnation. Dozens of trained observers, community members and bystanders—chanting “immigrants are welcome here”—surrounded cordoned-off ICE vehicles on a snowy street, while Mayor Jacob Frey demanded ICE “get the fuck out” of the city. Minneapolis police later took control as agents used irritants against those pelting their vehicles with snowballs. The FBI and Minnesota Bureau of Criminal Apprehension have launched a joint investigation into the shooting.",
+      "summaryTokens": 493,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/minnesota-ice-shooting-democrats-reaction",
@@ -101,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T20:59:23Z",
       "trailText": "Governor readies national guard as Minneapolis mayor and others denounce immigration agent killing woman during raid",
-      "summary": "Following an ICE agent’s shooting death of a 37-year-old woman during a Minneapolis raid, Minnesota Democrats—including Mayor Jacob Frey, Gov. Tim Walz, AG Keith Ellison, Sen. Tina Smith, Reps. Kelly Morrison and Betty McCollum—rejected DHS’s self-defense claim as “bullshit,” demanding ICE leave the state. Walz activated the National Guard, urged calm and peaceful protest, and called for a swift, transparent investigation. The ACLU echoed removal calls. Republicans and Trump defended the officer’s actions.",
-      "summaryTokens": 941,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Following the fatal shooting of a 37-year-old woman by an ICE agent during a Minneapolis raid, Minnesota’s Democratic mayor, governor and attorney general publicly rejected the DHS account, called for a full independent investigation and demanded ICE withdraw from the state. Mayor Jacob Frey deemed the officer’s self-defense claim “bullshit,” while Gov. Tim Walz activated the emergency operations center and warned the National Guard. Democratic lawmakers and the ACLU urged calm protests, transparency and accountability. In contrast, state Republicans and former President Trump defended the ICE agent’s actions as self-defense amid violent obstruction.",
+      "summaryTokens": 358,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/trump-immigration-ice-shootings",
@@ -113,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T20:55:46Z",
       "trailText": "Data compiled by news non-profit the Trace shows 14 firearm incidents and more uses of force cases",
-      "summary": "Federal immigration agents under Trump’s expanded enforcement are linked to 14 shootings and 28 total use-of-force incidents in recent months, according to The Trace’s analysis of Gun Violence Archive and media reports. Thirteen less-lethal deployments—mostly rubber bullets and pepper balls—occurred, often at protests. The latest fatal shooting hit a legal observer in Minneapolis during a 2,000-agent operation. ICE detention has surged nearly 50% to over 65,000, with 328,000 arrests, 327,000 deportations, and 32 in-custody deaths in 2025, driven by overcrowding, neglect, mental-health crises and gun violence.",
-      "summaryTokens": 762,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Federal immigration agents tied to 14 shootings and 28 use-of-force incidents since July under Trump’s expanded enforcement crackdown. Data compiled by the Trace with Gun Violence Archive and media reports show agents have killed four people and injured five, likely an undercount. Officers also deployed less-lethal weapons in 13 cases, shooting rubber bullets or pepper balls, including two pastors at protests. The most recent incident saw a federal agent fatally shoot a woman legal observer during a Minneapolis operation against alleged Somali fraud. ICE detention has surged 50% to over 65,000, and 32 detainees died in custody in 2025 —a 20-year record.",
+      "summaryTokens": 1006,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/pittsburgh-post-gazette-closing",
@@ -125,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T20:47:06Z",
       "trailText": "Newspaper’s closure follows two decades of financial losses totaling over $350m and legal ruling favoring its union",
-      "summary": "Block Communications, parent company of the nearly 240-year-old Pittsburgh Post-Gazette (founded in 1786), will cease print and digital operations after its May 3 final edition. The Toledo-based publisher cited over $350 million in cumulative losses across 20 years and a recent labor ruling reinstating terms of the 2014–2017 union agreement—deemed “outdated and inflexible”—as making continued operations unsustainable. The decision follows this month’s closure of the 34-year-old Pittsburgh City Paper and drew company regrets over the impact on local journalism and the region.",
-      "summaryTokens": 1194,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Pittsburgh Post-Gazette, founded 1786, will publish its final edition on May 3, when Block Communications shuts the paper after two decades of cumulative losses exceeding $350 million. The Toledo-based parent cited unsustainable cash deficits and a recent legal ruling reinstating the 2014–17 union labor agreement, calling its outdated, inflexible terms ill-suited to today’s local journalism. Block Communications lamented the impact on Pittsburgh and earlier this month closed the 34-year-old Pittsburgh City Paper over similar financial challenges.",
+      "summaryTokens": 855,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/a-day-of-love-with-more-than-100-casualties",
@@ -137,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T19:30:46Z",
       "trailText": "The White House’s official retelling of the January 6 insurrection strains credulity",
-      "summary": "The White House’s new “J6” webpage recasts Jan 6 rioters—who wounded 140 officers, killed nine people and led to 1,500 convictions—as “peaceful patriotic protesters,” echoes Trump’s “day of love” spin and falsely blames Democrats for an “insurrection” over certifying Biden’s victory. Since taking office in 2025, Trump pardoned nearly all rioters—six later charged with child sexual abuse and two with rape. Democrats held hearings and a moment of silence to counter this Republican gaslighting. Public Citizen denounced the page as Orwellian propaganda denying the violence witnessed by millions, while Trump remained silent on the anniversary.",
-      "summaryTokens": 885,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "On the five-year anniversary of the January 6 Capitol insurrection, the Trump White House launched a web page branding over 1,500 convicted rioters as “peaceful patriotic protesters” and recasting police as instigators, while President Trump hailed the “day of love.” In reality, the attack injured more than 140 officers, caused nine deaths, and led to 1,500 prosecutions. Trump pardoned most participants after taking office, including several later charged with sexual abuse. Democrats held hearings and a moment of silence to counter what they call a Big Lie of history rewriting.",
+      "summaryTokens": 1257,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "world/2026/jan/07/russia-submarine-escort-shadow-fleet-tanker-us-sanctions",
@@ -149,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T19:18:52Z",
       "trailText": "US European Command says it boarded the Marinera over alleged sanctions violations, a move that risks confrontation with Moscow",
-      "summary": "After a two-week transatlantic pursuit from the Caribbean, US European Command and Coast Guard forces seized the Russian-flagged tanker Marinera for alleged sanctions breaches, marking the first US military seizure of a Russian-flagged vessel. The operation, backed by UK support, followed intelligence of a Russian submarine escort and multiple Western surveillance flights. Parallel interdiction of the dark-fleet tanker M Sophia underscores Washington’s “complete blockade” on Venezuela-linked oil under Trump’s sanctions regime. Moscow’s muted reaction belies legal protests under UNCLOS. The seizure highlights escalating sanctions enforcement against Russia’s “shadow fleet” amid sensitive Ukraine peace talks.",
-      "summaryTokens": 491,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "US forces seized the Russian-flagged oil tanker Marinera in the North Atlantic after a dramatic two-week pursuit from the Caribbean, risking a rare confrontation with Moscow, which had dispatched a submarine to protect the vessel. The boarding—the first known US military seizure of a Russian-flagged ship—followed alleged sanctions breaches by the shadow-fleet tanker, recently interdicted off Venezuela. Britain aided the operation. The White House vowed continued enforcement of Venezuelan oil sanctions. Russia protested, demanding dignified treatment of the crew. Kyiv welcomed the action as a model for curbing Moscow.",
+      "summaryTokens": 1123,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/08/trump-ban-investor-home-buying",
@@ -161,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T19:14:16Z",
       "trailText": "Median sale price was at $410,800 last year, according to the Census Bureau, even as Trump campaigned on affordability",
-      "summary": "President Trump announced on Truth Social a plan to ban large institutional investors from buying single-family homes to curb surging prices. He’ll ask Congress to codify the measure and unveil further housing proposals in a Davos speech. He previously campaigned in 2024 on affordability, promising rapid cost-of-living relief. The move targets affordability amid inflation above typical levels and record home prices, with the median sale price at $410,800 last year, per the Census Bureau. Trump framed homeownership as the “American Dream,” blamed President Biden for inflation, and vowed to restore access for young buyers.",
-      "summaryTokens": 1256,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "President Donald Trump announced on Truth Social he will seek to ban large institutional investors from purchasing single-family homes to curb US home prices, asking Congress to codify the measure. He plans to unveil further housing and affordability proposals during a speech at the Davos World Economic Forum. Trump cited record-high inflation under Biden and a median US home price of $410,800 last year, pledging to revive housing accessibility for younger Americans.",
+      "summaryTokens": 574,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/06/nick-reiner-arraignment-murder-rob-reiner",
@@ -173,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T18:34:10Z",
       "trailText": "Son of director Rob Reiner and Michele Singer Reiner will now be represented by public defender in murder case",
-      "summary": "Nick Reiner’s initial arraignment on two counts of first-degree murder in the slaying of his parents, director Rob Reiner and Michele Singer Reiner, was pushed to February after his attorney, Alan Jackson, withdrew for undisclosed legal and ethical reasons. A public defender has been appointed. The 32-year-old, held without bail on special-circumstance murder and weapon allegations, has a documented history of mental illness and addiction. Prosecutors say both victims died of multiple stab wounds. If convicted, he faces life without parole or the death penalty.",
-      "summaryTokens": 352,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Nick Reiner’s scheduled arraignment on two counts of first-degree murder in the stabbing deaths of his parents, director Rob Reiner and Michele Singer Reiner, was postponed to February after attorney Alan Jackson withdrew. Judge Theresa McGonigle assigned a public defender. Jackson, citing undisclosed legal and ethical issues, affirmed Reiner’s innocence under California law. The 32-year-old, held without bail in solitary confinement amid documented mental health struggles, faces special-circumstance and weapon allegations. He’s pleaded not guilty and is due back in court on February 23.",
+      "summaryTokens": 1452,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/trump-administration-dietary-guidelines-rfk-jr",
@@ -185,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T18:02:46Z",
       "trailText": "New guidance presented by Robert F Kennedy Jr prioritizes protein, healthy fats and ‘declares war on added sugar’",
-      "summary": "The Trump administration on Jan. 7 released streamlined dietary guidelines spearheaded by HHS Secretary RFK Jr and Agriculture Secretary Brooke Rollins, under the \"Make America Healthy Again\" agenda. The new, concise framework urges Americans to \"eat real food\" by prioritizing high-quality protein, healthy fats (olive oil, butter, beef tallow), fruits, vegetables and whole grains, scaling back refined carbs and declaring war on added sugars. It emphasizes avoiding ultra-processed foods, introduces an inverted-pyramid visual placing meats and veggies at the base, and aims to help prevent or slow chronic diseases.",
-      "summaryTokens": 1251,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Under HHS Secretary Robert F. Kennedy Jr, the Trump administration on Jan. 7 released streamlined dietary guidelines urging Americans to eat whole, minimally processed foods; prioritize high-quality protein and healthy fats (olive oil, butter, beef tallow); and “declare war” on added sugar and ultra-processed products. Reflecting Kennedy’s “Make America Healthy Again” agenda, the concise guidance spans just a few pages, introduces an inverted-pyramid graphic with meats and vegetables at the top, and offers supplementary research separately to help prevent or slow chronic disease.",
+      "summaryTokens": 861,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/trump-venezuela-attack-democrat-republican-senators",
@@ -197,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T17:54:24Z",
       "trailText": "Top Trump officials brief 100 US senators on weekend raid while defending military operation and US president",
-      "summary": "Briefers Rubio, Hegseth, Bondi, Ratcliffe and Gen Caine told Congress about Operation Absolute Resolve: Delta Force’s Jan 3 raid seized Nicolás Maduro and wife in Caracas, flew them to New York for narco-terrorism trial. Republicans call it lawful arrest, plan to extract 30–50 m barrels of oil at market rates to fund Venezuela’s stabilization and transition. Democrats decry it as illegal war, pressing Congress to assert war powers amid public unease. Polls show over 60% want congressional sign-off. International condemnation from Brazil, China, Mexico and others. Next steps unclear; Trump hints at running Venezuela; Coast Guard seizes oil tankers.",
-      "summaryTokens": 1533,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "After a closed-door Capitol Hill briefing, top Trump administration officials—State Sec. Rubio, Defense Sec. Hegseth, AG Bondi, CIA Dir. Ratcliffe and Gen. Caine—defended Operation Absolute Resolve, the 3 January Delta Force raid that captured Venezuela’s Nicolás Maduro and wife, transporting them to New York. Republicans hailed it as lawful enforcement against a “fake” regime and touted plans to seize 30–50 million barrels of Venezuelan oil. Democrats warned of an illegal act of war, lack of congressional approval and no clear post-coup stability plan. Polls show over 60% of Americans and a third of senators doubt its legality or outcome.",
+      "summaryTokens": 1020,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/06/ice-trump-democrats-letter",
@@ -209,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T17:21:49Z",
       "trailText": "Exclusive: Letter decries ‘stunning abdication of basic responsibilities’ and demands to know how many officers diverted",
-      "summary": "Democratic senators led by Ruben Gallego allege that the Trump administration has reassigned over 28,000 federal officers—from FBI, HSI, DEA, ATF and others—to ICE, a “stunning abdication” that has undermined probes into child exploitation, human trafficking, drug and arms trafficking, cyber-attacks and domestic extremism. In a letter to President Trump, DHS and DOJ, they demand by Jan 19 a full accounting of diverted personnel, affected cases, internal objections and threat assessments. ICE touts record HSI arrests (46,000), 12,000 hires and 68,400 detainees—many without criminal records—while independent data show narcotics arrests down 11%, investigations down 15% and weapons seizures down 73%.",
-      "summaryTokens": 1157,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Democratic senators, led by Ruben Gallego, accuse the Trump administration of diverting over 28,000 federal law enforcement personnel—from agencies including the FBI, DEA, ATF and HSI—to ICE, undermining investigations into child exploitation, sex trafficking, drug trafficking, cartels and cybersecurity. In a letter to Trump, DHS’s Kristi Noem and AG Pam Bondi, they demand by Jan. 19 a full accounting of reassignments and affected cases. The administration counters that ICE recorded record HSI arrests in FY25 and insists it’s targeting “the worst of the worst,” while critics cite declines in narcotics probes and gun seizures.",
+      "summaryTokens": 938,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/trump-lindsey-halligan-us-attorney-unlawful",
@@ -221,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T14:21:11Z",
       "trailText": "Lindsey Halligan was installed in the position by the president to prosecute Letitia James and James Comey",
-      "summary": "Lindsey Halligan, Trump’s former personal lawyer installed without Senate confirmation to prosecute Letitia James and James Comey in Virginia, was ordered by Judge David Novak to explain within seven days why she continues to sign indictments as US attorney, following Judge Cameron Currie’s November ruling that her appointment was unconstitutional and void. While the DOJ appeals Currie’s dismissal of both cases and insists her tenure was lawful, no stay was granted, and findings of prosecutorial misconduct and confirmation delays underscore ongoing legal and ethical challenges to her authority.",
-      "summaryTokens": 792,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Trump-appointed Lindsey Halligan, installed as US attorney for the Eastern District of Virginia to prosecute Letitia James and James Comey, was ordered by Judge David Novak to explain within seven days why she continues to use the title after Judge Cameron Currie ruled her appointment unlawful. Currie voided her actions as invalid executive power, and though the DOJ has appealed without a stay, Halligan faces potential professional misconduct sanctions. Her interim appointment exceeded the Senate’s 120-day limit after predecessor Erik Siebert resigned and VA senators withheld blue slips.",
+      "summaryTokens": 408,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "news/2026/jan/07/los-angeles-wildfire-victims-surviving-the-horror",
@@ -233,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T14:00:17Z",
       "trailText": "After their lives were upended last year, they’re finally regaining their footing – but memories of the fires still haunt them",
-      "summary": "Last January’s LA firestorm, fueled by extreme winds, destroyed 16,000 structures and reshaped thousands of lives. Three survivors from Altadena and Pacific Palisades reflect on recovery: Elliott Hostetter’s family moved five times, secured a government loan but still struggles with insurance, bureaucracy and calls for better evacuation protocols; renter Jenny Weigle-Bonds rebuilt her home through community generosity after losing everything and warns official aid has waned; architect Steven Lewis returned after eight months, helps apply fire-safe design, but sees cost pressures, zoning debates and uncertainty about preserving neighborhood diversity amid rebuilding.",
-      "summaryTokens": 937,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Last January’s LA firestorm, driven by record winds, burned 16,000 structures across Los Angeles county, killed 31 people and displaced thousands. The Hostetters from Altadena have moved five times, securing a federal loan to rebuild amid insurance shortfalls and demanding local accountability after failed evacuation alerts. Jenny Weigle-Bonds in Pacific Palisades credits neighbors and strangers for furnishing her new rental but warns official aid has waned. Architect Steven Lewis stayed in Altadena, guiding code-driven reconstruction with fire-safe vents and sprinklers as zoning and density debates shape the community’s recovery.",
+      "summaryTokens": 559,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/new-york-jail-maduro-venezulea",
@@ -245,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T14:00:16Z",
       "trailText": "High-profile names have been housed in Brooklyn’s Metropolitan detention center, which is said to be unsafe and inhumane",
-      "summary": "After a controversial US raid seized Venezuelan president Nicolás Maduro and his wife Cilia Flores in Caracas, they were transferred to Brooklyn’s Metropolitan Detention Center (MDC) and pleaded not guilty in Manhattan federal court. MDC, which houses 1,336 inmates—including Sean “Diddy” Combs, Ghislaine Maxwell, Sam Bankman-Fried and “El Chapo”—is widely criticized for overcrowding, staffing shortages and unsafe, inhumane conditions: violence, suicides, perpetual lockdowns, power outages and drug-infested cells. Defense lawyers and judges have repeatedly refused to send low-risk defendants there, though the Bureau of Prisons claims reduced violence and improved staffing since January 2024.",
-      "summaryTokens": 831,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Brooklyn’s Metropolitan Detention Center, where US forces now hold Nicolás Maduro and wife Cilia Flores for their upcoming federal drug and weapons trial, is infamous for violence, suicides, overcrowding, lockdowns and “dirty”, drug-infested cells. Past inmates include “El Chapo”, Sean “Diddy” Combs, Ghislaine Maxwell and Sam Bankman-Fried. Defense attorneys and judges routinely cite unsafe, inhumane conditions to seek bail reductions or refuse transfers. The Bureau of Prisons touts staffing gains and reduced violence since January 2024.",
+      "summaryTokens": 674,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/dating-while-living-with-parents-vallejo-california",
@@ -257,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T13:00:13Z",
       "trailText": "In Vallejo, California, ‘trad sons’ report feeling trapped by family obligations, slim job prospects and the fear of violence – leaving little room for romance",
-      "summary": "In Vallejo, California—where 33% of men aged 19–34 live with parents, the highest rate in the US—Gen Z “trad sons” say family obligations, slim pay, Bay Area rents and local violence stall their love lives. Personal trainer Jorge and model-actor Kimani embrace intergenerational homes as emotional havens; government worker Edward and union apprentice Daniel chafe under parental matchmaking, grueling commutes and financial strain. Residents avoid dating apps amid safety fears, echoing a 2025 survey that 37% of Gen Z cite inflation-driven celibacy. Psychologist Jeffrey Arnett links these delays to a stretched “emerging adulthood,” as economic shifts and cultural norms defer marriage, nest-leaving and childbearing.",
-      "summaryTokens": 777,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "In Vallejo, CA, where 33% of 25–34-year-olds live at home—the highest rate in the US—Gen Z men (“trad sons”) navigate intergenerational households amid cultural traditions, economic precarity and community violence. Personal trainers, actors, union workers and government employees describe feeling stuck by slim job prospects, Bay Area rents, three-hour commutes and fears of street crime and ICE raids, leading them to postpone dating and family formation. Some, like Jorge and Kimani, cherish family cohesion and find peace; others, like Edward and Daniel, chafe under parental expectations and seek independence, reflecting an extended “emerging adulthood.”",
+      "summaryTokens": 504,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/first-thing-white-house-says-using-us-military-always-an-option-acquiring-greenland",
@@ -269,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T11:41:56Z",
       "trailText": "Trump demands Venezuela open up to US oil companies or risk more military action. Plus, justice department has released less than 1% of Epstein files",
-      "summary": "On Jan 7, the White House declared President Trump is weighing “a range of options” to acquire Greenland — including using US military force — to counter rivals in the Arctic, prompting France, Germany, the UK and Denmark to jointly reaffirm Greenland’s sovereignty under NATO. Simultaneously, Trump demanded Venezuela turn over $2bn in oil to US control or face military pressure. In parallel, Israel revived plans for its E1 West Bank settlement with US acquiescence, and a DOJ filing revealed under 1% of Epstein files have been released.",
-      "summaryTokens": 803,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "On Jan 7, the White House declared that using US military force to acquire Greenland is ‘always an option’ in Trump’s Arctic security push. France, Germany, the UK and Denmark issued a joint plea for Washington to respect Greenland’s sovereignty under NATO’s Arctic mandate. Other First Thing highlights: Trump says Venezuela will ‘turn over’ $2 billion in crude to the US or face more military action; Israel tendered 3,401 West Bank homes in the E1 project; the DOJ has published under 1% of Epstein files.",
+      "summaryTokens": 612,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/us-vaccine-schedule-guidelines-change",
@@ -281,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T11:00:14Z",
       "trailText": "Scientists predict increased disease outbreaks after Trump officials no longer recommend third of childhood vaccines",
-      "summary": "Under HHS Secretary RFK Jr, the US has removed routine recommendation for a third of childhood vaccines, shifting shots like hepatitis A/B, RSV, meningococcal, dengue and influenza to high-risk or shared decision-making status, and reducing HPV to one dose. Experts call it the biggest US schedule overhaul in modern history, made without scientific evidence, public input or ACIP review, warning it will widen disease outbreaks, exacerbate disparities, and pit America behind peer high-income nations with universal childhood immunization. The 33-page report by two vaccine skeptics bypassed standard advisory panels, sparking alarm among Stanford and CDC experts.",
-      "summaryTokens": 1070,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "HHS led by RFK Jr enacted the largest US vaccination schedule change in modern history, removing full recommendations for a third of childhood vaccines—hepatitis A, B, RSV, dengue, influenza, rotavirus, meningococcal and HPV—reclassifying many to high-risk or shared clinical-decision tiers. Experts warn this unprecedented rollback, made without ACIP debate or public input and based on a two-author skeptic report, will erode US vaccination leadership, worsen outbreaks in its fragmented system and shift America toward an outlier schedule akin to Denmark, bucking peers like the UK, Canada and Australia.",
+      "summaryTokens": 2660,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/los-angeles-ca-wildfires-prevention",
@@ -293,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T11:00:12Z",
       "trailText": "After the devastating fires, neighborhoods pledged to build back stronger and better than before. A year later, they’re still untangling issues",
-      "summary": "A year after the unprecedented wildfires that killed 31 people and destroyed over 16,000 structures in Pacific Palisades and Altadena, Los Angeles recovery remains slow and unequal. Only 41% of rebuild permits are filed, with wealthy homeowners and outside investors dominating reconstruction while underinsured residents grapple with red tape, high costs and housing shortages. Emergency systems—from water supply to evacuation alerts—failed amid record winds, drought and brush. Researchers and nonprofits (MySafe:LA, UCLA) identify leadership gaps, flawed communications and regulatory hurdles, advocating comprehensive home-hardening, resilient zoning and community-scale models like Habitat’s Foothill Catalog. With 115 million Americans at similar risk, experts warn the next \"perfect storm\" could be far worse without urgent lessons learned.",
-      "summaryTokens": 647,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "After January’s ‘perfect storm’ LA wildfires killed 31 and incinerated 16,000+ structures across Pacific Palisades and Altadena, cleanup crews removed 2.5m tons of debris—fastest in US history—but only 41% of rebuild permits have been issued. Progress skews toward affluent, underinsured residents face financial, bureaucratic hurdles while investors scoop burned lots. Evacuation gridlock, failed alerts and overwhelmed water systems exposed systemic gaps. Researchers call for tougher building codes, insulated evacuation routes and community-driven preparedness as climate-driven fire risk looms for 115M Americans.",
+      "summaryTokens": 1382,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/07/maga-stars-trump-venezuela",
@@ -305,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T10:00:39Z",
       "trailText": "Maga media used to hate US foreign intervention – now some are cheering it on",
-      "summary": "After invading Venezuela and abducting President Maduro despite his ‘no war’ pledge, Trump won broad backing from MAGA media: Fox hosts Levin, Hannity and Watters praised the precision ‘extraction’ under the so-called ‘Donroe Doctrine’. Republican ex-congressman Joe Walsh predicted conservatives would unite behind him. Cautious voices—Carlson, Kelly and libertarian Kat Timpf—warned of hypocrisy and oil motives. Owens denounced it as a CIA takeover. The NY Post hailed ‘Operation Absolute Resolve’, but the WSJ editorials questioned U.S. mercenary aims and the gamble on Maduro’s successors. Despite few reservations, most conservative outlets aligned with Trump.",
-      "summaryTokens": 1340,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "After Trump’s surprise raid to remove Venezuela’s Nicolás Maduro, key MAGA media figures rallied behind his “America first” intervention despite his prior anti-war pledges. Fox hosts Mark Levin and Sean Hannity celebrated the incursion as a precise “Donroe Doctrine” strike, while Ben Shapiro defended it as GOP toughness. Conservative dissidents—including Tucker Carlson, Megyn Kelly, Kat Timpf and Candace Owens—warned of legal, strategic and moral pitfalls. Editorials split: the New York Post lauded “Operation Absolute Resolve,” while the Wall Street Journal cautioned over reliance on Maduro’s deputies and overt oil motives.",
+      "summaryTokens": 1063,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/06/trump-administration-childcare-freeze",
@@ -317,9 +605,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T02:57:01Z",
       "trailText": "Democrats condemn move in California, Colorado, Illinois, Minnesota and New York, calling it ‘vindictive’ and ‘cruel’",
-      "summary": "The Trump administration has frozen over $10 billion in federal childcare and family assistance—$2.4 billion from the Child Care and Development Fund, $7.35 billion from TANF and $869 million in Social Services Block Grants—to California, Colorado, Illinois, Minnesota and New York, all led by Democratic governors. HHS says it suspects fraud but has offered no evidence. State leaders call the move politically motivated, vindictive and cruel. Minnesota programs, especially Somali-run daycare centers, have faced intensified scrutiny. Critics accuse the administration of targeting blue states and immigrant communities under the guise of fraud prevention.",
-      "summaryTokens": 551,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "The Trump administration has frozen over $10 billion in federal childcare and family assistance funds to California, Colorado, Illinois, Minnesota and New York pending fraud reviews, affecting $2.4 billion in Child Care and Development, $7.35 billion in Temporary Assistance for Needy Families and $869 million in Social Services Block Grants. HHS alleges misuse in Democrat-led states but provides no specifics. Governors Hochul, Newsom and Walz condemn the action as vindictive, while critics say fraud probes are being used to target immigrants and political opponents; Trump tweeted, “The Fraud Investigation of California has begun.”",
+      "summaryTokens": 487,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/06/trump-administration-news-latest-updates-today",
@@ -329,9 +617,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T02:41:05Z",
       "trailText": "White House says using US military to secure arctic territory is ‘always an option’ as European leaders push back",
-      "summary": "President Trump has revived plans to acquire Greenland, publicly noting that US military intervention is “always an option” after the midnight arrest of Venezuela’s Nicolás Maduro. European NATO allies—led by Denmark’s PM Mette Frederiksen and Greenland’s leader Jens-Frederik Nielsen—denounced the proposal as “fantasy” and warned any attack would imperil postwar security. A Wall Street Journal report cites a preference to purchase rather than invade. Other updates: Trump touts control of seized Venezuelan oil, ramps up ICE operations in Minnesota, DOJ has released under 1% of Epstein files, and GOP senators resist Pentagon moves against Mark Kelly.",
-      "summaryTokens": 1451,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Trump escalates push to buy or seize Greenland, deeming military option “always an option” amid Danish/Greenland resistance (polls show just 7% US support) and NATO solidarity—France, Germany, UK and Denmark urge US to respect sovereignty. Administration eyes Venezuelan oil transfer under US control; proposes taxpayer reimbursements for oil firms to rebuild Venezuelan infrastructure. Deploys more immigration agents to Minnesota; DOJ has released under 1% of Epstein files. Democrats criticize ICE’s diversion from trafficking cases. Fifth J6 anniversary sees GOP silence; two Republican senators oppose Hegseth’s censure of Kelly.",
+      "summaryTokens": 1514,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/06/aldrich-ames-cia-agent-dead",
@@ -341,9 +629,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T01:20:32Z",
       "trailText": "In damaging intelligence breach, Ames admitted to passing information to Moscow for nearly a decade",
-      "summary": "Aldrich Ames, a former CIA counterintelligence officer who spied for the Soviet Union and Russia from the mid-1980s through early 1990s, has died aged 84 in a Maryland prison. Arrested in 1994 alongside his wife Rosario, he pled guilty to espionage and tax evasion and received life without parole; she served just over five years. Ames admitted selling identities of Western agents behind the Iron Curtain for $2.5 million to settle debts. His betrayal, chronicled in Ben Macintyre’s The Spy and the Traitor, remains one of the CIA’s most damaging breaches.",
-      "summaryTokens": 489,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Aldrich Ames, the ex-CIA officer who spied for the Soviet Union and Russia for nearly a decade, has died at 84 in a Maryland prison. Arrested in 1994 alongside his wife Rosario, he pleaded guilty to espionage and tax evasion and received a life sentence while she served just over five years. Ames admitted passing the identities of Western operatives for $2.5 million, citing financial woes, yet minimized the breach’s impact. His treachery—chronicled in Ben Macintyre’s The Spy and the Traitor—remains one of the most damaging intelligence scandals in US history.",
+      "summaryTokens": 555,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/06/brown-university-shooter-video-transcripts",
@@ -353,9 +641,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-07T01:14:33Z",
       "trailText": "Justice department translated recordings made in Portuguese by man believed to be behind killings",
-      "summary": "The Justice Department released English translations of Portuguese video recordings made by the former Brown University graduate student and Portuguese national who killed two Brown students and an MIT professor in December. He says in the tapes that he planned the attack over six semesters, stored weapons in a New Hampshire facility for three years, insisted he wasn’t mentally ill or seeking fame, and offered no motive. Authorities found him dead by suicide days after the shootings. Victims: Brown sophomores Ella Cook and MukhammadAziz Umurzokov, and MIT physicist Nuno FG Loureiro.",
-      "summaryTokens": 477,
-      "generatedAt": "2026-01-08T04:18:47.064Z"
+      "summary": "Video transcripts released by the US Justice Department reveal that the man accused of the Dec 13–15 slayings at Brown University and MIT—a former Brown graduate physics student and Portuguese national—planned his attack over six semesters. He killed Brown sophomores Ella Cook and MukhammadAziz Umurzokov in the engineering building, wounded nine, then fatally shot MIT fusion scientist Nuno F.G. Loureiro. Found dead by self-inflicted gunshot in a New Hampshire storage unit days later, he left recordings claiming no apology or manifesto and disputing mental illness, without stating a motive.",
+      "summaryTokens": 870,
+      "generatedAt": "2026-01-09T03:59:18.114Z"
     },
     {
       "id": "us-news/2026/jan/06/trump-greenland-control-us-military",
@@ -581,7 +869,7 @@
       "section": "us-news",
       "publishedDate": "2026-01-06T02:35:07Z",
       "trailText": "Suit against San Francisco-area cities Petaluma and Morgan Hill latest attack on policies that seek to rein in oil and gas",
-      "summary": "The Trump administration’s DOJ sued Morgan Hill and Petaluma in US District Court (N. California), seeking to block local laws since 2019 that ban natural‐gas infrastructure and appliances in new construction. The complaint cites a 1975 federal energy‐use preemption law, labeling the ordinances unlawful and costly. This action follows a 2023 appeals court ruling against Berkeley’s gas ban and forms part of a GOP campaign against municipal fossil‐fuel restrictions. City officials, Gov. Newsom and AG Bonta have not commented. In July, both cities also joined suits challenging Trump funding curbs on DEI/reproductive‐rights stances and sanctuary jurisdiction policies.",
+      "summary": "The Trump administration’s DOJ sued Morgan Hill and Petaluma in US District Court (N. California), seeking to block local laws since 2019 that ban natural‐gas infrastructure and appliances in new construction. The complaint cites a 1975 federal energy‐use preemption law, labeling the ordinances unlawful and costly. This action follows a 2023 appeals court ruling against Berkeley’s gas ban and forms part of a GOP campaign against municipal fossil���fuel restrictions. City officials, Gov. Newsom and AG Bonta have not commented. In July, both cities also joined suits challenging Trump funding curbs on DEI/reproductive‐rights stances and sanctuary jurisdiction policies.",
       "summaryTokens": 498,
       "generatedAt": "2026-01-08T04:18:47.064Z"
     },
