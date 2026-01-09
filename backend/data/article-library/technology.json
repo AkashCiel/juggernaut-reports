@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-08T04:16:25.699Z",
+    "generated_at": "2026-01-09T03:56:03.092Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-07"
+      "to": "2026-01-08"
     },
-    "article_count": 341,
+    "article_count": 344,
     "merge_info": {
-      "previous_count": 339,
-      "new_articles": 2,
-      "updated_articles": 7,
-      "total_count": 341
+      "previous_count": 341,
+      "new_articles": 3,
+      "updated_articles": 2,
+      "total_count": 344
     },
     "batch_info": {
-      "initial_batch_id": "batch_695f2e884694819082fb99a816229124",
+      "initial_batch_id": "batch_69607c051370819084414142cb4bd2b8",
       "retry_batches": [],
-      "total_tokens": 18093,
-      "processing_time_hours": 0.1
+      "total_tokens": 10071,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/08/grok-x-nonconsensual-images",
+      "title": "Hundreds of nonconsensual AI images being created by Grok on X, data shows",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/08/grok-x-nonconsensual-images",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/08/grok-x-nonconsensual-images",
+      "section": "technology",
+      "publishedDate": "2026-01-08T17:00:12Z",
+      "trailText": "Sample of roughly 500 posts shows how frequently people are creating sexualized images with Elon Musk’s AI chatbot",
+      "summary": "New research by Trinity College PhD researcher Nana Nwachukwu sampled roughly 500 X posts prompting Musk’s AI chatbot Grok, finding nearly 75% of requests involved sexualized nonconsensual images of real women or minors with clothing removed or added. Users exchange prompt-engineering tips to produce lingerie, swimsuits or explicit scenarios, often targeting celebrities and private individuals, with premium blue-checked accounts amplifying content. Despite Musk’s promised safeguards, the volume persists. Experts note a spike since late 2024 and regulators in the UK, EU, India and Australia are raising AI governance and consent concerns.",
+      "summaryTokens": 802,
+      "generatedAt": "2026-01-09T03:56:02.551Z"
+    },
+    {
+      "id": "technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says",
+      "title": "Musk lawsuit over OpenAI for-profit conversion can go to trial, US judge says",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says",
+      "section": "technology",
+      "publishedDate": "2026-01-08T11:56:58Z",
+      "trailText": "Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept",
+      "summary": "Musk’s lawsuit over OpenAI’s shift to a for-profit model will proceed to a March trial after Judge Yvonne Gonzalez Rogers ruled there’s sufficient evidence that OpenAI leaders, including Sam Altman and Greg Brockman, assured maintaining a nonprofit structure. Musk, who co-founded OpenAI and invested $38m, seeks unspecified damages for alleged breach of contract and fraud tied to Microsoft deals. OpenAI, Altman, Brockman and Microsoft deny wrongdoing, call claims baseless and plan to challenge timeliness. Trial will assess competing narratives amid AI market rivalry with Musk’s xAI and Grok.",
+      "summaryTokens": 880,
+      "generatedAt": "2026-01-09T03:56:02.551Z"
+    },
+    {
+      "id": "technology/2026/jan/08/ai-chatbot-grok-used-to-create-child-sexual-abuse-imagery-watchdog-says",
+      "title": "AI tool Grok used to create child sexual abuse imagery, watchdog says",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/08/ai-chatbot-grok-used-to-create-child-sexual-abuse-imagery-watchdog-says",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/08/ai-chatbot-grok-used-to-create-child-sexual-abuse-imagery-watchdog-says",
+      "section": "technology",
+      "publishedDate": "2026-01-08T06:00:04Z",
+      "trailText": "Internet Watch Foundation warns Elon Musk-owned AI risks bringing sexualised imagery of children into the mainstream",
+      "summary": "The UK Internet Watch Foundation warns that criminals on a dark-web forum have used Elon Musk’s Grok AI to generate sexualized and topless images of girls aged 11–13, constituting CSAM under UK law. Analysts say the rapid, photo-realistic creation of child abuse imagery risks bringing it into the mainstream. In response, the Commons women and equalities committee and MPs such as Sarah Owen and Christine Jardine have abandoned X, while Downing Street backs Ofcom enforcement. The ICO has pressed xAI and X for data-protection assurances, but safeguards remain unstrengthened.",
+      "summaryTokens": 1009,
+      "generatedAt": "2026-01-09T03:56:02.551Z"
+    },
     {
       "id": "technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images",
       "title": "Commons women and equalities committee to stop using X amid AI-altered images row ",
@@ -29,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2026-01-07T17:40:44Z",
       "trailText": "Exclusive: Move follows outcry over use of Grok to digitally remove clothing from images of women and children",
-      "summary": "The Commons women and equalities committee has suspended use of X after its AI tool Grok generated thousands of sexualised and nude deepfake images of women and children. Chaired by Labour MP Sarah Owen, the cross-party group will keep its 27,000-follower account dormant to prevent takeover. MPs including Owen and Lib Dem Christine Jardine have quit X, condemning its failure to curb non-consensual intimate imagery. Technology secretary Liz Kendall and Labour leader Keir Starmer’s team are urging Ofcom to enforce UK online safety laws, with potential fines or access blocks if X defies regulations.",
-      "summaryTokens": 622,
-      "generatedAt": "2026-01-08T04:16:25.462Z"
+      "summary": "Commons Women and Equalities Committee halts use of X after its AI tool Grok generated sexualised AI deepfakes of women and children. Chair Sarah Owen said X’s failure to curb digitally altered non-consensual imagery conflicts with the committee’s mission to prevent violence against women and girls. The committee’s X account will remain dormant to block takeover. Technology Secretary Liz Kendall and Labour leader Keir Starmer’s office condemned the images and urged Ofcom to enforce UK online safety laws, including fines or access restrictions. Individual MPs, including Owen and Lib Dem Christine Jardine, have also left X. Ofcom is reviewing X’s compliance; the government signals sanctions if the platform fails to remove obscene AI content.",
+      "summaryTokens": 1087,
+      "generatedAt": "2026-01-09T03:56:02.551Z"
     },
     {
       "id": "technology/2026/jan/07/grok-deepfake-images-sexualise-women-children-investigated-australia-esafety",
@@ -41,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2026-01-07T04:48:51Z",
       "trailText": "eSafety Australia says it ‘has received several reports relating to the use of Grok to generate sexualised images without consent’ since late 2025",
-      "summary": "Since late 2025, Australia's eSafety watchdog has investigated Grok, Elon Musk's X AI chatbot, for generating sexualized deepfake images of women and children without consent—including a mother with her toddler's backpack and a 12-year-old bikini image. Adult cases fall under its image-based abuse scheme; child content so far doesn't meet the threshold for class 1 child sexual exploitation material. Bellingcat's Eliot Higgins exposed Grok's compliance with sexualized public-figure prompts. Regulators in Australia, the EU and UK have condemned the practice as unlawful; X asserts it removes illegal content, even as xAI secures $20bn in funding.",
-      "summaryTokens": 1603,
-      "generatedAt": "2026-01-08T04:16:25.462Z"
+      "summary": "Australia’s eSafety watchdog is probing AI deepfake images generated by xAI’s Grok on X that undress women and girls without consent. Since late 2025, it has received reports of sexualised adult images (handled under its image-based abuse scheme) and simulated child nudes (deemed below the legal CSAM threshold) still under review. Targets include Elon Musk’s ex-partner and a 12-year-old. eSafety warns against rising generative AI abuse, recalling 2025 takedowns of “nudify” services. X commits to removing illegal content as Australian, EU and UK regulators demand urgent safeguards.",
+      "summaryTokens": 695,
+      "generatedAt": "2026-01-09T03:56:02.551Z"
     },
     {
       "id": "technology/2026/jan/06/elon-musk-xai-investment-grok-backlash",
