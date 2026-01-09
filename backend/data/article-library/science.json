@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-08T04:08:07.106Z",
+    "generated_at": "2026-01-09T03:52:57.843Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-07"
+      "to": "2026-01-09"
     },
-    "article_count": 168,
+    "article_count": 172,
     "merge_info": {
-      "previous_count": 167,
-      "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 168
+      "previous_count": 168,
+      "new_articles": 4,
+      "updated_articles": 1,
+      "total_count": 172
     },
     "batch_info": {
-      "initial_batch_id": "batch_695f2d433e80819095b182bd8bd8a4ff",
+      "initial_batch_id": "batch_69607b4beafc8190a7262a41c54be27c",
       "retry_batches": [],
-      "total_tokens": 2781,
+      "total_tokens": 10409,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
+      "title": "Human eggs ‘rejuvenated’ in advance that could boost IVF success rates",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
+      "section": "science",
+      "publishedDate": "2026-01-09T00:01:22Z",
+      "trailText": "Exclusive: research suggests supplementing eggs with a key protein reduces age-related defects, raising hopes of improved IVF for older women",
+      "summary": "Scientists at the Max Planck Institute and Ovo Labs have “rejuvenated” human oocytes by microinjecting Shugoshin 1, a cohesion protein that declines with age, to mitigate meiotic chromosome errors. In eggs donated by fertility patients, treated oocytes showed abnormal chromosome rates cut from 53% to 29% (65% to 44% in donors over 35). Since declining egg quality drives IVF birthrates down from 35% per embryo in women under 35 to just 5% in those 43–44, this one-shot intervention could significantly improve cycle success and reduce miscarriages. Published as a preprint and unveiled at the British Fertility Conference, safety assessments and clinical trials are underway.",
+      "summaryTokens": 1101,
+      "generatedAt": "2026-01-09T03:52:57.365Z"
+    },
+    {
+      "id": "science/2026/jan/08/gifted-learner-dogs-can-learn-words-by-eavesdropping-study-says",
+      "title": "‘Gifted learner dogs’ can learn words by eavesdropping, study says",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/08/gifted-learner-dogs-can-learn-words-by-eavesdropping-study-says",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/08/gifted-learner-dogs-can-learn-words-by-eavesdropping-study-says",
+      "section": "science",
+      "publishedDate": "2026-01-08T19:00:15Z",
+      "trailText": "Certain canines can learn using cues from people’s gaze, gestures, attention and voices, researchers find",
+      "summary": "Researchers at Vienna tested 10 ‘gifted word learner’ dogs (mainly border collies) on learning names of new toys either via direct naming or by overhearing family members handle them. Dogs retrieved correct toys ~90% after direct training and ~80% after overhearing—both above chance and statistically similar. Further tests showed dogs could learn object names even when labels were given out of sight. Findings, published in Science, suggest some dogs use human gaze, gestures and voice cues to map words, a skill paralleling toddler eavesdropping and indicating social cognition predates language.",
+      "summaryTokens": 874,
+      "generatedAt": "2026-01-09T03:52:57.365Z"
+    },
+    {
+      "id": "science/2026/jan/08/alluvi-weight-loss-drug-operation-raided-northampton",
+      "title": "Revealed: the crypto entrepreneur linked to illegal weight-loss drug operation",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/08/alluvi-weight-loss-drug-operation-raided-northampton",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/08/alluvi-weight-loss-drug-operation-raided-northampton",
+      "section": "science",
+      "publishedDate": "2026-01-08T13:22:44Z",
+      "trailText": "Haul of illicit products led by medicines regulator was described as world’s largest of its kind, but no arrests have yet been made",
+      "summary": "Unlicensed Alluvi-branded weight-loss pens containing unapproved GLP-1 agonist retatrutide were seized in October at a Northampton industrial estate in what regulators called the world’s largest illicit haul. Despite a two-day MHRA-led raid that confiscated thousands of pens, raw ingredients, equipment and £20,000 cash, no arrests have been made. Guardian investigation links entrepreneur Fasial Tariq to Wholesale Supplements Ltd and related firms trading Alluvi products online. Tariq’s past crypto ventures and luxury car ties underscore alleged illicit supply networks exploiting legal grey areas. Experts warn of patient safety risks and regulatory gaps fueling underground weight-loss drug trade.",
+      "summaryTokens": 942,
+      "generatedAt": "2026-01-09T03:52:57.365Z"
+    },
+    {
+      "id": "science/2026/jan/08/studies-link-some-food-preservatives-to-higher-diabetes-and-cancer-risk",
+      "title": "Studies link some food preservatives to higher diabetes and cancer risk",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/08/studies-link-some-food-preservatives-to-higher-diabetes-and-cancer-risk",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/08/studies-link-some-food-preservatives-to-higher-diabetes-and-cancer-risk",
+      "section": "science",
+      "publishedDate": "2026-01-08T05:00:04Z",
+      "trailText": "Of 17 preservatives studied, higher consumption of 12 of them linked with increased risk of type 2 diabetes",
+      "summary": "Two analyses of >100,000 French adults in NutriNet-Santé (2009–23) link higher intake of several common food preservatives to increased type 2 diabetes (12 of 17 additives; up to +49% incidence) and modestly elevated cancer risks for compounds such as potassium sorbate, sulfites, nitrites/nitrates and acetates. Published in Nature Communications and the BMJ, these observational findings prompt calls for regulatory reevaluation of preservative use in ultra-processed foods and consumer shifts toward fresh, minimally processed diets.",
+      "summaryTokens": 417,
+      "generatedAt": "2026-01-09T03:52:57.365Z"
+    },
     {
       "id": "science/2026/jan/07/iron-age-war-trumpet-find-britain-norfolk-boudicca-links",
       "title": "‘Extraordinary’ iron age war trumpet find in Britain may have Boudicca links",
@@ -29,9 +77,9 @@
       "section": "science",
       "publishedDate": "2026-01-07T05:00:32Z",
       "trailText": "Bronze instrument or carnyx dug up in Norfolk in area inhabited by Celtic tribe led by warrior who fought Romans",
-      "summary": "Archaeologists in west Norfolk have uncovered an 'extraordinary' Iron Age carnyx—a bronze war trumpet shaped like a snarling animal—only the third ever found in Britain and the most complete worldwide. Discovered alongside a rare boar’s head standard and shield bosses, the hoard dates to the first century AD in the heart of the Iceni territory where Boudicca’s rebellion unfolded. Experts note the instrument’s intact ears and repair marks suggest prolonged use and ritual power. Now under conservation at Norfolk Museums Service, the hoard is assessed under the Treasure Act. The find will feature on BBC Two’s Digging for Britain on 14 January.",
-      "summaryTokens": 1591,
-      "generatedAt": "2026-01-08T04:08:06.904Z"
+      "summary": "Archaeologists uncovered an extraordinary Iron Age carnyx war trumpet in west Norfolk—only the third found in Britain and the most complete worldwide—alongside a bronze boar’s head standard and five shield bosses. Dating to the first century AD and discovered within the Iceni heartland, the hoard suggests links to Boudicca’s rebellion against Rome. The snarling-animal–shaped bronze instrument, still bearing its original flappy ears, shows signs of long-term repair and use. Now under conservation, it promises to transform our understanding of Iron Age sound, ritual and power. The find features on BBC Two’s Digging for Britain on 14 January.",
+      "summaryTokens": 1019,
+      "generatedAt": "2026-01-09T03:52:57.365Z"
     },
     {
       "id": "science/2026/jan/05/did-you-solve-it-are-you-as-smart-as-spock",
