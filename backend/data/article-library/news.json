@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-09T03:35:52.928Z",
+    "generated_at": "2026-01-10T03:30:06.950Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-08"
+      "to": "2026-01-09"
     },
-    "article_count": 199,
+    "article_count": 200,
     "merge_info": {
-      "previous_count": 197,
-      "new_articles": 2,
-      "updated_articles": 3,
-      "total_count": 199
+      "previous_count": 199,
+      "new_articles": 1,
+      "updated_articles": 2,
+      "total_count": 200
     },
     "batch_info": {
-      "initial_batch_id": "batch_6960772a8f208190a8c01c00aeb537f8",
+      "initial_batch_id": "batch_6961c75ca38c8190845a1c2723b27a55",
       "retry_batches": [],
-      "total_tokens": 9538,
+      "total_tokens": 8174,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/09/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/09/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/09/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2026-01-09T21:40:39Z",
+      "trailText": "Jonathan David Ross, Minneapolis – an apology",
+      "summary": "Corrections: Jonathan David Ross was wrongly named as the ICE agent who shot Renee Nicole Good—apology issued; East Midlands Railway’s Aurora trains entered service December 2025, not awaiting a 2026 debut at St Pancras; Poon’s was not the UK’s first Chinese restaurant to earn a Michelin star in the 1980s—Lee Ho Fook did so in 1974; Quick crossword No 17,361’s 1-across needs an 8,5 two-word answer, not a 13-letter word. Other amended stories cover US immigration shootings, US-Venezuela mineral conflict and Scottish islanders’ tunnel campaign. Contact: guardian.readers@theguardian.com",
+      "summaryTokens": 4687,
+      "generatedAt": "2026-01-10T03:30:06.827Z"
+    },
     {
       "id": "news/2026/jan/08/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2026-01-08T21:00:17Z",
       "trailText": "Palestine Action letter",
-      "summary": "Guardian corrects that the letter to David Lammy warning of Palestine Action hunger strikers’ medical emergency on 27 November was signed by 100+ medical professionals, not 800; a later 17 December letter had 800+ medical, legal and other experts. Also corrects articles on Indian police raiding environmental activists; US conservatives and psychedelics; top 15 Xbox Series S/X games for 2026; and a study finding >20% of videos shown to new YouTube users are AI-generated slop. Readers can submit complaints to guardian.readers@theguardian.com or via post/voicemail.",
-      "summaryTokens": 1251,
-      "generatedAt": "2026-01-09T03:35:52.433Z"
+      "summary": "Correction clarifies that the Nov 27 Palestine Action hunger strike appeal to David Lammy was signed by just over 100 medical professionals, not 800; a later Dec 17 letter carried more than 800 medical, legal and other experts. The piece also lists recently corrected reports on: an Indian police raid of environmental campaigners; US conservative Christian support for psychedelics; the top 15 Xbox Series S/X titles for 2026; a study finding over 20% of YouTube recommendations are AI-generated. Readers can send edits and complaints to the Guardian’s readers’ editor.",
+      "summaryTokens": 1180,
+      "generatedAt": "2026-01-10T03:30:06.827Z"
     },
     {
       "id": "news/2026/jan/08/shifting-offshore-sandbanks-pose-unique-navigation-hazard-goodwin-sands",
@@ -41,9 +53,9 @@
       "section": "news",
       "publishedDate": "2026-01-08T06:00:04Z",
       "trailText": "Sandbanks can shift position during winter storms, but sonar mapping means charts can now be updated immediately",
-      "summary": "The Goodwin Sands, a 10-mile (16km) shoal off Deal in Kent near the Dover Strait, poses a unique navigation hazard as its 25m-deep sands rest on chalk and shift in winter storms. Wave action erodes one side and deposits on another, forming or closing channels; whole banks can migrate or rotate (e.g., one North Sea bank moved 70m in 50 days; Goodwin Sands rotated anticlockwise over decades). Historically charted by slow sounding surveys, shifting sands can now be mapped rapidly via sonar and updated immediately online. The bank has claimed some 2,000 vessels.",
-      "summaryTokens": 1136,
-      "generatedAt": "2026-01-09T03:35:52.433Z"
+      "summary": "Offshore sandbanks like the 10-mile Goodwin Sands off Deal, Kent, near the Dover Strait, pose unique navigation hazards as winter storms drive wave energy down through 25 m of fine sand on chalk, eroding and redepositing sediment, rotating the bank anti-clockwise over decades or migrating channels rapidly—a North Sea counterpart moved 70 m in 50 days. Responsible for roughly 2,000 wrecks since 1634, they were once charted slowly via lead-line surveys and guided by dual lighthouses on South Foreland. Today, multibeam sonar enables real-time seabed mapping and immediate online chart updates.",
+      "summaryTokens": 834,
+      "generatedAt": "2026-01-10T03:30:06.827Z"
     },
     {
       "id": "news/2026/jan/07/corrections-and-clarifications",
