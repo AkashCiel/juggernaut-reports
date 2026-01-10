@@ -1,37 +1,61 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-09T03:52:57.843Z",
+    "generated_at": "2026-01-10T03:32:24.521Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2026-01-09"
     },
-    "article_count": 172,
+    "article_count": 174,
     "merge_info": {
-      "previous_count": 168,
-      "new_articles": 4,
-      "updated_articles": 1,
-      "total_count": 172
+      "previous_count": 172,
+      "new_articles": 2,
+      "updated_articles": 4,
+      "total_count": 174
     },
     "batch_info": {
-      "initial_batch_id": "batch_69607b4beafc8190a7262a41c54be27c",
+      "initial_batch_id": "batch_6961c7fb75c081909a69ba5777d145c7",
       "retry_batches": [],
-      "total_tokens": 10409,
+      "total_tokens": 11654,
       "processing_time_hours": 0
     }
   },
   "articles": [
     {
+      "id": "science/2026/jan/09/life-saving-therapies-are-being-delayed-as-research-funding-dries-up",
+      "title": "Life-saving therapies are being delayed as research funding dries up | Letter",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/09/life-saving-therapies-are-being-delayed-as-research-funding-dries-up",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/09/life-saving-therapies-are-being-delayed-as-research-funding-dries-up",
+      "section": "science",
+      "publishedDate": "2026-01-09T16:46:12Z",
+      "trailText": "Letter: Dr Carol S Leonard writes that mRNA vaccines are a way forward for those with melanoma, but hopes are dashed by financial cuts",
+      "summary": "Dr Carol S Leonard, a dual US-UK citizen with incurable nasal-mucosa melanoma, reports near-complete tumour remission after joining an off-the-shelf mRNA neoantigen therapeutic trial at Imperial College, funded by Moderna and Merck, following failure of surgery and immunotherapy. She warns that US federal cuts—$500m withdrawn from 22 mRNA projects—will slow progress by Moderna, Merck, BioNTech, Scancell, Evaxion and Candel. With UK melanoma cases at 19,513 in 2025 and 104,960 invasive cases in the US last year, funding dry-ups risk leaving patients facing “no options” despite demonstrated mRNA advances.",
+      "summaryTokens": 642,
+      "generatedAt": "2026-01-10T03:32:24.400Z"
+    },
+    {
+      "id": "science/2026/jan/08/nasa-spacewalk-medical-issue-astronaut",
+      "title": "Nasa orders its first-ever space station medical evacuation after astronaut falls ill",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/08/nasa-spacewalk-medical-issue-astronaut",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/08/nasa-spacewalk-medical-issue-astronaut",
+      "section": "science",
+      "publishedDate": "2026-01-09T12:20:39Z",
+      "trailText": "Agency says US-Japanese-Russian crew of four will return to Earth in the coming days, earlier than planned",
+      "summary": "NASA has ordered its first-ever medical evacuation from the ISS after an astronaut fell ill with a serious but undisclosed condition, prompting the US–Japanese–Russian crew of four led by commander Zena Cardman to return to Earth days ahead of schedule. Announced by administrator Jared Isaacman, the move follows cancellation of this year’s first spacewalk and reflects the inability to treat the condition on orbit. The patient is stable but risks persist as NASA readies undocking via a SpaceX capsule within 48 hours, ensuring lifeboat capacity matches crew size amid the station’s planned retirement by 2031.",
+      "summaryTokens": 867,
+      "generatedAt": "2026-01-10T03:32:24.400Z"
+    },
+    {
       "id": "science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
-      "title": "Human eggs ‘rejuvenated’ in advance that could boost IVF success rates",
+      "title": "Human eggs ‘rejuvenated’ in an advance that could boost IVF success rates",
       "webUrl": "https://www.theguardian.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
       "apiUrl": "https://content.guardianapis.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
       "section": "science",
       "publishedDate": "2026-01-09T00:01:22Z",
-      "trailText": "Exclusive: research suggests supplementing eggs with a key protein reduces age-related defects, raising hopes of improved IVF for older women",
-      "summary": "Scientists at the Max Planck Institute and Ovo Labs have “rejuvenated” human oocytes by microinjecting Shugoshin 1, a cohesion protein that declines with age, to mitigate meiotic chromosome errors. In eggs donated by fertility patients, treated oocytes showed abnormal chromosome rates cut from 53% to 29% (65% to 44% in donors over 35). Since declining egg quality drives IVF birthrates down from 35% per embryo in women under 35 to just 5% in those 43–44, this one-shot intervention could significantly improve cycle success and reduce miscarriages. Published as a preprint and unveiled at the British Fertility Conference, safety assessments and clinical trials are underway.",
-      "summaryTokens": 1101,
-      "generatedAt": "2026-01-09T03:52:57.365Z"
+      "trailText": "Exclusive: Research suggests supplementing eggs with a key protein reduces age-related defects, raising hopes of improved IVF for older women",
+      "summary": "Scientists at the Max Planck Institute and Ovo Labs have demonstrated that microinjecting the cohesin protector protein Shugoshin 1 into donated human eggs can halve age-related chromosomal defects linked to IVF failure. In preclinical experiments, treated eggs showed abnormal chromosome rates dropping from 53% to 29% (and from 65% to 44% in women over 35). The technique restores cohesion lost during meiosis, improving egg quality without extending menopause. Findings, published as a Biorxiv preprint and presented at the British Fertility Conference, pave the way for clinical trials aiming to boost single-cycle IVF success in older women by reducing embryo aneuploidy.",
+      "summaryTokens": 899,
+      "generatedAt": "2026-01-10T03:32:24.400Z"
     },
     {
       "id": "science/2026/jan/08/gifted-learner-dogs-can-learn-words-by-eavesdropping-study-says",
@@ -41,9 +65,9 @@
       "section": "science",
       "publishedDate": "2026-01-08T19:00:15Z",
       "trailText": "Certain canines can learn using cues from people’s gaze, gestures, attention and voices, researchers find",
-      "summary": "Researchers at Vienna tested 10 ‘gifted word learner’ dogs (mainly border collies) on learning names of new toys either via direct naming or by overhearing family members handle them. Dogs retrieved correct toys ~90% after direct training and ~80% after overhearing—both above chance and statistically similar. Further tests showed dogs could learn object names even when labels were given out of sight. Findings, published in Science, suggest some dogs use human gaze, gestures and voice cues to map words, a skill paralleling toddler eavesdropping and indicating social cognition predates language.",
-      "summaryTokens": 874,
-      "generatedAt": "2026-01-09T03:52:57.365Z"
+      "summary": "Researchers in Vienna show that ‘gifted word learner’ dogs can acquire names of new toys by overhearing owners use labels in conversation. In experiments, dogs identified toys by name correctly about 80% when learning via eavesdropping, similar to 90% when taught directly, outperforming chance. A further test showed dogs could map a name to an object mentioned after it was out of sight. Typical dogs lack this skill. Findings suggest social-cognitive abilities for word learning predate human language. Parallels seen in bonobos and parrots raised in language-rich settings.",
+      "summaryTokens": 872,
+      "generatedAt": "2026-01-10T03:32:24.400Z"
     },
     {
       "id": "science/2026/jan/08/alluvi-weight-loss-drug-operation-raided-northampton",
@@ -53,9 +77,9 @@
       "section": "science",
       "publishedDate": "2026-01-08T13:22:44Z",
       "trailText": "Haul of illicit products led by medicines regulator was described as world’s largest of its kind, but no arrests have yet been made",
-      "summary": "Unlicensed Alluvi-branded weight-loss pens containing unapproved GLP-1 agonist retatrutide were seized in October at a Northampton industrial estate in what regulators called the world’s largest illicit haul. Despite a two-day MHRA-led raid that confiscated thousands of pens, raw ingredients, equipment and £20,000 cash, no arrests have been made. Guardian investigation links entrepreneur Fasial Tariq to Wholesale Supplements Ltd and related firms trading Alluvi products online. Tariq’s past crypto ventures and luxury car ties underscore alleged illicit supply networks exploiting legal grey areas. Experts warn of patient safety risks and regulatory gaps fueling underground weight-loss drug trade.",
-      "summaryTokens": 942,
-      "generatedAt": "2026-01-09T03:52:57.365Z"
+      "summary": "In late October, MHRA officers raided a red-brick unit in Northampton, seizing thousands of unlicensed Alluvi weight-loss pens advertised as containing the unapproved GLP-1 agonist retatrutide, labeling it the world’s largest such haul. No arrests have been made and the operation’s leaders remain unidentified, yet evidence from company records and local sources suggests links to crypto entrepreneur Fasial Tariq and his businesses. Alluvi’s website and Telegram channel remain active despite payment provider bans. Experts warn that regulatory gaps let these illicit “research chemical” supply chains proliferate, risking patient safety through contamination, dosing errors and unverified claims.",
+      "summaryTokens": 817,
+      "generatedAt": "2026-01-10T03:32:24.400Z"
     },
     {
       "id": "science/2026/jan/08/studies-link-some-food-preservatives-to-higher-diabetes-and-cancer-risk",
@@ -65,9 +89,9 @@
       "section": "science",
       "publishedDate": "2026-01-08T05:00:04Z",
       "trailText": "Of 17 preservatives studied, higher consumption of 12 of them linked with increased risk of type 2 diabetes",
-      "summary": "Two analyses of >100,000 French adults in NutriNet-Santé (2009–23) link higher intake of several common food preservatives to increased type 2 diabetes (12 of 17 additives; up to +49% incidence) and modestly elevated cancer risks for compounds such as potassium sorbate, sulfites, nitrites/nitrates and acetates. Published in Nature Communications and the BMJ, these observational findings prompt calls for regulatory reevaluation of preservative use in ultra-processed foods and consumer shifts toward fresh, minimally processed diets.",
-      "summaryTokens": 417,
-      "generatedAt": "2026-01-09T03:52:57.365Z"
+      "summary": "Two large observational studies of >100,000 French adults (NutriNet-Santé cohort, 2009–2023) examined 17 common food preservatives, linking higher intake of 12 to 17 additives with 40–49% increased type 2 diabetes incidence and modestly elevated cancer risks. In the BMJ analysis, potassium sorbate (+14% overall, +26% breast), sulfites (+12% overall), sodium nitrite (+32% prostate) and nitrates/acetates showed significant associations. Though causality is unproven, results align with experimental data on DNA damage and inflammation, prompting calls for stricter regulations and reduced use of additives in favor of fresh/minimally processed foods.",
+      "summaryTokens": 1093,
+      "generatedAt": "2026-01-10T03:32:24.400Z"
     },
     {
       "id": "science/2026/jan/07/iron-age-war-trumpet-find-britain-norfolk-boudicca-links",
