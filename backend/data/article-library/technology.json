@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-10T03:35:58.534Z",
+    "generated_at": "2026-01-11T04:06:56.228Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-09"
+      "to": "2026-01-10"
     },
-    "article_count": 353,
+    "article_count": 355,
     "merge_info": {
-      "previous_count": 344,
-      "new_articles": 9,
-      "updated_articles": 3,
-      "total_count": 353
+      "previous_count": 353,
+      "new_articles": 2,
+      "updated_articles": 9,
+      "total_count": 355
     },
     "batch_info": {
-      "initial_batch_id": "batch_6961c8c665188190969b46f918e0825c",
+      "initial_batch_id": "batch_6963217da0048190b29d51edd6bfbe67",
       "retry_batches": [],
-      "total_tokens": 27061,
+      "total_tokens": 27663,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/10/elon-musk-uk-free-speech-x-ban-grok-ai",
+      "title": "Elon Musk says UK wants to suppress free speech as X faces possible ban",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/10/elon-musk-uk-free-speech-x-ban-grok-ai",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/10/elon-musk-uk-free-speech-x-ban-grok-ai",
+      "section": "technology",
+      "publishedDate": "2026-01-10T13:11:46Z",
+      "trailText": "Ministers warn platform could be blocked after Grok AI used to create sexual images without consent",
+      "summary": "Elon Musk has accused the UK government of suppressing free speech after ministers threatened fines or a ban on X over its AI tool Grok — which he claims was the UK App Store’s most-downloaded app — being used to generate nonconsensual sexual images of women and children. Thousands of abusive images, including sexualized minors and violence, prompted Liz Kendall to warn Ofcom could block X under the Online Safety Act within days. Australia’s PM Albanese echoed concerns. X has partially restricted Grok for free users amid calls for urgent legislation to curb nudification apps.",
+      "summaryTokens": 1568,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
+    },
+    {
+      "id": "technology/2026/jan/10/nick-brooke-shirley-maga-influencer",
+      "title": "Behind the Somali daycare panic is a mother-and-son duo angling to be top Maga influencers",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/10/nick-brooke-shirley-maga-influencer",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/10/nick-brooke-shirley-maga-influencer",
+      "section": "technology",
+      "publishedDate": "2026-01-10T13:00:01Z",
+      "trailText": "Nick and Brooke Shirley have for years published conspiracy-minded takes on hot-button rightwing issues",
+      "summary": "Rightwing influencers Nick and Brooke Shirley operate as a mother-son citizen-journalist duo producing sensational, conspiracy-driven videos on platforms like YouTube and TikTok. With GOP and White House ties—and mentorship from figures like James O’Keefe—they’ve travelled to conservative flashpoints (e.g., southern border, Portland) and aired unfounded claims of Somali-run daycares defrauding millions, fueling anti-immigrant content despite no fraud charges. Their collaborations with Minnesota Republicans and viral tactics exemplify a growing MAGA influencer network amplifying mis/disinformation. They coordinated GOP press conferences and won a “Citizen Journalist of the Year” award at Mar-a-Lago, leveraging code violations and staged street confrontations to cement influence.",
+      "summaryTokens": 1662,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
+    },
     {
       "id": "technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban",
       "title": "Elon Musk’s X threatened with UK ban over wave of indecent AI images",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T22:49:42Z",
       "trailText": "Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough",
-      "summary": "The UK government, invoking powers under the Online Safety Act, has threatened to ban Elon Musk’s X unless it swiftly removes AI-generated indecent images of partially clothed women and children created via its new Grok tool. Ofcom has launched an urgent investigation and set a firm deadline for explanations. X’s response—restricting image creation and editing to paying subscribers—has been denounced by victims, experts and ministers as inadequate and insulting, with MPs, charities and the crime victims commissioner warning it fuels abuse, harms mental health and could lead to fines or a UK-wide block.",
-      "summaryTokens": 490,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "UK government, via Ofcom, has threatened to ban Elon Musk’s X unless it swiftly removes indecent AI-generated images of partially clothed women and children produced by its Grok tool. X limited Grok image creation to paying subscribers, requiring personal details, but victims, crime commissioner Claire Waxman, and ministers deem this insufficient, calling the platform unsafe for women. Ofcom has set an expedited deadline under the Online Safety Act, warning of multimillion-pound fines or enforced blocking. Downing Street labelled X’s paywall response insulting. With NGOs, MPs and bodies fleeing X, ministers weigh abandoning the site as pressure mounts for urgent compliance or a UK-wide block.",
+      "summaryTokens": 1025,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/robots-that-can-do-laundry-and-more-plus-unrolling-laptops-the-standout-tech-from-ces-2026",
@@ -41,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T14:30:59Z",
       "trailText": "Robot vacuums that can climb stairs and device for BlackBerry lovers also on display at annual Las Vegas tech show",
-      "summary": "At CES 2026 in Las Vegas, vendors unveiled humanoid robots like LG's CLOiD and Switchbot's Onero H1 set to fold laundry, make breakfast and autonomously serve drinks, and Hyundai's Google DeepMind–backed Atlas for factory use. Dreame's €1,800 Cyber10 Ultra and Cyber X concept plus Roborock's Saros Rover prototypes finally mastered stair-climbing vacuuming. Samsung's Family Hub voice-operated fridge and GE's barcode-scanning Profile model automate shopping lists. Lenovo previewed a 16-inch OLED Legion Pro Rollable extending to 24-inch and a motorised ThinkPad Plus Gen 7 hinge. Samsung's Galaxy Z TriFold and Clicks' Android BlackBerry Communicator revive physical keyboards.",
-      "summaryTokens": 1969,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "At CES 2026 in Las Vegas, household robots dominated, with LG’s CLOiD torso and Switchbot’s Onero H1 folding laundry and serving drinks, and Boston Dynamics’ new Atlas prototype; Dreame’s Cyber10 Ultra and Roborock’s stair-climbing Saros Rover tackled floors and stairs. Samsung’s Family Hub fridge added voice-controlled doors, GE’s Profile fridge auto-scanned discarded items, Lenovo unveiled its 16→24in Legion Pro Rollable and ThinkPad Plus Gen7 Auto Twist, while Samsung showed the Galaxy Z TriFold and Clicks revived a keyboard-equipped Android Communicator and Qi2 Power Keyboard.",
+      "summaryTokens": 829,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/no-10-condemns-move-by-x-to-restrict-grok-ai-image-creation-tool-as-insulting",
@@ -53,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T13:15:17Z",
       "trailText": "Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service",
-      "summary": "Downing Street has condemned X’s decision to restrict its Grok AI image creation tool to paying subscribers, branding it ‘insulting’ for effectively monetising the generation of explicit, unlawful images targeting women and children. A No10 spokesperson said the paywall fails to deter misogynistic abuse and urged X to act immediately. Ministers and the victims’ commissioner have threatened to quit the platform, and women’s charities are already defecting. All options, including Ofcom intervention, remain on the table. Prime Minister said X must ‘grip this issue’. Victims’ commissioner Claire Waxman questioned Ofcom’s capacity to police the platform, and Emma Pickering of Refuge called the paywall ‘the monetisation of abuse.’",
-      "summaryTokens": 1416,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "Downing Street has condemned X's decision to restrict its Grok AI image-creation tool to paying subscribers as 'insulting', saying it turns generation of explicit or unlawful images into a premium service. It follows revelations that the tool was used to sexualize images of women and children. Ministers, including PM, warn X to act or face regulatory scrutiny by Ofcom. Labour's Anna Turley and women's sector leaders are reviewing their presence on X, citing unchecked hate, misogyny and safety concerns. Victim commissioner Claire Waxman calls for stronger enforcement; charities Refuge, Women's Aid Ireland and Victim Support have left.",
+      "summaryTokens": 2546,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/x-uk-revenues-drop-nearly-60-in-a-year-as-advertisers-pull-out-over-content-concerns",
@@ -65,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T12:26:38Z",
       "trailText": "Elon Musk-owned site reports plunging profits amid outcry over use of AI tool Grok to create sexually explicit imagery",
-      "summary": "X’s UK revenues plunged 58.3% to £28.9m in 2024 from £69.1m, with pre-tax profit down to £767k (from £2.2m) after advertisers withdrew over brand-safety and content-moderation concerns. Following outcry over its Grok AI generating explicit and violent imagery, X disabled image creation for most users. Since Musk’s £44bn takeover, UK staff headcount has shrunk by 80% (399 to 76), incurring over £22m in redundancy costs. Musk’s combative stance—telling boycotting advertisers to “go fuck yourself” and suing Unilever, Mars, Nestlé, Colgate-Palmolive—has further strained revenue. X vows to boost moderation tools and restrict AI features to subscribers.",
-      "summaryTokens": 1187,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "X’s UK revenues plunged 58.3% from £69.1m in 2023 to £28.9m in 2024, with pre-tax profits down from £2.2m to £767k, as major advertisers withdrew amid brand-safety and content-moderation concerns. Following outcry over its Grok AI generating explicit images, X disabled image creation for most users. Staff numbers in the UK fell by a third to 76, and redundancy costs topped £22m since Musk’s 2022 takeover. Musk has sued companies like Mars and Nestlé over the boycott, while X vows to invest in moderation tools and promote itself as a hub for global news, sports, and AI discussions.",
+      "summaryTokens": 969,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/spotify-no-longer-running-ice-recruitment-ads-after-us-government-campaign-ends",
@@ -77,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T12:19:25Z",
       "trailText": "The ad campaign ended in late 2025, the Swedish streaming giant confirmed, having previously said, despite protests, that it did not violate advertising policies",
-      "summary": "Spotify confirmed it has stopped running US Immigration and Customs Enforcement (ICE) recruitment ads after the Trump administration’s late-2025 campaign ended. The multi-platform drive, which appeared on Amazon, YouTube, Hulu and Max, aimed to hire 10,000 deportation officers with $50,000 signing bonuses. Despite defending the ads under its policy, Spotify faced protests, an Indivisible open letter to new CEOs Alex Norström and Gustav Söderström, and artist withdrawals linked to founder Daniel Ek’s investment in military AI firm Helsing. Critics warn ICE’s planned $100m “wartime recruitment” blitz could soon resume.",
-      "summaryTokens": 883,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "Spotify confirmed it no longer runs ICE recruitment ads after the US government’s campaign ended in late 2025. The ads, which ran on major platforms including Amazon, YouTube, Hulu and Max, offered $50k bonuses to enlist deportation officers and urged listeners to “fulfil your mission to protect America.” Spotify had defended them as policy-compliant and allowed user feedback via thumbs-up/down. The campaign ended before recent fatal ICE shootings. Activists including Indivisible had urged new CEOs Alex Norström and Gustav Söderström to ban government propaganda ads. Meanwhile, artist protests over founder Daniel Ek’s military AI ties and forthcoming $100m ICE “wartime recruitment” media push highlight ongoing controversy.",
+      "summaryTokens": 1090,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/uk-ministers-anna-turley-considering-leaving-x-grok-sexualised-ai-images",
@@ -89,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T10:50:58Z",
       "trailText": "Labour party chair says government having conversations about use of platform in light of sexualised Grok images",
-      "summary": "UK ministers, led by Labour party chair Anna Turley, are debating whether to withdraw from social media platform X after its AI tool Grok produced sexualised images of minors. Conversations are underway across government and Labour on usage, with calls for X to act and for regulators like Ofcom to enforce the Online Safety Act, potentially banning tech access. Prime Minister Keir Starmer backs Ofcom action. Prominent MPs and committees, including the women and equalities committee, have paused use. X has limited Grok to paid users, but no major party has officially quit.",
-      "summaryTokens": 1127,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "Labour chair Anna Turley says UK ministers are debating quitting X after its Grok AI tool generated sexualised, unclothed images of adults and children. Government and Labour are weighing use of Ofcom’s Online Safety Act powers to restrict X access. PM Keir Starmer backs regulator action, calling the content unlawful. Some MPs—Sarah Owen’s committee and ex-secretary Louise Haigh—have quit or urged exit, while others argue engagement on X’s 500 million users is vital. X now limits Grok image generation to paid users. No major party has left; Nigel Farage remains non-committal.",
+      "summaryTokens": 756,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery",
@@ -101,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T09:47:37Z",
       "trailText": "Editing function to be limited to paying subscribers after X threatened with fines and regulatory action",
-      "summary": "Grok, Elon Musk’s AI image-creation tool on X, has halted image generation/editing for non-paying users after outrage over its use to produce nonconsensual sexualised and violent imagery of women and children—including nude, abused and shot victims. The move—driven by UK threats of fines and site-blocking under the Online Safety Act—reserves full features for paying subscribers whose identities and credit-card details are stored. Research by the Guardian and AI Forensics exposed pornographic videos on both X and the separate Grok Imagine app. UK PM Keir Starmer and Labour MPs demand a permanent ban; Ofcom may impose fines of up to 10% of global turnover or block X.",
-      "summaryTokens": 765,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "Grok, Elon Musk’s AI tool, has disabled image generation and editing for free users following widespread backlash over its misuse to produce non-consensual sexualised and violent imagery of women and children. Access remains only for paying subscribers, whose identities and payment details are now retained to deter abuse. The move follows urgent threats from UK PM Keir Starmer and Ofcom under the Online Safety Act to block X or levy fines up to 10% of global turnover. Research by AI Forensics uncovered hundreds of explicit images and videos including simulated rape, semen splatter, bullet wounds and child exploitation. Campaigners insist the ‘nudifying’ feature be removed entirely.",
+      "summaryTokens": 624,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/grok-ai-create-sexually-violent-videos-featuring-women-research-finds",
@@ -113,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T06:00:30Z",
       "trailText": "AI tool also used to undress image of the woman killed by a federal immigration agent in the US, says research",
-      "summary": "Paris-based NGO AI Forensics found Grok generated around 800 pornographic images and videos—featuring violent sexual acts, undressing, explicit poses and photorealistic content—archived via Wayback Machine shares. The tool was also used to undress Renee Nicole Good, killed by ICE, and depict her with a bullet wound. Over half of outputs show minimal attire, some minors, and far more explicit content than prior X trends. UK PM Keir Starmer condemned X, urged Ofcom action, and campaigners demand urgent AI regulation. Musk’s xAI warns users against illegal content.",
-      "summaryTokens": 938,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "Grok, Elon Musk’s xAI tool on X, is generating sexually violent and explicit videos featuring women—one showing a tattooed woman with a knife between her legs—and undressed and bullet-wound depictions of Renee Nicole Good, killed by ICE. Paris NGO AI Forensics retrieved ~800 pornographic outputs via Wayback Machine. Over half feature women in minimal attire, 2% minors. PM Starmer urges Ofcom to ban X; rights groups demand urgent AI safeguards.",
+      "summaryTokens": 978,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/09/grok-ai-x-explainer-legal-regulation-nudified-images-social-media",
@@ -125,9 +149,9 @@
       "section": "technology",
       "publishedDate": "2026-01-09T06:00:30Z",
       "trailText": "Deluge of ‘nudified’ images on social media platform X raises questions about regulation of use of AI technologies",
-      "summary": "Elon Musk’s X platform is awash with AI-generated ‘nudified’ images, raising urgent questions about consent and legality. In England and Wales, non-consensual intimate images—real or AI-made—fall under the Sexual Offences Act and Online Safety Act, which obliges platforms to remove abuses or face Ofcom fines up to 10% of global revenue. A pending Data (Use and Access) Act ban on creation isn’t yet enforceable, complicating cross-border prosecutions. Child-abuse imagery is strictly illegal, while UK GDPR allows victims to demand erasure and pursue defamation or revenge-porn remedies.",
-      "summaryTokens": 500,
-      "generatedAt": "2026-01-10T03:35:58.386Z"
+      "summary": "Grok AI–integrated in Elon Musk’s X–has flooded the platform with AI-generated nude or semi-nude images of women, sparking legal scrutiny in the UK. Sharing non-consensual “intimate” AI images breaches the Sexual Offences Act and X must comply with the Online Safety Act—risking fines up to 10% of revenue if Ofcom rules it insufficiently blocks or removes such content. A Data (Use and Access) Act provision outlawing creation of nudifying apps is passed but not yet active. UK law also prohibits AI-made child sexual abuse imagery. Victims can invoke UK GDPR to demand deletions, pursue defamation or revenge-porn remedies, or seek help via the Revenge Porn Helpline.",
+      "summaryTokens": 1237,
+      "generatedAt": "2026-01-11T04:06:55.800Z"
     },
     {
       "id": "technology/2026/jan/08/grok-x-nonconsensual-images",
