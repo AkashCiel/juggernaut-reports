@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-10T03:32:24.521Z",
+    "generated_at": "2026-01-11T04:02:57.962Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-09"
+      "to": "2026-01-10"
     },
-    "article_count": 174,
+    "article_count": 176,
     "merge_info": {
-      "previous_count": 172,
+      "previous_count": 174,
       "new_articles": 2,
-      "updated_articles": 4,
-      "total_count": 174
+      "updated_articles": 3,
+      "total_count": 176
     },
     "batch_info": {
-      "initial_batch_id": "batch_6961c7fb75c081909a69ba5777d145c7",
+      "initial_batch_id": "batch_696320a490008190836bbbef5f18708a",
       "retry_batches": [],
-      "total_tokens": 11654,
+      "total_tokens": 9355,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2026/jan/10/nasa-medical-evacuation-international-space-station",
+      "title": "Nasa announces timeline of astronauts’ early departure from ISS due to ‘serious’ medical issue",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/10/nasa-medical-evacuation-international-space-station",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/10/nasa-medical-evacuation-international-space-station",
+      "section": "science",
+      "publishedDate": "2026-01-10T14:56:20Z",
+      "trailText": "Space agency said crew of four will leave ISS next week with goal of touching down in California on 15 January",
+      "summary": "Nasa schedules its first medical evacuation from the ISS after a Crew-11 astronaut developed a serious but undisclosed illness. Administrator Jared Isaacman, with chief medical officer Dr James Polk, approved early departure for commander Zena Cardman, Mike Fincke, Kimiya Yui, and Oleg Platonov no earlier than 5 pm EST on 14 Jan, aiming for a California splashdown on 15 Jan. The patient is stable, prompting cancellation of a planned spacewalk. Three others—Chris Williams, Sergei Mikayev, Sergei Kud-Sverchkov—remain aboard. The ISS is slated for deorbit by 2030–31.",
+      "summaryTokens": 971,
+      "generatedAt": "2026-01-11T04:02:57.564Z"
+    },
+    {
+      "id": "science/2026/jan/10/country-diary-look-up-tonights-the-night-to-see-jupiter-at-its-brightest",
+      "title": "Country diary: Look up! Tonight’s the night to see Jupiter at its brightest | Nigel Brown",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/10/country-diary-look-up-tonights-the-night-to-see-jupiter-at-its-brightest",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/10/country-diary-look-up-tonights-the-night-to-see-jupiter-at-its-brightest",
+      "section": "science",
+      "publishedDate": "2026-01-10T05:30:48Z",
+      "trailText": "Ynys Môn (Anglesey): The wolf moon is spectacular enough, but look east and you’ll see a celestial titan the size of a pinprick",
+      "summary": "As the January wolf moon wanes, Jupiter reaches opposition on 10 January over Anglesey, rising bright in the east at its largest apparent size. At tonight’s peak, the gas giant—1,300 Earth volumes with a 1,000 km atmosphere atop a 20,000 km liquid hydrogen sea—rotates in under 10 hours, driving 1,450 km/h winds, distinct banding and the Great Red Spot thrice Earth’s width. Binoculars reveal the Galilean moons—Callisto, Ganymede, Europa, Io with active volcanism—and background stars Castor and Pollux. A clear winter night offers a spectacular gravity-driven celestial dance.",
+      "summaryTokens": 581,
+      "generatedAt": "2026-01-11T04:02:57.564Z"
+    },
     {
       "id": "science/2026/jan/09/life-saving-therapies-are-being-delayed-as-research-funding-dries-up",
       "title": "Life-saving therapies are being delayed as research funding dries up | Letter",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2026-01-09T16:46:12Z",
       "trailText": "Letter: Dr Carol S Leonard writes that mRNA vaccines are a way forward for those with melanoma, but hopes are dashed by financial cuts",
-      "summary": "Dr Carol S Leonard, a dual US-UK citizen with incurable nasal-mucosa melanoma, reports near-complete tumour remission after joining an off-the-shelf mRNA neoantigen therapeutic trial at Imperial College, funded by Moderna and Merck, following failure of surgery and immunotherapy. She warns that US federal cuts—$500m withdrawn from 22 mRNA projects—will slow progress by Moderna, Merck, BioNTech, Scancell, Evaxion and Candel. With UK melanoma cases at 19,513 in 2025 and 104,960 invasive cases in the US last year, funding dry-ups risk leaving patients facing “no options” despite demonstrated mRNA advances.",
-      "summaryTokens": 642,
-      "generatedAt": "2026-01-10T03:32:24.400Z"
+      "summary": "Dr Carol S Leonard, a dual US-UK citizen and melanoma researcher, credits an off-the-shelf neoantigen mRNA vaccine trial led by Dr David Pinato (Imperial College) and funded by Moderna and Merck with virtually eliminating her recurrent nasal mucosa melanoma after surgery and immunotherapy failed. She warns that US federal cuts—$500m withdrawn from 22 mRNA projects—threaten progress at Moderna, Merck, BioNTech, Scancell, Evaxion and Candel Therapeutics, risking delays in life-saving treatments amid rising melanoma cases (19,513 UK in 2025; 104,960 US invasive cases last year).",
+      "summaryTokens": 573,
+      "generatedAt": "2026-01-11T04:02:57.564Z"
     },
     {
       "id": "science/2026/jan/08/nasa-spacewalk-medical-issue-astronaut",
@@ -41,9 +65,9 @@
       "section": "science",
       "publishedDate": "2026-01-09T12:20:39Z",
       "trailText": "Agency says US-Japanese-Russian crew of four will return to Earth in the coming days, earlier than planned",
-      "summary": "NASA has ordered its first-ever medical evacuation from the ISS after an astronaut fell ill with a serious but undisclosed condition, prompting the US–Japanese–Russian crew of four led by commander Zena Cardman to return to Earth days ahead of schedule. Announced by administrator Jared Isaacman, the move follows cancellation of this year’s first spacewalk and reflects the inability to treat the condition on orbit. The patient is stable but risks persist as NASA readies undocking via a SpaceX capsule within 48 hours, ensuring lifeboat capacity matches crew size amid the station’s planned retirement by 2031.",
-      "summaryTokens": 867,
-      "generatedAt": "2026-01-10T03:32:24.400Z"
+      "summary": "NASA has ordered its first‐ever medical evacuation in the station’s 25-year history after an ISS astronaut developed a serious but undisclosed illness. The four‐member team—commander Zena Cardman, Mike Fincke, Japan’s Kimiya Yui and Russia’s Oleg Platonov—will return in coming days aboard a SpaceX capsule, cancelling a planned spacewalk. The aborted spacewalk was intended to prep solar panel upgrades. Officials say the patient is stable but at risk, and the condition isn’t diagnosable on-orbit. All four must depart to preserve lifeboat seats. NASA expects to update reentry timing within 48 hours.",
+      "summaryTokens": 2489,
+      "generatedAt": "2026-01-11T04:02:57.564Z"
     },
     {
       "id": "science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
@@ -53,9 +77,9 @@
       "section": "science",
       "publishedDate": "2026-01-09T00:01:22Z",
       "trailText": "Exclusive: Research suggests supplementing eggs with a key protein reduces age-related defects, raising hopes of improved IVF for older women",
-      "summary": "Scientists at the Max Planck Institute and Ovo Labs have demonstrated that microinjecting the cohesin protector protein Shugoshin 1 into donated human eggs can halve age-related chromosomal defects linked to IVF failure. In preclinical experiments, treated eggs showed abnormal chromosome rates dropping from 53% to 29% (and from 65% to 44% in women over 35). The technique restores cohesion lost during meiosis, improving egg quality without extending menopause. Findings, published as a Biorxiv preprint and presented at the British Fertility Conference, pave the way for clinical trials aiming to boost single-cycle IVF success in older women by reducing embryo aneuploidy.",
-      "summaryTokens": 899,
-      "generatedAt": "2026-01-10T03:32:24.400Z"
+      "summary": "New research from Prof Melina Schuh’s team at the Max Planck Institute and Ovo Labs demonstrates that microinjecting the protein Shugoshin 1 into human eggs cuts age‐related chromosome segregation errors by nearly half—from 53% in controls to 29% in treated eggs, with similar trends in donors over 35. Presented at the British Fertility Conference and posted as a Biorxiv preprint, the approach targets meiosis defects that drive IVF failure and miscarriage in older women. Pending larger trials and regulatory approval, it could markedly improve single‐cycle IVF success without extending natural fertility beyond menopause.",
+      "summaryTokens": 495,
+      "generatedAt": "2026-01-11T04:02:57.564Z"
     },
     {
       "id": "science/2026/jan/08/gifted-learner-dogs-can-learn-words-by-eavesdropping-study-says",
