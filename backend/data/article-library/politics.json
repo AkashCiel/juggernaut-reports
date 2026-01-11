@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2026-01-10T03:30:59.546Z",
+    "generated_at": "2026-01-11T04:01:31.407Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-09"
+      "to": "2026-01-10"
     },
-    "article_count": 678,
+    "article_count": 679,
     "merge_info": {
-      "previous_count": 673,
-      "new_articles": 5,
-      "updated_articles": 6,
-      "total_count": 678
+      "previous_count": 678,
+      "new_articles": 1,
+      "updated_articles": 5,
+      "total_count": 679
     },
     "batch_info": {
-      "initial_batch_id": "batch_6961c7c6a48481909667d82346943b6d",
+      "initial_batch_id": "batch_69631cbf46f881909772a6426260c9e3",
       "retry_batches": [],
-      "total_tokens": 24755,
-      "processing_time_hours": 0
+      "total_tokens": 11721,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "politics/2026/jan/10/sir-patrick-duffy-obituary",
+      "title": "Sir Patrick Duffy obituary",
+      "webUrl": "https://www.theguardian.com/politics/2026/jan/10/sir-patrick-duffy-obituary",
+      "apiUrl": "https://content.guardianapis.com/politics/2026/jan/10/sir-patrick-duffy-obituary",
+      "section": "politics",
+      "publishedDate": "2026-01-10T10:00:54Z",
+      "trailText": "Labour MP for Colne Valley and Sheffield Attercliffe who served as a navy minister and president of the Nato parliamentary assembly",
+      "summary": "Sir Patrick Duffy (1920–2026), former Labour MP for Colne Valley (1963–64) and Sheffield Attercliffe (1970–92), died aged 105. A WWII Royal Navy veteran and economist, he lectured at Leeds and Columbia before entering Parliament. He served as junior navy minister (1976–79) and, after opposition, as president of the NATO Parliamentary Assembly (1988–90), earning a knighthood in 1991. An Atlanticist turned Brexit supporter, devout Catholic and Irish identity advocate, he opposed unilateral defence, championed Irish causes, survived deselection, published two memoirs, and made pilgrimages to Walsingham and Santiago de Compostela.",
+      "summaryTokens": 635,
+      "generatedAt": "2026-01-11T04:01:31.057Z"
+    },
     {
       "id": "politics/2026/jan/09/zarah-sultana-your-party-unauthorised-membership-portal-launch-may-have-been-serious-criminal-act",
       "title": "Zarah Sultana’s Your Party membership launch may be ‘criminal’ matter for police, ICO says",
@@ -29,9 +41,9 @@
       "section": "politics",
       "publishedDate": "2026-01-09T20:58:57Z",
       "trailText": "Information watchdog says party’s data controller should consider ‘taking further action’ over unauthorised portal",
-      "summary": "The ICO has advised Jeremy Corbyn’s Peace and Justice Project (the data controller for Your Party) to consider referring Zarah Sultana’s unauthorized launch of a £55 membership portal to police or Action Fraud, deeming it possibly “serious criminal activity.” The dispute broke out after an email to 800,000 on Your Party’s list urged paid sign-ups without Corbyn’s approval; he then told supporters to ignore the site while legal advice was sought. After review, the ICO said formal involvement was unnecessary. Sultana confirmed the inquiry was closed and will focus on building a mass socialist party.",
-      "summaryTokens": 952,
-      "generatedAt": "2026-01-10T03:30:59.357Z"
+      "summary": "UK Information Commissioner’s Office has advised that Zarah Sultana’s unsanctioned launch of the Your Party membership portal – which sent emails to 800,000 recipients urging £55 subscriptions – may constitute serious criminal activity and should be referred to police or Action Fraud. The ICO informed Jeremy Corbyn’s Peace and Justice Project, the data controller, that no formal ICO action is needed but recommended exploring legal and fraud channels. Sultana, who faced an internal rift with Corbyn over the unauthorized site, said the ICO dropped the case and she will focus on building a mass socialist party via democratic member control. Your Party declined comment.",
+      "summaryTokens": 1213,
+      "generatedAt": "2026-01-11T04:01:31.057Z"
     },
     {
       "id": "politics/2026/jan/09/reform-uk-accused-of-betraying-election-pledges-after-council-tax-rises",
@@ -41,9 +53,9 @@
       "section": "politics",
       "publishedDate": "2026-01-09T17:53:14Z",
       "trailText": "Four out of five councils controlled by party have proposed 5% council tax rises, the maximum permitted by law",
-      "summary": "Nigel Farage’s Reform UK, having pledged to freeze or cut council tax, faces accusations of betrayal after five of its controlled county councils—including flagship Kent (3.99%), Derbyshire, North Northamptonshire, West Northamptonshire and Leicestershire (all 5%), plus a 4.99% proposal in Lincolnshire—opted for near-maximum 2026 hikes. Councils cite budget gaps from children’s and adult social care overspends. Opposition Lib Dems and Labour decry broken promises and mismanagement. Reform defends achieving £100m savings and £67m debt reduction but internal splits and expert analysis warn of political fallout.",
-      "summaryTokens": 570,
-      "generatedAt": "2026-01-10T03:30:59.357Z"
+      "summary": "Reform UK has been accused of reneging on its pledge to cut or freeze council tax after five of its controlled county councils—Kent (3.99%), Derbyshire, North Northamptonshire, West Northamptonshire and Leicestershire (each 5%), plus a proposed 4.99% rise in Lincolnshire—moved to increase rates close to the 5% legal cap. Councils cite budget gaps, debt and overspends in social care. Opposition Liberal Democrats and Labour have denounced the hikes as a “total betrayal” and financial mismanagement. Internal discord and LSE professor Tony Travers argue there is no efficient “Reform way” to sidestep maximum rises.",
+      "summaryTokens": 705,
+      "generatedAt": "2026-01-11T04:01:31.057Z"
     },
     {
       "id": "politics/2026/jan/09/it-is-labours-party-machine-that-is-out-of-touch",
@@ -53,9 +65,9 @@
       "section": "politics",
       "publishedDate": "2026-01-09T16:56:33Z",
       "trailText": "Letters: Readers respond to Chris Powell’s article about how to tackle the threat of rightwing populism",
-      "summary": "Letters challenge Labour under Starmer for dismantling the Corbyn-era Community Organising Unit, treating members as mere canvassers, silencing grassroots input and even punishing councillors raising local concerns. Writers argue Powell’s focus on populism misses root causes—systemic economic and political failures demanding radical left policies for equality and justice rather than better PR. Criticism widens to Labour’s alleged democratic erosion—detention laws, jury trial cuts, cancelling elections—and its failure to match rightwing populists’ social-media savvy, urging antifascist campaigners and TikTok-trained organisers.",
-      "summaryTokens": 1000,
-      "generatedAt": "2026-01-10T03:30:59.357Z"
+      "summary": "Several Guardian readers argue that Labour under Keir Starmer has dismantled the grassroots Community Organising Unit, treating members as mere canvassers and silencing local voices—a failure that paved the way for a Green by-election win. They warn that dismissing widespread discontent as ‘populism’ ignores systemic economic grievances and cedes ground to far-right scapegoating. Contributors call for a bold left-wing programme focused on radical equality, social justice and restoring democratic norms—ending punitive policing of activists, jury-trial cuts and cancelled local polls. They also urge militarising local antifascist networks online, matching populists’ TikTok savvy to reclaim the narrative.",
+      "summaryTokens": 564,
+      "generatedAt": "2026-01-11T04:01:31.057Z"
     },
     {
       "id": "politics/2026/jan/09/lib-dems-call-on-reform-mps-to-donate-x-income-grok-row",
@@ -65,9 +77,9 @@
       "section": "politics",
       "publishedDate": "2026-01-09T14:40:14Z",
       "trailText": "Exclusive: Party says Nigel Farage and colleagues receiving ‘tainted money’ for their posts on Elon Musk’s platform",
-      "summary": "The Liberal Democrats have urged Reform UK MPs—Nigel Farage, Lee Anderson, Richard Tice and ex-Reform MP Rupert Lowe—to donate all payments received from Elon Musk’s X (£9,000, £3,500 each and £40,000 respectively in 2025) to charities combatting sexual exploitation. Spokesperson Victoria Collins denounced the “tainted money” earned on a platform whose AI tool Grok generated sexualised images of women and children, then locked the feature behind a paywall. Amid calls to curb ministerial use of X, Farage refused to confirm halting payments, while Reform UK said it would press the government to force X to remove Grok’s image function.",
-      "summaryTokens": 575,
-      "generatedAt": "2026-01-10T03:30:59.357Z"
+      "summary": "Liberal Democrats have urged Reform UK MPs paid by Elon Musk’s X for posts—including Nigel Farage (£9,000 in 2025), Lee Anderson and Richard Tice (~£3,500 each) and ex-Reform MP Rupert Lowe (>£40,000)—to donate their earnings to sexual exploitation charities. This follows outrage at Grok, X’s AI image feature flooding the site with sexualised images of women and children, now limited to paying subscribers—a move condemned by Downing Street. Farage, dodging queries, denounced the images while claiming his posting costs exceed his X income.",
+      "summaryTokens": 1261,
+      "generatedAt": "2026-01-11T04:01:31.057Z"
     },
     {
       "id": "politics/2026/jan/09/home-office-gaza-academic-bassem-abudagga-family",
@@ -77,9 +89,9 @@
       "section": "politics",
       "publishedDate": "2026-01-09T06:00:28Z",
       "trailText": "Bassem Abudagga losing hope after being told wife must go to visa application centre, of which none remain in Gaza",
-      "summary": "Bassem Abudagga, a Gaza-based Palestinian PhD scholar at York St John University, has been denied urgent family reunion visas by the UK Home Office. Officials ruled no compelling reason to waive his wife Marim’s biometric requirement at a visa application centre—destroyed in Gaza’s bombings—forcing his wife and two children to stay in a tent camp amid winter hardship and bombardment fears. Despite appeals, including from MP Rebecca Long-Bailey, and precedent of biometrics abroad, the Home Office insists policy cannot be relaxed. Abudagga has hired Leigh Day to legally challenge what his lawyer calls an “unlawful” refusal.",
-      "summaryTokens": 750,
-      "generatedAt": "2026-01-10T03:30:59.357Z"
+      "summary": "Palestinian academic Bassem Abudagga, a York St John PhD student, has been refused urgent UK family reunion visas after the Home Office ruled his case non-urgent and refused to waive a biometrics appointment at a Gaza VAC that no longer exists. Despite his wife Marim and children Karim (6) and Talya (10) living in tents under bombardment and winter cold, officials cited national security and policy, deeming his UK stay temporary. His MP and Leigh Day lawyers are now challenging the decision as unlawful and a breach of family rights.",
+      "summaryTokens": 735,
+      "generatedAt": "2026-01-11T04:01:31.057Z"
     },
     {
       "id": "politics/2026/jan/08/the-world-is-in-chaos-so-thank-god-for-the-uks-lone-fixed-point-liz-truss",
