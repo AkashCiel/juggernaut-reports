@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-11T03:44:54.345Z",
+    "generated_at": "2026-01-12T03:42:43.712Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-09"
+      "to": "2026-01-11"
     },
-    "article_count": 200,
+    "article_count": 201,
     "merge_info": {
       "previous_count": 200,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 200
+      "new_articles": 1,
+      "updated_articles": 0,
+      "total_count": 201
     },
     "batch_info": {
-      "initial_batch_id": "batch_69631c9e6e4c8190b37a770ebf1dc92b",
+      "initial_batch_id": "batch_69646da6f3dc81909f1011d08be350ae",
       "retry_batches": [],
-      "total_tokens": 1663,
+      "total_tokens": 940,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/11/corrections-and-clarifications1",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/11/corrections-and-clarifications1",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/11/corrections-and-clarifications1",
+      "section": "news",
+      "publishedDate": "2026-01-11T21:00:36Z",
+      "trailText": "Gap | Joe Buckley/Tollemache Arms | AC-130 gunship",
+      "summary": "Corrections: the Gap has not sourced products from Lesotho since 2016, contrary to our 8 January report on textile workers and tariffs; the landlord of the Tollemache Arms in Harrington, Northamptonshire, is Joe Buckley, not ‘‘Joe Butler’’; and the AC-130 is a fixed-wing gunship, not a helicopter. Other recent amendments include the Ben Whishaw interview on New York and Peter Hujar. To submit editorial complaints or correction requests, email guardian.readers@theguardian.com, write to Readers’ editor, Kings Place, 90 York Way, London N1 9GU, or leave a voicemail on +44 (0) 20 3353 4736.",
+      "summaryTokens": 505,
+      "generatedAt": "2026-01-12T03:42:43.597Z"
+    },
     {
       "id": "news/2026/jan/09/corrections-and-clarifications",
       "title": "Corrections and clarifications",
