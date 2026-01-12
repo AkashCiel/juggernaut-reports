@@ -1,26 +1,230 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-11T04:09:27.735Z",
+    "generated_at": "2026-01-12T03:53:00.520Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-11"
+      "to": "2026-01-12"
     },
-    "article_count": 2222,
+    "article_count": 2240,
     "merge_info": {
-      "previous_count": 2206,
-      "new_articles": 16,
-      "updated_articles": 25,
-      "total_count": 2222
+      "previous_count": 2222,
+      "new_articles": 18,
+      "updated_articles": 18,
+      "total_count": 2240
     },
     "batch_info": {
-      "initial_batch_id": "batch_696321ea02108190bc65fd4b2d1ab7bf",
+      "initial_batch_id": "batch_69646f63f6c08190aae023997979e0ca",
       "retry_batches": [],
-      "total_tokens": 96155,
-      "processing_time_hours": 0
+      "total_tokens": 85241,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2026/jan/12/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: president weighs up range of actions against Iran",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/12/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/12/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2026-01-12T00:50:19Z",
+      "trailText": "Possible next steps for US include military strikes, sanctions and cyber attacks – key US politics stories from 11 January",
+      "summary": "President Trump is weighing “very strong” military strikes, cyberattacks, sanctions and online covert support against Iran’s regime amid a crackdown that U.S. rights groups say has killed over 500 protesters. He also faces a DOJ criminal investigation into Fed chair Jerome Powell, has dispatched hundreds of DHS agents to Minneapolis over an ICE shooting, and has threatened Cuba, Greenland and ExxonMobil with sanctions. Former RNC chair Michael Steele warns U.S. institutions have capitulated to Trump, while the Nobel peace committee rebuffed proposals to share its prize with him.",
+      "summaryTokens": 1687,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/arson-suspect-mississippi-synagogue",
+      "title": "Arson suspect arrested after blaze at historic Mississippi synagogue",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/arson-suspect-mississippi-synagogue",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/arson-suspect-mississippi-synagogue",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T22:25:47Z",
+      "trailText": "Multiple Torah scrolls were damaged after fire broke out early Saturday at Beth Israel Congregation in Jackson",
+      "summary": "Authorities have arrested a suspect in the early-Saturday arson attack on Beth Israel Congregation, Jackson’s historic and largest synagogue, after a fire damaged the administrative office, library and multiple Torah scrolls. No injuries were reported. An FBI/joint terrorism task force probe led to the arrest, as Mayor John Horhn vowed to treat antisemitic violence as terror. Leaders including ADL’s Jonathan Greenblatt and Institute of Southern Jewish Life CEO Michele Schipper pledged to restore damaged Torahs—two lost, five under assessment and one Holocaust scroll saved—and rebuild amid community support.",
+      "summaryTokens": 862,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/uk-pays-substantial-sum-to-tortured-guantanamo-bay-detainee",
+      "title": "UK ‘pays substantial sum’ to tortured Guantánamo Bay detainee",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/uk-pays-substantial-sum-to-tortured-guantanamo-bay-detainee",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/uk-pays-substantial-sum-to-tortured-guantanamo-bay-detainee",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T22:00:37Z",
+      "trailText": "Lawyers for Abu Zubaydah accused British intelligence services of providing questions to his CIA interrogators",
+      "summary": "The UK government has agreed an undisclosed but substantial out-of-court settlement with Zayn al-Abidin Muhammad Husayn (Abu Zubaydah), detained at Guantánamo Bay without charge since 2002, over claims that MI5 and MI6 supplied questions to CIA interrogators torturing him at black-site prisons in Thailand, Lithuania, Poland, Afghanistan, Morocco and Cuba. A 2018 parliamentary report confirmed British complicity in waterboarding, beatings, sleep deprivation and other \"enhanced\" techniques. The Supreme Court’s December 2023 ruling removed jurisdictional barriers to his civil suit. His legal team demands an official apology, calls for his release and warns of the legal and moral costs of allied cooperation in rights abuses.",
+      "summaryTokens": 1175,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/minneapolis-jacob-frey-renee-nicole-good-fbi-inquiry",
+      "title": "Minneapolis mayor urges FBI to include state officials in Renee Good inquiry",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/minneapolis-jacob-frey-renee-nicole-good-fbi-inquiry",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/minneapolis-jacob-frey-renee-nicole-good-fbi-inquiry",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T19:12:51Z",
+      "trailText": "Jacob Frey says Trump administration is ‘so quick to jump on a narrative’ over the truth after ICE fatally shot woman",
+      "summary": "Minneapolis mayor Jacob Frey urged the FBI to include the Minnesota Bureau of Criminal Apprehension in its investigation of an ICE officer’s fatal shooting of Renee Nicole Good, criticizing DHS Secretary Kristi Noem’s “domestic terrorism” label and the Trump administration’s rush to narrative. Cellphone footage shows Good calmly saying “I’m not mad at you” and turning away, undermining self-defense claims. Senator Tina Smith echoed concern over state exclusion, while VP Vance defended the officer’s absolute immunity. Frey called for transparent, impartial scrutiny.",
+      "summaryTokens": 611,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/ice-renee-good-minneapolis-protests-kristi-noem",
+      "title": "Homeland security sends more agents to Minneapolis as protests erupt in US",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/ice-renee-good-minneapolis-protests-kristi-noem",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/ice-renee-good-minneapolis-protests-kristi-noem",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T18:28:11Z",
+      "trailText": "After killing of Renee Nicole Good, city braces for what the agency describes as its largest enforcement operation yet",
+      "summary": "After an ICE officer fatally shot Renee Good, DHS launched its largest Midwest enforcement operation ever, sending hundreds more officers to Minneapolis for door-to-door raids amid protests. Activists clashed—banging drums, honking horns and enduring chemical spray—across Minneapolis, Los Angeles, Salt Lake City and Bay Area, resulting in arrests and one officer injured. Mayor Frey decried the shooting and federal refusal to allow state probes; schools moved to remote learning for safety. The Trump administration defended ICE’s actions, wrongly labeling Good a “terrorist,” even as human-rights groups trained thousands to observe immigration raids.",
+      "summaryTokens": 1132,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/if-trumps-only-constraint-is-his-own-morality-heaven-help-us",
+      "title": "If Trump’s only constraint is his ‘own morality’, heaven help us | Letters",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/if-trumps-only-constraint-is-his-own-morality-heaven-help-us",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/if-trumps-only-constraint-is-his-own-morality-heaven-help-us",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T17:28:25Z",
+      "trailText": "Letters: Readers respond to the US president’s threats towards Greenland and his latest comment that he doesn’t need international law",
+      "summary": "Letters condemn Trump’s assertion that only his “own morality” limits his presidential power. One reader cites court rulings finding him guilty of falsifying business records, liable for sexual abuse and defamation, and misusing charity funds—evidence of self-licensing, tactical truth, selective rule-following and retaliation when challenged—underscoring why international law is needed. Another warns Europe against praising his decisiveness, pointing to proto-fascist signs: legal and financial coercion, threats of violence, book bans, data deletion, election denial and “fake news” labelling as the US veers toward authoritarianism.",
+      "summaryTokens": 1008,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/germany-rejects-rfk-jr-claims-about-covid-vaccine-exemption-prosecutions",
+      "title": "Germany rejects RFK Jr claims about Covid vaccine exemption prosecutions",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/germany-rejects-rfk-jr-claims-about-covid-vaccine-exemption-prosecutions",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/germany-rejects-rfk-jr-claims-about-covid-vaccine-exemption-prosecutions",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T17:05:55Z",
+      "trailText": "Health minister Nina Warken says Robert F Kennedy Jr’s assertions that German doctors are facing legal action are unfounded",
+      "summary": "Germany’s health minister Nina Warken has dismissed US health secretary Robert F. Kennedy Jr’s assertions that over a thousand German doctors faced legal action for issuing Covid-19 vaccine or mask exemptions as “completely unfounded” and factually incorrect. Kennedy provided no sources in a video letter accusing Germany of undermining medical autonomy. Warken clarified there was never an obligation for doctors to administer Covid vaccines, and prosecutions only target fraud and document forgery. Former health minister Karl Lauterbach also rebuked Kennedy, urging him to address US healthcare issues instead. Kennedy’s history of vaccine misinformation highlights his lack of evidence.",
+      "summaryTokens": 1905,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa",
+      "title": "Influencers and OnlyFans models are dominating O-1 visa requests: ‘This is the American dream now’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T16:34:50Z",
+      "trailText": "Content creators are leveraging their high follower counts to apply for the visa for ‘individuals with extraordinary ability’",
+      "summary": "Between 2014 and 2024, O-1 visas — for individuals with 'extraordinary ability' — rose 50%, now dominated by OnlyFans models and TikTok and Instagram influencers. Canadian Julia Ain (1.3m followers) and chess streamer Dina Belenkaya (1.2m IG, 108k Twitch) secured O-1Bs by submitting social-media metrics and subscription income. Michael Wildes, managing partner at Wildes & Weinberg, says he’s expanded filings from Hollywood stars to influencers, redefining criteria like international recognition and commercial success to include follower counts. Critics call the trend an 'end-stage empire' symptom, while proponents hail it as the new American dream.",
+      "summaryTokens": 2695,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/rsv-vaccines-trump-kennedy",
+      "title": "Evidence shows benefit of RSV vaccines as Trump officials push restrictions",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/rsv-vaccines-trump-kennedy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/rsv-vaccines-trump-kennedy",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T16:00:30Z",
+      "trailText": "Shots to prevent respiratory syncytial virus recommended only for high-risk babies even as experts hail jabs’ success",
+      "summary": "Last week, the Trump administration under RFK Jr. narrowed RSV vaccine recommendations to only high-risk infants, reversing universal infant guidance despite multiple JAMA studies showing 81% efficacy in newborn monoclonal antibody shots and 70% from maternal vaccination at preventing hospitalizations. Countries with universal care and pregnancy dosing limit to high-risk newborns, but the US’s fragmented system sees only a third of pregnant people vaccinated. Experts warn this policy, lacking a clear high-risk definition, risks RSV hospital surges, supply gaps, coordination breakdowns, and politicizes a proven safe intervention.",
+      "summaryTokens": 608,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/smithsonian-swaps-trump-portrait",
+      "title": "Smithsonian swaps Trump portrait and removes mention of impeachments",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/smithsonian-swaps-trump-portrait",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/smithsonian-swaps-trump-portrait",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T15:53:04Z",
+      "trailText": "National Portrait Gallery removes text on new portrait of Trump standing in Oval Office with a scowl and fists on desk",
+      "summary": "Washington’s National Portrait Gallery swapped an older Trump portrait for a new scowling Oval Office image and removed its placard noting his two impeachments for abuse of power and incitement of the Jan. 6 insurrection and subsequent Senate acquittals. The change follows Trump’s failed attempt to oust director Kim Sajet—who later resigned—and executive orders curbing ‘divisive’ Smithsonian exhibits, after the National Museum of American History dropped similar references. Gallery spokeswoman Concetta Duncan said they are exploring ‘tombstone labels’ with minimal descriptions for new displays.",
+      "summaryTokens": 1119,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/los-angeles-wildfires-lost-cats",
+      "title": "She spent 366 days searching for her cats after losing them in the LA fires: ‘I promised my babies’ ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/los-angeles-wildfires-lost-cats",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/los-angeles-wildfires-lost-cats",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T14:00:31Z",
+      "trailText": "After her Altadena home burned down, Darlene Hamilton wondered whether her cats Merlyn and Kiki had escaped. A year later, she hasn’t given up hope",
+      "summary": "Darlene Hamilton, 66, lost her Altadena home and two cats—17-lb Maine Coon Merlyn and shy Calico Kiki—when fast-moving winds fueled a January 2025 wildfire. Forced to flee with Merlyn in a carrier and Kiki escaped, she left back doors open hoping they’d survive. Over 366 days, Hamilton scoured humane society listings, posted flyers, set up cameras, enlisted volunteers and hunted leads across Southern California. Despite exhaustive searches and community support, no trace emerged. Now living in a nearby rental, she halted her year-long pledge but still holds out hope they survived the blaze.",
+      "summaryTokens": 946,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/michael-steele-trump-bully",
+      "title": "Former Republican chair says US institutions yielded to Trump, ‘the bully’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/michael-steele-trump-bully",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/michael-steele-trump-bully",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T14:00:30Z",
+      "trailText": "Michael Steele argues law firms, universities and media capitulated with startling speed and voters want accountability",
+      "summary": "Michael Steele, former Republican National Committee chair and MSNBC co-host, says during Donald Trump’s first year back, law firms, universities and media swiftly capitulated to his \"everything-everywhere\" assault - lawyers faced threats of revoked security clearances, elite colleges endured $5 billion in funding freezes, and outlets tempered coverage to avoid reprisals. Steele, the first Black RNC chair and early Trump critic, forecasts a Democratic midterm wave as voters seek to hold enablers accountable. Citing 2010 GOP dynamics and 2025 wins in New Jersey, Virginia and California’s Proposition 50, he urges seizing Congress to pursue individual prosecutions once Trump leaves office.",
+      "summaryTokens": 2032,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/rightwing-pentagon-press-corps-trump-media",
+      "title": "Rightwing bloggers and Maga minions: meet the Trump-loving Pentagon press corps",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/rightwing-pentagon-press-corps-trump-media",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/rightwing-pentagon-press-corps-trump-media",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T13:00:27Z",
+      "trailText": "A group of reporters meant to hold the Pentagon to account is full of pro-Trump sycophants … what could go wrong?",
+      "summary": "After mainstream Pentagon reporters surrendered their passes rather than sign a 21-page policy blocking unauthorized reporting, Trump credentialed rightwing bloggers and influencers. Figures from The Gateway Pundit, gCaptain, LindellTV and others cheered “Operation Absolute Resolve” without scrutiny, parroting Pentagon releases. Under Secretary Pete Hegseth they accepted limits on access, prompting critiques of sycophancy and lack of oversight. Journalism scholars say they echo press releases and fail to hold the military accountable. With Trump eyeing actions in Greenland and Panama, experts warn this corps deepens unchecked military power.",
+      "summaryTokens": 1383,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/ice-deportation-costa-rica-man",
+      "title": "‘Have you ever smelled a cadaver?’ Family recounts horror after Costa Rican man deported in vegetative state",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/ice-deportation-costa-rica-man",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/ice-deportation-costa-rica-man",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T12:36:51Z",
+      "trailText": "Much of what happened to Randall Gamboa Esquivel, 52, over his last weeks in federal custody in Texas remains a mystery to his family",
+      "summary": "Randall Gamboa Esquivel, 52, crossed illegally into Texas in December 2024, was arrested by ICE and held nearly 10 months across two South Texas detention centers amid record-high detainee levels. His final family call on June 12, 2025 preceded transfers to hospital for sepsis, protein malnutrition and toxic encephalopathy; by August he was catatonic. In September ICE flew him to Costa Rica in a vegetative state with ulcers and a “cadaver-like” odor. Costa Rican consular and DHS officials offered scant details. He died in October 2025; his cause of death remains under investigation.",
+      "summaryTokens": 878,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/ice-death-costa-rica-randall-gamboa-esquivel",
+      "title": "Family seeks answers after ICE deported man to Costa Rica in vegetative state",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/ice-death-costa-rica-randall-gamboa-esquivel",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/ice-death-costa-rica-randall-gamboa-esquivel",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T12:36:23Z",
+      "trailText": "Exclusive: Before Randall Gamboa Esquivel died, his health had deteriorated badly while he was in ICE custody",
+      "summary": "Randall Gamboa Esquivel, a 52-year-old Costa Rican in good health when he crossed into the US in December 2024, fell into a sudden health crisis in ICE custody. Held at Webb County and Port Isabel detention centers, he was transferred on June 23, 2025 to Valley Baptist Hospital with altered mental status, later diagnosed with psychosis, sepsis, rhabdomyolysis, protein malnutrition and toxic encephalopathy. Kept catatonic for months without family notification or consular visits, he was deported via air ambulance in September 2025 in a vegetative state and died five weeks later. His relatives are demanding answers from US and Costa Rican authorities over the unexplained medical neglect in ICE detention.",
+      "summaryTokens": 781,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/minneapolis-ice-killing-george-floyd",
+      "title": "Council member who lost eye in George Floyd protest sees echo in Ice killing",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/minneapolis-ice-killing-george-floyd",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/minneapolis-ice-killing-george-floyd",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T11:00:24Z",
+      "trailText": "Soren Stevenson says Minneapolis shooting ‘reminiscent in a scary way’ – but he and his neighbors are feeling activated",
+      "summary": "Soren Stevenson, a newly elected Minneapolis council member who lost an eye during 2020 protests, likens the ICE killing of Renee Nicole Good on Jan. 11 near George Floyd Square to the earlier unrest. He describes an atmosphere of fear at Plaza Mexico, closed storefronts, helicopter surveillance and heightened immigration enforcement. Activating mutual aid networks, residents distribute groceries and rides. Stevenson is pressing for local involvement in the FBI-led investigation, exploring tactics to expel ICE, and mobilizing community demands for federal accountability.",
+      "summaryTokens": 785,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/11/trumps-greenland-threats-echo-dark-moments-of-cold-war-alliances",
+      "title": "Trump’s Greenland threats echo dark moments of cold war alliances",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/11/trumps-greenland-threats-echo-dark-moments-of-cold-war-alliances",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/11/trumps-greenland-threats-echo-dark-moments-of-cold-war-alliances",
+      "section": "us-news",
+      "publishedDate": "2026-01-11T08:00:21Z",
+      "trailText": "Soviet invasions of allies helped destroy the Warsaw Pact – Trump’s dangerous rhetoric risks repeating the mistake inside Nato",
+      "summary": "Donald Trump’s repeated assertion that the US “needs” Greenland for national security—and his refusal to rule out military seizure—echoes Soviet-era interventions against Warsaw Pact allies. The USSR invaded Hungary in 1956 and Czechoslovakia in 1968 to crush deviations from Moscow’s line; experts warn Trump’s rhetoric risks fracturing NATO cohesion and could push Denmark to invoke Article 4 consultations or Article 5 collective defence. Historians argue coercing allies undermines trust and alliance durability, noting existing American bases in Greenland could be sustained or expanded through Danish cooperation rather than unilateral threats.",
+      "summaryTokens": 1130,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
     {
       "id": "us-news/2026/jan/10/us-citizens-venezuela-paramilitaries",
       "title": "US urges its citizens to flee Venezuela amid reports of paramilitaries ",
@@ -29,9 +233,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-11T02:58:29Z",
       "trailText": "State department says armed ‘colectivos’ appear to be setting up roadblocks and searching vehicles for Americans",
-      "summary": "US State Department warns American citizens to leave Venezuela immediately amid reports that pro-regime colectivos have set up roadblocks and are searching vehicles for evidence of US nationals following a US special forces raid that captured President Nicolás Maduro. The alert urges vigilance as some international flights resume. Caracas residents report armed militias on motorbikes and heavy military presence on highways. Venezuela’s foreign ministry calls the warning fabricated, claiming peace and stability. Meanwhile, US officials visited Caracas to prepare the embassy reopening, and acting president Delcy Rodríguez has signaled willingness for improved ties with Washington. Maduro, held in a US jail, says he is 'doing well' according to a video released by his son.",
-      "summaryTokens": 626,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "The US State Department has issued a security alert urging citizens to leave Venezuela immediately, citing reports that pro-regime militias, or colectivos, are erecting roadblocks and searching vehicles for Americans following last week’s US-backed special forces raid that captured President Nicolás Maduro. While some sanctioned flights have resumed, the department warns travellers to remain vigilant. Venezuelan authorities dismiss the warning as fabricated, claiming nationwide stability. Journalists report rifle-bearing colectivos on motorcycles and checkpoints around Caracas and border routes. Meanwhile, US officials visited Caracas to prepare the embassy reopening, acting president Delcy Rodríguez seeks better US ties, and Maduro, held in a US jail, says he is “doing well.”",
+      "summaryTokens": 625,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/11/trump-news-at-a-glance-death-of-renee-good-at-hands-of-ice-sparks-nationwide-protests",
@@ -41,9 +245,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-11T02:17:10Z",
       "trailText": "More than a thousand protests were held across the country in the wake of the ICE-related shooting of Renee Good in Minneapolis",
-      "summary": "ICE agent shot and killed 37-year-old Renee Good in Minneapolis, provoking over 1,000 protests nationwide—from Boston and San Francisco to snowbound Minneapolis—under chants like “Fuck ICE” and plans for actions in all 50 states. House members Ilhan Omar, Kelly Morrison and Angie Craig were barred from entering a Twin Cities ICE facility amid tensions. The Trump administration accused Good of being a paid agitator. Other key news: US warns citizens to flee Venezuela amid armed colectivos; a pardoned Jan 6 rioter runs for Florida office; $129m in federal benefits to Minnesota is suspended over alleged fraud; Trump unveils a 10% cap on credit-card rates.",
-      "summaryTokens": 1352,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Nationwide protests surged after ICE agents shot 37-year-old Renee Good in Minneapolis, with over 1,000 rallies from Boston to San Francisco chanting “Fuck ICE”—actions planned in all 50 states. In Minneapolis, Reps. Ilhan Omar, Kelly Morrison and Angie Craig were blocked from entering an ICE center, calling it unlawful. The Trump administration accused Good of being a paid agitator in a left-wing plot. Additional headlines: US citizens urged to flee Venezuela amid paramilitary threats; a pardoned Jan. 6 rioter runs for Florida office; Trump suspends $129 m in Minnesota benefits over alleged fraud; proposes 10% cap on credit-card rates.",
+      "summaryTokens": 839,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/bob-weir-grateful-dead-dies-78",
@@ -65,9 +269,21 @@
       "section": "us-news",
       "publishedDate": "2026-01-11T00:25:35Z",
       "trailText": "In Philadelphia, protesters demanded ICE leave US communities and Trump end warmongering in Venezuela",
-      "summary": "In Philadelphia on Jan 10, two rainy-day protests—one of a few hundred older white adults in the morning and a more diverse DSA-led march in the afternoon—marched from City Hall to the ICE detention center demanding ICE leave US communities and Trump end his Venezuela intervention. Part of the nationwide ICE Out for Good weekend and DSA’s anti-war mobilization, these demonstrations followed the fatal ICE shooting of Renee Nicole Good. Speakers decried ICE killings, U.S. “illegal war crimes,” and criticized funding of immigration enforcement over basic needs. Similar rallies in all 50 states, including thousands in Minneapolis, highlighted rising tensions and arrests.",
-      "summaryTokens": 2481,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "In Philadelphia on Jan 10, two marches totaling several hundred people—one organized by No Kings groups and another led by a racially diverse Democratic Socialists of America chapter—marched from City Hall to the federal detention center demanding ICE exit US communities and Trump end warmongering in Venezuela after the fatal shooting of Renee Nicole Good. Part of a nationwide ‘ICE Out for Good’ weekend by Indivisible, the ACLU and DSA anti-war actions, protests also erupted in Boston, San Francisco, Portland and Minneapolis, where tens of thousands chanted “Fuck ICE,” decrying state violence, economic austerity and solidarity with immigrant rights.",
+      "summaryTokens": 1007,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
+    },
+    {
+      "id": "us-news/2026/jan/10/mississippi-six-murders",
+      "title": "Mississippi man charged with six murders, including father, brother and a child",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/10/mississippi-six-murders",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/10/mississippi-six-murders",
+      "section": "us-news",
+      "publishedDate": "2026-01-10T22:52:32Z",
+      "trailText": "Officials expect charge against Daricka Moore, 24, to be elevated to capital murder, with death penalty considered",
+      "summary": "Clay County, Mississippi, authorities arrested Daricka Moore and charged him with first-degree murder for the fatal shootings of six people Friday night: his father (Glen Moore, 67), brother (Quinton Moore, 33), uncle (Willie Guines, 55), a seven-year-old girl he allegedly tried to sexually assault, and two men (Barry and Samuel Bradley), one a local pastor. Officials will seek to elevate charges to capital murder and consider the death penalty if Moore is deemed competent. Investigators linked Moore to three crime scenes after he stole vehicles; his motive remains unknown. He is due in court Monday.",
+      "summaryTokens": 2087,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/ilhan-omar-house-members-ice-facility-minnesota",
@@ -77,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T19:43:46Z",
       "trailText": "Democrats ejected even though judge ruled Congress members can’t be barred from visiting ICE facilities",
-      "summary": "Rep. Ilhan Omar-led delegation including Reps Angie Craig and Kelly Morrison was barred from a Minneapolis-area ICE detention center they had pre-notified, after originally being allowed access only to have it revoked minutes later. Officials cited funding under the Big Beautiful Bill Act to justify the ban. The move directly defies US District Judge Jia Cobb’s ruling that DHS cannot require seven-day notice or block unannounced ICE visits, prompting lawmakers to denounce obstruction of oversight amid concerns over detainee transfers and hygiene conditions. Context: this unfolded amid protests over the shooting death of 37-year-old Renee Good by an ICE agent in south Minneapolis earlier in the week.",
-      "summaryTokens": 1329,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Reps. Ilhan Omar, Angie Craig and Kelly Morrison were initially admitted then barred from the ICE Whipple detention center near Minneapolis amid protests over the shooting death of Renee Good. Officials cited funding from the Big Beautiful Bill Act for rescinding access, flouting US District Judge Jia Cobb’s ruling that DHS may not impose off-limits designations or seven-day advance notice on congressional visits. The lawmakers condemned the obstruction of oversight, observed detainee transfers by plane and decried denial of basic hygiene supplies.",
+      "summaryTokens": 986,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/st-louis-missouri-monkeys",
@@ -89,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T17:42:07Z",
       "trailText": "St Louis zoo identified the stray simians as vervet monkeys, but it’s not known where they came from",
-      "summary": "St. Louis health officials confirmed multiple vervet monkeys were sighted roaming near O’Fallon Park in north St. Louis—the first such incident in city history. Uncertain of their origin, the small, black-faced African primates were identified by the zoo. Authorities are coordinating with trained agencies to trap them safely and relocate them to a certified exotic animal facility. Residents are warned not to approach the unpredictable animals and to dial 314-657-1500 if seen. Exotic pets, including primates, are banned in St. Louis. The episode underscores gaps in wildlife regulation and follows advocacy for the 2025 Captive Primate Safety Act.",
-      "summaryTokens": 1136,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "North St. Louis residents reported multiple stray monkeys roaming near O’Fallon Park this week. The St. Louis Department of Health confirmed more than one escaped vervet monkey—small, black-faced primates common in East Africa—though their origin is unknown. It’s the first such incident in city limits. Authorities have enlisted trained capture teams to trap and transfer the animals to a licensed exotic-animal facility, urging residents not to approach and to report sightings at 314-657-1500. Vervets are often sold or considered pests in the U.S., and exotic pets are banned locally.",
+      "summaryTokens": 866,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/trump-administration-suspends-129m-benefit-payments-minnesota",
@@ -101,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T17:04:00Z",
       "trailText": "USDA notified state’s governor of decision, citing inquiries into alleged fraud by local non-profits and businesses",
-      "summary": "The USDA, led by Brooke Rollins, has suspended $129m in federal benefit payments to Minnesota over alleged fraud by local nonprofits and businesses dating back to January 2025. Rollins’ letter to Governor Tim Walz and Minneapolis Mayor Jacob Frey demands itemized spending justifications within 30 days and for all future disbursements. State leaders, including AG Keith Ellison, call the move political and vow legal action. The freeze follows federal probes into Somali-linked fraud schemes—among $9bn in alleged losses—and recent court rulings upholding child-care funding.",
-      "summaryTokens": 1320,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "The USDA under Brooke Rollins has suspended $129m in Minnesota benefit payments over alleged fraud by local nonprofits and businesses since Jan 2025, demanding state and city leaders justify all spending within 30 days and future disbursements. Governor Tim Walz, Minneapolis Mayor Jacob Frey and AG Keith Ellison condemn the suspension as politically motivated—Ellison vows to sue—and warn it will harm low-income residents. The action follows a federal ruling restoring childcare subsidies, FBI probes into a $250m food-aid fraud, allegations of $9bn stolen tied to Minnesota’s Somali community and President Trump’s xenophobic rhetoric. Walz, under fire, won’t run for a third term.",
+      "summaryTokens": 1852,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/ai-generated-sexualised-images-x-jd-vance-grok",
@@ -113,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T17:00:02Z",
       "trailText": "Exclusive: US vice-president ‘sympathetic’ to concerns over Grok-generated pornography, says deputy PM",
-      "summary": "David Lammy said US vice-president JD Vance—normally an AI enthusiast—agreed during their Washington meeting that X’s Grok-generated hyper-sexualized deepfakes of women and children are “entirely unacceptable.” The exchange comes as PM Keir Starmer warns the UK may ban X over “disgusting” content and Ofcom fast-tracks an investigation. Elon Musk decried UK “censorship” after Grok limited image edits to paid users, though other manipulation routes persist. Lammy and Vance also discussed Ukraine aid, Venezuela tensions, Greenland security and the strain on international law.",
-      "summaryTokens": 497,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "During a Washington meeting, UK Deputy PM David Lammy said US VP JD Vance agreed that X’s Grok-generated AI sexualised images of women and children are ‘entirely unacceptable’. Vance, typically pro-AI, expressed concern over ‘hyper-pornographied slop’ and acknowledged recent X restrictions limiting image manipulation to subscribers. The comments fuel a transatlantic dispute as PM Keir Starmer warns the platform could be banned in the UK for ‘disgusting’, ‘unlawful’ deepfakes. Ofcom eyes accelerated regulation; Elon Musk decries ‘fascist’ censorship and US lawmakers threaten sanctions if the ban proceeds.",
+      "summaryTokens": 500,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/trump-credit-card-interest-rate-cap",
@@ -125,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T16:02:43Z",
       "trailText": "Critics express doubt president can implement such a move without approval from Congress",
-      "summary": "President Trump announced via Truth Social a one-year cap of 10% on credit card interest rates effective January 20, marking the one-year anniversary of his administration. He provided no enforcement details, prompting lawmakers to note Congress must act. Senators Sanders and Hawley earlier introduced similar bipartisan legislation, which stalled under banking-industry opposition. Sanders and Warren doubted Trump’s authority without legislation, while hedge fund manager Bill Ackman warned lenders might cancel cards. Major banking groups argued a 10% cap would restrict credit availability and drive consumers to costlier alternatives. Senator Hawley praised the proposal.",
-      "summaryTokens": 1181,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Donald Trump announced a one-year cap on credit card interest rates at 10%, effective January 20, via Truth Social, without detailing enforcement. He cited record $1.17 trn US credit card debt and accused the Biden administration of allowing rates above 20–30%. A bipartisan 2025 Sanders-Hawley bill on the same cap remains stalled amid banking opposition. Critics like Elizabeth Warren and industry trade groups warn it could slash credit access, while hedge-funder Bill Ackman cautioned card cancellations. Senator Hawley endorsed the plan, but legal authority absent congressional approval and consumer-protection enforcement remain in doubt.",
+      "summaryTokens": 1069,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/trump-worldview-inner-circle-personal-whim",
@@ -137,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T16:00:03Z",
       "trailText": "Administration officials, his family and even Mar-a-Lago guests wield outsized influence on a mercurial president",
-      "summary": "President Trump’s foreign policy reflects self-interest and transactional impulses more than ideology, with a sprawling advisory network—from secretary of state/national security adviser Marco Rubio orchestrating the Venezuelan coup, to son-in-law Jared Kushner and Mar-a-Lago guests, sons Don Jr and Eric pursuing business-friendly ties, Steve Witkoff, right-wing voices like Tucker Carlson, and hawkish senators JD Vance and Lindsey Graham. Military strikes on Syria, Nigeria, the audacious plot in Venezuela, talk of annexing Greenland and invoking a ‘Don-roe’ doctrine underline a realist, 19th-century great-power stance dictated by personal gain and competing patrons rather than coherent strategy.",
-      "summaryTokens": 960,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "In his second year, Trump’s foreign policy swings reflect self-interest over ideology, driven by a sprawling inner and outer circle. Marco Rubio, now both secretary of state and national security adviser, leads Latin America strategy, orchestrating Venezuela’s leadership change and oil access. Property developer Eliot Witkoff and son-in-law Jared Kushner shape Middle East and Ukraine policy, while Don Jr. and Eric press Gulf ties benefiting the Trump business. Stephen Miller advocates brute force, JD Vance and John Ratcliffe push isolationism, and hawks like Lindsey Graham, Tucker Carlson and a transactional Trump leverage personal access, reviving a 19th-century Monroe doctrine–style hemispheric dominance.",
+      "summaryTokens": 438,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/zohran-mamdani-new-york-10-days",
@@ -149,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T15:00:00Z",
       "trailText": "The New York mayor’s popular moves on rent and free childcare defied rightwing predictions of a far-left hellscape",
-      "summary": "In his first 10 days, New York’s new democratic socialist mayor Zohran Mamdani has pushed through major housing and social reforms despite right-wing warnings of dystopia. He launched two taskforces to unlock city land and slash permitting red tape, opened “rental ripoff” hearings targeting bad landlords, and ordered a 45-day overhaul of homeless shelters’ health and safety standards along with solitary-confinement reform in jails. Teaming with Gov. Kathy Hochul, he unveiled free childcare for two-year-olds, while personally smoothing out a dangerous dip on the Williamsburg Bridge—demonstrating rapid, concrete action amid fierce conservative criticism.",
-      "summaryTokens": 370,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Democratic Socialist Zohran Mamdani’s first ten days as New York mayor have belied right-wing warnings of a “Venezuela-style” dystopia. He established taskforces to unlock city land and slash housing permitting barriers, launched “rental ripoff” hearings against negligent landlords, mandated 45-day compliance for homeless shelters and jail reforms ending solitary confinement, and jointly unveiled a free childcare plan for two-year-olds with Governor Hochul. Beyond policy, Mamdani even smoothed the Williamsburg Bridge bike ramp. Supporters hail these moves as fulfilling campaign promises, while Fox News and the New York Post continue to lambaste his agenda.",
+      "summaryTokens": 826,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/la-zombie-fire-jonathan-rinderknecht",
@@ -161,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T14:00:02Z",
       "trailText": "Prosecutors claim Jonathan Rinderknecht, 29, started a smaller wildfire that went on to become the devastating Palisades blaze. Is he ultimately to blame?",
-      "summary": "Federal prosecutors allege 29-year-old Uber driver Jonathan Rinderknecht intentionally ignited a small blaze – the Lachman fire – on New Year’s Eve in Pacific Palisades, which, after being partially extinguished, rekindled under 100 mph winds into the catastrophic “zombie” Palisades fire that killed 12 and destroyed 7,000 structures. The central legal question is whether Rinderknecht could have foreseen this escalation or if firefighters’ failures to fully suppress the initial fire bear blame. His defense argues the LAFD’s botched containment and edited after-action reports shifted the true responsibility. Trial begins April 2026.",
-      "summaryTokens": 1016,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Federal prosecutors allege Jonathan Rinderknecht, 29 and a former Pacific Palisades resident, used a lighter to start a small New Year’s Day blaze in 2025 that grew to 8 acres before firefighters declared it out. Five days later, embers fanned by 100 mph winds reignited into the deadly Palisades “zombie” fire, killing 12 people and destroying 7,000 structures. Charged with three felonies and facing 5–45 years, Rinderknecht’s defense blames LAFD’s incomplete containment. Experts say the trial, set for April 21, 2026, will hinge on whether the catastrophic holdover fire was foreseeable or a separate event.",
+      "summaryTokens": 639,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/will-ice-agent-face-consequences-renee-nicole-good",
@@ -173,21 +389,21 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T13:00:02Z",
       "trailText": "ICE already receives less oversight for use-of-force incidents than local police departments, and hotly guards its policies",
-      "summary": "The fatal Jan. shootout of 37-year-old mom Renee Nicole Good by ICE agent Jonathan E. Ross in Minneapolis has ignited scrutiny of ICE’s use-of-force and scant oversight compared to local police. Video shows Good calmly pulling away, not striking officers, yet Ross fired three shots. DHS’s 2023 guidelines bar lethal force on fleeing vehicles unless grave threat exists, but federal immunity and White House defenses—echoed by Trump, Noem and Vance—make prosecution unlikely. ICE’s secrecy on force policies, FBI’s curbed local cooperation and high federal indictment thresholds deepen doubts over accountability; Good’s family may pursue an FTCA suit.",
-      "summaryTokens": 1078,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Renee Nicole Good, a 37-year-old mother of three, was fatally shot by ICE agent Jonathan E. Ross after officers aggressively approached her parked SUV in Minneapolis. Video suggests she attempted to flee, not endanger agents, contradicting Trump administration claims. ICE, less scrutinized than local police, updated use-of-force guidelines in 2023 but shields policies under FOIA. High immunity and a White House defense make prosecution unlikely. Experts and lawmakers decry a lack of de-escalation, while Good’s family may pursue civil suit under the Federal Tort Claims Act. The FBI’s limited cooperation with local authorities further hinders independent inquiry.",
+      "summaryTokens": 1011,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/ice-out-for-good-protests",
-      "title": "More than 1,000 events planned in US after ICE shootings in Minneapolis and Portland",
+      "title": "More than 1,000 events planned in US after ICE shooting in Minneapolis",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/10/ice-out-for-good-protests",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/10/ice-out-for-good-protests",
       "section": "us-news",
       "publishedDate": "2026-01-10T12:00:57Z",
       "trailText": "ICE Out for Good vigils and rallies are being tracked online by Indivisible, the group behind the No Kings protests",
-      "summary": "Over 1,000 demonstrations across all 50 states are slated for the ICE Out for Good Weekend of Action after ICE agents shot three people—killing Minneapolis resident Renee Good—and wounded two Venezuelan immigrants in Portland. Organized by Indivisible with the ACLU, National Day Laborer Organizing Network and the 50501 movement, rallies from Manhattan and Tucson to Philadelphia and Durham demand ICE's removal, justice for victims and legislative action. Protesters braved winter showers, targeted local congressional offices, and raised alarm over escalating ICE violence with chants like ICE has got to go and no fascist USA.",
-      "summaryTokens": 2016,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "More than 1,000 vigils and rallies dubbed “ICE Out for Good Weekend of Action,” organized by Indivisible with the ACLU, National Day Laborer Organizing Network and others, are planned in nearly every state after an ICE agent shot US citizen Renee Nicole Good during a Minneapolis immigration sweep. From Manhattan and Tucson to Philadelphia and Raleigh, protesters have gathered outside lawmakers’ offices and detention centers carrying upside-down flags and chanting “ICE has got to go.” The demonstrations, which follow border patrol shootings of Venezuelan immigrants in Portland, demand justice for Good and push for ICE’s removal.",
+      "summaryTokens": 993,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/fbi-investigation-minneapolis-ice-shooting-renee-nicole-good",
@@ -197,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T12:00:57Z",
       "trailText": "State and local officials say they do not believe investigation into shooting death of Renee Nicole Good will be objective",
-      "summary": "State and local leaders in Minnesota are raising concerns that the FBI’s exclusive investigation into ICE agent Jonathan Ross’s fatal shooting of Renee Nicole Good lacks impartiality and transparency. After the Bureau of Criminal Apprehension was ousted from the probe and denied access to key evidence—including the vehicle and forensic analyses—Hennepin County Attorney Mary Moriarty and Attorney General Keith Ellison urged the public to submit any material they hold. Minneapolis Mayor Jacob Frey condemned federal officials’ preemptive narrative, and legal experts say parallel state and federal investigations remain possible despite ICE immunity claims.",
-      "summaryTokens": 1441,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Minnesota’s Bureau of Criminal Apprehension (est. 1927) and city leaders argue the FBI’s assumption of sole control over the investigation of ICE agent Jonathan Ross’s killing of Renee Nicole Good compromises the agency’s high “objective reasonableness” standard after federal agents seized the car, weapon and interviews. Hennepin County Attorney Mary Moriarty, Mayor Jacob Frey and AG Keith Ellison condemn pre-judgments by Trump, Noem and Vance and call for a parallel state inquiry. Defense lawyer Eric Nelson and others urge public submission of video and evidence to ensure transparency and impartiality.",
+      "summaryTokens": 1067,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/10/renee-nicole-good-fundraising-campaign-ice",
@@ -209,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T10:00:55Z",
       "trailText": "Online campaign for US woman shot and killed by ICE agent in Minneapolis significantly surpasses initial $50,000 goal",
-      "summary": "GoFundMe campaign for Renee Nicole Good, the 37-year-old Minneapolis mother of three shot dead Jan 6 by ICE agent Jonathan E. Ross during an immigration sweep, raised over $1.5 million—30× its $50 000 goal—from roughly 38 500 donors before closing. Verified by GoFundMe, funds will be placed in a trust for her widow, Rebecca Good, and their children. Bystander video shows Good driving away peacefully before Ross fatally shot her, fueling criticism from Mayor Jacob Frey, congressional Democrats and protests near the George Floyd killing site. Rebecca hailed “the kindness of strangers” as Renee’s greatest tribute.",
-      "summaryTokens": 1078,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "A GoFundMe for Renee Nicole Good, a 37-year-old mother shot dead by ICE agent Jonathan E. Ross during a Minneapolis immigration sweep, raised over $1.5 million—30 times its $50 000 goal—before closing. Supported by roughly 38 500 donors, the verified campaign will fund a trust for her widow, Rebecca Good, and their three children. Video shows Good braking to leave as agents approached; she is unarmed and poses no threat. The killing, near the George Floyd anniversary site, sparked local protests, mayoral rebuke of ICE, and congressional calls to defund DHS.",
+      "summaryTokens": 557,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/09/trump-repeats-baseless-claim-renee-nicole-good",
@@ -221,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T02:44:45Z",
       "trailText": "President’s assertion that only a paid agitator would scream at ICE agents contradicted by hundreds of video records",
-      "summary": "At a White House briefing, President Trump endorsed VP JD Vance’s unfounded assertion that Renee Good—a 37-year-old Minneapolis woman fatally shot by an ICE agent—was part of a “leftwing network” of paid agitators. Trump pointed to video-recorded screams of “shame” by a witness at the scene as evidence of a “professional” paid protester, claiming only paid operatives repeat the same shout. However, hundreds of recordings show citizens routinely shouting at federal agents. Trump derided the witness’s “too crazy” repetition and vowed to keep protecting ICE, border patrol and law enforcement.",
-      "summaryTokens": 1322,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "President Trump, echoing VP Vance, repeated a baseless assertion that Renee Good, the 37-year-old woman killed by ICE in Minneapolis, was part of a 'leftwing network' of paid agitators. He pointed to a witness video in which a bystander screamed 'shame' at ICE officers—10 times—and called it proof only professionals would protest immigration raids that way. This claim runs counter to hundreds of similar recordings. Trump derided the witness’s 'crazy' reaction and pledged unwavering protection for ICE, border patrol and law enforcement.",
+      "summaryTokens": 926,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/09/portland-protests-border-patrol-agents",
@@ -233,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T02:43:16Z",
       "trailText": "Local leaders’ appeal for non-violence largely holds despite growing outrage over US immigration enforcement in city US politics live – latest updates",
-      "summary": "Late Thursday in Portland, Oregon, after US Border Patrol shot two Venezuelan immigrants—Yorlenys Zambrano-Contreras and Luis Moncada—outside a hospital, dozens of protesters rallied at an ICE facility denouncing agents as “murderers.” Authorities claim the pair were linked to Tren de Aragua and fired on agents after an alleged vehicle threat; both victims are in stable condition. Hundreds joined chants of “Abolish ICE” as police arrested six demonstrators. Mayor Keith Wilson and Oregon AG Dan Rayfield demanded a full local probe and ICE suspend operations, while leaders including Sen. Jeff Merkley urged nonviolence amid rising outrage over federal immigration enforcement.",
-      "summaryTokens": 946,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "Six protesters were arrested in Portland after two undocumented Venezuelans, Yorlenys Zambrano-Contreras and Luis Nico Moncada, were shot by US Border Patrol agents during a vehicle stop. DHS claims agents fired defensively when the driver allegedly tried to run them over; victims are in stable condition amid unconfirmed ties to the Tren de Aragua gang. Dozens rallied at an ICE facility denouncing agents as \"Nazis,\" recalling the killing of Renee Good. Local leaders, including Mayor Keith Wilson, Sen. Jeff Merkley and Oregon’s AG, urged calm, launched investigations and called for ICE to halt operations until cleared.",
+      "summaryTokens": 1960,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/09/trump-administration-news-latest-updates-today",
@@ -245,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-10T02:30:27Z",
       "trailText": "‘We’re going to be extracting numbers in terms of oil like few people have seen,’ Trump said Friday",
-      "summary": "At a White House roundtable, President Trump declared Venezuela “open for business,” urging Chevron, ExxonMobil and ConocoPhillips to rebuild aging infrastructure and tap the world’s largest oil reserves under US protection, promising to boost output and ease American energy costs. He also warned that if the US doesn’t act, Russia or China could seize Greenland. Other headlines: Minneapolis Mayor Frey accused ICE of hiding facts after a fatal shooting; US forces seized a tanker near Trinidad; a report flags $10 bn wasted on paid leave; Washington National Opera will leave the Kennedy Center; plus shifts in immigration raids and economic data.",
-      "summaryTokens": 1702,
-      "generatedAt": "2026-01-11T04:09:27.224Z"
+      "summary": "At a Jan. 9 White House roundtable, President Trump urged major oil firms—Chevron, ExxonMobil, ConocoPhillips—to invest billions in rebuilding Venezuela’s aging infrastructure, declaring Caracas “open for business” after Nicolás Maduro’s recent capture. He touted Venezuela’s vast reserves as “like few people have seen,” promising “total safety,” lower U.S. energy prices, and profits for companies (plus “some” returns for Venezuelans). While foreign involvement has previously yielded mixed, unstable output, Trump’s pitch positions U.S. interests ahead of Russia and China, spotlighting Venezuela as a strategic energy bonanza.",
+      "summaryTokens": 1128,
+      "generatedAt": "2026-01-12T03:53:00.264Z"
     },
     {
       "id": "us-news/2026/jan/09/maryland-woman-us-citizen-released-ice-custody",
@@ -13805,7 +14021,7 @@
       "section": "us-news",
       "publishedDate": "2025-11-07T02:08:20Z",
       "trailText": "Experts predict hundreds if not thousands of flights could be canceled at dozens of major airports",
-      "summary": "On day 38 of the record federal shutdown, the FAA mandated a 4% air-traffic cut in high-volume US markets by Nov 8, forcing up to 1,800 flight cancellations (≈268,000 seats) at major hubs from Atlanta to San Francisco and DC-area airports. Transportation Secretary Sean Duffy said it’s ‘not about politics’ but safety. Meanwhile, the Supreme Court allowed enforcement of Trump’s trans passport sex-marker ban; a judge ordered full November SNAP funding; Nancy Pelosi announced her retirement; the administration capped prices on emerging GLP-1 weight-loss drugs; and the Senate blocked Democrats’ effort to limit his Venezuela strike authority.",
+      "summary": "On day 38 of the record federal shutdown, the FAA mandated a 4% air-traffic cut in high-volume US markets by Nov 8, forcing up to 1,800 flight cancellations (≈268,000 seats) at major hubs from Atlanta to San Francisco and DC-area airports. Transportation Secretary Sean Duffy said it’s ‘not about politics’ but safety. Meanwhile, the Supreme Court allowed enforcement of Trump���s trans passport sex-marker ban; a judge ordered full November SNAP funding; Nancy Pelosi announced her retirement; the administration capped prices on emerging GLP-1 weight-loss drugs; and the Senate blocked Democrats’ effort to limit his Venezuela strike authority.",
       "summaryTokens": 1399,
       "generatedAt": "2025-11-09T03:41:18.960Z"
     },
