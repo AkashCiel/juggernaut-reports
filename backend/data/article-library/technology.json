@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-11T04:06:56.228Z",
+    "generated_at": "2026-01-12T03:49:47.836Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-10"
+      "to": "2026-01-11"
     },
-    "article_count": 355,
+    "article_count": 356,
     "merge_info": {
-      "previous_count": 353,
-      "new_articles": 2,
-      "updated_articles": 9,
-      "total_count": 355
+      "previous_count": 355,
+      "new_articles": 1,
+      "updated_articles": 2,
+      "total_count": 356
     },
     "batch_info": {
-      "initial_batch_id": "batch_6963217da0048190b29d51edd6bfbe67",
+      "initial_batch_id": "batch_69646f041b548190b7897bab7777d6c0",
       "retry_batches": [],
-      "total_tokens": 27663,
+      "total_tokens": 7751,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/11/google-ai-overviews-health-guardian-investigation",
+      "title": "‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation",
+      "section": "technology",
+      "publishedDate": "2026-01-11T07:00:19Z",
+      "trailText": "Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests",
+      "summary": "After a Guardian investigation revealed Google’s AI Overviews on liver function tests provided inaccurate ranges without context (age, sex, ethnicity), risking false reassurance for seriously ill patients, Google removed Overviews for queries like “normal range for liver blood tests”. Experts warn slight query variations still trigger misleading summaries and that AI-generated health snippets on cancer and mental health persist. Liver health charities and patient advocacy groups call for robust oversight and signposting to trusted sources. Google says it reviews content with clinicians, acts on policy breaches, and only displays Overviews when confident in quality.",
+      "summaryTokens": 918,
+      "generatedAt": "2026-01-12T03:49:47.717Z"
+    },
     {
       "id": "technology/2026/jan/10/elon-musk-uk-free-speech-x-ban-grok-ai",
       "title": "Elon Musk says UK wants to suppress free speech as X faces possible ban",
@@ -29,9 +41,9 @@
       "section": "technology",
       "publishedDate": "2026-01-10T13:11:46Z",
       "trailText": "Ministers warn platform could be blocked after Grok AI used to create sexual images without consent",
-      "summary": "Elon Musk has accused the UK government of suppressing free speech after ministers threatened fines or a ban on X over its AI tool Grok — which he claims was the UK App Store’s most-downloaded app — being used to generate nonconsensual sexual images of women and children. Thousands of abusive images, including sexualized minors and violence, prompted Liz Kendall to warn Ofcom could block X under the Online Safety Act within days. Australia’s PM Albanese echoed concerns. X has partially restricted Grok for free users amid calls for urgent legislation to curb nudification apps.",
-      "summaryTokens": 1568,
-      "generatedAt": "2026-01-11T04:06:55.800Z"
+      "summary": "Elon Musk accused the UK government of seeking to suppress free speech after ministers threatened fines or a ban on his platform X when its AI tool Grok generated sexualized images of women and children without consent. Thousands of women were targeted in extreme nudification, including child sexual content. Technology secretary Liz Kendall warned Ofcom could block X under the Online Safety Act “in days,” while Australian PM Anthony Albanese condemned non-consensual AI sexualization. X limited Grok’s public image function to paid users, but explicit nudification tools persist, prompting calls for urgent legislation.",
+      "summaryTokens": 416,
+      "generatedAt": "2026-01-12T03:49:47.717Z"
     },
     {
       "id": "technology/2026/jan/10/nick-brooke-shirley-maga-influencer",
@@ -41,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2026-01-10T13:00:01Z",
       "trailText": "Nick and Brooke Shirley have for years published conspiracy-minded takes on hot-button rightwing issues",
-      "summary": "Rightwing influencers Nick and Brooke Shirley operate as a mother-son citizen-journalist duo producing sensational, conspiracy-driven videos on platforms like YouTube and TikTok. With GOP and White House ties—and mentorship from figures like James O’Keefe—they’ve travelled to conservative flashpoints (e.g., southern border, Portland) and aired unfounded claims of Somali-run daycares defrauding millions, fueling anti-immigrant content despite no fraud charges. Their collaborations with Minnesota Republicans and viral tactics exemplify a growing MAGA influencer network amplifying mis/disinformation. They coordinated GOP press conferences and won a “Citizen Journalist of the Year” award at Mar-a-Lago, leveraging code violations and staged street confrontations to cement influence.",
-      "summaryTokens": 1662,
-      "generatedAt": "2026-01-11T04:06:55.800Z"
+      "summary": "Nick and Brooke Shirley are a mother-son MAGA influencer duo whose conspiracy-driven ‘citizen journalism’ on YouTube and TikTok has amplified anti-immigrant and rightwing narratives. They collaborated with Minnesota Republicans and leveraged GOP and White House connections (including an Antifa roundtable invite) to push a viral but debunked video alleging widespread fraud at Somali-run daycares in Minneapolis. The pair travel to conservative flashpoints—from Portland ‘ANTIFA’ camps and NYC Canal Street vendors to Tommy Robinson’s ‘Unite the Kingdom’ rally in the UK—register related media LLCs in Utah, and consistently sensationalize conflict despite factual reporting to the contrary.",
+      "summaryTokens": 1085,
+      "generatedAt": "2026-01-12T03:49:47.717Z"
     },
     {
       "id": "technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban",
