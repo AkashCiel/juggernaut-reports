@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-12T03:47:19.362Z",
+    "generated_at": "2026-01-13T03:51:28.776Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-10"
+      "to": "2026-01-12"
     },
-    "article_count": 176,
+    "article_count": 180,
     "merge_info": {
       "previous_count": 176,
-      "new_articles": 0,
-      "updated_articles": 2,
-      "total_count": 176
+      "new_articles": 4,
+      "updated_articles": 0,
+      "total_count": 180
     },
     "batch_info": {
-      "initial_batch_id": "batch_69646e6533d08190ad383181f3af3eee",
+      "initial_batch_id": "batch_6965c0f3a7448190b98234480fb1081b",
       "retry_batches": [],
-      "total_tokens": 3792,
+      "total_tokens": 10160,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2026/jan/12/primates-same-sex-sexual-behaviour-reinforce-social-bonds-study",
+      "title": "Primates’ same-sex sexual behaviour ‘may reinforce bonds amid environmental stress’",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/12/primates-same-sex-sexual-behaviour-reinforce-social-bonds-study",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/12/primates-same-sex-sexual-behaviour-reinforce-social-bonds-study",
+      "section": "science",
+      "publishedDate": "2026-01-12T16:00:08Z",
+      "trailText": "Behaviour among non-human species could help keep groups together in face of social challenges, says study",
+      "summary": "Researchers analysed reports of same-sex sexual behaviour in 59 non-human primate species, including chimpanzees, Barbary macaques and mountain gorillas, finding it widespread and likely either rooted in early primate evolution or evolved independently multiple times. Published in Nature Ecology & Evolution, they propose it functions as an affiliative strategy to reinforce bonds, reduce tension and maintain group cohesion under environmental stressors—drier habitats, scarce resources and high predation risk. Behaviour correlated with longer lifespans, sexual dimorphism and complex social hierarchies. The study links environmental conditions to life-history traits that shape social systems. Authors caution against direct comparisons to human sexuality.",
+      "summaryTokens": 1660,
+      "generatedAt": "2026-01-13T03:51:28.629Z"
+    },
+    {
+      "id": "science/2026/jan/12/starwatch-behold-taurus-the-babylonian-bull-of-heaven",
+      "title": "Starwatch: Behold Taurus, the Babylonian bull of heaven",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/12/starwatch-behold-taurus-the-babylonian-bull-of-heaven",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/12/starwatch-behold-taurus-the-babylonian-bull-of-heaven",
+      "section": "science",
+      "publishedDate": "2026-01-12T06:00:48Z",
+      "trailText": "Recorded in cave drawings as far back as 1000BC, this is one of the oldest zodiacal constellations to be recognised in its modern form",
+      "summary": "Taurus, one of the oldest constellations in its modern form, appears in Babylonian records as the bull of heaven from 1000 BC, while Lascaux cave art suggests a bull association some 14,000 years earlier. Straddling the ecliptic, this zodiacal constellation dominates winter skies. Its brightest star is the red giant Aldebaran (“eye of the bull”), which anchors the V-shaped Hyades cluster. Above the shoulder lies the Pleiades (“Seven Sisters”), led by Alcyone. Easily visible across both hemispheres, Taurus rises southeast in London around 20:00 GMT this week.",
+      "summaryTokens": 497,
+      "generatedAt": "2026-01-13T03:51:28.629Z"
+    },
+    {
+      "id": "science/2026/jan/12/the-friendship-secret-why-socialising-could-help-you-live-longer",
+      "title": "The friendship secret: why socialising could help you live longer",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/12/the-friendship-secret-why-socialising-could-help-you-live-longer",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/12/the-friendship-secret-why-socialising-could-help-you-live-longer",
+      "section": "science",
+      "publishedDate": "2026-01-12T05:00:47Z",
+      "trailText": "Neuroscientist Ben Rein is on a mission to show that being around others not only feels good, but can even improve recovery from strokes, cancer and heart attacks. So why are so many of us isolated and glued to our phones?",
+      "summary": "Neuroscientist Ben Rein, critic of junk online “neuroscience,” argues in Why Brains Need Friends that in-person social ties boost recovery and longevity by modulating stress, cortisol and inflammation. Isolated mice suffer worse strokes, and humans with weak social bonds have 50% higher death risk over a seven-and-a-half-year period; lonely heart-attack survivors are twice as likely to die within three years. Oxytocin release during face-to-face interaction promotes healing via serotonin and dopamine. Rein urges upgrading digital contact to real-world or video meetups.",
+      "summaryTokens": 1384,
+      "generatedAt": "2026-01-13T03:51:28.629Z"
+    },
+    {
+      "id": "science/2026/jan/11/paul-nurse-second-term-royal-society-president-interview",
+      "title": "‘Lots of people don’t want to do it’: Paul Nurse on his controversial second term as Royal Society president",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/11/paul-nurse-second-term-royal-society-president-interview",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/11/paul-nurse-second-term-royal-society-president-interview",
+      "section": "science",
+      "publishedDate": "2026-01-11T11:00:24Z",
+      "trailText": "The Nobel prize winner discusses claims of a ‘boys’ club’, Elon Musk’s fellowship and rightwing attacks on science",
+      "summary": "At 76 Paul Nurse, Nobel-winning geneticist and former Crick Institute director, begins a rare second unpaid term as president of the Royal Society amid debate over its ‘boys’ club’ image and demands for a female leader. Elected by two-thirds of 1,500 fellows, he defends his reappointment and insists the role is a demanding, real job. He addresses calls to expel Elon Musk over conduct, arguing only fraudulent science merits removal, and warns that right-wing populism, UK research funding and visa barriers threaten British science.",
+      "summaryTokens": 872,
+      "generatedAt": "2026-01-13T03:51:28.629Z"
+    },
     {
       "id": "science/2026/jan/10/nasa-medical-evacuation-international-space-station",
       "title": "Nasa announces timeline of astronauts’ early departure from ISS due to ‘serious’ medical issue",
