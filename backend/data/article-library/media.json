@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2026-01-12T03:40:48.106Z",
+    "generated_at": "2026-01-13T03:46:31.819Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-11"
+      "to": "2026-01-12"
     },
-    "article_count": 232,
+    "article_count": 234,
     "merge_info": {
-      "previous_count": 231,
-      "new_articles": 1,
+      "previous_count": 232,
+      "new_articles": 2,
       "updated_articles": 2,
-      "total_count": 232
+      "total_count": 234
     },
     "batch_info": {
-      "initial_batch_id": "batch_69646cddb92081909a23909c7919a82a",
+      "initial_batch_id": "batch_6965bc842504819084dbdad99a2985cb",
       "retry_batches": [],
-      "total_tokens": 5499,
-      "processing_time_hours": 0
+      "total_tokens": 7787,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "media/2026/jan/12/david-letterman-cbs-news-bari-weiss",
+      "title": "David Letterman calls CBS News a ‘wreck’ under newly installed leadership",
+      "webUrl": "https://www.theguardian.com/media/2026/jan/12/david-letterman-cbs-news-bari-weiss",
+      "apiUrl": "https://content.guardianapis.com/media/2026/jan/12/david-letterman-cbs-news-bari-weiss",
+      "section": "media",
+      "publishedDate": "2026-01-12T19:28:43Z",
+      "trailText": "Former late-night host makes comments amid merger of CBS’s parent company Paramount with Skydance Media",
+      "summary": "David Letterman lambasts CBS News as a “wreck” under new Paramount–Skydance ownership and Bari Weiss’s editorship, arguing management has trampled a legacy dating to Edward R. Murrow. He cites the $16 m Trump lawsuit settlement, The Late Show cancellation, chaotic newsroom shake-ups, shelved 60 Minutes investigations and weak town-hall ratings under Weiss. Letterman also praises Jimmy Kimmel’s stand against ABC affiliates and Seth Meyers’s work, warning that late-night satire is losing platforms for accountability and consistency beyond partisan lines.",
+      "summaryTokens": 349,
+      "generatedAt": "2026-01-13T03:46:31.688Z"
+    },
+    {
+      "id": "media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era",
+      "title": "Publishers fear AI search summaries and chatbots mean ‘end of traffic era’",
+      "webUrl": "https://www.theguardian.com/media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era",
+      "apiUrl": "https://content.guardianapis.com/media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era",
+      "section": "media",
+      "publishedDate": "2026-01-12T06:00:49Z",
+      "trailText": "Media bosses expect web referrals to plunge and want journalists to emulate content creators, report finds",
+      "summary": "A Reuters Institute report of 280 media leaders across 51 countries finds publishers foresee a 43% drop in search referrals over three years as AI summaries and chatbots reshape discovery. Search traffic to news is down 33% globally, worse in lifestyle/celebrity/travel, while live current affairs remain resilient. AI Overviews now appear atop 10% of US results; ChatGPT referrals remain marginal. To adapt, outlets are shifting to subscription models, short-form video on YouTube/TikTok, journalist-as-creator cultures and partnerships; even governments recruit influencers to reach Gen Z.",
+      "summaryTokens": 810,
+      "generatedAt": "2026-01-13T03:46:31.688Z"
+    },
     {
       "id": "media/2026/jan/11/kemi-badenoch-says-tories-would-ban-under-16s-from-addictive-social-media",
       "title": "Pressure grows on No 10 as Burnham backs Tory call for under-16s social media ban",
@@ -29,9 +53,9 @@
       "section": "media",
       "publishedDate": "2026-01-11T17:34:41Z",
       "trailText": "Labour Greater Manchester mayor says he agrees with Kemi Badenoch about need to protect young people",
-      "summary": "Conservative frontbencher Kemi Badenoch has urged a ban on under-16s using Facebook, Instagram, TikTok, X and other platforms, describing them as addictive and harmful. Her call has won cross-party backing from Labour mayor Andy Burnham, teaching unions (NASUWT, NEU) and peers in the Lords, which could amend the children’s wellbeing and schools bill this month. Downing Street says it has no plans for a blanket ban but is monitoring Australia’s age restrictions. Ministers point to the Online Safety Act protecting under-18s, while policy options remain under review.",
-      "summaryTokens": 430,
-      "generatedAt": "2026-01-12T03:40:47.997Z"
+      "summary": "Kemi Badenoch, Tory shadow minister, proposes banning under-16s from platforms like Facebook, Instagram, TikTok and X to curb addiction and mental-health harm, advocating Australia-style age limits. Cross-party backers include Labour’s Andy Burnham, peers proposing Lords amendments to the children’s wellbeing and schools bill, teaching unions NASUWT and NEU, and health secretary Wes Streeting. PM Keir Starmer and tech secretary Liz Kendall oppose a blanket ban. Government cites its Online Safety Act protecting under-18s while monitoring overseas models and consulting parents and industry. It also enforces rules against harmful content like self-harm and suicide.",
+      "summaryTokens": 1282,
+      "generatedAt": "2026-01-13T03:46:31.688Z"
     },
     {
       "id": "media/2026/jan/11/ban-social-media-for-under-16s-top-teaching-union-urges-uk-government",
@@ -41,9 +65,9 @@
       "section": "media",
       "publishedDate": "2026-01-11T00:01:10Z",
       "trailText": "NASUWT says evidence growing that unregulated access affects behaviour in school and harms mental health",
-      "summary": "NASUWT, one of the UK’s largest teaching unions, has urged the government to ban social media for under-16s, arguing unregulated platforms harm pupils’ mental health, concentration and behaviour in schools. Citing incidents like Elon Musk’s Grok AI removing clothing and Australia’s new under-16s ban, union leader Matt Wrack warns children face violent and explicit content online. In a survey of 5,800 members, 81% reported increased violent or abusive behaviour, 59% blamed social media, and 89% support a statutory ban. The government maintains current phone restrictions and the Online Safety Act sufficiently protect under-18s.",
-      "summaryTokens": 631,
-      "generatedAt": "2026-01-12T03:40:47.997Z"
+      "summary": "NASUWT, one of the UK’s largest teaching unions, has called for a statutory ban on social media for under-16s, warning that unregulated access worsens pupil behaviour, anxiety and mental health. Its survey of 5,800 teachers found 81% noticed rising violent or abusive conduct and 59% identified social media as a key driver; 89% of 300 polled members backed a formal ban. General secretary Matt Wrack argued platforms exploit children’s vulnerabilities and only act under legal compulsion. The appeal follows Australia’s new under-16s ban and concerns over AI tools exposing minors. The government says existing Online Safety Act protections and school phone rules strike the right balance.",
+      "summaryTokens": 1599,
+      "generatedAt": "2026-01-13T03:46:31.688Z"
     },
     {
       "id": "media/2026/jan/10/tony-dokoupil-cbs-evening-news-anchor-first-week",
