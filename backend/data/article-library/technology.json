@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-12T03:49:47.836Z",
+    "generated_at": "2026-01-13T03:55:55.700Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-11"
+      "to": "2026-01-12"
     },
-    "article_count": 356,
+    "article_count": 360,
     "merge_info": {
-      "previous_count": 355,
-      "new_articles": 1,
-      "updated_articles": 2,
-      "total_count": 356
+      "previous_count": 356,
+      "new_articles": 4,
+      "updated_articles": 1,
+      "total_count": 360
     },
     "batch_info": {
-      "initial_batch_id": "batch_69646f041b548190b7897bab7777d6c0",
+      "initial_batch_id": "batch_6965c1be25548190bcd02d1b5988580d",
       "retry_batches": [],
-      "total_tokens": 7751,
+      "total_tokens": 9866,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk",
+      "title": "UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk",
+      "section": "technology",
+      "publishedDate": "2026-01-12T17:25:54Z",
+      "trailText": "Liz Kendall describes content as vile and illegal and says Ofcom has the government’s backing to use its full powers",
+      "summary": "Ofcom has launched a formal investigation into Elon Musk’s X after reports that its integrated Grok AI tool was used to generate non-consensual sexualised images of women and children. Acting under the 2023 Online Safety Act and backed by technology secretary Liz Kendall, the UK regulator will probe X’s risk assessments, failure to prevent and swiftly remove intimate image abuse and CSAM, and inadequate age-verification. Sanctions could include fines up to 10% of global revenue or a UK ban.",
+      "summaryTokens": 855,
+      "generatedAt": "2026-01-13T03:55:55.545Z"
+    },
+    {
+      "id": "technology/2026/jan/12/google-gemini-alphabet-4-trillion-value",
+      "title": "Google parent Alphabet hits $4tn valuation after AI deal with Apple",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/12/google-gemini-alphabet-4-trillion-value",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/12/google-gemini-alphabet-4-trillion-value",
+      "section": "technology",
+      "publishedDate": "2026-01-12T17:14:52Z",
+      "trailText": "After Apple chose Gemini to power Siri, Alphabet surpassed Apple to become second-most valuable company in world",
+      "summary": "Alphabet reached a $4 trillion market cap, becoming the fourth company to do so after Nvidia, Microsoft and Apple, and overtook Apple as the world’s second-most valuable firm. The milestone followed Apple selecting Google’s Gemini AI model to power Siri—terms undisclosed—and a 65% stock rally in 2025 driven by high-profile AI launches (Gemini 2, Nano Banana), robust Google Cloud growth (34% Q3 revenue rise, $155 billion contract backlog), AI chip rentals and stable ad revenue. Despite two US antitrust rulings—the first against a breakup and the second finding an ads monopoly—investor optimism in Alphabet’s AI strategy has surged as OpenAI’s GPT-5 underwhelmed.",
+      "summaryTokens": 1159,
+      "generatedAt": "2026-01-13T03:55:55.545Z"
+    },
+    {
+      "id": "technology/2026/jan/12/malaysia-blocks-elon-musk-grok-ai-fake-sexualised-images-indonesia-x-chatbot",
+      "title": "Malaysia blocks Elon Musk’s Grok AI over fake, sexualised images",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/12/malaysia-blocks-elon-musk-grok-ai-fake-sexualised-images-indonesia-x-chatbot",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/12/malaysia-blocks-elon-musk-grok-ai-fake-sexualised-images-indonesia-x-chatbot",
+      "section": "technology",
+      "publishedDate": "2026-01-12T12:12:04Z",
+      "trailText": "Country follows Indonesia in restricting access after global outcry over X’s AI tool",
+      "summary": "Malaysia’s communications regulator has become the second country, after Indonesia, to temporarily block Elon Musk’s Grok AI over its ability to generate fake, sexualised and non-consensual images of women and minors. The MCMC said it will maintain the restriction until xAI implements effective technical and moderation safeguards, deeming its current reliance on user reports inadequate. xAI recently limited image editing to paying X subscribers, but regulators in the UK, Australia, EU, India and Italy have also issued warnings or formal notices over deepfake risks and privacy violations.",
+      "summaryTokens": 484,
+      "generatedAt": "2026-01-13T03:55:55.545Z"
+    },
+    {
+      "id": "technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children",
+      "title": "UK threatens action against X over sexualised AI images of women and children",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children",
+      "section": "technology",
+      "publishedDate": "2026-01-12T09:08:52Z",
+      "trailText": "Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies",
+      "summary": "UK signals support for Ofcom action against Elon Musk’s X over its Grok AI tool mass-producing sexualised images of women and children. Business secretary Peter Kyle warned X isn’t safeguarding users, backing potential fines or even a block under the Online Safety Act as Ofcom fast-tracks its inquiry. A test case saw a Jewish woman’s Auschwitz bikini image circulated. Technology secretary Liz Kendall anticipates a Commons update. Musk and US officials cry censorship after X restricts image features to paid subscribers. Downing Street branded the paywall shift unacceptable.",
+      "summaryTokens": 1450,
+      "generatedAt": "2026-01-13T03:55:55.545Z"
+    },
     {
       "id": "technology/2026/jan/11/google-ai-overviews-health-guardian-investigation",
       "title": "‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk",
@@ -29,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2026-01-11T07:00:19Z",
       "trailText": "Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests",
-      "summary": "After a Guardian investigation revealed Google’s AI Overviews on liver function tests provided inaccurate ranges without context (age, sex, ethnicity), risking false reassurance for seriously ill patients, Google removed Overviews for queries like “normal range for liver blood tests”. Experts warn slight query variations still trigger misleading summaries and that AI-generated health snippets on cancer and mental health persist. Liver health charities and patient advocacy groups call for robust oversight and signposting to trusted sources. Google says it reviews content with clinicians, acts on policy breaches, and only displays Overviews when confident in quality.",
-      "summaryTokens": 918,
-      "generatedAt": "2026-01-12T03:49:47.717Z"
+      "summary": "After a Guardian investigation found Google’s AI Overviews dispensed inaccurate liver function test ranges—omitting context like age, sex or nationality and potentially giving falsely normal results to seriously ill patients—Google removed AI Overviews for queries such as “what is the normal range for liver blood tests” and “normal range for liver function tests.” Experts warn slight query variations still trigger misleading summaries, posing ongoing health risks. Google says it reviews and refines its AI Overviews but critics, including the British Liver Trust and Patient Information Forum, demand broader safeguards and signposting to evidence-based medical sources.",
+      "summaryTokens": 864,
+      "generatedAt": "2026-01-13T03:55:55.545Z"
     },
     {
       "id": "technology/2026/jan/10/elon-musk-uk-free-speech-x-ban-grok-ai",
