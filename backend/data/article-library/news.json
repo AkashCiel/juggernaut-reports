@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-12T03:42:43.712Z",
+    "generated_at": "2026-01-13T03:48:28.169Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-11"
+      "to": "2026-01-12"
     },
-    "article_count": 201,
+    "article_count": 202,
     "merge_info": {
-      "previous_count": 200,
+      "previous_count": 201,
       "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 201
+      "updated_articles": 1,
+      "total_count": 202
     },
     "batch_info": {
-      "initial_batch_id": "batch_69646da6f3dc81909f1011d08be350ae",
+      "initial_batch_id": "batch_6965c03f0a9481909d75ecbe00be7589",
       "retry_batches": [],
-      "total_tokens": 940,
+      "total_tokens": 2354,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/12/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/12/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/12/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2026-01-12T21:00:14Z",
+      "trailText": "HS1/HS2",
+      "summary": "Guardian clarifies HS1’s per-mile cost was ~£90m (not £51m), the Sheephouse Wood bat tunnel protects Bechstein’s bats (not barbastelles), and Aylesbury Vale Parkway is the Chilterns line terminus between London and Aylesbury (not a through-stop on the London-Birmingham route). Other recent amendments cover: six protesters arrested in Portland after border-patrol shootings; WHO advice favouring respirators over face masks; Béla Tarr obituary; concerns over an FBI probe into a Minneapolis ICE shooting. Corrections can be sent to guardian.readers@theguardian.com, Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 1044,
+      "generatedAt": "2026-01-13T03:48:28.056Z"
+    },
     {
       "id": "news/2026/jan/11/corrections-and-clarifications1",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2026-01-11T21:00:36Z",
       "trailText": "Gap | Joe Buckley/Tollemache Arms | AC-130 gunship",
-      "summary": "Corrections: the Gap has not sourced products from Lesotho since 2016, contrary to our 8 January report on textile workers and tariffs; the landlord of the Tollemache Arms in Harrington, Northamptonshire, is Joe Buckley, not ‘‘Joe Butler’’; and the AC-130 is a fixed-wing gunship, not a helicopter. Other recent amendments include the Ben Whishaw interview on New York and Peter Hujar. To submit editorial complaints or correction requests, email guardian.readers@theguardian.com, write to Readers’ editor, Kings Place, 90 York Way, London N1 9GU, or leave a voicemail on +44 (0) 20 3353 4736.",
-      "summaryTokens": 505,
-      "generatedAt": "2026-01-12T03:42:43.597Z"
+      "summary": "Corrections: Gap no longer sources from Lesotho since 2016, contrary to an 8 January report. The Tollemache Arms landlord is Joe Buckley, not Joe Butler. The AC-130 is a fixed-wing gunship, not a helicopter. Other recently amended articles include Ben Whishaw on libidinous New York and his portrayal of Peter Hujar. Editorial complaints or correction requests can be sent to guardian.readers@theguardian.com, mailed to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or left on +44 (0)20 3353 4736.",
+      "summaryTokens": 428,
+      "generatedAt": "2026-01-13T03:48:28.056Z"
     },
     {
       "id": "news/2026/jan/09/corrections-and-clarifications",
