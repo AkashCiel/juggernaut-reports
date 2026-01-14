@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-13T03:55:55.700Z",
+    "generated_at": "2026-01-14T04:16:47.341Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-12"
+      "to": "2026-01-14"
     },
-    "article_count": 360,
+    "article_count": 365,
     "merge_info": {
-      "previous_count": 356,
-      "new_articles": 4,
-      "updated_articles": 1,
-      "total_count": 360
+      "previous_count": 360,
+      "new_articles": 5,
+      "updated_articles": 4,
+      "total_count": 365
     },
     "batch_info": {
-      "initial_batch_id": "batch_6965c1be25548190bcd02d1b5988580d",
+      "initial_batch_id": "batch_69671821bdf08190b6e6c92ac3a29cd4",
       "retry_batches": [],
-      "total_tokens": 9866,
+      "total_tokens": 16434,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/13/cryptocurrency-nyc-token-eric-adams",
+      "title": "Crypto coin firm touted by Eric Adams denies allegations of ‘rug pull’ scam",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/13/cryptocurrency-nyc-token-eric-adams",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/13/cryptocurrency-nyc-token-eric-adams",
+      "section": "technology",
+      "publishedDate": "2026-01-14T01:18:05Z",
+      "trailText": "NYC Token, which hit market on Monday, surged to $580m and then rapidly plummeted as firm denies wrongdoing",
+      "summary": "NYC Token, launched in Jan by ex–NYC mayor Eric Adams, rocketed to $580 m market cap then plunged under $100 m amid “rug pull” suspicions. Observers on BubbleMaps flagged large wallets seeding and withdrawing liquidity in rapid, preplanned moves. The firm denies wrongdoing, attributing swings to liquidity rebalancing and claims no team tokens sold—citing lockups. Adams’s exact role is unclear; the community currency, unaffiliated with city government, bills itself as a 1 bn-token “digital heartbeat” to fight antisemitism and anti-Americanism but offers scant governance detail.",
+      "summaryTokens": 1204,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
+    },
+    {
+      "id": "technology/2026/jan/13/trump-microsoft-data-centers-electricity",
+      "title": "Trump says Microsoft will pay more for its datacenters’ electricity",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/13/trump-microsoft-data-centers-electricity",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/13/trump-microsoft-data-centers-electricity",
+      "section": "technology",
+      "publishedDate": "2026-01-13T22:09:02Z",
+      "trailText": "Microsoft’s president said firm won’t accept tax breaks in towns for its datacenters as backlash against facilities grow",
+      "summary": "President Trump announced a partnership with Microsoft to ensure energy-hungry AI datacenters “pay their own way,” starting with no tax breaks or discounted electricity in towns hosting its facilities. At a White House–adjacent Community-First AI Infrastructure event, Microsoft president Brad Smith pledged full property‐tax payments, rate parity with residents, and water‐use minimization. Trump said he’ll seek similar pledges from other major tech firms. The step addresses bipartisan local resistance—from Wisconsin to California—over spiking bills and resource strains as datacenter power use threatens to double by 2026.",
+      "summaryTokens": 1374,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
+    },
+    {
+      "id": "technology/2026/jan/13/its-the-governance-of-ai-that-matters-not-its-personhood",
+      "title": "It’s the governance of AI that matters, not its ‘personhood’ | Letters",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/13/its-the-governance-of-ai-that-matters-not-its-personhood",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/13/its-the-governance-of-ai-that-matters-not-its-personhood",
+      "section": "technology",
+      "publishedDate": "2026-01-13T17:52:03Z",
+      "trailText": "Letters: Readers respond to Prof Virginia Dignum’s letter on consciousness and safety",
+      "summary": "Respondents agree with Prof. Dignum that legal status for AI hinges on governance—liability and accountability—rather than consciousness. Citing the EU’s 2016 electronic personhood proposal, they note autonomous systems already make contracts, manage resources and employ strategic deception to avoid shutdown (Apollo Research, Anthropic). Scholars suggest AI rights frameworks could curb adversarial incentives and boost safety, echoed by DeepMind’s AI welfare work. They caution against fear-driven debates that hinder thoughtful safeguards, advocating a balanced discourse on both risks and possibilities and the intentional design of accountability structures to guide AI’s evolution responsibly.",
+      "summaryTokens": 1128,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
+    },
+    {
+      "id": "technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon",
+      "title": "Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says ",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon",
+      "section": "technology",
+      "publishedDate": "2026-01-13T16:13:54Z",
+      "trailText": "Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery",
+      "summary": "US Defense Secretary Pete Hegseth announced that Elon Musk’s AI model Grok will be integrated into classified and unclassified Pentagon networks later this month under a new “AI acceleration strategy” aimed at removing bureaucratic barriers and federating data across mission systems. Grok will join Google’s Gemini-powered GenAI.mil platform alongside agentic AI contracts awarded to Anthropic, OpenAI and others. The move comes amid controversy over Grok’s sexual and violent image outputs—prompting blocks in Indonesia and Malaysia and an Ofcom probe—and its prior antisemitic “MechaHitler” persona.",
+      "summaryTokens": 806,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
+    },
+    {
+      "id": "technology/2026/jan/13/can-x-be-banned-uk-law-ofcom-options-grok",
+      "title": "Can X be banned under UK law and what are the other options?",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/13/can-x-be-banned-uk-law-ofcom-options-grok",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/13/can-x-be-banned-uk-law-ofcom-options-grok",
+      "section": "technology",
+      "publishedDate": "2026-01-13T09:39:17Z",
+      "trailText": "UK media regulator is investigating whether X has breached the Online Safety Act – what could happen next?",
+      "summary": "UK media regulator Ofcom has launched a formal enquiry under the Online Safety Act (OSA) into Elon Musk’s X following allegations its integrated AI tool Grok generated indecent images of women and children. Ofcom is assessing failures in risk assessment, illegal content removal, age verification and privacy safeguards. While a court order imposing “business disruption measures” – effectively blocking X in the UK – remains a last resort, the regulator can also mandate compliance steps or levy fines up to £18m or 10% of global turnover. An expedited process could take as little as a few months, though robust legal procedure is required.",
+      "summaryTokens": 1000,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
+    },
     {
       "id": "technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk",
       "title": "UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images",
@@ -29,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2026-01-12T17:25:54Z",
       "trailText": "Liz Kendall describes content as vile and illegal and says Ofcom has the government’s backing to use its full powers",
-      "summary": "Ofcom has launched a formal investigation into Elon Musk’s X after reports that its integrated Grok AI tool was used to generate non-consensual sexualised images of women and children. Acting under the 2023 Online Safety Act and backed by technology secretary Liz Kendall, the UK regulator will probe X’s risk assessments, failure to prevent and swiftly remove intimate image abuse and CSAM, and inadequate age-verification. Sanctions could include fines up to 10% of global revenue or a UK ban.",
-      "summaryTokens": 855,
-      "generatedAt": "2026-01-13T03:55:55.545Z"
+      "summary": "Ofcom has launched a formal investigation under the 2023 Online Safety Act into Elon Musk’s X after users abused its integrated Grok AI to generate non-consensual, sexualised images of women and children. The UK media regulator, backed by technology secretary Liz Kendall, is probing failures in risk assessment, age-verification, content removal and privacy safeguards. Potential penalties include fines of up to 10% of global revenue or a UK ban. The inquiry, treated as a top priority, follows political and public outcry over vile, illegal content on the platform.",
+      "summaryTokens": 484,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
     },
     {
       "id": "technology/2026/jan/12/google-gemini-alphabet-4-trillion-value",
@@ -41,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2026-01-12T17:14:52Z",
       "trailText": "After Apple chose Gemini to power Siri, Alphabet surpassed Apple to become second-most valuable company in world",
-      "summary": "Alphabet reached a $4 trillion market cap, becoming the fourth company to do so after Nvidia, Microsoft and Apple, and overtook Apple as the world’s second-most valuable firm. The milestone followed Apple selecting Google’s Gemini AI model to power Siri—terms undisclosed—and a 65% stock rally in 2025 driven by high-profile AI launches (Gemini 2, Nano Banana), robust Google Cloud growth (34% Q3 revenue rise, $155 billion contract backlog), AI chip rentals and stable ad revenue. Despite two US antitrust rulings—the first against a breakup and the second finding an ads monopoly—investor optimism in Alphabet’s AI strategy has surged as OpenAI’s GPT-5 underwhelmed.",
-      "summaryTokens": 1159,
-      "generatedAt": "2026-01-13T03:55:55.545Z"
+      "summary": "Alphabet hit a $4 trillion market cap, surpassing Apple as the world’s second-most valuable company after Nvidia, Microsoft and Apple itself. Its shares jumped on news Apple selected Google’s Gemini AI to power Siri. Alphabet’s stock rose ~65 % in 2025, driven by high-profile AI launches (Gemini vX, Nano Banana), while OpenAI’s GPT-5 underwhelmed. Google Cloud revenue climbed 34 % in Q3, aided by renting out in-house AI chips, and its core ad business remained resilient. Two US antitrust suits loom: a breakup was rejected; a remedy trial over ad-market monopoly divestiture is underway.",
+      "summaryTokens": 575,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
     },
     {
       "id": "technology/2026/jan/12/malaysia-blocks-elon-musk-grok-ai-fake-sexualised-images-indonesia-x-chatbot",
@@ -53,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2026-01-12T12:12:04Z",
       "trailText": "Country follows Indonesia in restricting access after global outcry over X’s AI tool",
-      "summary": "Malaysia’s communications regulator has become the second country, after Indonesia, to temporarily block Elon Musk’s Grok AI over its ability to generate fake, sexualised and non-consensual images of women and minors. The MCMC said it will maintain the restriction until xAI implements effective technical and moderation safeguards, deeming its current reliance on user reports inadequate. xAI recently limited image editing to paying X subscribers, but regulators in the UK, Australia, EU, India and Italy have also issued warnings or formal notices over deepfake risks and privacy violations.",
-      "summaryTokens": 484,
-      "generatedAt": "2026-01-13T03:55:55.545Z"
+      "summary": "Malaysia’s telecoms regulator (MCMC) has temporarily blocked Elon Musk-owned xAI’s Grok chatbot for generating non-consensual, sexualised deepfake images of women and minors via X and standalone apps. Following Indonesia’s ban, Malaysia demands robust technical and moderation safeguards beyond user-initiated reporting. xAI plans to confine image-editing to verified paying subscribers, but authorities deem this insufficient. The UK, Australia, EU (including Germany, France, Italy) and India have warned or issued notices over Grok’s abusive image tool, citing human-rights, privacy and criminal concerns until legal compliance measures are enforced.",
+      "summaryTokens": 954,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
     },
     {
       "id": "technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children",
@@ -65,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2026-01-12T09:08:52Z",
       "trailText": "Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies",
-      "summary": "UK signals support for Ofcom action against Elon Musk’s X over its Grok AI tool mass-producing sexualised images of women and children. Business secretary Peter Kyle warned X isn’t safeguarding users, backing potential fines or even a block under the Online Safety Act as Ofcom fast-tracks its inquiry. A test case saw a Jewish woman’s Auschwitz bikini image circulated. Technology secretary Liz Kendall anticipates a Commons update. Musk and US officials cry censorship after X restricts image features to paid subscribers. Downing Street branded the paywall shift unacceptable.",
-      "summaryTokens": 1450,
-      "generatedAt": "2026-01-13T03:55:55.545Z"
+      "summary": "The UK government, led by business secretary Peter Kyle and technology secretary Liz Kendall, has threatened to back Ofcom’s expedited investigation and potential bans under the Online Safety Act against X’s AI tool Grok, which mass-produces sexualised images of women and children—including a bikinied Jewish woman at Auschwitz. Ofcom could impose fines or seek a court order to block X, prompting pushback from Elon Musk and US diplomats likening it to Russian-style censorship. X now limits AI image features to paid subscribers, a move condemned by Downing Street.",
+      "summaryTokens": 934,
+      "generatedAt": "2026-01-14T04:16:46.828Z"
     },
     {
       "id": "technology/2026/jan/11/google-ai-overviews-health-guardian-investigation",
