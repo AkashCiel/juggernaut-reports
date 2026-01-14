@@ -1,37 +1,85 @@
 {
   "metadata": {
     "section": "environment",
-    "generated_at": "2026-01-13T03:27:46.254Z",
+    "generated_at": "2026-01-14T03:38:08.551Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-13"
+      "to": "2026-01-14"
     },
-    "article_count": 742,
+    "article_count": 746,
     "merge_info": {
-      "previous_count": 736,
-      "new_articles": 6,
-      "updated_articles": 0,
-      "total_count": 742
+      "previous_count": 742,
+      "new_articles": 4,
+      "updated_articles": 6,
+      "total_count": 746
     },
     "batch_info": {
-      "initial_batch_id": "batch_6965bb4f86d4819093878faf54959ed1",
+      "initial_batch_id": "batch_69670ee711c88190851bee9bb361ca3d",
       "retry_batches": [],
-      "total_tokens": 11350,
-      "processing_time_hours": 0
+      "total_tokens": 21794,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "environment/2026/jan/14/human-activity-helped-make-2025-third-hottest-year-on-record-experts-say",
+      "title": "Human activity helped make 2025 third-hottest year on record, experts say",
+      "webUrl": "https://www.theguardian.com/environment/2026/jan/14/human-activity-helped-make-2025-third-hottest-year-on-record-experts-say",
+      "apiUrl": "https://content.guardianapis.com/environment/2026/jan/14/human-activity-helped-make-2025-third-hottest-year-on-record-experts-say",
+      "section": "environment",
+      "publishedDate": "2026-01-14T03:00:13Z",
+      "trailText": "Data leads scientists to declare 2015 Paris agreement to keep global heating below 1.5C ‘dead in the water’",
+      "summary": "2025 ranked the third-hottest year globally as WMO and Copernicus data show surface temperatures averaged 1.48 °C above pre-industrial levels, edging close to the Paris pact’s 1.5 °C ceiling. Multiple datasets confirm an extraordinary three-year heat streak driven by persistent fossil-fuel emissions, while El Niño’s influence receded in 2025, exposing the underlying warming trend. Polar extremes hit record highs, sea ice hit historic lows and 8.5% of people endured record annual heat. Scientists warn the 1.5 °C goal is effectively lost, urging plans to manage inevitable overshoot.",
+      "summaryTokens": 1014,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
+    },
+    {
+      "id": "environment/2026/jan/13/threatened-species-habitat-destruction-australia-15-year-high",
+      "title": "Ten Sydney Harbours’ worth of threatened species habitat approved for destruction in 2025, report finds",
+      "webUrl": "https://www.theguardian.com/environment/2026/jan/13/threatened-species-habitat-destruction-australia-15-year-high",
+      "apiUrl": "https://content.guardianapis.com/environment/2026/jan/13/threatened-species-habitat-destruction-australia-15-year-high",
+      "section": "environment",
+      "publishedDate": "2026-01-13T19:38:33Z",
+      "trailText": "ACF analysis finds amount of habitat approved by Albanese government for land-clearing hit a 15-year high last year",
+      "summary": "ACF finds 57,000 ha of threatened habitat—equivalent to ten Sydney Harbours—approved for clearing in 2025, a 15-year high, double 2024 and five times 2023. Forty-two species were newly listed as threatened; the northern quoll lost 7,643 ha and the night parrot was downgraded to critically endangered even as six Sydney Airport-sized blocks of its habitat face bulldozing. Ninety-eight percent of clearing occurred in WA, QLD and NSW, two-thirds driven by mining, especially in the Pilbara. Recent EPBC Act reforms and a proposed national Environment Protection Agency introduce net-gain requirements and stronger oversight, but outcomes hinge on resourcing and enforcement details.",
+      "summaryTokens": 912,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
+    },
+    {
+      "id": "environment/2026/jan/13/microplastics-human-body-doubt",
+      "title": "‘A bombshell’: doubt cast on discovery of microplastics throughout human body",
+      "webUrl": "https://www.theguardian.com/environment/2026/jan/13/microplastics-human-body-doubt",
+      "apiUrl": "https://content.guardianapis.com/environment/2026/jan/13/microplastics-human-body-doubt",
+      "section": "environment",
+      "publishedDate": "2026-01-13T14:20:23Z",
+      "trailText": "Exclusive: Some scientists say many detections are most likely error, with one high-profile study called a ‘joke’",
+      "summary": "High-profile studies reporting microplastics in human organs—from brain and testes to placentas and arteries—are under scrutiny for likely contamination, false positives and insufficient controls. Critics highlight analytical challenges at the limits of current techniques like Py-GC-MS, missing blanks, fat interference and lack of validation. At least seven papers face formal journal challenges and a review names 18 studies ignoring tissue-derived signals. Experts warn that flawed evidence could mislead policy and industry, and call for standardized MNP protocols, rigorous QC, and collaboration to accurately assess real human exposure and potential health risks.",
+      "summaryTokens": 792,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
+    },
+    {
+      "id": "environment/2026/jan/13/country-diary-hooray-for-the-hard-frozen-ground-life-on-earth-depends-on-it",
+      "title": "Country diary: Hooray for the hard, frozen ground – life on Earth depends on it | Ed Douglas",
+      "webUrl": "https://www.theguardian.com/environment/2026/jan/13/country-diary-hooray-for-the-hard-frozen-ground-life-on-earth-depends-on-it",
+      "apiUrl": "https://content.guardianapis.com/environment/2026/jan/13/country-diary-hooray-for-the-hard-frozen-ground-life-on-earth-depends-on-it",
+      "section": "environment",
+      "publishedDate": "2026-01-13T05:30:25Z",
+      "trailText": "Blacka Moor, South Yorkshire: The very cold daytime temperatures should be welcomed, and the reason is right beneath our feet",
+      "summary": "At Blacka Moor in South Yorkshire, the author revels in a week of subzero daytime temperatures that have frozen the normally peaty path solid. This hard frost transforms soil into a ‘time machine,’ preserving footprints of red deer and walkers, while gardeners note that freezing builds structure and kills pathogens. More significantly, frost sustains billions of bacteria, fungal mycelia and single-cell organisms crucial for Earth’s ecosystems—life itself would collapse without them. Yet warming winters erode this subterranean diversity. We understand freezing’s engineering hazards far better than its role in the soil microbiome. Today’s hard ground is vital, now more than ever.",
+      "summaryTokens": 950,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
+    },
+    {
       "id": "environment/2026/jan/13/wildlife-targets-missed-england-northern-ireland-watchdog",
-      "title": "Wildlife targets will be missed in England and Northern Ireland, watchdog says",
+      "title": "Government’s wildlife targets will be missed in England, watchdog says",
       "webUrl": "https://www.theguardian.com/environment/2026/jan/13/wildlife-targets-missed-england-northern-ireland-watchdog",
       "apiUrl": "https://content.guardianapis.com/environment/2026/jan/13/wildlife-targets-missed-england-northern-ireland-watchdog",
       "section": "environment",
       "publishedDate": "2026-01-13T00:01:18Z",
       "trailText": "Seven out of 10 targets have little likelihood of being met by 2030, Office for Environmental Protection says",
-      "summary": "The Office for Environmental Protection warns England and Northern Ireland risk missing seven of 10 legally binding 2030 Environment Act targets, including biodiversity loss of hedgehogs and red squirrels. Only air quality, hazard reduction and nature’s scenic value are partly on course. Flood and wildfire risks are rising. Of 59 environmental trends, 24 improve, 11 stable, 16 decline and 8 lack data. The watchdog criticises planning reforms that could weaken habitat protections and urges stronger nature-friendly farming schemes and expanded protected sites. Government pledges an environmental improvement plan.",
-      "summaryTokens": 673,
-      "generatedAt": "2026-01-13T03:27:45.997Z"
+      "summary": "The Office for Environmental Protection warns England will miss seven of its ten legally binding 2030 targets under the Environment Act 2021, with the biodiversity goal—halting declines in species like hedgehogs and red squirrels—almost certain to fail. Only air quality, hazard reduction and nature’s beauty are partly on track. Meanwhile, risks from floods and wildfires are rising and 35 out of 59 environmental trends are static or worsening. The OEP and RSPB urge urgent investment in nature-friendly farming and protected sites. Government pledges a new environmental improvement plan and will respond to the watchdog’s findings.",
+      "summaryTokens": 363,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
     },
     {
       "id": "environment/2026/jan/12/us-plan-to-exploit-venezuelas-oil-could-eat-up-13-of-carbon-budget-to-keep-15c-limit",
@@ -41,9 +89,9 @@
       "section": "environment",
       "publishedDate": "2026-01-12T17:38:19Z",
       "trailText": "Exclusive: ClimatePartner analysis shows how move would risk plunging Earth further into climate catastrophe",
-      "summary": "An exclusive ClimatePartner analysis shows that US plans to boost Venezuelan oil production by 0.5m barrels per day by 2028 and 1.58m bpd by 2035–2050 could consume 13% of the remaining carbon budget required to cap warming at 1.5C. Infrastructure-strained Venezuela, whose heavy, sour Orinoco Belt crude emits 1,460kg CO2e/boe—nearly 1,000 times more than Norway’s Johan Sverdrup—would lock in decades of high emissions, equivalent to almost a decade of EU output. After US forces seized President Maduro, Donald Trump urged $100bn investment, prompting climate experts and Greenpeace to call the move reckless and demand a just transition to renewables.",
-      "summaryTokens": 1368,
-      "generatedAt": "2026-01-13T03:27:45.997Z"
+      "summary": "After US forces rendered Nicolás Maduro to New York and Trump urged $100bn oil investments, ClimatePartner analysis shows a US plan to boost Venezuela's output by +0.5m b/d by 2028 and +1.58m b/d by 2035-50 would consume 13% of the CO2 budget for keeping warming to 1.5°C by 2050. Venezuela's heavy, high-sulphur Orinoco crude has extreme carbon intensity (1,460kgCO2e/boe vs Norway's 1.6). Such ramp-up locks emissions equal to a decade of EU output, risking climate goals and prompting calls for a just fossil-fuel exit.",
+      "summaryTokens": 2062,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
     },
     {
       "id": "environment/2026/jan/12/weather-tracker-canada-issues-warnings-for-freezing-rain-heavy-snow-and-strong-winds",
@@ -53,9 +101,9 @@
       "section": "environment",
       "publishedDate": "2026-01-12T15:40:42Z",
       "trailText": "Severe weather, driven by two low-pressure systems merging, is expected to bring power outages and hazardous road conditions",
-      "summary": "Atlantic Canada braces for a winter storm as two low-pressure systems merge, triggering warnings for up to 40 cm of snow and 74 mph gusts in Newfoundland, freezing rain in Nova Scotia’s Annapolis and Kings counties and 25 cm-plus snow in New Brunswick through Tuesday, with expected power outages and hazardous roads. Meanwhile in Australia, ex-Tropical Cyclone Koji, after landfall as a category 1 near Bowen, dumps 200–370 mm across Queensland, cuts power for 22,000 and risks flash floods, and southern states recover from a record-breaking 43 °C heatwave and critical fire dangers.",
-      "summaryTokens": 1016,
-      "generatedAt": "2026-01-13T03:27:45.997Z"
+      "summary": "Atlantic Canada faces blizzard conditions as two merging low-pressure systems dump up to 40cm of snow in Newfoundland, gusts to 74mph, and trigger freezing rain warnings in Nova Scotia and heavy snow alerts (25cm) in New Brunswick, risking power outages, downed branches and hazardous roads until Tuesday. Meanwhile in Queensland, ex-Tropical Cyclone Koji brought category-1 winds (70mph), 200–370mm rain, flooding, road closures and 22,000 power outages. Southern Australia endured a record heatwave—Sydney 43°C, critical fire danger—before an abrupt 13°C temperature drop Friday.",
+      "summaryTokens": 949,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
     },
     {
       "id": "environment/2026/jan/12/fear-of-the-next-deluge-flood-scarred-britons-join-forces-to-demand-help",
@@ -65,9 +113,9 @@
       "section": "environment",
       "publishedDate": "2026-01-12T10:00:53Z",
       "trailText": "As climate breakdown puts millions more people at flood risk, traumatised homeowners are finding common voice",
-      "summary": "After repeated raw sewage inundations that left families traumatised, homeowners like Darren Ridley and Heather Shepherd have helped found Flooded People UK to unite local action groups and lobby for national policy change. As climate breakdown threatens up to 8 million UK homes with river, coastal or surface-water flooding, flood survivors report PTSD, sleepless nights and financial ruin due to insurance and grant barriers. New research shows nearly half receive no professional support. FPUK demands stronger planning reforms, investment in sewage and drainage infrastructure, and recognition of surface-water flooding as a nationwide crisis.",
-      "summaryTokens": 807,
-      "generatedAt": "2026-01-13T03:27:45.997Z"
+      "summary": "Flood-scarred Britons facing raw sewage inundations and lasting trauma have formed Flooded People UK to demand urgent policy change. Cases like Folkestone’s Darren Ridley, awoken by metre-deep sewage floods twice yearly, and Shropshire’s Heather Shepherd, flooded six times in three years despite £70k defenses, illustrate widespread chaos. With 6m English properties at risk—rising to 8m by mid-century—and half of survivors receiving no support, FPUK unites local groups to lobby for sewer upgrades, surface-water defenses, planning reforms and mental-health aid.",
+      "summaryTokens": 496,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
     },
     {
       "id": "environment/2026/jan/12/flying-foxes-die-in-their-thousands-in-worst-mass-mortality-event-since-australias-black-summer",
@@ -77,9 +125,9 @@
       "section": "environment",
       "publishedDate": "2026-01-12T06:29:35Z",
       "trailText": "Volunteers found thousands of dead bats at Melbourne’s Brimbank park, wildlife expert says",
-      "summary": "Thousands of vulnerable grey-headed flying foxes died across South Australia, Victoria and New South Wales in last week’s record heatwave – the worst mass mortality of the species since the 2019–20 black summer. At least 1,000–2,000 perished in SA, thousands in Victoria (notably at Melbourne’s Brimbank park, Yarra Bend and Tatura) and up to 1,000 in NSW as temperatures topped 42°C. Volunteers rescued orphaned pups but face severe resource constraints amid no national wildlife rescue strategy. Experts warn such extreme heat, amplified by climate change, not only causes direct heat stress but also impairs bats’ foraging and flight, threatening long-term population recovery.",
-      "summaryTokens": 654,
-      "generatedAt": "2026-01-13T03:27:45.997Z"
+      "summary": "A record-breaking heatwave last week across South Australia, Victoria and New South Wales, with temperatures surpassing 42°C, triggered the worst flying fox mass mortality event since Australia’s Black Summer, killing thousands of vulnerable grey-headed bats. Volunteers found carcasses at Brimbank Park, Yarra Bend and Tatura and rescued orphaned pups facing dehydration, starvation and predation. Experts estimate 1,000–2,000 deaths in SA, thousands in Victoria and around 1,000 in NSW, warning that rising extreme heat threatens broader wildlife and stretches under-resourced rescue services.",
+      "summaryTokens": 1079,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
     },
     {
       "id": "environment/2026/jan/12/country-diary-what-is-this-intricate-marvel-that-looks-like-a-bran-stick",
@@ -89,9 +137,9 @@
       "section": "environment",
       "publishedDate": "2026-01-12T05:30:46Z",
       "trailText": "Alnmouth, Northumberland: They were once the rocky abode of a burrowing worm, and are normally found at sea not on the beach",
-      "summary": "At Alnmouth, Northumberland, shifting tides expose razor clam shells, sea-moulded coal, periwinkles, limpets, whelk spirals and broken crab claws. Amid this dynamic strand lie straw-coloured, bran-stick-like tubes: the protective dwellings of sand mason worms (Lanice conchilega). Each multicoloured tube is cemented from shell and rock fragments—quartz, Cheviot granite, feldspar, whinstone—in meticulous order, housing worms that extend fringed tentacles to filter plankton, algae and detritus. Normally buried, the tubes wash ashore after rough seas. Wading birds such as curlew and redshank probe the sediment, extracting the worm for a protein-rich meal. These intricate structures mirror the local geology and the ever-changing coastal landscape.",
-      "summaryTokens": 675,
-      "generatedAt": "2026-01-13T03:27:45.997Z"
+      "summary": "At Alnmouth beach battered by tides and wind, razor clams known as spoots, sea coal and periwinkles mingle with brittle tubes – the protective casings of Lanice conchilega sand mason worms. Each tube is a colourful mosaic of mica, quartz and granite grains cemented like caddis fly larvae assemblages. The worm protrudes only its feathery tentacles to gather plankton and extends its tube as sediment accumulates, but wading birds probe the sand to extract the worm for food. The article reflects on the ever-changing shoreline, where currents sculpt new compositions daily.",
+      "summaryTokens": 1198,
+      "generatedAt": "2026-01-14T03:38:08.077Z"
     },
     {
       "id": "environment/2026/jan/10/china-mine-europe-rare-earth-metals-swedish-producer",
