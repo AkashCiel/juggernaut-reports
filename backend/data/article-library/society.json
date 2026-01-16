@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "society",
-    "generated_at": "2026-01-15T04:05:50.451Z",
+    "generated_at": "2026-01-16T04:06:38.693Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2026-01-15"
     },
-    "article_count": 665,
+    "article_count": 667,
     "merge_info": {
-      "previous_count": 659,
-      "new_articles": 6,
-      "updated_articles": 9,
-      "total_count": 665
+      "previous_count": 665,
+      "new_articles": 2,
+      "updated_articles": 7,
+      "total_count": 667
     },
     "batch_info": {
-      "initial_batch_id": "batch_696866c6169c81908e4bf440fc2fcc85",
+      "initial_batch_id": "batch_6969b8abf6e48190a9b2f734f691ddee",
       "retry_batches": [],
-      "total_tokens": 32579,
-      "processing_time_hours": 0.1
+      "total_tokens": 17237,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "society/2026/jan/15/nhs-limiting-number-of-adhd-assessments-despite-soaring-demand",
+      "title": "NHS limiting ADHD assessments to save money despite soaring demand",
+      "webUrl": "https://www.theguardian.com/society/2026/jan/15/nhs-limiting-number-of-adhd-assessments-despite-soaring-demand",
+      "apiUrl": "https://content.guardianapis.com/society/2026/jan/15/nhs-limiting-number-of-adhd-assessments-despite-soaring-demand",
+      "section": "society",
+      "publishedDate": "2026-01-15T20:02:56Z",
+      "trailText": "FoIs show integrated care boards are curbing assessments but have not told GPs or patients who face long waits",
+      "summary": "NHS integrated care boards across England will cap ADHD assessments in 2025-26 to cut budgets, Freedom of Information responses show. Over half of the 42 boards have imposed limits, yet 13 haven’t notified GPs and 12 haven’t told awaiting patients. ADHD UK brands this covert rationing “cruel,” warning it will extend existing eight-year waits and exacerbate costs—estimated at £17 bn annually through lost productivity and mental health crises. NHS England insists referrals continue when clinically appropriate, while ministers prepare a review into surging ADHD and mental health diagnoses.",
+      "summaryTokens": 618,
+      "generatedAt": "2026-01-16T04:06:38.413Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/hepatitis-b-vaccines-study-africa-cancel",
+      "title": "Controversial US study on hepatitis B vaccines in Africa is cancelled",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/hepatitis-b-vaccines-study-africa-cancel",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/hepatitis-b-vaccines-study-africa-cancel",
+      "section": "society",
+      "publishedDate": "2026-01-15T18:11:26Z",
+      "trailText": "$1.6m project drew outrage over ethical questions about withholding vaccines proven to prevent disease",
+      "summary": "The controversial $1.6m US‐funded trial on hepatitis B vaccination among 14,000 newborns in Guinea-Bissau, led under Robert F. Kennedy Jr’s HHS oversight, has been cancelled after Africa CDC’s Yap Boum flagged ethical breaches in withholding a proven vaccine from half the participants in a high-prevalence setting. Although Guinea-Bissau authorities expressed intent to proceed, Africa CDC and HHS will redesign the protocol to align with ethical norms. Leaked Danish-led protocols drew comparisons to Tuskegee. Experts Paul Offit and Boghuma Titanji praised the halt as a victory for research ethics ahead of nationwide birth-dose rollout in 2027.",
+      "summaryTokens": 1221,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
+    },
     {
       "id": "society/2026/jan/15/nhs-corridor-care-torture-patient-deaths-staff-nightmares",
       "title": "NHS corridor care is ‘torture’ leading to patient deaths and staff nightmares",
@@ -29,9 +53,9 @@
       "section": "society",
       "publishedDate": "2026-01-15T00:01:44Z",
       "trailText": "Royal College of Nursing publishes dossier of evidence including case of elderly patient who choked to death in corridor",
-      "summary": "Royal College of Nursing calls NHS corridor care ‘torture’ after 436 nurses reported patients dying unseen in makeshift wards—one elderly man choked to death in a corridor—and staff having nightmares. Kitchen, dining and mortuary rooms are used as overflow; terminally ill patients waited days in corridors. Despite Health Secretary Wes Streeting’s pledge to end corridor care by 2029, unions doubt progress amid chronic overcrowding. The NHS watchdog warns temporary spaces risk infections, missed call bells and monitoring failures. The government says it has invested £450m in urgent care, built new centres and aims to restore an 18-week wait by 2029.",
-      "summaryTokens": 1526,
-      "generatedAt": "2026-01-15T04:05:50.180Z"
+      "summary": "The Royal College of Nursing’s dossier, based on 436 nurse testimonies in early January, warns that ‘corridor care’—with patients nursed in corridors, dining rooms and makeshift wards—is tantamount to torture, causing undetected deaths (including an elderly patient who choked) and staff nightmares. Despite Health Secretary Wes Streeting’s pledge to end corridor care in England by 2029 and £450 million in urgent care funding, nurses remain sceptical amid chronic overcrowding. The RCN labels this a national emergency, while NHS watchdogs cite risks of infection, missed monitoring and up to 16,600 annual deaths from A&E delays.",
+      "summaryTokens": 568,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
     },
     {
       "id": "society/2026/jan/14/maternal-death-rate-in-uk-rose-by-20-over-14-years-despite-tory-pledge",
@@ -41,9 +65,9 @@
       "section": "society",
       "publishedDate": "2026-01-14T19:11:22Z",
       "trailText": "Experts describe increase as ‘absolute tragedy’ after data shows rate jumped despite Conservatives vowing to halve it",
-      "summary": "New data from MBRRACE-UK show the UK maternal mortality rate rose 20% from 2009–11 to 2022–24, despite government vows in 2015 and 2017 to halve deaths by 2025. Indirect deaths held steady, but fatalities from direct causes—bleeding, clots and pre-eclampsia—jumped 52%, with clots the leading killer. Stark disparities persist: black women face nearly triple the risk of white women, Asian women and those in deprived areas also have elevated rates, and mothers over 35 double the risk of those aged 25–29. Experts blame chronic underinvestment and workforce pressures.",
-      "summaryTokens": 1094,
-      "generatedAt": "2026-01-15T04:05:50.180Z"
+      "summary": "The UK maternal mortality rate climbed by 20% between 2009-11 and 2022-24, according to MBRRACE-UK data, despite the Conservative government’s 2015 pledge to halve deaths by 2030 (later revised to 2025). Indirect maternal deaths rose 3%, while direct pregnancy-related deaths (bleeding, clots, pre-eclampsia) soared 52%. Blood clots were the leading cause. Campaigners described this as “an absolute tragedy” linked to under-resourced, overstretched maternity services. Significant inequalities persist: Black women’s death rate is nearly three times that of white women; Asian women and those in deprived areas face higher risks; women over 35 have double the mortality of those aged 25–29. Experts urge urgent investment and workforce reforms.",
+      "summaryTokens": 1188,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
     },
     {
       "id": "society/2026/jan/14/adhd-care-needs-better-regulation-and-fewer-pills",
@@ -53,9 +77,9 @@
       "section": "society",
       "publishedDate": "2026-01-14T17:41:19Z",
       "trailText": "Letters: Dr Vicky Cleak is frustrated with the lengthy registration process to practice, while Mona Sood and another reader are wary of NHS drug-based interventions",
-      "summary": "Dr Vicky Cleak, a UK-trained psychiatrist, describes how an opaque CQC registration process stalls small expert services, while unregulated ADHD clinics and non-CQC-regulated practitioners rapidly secure NHS contracts. She warns this fragmented, throughput-driven market undermines continuity of care and patient needs. Other readers highlight the NHS’s reliance on quick-fix psychostimulant prescriptions—including amphetamines—after brief assessments, risking overdiagnosis, dose escalation and overlooked psychosocial factors. They call for streamlined regulation that facilitates high-quality, psychiatrist-led assessments and greater investment in non-pharmacological, behavioural interventions to treat ADHD holistically rather than defaulting to “speed”-based drugs.",
-      "summaryTokens": 510,
-      "generatedAt": "2026-01-15T04:05:50.180Z"
+      "summary": "Consultant psychiatrist Dr Vicky Cleak criticises the Care Quality Commission’s opaque eight-month registration process that blocks small expert clinics while unregulated providers secure NHS ADHD contracts, leading to a fragmented, throughput-driven market and fragile continuity of care. Letters warn that NHS and private services overdiagnose and over-rely on amphetamine stimulants after one-hour assessments, often dismissing therapy, and urge wider adoption of non-pharmacological, behaviourally focused interventions to ensure time, expertise, and long-term patient well-being.",
+      "summaryTokens": 933,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
     },
     {
       "id": "society/2026/jan/14/religious-tradition-child-safety-and-the-law-on-circumcision",
@@ -65,9 +89,9 @@
       "section": "society",
       "publishedDate": "2026-01-14T17:41:04Z",
       "trailText": "Letters: Rabbi Dr Jonathan Romain , Ray Flynn and another reader respond to the news that the practice is classed as possible child abuse in a draft Crown Prosecution Service document",
-      "summary": "Letters respond to a CPS draft classing infant circumcision as possible child abuse. Rabbi Dr Jonathan Romain supports criminalising only unqualified practitioners, advocating mandatory accreditation, training, case monitoring and annual reports to protect children while preserving faith traditions. One Jewish reader, referencing US group Bruchim, argues nonconsensual infant circumcision is bodily harm irrespective of custom. Another elderly writer, circumcised for medical reasons, endorses the CPS guidance, condemning Judaism and Islam for ‘improving’ God’s creation and urging a crackdown on rogue operators.",
-      "summaryTokens": 801,
-      "generatedAt": "2026-01-15T04:05:50.180Z"
+      "summary": "Three letters debate the CPS draft classing infant circumcision as potential child abuse. Rabbi Dr Jonathan Romain argues only unqualified practitioners should be criminalized and proposes a nationally accredited, monitored accreditation scheme with mandatory training, reporting and oversight to safeguard children while respecting Jewish, Muslim and cultural traditions. A Jewish correspondent claiming lifelong harm counters that male circumcision is non-consensual mutilation unjustified by tradition, citing Bruchim’s stance that Jewish identity transcends the rite. Ray Fitton, circumcised as a baby for medical reasons, endorses the CPS guidance, condemns religious justification for altering God’s creation and calls to end rogue practitioners.",
+      "summaryTokens": 1014,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
     },
     {
       "id": "society/2026/jan/14/woman-pulled-out-of-uk-ultra-marathon-after-death-threats-over-her-fundraising-for-afghanistan",
@@ -77,9 +101,9 @@
       "section": "society",
       "publishedDate": "2026-01-14T15:29:13Z",
       "trailText": "Sarah Porter was running 108-mile Montane Winter Spine Challenger South race when security team had to disable tracking device",
-      "summary": "Sarah Porter was forced out of the 108-mile Montane Winter Spine Challenger South ultramarathon by organisers after death threats linked to her InspiredMinds! AI-driven charity work supporting Afghan women and girls. Although a pre-race risk assessment deemed her solo progress safe, her tracking device was disabled mid-course and she was pulled at Standedge checkpoint on security advice. Porter, disappointed but respectful of the decision, plans to continue future races. The Spine Race team stressed participant safety and sees no wider threat. Her GoFundMe remains open for donations.",
-      "summaryTokens": 811,
-      "generatedAt": "2026-01-15T04:05:50.180Z"
+      "summary": "Sarah Porter, an amateur runner and founder of InspiredMinds! which funds humanitarian AI uses to aid Afghan women and girls, was withdrawn from the 108-mile Montane Winter Spine Challenger South ultramarathon after organisers disabled her GPS tracker and consulted security following undisclosed death threats linked to her Afghanistan fundraising. A pre-race risk assessment had deemed the remote Pennine Way course safe, but authorities and organisers acted to protect her. Disappointed but resolute, Porter plans future races; her GoFundMe remains open. Organisers stress safety was paramount and no wider threat is suspected.",
+      "summaryTokens": 945,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
     },
     {
       "id": "society/2026/jan/14/circumcision-kits-found-on-sale-on-amazon-uk",
@@ -89,9 +113,9 @@
       "section": "society",
       "publishedDate": "2026-01-14T10:49:50Z",
       "trailText": "Exclusive: Discovery comes amid growing concern over lax regulation and children being put at risk by rogue operators",
-      "summary": "Amazon UK listings for disposable ‘Plastibell’ circumcision kits, sold at around £200, have been exposed amid calls for tighter regulation after a six-month-old boy’s death from streptococcal infection. A west London coroner’s Prevention of Future Deaths report warned that anyone can perform non-therapeutic male circumcision without training, infection control or aftercare requirements, and urged action. While religious circumcision is legal—NHS-funded in Scotland under strict criteria—it remains largely private elsewhere, raising safety concerns. Health groups, campaigners and an assistant coroner demand a unified national safeguarding standard. Draft CPS guidance may reclassify harmful circumcisions as criminal. Amazon has removed the kits.",
-      "summaryTokens": 515,
-      "generatedAt": "2026-01-15T04:05:50.180Z"
+      "summary": "Amazon UK was found selling disposable ‘PlastiBell’ circumcision kits for £200, prompting fresh alarm over non-therapeutic male circumcision (NTMC) regulation after a six-month-old’s 2023 death from streptococcus. A prevention of future deaths report noted no training, infection control or aftercare requirements for practitioners. Campaigners—including the African and Caribbean Health Network, Progressive Judaism and British Muslim Council—urge statutory safeguards; the CPS is drafting guidance classifying harmful circumcisions as potential crimes. Amazon has since removed the listings.",
+      "summaryTokens": 287,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
     },
     {
       "id": "society/2026/jan/14/one-in-four-uk-teenagers-in-care-have-attempted-to-end-their-lives-study-says",
@@ -101,9 +125,9 @@
       "section": "society",
       "publishedDate": "2026-01-14T00:01:09Z",
       "trailText": "Research also shows teenagers in care are four times more likely to try to end their lives than peers with no care history",
-      "summary": "Landmark analysis of the Millennium Cohort Study finds 26% of 17-year-olds with foster, residential or kinship care history have attempted suicide—four times higher than the 7% of peers with no care experience. Care-experienced teens also report elevated self-harm (56% vs 24%), depression (39% vs 16%) and teenage pregnancy (18% vs 4%). Researchers from UCL and the Nuffield Foundation call the scale a “national emergency,” urging sustained, family-focused support beyond care and joined-up mental-health interventions. The government’s Plan for Change pledges earlier, integrated social-worker and NHS support to tackle these lifelong inequalities.",
-      "summaryTokens": 1039,
-      "generatedAt": "2026-01-15T04:05:50.180Z"
+      "summary": "Landmark UCL/Nuffield Foundation analysis of 19,000 UK 17-year-olds from the Millennium Cohort Study finds 26% of those ever in foster, residential or kinship care have attempted suicide—four times the 7% rate among peers with no care history. Care-experienced teens also report higher self-harm (56% vs 24%), depression (39% vs 16%) and under-age pregnancy (18% vs 4%). Experts call this a “national emergency,” demand family-focused support that removes the “cliff edge” at care exit, while government’s Plan for Change pledges earlier, integrated mental-health interventions.",
+      "summaryTokens": 777,
+      "generatedAt": "2026-01-16T04:06:38.414Z"
     },
     {
       "id": "society/2026/jan/13/five-minutes-exercise-30-minutes-less-sitting-millions-live-longer",
