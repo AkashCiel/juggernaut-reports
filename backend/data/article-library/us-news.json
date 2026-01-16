@@ -1,37 +1,253 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-15T04:10:39.977Z",
+    "generated_at": "2026-01-16T04:13:58.037Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-15"
+      "to": "2026-01-16"
     },
-    "article_count": 2322,
+    "article_count": 2340,
     "merge_info": {
-      "previous_count": 2294,
-      "new_articles": 28,
-      "updated_articles": 29,
-      "total_count": 2322
+      "previous_count": 2322,
+      "new_articles": 18,
+      "updated_articles": 34,
+      "total_count": 2340
     },
     "batch_info": {
-      "initial_batch_id": "batch_696868079b588190827714399799902e",
+      "initial_batch_id": "batch_6969ba4d9b488190b3eef8fb8139e3ca",
       "retry_batches": [],
-      "total_tokens": 121983,
+      "total_tokens": 104782,
       "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "us-news/2026/jan/15/ice-detention-camp-texas-death",
+      "title": "Death of man at ICE camp could be investigated as homicide after examiner’s report",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/ice-detention-camp-texas-death",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/ice-detention-camp-texas-death",
+      "section": "us-news",
+      "publishedDate": "2026-01-16T03:08:43Z",
+      "trailText": "Washington Post reports local medical examiner found ‘asphyxia’ to be cause of Geraldo Lunas Campos’s death",
+      "summary": "Geraldo Lunas Campos, a 55-year-old Cuban migrant in ICE custody since July, was found dead Jan. 3 at Camp East Montana, a tent camp at Fort Bliss, Texas. The El Paso medical examiner’s preliminary autopsy cites asphyxia from neck and chest compression and may classify the death as homicide pending toxicology. ICE said Campos experienced medical distress after being placed in segregation, but detainee witnesses allege five guards choked him as he pleaded, “I cannot breathe.” He was one of four detainee deaths in the year’s first 10 days and the second at the camp since December.",
+      "summaryTokens": 683,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/trump-at-a-glance-nobel-peace-prize",
+      "title": "Trump news at a glance: The medal may be in Trump’s hands, but peace prize is not his, Nobel officials say",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/trump-at-a-glance-nobel-peace-prize",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/trump-at-a-glance-nobel-peace-prize",
+      "section": "us-news",
+      "publishedDate": "2026-01-16T02:00:57Z",
+      "trailText": "Venezuelan opposition leader María Corina Machado ‘presented’ her Nobel prize to Trump in White House meeting",
+      "summary": "Venezuelan opposition leader María Corina Machado told reporters she had “presented” her 2025 Nobel Peace Prize medal to Donald Trump in a private White House meeting, praising his “unique commitment” to Venezuelan freedom. Trump thanked her on Truth Social, but did not share images and whether he retains the medal remains unknown. Nobel officials reiterated that laureate titles cannot be transferred, only medals can change hands. Machado likened the gesture to Lafayette gifting a medal to Simón Bolívar and said it symbolises US–Venezuela solidarity in the fight against tyranny.",
+      "summaryTokens": 480,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/aclu-lawsuit-ice-minnesota-trump",
+      "title": "ACLU sues Trump administration over ‘racial profiling and unlawful arrests’ in Minnesota ICE surge",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/aclu-lawsuit-ice-minnesota-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/aclu-lawsuit-ice-minnesota-trump",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T23:02:33Z",
+      "trailText": "Civil rights organization says federal immigration agents are violating US citizens’ constitutional rights",
+      "summary": "ACLU’s 72-page lawsuit accuses the Trump administration’s DHS, ICE and CBP of racial profiling and unlawful arrests in Minnesota raids disproportionately targeting Somali and Latino communities. On behalf of three US citizens, it details warrantless stops, refusal to verify citizenship, violent detentions—including headlocks, shackling, pepper-spraying—and religious discrimination. Named defendants include DHS secretary Kristi Noem. Plaintiffs report agents scanning faces and ignoring IDs. Minnesota’s governor labels the federal surge an unconstitutional “invasion”; the administration insists it only targets undocumented immigrants with criminal records. The suit follows protests after a federal agent killed Renee Good.",
+      "summaryTokens": 1069,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/karoline-leavitt-journalist-tirade",
+      "title": "Trump press secretary launches tirade against reporter who asked about ICE",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/karoline-leavitt-journalist-tirade",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/karoline-leavitt-journalist-tirade",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T22:27:33Z",
+      "trailText": "Karoline Leavitt brands journalist who asked about deaths in ICE custody and killing of Renee Good ‘a leftwing activist’",
+      "summary": "White House press secretary Karoline Leavitt branded The Hill reporter Niall Stanage a “leftwing hack” after he questioned the Trump administration’s defense of ICE, citing last year’s 32 deaths in custody and the fatal shooting of Renee Good, 37, by an ICE agent in Minneapolis. Leavitt accused Stanage of bias, urged journalists to focus on US citizens killed by “illegal” immigrants (naming Laken Riley and Jocelyn Nungaray) and defended ICE’s record. Good’s killing, caught on video, has sparked protests and prompted Minnesota Governor Tim Walz to call for de-escalation.",
+      "summaryTokens": 1067,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/san-francisco-childcare-families",
+      "title": "San Francisco to make childcare free for families earning up to $230,000",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/san-francisco-childcare-families",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T21:49:45Z",
+      "trailText": "Officials to offer 50% subsidy up to $310,000 in effort to make one of world’s most expensive cities more affordable",
+      "summary": "San Francisco’s mayor Daniel Lurie unveiled a plan to offer free childcare to families earning ≤$230k (150% AMI) and 50% subsidies for incomes up to $310k (200% AMI), expanding benefits from the prior 110% AMI threshold. Funded by $550m in unspent Proposition C revenues, the program covers 500+ providers citywide to curb annual costs of $20–30k per child and align childcare expenses closer to the 7% income affordability standard. It’s part of the mayor’s Family Opportunity Agenda joining recent national moves toward universal care.",
+      "summaryTokens": 932,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/trump-healthcare-reform-framework",
+      "title": "‘Absolutely no detail’: experts alarmed as Trump unveils healthcare plan ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/trump-healthcare-reform-framework",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/trump-healthcare-reform-framework",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T20:43:16Z",
+      "trailText": "Months after Trump spoke of ‘concepts of a plan’, framework offers few specifics – and could stall in Congress",
+      "summary": "Trump’s Great Healthcare Plan outlines four broad goals – lowering drug prices and premiums, forcing insurers to disclose costs and profits, boosting pricing transparency – but offers no implementation details. It proposes diverting billions to personal HSAs and matching foreign drug prices, elements that need congressional approval and risk destabilizing ACA marketplaces. Experts warn the lack of specifics could spur a death spiral in coverage for pre-existing conditions and raise uninsured rates. Some GOP lawmakers instead back restoring expiring ACA subsidies, while Trump hints at a veto.",
+      "summaryTokens": 970,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/ice-deputy-director-resigns",
+      "title": "Trump ally and ICE deputy director resigns to run for Congress in Ohio",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/ice-deputy-director-resigns",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/ice-deputy-director-resigns",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T20:38:27Z",
+      "trailText": "Madison Sheahan was appointed to DHS position in March despite having no law enforcement experience",
+      "summary": "Madison Sheahan, 28, Trump conservative and ICE deputy director since March with no law enforcement background, resigned to run for Congress in Ohio’s competitive district held by Democrat Marcy Kaptur. Sheahan highlighted ICE’s expansion—12,000 new agents, 2.5 million deportations, and its deadliest custody year since 2004—while attacking Kaptur’s stance on border wall funding. Formerly Kristi Noem’s political director and Louisiana wildlife secretary, she vows “real leadership” amid criticism over aggressive enforcement and protests sparked by an ICE custody death.",
+      "summaryTokens": 866,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/trump-insurrection-act-minnesota-ice-protests",
+      "title": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/trump-insurrection-act-minnesota-ice-protests",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/trump-insurrection-act-minnesota-ice-protests",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T19:26:47Z",
+      "trailText": "Protests continue across state as governor urges peace a week after ICE agent shot and killed Renee Good",
+      "summary": "Former president Donald Trump has warned on Truth Social he may invoke the Insurrection Act to quell protests in Minneapolis against federal immigration enforcement after ICE operations escalated following the fatal shooting of Renee Good one week earlier. Minnesota Governor Tim Walz urged peaceful demonstrations, denouncing the federal deployment as an \"occupation\" by armed, masked agents carrying out door-to-door raids. DHS says an ICE officer fired at a Venezuelan national after an alleged attack. Governor Kristi Noem backs the Insurrection Act option. Six federal prosecutors resigned over the Justice Department’s handling, and the ACLU filed a class-action suit.",
+      "summaryTokens": 807,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/trump-agriculture-secretary-brooke-rollins-food-guidelines",
+      "title": "Tortilla, broccoli, ‘a piece of chicken’: US agriculture secretary mocked for ‘money-saving’ meal",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/trump-agriculture-secretary-brooke-rollins-food-guidelines",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/trump-agriculture-secretary-brooke-rollins-food-guidelines",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T18:24:05Z",
+      "trailText": "Brooke Rollins claimed meal featuring tortilla, broccoli, chicken and ‘one other thing’ can cost around $3",
+      "summary": "US Agriculture Secretary Brooke Rollins sparked ridicule after telling NewsNation that Americans can meet updated dietary guidelines—and save money—by eating “a piece of chicken, a piece of broccoli, a corn tortilla and one other thing” for around $3 per meal. But December CPI data showed grocery prices climbed 0.7% month-to-month, with beef up 16.4% year-on-year. Viral clips prompted Democrats—from the House Ways and Means Committee to Reps. Ted Lieu and Jason Crow, Sens. Whitehouse, Markey and Jayapal—to call her comments out-of-touch, drawing Marie Antoinette memes and social-media mockery.",
+      "summaryTokens": 639,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/people-affected-by-the-us-visa-freeze-share-your-experience",
+      "title": "People affected by the US visa freeze: share your experience",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/people-affected-by-the-us-visa-freeze-share-your-experience",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/people-affected-by-the-us-visa-freeze-share-your-experience",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T17:33:30Z",
+      "trailText": "The Trump administration has paused immigrant visa processing for people from 75 countries. We’re looking to speak to applicants, especially those close to a final decision, about the impact of the suspension",
+      "summary": "The Trump administration has indefinitely suspended immigrant visa processing for nationals of 75 countries, freezing applications from 21 January as part of a sweeping legal immigration crackdown. The Guardian is seeking testimonials from affected applicants—especially those at advanced or final stages—detailing how the suspension has disrupted their plans, from work and studies to family life and long-term goals. Contributors should specify how long they’ve been in process and their stage when notified. Click provided links for form guidance, terms of service and privacy policy.",
+      "summaryTokens": 978,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/appeals-court-mahmoud-khalil-columbia-activist",
+      "title": "US appeals court reverses decision that freed Mahmoud Khalil from ICE detention",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/appeals-court-mahmoud-khalil-columbia-activist",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/appeals-court-mahmoud-khalil-columbia-activist",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T17:02:23Z",
+      "trailText": "Ruling delivers victory to Trump administration in its efforts to deport the pro-Palestinian activist",
+      "summary": "The Third Circuit reversed a DC judge’s order releasing Mahmoud Khalil, a pro-Palestinian Columbia activist, from ICE detention, finding immigration law bars federal court jurisdiction over his release petition. In a 2-1 decision, Judges Hardiman and Bibas held his detention claims must await removal proceedings, while Judge Freeman dissented, citing irreparable harm and chilled speech. Khalil, a permanent resident detained since March 2025, vows to fight. The ACLU said it will seek stays. Meanwhile a Boston court addresses remedies after ruling the administration’s deportation efforts against pro-Palestinian scholars unconstitutional.",
+      "summaryTokens": 749,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/house-democrats-doj-military-video",
+      "title": "More Democratic lawmakers say Trump DoJ is investigating them over military video",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/house-democrats-doj-military-video",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/house-democrats-doj-military-video",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T15:58:40Z",
+      "trailText": "Three House members claim they’re being targeted for saying that troops don’t need to comply with illegal orders",
+      "summary": "Three House Democrats—including Jason Crow, Maggie Goodlander and Chrissy Houlahan—disclosed that Jeanine Pirro’s US attorney’s office in D.C. has requested interviews about their participation in a November video reminding troops they must refuse illegal orders under the Uniform Code of Military Justice. They join Senator Elissa Slotkin in confirming DOJ scrutiny after former President Trump branded the video “seditious” and threatened harsh penalties. Critics decry the investigations as authoritarian harassment of protected political speech, accusing the Trump-appointed prosecutors of weaponizing justice against lawmakers who challenged Trump’s authority.",
+      "summaryTokens": 1052,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/venezuela-oil-tanker-trump-us-seized",
+      "title": "US military seizes Venezuela oil tanker under Trump sanctions",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/venezuela-oil-tanker-trump-us-seized",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/venezuela-oil-tanker-trump-us-seized",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T15:09:51Z",
+      "trailText": "US Coast Guard and others boarded foreign-flagged crude carrier Veronica in a pre-dawn operation",
+      "summary": "On January 15, 2026 the US military, supported by the Coast Guard, Homeland Security and Justice Department, boarded and seized the Guyanese-flagged oil tanker Veronica in a pre-dawn operation at sea, enforcing Trump’s Caribbean “quarantine” on Venezuelan oil. Southern Command said forces launched from USS Gerald R Ford under Operation Southern Spear, marking the sixth interdiction of a foreign-flagged vessel defying sanctions since Nicolás Maduro’s capture. The move comes ahead of Trump’s White House meeting with opposition leader María Corina Machado and follows recent seizures including the Russian-flagged Marinera.",
+      "summaryTokens": 617,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/mental-health-substance-program-reinstated",
+      "title": "US health officials reverse course and reinstate $1.9bn to mental health and substance use",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/mental-health-substance-program-reinstated",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/mental-health-substance-program-reinstated",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T14:04:36Z",
+      "trailText": "Health department unexpectedly announced nearly $2bn in program cuts Tuesday before rolling back decision",
+      "summary": "On Jan 15, HHS Secretary Robert F. Kennedy Jr. reversed an unexpected decision to cut nearly $2 billion from SAMHSA mental health and substance use programs a day earlier. The initial order, tied to plans to fold SAMHSA into a new Administration for a Healthy America, threatened overdose prevention, child and first-responder mental health support, perinatal services and recovery initiatives. Outcry from Rep. Rosa DeLauro, Sen. Patty Murray, providers and advocates prompted reinstatement letters late Wednesday, though final grant confirmations are pending. Experts warn further cuts may loom, but stress that public and congressional pressure can yield results.",
+      "summaryTokens": 1070,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/first-thing-federal-agent-shoots-man-minneapolis-tensions",
+      "title": "First Thing: Federal agent shoots man in Minneapolis as tensions in city run high",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/first-thing-federal-agent-shoots-man-minneapolis-tensions",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/first-thing-federal-agent-shoots-man-minneapolis-tensions",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T12:31:50Z",
+      "trailText": "Mayor urges calm as city continues to reel in aftermath of Renee Good’s killing. Plus, how Adam Tooze makes sense of our bewildering age",
+      "summary": "In Minneapolis a federal agent shot a man in the leg during an enforcement operation, sparking protests near the site where Renee Good was killed; Police Chief O’Hara condemned unrest and Mayor Frey urged calm and denounced ICE. Trump said Iran stopped killing protesters; the US froze immigrant visas from 75 countries over potential welfare dependency; Musk’s X halted AI-generated racy edits; 2025 marked the third-hottest year; an ISS crew landed early after a medevac; plus assorted political and cultural briefs.",
+      "summaryTokens": 1623,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/justice-department-voter-information",
+      "title": "Alarm as Trump DoJ pushes for voter information on millions of Americans",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/justice-department-voter-information",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/justice-department-voter-information",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T12:00:19Z",
+      "trailText": "Officials ask at least 43 states for sensitive details as critics fear effort to sow doubt about midterm election results",
+      "summary": "The Justice Department is requesting sensitive voter data—including last four digits of Social Security numbers, birth dates and addresses—from at least 43 states. Eight states complied; 23 plus DC face lawsuits after refusal. Many are led by Democratic officials citing state privacy laws. Critics argue the federal push lacks clear legal authority, aims to centralize voter-roll policing and amplify doubts about election integrity. DoJ invokes the NVRA and Civil Rights Act but has not disclosed its full analysis or conformed with the Privacy Act. Information is shared with DHS’s SAVE system, raising error and rights concerns; litigation continues.",
+      "summaryTokens": 1885,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/ronald-lauder-billionaire-donor-donald-trump-ukraine-greenland",
+      "title": "How a billionaire with interests in Greenland encouraged Trump to acquire the territory",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/ronald-lauder-billionaire-donor-donald-trump-ukraine-greenland",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/ronald-lauder-billionaire-donor-donald-trump-ukraine-greenland",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T12:00:18Z",
+      "trailText": "US president’s friend Ronald Lauder – who first proposed Arctic expansion – is now making deals in the island",
+      "summary": "Since 2018 cosmetics heir and Trump friend Ronald Lauder has steered the president’s colonial ambitions—first proposing the US buy Greenland and later backing threats to seize it—while personally investing in Greenlandic ventures (luxury spring water, hydroelectric power for aluminum). A major Trump donor ($100k in 2016, $5m to MAGA Inc in 2025), Lauder also leads a consortium, via TechMet, to exploit Ukrainian lithium, a deal that Trump championed in office, raising ethical and conflict-of-interest concerns.",
+      "summaryTokens": 999,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
+      "id": "us-news/2026/jan/15/trump-maria-corina-machado-venezuela",
+      "title": "Trump to discuss Venezuela’s future with Machado after Maduro’s capture",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/15/trump-maria-corina-machado-venezuela",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/15/trump-maria-corina-machado-venezuela",
+      "section": "us-news",
+      "publishedDate": "2026-01-15T11:07:26Z",
+      "trailText": "Venezuelan opposition leader and Nobel prize winner had been sidelined by White House after US seized Maduro",
+      "summary": "Donald Trump will host Venezuelan opposition leader and Nobel laureate María Corina Machado at the White House for discussions on Venezuela’s future following the US seizure of Nicolás Maduro. Despite hopes she’d lead the transition after Maduro’s capture on January 3, the administration has recognized former vice-president Delcy Rodríguez as interim president, even as Trump liaises with her on oil shipments and asset safeguards. Trump’s mixed signals on Machado—praising her yet questioning her domestic support and Nobel politics—have sidelined her, while Rodríguez’s envoy arrives in Washington amid slow political prisoner releases.",
+      "summaryTokens": 1053,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
+    },
+    {
       "id": "us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack",
-      "title": "Immigration agents shoot man in Minneapolis as tensions in city run high",
+      "title": "Federal agent shoots man in Minneapolis as tensions in city run high",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack",
       "section": "us-news",
-      "publishedDate": "2026-01-15T03:28:58Z",
-      "trailText": "Minnesota city says it’s aware of a shooting as residents continue to reel in aftermath of Renee Nicole Good’s killing",
-      "summary": "Federal ICE agents shot a Venezuelan man in the leg during a targeted traffic stop in north Minneapolis at around 6:50 PM; the city confirmed a federal law enforcement shooting but withheld details. DHS claims the man and two others attacked an officer, prompting a defensive shot, though the Guardian has not verified this account. The incident unfolded amid protests over ICE’s killing of Renee Nicole Good last week and a record‐sized agency surge deploying smoke and flash bombs. Governor Tim Walz urged residents to document ICE’s tactics and promised accountability at the ballot box.",
-      "summaryTokens": 668,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "publishedDate": "2026-01-15T05:25:52Z",
+      "trailText": "Mayor urged calm as protesters gathered on the scene, as city continues to reel in aftermath of Renee Nicole Good’s killing",
+      "summary": "On Jan. 14 in north Minneapolis, a federal officer shot a man in the leg during an ICE enforcement operation, triggering clashes with several hundred protesters who faced lines of agents using smoke and crowd-control weapons. Police Chief Brian O’Hara labeled the crowd’s actions unlawful, while Mayor Jacob Frey denounced ICE conduct but urged calm. The incident follows last week’s killing of Renee Nicole Good by an ICE agent and unfolds amid a massive deployment of 3,000 immigration officers. Governor Tim Walz has called on residents to document federal actions, citing a campaign of ‘organized brutality,’ as volunteers provide legal aid, patrol neighborhoods and deliver food amidst sustained high tension.",
+      "summaryTokens": 498,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/trump-administration-news-latest-updates-today",
@@ -40,22 +256,22 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/14/trump-administration-news-latest-updates-today",
       "section": "us-news",
       "publishedDate": "2026-01-15T02:04:28Z",
-      "trailText": "List includes war-torn nations, allies and countries with long-standing immigration ties to US – key US politics stories from 14 January 2026",
-      "summary": "On Jan 21 the State Department will indefinitely pause immigrant visa processing from 75 countries, citing public‐charge concerns despite Cato Institute data showing immigrants use 21% fewer benefits than US-born. This follows December’s travel bans, asylum suspensions and green-card halts. Meanwhile the Senate rejected a Venezuela war-powers limit, Trump pressed to acquire Greenland for security, Iran vowed rapid trials of protesters, DOJ green-lit a Maduro raid memo, lawmakers filed impeachment articles against DHS Sec. Noem and $1.9 bn in mental-health grants were canceled.",
-      "summaryTokens": 992,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "trailText": "List includes war-torn nations, allies and countries with longstanding immigration ties to US – key US politics stories from 14 January 2026",
+      "summary": "The Trump administration will indefinitely suspend immigrant visa processing from 75 countries deemed likely to become “public charges,” effective January 21, as part of an expansive legal immigration crackdown that also includes expanded travel bans, asylum pauses and halted green‐card applications. Other highlights: the Senate rejects a resolution to curb military action against Venezuela; Trump presses to acquire Greenland; Iran vows speedy trials and executions for protesters; a survey predicts China’s rising influence; a DOJ memo greenlights a Maduro raid; impeachment articles filed against DHS Secretary Noem; and $1.9 billion in substance‐use and mental‐health grants are canceled.",
+      "summaryTokens": 616,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/portland-shooting-border-agent",
-      "title": "Portland man shot by Border Patrol pleads not guilty to assaulting agent",
+      "title": "Portland man shot by border patrol pleads not guilty to assaulting agent",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/14/portland-shooting-border-agent",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/14/portland-shooting-border-agent",
       "section": "us-news",
       "publishedDate": "2026-01-15T01:31:41Z",
       "trailText": "Luis David Nino-Moncada, shot the day after Renee Good was killed, denies using vehicle as weapon against officer",
-      "summary": "Luis David Nino-Moncada, shot in the arm by a Border Patrol agent during a Portland immigration stop, pleaded not guilty to federal charges of aggravated assault on an officer and damaging government property. DHS alleges the Venezuela-born suspect entered illegally, rammed an unmarked agent vehicle with his pickup and attempted to flee, injuring passenger Yorlenys Zambrano-Contreras, and links him to Venezuelan gang Tren de Aragua. Local officials demand transparency after no surveillance footage emerged. Occurring a day after the Minneapolis shooting of Renee Good, the case has fueled national protests and debate over aggressive federal immigration tactics and agent immunity.",
-      "summaryTokens": 1447,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Luis David Nino-Moncada, a Venezuelan national shot in the arm by a Border Patrol agent during a Portland immigration stop, pleaded not guilty to aggravated assault on a federal officer and damaging government property. DHS says he entered the US illegally and used his pickup to ram an unmarked rented car when agents moved in; a colleague fired two shots as he fled. Passenger Yorlenys Zambrano-Contreras, also of Venezuelan descent and wounded, was later held in ICE detention. The Jan. 14 shooting—unrecorded on video—followed the killing of Renee Good in Minnesota, sparking nationwide protests and demands for transparency. The Trump administration has deployed its largest DHS operation to date in Minneapolis, defended broad federal immunity for agents and cited large upticks in alleged attacks on officers, claims critics say lack evidence.",
+      "summaryTokens": 400,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/us-senate-trump-military-action-venezuela",
@@ -65,9 +281,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-15T01:30:32Z",
       "trailText": "Republicans Josh Hawley and Todd Young flipped after receiving ‘assurances’ from Trump administration",
-      "summary": "On Jan. 14 the Senate rejected a bipartisan war powers resolution that would have barred President Trump from further military action in Venezuela without advance congressional approval. Senators Josh Hawley and Todd Young—who had joined Rand Paul, Lisa Murkowski and Susan Collins in advancing the measure—flipped after receiving assurances from the administration that no U.S. troops are currently deployed and that any major operation would be preceded by formal authorization. The 50–50 tie was broken by VP Vance, prompting Democrats led by Chuck Schumer and Tim Kaine to warn the defeat emboldens Trump’s expanding foreign interventions following the surprise raid that captured Nicolás Maduro.",
-      "summaryTokens": 749,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "After assurances from Trump, GOP Sens. Josh Hawley and Todd Young switched their votes to kill a bipartisan war powers resolution that would have barred President Trump from ordering further military action against Venezuela without congressional approval. The Senate split 50-50, and Republican J.D. Vance cast the tie-breaking vote. Rand Paul, Lisa Murkowski and Susan Collins had joined Democrats to advance the measure after a US raid captured President Maduro. Democrats condemned the defeat as a dangerous expansion of unchecked presidential authority. The procedural vote hinged on a challenge to the resolution’s relevance, arguing no US troops are currently in Venezuela. Trump had pressured Republicans to oppose the measure, branding dissenters “never elected again.”",
+      "summaryTokens": 1659,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/global-survey-suggests-trump-is-making-china-not-america-great-again",
@@ -77,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-15T00:01:46Z",
       "trailText": "Exclusive: US is less feared by its traditional adversaries, while its allies feel ever more distant, results show",
-      "summary": "A 21-country ECFR survey finds most respondents believe Trump’s “America First” agenda has strengthened China’s global influence rather than America’s. Under Trump, traditional US adversaries fear it less and allies – especially in Europe – see it as unreliable, boosting support for rearmament. Majorities in South Africa (85%), Brazil (73%) and Russia (86%) now view China as an ally or necessary partner; most Europeans expect China to lead in EVs and renewables, yet few view it as a rival. Only India retains a majority viewing the US as a value-sharing ally. Perceptions of Trump’s reelection impact are increasingly negative.",
-      "summaryTokens": 1206,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "A 21-country ECFR/Oxford survey of 26,000 respondents finds that a year into Trump’s second term, global opinion sees his “America First” policies boosting China’s rise more than US influence. Majorities in 13 European states, the US, India, Brazil, South Africa and others expect China’s power to grow; few view it as adversarial. Conversely, US standing has weakened: only India still sees America as a values-aligned ally, and European partners increasingly regard it as unreliable or rival. Views of the EU are mixed—while China and Americans often see it as a partner, most Europeans doubt its global clout, driving support for rearmament and higher defence spending.",
+      "summaryTokens": 1026,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/trump-administration-white-supremacist-language",
@@ -89,9 +305,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T23:39:29Z",
       "trailText": "Image with question ‘Which way, Greenland man?’ is a ‘key concept in neo-Nazi and white supremacist subculture’",
-      "summary": "The White House’s official X post asking “Which way, Greenland man?” alongside a illustrated split-scene has been flagged by extremism expert Heidi Beirich as a deliberate nod to white supremacist literature. It echoes the 1978 neo-Nazi tract “Which Way Western Man” by William Gayley Simpson. Beirich warns it fuels extremist recruitment and taps into historic manifest destiny rhetoric. Critics say this coded appeal to “Western man” dovetails with DHS posters likened to Third Reich propaganda and Elon Musk’s race-baiting of Somali Americans. Lawmakers fear ICE may already include January 6 rioters and Proud Boys.",
-      "summaryTokens": 1583,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "White House social post on X showed two Greenland dog sled teams and asked ‘Which way, Greenland man?’, a phrase extremism expert Heidi Beirich says echoes the neo-Nazi text ‘Which Way Western Man’ by white nationalist William Gayley Simpson. Critics warn the administration’s messaging signals white supremacist code, paralleling DHS recruitment imagery likened to Third Reich propaganda. Lawmakers fear ICE may be enlisting far-right extremists, including Proud Boys and January 6 rioters, amid an uptick in MAGA trolling. Meanwhile, Elon Musk’s race-baiting of Somali Americans and DHS ICE raids in the Twin Cities underscore a broader trend of government messaging courting extremism.",
+      "summaryTokens": 1141,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/prop-50-california-congressional-maps-lawsuit",
@@ -101,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T22:30:27Z",
       "trailText": "Judges uphold redrawing to offset Texas gerrymandering as Newsom attacks lawsuit as ‘weak attempt to silence voters’",
-      "summary": "A Ninth Circuit in a 2–1 decision upheld Prop 50, authorizing temporary reconfiguration of California's congressional districts to flip five GOP seats, a response to Texas Republicans’ map redrawing. GOP plaintiffs argued the measure violated the Voting Rights Act by intentionally favoring Hispanic voters, but Obama and Biden appointees found no discriminatory intent. Governor Newsom blasted the suit as a ‘weak attempt to silence voters.’ The dissenting Trump appointee warned one district was drawn to deter Latino defections. Prop 50 maps, to be used in 2026–2030 elections, face likely Supreme Court review amid partisan gerrymandering litigation.",
-      "summaryTokens": 1713,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Federal appeals panel upheld California’s Prop 50, a voter-approved measure redrawing congressional maps to flip five GOP-held seats in response to Texas gerrymandering. In a 2–1 ruling, Judges Staton and Hsu rejected a Voting Rights Act challenge arguing racial favoritism, finding no evidence of discriminatory intent. Trump-appointed Judge Lee dissented, alleging one district diluted Latino votes. Gov. Newsom hailed the decision as affirmation of voter will. Prop 50’s interim maps, overriding the independent citizen-led commission in place since 2008, slated for 2026–2030 elections, may face US Supreme Court review under partisan gerrymandering precedent.",
+      "summaryTokens": 1076,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/another-bear-crawlspace-altadena",
@@ -113,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T21:02:25Z",
       "trailText": "It’s unclear whether bear removed from Altadena house is same one seen under other homes",
-      "summary": "In Altadena, a 550 lb black bear that occupied a crawlspace since November was removed last week by the Bear League using paintball guns after DFW failed to trap it. Soon after, bears were spotted under two other nearby homes, and DFW is unsure whether this is the same tagged (Yellow 2120) individual or multiple bears. Bear League volunteers have installed electrical mats and receive several calls daily from Tahoe-area residents. Officials urge homeowners to secure food, trash and homes. California’s 49,000–71,000 black bears, mostly in the Sierra Nevada and north coast, rarely confront humans, with one recorded fatality statewide.",
-      "summaryTokens": 1069,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "In Altadena, CA, a 550-lb black bear (tagged Yellow 2120) removed from beneath a local home has been spotted under two other houses half a mile apart, prompting uncertainty over whether it’s the same animal. After DFW trapping efforts failed, Bear League volunteers used paintball guns to evict it and have since installed electric mats to deter further intrusions. The Bear League fields numerous daily calls in the Lake Tahoe region for bears under homes. California hosts 49,000–71,000 black bears statewide; authorities advise residents to secure food, trash, and homes to minimize human-bear conflicts.",
+      "summaryTokens": 1064,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/full-list-75-countries-visa-processing-suspended",
@@ -125,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T21:02:02Z",
       "trailText": "The Trump administration indefinitely suspended immigrant visa processing from 75 countries – see which nations have been affected",
-      "summary": "On Jan. 21, 2026, the Trump administration indefinitely froze immigrant visa processing for 75 countries spanning Africa, Asia, Latin America, the Middle East and Eastern Europe, aiming to bar applicants deemed likely to become “public charges.” A State Department cable obtained by the Guardian lists affected nations from Afghanistan, Bangladesh and Cuba to Nigeria, Pakistan and Syria. Exceptions include dual nationals with passports of non-listed states or those proving travel serves an “America First” interest; consular officers must refuse any approved but unprinted visas. The measure marks one of the administration’s broadest efforts to curb legal entry pathways.",
-      "summaryTokens": 1131,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "The Trump administration will indefinitely suspend immigrant visa processing from 75 countries starting January 21, targeting applicants deemed likely to rely on public benefits. A State Department cable obtained by the Guardian lists affected nations across Africa, Asia, Latin America, the Middle East and eastern Europe, including US allies and migration-source countries. Exceptions apply to dual nationals holding passports from non-listed countries or travellers whose visits serve “America First” interests. Approved but unprinted visas must be refused; the full list runs from Afghanistan to Uzbekistan.",
+      "summaryTokens": 914,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/slate-reporter-ice-job-offer",
@@ -137,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T20:44:48Z",
       "trailText": "Slate journalist Laura Jedeed documented hiring process and said she got offer despite not completing paperwork",
-      "summary": "Slate reporter Laura Jedeed, an anti-Trump ex-Army analyst, attended a six-minute ICE hiring interview at a Texas career expo and, despite not completing any paperwork, received a tentative selection letter and later saw her status marked “Entered on Duty.” DHS calls her account a “lie,” saying such letters aren’t job offers, but Jedeed posted screengrab video showing a final offer date. She argues this minimal vetting raises security concerns, while ICE’s critics warn Trump-era recruitment changes have weakened hiring standards.",
-      "summaryTokens": 467,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Slate journalist Laura Jedeed attended an ICE Career Expo in August 2025, underwent a sub-6 minute interview without paperwork, yet received an email tentatively offering her a deportation officer position and later a formal 'Entered on Duty' status despite not submitting required forms. DHS called her claims a 'lazy lie', stating the selection letter isn't a job offer. Jedeed, who identifies as anti-ICE and former Army paratrooper, stands by video evidence of final offer and start date, highlighting lapses in ICE’s vetting process and raising security concerns over recruitment standards.",
+      "summaryTokens": 989,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/california-highway-1-reopens-pch",
@@ -149,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T20:24:17Z",
       "trailText": "Scenic coastal throughfare from Los Angeles to San Francisco had been cut in tourism-reliant Big Sur area",
-      "summary": "After a three‐year closure triggered by January 2023 landslides, California’s iconic Highway 1 through Big Sur reopened Wednesday following an $82.6 million Caltrans repair project. The 75-mile coastal stretch—one of the western US’s most active landslide zones—endured successive slides in February 2024 and heavy‐rain events, requiring removal of 550,000 cu yd of debris, remote‐controlled bulldozers and 60-ft steel reinforcements. Gov. Gavin Newsom and Sen. John Laird called the restored route a lifeline for tourism‐reliant businesses, families and commuters. Small businesses and families in Big Sur and surrounding communities celebrated restoration of this vital LA-SF coastal artery, essential for regional tourism and commerce. Originally planned for March, work resumed after clearing a late “moderate slide.”",
-      "summaryTokens": 1721,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "California’s iconic Highway 1 through Big Sur reopened Wednesday afternoon after a closure since January 2023 caused by successive landslides and winter storms. Caltrans completed an $82.6m repair—removing over 300,000 cubic yards of debris, installing 60-ft steel reinforcements and using remote-controlled bulldozers—to restore the vital coastal corridor more than a month ahead of schedule. Gov. Gavin Newsom and local officials hailed the reopening as relief for tourism-reliant businesses and communities along the geologically active 75-mile stretch, one of the most landslide-prone in the western US.",
+      "summaryTokens": 1081,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/immigrant-visas-suspended-trump",
@@ -161,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T20:11:52Z",
       "trailText": "The state department cites welfare use as it pauses visa processing for Brazil, Iran, Russia, Somalia and others",
-      "summary": "Beginning Jan. 21, the Trump administration indefinitely suspended immigrant visa processing for applicants from 75 countries deemed likely ‘public charges,’ citing high welfare usage. The freeze remains until measures prevent new immigrants from ‘extracting wealth.’ It builds on record crackdowns—over 100,000 visas revoked, 605,000 deported, and expanded travel bans, asylum suspensions and green-card halts. Despite Cato Institute data showing immigrants use 21% fewer benefits than native-born, experts warn families may avoid needed aid. The move follows anti-Somali rhetoric and contradicts Trump’s prior support for legal immigration.",
-      "summaryTokens": 1258,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Beginning Jan 21, the Trump administration indefinitely suspended immigrant visa processing for applicants from 75 countries—including Brazil, Iran, Russia and Somalia—deemed likely “public charges” by relying on US welfare. Citing protection of American taxpayers, the State Department has revoked over 100,000 visas and overseen 605,000 deportations amid expanded December travel bans to 39 nations and asylum and green‐card suspensions. Critics point to research showing immigrants use 21% fewer welfare benefits than natives and warn of chilling effects on eligible families.",
+      "summaryTokens": 726,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/trump-cuts-substance-use-mental-health",
@@ -173,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T19:00:31Z",
       "trailText": "Funding to end immediately for up to 2,800 grantees of US agency that serves thousands seeking help and in recovery",
-      "summary": "The Trump administration abruptly canceled up to $1.9 billion in SAMHSA grants to 2,800 programs—26% of its budget—ending funding for overdose prevention, naloxone distribution, school-based mental health, pregnant/postpartum support, underage drinking prevention and recovery services. Providers, unaware staffers and Congress were blindsided; advocates warn tens of thousands of people in addiction and mental-health care will lose services immediately and preventable deaths will rise. Former experts, including ex-SamhSA leaders and Biden drug policy director Regina LaBelle, criticize cuts as politically driven and reckless; legal challenges loom but harm is unfolding in real time.",
-      "summaryTokens": 1019,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Trump administration abruptly canceled $1.9 billion in SAMHSA grants, ending funding for 2,800 grantees (26% of its budget) with no prior consultation. Providers must lay off staff and halt programs overnight, disrupting overdose prevention, naloxone distribution, school mental‐health support, pregnant/postpartum SUD treatment, underage drinking prevention and recovery services. Advocates warn tens of thousands could die and recent gains—like a 27% drop in overdose deaths in 2024—may reverse. Cuts, deemed politically motivated and enacted without Congress, exclude opioid block grants, certified community behavioral clinics and the 988 hotline and face imminent legal challenges.",
+      "summaryTokens": 883,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson",
@@ -185,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T18:20:11Z",
       "trailText": "Agents searched Hannah Natanson’s Virginia home and seized devices in inquiry tied to a classified materials case",
-      "summary": "Early Wednesday federal agents executed an unannounced search of Washington Post reporter Hannah Natanson’s Virginia home, seizing her Garmin watch, phone and laptops in a probe of a Pentagon contractor accused of unlawfully hoarding classified materials. Neither Natanson nor the Post were named as targets, officials say. Press-freedom groups decried the aggressive action—authorized at the Pentagon’s request—as a serious threat to First Amendment protections and confidential sources.",
-      "summaryTokens": 518,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "FBI agents executed a search warrant at Washington Post reporter Hannah Natanson’s Virginia home Wednesday, seizing her Garmin watch, phone and two laptops in an investigation linked to a Pentagon contractor accused of illegally retaining classified materials. The raid, described by the Post as ‘highly unusual and aggressive,’ was conducted at the Justice Department’s request without warning and without naming Natanson as a target. Attorney General Pam Bondi said it aimed to retrieve classified leaks. Press freedom advocates, including the Reporters Committee and Knight First Amendment Institute, condemned the unprecedented intrusion as a dangerous chill on journalistic independence and source confidentiality.",
+      "summaryTokens": 1190,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/iran-protests-internet-access-trump-congress",
@@ -197,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T18:05:04Z",
       "trailText": "Democrats and Republicans called on president to circumvent legislative process to implement ‘Freedom’ bill",
-      "summary": "A bipartisan group of 17 House members, led by Dave Min, Claudia Tenney, Dave McCormick and Jacky Rosen, have urged President Trump to bypass Congress and use executive authority to restore internet in Iran. In a letter also sent to Secretary of State Rubio, they ask him to direct the State Department to work with the Open Technology Fund and deploy VPNs or direct-to-cell networks under the proposed “Freedom Act.” The appeal follows a regime-imposed blackout amid protests that have reportedly killed thousands and aims to reconnect Iranians to the outside world immediately.",
-      "summaryTokens": 930,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Seventeen bipartisan House members, led by Reps Dave Min (D-CA) and Claudia Tenney (R-NY), urged President Trump to bypass legislation and deploy the Freedom Act to restore Iran’s internet amid nationwide protests. They call on the State Department and the Open Technology Fund to use VPNs, direct-to-cell networks, and emerging tools to defeat Tehran’s blackout, risking thousands of deaths. Backed by Sens Dave McCormick (R-PA) and Jacky Rosen (D-NV) and the National Union for Democracy in Iran, the appeal highlights 2,500–12,000 fatalities.",
+      "summaryTokens": 1259,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/hillary-clinton-contempt-epstein-comer",
@@ -209,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T17:36:34Z",
       "trailText": "James Comer says action follows refusal by the former first lady and Bill Clinton to testify about Jeffrey Epstein",
-      "summary": "House Oversight Committee chair James Comer announced plans to hold Hillary Clinton in criminal contempt after she and Bill Clinton defied subpoenas to testify about their ties to Jeffrey Epstein. The GOP‐controlled panel will vote on a contempt resolution next Wednesday before sending it to the full House and the DOJ. The Clintons submitted sworn declarations denying knowledge of Epstein’s crimes and called the subpoenas invalid and politically motivated. Democrats decry what they see as unequal, partisan enforcement.",
-      "summaryTokens": 454,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "House Oversight Committee chair James Comer said his panel will hold Hillary Clinton in criminal contempt of Congress after she and Bill Clinton defied subpoenas to testify about their ties to Jeffrey Epstein. A contempt resolution is set for a committee vote next Wednesday and, if passed by the GOP-controlled House, will go to the Justice Department. The Clintons submitted sworn declarations denying knowledge of Epstein’s crimes and denounced the subpoenas as legally invalid, framing contempt proceedings as political retaliation.",
+      "summaryTokens": 1224,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/rfk-cdc-vaccine-advisory-panel",
@@ -221,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T17:24:24Z",
       "trailText": "Physicians have disputed prevailing scientific views on vaccines and use of antidepressants during pregnancy",
-      "summary": "Health and Human Services Secretary RFK Jr. has appointed two obstetrician-gynecologists—Dr. Adam Urato and Dr. Kimberly Biss—to the CDC’s Advisory Committee on Immunization Practices, boosting its membership to 13 after he dismantled the previous panel. Both doctors have publicly disputed mainstream vaccine science and SSRI safety in pregnancy: Urato criticized over-intervention, likened vaccine makers to cigarette companies, and petitioned for antidepressant warning labels; Biss, a former non-vaxxer, has alleged Covid shots caused severe menstrual disorders and voiced entrenched vaccine skepticism in congressional testimony and podcasts. Their selection drew fierce rebukes from public health advocates, who warn embedding anti-vaccine activists threatens evidence-based policy and public health.",
-      "summaryTokens": 782,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Robert F. Kennedy Jr. has appointed Dr. Adam Urato and Dr. Kimberly Biss to the CDC’s 13-member Advisory Committee on Immunization Practices after his June overhaul. Both OBGYNs have publicly disputed mainstream vaccine and SSRI safety: Urato (Harvard, Tufts) petitioned the FDA for SSRI warning labels and decries medical over-intervention; Biss (Bayfront Health) alleges severe menstrual harms from Covid vaccines and now identifies as anti-vaccine. Critics warn these picks stack ACIP with skeptics, risking public health.",
+      "summaryTokens": 991,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/michigan-senator-elissa-slotkin-federal-investigation",
@@ -233,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T17:24:10Z",
       "trailText": "Elissa Slotkin says US is investigating her for video in which Democrats say service members ‘must refuse illegal orders’",
-      "summary": "Michigan senator Elissa Slotkin announced a federal investigation into her after she co-organized a 90-second video with five other Democratic lawmakers—including Arizona senator Mark Kelly and Reps. Chris Deluzio, Chrissy Houlahan, Maggie Goodlander and Jason Crow—that urged US troops to refuse illegal orders, a principle enshrined in military law. Donald Trump denounced the message as “seditious,” prompting a White House walkback. Slotkin decries the probe, led by US attorney Jeanine Pirro, as political intimidation. The fallout includes Capitol police protection, swatting threats and a Pentagon inquiry into Kelly, who has sued Defense Secretary Pete Hegseth over punitive actions against retired officers.",
-      "summaryTokens": 896,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Michigan senator Elissa Slotkin announced she is under federal investigation for a 90-second video she organized with five fellow Democratic veterans urging service members to refuse illegal orders. President Trump labeled the message “seditious” and the White House later clarified no executions were intended. Slotkin calls the probe an authoritarian tool by Trump allies—including DC US attorney Jeanine Pirro—to intimidate dissent. The video’s obey-the-law principle is codified in military code. Since its release, Slotkin has faced death threats, bomb threats and 24/7 security. Meanwhile, Sen. Mark Kelly is suing Defense Sec. Pete Hegseth over a punitive investigation into his role.",
+      "summaryTokens": 1022,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/supreme-court-republican-illinois-mail-in-ballot-law",
@@ -245,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T16:33:53Z",
       "trailText": "Lawsuit from Mike Bost was viewed by Trump-aligned conservatives as route to continue attacks on mail-in voting",
-      "summary": "The US Supreme Court 7-2 revived Republican Rep. Mike Bost’s suit against Illinois’ law counting mail-in ballots up to two weeks after election day if postmarked by deadline. Chief Justice Roberts held candidates have concrete interest in vote-counting rules and thus standing, while Justices Jackson and Sotomayor dissented, warning the novelty destabilizes standing law. The case, limited to candidate standing not the law’s constitutionality, follows lower courts’ dismissal and reflects broader GOP challenges to mail voting amid Trump-era attacks; Bost cited extra campaign staffing costs as injury.",
-      "summaryTokens": 488,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Supreme Court revived a suit by GOP Rep. Mike Bost challenging Illinois’ law that counts mail-in ballots received up to two weeks post-election if postmarked by Election Day. In a 7-2 opinion authored by Chief Justice Roberts, the court granted Bost standing, ruling candidates have a “concrete and particularized interest” in vote-counting rules. Justices Jackson and Sotomayor dissented, warning a bespoke rule for candidates destabilizes standing law. Oral arguments in October focused on whether political candidates qualify as “objects” of the law. The case fits broader conservative efforts attacking mail-in voting.",
+      "summaryTokens": 827,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/kristi-noem-articles-of-impeachment",
@@ -257,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T16:27:21Z",
       "trailText": "Robin Kelly and other House Democrats move against homeland security secretary over ICE killing of Renee Good",
-      "summary": "Illinois Rep. Robin Kelly on Wednesday introduced three articles of impeachment against DHS Secretary Kristi Noem—obstruction of Congress, violation of public trust and self-dealing—after an ICE agent fatally shot Renee Good in Minneapolis. Supported by 70 House Democrats, Kelly alleges Noem withheld appropriated funds, blocked oversight, and funneled taxpayer dollars to allies. Noem’s office labels Good a “professional agitator” amid a surge in assaults on federal agents, but local officials and video footage dispute that narrative. With House GOP control and divided Democrats, the effort faces slim chances despite growing national outrage.",
-      "summaryTokens": 486,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Illinois Congresswoman Robin Kelly on January 14 filed three articles of impeachment—obstruction of Congress, violation of public trust and self-dealing—against Homeland Security Secretary Kristi Noem, citing the fatal ICE shooting of 37-year-old Renee Good in Minneapolis. Backed by 70 House Democrats, Kelly charges Noem with withholding funds, blocking oversight, using warrantless arrests and misusing taxpayer dollars to award a $200 million ICE recruitment contract to a firm linked to a senior DHS official. The move follows a similar effort by Rep. Delia Ramirez, splits House Democratic leadership over strategy and faces steep odds in the GOP-controlled Congress.",
+      "summaryTokens": 432,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/betar-new-york-investigation-israel",
@@ -269,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T16:16:43Z",
       "trailText": "State attorney general found far-right group harassed ‘Muslim, Arab, Palestinian, and Jewish New Yorkers’",
-      "summary": "Betar US, a far-right pro-Israel group labelled extremist by the ADL, agreed to cease operations in New York and dissolve its nonprofit under a settlement with AG Letitia James after an OAG probe found bias-motivated assaults, threats and harassment targeting Muslim, Arab, Palestinian and Jewish New Yorkers. The deal bars instigating violence, threatens a suspended $50,000 penalty for violations and follows revelations of lists urging deportations of pro-Palestinian students, calls for weapons at protests and social media celebrating violence. Betar denies wrongdoing. NYC officials hailed the decision.",
-      "summaryTokens": 866,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "New York AG Letitia James concluded her March 2025 probe into Betar US, deeming the far-right pro-Israel group responsible for bias-motivated assaults, threats and harassment of Muslim, Arab, Palestinian and Jewish New Yorkers. Under a settlement, Betar must cease instigating violence and faces a suspended $50 K penalty for violations. Citing evidence of deportation lists submitted to the Trump administration, calls for weapons at protests, “beeper” attacks and celebratory violence posts, James’s office noted Betar’s voluntary dissolution of its NY nonprofit. Betar denies wrongdoing, while NYC mayor Zohran Mamdani condemns its Islamophobic extremism.",
+      "summaryTokens": 500,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/trump-suspended-michigan-autoworker",
@@ -281,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T15:23:33Z",
       "trailText": "Tens of thousands of dollars raised for TJ Sabula after he reportedly calls Trump ‘pedophile protector’ during Ford plant tour",
-      "summary": "TJ Sabula, a UAW Local 600 Ford autoworker, was suspended without pay after heckling Trump at River Rouge, calling him a “pedophile protector.” Video shows Trump allegedly returning the insult with a middle finger and obscenities. Sabula says he has no regrets but fears political retribution; a GoFundMe has raised over $150,000 for his lost wages, drawing support from the Dropkick Murphys. The UAW vows to defend his contract rights, while the White House defends Trump’s response as appropriate to Sabula’s outburst.",
-      "summaryTokens": 928,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "At Ford’s River Rouge plant in Michigan, UAW member TJ Sabula was suspended without pay after calling President Trump a “pedophile protector” and heckling him during a tour. A TMZ video shows Trump returning a middle-finger gesture. Unrepentant, Sabula fears political retribution but says he seized a rare moment, as a GoFundMe to cover lost wages has topped $150,000 with donors like Dropkick Murphys. The UAW vows to defend his contract rights. The White House deemed Trump’s response “appropriate,” while Ford has yet to comment.",
+      "summaryTokens": 800,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/trump-sanctuary-cities-funding",
@@ -293,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T15:15:47Z",
       "trailText": "Critics call move to cut payments after 1 February for number of Democratic-run states ‘unconstitutional’",
-      "summary": "Donald Trump announced at the Detroit Economic Club that, starting February 1, he will withhold all federal payments from ‘sanctuary cities’ and any state containing them, accusing them of protecting criminals at the expense of American citizens. DHS backed the move, citing local jail access issues for violent illegal aliens. Critics called it unconstitutional; a San Francisco judge’s preliminary injunction against his 2023 cuts remains under appeal. A DOJ list identifies 11 states plus DC, 18 cities and three counties as sanctuary jurisdictions. Chicago’s mayor vows to sue. This follows Trump’s recent freezes of childcare and clean-energy grants to Democratic-run states.",
-      "summaryTokens": 490,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "At a Detroit Economic Club address, Donald Trump revived plans to withhold all federal funds from “sanctuary cities” and any state containing them, effective Feb. 1, accusing jurisdictions of “protecting criminal illegal aliens.” DHS Secretary Noem and DHS posts justified the action, while critics, including Chicago mayor Brandon Johnson, branded it unconstitutional and pledged to sue, citing a San Francisco judge’s preliminary injunction. A DOJ list flags 11 states plus DC, 18 cities and three counties as sanctuary jurisdictions, amid Trump’s broader funding freezes of Democratic-led states.",
+      "summaryTokens": 922,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/los-angeles-jewish-temple-vandalized",
@@ -305,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T13:00:31Z",
       "trailText": "Graffiti included ‘Fuck Zionism’ and ‘RIP Renee’, an apparent reference to killing of Renee Good in Minneapolis",
-      "summary": "On Jan. 14, graffiti reading “Fuck Zionism” and “RIP Renee”—a reference to the Jan. 7 Minneapolis killing of Renee Nicole Good—was discovered on the exterior wall of the Pasadena Jewish Temple and Center (PJTC) campus in Altadena, which burned in last year’s Eaton fire. PJTC senior rabbi Josh Ratner condemned the antisemitic vandalism, and the LA County sheriff’s hate crimes unit is investigating. County supervisor Kathryn Barger called it a despicable hate crime. The congregation, still rebuilding after the blaze that killed 19, is boosting security with private guards and the Jewish Federation’s Community Security Initiative.",
-      "summaryTokens": 1206,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "The Pasadena Jewish Temple and Center’s campus in Altadena—destroyed last year by the Eaton wildfire—was targeted by antisemitic graffiti reading “Fuck Zionism” and “RIP Renee,” referencing Renee Good’s recent killing in Minneapolis. Senior Rabbi Josh Ratner and LA County Supervisor Kathryn Barger denounced the vandalism as a hate crime, urging unity and resilience. Altadena sheriff’s deputies collected evidence and hate-crimes detectives launched an investigation. PJTC said it’s bolstering security with private guards and the Jewish Federation’s Community Security Initiative, affirming its commitment to rebuilding safely and upholding Jewish values.",
+      "summaryTokens": 872,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/maduro-international-law-memo",
@@ -317,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T12:50:14Z",
       "trailText": "Memo on US military raid to capture Venezuela’s president effectively argued that presidents can blow through UN charter",
-      "summary": "An OLC memo by T. Elliot Gaiser approved President Trump’s use of US forces in Operation Absolute Resolve to capture Venezuela’s Nicolás Maduro, deeming it unnecessary to resolve potential breaches of international law or the UN charter. Citing a 1989 OLC precedent that presidents can override treaties, the memo prioritized domestic executive authority and met OLC’s two-part test: national interest (Maduro’s drug-trafficking indictment and regional instability) and avoidance of ‘war’ thresholds, thus sidestepping congressional war powers. Signed by then-AG William Barr, it drew expert criticism as legally flawed. Released ahead of a Senate war powers vote, it echoes prior OLC opinions authorizing extraterritorial arrests and drug-trafficking strikes.",
-      "summaryTokens": 2626,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "An OLC memo dated 2026 reveals the DoJ cleared President Trump to authorize a military raid, codenamed Absolute Resolve, to seize Venezuelan leader Nicolás Maduro without assessing whether it violated international law. T. Elliot Gaiser argued that because Trump had domestic authority, evaluating UN charter compliance was “unnecessary.” The memo leans on a 1989 precedent allowing executives to override treaties, cites a two-part OLC test (national interest, non-war scope), warns of starting an armed conflict but notes no sustained operation so no congressional approval. It follows another classified OLC opinion on cocaine-trafficking strikes.",
+      "summaryTokens": 870,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/first-thing-hundreds-gunshot-eye-injuries-iran-hospital-crackdown-protests",
@@ -329,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T12:33:43Z",
       "trailText": "Doctors in Tehran tell of overwhelmed medical staff as Donald Trump promises ‘help is on its way’. Plus, how wildfires are destroying the world’s forests",
-      "summary": "An ophthalmologist in Tehran logged over 400 gunshot eye injuries at one hospital as overwhelmed staff treated protesters’ head wounds amid a brutal nationwide crackdown. Rights groups say authorities deliberately targeted eyes, echoing tactics from the 2022 Woman, Life, Freedom protests. HRANA reports at least 2,000 killed—90% demonstrators—and 16,700 arrests. Donald Trump urged Iranians to “keep protesting” on Truth Social, hinting at potential US intervention. The newsletter also highlights 2025 as the third-hottest year, the end of TPS for Somalis in the US, and a global map of wildfire-driven forest loss.",
-      "summaryTokens": 1212,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Doctors at a Tehran hospital have recorded over 400 gunshot wounds to protesters’ eyes and heads as Iranian authorities intensify a brutal crackdown on nationwide Woman, Life, Freedom demonstrations, with rights groups reporting more than 2,000 killed and over 16,700 arrested. Former president Donald Trump urged Iranians to keep protesting on Truth Social, promising “help is on its way” and hinting at possible US military action. Elsewhere, scientists warn 2025 was the third-hottest year on record, the administration ends temporary protected status for Somalis in the US, and global wildfires continue decimating forests.",
+      "summaryTokens": 948,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/union-leaders-trump-administration-white-supremacy",
@@ -341,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T11:00:23Z",
       "trailText": "Labor department rhetoric, such as ‘One Homeland. One People. One Heritage’, prompt comparisons to Nazi slogan",
-      "summary": "Union leaders and historians have accused the US Department of Labor under the Trump administration of white supremacist and fascist rhetoric, after social media posts using slogans like “One Homeland. One People. One Heritage” sparked comparisons to Nazi propaganda (“Ein Volk, ein Reich, ein Führer”). AI-generated images of white male workers, anti-globalism messaging and claims about “native-born” job gains alarmed National Nurses United, the International Union of Painters and labor scholars. Critics say the campaign aims to demonize immigrants and appeal to white working-class voters, while anonymous DOL insiders warn it erodes trust and undermines the agency’s mission.",
-      "summaryTokens": 1202,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Union leaders and historians accused the Trump Department of Labor of echoing Nazi rhetoric after social media videos used the slogan “One Homeland. One People. One Heritage,” paralleling “Ein Volk, ein Reich, ein Führer.” They cited AI-generated art showcasing only white male workers, anti-globalism posts claiming native-born Americans gained all job growth, and a broader shift toward white supremacist messaging. National Nurses United’s Puneet Maharaj, IUPAT’s Jimmy Williams Jr and Rutgers historian Christopher Hayes warned the campaign demonizes foreign labor, undermines agency credibility and signals a fascist agenda in federal communications.",
+      "summaryTokens": 423,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/14/pennsylvania-grave-robbery-human-remains",
@@ -353,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T11:00:22Z",
       "trailText": "Jonathan Gerlach remains in custody after officials say they found skulls, bones and other remains in his car and home",
-      "summary": "Jonathan Gerlach, 34, allegedly stole over 100 human remains from Mount Moriah Cemetery in Yeadon, PA, and admitted selling some online. Police traced his Toyota Rav4 by license-plate readers, linked his cell records to mausoleum burglaries, and found skulls and bones in his car and Ephrata home basement, where remains hung from the ceiling. Charged with nearly 575 counts—including desecration and theft—he’s held on $1m bail. Mount Moriah, dating to 1855, lacks security; a nonprofit seeks donations for cameras, patrols and fencing.",
-      "summaryTokens": 809,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Jonathan Gerlach, 34, allegedly stole over 100 pieces of human remains from historic Mount Moriah cemetery in Yeadon, PA, and admitted selling skulls and bones online. Authorities linked his Toyota Rav4 and cellphone records to mausoleum break-ins after an online tip about remains in his basement. Arrested Jan. 6 with children’s mummies, skulls and loose bones in his car, searches revealed additional remains hanging from the ceiling and stored in lockers. He faces more than 100 counts of corpse abuse, theft, desecration and related charges and is held on $1 million bail. Friends of Mount Moriah are soliciting donations for security upgrades.",
+      "summaryTokens": 631,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/13/ice-cbp-minneapolis-teargas",
@@ -365,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T03:25:54Z",
       "trailText": "Federal agents use teargas against protesters as homeland security officials tell of ‘largest operation in DHS history’",
-      "summary": "After federal immigration agents used tear gas, pepper balls and flash bangs against Minneapolis protesters—arresting eight outside a federal building—Trump officials warned local leaders against “criminal conspiracy” and obstruction as DHS ramps up its “largest operation” with 800 Customs and Border Protection and 2,000 ICE officers plus Pentagon lawyers. Minnesota, Minneapolis and St. Paul sued, calling it a “federal invasion” violating First Amendment rights; Chicago and Illinois joined. Demonstrations erupted after an agent killed Renee Nicole Good, and some federal prosecutors resigned over DOJ’s refusal to probe civil‐rights violations.",
-      "summaryTokens": 991,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Eight arrested outside a Minneapolis federal building as DHS deployed around 2,800 officers—800 CBP, 2,000 ICE—using teargas, pepper balls and flash bangs against protesters rallying after federal agent killed Renee Nicole Good. Trump administration threatens legal action against officials accused of obstructing ICE; Pentagon to send military lawyers. Minnesota and Minneapolis sued DHS over alleged First Amendment violations, calling it a “federal invasion”; Chicago and Illinois filed suit as well. Federal prosecutors resigned over DOJ’s refusal to probe Good’s death; protests persist despite legal and physical intimidation.",
+      "summaryTokens": 602,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/13/trump-renee-good-cbs",
@@ -377,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T02:35:06Z",
       "trailText": "President speaks to CBS News about killing of woman by ICE agent and defends immigration crackdown",
-      "summary": "In a CBS News interview after touring a Michigan plant, President Trump defended ICE’s killing of 37-year-old Renee Good in Minneapolis, calling her “probably a wonderful person” whose “tough” actions warranted a lethal response. He repeated claims the agent acted in self-defense and framed Good as a “domestic terrorist,” despite multi-angle video and local officials disputing that narrative. Six Minnesota prosecutors resigned, protests erupted, and Minneapolis’s mayor demanded ICE leave. The administration expanded Twin Cities enforcement, targeted the Somali community with xenophobic rhetoric, moved to end Somali TPS in March, and blocked state investigators while refusing a federal civil-rights probe.",
-      "summaryTokens": 881,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "President Trump, in a CBS interview after touring a Michigan Ford plant, defended ICE’s killing of 37-year-old Renee Good in Minneapolis as a justified response to her “tough” actions, though he deemed her likely a wonderful person. The shooting—contested by multi-angle video showing her SUV turning away—sparked nationwide protests and six Minnesota federal prosecutors’ resignations after DOJ declined a civil-rights probe. Trump, VP Vance and DHS Sec. Noem cite self-defense, label Good a domestic terrorist and have expanded ICE operations in Twin Cities, targeting Somali Americans, ending their protected status and blocking state investigators from the case.",
+      "summaryTokens": 496,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/13/trump-administration-briefing-latest",
@@ -389,9 +605,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T02:00:12Z",
       "trailText": "Administration issues warning to US citizens: ‘Leave Iran now’",
-      "summary": "President Trump urged Iranian protesters to “keep protesting” and vowed unspecified military support, canceling talks until Tehran halts “senseless killing,” while State Department urged U.S. citizens to leave Iran. His Administration’s wider actions include ending TPS for Somalis, affirming solidarity with Fed chair Jerome Powell, and partnering on AI data center costs. Trump allies lost ground as progressives threaten to block DHS funding, and he faces scrutiny over asset disclosures in a $10bn BBC lawsuit. Other major developments: Greenland rejects U.S. Arctic ambitions, Clintons refuse Epstein subpoenas, UPenn faculty decry demands for Jewish personal data, Minneapolis sees escalated federal enforcement.",
-      "summaryTokens": 1774,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "President Donald Trump signaled potential military action against Iran by urging “Iranian Patriots” on Truth Social to “keep protesting—take over your institutions,” promising “help is on the way,” and canceling all meetings with Tehran until its deadly crackdown ends. The State Department issued a “Leave Iran now” alert, advising US citizens to self‐evacuate via Armenia or Türkiye. Trump warned of “very strong action” if protesters are executed, shifting from economic pressure toward possible force amid reports of rising deaths and leaked morgue images.",
+      "summaryTokens": 597,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/13/trump-cbs-interview-tony-dokoupil",
@@ -401,9 +617,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T01:19:02Z",
       "trailText": "US president also says Paramount Skydance chief David Ellison, whom he called ‘amazing’, could be ‘bust’ if he’d lost",
-      "summary": "During a CBS Evening News interview, former President Trump asserted anchor Tony Dokoupil wouldn’t have his job if 2024 opponent Kamala Harris had won, claiming the US was “dead” then. CBS, now owned by Larry Ellison’s family, installed Dokoupil via new editor-in-chief Bari Weiss. Trump also suggested Paramount Skydance CEO David Ellison’s media ambitions—hostile bid for Warner Bros Discovery—would have “busted” if he’d lost. Dokoupil gently contested Trump’s job comment, prompting a quip about salary. The segment highlights CBS News’s recent ownership-driven shake-up, interview editing scrutiny, and Dokoupil’s cross-country launch of the revamped Evening News.",
-      "summaryTokens": 1148,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Donald Trump told CBS anchor Tony Dokoupil he “wouldn’t have a job” had Kamala Harris won in 2024, praising Larry Ellison’s son David Ellison yet warning his media ventures “might be bust” if he’d lost. The interview, aired early amid US tension over Venezuela, underscores CBS’s new ownership by the Ellison family and Bari Weiss’s shake-up—most notably recruiting Dokoupil to anchor the struggling Evening News. Dokoupil lightly pushed back, asserting his role’s independence. The network’s editing history and lawsuits with Trump also inform the backdrop of this high-profile sit-down.",
+      "summaryTokens": 816,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/13/trump-middle-finger-michigan",
@@ -413,9 +629,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T01:05:17Z",
       "trailText": "US president’s flustered response to shouts calling him a ‘pedophile protector’ was to issue rude hand gesture",
-      "summary": "On Jan 12, 2026, while touring Ford’s River Rouge plant in Dearborn, President Trump responded to a heckler calling him a “pedophile protector” by flashing the middle finger—captured in a TMZ 15-second clip. White House spokesperson Steven Cheung defended the gesture as fitting against a “lunatic.” Ford praised the event but condemned inappropriate conduct. The incident coincides with bipartisan pressure—from Reps. Ro Khanna and Thomas Massie—and DOJ under AG Pam Bondi to fully release heavily redacted Epstein files.",
-      "summaryTokens": 983,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "During a tour of Ford’s River Rouge plant in Dearborn, President Trump responded to a heckler calling him a ‘pedophile protector’ by flipping the middle finger, captured in a TMZ video. White House communications director Steven Cheung defended Trump’s ‘appropriate’ response. Ford, while praising the event, said it doesn’t condone inappropriate remarks. The incident comes amid mounting pressure to release the full Epstein files—over 99% still withheld by the DOJ for victim privacy—fueling bipartisan calls and scrutiny over redactions and Trump’s past ties and dismissal of the documents as a ‘hoax.’",
+      "summaryTokens": 673,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/13/dhs-funding-congress-progressives",
@@ -425,9 +641,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-14T00:32:22Z",
       "trailText": "Ilhan Omar said her caucus will ‘oppose all funding’ for immigration enforcement unless militarized policing ends",
-      "summary": "Progressive Democrats, led by Rep. Ilhan Omar, have vowed to oppose all DHS funding unless sweeping immigration enforcement reforms are enacted following the fatal shooting of US citizen Renee Nicole Good by an ICE agent in Minneapolis. The caucus demands an end to militarized policing, bans on masked ICE operations, warrants for arrests and the closure of private detention centers. With roughly 100 members threatening to block homeland security appropriations ahead of a month-end shutdown deadline, senior House and Senate Democrats joined protests and backed using the funding bill to force accountability and legal compliance.",
-      "summaryTokens": 407,
-      "generatedAt": "2026-01-15T04:10:39.592Z"
+      "summary": "Progressive Democrats in Congress, spearheaded by Rep. Ilhan Omar and Judiciary subcommittee chair Pramila Jayapal, vowed to reject any Homeland Security funding bills ahead of the end-of-month deadline unless they include major ICE reforms—prohibiting masked federal agents, mandating warrants for arrests, and eliminating private detention centers. Triggered by the Minneapolis killing of US citizen Renee Nicole Good by an ICE agent, roughly 100 House progressives, with support from Sens. Ed Markey and Chris Murphy and protesters, threaten to derail bipartisan DHS appropriations. Minnesota’s AG filed suit to stop the ICE operation; Rep. Robin Kelly filed articles of impeachment against DHS Secretary Kristi Noem.",
+      "summaryTokens": 1074,
+      "generatedAt": "2026-01-16T04:13:57.718Z"
     },
     {
       "id": "us-news/2026/jan/13/trump-administration-ends-tps-somalia",
@@ -10055,7 +10271,7 @@
     },
     {
       "id": "us-news/2025/nov/30/kristi-noem-national-guard-shooting-deportation-flights",
-      "title": "Kristi Noem claims suspect in national guard shooting was ‘radicalized’ in US",
+      "title": "Kristi Noem claims suspect in national guard shooting was ‘radicalized��� in US",
       "webUrl": "https://www.theguardian.com/us-news/2025/nov/30/kristi-noem-national-guard-shooting-deportation-flights",
       "apiUrl": "https://content.guardianapis.com/us-news/2025/nov/30/kristi-noem-national-guard-shooting-deportation-flights",
       "section": "us-news",
