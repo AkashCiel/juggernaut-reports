@@ -1,37 +1,97 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-15T04:07:26.711Z",
+    "generated_at": "2026-01-16T04:10:44.714Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-15"
+      "to": "2026-01-16"
     },
-    "article_count": 371,
+    "article_count": 376,
     "merge_info": {
-      "previous_count": 365,
-      "new_articles": 6,
-      "updated_articles": 5,
-      "total_count": 371
+      "previous_count": 371,
+      "new_articles": 5,
+      "updated_articles": 7,
+      "total_count": 376
     },
     "batch_info": {
-      "initial_batch_id": "batch_696867a6f0508190bea4a201e031270f",
+      "initial_batch_id": "batch_6969b95701a48190ad676bfe1edaef5e",
       "retry_batches": [],
-      "total_tokens": 22909,
-      "processing_time_hours": 0
+      "total_tokens": 28616,
+      "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "technology/2026/jan/15/elon-musk-xai-datacenter-memphis",
+      "title": "Elon Musk’s xAI datacenter generating extra electricity illegally, regulator rules",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis",
+      "section": "technology",
+      "publishedDate": "2026-01-16T00:09:42Z",
+      "trailText": "Win for Memphis activists who say ‘Colossus’ facilities add extra pollution to already overburdened communities",
+      "summary": "EPA ruled Elon Musk’s xAI illegally operated dozens of portable methane turbines at its Colossus 1 and 2 AI datacenters near Memphis under a local 364-day loophole. The agency affirmed all gas turbines, even temporary ones, require air quality permits under the Clean Air Act. xAI now holds permits for 12 of 15 turbines at Colossus 1; Colossus 2 (59 generators, 18 unpermitted) and a third site in Southaven still rely on unpermitted units. Activists and the NAACP sued, citing nitrogen oxide pollution harming nearby Black communities. EPA estimates up to 296 tons of annual NOx cuts by 2032; enforcement measures remain unclear.",
+      "summaryTokens": 835,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
+    },
+    {
+      "id": "technology/2026/jan/15/mother-of-one-of-elon-musks-sons-sues-over-grok-generated-explicit-images",
+      "title": "Mother of one of Elon Musk’s sons sues over Grok-generated explicit images ",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/15/mother-of-one-of-elon-musks-sons-sues-over-grok-generated-explicit-images",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/15/mother-of-one-of-elon-musks-sons-sues-over-grok-generated-explicit-images",
+      "section": "technology",
+      "publishedDate": "2026-01-15T22:35:01Z",
+      "trailText": "Ashley St Clair files lawsuit in state of New York over deepfakes that appeared on social media platform X",
+      "summary": "Rightwing influencer Ashley St Clair, mother of one of Elon Musk's sons, sued xAI in New York Supreme Court over its Grok AI tool, alleging it generated dozens of nonconsensual explicit deepfakes—including depictions of her as a 14-year-old in a bikini, adult nude images, \"Elon's whore\" tattoos and swastika bikinis. Represented by Carrie Goldberg, she seeks punitive and compensatory damages, claiming xAI ignored removal requests despite promising to stop. Musk says users are liable; X geoblocked content in some regions and countersued over venue. The filing alleges X benefited financially from the content and retaliated by demonetizing her account. X says it has zero tolerance for child sexual exploitation.",
+      "summaryTokens": 3534,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
+    },
+    {
+      "id": "technology/2026/jan/15/grok-ai-images-uk-limits-x-app-ofcom",
+      "title": "Grok AI: what do limits on tool mean for X, its users and UK media watchdog? ",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/15/grok-ai-images-uk-limits-x-app-ofcom",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/15/grok-ai-images-uk-limits-x-app-ofcom",
+      "section": "technology",
+      "publishedDate": "2026-01-15T16:07:11Z",
+      "trailText": "UK users will no longer be able to create sexualised images of real people using @Grok X account, with Grok app also expected to be restricted",
+      "summary": "Elon Musk’s X will block its Grok AI tool from generating or editing images of real people in revealing attire (bikinis, underwear) via @Grok on X and the Grok app, extending this ban to all users, including subscribers, and enforcing geoblocking in jurisdictions like the UK where distributing intimate images without consent is illegal. X also limits any Grok-generated edits to paid subscribers to improve traceability. The measure aims to address Ofcom’s formal investigation under the Online Safety Act into intimate image abuse risks. While it reduces the risk of a UK ban, Ofcom’s probe and potential fines (up to 10% of global turnover) are ongoing.",
+      "summaryTokens": 2676,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
+    },
+    {
+      "id": "technology/2026/jan/15/chatgpt-health-ai-chatbot-medical-advice",
+      "title": "‘Not regulated’: launch of ChatGPT Health in Australia causes concern among experts",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/15/chatgpt-health-ai-chatbot-medical-advice",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/15/chatgpt-health-ai-chatbot-medical-advice",
+      "section": "technology",
+      "publishedDate": "2026-01-15T14:00:21Z",
+      "trailText": "Calls for clear guardrails and consumer education before wider rollout of OpenAI’s health advice platform",
+      "summary": "OpenAI’s ChatGPT Health launched in Australia offering users tailored health advice by syncing medical records, has experts worried about unregulated medical advice and potential harm. A case of bromism from ChatGPT replacing table salt with sodium bromide highlights risks from confident but unsafe guidance. Researchers note the platform lacks peer‐reviewed evaluations, safety controls, risk reporting or regulation as a medical device. OpenAI says it collaborated with 200+ physicians and enforces privacy by default. Consumer advocates warn rising healthcare costs spur AI use, stressing the need for clear guardrails, transparency and education to prevent misinformation harming vulnerable users.",
+      "summaryTokens": 1123,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
+    },
+    {
+      "id": "technology/2026/jan/15/grok-scandal-ai-industry-too-unconstrained-yoshua-bengio-elon-musk",
+      "title": "Grok scandal highlights how AI industry is ‘too unconstrained’, tech pioneer says",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/15/grok-scandal-ai-industry-too-unconstrained-yoshua-bengio-elon-musk",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/15/grok-scandal-ai-industry-too-unconstrained-yoshua-bengio-elon-musk",
+      "section": "technology",
+      "publishedDate": "2026-01-15T11:57:17Z",
+      "trailText": "‘Godfather of AI’ Yoshua Bengio says firms building powerful systems without appropriate guardrails",
+      "summary": "The scandal over Grok’s non-consensual creation of intimate images on Musk’s X underscores AI’s unchecked growth, warns Yoshua Bengio. He criticizes frontier firms for deploying powerful models without technical or societal guardrails, causing real-world harm. At his new AI safety lab LawZero—seeded with $35m—Bengio has appointed moral heavyweights Yuval Noah Harari, Sir John Rose and Maria Eitel to its board. LawZero is developing Scientist AI to flag harmful autonomous agent behavior, reflecting his call for stronger AI governance.",
+      "summaryTokens": 550,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
+    },
+    {
       "id": "technology/2026/jan/14/elon-musk-grok-ai-explicit-images",
-      "title": "Musk’s X to block Grok AI tool from creating sexualized images of real people ",
+      "title": "Musk’s X to block Grok AI tool from creating sexualised images of real people ",
       "webUrl": "https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images",
       "apiUrl": "https://content.guardianapis.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images",
       "section": "technology",
-      "publishedDate": "2026-01-15T01:56:42Z",
-      "trailText": "Amid global backlash, billionaire had only hours earlier said he was not aware of any ‘naked underage images’",
-      "summary": "Faced with global outrage over non-consensual sexualized AI images of women and children, Elon Musk’s xAI and X will block Grok AI from generating or editing images of real people in revealing attire (e.g., bikinis) or explicit depictions. Announced hours after Musk denied awareness of any underage nude outputs, the change applies to all X users, including subscribers. xAI/X stressed zero tolerance for child sexual exploitation, non-consensual nudity and said abusers would be held accountable. The move follows US senators’ appeals to Apple and Google, investigations by California’s AG and UK Ofcom, bans in Malaysia and Indonesia and UK criminalization plans.",
-      "summaryTokens": 2162,
-      "generatedAt": "2026-01-15T04:07:26.483Z"
+      "publishedDate": "2026-01-15T09:19:12Z",
+      "trailText": "UK government claims vindication after Keir Starmer criticised earlier decision to keep functionality as ‘horrific’",
+      "summary": "Elon Musk's X said it will geoblock Grok AI from generating sexualised images of real people in bikinis, underwear, etc., for premium users in jurisdictions where illegal, including the UK, after public outcry over women and children’s nonconsensual intimate images. UK ministers, including PM Starmer and technology secretary Kendall, condemned the tool as 'horrific' and 'monetising crimes'. Ofcom has launched a formal investigation into Grok’s role in child sexual exploitation content. xAI and X face probes in California, calls from US senators to remove the tool from app stores, and bans in Malaysia and Indonesia. Changes follow new UK law criminalising such images.",
+      "summaryTokens": 950,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
     },
     {
       "id": "technology/2026/jan/14/california-attorney-general-investigates-grok-ai-elon-musk",
@@ -41,9 +101,9 @@
       "section": "technology",
       "publishedDate": "2026-01-14T20:09:38Z",
       "trailText": "AI tool made by Elon Musk’s xAI makes it easy to harass women with deepfake images, says state’s top attorney",
-      "summary": "California AG Rob Bonta launched an investigation into xAI’s Grok image generator after reports it enabled non-consensual, sexually explicit deepfake images of women and minors on X and elsewhere. Gov Gavin Newsom called it a ‘disgusting spread’ of child porn. Musk denied any underage nudes, despite Grok admitting to creating images of minors in minimal clothing. A review of 20,000+ outputs found over half featured scantily clad persons and 2% minors. US senators urged Apple and Google to remove Grok; Indonesia and Malaysia blocked it, India removed thousands of posts, Britain’s Ofcom and France’s regulators probed, and the EU digital watchdog ordered data retention through 2026.",
-      "summaryTokens": 1794,
-      "generatedAt": "2026-01-15T04:07:26.483Z"
+      "summary": "California AG Rob Bonta launched an inquiry into Elon Musk’s xAI Grok after reports that its ‘spicy mode’ image generator enabled non-consensual, sexually explicit deepfakes—targeting women and girls and including minors—on X and beyond. An AI Forensics study of 20,000+ outputs found over 50% featured lightly-clad subjects, 2% under-18. Gov. Newsom and three Democratic senators urged Apple and Google to delist Grok. Indonesia and Malaysia have blocked Grok; India reports thousands of post removals. The EU ordered X to preserve Grok data until end-2026. Regulators warn outputs facilitate harassing public figures and everyday users. Musk denies underage nudity.",
+      "summaryTokens": 2061,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
     },
     {
       "id": "technology/2026/jan/12/elon-musk-grok-ai-images-california-tax-bill",
@@ -53,9 +113,9 @@
       "section": "technology",
       "publishedDate": "2026-01-14T19:37:23Z",
       "trailText": "Musk attempts to recast AI tool’s misuse. Plus, tech billionaires plot against a proposed California tax on their fortunes",
-      "summary": "Elon Musk has downplayed Grok AI’s backlash over its sexualized image generation—some nonconsensual or underage—by highlighting dubious download rankings and free-speech defenses while shifting moderation to courts. Regulators in the UK, Indonesia and Malaysia have launched probes or restricted access, and X’s ad revenue is slumping. Meanwhile, California billionaires—except Nvidia’s Jensen Huang—are mobilizing against a proposed one-off 5% wealth tax for residents over $1bn, with Peter Thiel donating $3m and others plotting in encrypted chats to save California. At CES 2026, AI and robotics dominated, from Nvidia and AMD hardware reveals to Samsung’s dual-fold phone, Lego smart bricks and humanoid laundry-folding robots.",
-      "summaryTokens": 1035,
-      "generatedAt": "2026-01-15T04:07:26.483Z"
+      "summary": "Elon Musk has downplayed Grok’s flood of sexualized AI-generated images—some depicting non-consensual nudity and minors—misreporting app-store rankings while the UK’s Ofcom investigates xAI and the Internet Watch Foundation flags child abuse content; X’s UK revenue is down 60% and Indonesia and Malaysia have restricted access. Simultaneously, billionaires led by Peter Thiel’s $3 million donation and an encrypted “Save California” Signal group mobilize against a proposed one-off 5% wealth tax on $1 billion+ Californians—except Nvidia’s Jensen Huang supports it—and AI-driven robotics stole the show at CES, from Nvidia hardware to Hyundai’s humanoid bots.",
+      "summaryTokens": 1152,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
     },
     {
       "id": "technology/2026/jan/14/x-acting-to-comply-with-uk-law-after-outcry-over-sexualised-images",
@@ -65,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2026-01-14T19:00:18Z",
       "trailText": "New polling suggests 58% of Britons think X should be banned in the UK if the social network fails to crack down on nonconsensual images",
-      "summary": "Under mounting UK scrutiny after its AI tool Grok produced non-consensual sexualized images of women and underage girls, X has told ministers it is acting to comply with the Online Safety Act. Prime Minister Keir Starmer called the Grok outputs “disgusting” and vowed to strengthen laws and rely on Ofcom’s probe, while new polling shows 58% of Britons would back a ban if X fails to curb AI misuse. X has restricted Grok’s real-person image edits, Elon Musk denies any underage nudity, and the government plans broader bans on nudification tools amid criticism of delays and paywalling.",
-      "summaryTokens": 500,
-      "generatedAt": "2026-01-15T04:07:26.483Z"
+      "summary": "After an uproar over Grok-generated sexualised images of women and children—including claims of underage deepfakes—Elon Musk’s X told UK ministers it is “acting to ensure full compliance with UK law.” PM Keir Starmer praised the move but warned of tougher legislation under the Online Safety Act and Ofcom’s active investigation. Polling shows 58% of Britons back banning X if it fails to curb non-consensual AI nudity. Technology secretary Liz Kendall denounced xAI’s decision to restrict Grok features to paid users as monetising abuse, and MPs are debating broader bans on nudification tools.",
+      "summaryTokens": 370,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
     },
     {
       "id": "technology/2026/jan/14/young-people-parents-teachers-share-views-grok-ai-x-sexualised-images",
@@ -77,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2026-01-14T11:53:13Z",
       "trailText": "We’d like to hear from young people, parents and teachers about how Elon Musk’s controversial chatbot is affecting you",
-      "summary": "Elon Musk’s Grok AI tool continues to generate and circulate non-consensual, sexualized imagery of real women and children by digitally removing clothing, despite pledges to suspend offenders. Newly added safeguards have failed to curb misuse, sparking urgent debates over consent, online safety and AI regulation worldwide. The Guardian seeks input from young people, parents and teachers on youth awareness, shifts in discussions about consent and social media, classroom effects and broader concerns over AI-facilitated harassment and exploitation.",
-      "summaryTokens": 1045,
-      "generatedAt": "2026-01-15T04:07:26.483Z"
+      "summary": "Elon Musk’s Grok AI continues to generate and circulate digitally undressed images of real women and children, prompting concerns over consent and online safety. Despite user suspensions and new safeguards, the tool’s ease of abuse highlights regulatory gaps in fast-moving AI. Reports of AI-fueled harassment and sexual exploitation—particularly of women and girls—are escalating. The Guardian invites young people, parents and teachers to share experiences: awareness of creation risks, impacts on social media conversations, classroom behaviour changes and broader safety concerns.",
+      "summaryTokens": 602,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
     },
     {
       "id": "technology/2026/jan/14/use-of-ai-to-harm-women-has-only-just-begun-experts-warn",
@@ -89,9 +149,9 @@
       "section": "technology",
       "publishedDate": "2026-01-14T10:00:23Z",
       "trailText": "While Grok has introduced belated safeguards to prevent sexualised AI imagery, other tools have far fewer limits",
-      "summary": "Experts warn that AI tools—from Grok and ChatGPT to niche nudification apps—are enabling new forms of nonconsensual sexual imagery of women. Despite Grok’s belated guardrails, Reddit and Telegram communities share jailbreaking techniques and \"artistic nudity\" prompts to bypass limits. ISD research found dozens of nudification platforms with 21M monthly visitors and 290K X mentions, while thousands of ads slip through Meta’s controls. Anne Craanen and Nina Jankowicz highlight pipelines via mainstream app stores, and Clare McGlynn notes UK criminalisation of non-consensual intimate images may be insufficient. Labour MP Jess Asato reports that personalised deepfake attacks continue under paid-subscription models.",
-      "summaryTokens": 2181,
-      "generatedAt": "2026-01-15T04:07:26.483Z"
+      "summary": "Experts warn the use of AI to harm women via nonconsensual sexual imagery is accelerating, despite belated safeguards on some models (Grok). Users on Reddit and Telegram share “jailbreak” prompts to strip clothing and bypass filters, fueling nudification apps and forums that drew nearly 21 million visitors and 290,000 mentions. Thousands of apps on mainstream stores facilitate deepfake sexual abuse. UK law soon criminalizes nonconsensual intimate images, but academics and MPs like Jess Asato report ongoing harassment. They argue these tools perpetuate misogyny and erode democratic norms.",
+      "summaryTokens": 1514,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
     },
     {
       "id": "technology/2026/jan/13/cryptocurrency-nyc-token-eric-adams",
@@ -101,9 +161,9 @@
       "section": "technology",
       "publishedDate": "2026-01-14T01:18:05Z",
       "trailText": "NYC Token, which hit market on Monday, surged to $580m and then rapidly plummeted as firm denies wrongdoing",
-      "summary": "NYC Token, a new cryptocurrency promoted by former NYC mayor Eric Adams, soared to about $580 million market value on its Monday launch before crashing below $100 million within hours. Observers accused the project of a ‘rug pull’—early insiders selling off liquidity—based on unusual on-chain patterns flagged by analytics firm Bubblemaps. The issuing company denies wrongdoing, saying quick liquidity rebalancing was needed, and insists its team is locked and has sold no tokens. Adams’s exact role remains unclear.",
-      "summaryTokens": 274,
-      "generatedAt": "2026-01-15T04:07:26.483Z"
+      "summary": "NYC Token, a new crypto asset promoted by ex-NYC mayor Eric Adams, rocketed to a $580 m market cap post-launch then plunged under $100 m within hours. Investors flagged a possible ‘rug pull’ after large wallets seeded then rapidly withdrew liquidity. The issuing company denies wrongdoing, attributing trades to routine liquidity rebalancing, and insists its team hasn’t sold tokens, which remain under lockup. Adams hasn’t clarified his role; the token claims to fight antisemitism despite lacking formal city ties or transparency on its backers.",
+      "summaryTokens": 477,
+      "generatedAt": "2026-01-16T04:10:44.469Z"
     },
     {
       "id": "technology/2026/jan/13/trump-microsoft-data-centers-electricity",
