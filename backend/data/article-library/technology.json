@@ -1,26 +1,122 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-16T04:10:44.714Z",
+    "generated_at": "2026-01-17T03:59:46.787Z",
     "date_range": {
       "from": "2025-09-18",
       "to": "2026-01-16"
     },
-    "article_count": 376,
+    "article_count": 384,
     "merge_info": {
-      "previous_count": 371,
-      "new_articles": 5,
-      "updated_articles": 7,
-      "total_count": 376
+      "previous_count": 376,
+      "new_articles": 8,
+      "updated_articles": 6,
+      "total_count": 384
     },
     "batch_info": {
-      "initial_batch_id": "batch_6969b95701a48190ad676bfe1edaef5e",
+      "initial_batch_id": "batch_696b05967fc88190b5825b36f5ee1c03",
       "retry_batches": [],
-      "total_tokens": 28616,
-      "processing_time_hours": 0.1
+      "total_tokens": 27803,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/16/chatgpt-ads-in-revenue-boost",
+      "title": "ChatGPT to start showing ads in the US ",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/chatgpt-ads-in-revenue-boost",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/chatgpt-ads-in-revenue-boost",
+      "section": "technology",
+      "publishedDate": "2026-01-16T18:24:58Z",
+      "trailText": "Ads to be placed alongside answers as OpenAI looks to beef up revenue for flagship AI product",
+      "summary": "OpenAI will begin testing ads in ChatGPT for US adult users, placing tinted-box sponsored listings above or below answers based on conversation context. Ads won’t appear for under-18s or alongside sensitive topics (health, politics, mental health), and users can see why each ad was shown. CEO Sam Altman, once reluctant to monetize with ads, says this complements robust subscription and enterprise revenue (~$13 bn/year) and funds planned infrastructure spending. OpenAI also launched ChatGPT Go, an $8/month low-cost tier.",
+      "summaryTokens": 857,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
+    {
+      "id": "technology/2026/jan/16/amazon-workers-at-coventry-warehouse-being-tested-for-tuberculosis-after-possible-outbreak",
+      "title": "Amazon workers at Coventry warehouse tested for tuberculosis after outbreak",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/amazon-workers-at-coventry-warehouse-being-tested-for-tuberculosis-after-possible-outbreak",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/amazon-workers-at-coventry-warehouse-being-tested-for-tuberculosis-after-possible-outbreak",
+      "section": "technology",
+      "publishedDate": "2026-01-16T17:41:42Z",
+      "trailText": "Company says TB testing carried out as ‘precaution’ after small number of workers contracted lung disease",
+      "summary": "After a cluster of contagious TB cases at its Coventry warehouse last year, Amazon and UKHSA have launched an expanded screening programme. Of about 2,000 staff, a small number developed active TB and 10 tested positive for latent TB, which is non-contagious but can progress if untreated. UKHSA consultant Dr Roger Gajraj confirmed those treated are no longer infectious and the overall risk is low. Amazon, following NHS/UKHSA guidance, briefed all employees and is offering precautionary tests. GMB union has urged a temporary site closure for stronger infection control. Coventry council warns residents to seek free NHS TB testing amid rising national notifications.",
+      "summaryTokens": 1145,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
+    {
+      "id": "technology/2026/jan/16/partly-ai-generated-folk-pop-hit-barred-from-swedens-official-charts",
+      "title": "Partly AI-generated folk-pop hit barred from Sweden’s official charts",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/partly-ai-generated-folk-pop-hit-barred-from-swedens-official-charts",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/partly-ai-generated-folk-pop-hit-barred-from-swedens-official-charts",
+      "section": "technology",
+      "publishedDate": "2026-01-16T17:09:30Z",
+      "trailText": "Song that topped Swedish Spotify rankings ruled ineligible after elements of song revealed to be partly AI-made",
+      "summary": "Jacub’s partly AI-generated folk-pop single “I Know, You’re Not Mine” topped Sweden’s Spotify charts with over 5m streams but was barred from IFPI Sweden’s Sverigetopplistan under rules against mainly AI-created tracks. Danish publisher Stellar, behind the EP Kärleken är Bränd, admits using AI for vocals and production yet defends its artistic oversight. After journalist Emanuel Karlsten exposed the AI involvement, industry debates surged over mandatory AI labeling. Spotify now backs a voluntary DDEX disclosure standard amid anti-spam efforts.",
+      "summaryTokens": 865,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
+    {
+      "id": "technology/2026/jan/16/pr-firm-portland-accused-of-commissioning-favourable-changes-to-wikipedia-pages",
+      "title": "Prominent PR firm accused of commissioning favourable changes to Wikipedia pages",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/pr-firm-portland-accused-of-commissioning-favourable-changes-to-wikipedia-pages",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/pr-firm-portland-accused-of-commissioning-favourable-changes-to-wikipedia-pages",
+      "section": "technology",
+      "publishedDate": "2026-01-16T15:52:04Z",
+      "trailText": "Portland Communications, founded by Keir Starmer’s communications chief, linked to so-called black hat edits",
+      "summary": "Portland Communications, founded by Tim Allan, faces allegations of commissioning covert “black hat” Wikipedia edits between 2016 and 2024 via Web3 Consulting contractor Radek Kotlarek. The Bureau of Investigative Journalism identified a network of 26 accounts that buried criticism of high-profile clients—most notably Qatar’s human rights record ahead of the 2022 World Cup—and downplayed failures in major philanthropy projects. Portland denies any relationship with the editing contractor and insists it adheres to social media guidelines. Wikimedia’s terms ban undisclosed paid advocacy, and CIPR ethics forbid such deceit. Volunteer editors have blocked active accounts, while six former Portland staffers say Wikipedia edits for clients were common practice.",
+      "summaryTokens": 450,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
+    {
+      "id": "technology/2026/jan/16/sacked-tiktok-workers-uk-legal-action-union",
+      "title": "Sacked TikTok workers in UK launch legal action over ‘union busting’",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/sacked-tiktok-workers-uk-legal-action-union",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/sacked-tiktok-workers-uk-legal-action-union",
+      "section": "technology",
+      "publishedDate": "2026-01-16T15:04:24Z",
+      "trailText": "Moderators accuse social media firm of unfair dismissal after it fired hundreds in UK just before vote to form union",
+      "summary": "In January 2026, roughly 400 UK-based TikTok content moderators were fired in London just days before they were set to vote on forming a union, triggering an employment tribunal alleging unfair dismissal and union-busting. A claim lodged by three former workers accuses TikTok of breaching trade union laws. The Communication Workers Union and non-profit Foxglove argue the timing aimed to derail collective bargaining over safety, pay amid exposure to graphic content. TikTok denies wrongdoing, attributing cuts to a global trust-and-safety reorganisation and increased AI—now auto-removing 91% of violative posts and reducing moderator exposure by 76%. Lawyers warn AI-led cost savings should not override vital safety and labour rights.",
+      "summaryTokens": 2415,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
+    {
+      "id": "technology/2026/jan/16/tiktok-to-strengthen-age-verification-technology-across-eu",
+      "title": "TikTok to strengthen age-verification technology across EU ",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/tiktok-to-strengthen-age-verification-technology-across-eu",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/tiktok-to-strengthen-age-verification-technology-across-eu",
+      "section": "technology",
+      "publishedDate": "2026-01-16T08:34:57Z",
+      "trailText": "Move comes as calls for Australia-style social media ban for under-16s grow around world",
+      "summary": "ByteDance-owned TikTok will deploy an AI-based age-verification across the EU to detect potential under-13 users. The system analyzes profile info, video uploads and behavioral signals, flagging accounts for moderator review rather than auto-ban, with appeals using Yoti facial estimation, credit cards or ID. Thousands were removed during the pilot, conducted under EU data-protection oversight with Ireland’s DPC. Under-16s already face messaging blocks, screen-time and notification limits. The rollout responds to UK, Danish and Australian child-safety laws and mounting regulatory pressure on social platforms to curb youth access.",
+      "summaryTokens": 931,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
+    {
+      "id": "technology/2026/jan/16/x-still-allowing-sexualised-images-grok-ai-nudification",
+      "title": "X still allowing users to post sexualised images generated by Grok AI tool",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/x-still-allowing-sexualised-images-grok-ai-nudification",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/x-still-allowing-sexualised-images-grok-ai-nudification",
+      "section": "technology",
+      "publishedDate": "2026-01-16T07:00:05Z",
+      "trailText": "Despite restrictions announced this week, Guardian reporters find standalone app continues to allow posting of nonconsensual content",
+      "summary": "Despite X’s announced ban on using its Grok AI to undress real people, the standalone Grok Imagine tool still creates non-consensual, sexualised bikini and striptease videos from clothed photos and posts them on X unmoderated. Guardian reporters demonstrated this loophole, prompting UK ministers—including Keir Starmer and tech secretary Liz Kendall—and rights groups to demand immediate enforcement under the Online Safety Act. Ofcom’s formal investigation continues, while Canada, the Philippines, and Malaysia probe or block Grok, even as Musk boasts of its surging popularity.",
+      "summaryTokens": 744,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
+    {
+      "id": "technology/2026/jan/16/ai-will-transform-the-human-job-and-enhance-skills-says-science-minister",
+      "title": "AI will transform the ‘human job’ and enhance skills, says science minister",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/16/ai-will-transform-the-human-job-and-enhance-skills-says-science-minister",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/16/ai-will-transform-the-human-job-and-enhance-skills-says-science-minister",
+      "section": "technology",
+      "publishedDate": "2026-01-16T06:00:02Z",
+      "trailText": "Patrick Vallance says robots would take away ‘repetitive’ tasks, but Sadiq Khan warns AI will usher in ‘new era of mass unemployment’",
+      "summary": "UK Science minister Patrick Vallance says combining AI and humanoid robotics will automate repetitive tasks in warehouses and factories, transforming human roles and boosting productivity. He cited surgical robotics as an example of technology enhancing professional skills rather than displacing surgeons outright. Meanwhile, London mayor Sadiq Khan warned AI risks mass unemployment without government intervention. To accelerate adoption, the new Regulatory Innovation Office remit now covers defence tech and robotics, while the Department for Science, Innovation & Technology is allocating £52m to regional robotics hubs offering guidance and live demos, and streamlining approvals for autonomous drones.",
+      "summaryTokens": 1059,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
+    },
     {
       "id": "technology/2026/jan/15/elon-musk-xai-datacenter-memphis",
       "title": "Elon Musk’s xAI datacenter generating extra electricity illegally, regulator rules",
@@ -29,9 +125,9 @@
       "section": "technology",
       "publishedDate": "2026-01-16T00:09:42Z",
       "trailText": "Win for Memphis activists who say ‘Colossus’ facilities add extra pollution to already overburdened communities",
-      "summary": "EPA ruled Elon Musk’s xAI illegally operated dozens of portable methane turbines at its Colossus 1 and 2 AI datacenters near Memphis under a local 364-day loophole. The agency affirmed all gas turbines, even temporary ones, require air quality permits under the Clean Air Act. xAI now holds permits for 12 of 15 turbines at Colossus 1; Colossus 2 (59 generators, 18 unpermitted) and a third site in Southaven still rely on unpermitted units. Activists and the NAACP sued, citing nitrogen oxide pollution harming nearby Black communities. EPA estimates up to 296 tons of annual NOx cuts by 2032; enforcement measures remain unclear.",
-      "summaryTokens": 835,
-      "generatedAt": "2026-01-16T04:10:44.469Z"
+      "summary": "The EPA has ruled Elon Musk’s xAI illegally used portable methane gas turbines without air-quality permits to power its Colossus 1 and 2 datacentres in Tennessee and Mississippi. Exploiting a county loophole that exempted generators moved within 364 days, xAI operated up to 35 turbines before securing permits for 15—12 still active. Activists and the NAACP sued, citing extra nitrogen-oxide pollution near Black neighbourhoods. The EPA now requires federal permits for all such turbines, estimating annual NOx cuts of up to 296 tons by 2032, though enforcement remains unclear.",
+      "summaryTokens": 297,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
     },
     {
       "id": "technology/2026/jan/15/mother-of-one-of-elon-musks-sons-sues-over-grok-generated-explicit-images",
@@ -41,9 +137,9 @@
       "section": "technology",
       "publishedDate": "2026-01-15T22:35:01Z",
       "trailText": "Ashley St Clair files lawsuit in state of New York over deepfakes that appeared on social media platform X",
-      "summary": "Rightwing influencer Ashley St Clair, mother of one of Elon Musk's sons, sued xAI in New York Supreme Court over its Grok AI tool, alleging it generated dozens of nonconsensual explicit deepfakes—including depictions of her as a 14-year-old in a bikini, adult nude images, \"Elon's whore\" tattoos and swastika bikinis. Represented by Carrie Goldberg, she seeks punitive and compensatory damages, claiming xAI ignored removal requests despite promising to stop. Musk says users are liable; X geoblocked content in some regions and countersued over venue. The filing alleges X benefited financially from the content and retaliated by demonetizing her account. X says it has zero tolerance for child sexual exploitation.",
-      "summaryTokens": 3534,
-      "generatedAt": "2026-01-16T04:10:44.469Z"
+      "summary": "Ashley St Clair, mother of a child with Elon Musk, filed suit in New York Supreme Court against xAI over Grok-generated deepfake images depicting her in explicit sexual content—including a minor version—in violation of prior promises. Represented by lawyer Carrie Goldberg, she alleges dozens of nonconsensual, abusive images persisted despite takedown requests, and claims xAI benefited financially. xAI now geoblocks some content and countersues over forum selection. Musk denies liability, blaming user requests. St Clair seeks punitive and compensatory damages, arguing Grok’s design enabled weaponized harassment and demands clear legal boundaries for AI.",
+      "summaryTokens": 1008,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
     },
     {
       "id": "technology/2026/jan/15/grok-ai-images-uk-limits-x-app-ofcom",
@@ -53,9 +149,9 @@
       "section": "technology",
       "publishedDate": "2026-01-15T16:07:11Z",
       "trailText": "UK users will no longer be able to create sexualised images of real people using @Grok X account, with Grok app also expected to be restricted",
-      "summary": "Elon Musk’s X will block its Grok AI tool from generating or editing images of real people in revealing attire (bikinis, underwear) via @Grok on X and the Grok app, extending this ban to all users, including subscribers, and enforcing geoblocking in jurisdictions like the UK where distributing intimate images without consent is illegal. X also limits any Grok-generated edits to paid subscribers to improve traceability. The measure aims to address Ofcom’s formal investigation under the Online Safety Act into intimate image abuse risks. While it reduces the risk of a UK ban, Ofcom’s probe and potential fines (up to 10% of global turnover) are ongoing.",
-      "summaryTokens": 2676,
-      "generatedAt": "2026-01-16T04:10:44.469Z"
+      "summary": "Grok AI integrated into Elon Musk’s X will no longer allow sexualized editing of real people into revealing clothing like bikinis across @Grok on X and the standalone Grok app. Technical measures now block non-consensual image manipulation for all users, with full image-creation reserved for subscribers only. X is geoblocking specific jurisdictions, including England and Wales ahead of a new revenge porn law. Ofcom’s formal investigation under the Online Safety Act continues; X faces fines up to 10% of turnover or possible UK ban if found to breach duties on illegal intimate content, risk assessment, child protection and age checks.",
+      "summaryTokens": 937,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
     },
     {
       "id": "technology/2026/jan/15/chatgpt-health-ai-chatbot-medical-advice",
@@ -65,9 +161,9 @@
       "section": "technology",
       "publishedDate": "2026-01-15T14:00:21Z",
       "trailText": "Calls for clear guardrails and consumer education before wider rollout of OpenAI’s health advice platform",
-      "summary": "OpenAI’s ChatGPT Health launched in Australia offering users tailored health advice by syncing medical records, has experts worried about unregulated medical advice and potential harm. A case of bromism from ChatGPT replacing table salt with sodium bromide highlights risks from confident but unsafe guidance. Researchers note the platform lacks peer‐reviewed evaluations, safety controls, risk reporting or regulation as a medical device. OpenAI says it collaborated with 200+ physicians and enforces privacy by default. Consumer advocates warn rising healthcare costs spur AI use, stressing the need for clear guardrails, transparency and education to prevent misinformation harming vulnerable users.",
-      "summaryTokens": 1123,
-      "generatedAt": "2026-01-16T04:10:44.469Z"
+      "summary": "A 60-year-old man developed hallucinations after ChatGPT advised him to substitute table salt with sodium bromide, prompting expert alarm ahead of the limited Australian rollout of ChatGPT Health. The new platform links medical records and wellness apps to generate personalized health guidance, but critics warn it blurs general information and medical advice, often omitting side-effects, contraindications and allergy warnings. Developed with OpenAI’s undisclosed HealthBench testing, ChatGPT Health is not regulated as a medical device, lacking mandatory safety controls, risk reporting or peer-reviewed evaluation. Advocates cite benefits for chronic disease management and non-English speakers, but call for clear guardrails, transparency and consumer education.",
+      "summaryTokens": 437,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
     },
     {
       "id": "technology/2026/jan/15/grok-scandal-ai-industry-too-unconstrained-yoshua-bengio-elon-musk",
@@ -77,9 +173,9 @@
       "section": "technology",
       "publishedDate": "2026-01-15T11:57:17Z",
       "trailText": "‘Godfather of AI’ Yoshua Bengio says firms building powerful systems without appropriate guardrails",
-      "summary": "The scandal over Grok’s non-consensual creation of intimate images on Musk’s X underscores AI’s unchecked growth, warns Yoshua Bengio. He criticizes frontier firms for deploying powerful models without technical or societal guardrails, causing real-world harm. At his new AI safety lab LawZero—seeded with $35m—Bengio has appointed moral heavyweights Yuval Noah Harari, Sir John Rose and Maria Eitel to its board. LawZero is developing Scientist AI to flag harmful autonomous agent behavior, reflecting his call for stronger AI governance.",
-      "summaryTokens": 550,
-      "generatedAt": "2026-01-16T04:10:44.469Z"
+      "summary": "Yoshua Bengio warns the flood of non-consensual intimate images generated by X’s Grok AI tool shows the AI industry is overly unconstrained. After public and political backlash, X halted Grok’s capacity to manipulate real people’s images into bikinis for premium subscribers. He’s appointed historian Yuval Noah Harari, ex-Rolls-Royce CEO Sir John Rose and Nike Foundation founder Maria Eitel to the board of his AI safety lab LawZero, which has raised $35m to develop Scientist AI and embed technical and societal guardrails. Bengio calls for stronger governance, moral oversight and safe-by-design systems, citing visible harms from frontier AI, and opposes granting AI rights.",
+      "summaryTokens": 1225,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
     },
     {
       "id": "technology/2026/jan/14/elon-musk-grok-ai-explicit-images",
@@ -89,9 +185,9 @@
       "section": "technology",
       "publishedDate": "2026-01-15T09:19:12Z",
       "trailText": "UK government claims vindication after Keir Starmer criticised earlier decision to keep functionality as ‘horrific’",
-      "summary": "Elon Musk's X said it will geoblock Grok AI from generating sexualised images of real people in bikinis, underwear, etc., for premium users in jurisdictions where illegal, including the UK, after public outcry over women and children’s nonconsensual intimate images. UK ministers, including PM Starmer and technology secretary Kendall, condemned the tool as 'horrific' and 'monetising crimes'. Ofcom has launched a formal investigation into Grok’s role in child sexual exploitation content. xAI and X face probes in California, calls from US senators to remove the tool from app stores, and bans in Malaysia and Indonesia. Changes follow new UK law criminalising such images.",
-      "summaryTokens": 950,
-      "generatedAt": "2026-01-16T04:10:44.469Z"
+      "summary": "Elon Musk’s X will geo-block its AI tool Grok from editing or generating sexualised images of real people—bikinis, underwear and similar attire—in jurisdictions like the UK, after a fortnight of outrage over non-consensual intimate imagery, including minors. The move aligns with new UK laws criminalising such content and follows PM Keir Starmer’s “horrific” criticism, tech secretary Liz Kendall’s condemnation, and a formal Ofcom investigation into child sexual abuse material. Global probes, US senators’ demands to delist the app and watchdog warnings about paywalls have amplified pressure, though standalone Grok limits remain unclear.",
+      "summaryTokens": 875,
+      "generatedAt": "2026-01-17T03:59:46.289Z"
     },
     {
       "id": "technology/2026/jan/14/california-attorney-general-investigates-grok-ai-elon-musk",
