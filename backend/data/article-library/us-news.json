@@ -1,49 +1,289 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-17T04:04:16.373Z",
+    "generated_at": "2026-01-18T03:56:40.302Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-17"
+      "to": "2026-01-18"
     },
-    "article_count": 2363,
+    "article_count": 2384,
     "merge_info": {
-      "previous_count": 2340,
-      "new_articles": 23,
-      "updated_articles": 23,
-      "total_count": 2363
+      "previous_count": 2363,
+      "new_articles": 21,
+      "updated_articles": 25,
+      "total_count": 2384
     },
     "batch_info": {
-      "initial_batch_id": "batch_696b093c908481909fbab477b51d0fc4",
+      "initial_batch_id": "batch_696c590a8d9c8190bd36e116eb8365cc",
       "retry_batches": [],
-      "total_tokens": 100624,
+      "total_tokens": 106049,
       "processing_time_hours": 0.1
     }
   },
   "articles": [
     {
+      "id": "us-news/2026/jan/18/trump-news-at-a-glance-european-leaders-condemn-threat-of-tariffs-over-greenland",
+      "title": "Trump news at a glance: European leaders condemn threat of tariffs over Greenland",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/18/trump-news-at-a-glance-european-leaders-condemn-threat-of-tariffs-over-greenland",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/18/trump-news-at-a-glance-european-leaders-condemn-threat-of-tariffs-over-greenland",
+      "section": "us-news",
+      "publishedDate": "2026-01-18T02:11:42Z",
+      "trailText": "French president says ‘no amount of intimidation’ will make EU change course on Greenland",
+      "summary": "Donald Trump threatened escalating tariffs up to 25% on Denmark, Germany, France, the UK and other European allies until the US buys Greenland, prompting Macron’s vow that ‘no intimidation’ will sway Europe, Starmer’s condemnation, and mass marches in Greenland. Elsewhere: federal officers blinded two protesters in California; Trump’s pledge to halve US energy bills backfired as costs rose; his $1m Netflix/WBD bond holdings; a man acquitted of aiming a laser at Marine One; RFK Jr’s fat-centric diet raises health concerns; heightened hostility at US trans-rights rallies; and planned 20 January inauguration walkouts.",
+      "summaryTokens": 1082,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trump-tariff-european-countries-greenland",
+      "title": "Trump threatens 25% tariff on European allies until Denmark sells Greenland to US",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trump-tariff-european-countries-greenland",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trump-tariff-european-countries-greenland",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T22:17:27Z",
+      "trailText": "Heads of state across Europe respond in solidarity with Denmark and Greenland, and boycott of World Cup suggested",
+      "summary": "President Trump threatened new tariffs starting at 10% from Feb. 1 and rising to 25% by June on all goods from eight European NATO allies—including Denmark, Germany, France, the UK, Norway, Sweden, the Netherlands and Finland—until they agree to sell Greenland to the US. European leaders (von der Leyen, Starmer, Macron) and NATO members deployed troops in Greenland in response, condemned the coercion and discussed a World Cup boycott. US Republicans and polls show bipartisan domestic opposition, while transatlantic trade relations and Arctic security are imperiled amid legal scrutiny of Trump’s tariff authority.",
+      "summaryTokens": 745,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/laser-beam-trump-jeanine-pirro",
+      "title": "Man accused of aiming laser at Trump helicopter acquitted in 35 minutes",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/laser-beam-trump-jeanine-pirro",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/laser-beam-trump-jeanine-pirro",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T20:56:08Z",
+      "trailText": "Swift verdict of not guilty in case of Jacob Winkler another high-profile defeat for Jeanine Pirro, US attorney for DC",
+      "summary": "Jacob Winkler, a 33-year-old homeless man, was acquitted in 35 minutes of a felony charge for aiming a red laser at Marine One carrying Donald Trump. The swift not-guilty verdict marks another high-profile defeat for US Attorney Jeanine Pirro, whose office has aggressively pursued threats against federal officers under Trump’s direction. Winkler’s defenders decried wasted resources on a “cat toy keychain,” echoing an earlier failed prosecution of a man who tossed a sandwich at a CBP agent.",
+      "summaryTokens": 852,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trans-advocates-student-athletes-supreme-court",
+      "title": "‘They’re here to antagonize us’: trans advocates say hostility at rallies is up as supreme court hears key case",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trans-advocates-student-athletes-supreme-court",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trans-advocates-student-athletes-supreme-court",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T19:06:34Z",
+      "trailText": "As high court considers trans kids’ participation in school sports, tensions run high between opposing protest groups",
+      "summary": "At Supreme Court arguments in West Virginia v. BPJ—on whether transgender youth can join school sports—hundreds of trans rights activists rallied in DC for plaintiff Becky Pepper-Jackson, facing an equally large, mostly white counterprotest invoking “protect women’s sports.” Trans advocates reported escalated aggression—shoulder-checks, shoves, recording—while J. Gia Loving was detained and misgendered. They blame organized conservative groups (ADF, Moms for America Action, Save Women’s Sports) for amplified efforts. Critics warn a ruling could undermine wider LGBTQ+ rights amid Trump’s rollback of gender-affirming care. Despite hostilities, supporters chanted, danced and invoked a legacy of queer resistance.",
+      "summaryTokens": 1276,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trump-jp-morgan-chase",
+      "title": "Trump says he’ll sue JPMorgan Chase for allegedly cutting him off after US Capitol riot",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trump-jp-morgan-chase",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trump-jp-morgan-chase",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T19:02:44Z",
+      "trailText": "President also denies he ever offered JPMorgan CEO Jamie Dimon the chair of the Federal Reserve",
+      "summary": "President Trump threatened to sue JPMorgan Chase within two weeks for allegedly cutting off his banking access after the January 6 Capitol riot, repeating baseless claims of “debanking” without evidence. He denied offering Fed chair to CEO Jamie Dimon, calling a Wall Street Journal report “fake,” and reiterated unfounded 2020 election-fraud assertions. Dimon and JPMorgan flatly rejected his allegations. Last week Dimon warned Trump’s attacks on Fed independence risk higher inflation, while Trump defends confronting Fed Chair Jerome Powell amid a DOJ probe. He also slammed the Wall Street Journal’s credibility over fact-checking.",
+      "summaryTokens": 1636,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/rfk-jr-new-dietary-guidelines-health",
+      "title": "RFK Jr’s new diet guidelines pose risks for health and the environment, experts say",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/rfk-jr-new-dietary-guidelines-health",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/rfk-jr-new-dietary-guidelines-health",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T18:00:32Z",
+      "trailText": "US health department’s new food pyramid places red meat and cheese high in saturated fats over plant-based proteins",
+      "summary": "RFK Jr’s revamped Dietary Guidelines for Americans reposition red meat and full-fat dairy above plant-based proteins, raising alarms among nutrition and environmental experts. Dr Cheryl Anderson warns the oversized meat-and-cheese pyramid image contradicts written limits on saturated fats, complicating public messaging. Friends of the Earth’s Chloë Waterman criticizes the 10-page guidelines’ brevity and stakeholder pandering, noting that higher meat intake worsens climate impacts from deforestation and methane emissions. She highlights potential spikes in childhood obesity and diet-related diseases if school lunches increase animal products under USDA rules, undermining RFK Jr’s “Make America Healthy Again” goals.",
+      "summaryTokens": 491,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trump-netflix-warner-bros-discovery",
+      "title": "Trump buys $1m in Netflix and Warner Bros bonds days after saying he’ll ‘be involved’ in merger",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trump-netflix-warner-bros-discovery",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trump-netflix-warner-bros-discovery",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T17:21:38Z",
+      "trailText": "Warner Bros is also being pursued by Paramount Skydance, helmed by David Ellison, son of president’s ally",
+      "summary": "According to a White House disclosure, Trump bought over $1 million in Netflix and Warner Bros Discovery bonds days after saying he’d ‘be involved’ in their $82.7 billion merger review. He made two purchases of roughly $502 000 each on December 12 and 16, shortly after Netflix agreed to acquire WBD. Meanwhile, Paramount Skydance, backed by David and Larry Ellison, launched a $108.4 billion hostile bid. Critics including Elizabeth Warren and the Writers Guild warn the deal threatens competition, jobs, wages and content diversity. The filing reveals he bought about $100 million in muni and corporate bonds from mid-November to late December and had earlier invested over $100 million in such securities.",
+      "summaryTokens": 1282,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/philadelphia-sheriff-viral-remarks-ice",
+      "title": "‘You don’t want this smoke’: US sheriff reflects on her viral remarks about ICE",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/philadelphia-sheriff-viral-remarks-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/philadelphia-sheriff-viral-remarks-ice",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T17:00:31Z",
+      "trailText": "Philadelphia sheriff Rochelle Bilal’s words have become a rallying cry against Trump’s immigration crackdown",
+      "summary": "Philadelphia sheriff Rochelle Bilal warned ICE agents “you don’t want this smoke” at an 8 Jan press conference, denouncing the fatal Minneapolis shooting of Renee Nicole Good and dubbing ICE “fake” law enforcement under Trump’s abridged training. Her viral remarks – diverging from Mayor Parker’s more cautious stance – have fueled resistance to aggressive immigration enforcement. Bilal, who has faced race- and gender-based vitriol and death threats, vowed to uphold civil rights within her court-order remit, back DA Krasner’s pledge to arrest rogue agents, and encourage safe protest.",
+      "summaryTokens": 931,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trump-energy-bill-prices-increase",
+      "title": "How Trump’s promise to slash energy bills in half has failed across the US",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trump-energy-bill-prices-increase",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trump-energy-bill-prices-increase",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T15:00:29Z",
+      "trailText": "Guardian analysis shows electricity bills were up 6.7% last year, and much higher in some states, and gas bills up 5.2%",
+      "summary": "Guardian analysis of EIA data shows US household electricity bills rose 6.7% in 2025 ($116 more), with spikes of 23% in DC, 17% in Indiana and 15% in Illinois, while gas bills climbed 5.2%. Despite Trump’s pledge to halve energy costs in his first year, his administration’s push for oil, gas and AI-driven power demand—alongside rollbacks of renewable projects and cuts to assistance—have driven disconnections up and forced families to sacrifice essentials. Experts warn that strained infrastructure and blocked windfarms sealed the failure of his promise, even as Trump touts falling gasoline prices and “energy dominance.”",
+      "summaryTokens": 496,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/nathan-chasing-horse-actor-sexual-abuse-trial",
+      "title": "‘Brainwashing’: the shocking case of a Native American healer accused of sexual abuse",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/nathan-chasing-horse-actor-sexual-abuse-trial",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/nathan-chasing-horse-actor-sexual-abuse-trial",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T15:00:28Z",
+      "trailText": "Nathan Chasing Horse, who had part in Dances with Wolves, accused in trial that spotlights influence of ‘medicine men’",
+      "summary": "After discovering her Lakota roots, Melissa Leone joined Nathan Chasing Horse’s Circle, believing in his healing ceremonies. The former Dances with Wolves actor-now self-styled medicine man is accused of using spiritual coercion to sexually abuse adults and minors, including Leone’s daughter. In Las Vegas he faces 21 felony counts—sexual assault with a minor, first-degree kidnapping, child pornography—and his trial underscores alleged cult-like exploitation in Native communities and policing gaps.",
+      "summaryTokens": 523,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trump-campaign-manager-chris-lacivita-defamation-suit-daily-beast",
+      "title": "Trump campaign manager quietly drops defamation suit against the Daily Beast",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trump-campaign-manager-chris-lacivita-defamation-suit-daily-beast",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trump-campaign-manager-chris-lacivita-defamation-suit-daily-beast",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T15:00:04Z",
+      "trailText": "Chris LaCivita sued news outlet over 2024 story about large payments from Trump campaign to his consulting firm",
+      "summary": "Chris LaCivita, a co-manager of Donald Trump’s 2024 campaign, quietly dropped his defamation suit against the Daily Beast after ten months. He had accused the outlet’s 2024 story of fabricating claims that he personally profited from $19.2m–$22m in campaign payments, harming his reputation and seeking unspecified millions in damages. The Daily Beast, which amended its figures but made no apology or payment, stood by its reporting. This lawsuit is one example of the broader pattern of Trump and his allies using litigation to challenge critical media coverage.",
+      "summaryTokens": 551,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/buddhist-monks-walk-for-peace",
+      "title": "Buddhist monks pass halfway mark on 2,300-mile Walk for Peace through US",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/buddhist-monks-walk-for-peace",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/buddhist-monks-walk-for-peace",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T14:00:28Z",
+      "trailText": "Despite injuries, walkers and pet dog continue trek to promote ‘peace, loving kindness and compassion’ in the US",
+      "summary": "On day 83 of their 2,300-mile Walk for Peace across the US, 18 Buddhist monks led by the barefoot Venerable Bhikkhu Paññākāra have reached North Carolina, halfway to Washington DC. Departing Fort Worth on Oct 26, they traverse southern states, stopping at state capitals to promote “peace, loving kindness and compassion.” Two monks observe dhutanga—no lying down—while bandaging Paññākāra’s injured feet. After an escort-vehicle crash cost one monk a leg, rescued dog Aloka rejoined in Charlotte. With 1M+ social-media followers, they’ll petition Congress to recognize Vesak as a federal holiday.",
+      "summaryTokens": 764,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/protesters-blind-us-federal-agents",
+      "title": "US federal forces blind two protesters shot in face with ‘less-lethal’ munitions",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/protesters-blind-us-federal-agents",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/protesters-blind-us-federal-agents",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T13:00:28Z",
+      "trailText": "Kaden Rummler and Britain Rodriguez tell KTLA and LA Times of being shot at close range during California protest",
+      "summary": "At a Santa Ana, California, anti-ICE protest on Jan. 17, federal homeland security officers shot two demonstrators—21-year-old Kaden Rummler and 31-year-old Britain Rodriguez—at close range with ‘less-lethal’ munitions, blinding them. Video shows agents firing at face level from a few feet and dragging Rummler into a federal building. Doctors removed glass, plastic and metal fragments near his carotid artery. DHS, labeling protesters a “mob,” denies wrongdoing; local officials call the vigil for Renee Good peaceful. Experts warn such head strikes violate use-of-force policies and risk escalation.",
+      "summaryTokens": 687,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trump-inauguration-walkouts-explainer",
+      "title": "Trump inauguration anniversary walkouts: here’s what to know",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trump-inauguration-walkouts-explainer",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trump-inauguration-walkouts-explainer",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T13:00:27Z",
+      "trailText": "Amid escalating ICE raids and attacks on gender-affirming care, organizers ask people to join ‘Free America Walkout’",
+      "summary": "On January 20, marking Trump’s inauguration anniversary, the Women’s March has called a nationwide “Free America Walkout,” urging employees, students and community members to withdraw labor and commerce at 2 pm local time to protest escalated ICE raids, attacks on gender-affirming care, healthcare cuts and National Guard deployments. Instead of mass weekend rallies, over 600 local weekday actions—from congressional office visits and mutual aid events to rallies and craft circles—are scheduled. Organizers frame this as a “stress test,” partnering with sociologist Dana Fisher to gauge its impact, citing 1968 East LA student walkouts as a precedent for systemic change.",
+      "summaryTokens": 1710,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/marco-rubio-trump-foreign-policy",
+      "title": "Principles jettisoned, is former Trump foe Marco Rubio playing the long game?",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/marco-rubio-trump-foreign-policy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/marco-rubio-trump-foreign-policy",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T12:00:25Z",
+      "trailText": "The secretary of state – a neoconservative foreign policy hawk turned America First cheerleader – has defied expectations that he would not last in Trump’s cabinet",
+      "summary": "After clashing as rival 2016 candidates, neocon hawk Marco Rubio has reinvented himself as Donald Trump’s pliant secretary of state and national security adviser, shedding his once-staunch democracy and human rights agenda for an America First posture. Rubio quietly brokered Trump’s breakthrough decision to threaten military action in Venezuela, while tolerating USAID cuts, restricting 75 countries’ immigrant visas and striking deals with illiberal regimes like El Salvador. Marginalized in Russia, Ukraine and Middle East diplomacy, he survives Trump’s public rebukes — note-passing, “shitty shoes” jabs — by adapting ambitions toward a possible 2028 White House bid.",
+      "summaryTokens": 1077,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/minneapolis-twin-cities-ice-dispatch",
+      "title": "‘Make no mistake, this is an occupation’: ICE’s deadly presence casts long shadow over Minneapolis",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/minneapolis-twin-cities-ice-dispatch",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/minneapolis-twin-cities-ice-dispatch",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T11:00:25Z",
+      "trailText": "Classrooms have emptied, shops have shut, and the mood is tense – but as the federal operation has ramped up, so has residents’ response",
+      "summary": "Since early December, ICE has deployed over 3,000 armed agents—outnumbering Minneapolis police five to one—to arrest immigrants and residents on commutes, in grocery stores, churches and schools. After a federal officer killed Renee Good, parents, volunteers with whistles and legal observers patrol neighborhoods, while many shops, classrooms and Somali‐owned businesses remain shuttered in fear. Trump has threatened to invoke the Insurrection Act and the DOJ is probing state and city officials for ‘impeding’ ICE. Mutual‐aid hubs distribute supplies as an ACLU class‐action alleges widespread racial profiling in what locals call an occupation.",
+      "summaryTokens": 293,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/minneapolis-ice-shooting-media-coverage",
+      "title": "How local and national news outlets are covering the aftermath of ICE shooting: ‘Get there, bear witness, ask questions’ ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/minneapolis-ice-shooting-media-coverage",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/minneapolis-ice-shooting-media-coverage",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T11:00:25Z",
+      "trailText": "Strong media presence in Minneapolis has ensured Renee Good’s shooting, and its fallout, has received wide coverage",
+      "summary": "After a federal ICE agent shot and killed Renee Good in Minneapolis, robust local (Star Tribune, MPR, Sahan Journal) and national outlets (CNN, Guardian, MS NOW, CBS) deployed seasoned journalists (Jimenez, Hennessey, Tabet, Burks, Sganga), sustaining coverage of protests, clashes, a second federal shooting and a CNN crew struck by projectiles. Despite debates over “parachute” reporting, locals welcomed national scrutiny. Experts predict Minneapolis will remain a hotspot for ICE enforcement and counter-protests as media attention endures amid ongoing tensions.",
+      "summaryTokens": 1249,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/trump-reversal-cuts-mental-health-substance-abuse",
+      "title": "‘It’s whiplash’: reversed cuts ‘incredibly disruptive’ for US mental health and substance abuse programs",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/trump-reversal-cuts-mental-health-substance-abuse",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/trump-reversal-cuts-mental-health-substance-abuse",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T11:00:24Z",
+      "trailText": "Grantees outline risks to vulnerable populations over uncertainty of funds creating gaps in care",
+      "summary": "Funding for nearly 2,800 mental health and substance use programs, including HIV counseling in Alabama, trauma therapy in Tennessee and first responder training in New Hampshire, was abruptly rescinded by SAMHSA then quickly reinstated, leaving grantees to scramble over payroll, layoffs and care gaps. Leaders warn this whiplash disrupts services for vulnerable populations, erodes trust and hinders future planning. They urge stable, transparent funding insulated from political shifts to sustain long-term behavioral health equity, especially in Black and rural communities.",
+      "summaryTokens": 535,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/republicans-trump-greenland",
+      "title": "Republican dissent as key figures warn Trump against Greenland pursuit",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/republicans-trump-greenland",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/republicans-trump-greenland",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T10:00:24Z",
+      "trailText": "Congressional Republicans criticize ‘absurd’ idea as polls show most Americans oppose taking control of territory",
+      "summary": "After Trump revived calls to seize Greenland following the raid that captured Venezuela’s Nicolás Maduro, prominent Senate Republicans—Thom Tillis, Don Bacon and former leader Mitch McConnell—publicly denounced the proposal as absurd, warning it would fracture NATO ties, damage the president’s legacy and risk his reelection. Polls show most Americans oppose annexation, Denmark insists on Greenland’s sovereignty, and European troops have deployed in solidarity. Centrist Republicans like Lisa Murkowski and Mike Turner likewise urge treating Greenland as an ally, not assets.",
+      "summaryTokens": 466,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/17/nazis-us-domain-homeland-security",
+      "title": "US House candidate buys nazis.us domain to redirect visitors to homeland security",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/17/nazis-us-domain-homeland-security",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/17/nazis-us-domain-homeland-security",
+      "section": "us-news",
+      "publishedDate": "2026-01-17T09:00:21Z",
+      "trailText": "Mark Davis, running in Florida, says he bought domain because Republican party had gone ‘full fascist’",
+      "summary": "Florida congressional hopeful Mark Davis bought nazis.us on Jan 13 and redirected it to the Department of Homeland Security site as a protest against what he calls the Republican party’s “full fascism.” Running as an unaffiliated challenger to Vern Buchanan, he pointed to ICE’s brutal immigration crackdowns—including the killing of Minneapolis woman Renee Nicole Good—likened to Gestapo tactics. DHS says it blocked the redirect, yet nazis.us still led to dhs.gov. Davis framed his action as a lone stand after establishment figures stayed silent; online reactions ranged from praise for his principled stand to mockery and vows to unseat him.",
+      "summaryTokens": 939,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
       "id": "us-news/2026/jan/16/us-doj-minnesota-tim-walz-jacob-frey-inquiry",
-      "title": "US justice department to inquire into Minnesota leaders for alleged conspiracy to obstruct ICE",
+      "title": "Minnesota leaders decry targeting by US justice department over ICE turmoil",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/16/us-doj-minnesota-tim-walz-jacob-frey-inquiry",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/16/us-doj-minnesota-tim-walz-jacob-frey-inquiry",
       "section": "us-news",
-      "publishedDate": "2026-01-17T03:02:23Z",
-      "trailText": "Tim Walz, state’s Democratic governor and Jacob Frey, Minneapolis mayor, have been vocal critics of immigration crackdown",
-      "summary": "The US Justice Department has launched an extraordinary probe into Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey, accusing them of conspiring to obstruct ICE’s immigration crackdown. Federal subpoenas followed protests over ICE officer Jonathan Ross’s fatal shooting of Renee Good, with DHS deploying some 3,000 enforcement agents and the FBI refusing to aid the state inquiry. Walz and Frey denounced the action as politically motivated intimidation—echoing investigations of Senators Slotkin, Kelly and Fed Chair Powell—while Deputy AG Todd Blanche vowed to curb their “terrorism by whatever means necessary.”",
-      "summaryTokens": 869,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "publishedDate": "2026-01-17T04:18:11Z",
+      "trailText": "Governor Tim Walz says ‘weaponizing the justice system is an authoritarian tactic’ as he and Minneapolis mayor Jacob Frey reportedly will be subpoenaed",
+      "summary": "The US Justice Department has launched an unprecedented federal investigation into Minnesota governor Tim Walz and Minneapolis mayor Jacob Frey, subpoenaing them over alleged obstruction of the Trump administration’s ICE deportation operation. The probe follows protests against ICE agent Jonathan Ross’s shooting of Renee Good and a massive DHS deployment of 3,000 officers. Walz decries “weaponizing the justice system,” Frey vows defiance, and DOJ deputy AG Todd Blanche has publicly threatened them. The inquiry reflects escalating federal-local clashes and politically motivated prosecutions under Trump.",
+      "summaryTokens": 1180,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/trump-news-at-a-glance-gaza-board",
-      "title": "Trump news at a glance: president creates Gaza ‘board of peace’ – now what?",
+      "title": "Trump news at a glance: president creates Gaza ‘board of peace’",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/16/trump-news-at-a-glance-gaza-board",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/16/trump-news-at-a-glance-gaza-board",
       "section": "us-news",
-      "publishedDate": "2026-01-17T02:08:53Z",
+      "publishedDate": "2026-01-17T04:03:50Z",
       "trailText": "Each board member will manage ‘defined portfolio critical to Gaza’s stabilization and long-term success’, according to White House",
-      "summary": "President Trump announced a seven-member “board of peace” to oversee Gaza’s reconstruction and transitional administration under a fragile Israel-Hamas ceasefire. Chaired by Trump, members include Secretary of State Marco Rubio, former UK PM Tony Blair, Jared Kushner, envoy Steve Witkoff and World Bank president Ajay Banga, each tasked with defined portfolios—governance, regional relations, reconstruction, investment and capital mobilization. The initiative follows Israel’s demolition of surviving Gaza structures and hinges on contested Hamas disarmament as part of the US-brokered phase-two plan.",
-      "summaryTokens": 481,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Donald Trump announced a seven-member “board of peace” to oversee Gaza’s stabilization and reconstruction amid a fragile ceasefire with Hamas. Trump chairs the panel, which includes Secretary of State Marco Rubio, former UK PM Tony Blair, son-in-law Jared Kushner, envoy Steve Witkoff and World Bank president Ajay Banga; further appointees are pending. Each member will manage portfolios ranging from governance and regional relations to funding mobilization. Observers note ongoing Israeli demolitions in controlled areas and Hamas’s refusal to fully disarm. Critics question the board’s efficacy and Trump’s simultaneous bellicose rhetoric.",
+      "summaryTokens": 1456,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/keith-porter-jr-ice-killing",
@@ -53,9 +293,21 @@
       "section": "us-news",
       "publishedDate": "2026-01-17T01:07:55Z",
       "trailText": "After Renee Good’s killing in Minneapolis, calls grow for accountability in the shooting of Keith Porter Jr on New Year’s Eve",
-      "summary": "On New Year’s Eve outside his LA apartment complex, 43-year-old father Keith Porter Jr. was shot dead by off-duty ICE agent Brian Palacios. Authorities say Porter fired ‘celebratory’ shots, prompting a defensive response; no video or shell-casing evidence confirms a firefight. Porter’s family and Black Lives Matter LA activists demand Palacios’ arrest and prosecution, citing ICE’s pattern of misleading accounts and the recent Minneapolis killing of Renee Good. Protesters have pressed the LAPD commission and city council for transparency and charges. Loved ones recall Porter as a devoted ‘girl dad’ and community pillar, calling for justice.",
-      "summaryTokens": 1657,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Keith Porter Jr, a 43-year-old LA father of two, was fatally shot New Year’s Eve by off-duty ICE agent Brian Palacios outside his Northridge apartment. ICE claims Porter fired at Palacios; family lawyer Jamal Tooson and witnesses say he was firing celebratory shots. Activists, Black Lives Matter LA, and local politicians have rallied, demanding Palacios’s arrest, name disclosure and criminal charges. Spurred by the recent ICE killing of Renee Good in Minneapolis, critics call for transparency, an end to ICE’s violent tactics and justice as LAPD and prosecutors investigate.",
+      "summaryTokens": 680,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
+    },
+    {
+      "id": "us-news/2026/jan/16/trump-gaza-board-rubio-blair",
+      "title": "Trump appoints Blair, Kushner and Rubio to Gaza ‘board of peace’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/16/trump-gaza-board-rubio-blair",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/16/trump-gaza-board-rubio-blair",
+      "section": "us-news",
+      "publishedDate": "2026-01-16T23:41:46Z",
+      "trailText": "White House says seven-strong board, chaired by Trump, will steer Gaza through next phase of reconstruction",
+      "summary": "Donald Trump has created a seven-member “board of peace” to steer Gaza’s reconstruction and governance, chaired by himself and including the US secretary of state, Sen. Marco Rubio, ex-PM Tony Blair, Jared Kushner, Steve Witkoff and World Bank president Ajay Banga, with more appointments pending. Each member has defined portfolios in governance capacity, regional relations, reconstruction and capital mobilization. Senior advisers Aryeh Lightstone and Josh Gruenbaum will handle operations, and Nickolay Mladenov is named High Representative. Launched as phase two of the US-brokered ceasefire plan after hostage releases, it faces aid shortages, ongoing demolitions and Hamas’s non-disarmament, drawing congressional criticism.",
+      "summaryTokens": 1341,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/boy-allegedly-shoots-father-nintendo-switch",
@@ -65,9 +317,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T22:00:33Z",
       "trailText": "Pennsylvania boy facing criminal homicide charges after 13 January shooting at family’s home",
-      "summary": "In Duncannon Borough, PA, on 13 January 2026, an 11-year-old boy allegedly retrieved his father’s loaded handgun from their connected bedrooms after having his Nintendo Switch taken away. Celebrating his birthday, he shot his 42-year-old father, Douglas Dietz, in the head as the couple slept. Police say he admitted in an affidavit to loading and firing the gun in anger at bedtime, then telling his mother, “I killed Daddy.” The boy is held on criminal homicide charges with a bail hearing scheduled 22 January. The case spotlights children’s easy access to firearms in US homes.",
-      "summaryTokens": 1006,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "An 11-year-old boy in Duncannon Borough, Pennsylvania, allegedly shot and killed his 42-year-old father, Douglas Dietz, in the early hours of 13 January after his Nintendo Switch was confiscated. Police say the child retrieved a gun from his father’s safe using a key found in a drawer, loaded it, entered his parents’ connected bedrooms, and fired a shot to the head. Upon officers’ arrival at around 3:20 am, Dietz was found dead in bed; the boy reportedly told authorities “I killed Daddy.” The juvenile faces criminal homicide charges, was denied bail, and has a hearing set for 22 January.",
+      "summaryTokens": 947,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/timothy-busfield-child-abuse-charges-melissa-gilbert",
@@ -77,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T21:27:13Z",
       "trailText": "Actor held without bond in New Mexico on child abuse charges stemming from twin brothers’ complaint",
-      "summary": "Timothy Busfield, 68, is held without bond in Albuquerque on two counts of criminal sexual contact with minors and one of child abuse, accused by two 11-year-old twins from the set of The Cleaning Lady. His wife, actress Melissa Gilbert, issued a statement supporting him, requesting privacy and honoring legal counsel’s request to refrain from public comment. Busfield denies the charges in a TMZ video. Prosecutors cite prior allegations—a 2001 audition incident at Sacramento’s B Street Theatre, a 1994 Little Big League case and a 2012 theatre complaint—none of which led to convictions. The Cleaning Lady ran four seasons through 2025; Warner Bros. found no corroboration. Gilbert deactivated her Instagram, canceled a Modern Prairie event, and friend Glenn Scarpelli posted moral support.",
-      "summaryTokens": 1110,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Actor Timothy Busfield, 68, was ordered held without bond in Albuquerque on charges of criminal sexual contact with two 11-year-old twin boys from Fox’s The Cleaning Lady set and one count of child abuse. He vehemently denies the allegations. His wife, Melissa Gilbert, issued a statement expressing support and requesting privacy while the legal process unfolds. Prosecutors pointed to a 1994 assault claim on Little Big League’s set, a 2001 allegation at Sacramento’s B Street Theatre and a 2012 incident in a Los Angeles cinema. A Jan. 20 hearing may consider conditional release; Warner Bros. reports its investigation found no corroboration.",
+      "summaryTokens": 823,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/virginia-vote-abortion-rights",
@@ -89,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T21:07:04Z",
       "trailText": "Lawmakers’ decision makes Virginia at least third US state in 2026 to vote on future of abortion access",
-      "summary": "Virginia’s Democratic-controlled legislature approved for the second time a proposed constitutional amendment guaranteeing “fundamental reproductive freedom,” sending it to the November 2026 ballot. If ratified, the measure enshrines abortion rights—while still allowing third-trimester regulations—and cements Virginia’s role as a key abortion access hub after monthly procedures rose from under 2,500 pre-Roe to 3,500 by mid-2025. Missouri, Nevada, Idaho, Montana, Nebraska and Oregon will also vote on abortion measures this year.",
-      "summaryTokens": 915,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Virginia’s Democrat-led legislature approved a second consecutive vote on a proposed constitutional amendment to enshrine abortion rights, sending the measure to a November referendum. After Roe’s 2022 reversal, Virginia has become a regional refuge—monthly abortions rose from under 2,500 to 3,500 by mid-2025—as Democrats under newly elected governor Abigail Spanberger push to guarantee “fundamental right to reproductive freedom” while still allowing third-trimester regulations. Virginia joins Nevada and Missouri in 2026 abortion ballots; activists eye further votes in Idaho, Montana, Nebraska and Oregon.",
+      "summaryTokens": 609,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/trump-administration-mistake-college-student-detained",
@@ -101,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T20:59:29Z",
       "trailText": "Any Lucía López Belloza was detained at Boston’s airport in November and flown to Honduras two days later",
-      "summary": "Any Lucía López Belloza, a 19-year-old Babson College freshman, was detained at Boston’s airport on November 20 and flown to Honduras two days later despite a November 21 court order halting removal for 72 hours. In federal court this week, the Trump administration apologized, calling it an inadvertent mistake by one ICE officer who failed to activate the judicial-review alert system, but argued the error doesn’t affect her underlying deportation order from 2016. López Belloza, now studying remotely in Honduras, and her lawyer seek a plan for her return, while a judge weighs jurisdiction and due process concerns.",
-      "summaryTokens": 366,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Any Lucía López Belloza, 19, a Babson College freshman, was detained at Boston's airport on November 20 and deported to Honduras despite a November 21 emergency court order barring removal 72 hours. In federal court, the Trump administration apologized and attributed the error to an ICE officer’s failure to activate a judicial-hold system, but argued the mistake shouldn’t affect her immigration case. Her initial deportation was ordered by an immigration judge in 2016 and appeals were dismissed in 2017. Her lawyer has filed to compel her return, citing due-process violations.",
+      "summaryTokens": 2278,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/utah-valley-university-president-resigns-charlie-kirk",
@@ -113,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T20:03:21Z",
       "trailText": "Astrid Tuminez will step down as Utah Valley University president in May as school still reckons with Kirk’s murder",
-      "summary": "Utah Valley University president Astrid Tuminez, the first woman, person of color and immigrant to hold the post, announced she will resign in early May. Her decision follows a year of personal loss—the sudden death of her husband—and institutional crisis after the campus assassination of far-right commentator Charlie Kirk. During Tuminez’s near-eight-year tenure, UVU grew enrollment by 20%, doubled its endowment to $129m and launched new AI, fintech and constitutional studies centers. She warns political pressure and restrictive immigration threaten higher education’s global role.",
-      "summaryTokens": 799,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Astrid Tuminez, 61, Utah Valley University’s seventh president – and its first woman, person of colour and immigrant in the role – will step down in May after nearly eight years. Announced during her State of the University address, her departure follows the sudden death of her husband in February 2025 and the campus assassination of conservative commentator Charlie Kirk in September. Under her leadership, UVU’s enrollment rose over 20%, its endowment grew from $55m to $129m, graduation rates improved and new AI, fintech and constitutional studies centers were established. Tuminez navigated heightened political pressures on free speech, immigration and campus safety and says she plans to pause before pursuing her next chapter.",
+      "summaryTokens": 700,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/virginia-redistricting-democrats-vote",
@@ -125,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T19:39:05Z",
       "trailText": "Virginia joins states from California to Florida in mid-decade redistricting push after party-line senate vote",
-      "summary": "Virginia lawmakers advanced a measure sending an April referendum to let Democrats redraw the state’s congressional map mid-decade, bypassing the bipartisan commission created in 2021 after it deadlocked. The state supreme court had imposed the previous map when that panel failed to agree. Under the proposed amendment, Democrats could boost their delegation from six to nine or ten seats, netting four new Democratic-leaning districts. The move parallels GOP-led mid-cycle redraws in Texas, North Carolina, Missouri, Florida and Ohio and Democratic efforts in California and Utah. Controlling both chambers and the governor’s office, Virginia Democrats will unveil their map ahead of the referendum.",
-      "summaryTokens": 1068,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Virginia lawmakers approved sending an amendment to an April referendum allowing the Democratic-controlled legislature to redraw congressional maps, bypassing the stalled bipartisan panel. Democrats, who currently hold six of 11 districts, aim to secure nine or ten seats by adding up to four Democratic-leaning districts. They plan to unveil their map ahead of the vote. This mid-decade redistricting push follows similar GOP efforts in Texas, Missouri, North Carolina and Florida and Democratic redistricting in California and Utah, marking a major opportunity for Democrats to add House seats.",
+      "summaryTokens": 988,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/authoritarian-trump-court-protection-order",
@@ -137,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T19:32:11Z",
       "trailText": "Reagan appointee moves to protect those challenging arrest and deportation of pro-Palestinian activists",
-      "summary": "US District Judge William Young, a Reagan appointee, will issue a protection order barring the Trump administration from revoking or changing the immigration status of noncitizen academics who joined a lawsuit over the arrest and deportation of pro-Palestinian scholars Mahmoud Khalil and Rümeysa Öztürk. Branding Trump “authoritarian,” Young found that his cabinet secretaries violated the First Amendment by chilling foreign academics’ speech and will require the government to justify any removal as bona fide. The injunction targets members of AAUP and MESA; the White House decries it as judicial activism, and an appeals court has since reopened Khalil’s case.",
-      "summaryTokens": 560,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "US district judge William Young, a Reagan appointee, branded Donald Trump “authoritarian” and accused his administration of punishing noncitizen, pro-Palestinian academics. He announced an impending order barring status changes in retaliation against scholars challenging deportations of Mahmoud Khalil and Rümeysa Öztürk, presuming any action punitive and forcing the government to justify removals. Young, who in September ruled state and DHS officials chilled free speech and likened tactics to the Fugitive Slave Act, will limit relief to members of the American Association of University Professors and Middle East Studies Association after the administration appealed his last decision. A federal appeals court on Thursday reinstated Khalil’s deportation risk, prompting his planned appeal.",
+      "summaryTokens": 1793,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/minnesota-congress-democrats-ice-hearing",
@@ -149,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T18:41:45Z",
       "trailText": "Congress members hold field hearing in St Paul, warning of future investigation into federal agents’ deadly use of force",
-      "summary": "A delegation of Democratic lawmakers—including Reps. Ilhan Omar, Pramila Jayapal and Betty McCollum—plus Minnesota AG Keith Ellison and St. Paul Mayor Kaohly Her held an ‘accountability’ field hearing in St. Paul to denounce Trump’s ICE enforcement surge as inflicting “trauma and terror.” They branded the operation “kidnapped and disappeared,” demanded preservation of records for a federal probe into the fatal shooting of Renee Nicole Good, cited ACLU polling backing independent review and pledged subpoenas to curb what they called unconstitutional, lethal use of force.",
-      "summaryTokens": 481,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "At a St Paul “Kidnapped and Disappeared” field hearing, Democratic lawmakers led by Ilhan Omar and Pramila Jayapal condemned Trump’s ICE enforcement surge in Minnesota as inflicting “trauma and terror” after ICE officer Renee Nicole Good’s fatal shooting. They denounced warrantless raids, detentions of US citizens, broken car windows, pepper-sprayed teens and alleged constitutional violations. State AG Keith Ellison and mayors Jacob Frey and Kaohly Her labeled the operation a “military occupation,” called for records preservation ahead of subpoenas and pledged independent probes, citing ACLU polling that 71% back an investigation.",
+      "summaryTokens": 1016,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/ice-agent-local-police-abuse",
@@ -161,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T18:21:25Z",
       "trailText": "Federal agents face widespread accusations of misconduct – but Trump administration leaders won’t prosecute them",
-      "summary": "In response to unchecked ICE misconduct under the Trump administration’s immunity rhetoric, a growing number of US cities (Philadelphia, Chicago, Portland, Charlotte, Minneapolis) are mandating local law enforcement to monitor, document and potentially arrest ICE agents for alleged abuses. Officials including Philly Sheriff Bilal, Boston Mayor Wu, Minneapolis Mayor Frey and New York AG James have launched FOIA requests, evidence portals and accountability commissions. California’s No Secret Police and No Vigilantes Acts (now stayed) seek to require federal officer identification and permit local arrests. Experts note states can prosecute federal officers exceeding lawful duties.",
-      "summaryTokens": 733,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Facing immunity granted by the Trump administration and amplified by Stephen Miller, ICE agents accused of misconduct have prompted municipal and state leaders in Philadelphia, Chicago, Portland, Charlotte, Boston and Minneapolis to bar local cooperation, monitor federal arrests and pursue civil and criminal remedies. Legal experts say states may prosecute federal officers when they exceed lawful duties. Measures include Boston FOIA orders, New York’s online evidence portal, Illinois accountability commissions and California laws requiring ICE agent identification—now stalled by a DHS court challenge.",
+      "summaryTokens": 1097,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/ice-racial-profiling-callout",
@@ -173,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T18:09:17Z",
       "trailText": "We’d like to hear from people of color who believe they have been targeted by immigration agents because of their race, language or location",
-      "summary": "Following Trump’s intensified immigration sweeps, people of color report ICE agents in Minneapolis and nationwide racially profiling US citizens and residents. In Minnesota, ICE and CBP target Latino and Somali neighborhoods; ACLU’s Jan 15 class-action suit alleges unlawful stops of three Minnesotan citizens, including a man detained by masked agents and others forced to show papers while charging EVs. The Guardian solicits accounts from people of color nationwide who believe ICE targeted them based on race, language or location.",
-      "summaryTokens": 779,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Amid the Trump administration’s intensified immigration sweeps, Latino, Somali and other communities of color in Minneapolis report ICE agents unlawfully stopping, questioning and demanding proof of legal status—from masked raids on US citizens to requests for documentation while charging electric vehicles. The ACLU and co-counsel filed a class-action suit on Jan 15 alleging racial profiling and illegal arrests of Minnesotans. Across the US, people of color describe altering daily routines—keeping passports at hand, avoiding public outings—to evade ICE. US citizens and permanent residents of color are invited to share recent profiling experiences.",
+      "summaryTokens": 542,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/minnesota-ice-shooting-police-reports",
@@ -185,21 +437,21 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T17:30:02Z",
       "trailText": "Transcripts of 911 calls and police communications after ICE agent killed Renee Good reveal chaotic scene",
-      "summary": "Police and fire incident reports and 911 transcripts detail the Jan. 7 Minneapolis shooting of 37-year-old Renee Good by ICE agent Jonathan Ross. Paramedics arrived at 9:42 am to find Good unresponsive with multiple gunshot wounds to chest, arm and head; CPR continued until 10:30 am. 911 callers reported ICE agents firing point-blank, crowd unrest and EMS backup requests. Law enforcement logs note escalating hostility, agent removal and federal command communications. Trump officials claim self-defense, while state leaders and video dispute this. Good’s death sparked protests, prompting threats to invoke the Insurrection Act and deploy more federal agents.",
-      "summaryTokens": 953,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "New Minneapolis police, fire and 911 records show paramedics arriving at Renee Good’s car at 9:42 am on Jan. 7, finding her unresponsive with multiple gunshot wounds after ICE agent Jonathan Ross fired at her. Reports outline tourniquet and CPR efforts until 10:30 am, and law enforcement communications about crowd control, the agent’s removal to federal custody, and ICE’s withdrawal amid hostile protests. Eyewitness calls contest the administration’s self-defense claims, sparking ongoing demonstrations and political debate over ICE operations.",
+      "summaryTokens": 1311,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/kevin-hassett-fed-investigation",
-      "title": "Trump’s economic adviser expects there is ‘nothing to see’ as justice department investigates Fed",
+      "title": "‘Nothing to see’: Trump’s economic adviser plays down Fed investigation",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/16/kevin-hassett-fed-investigation",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/16/kevin-hassett-fed-investigation",
       "section": "us-news",
       "publishedDate": "2026-01-16T16:55:17Z",
       "trailText": "Kevin Hassett, a top contender to replace Jerome Powell, suggests he believes Powell told truth about Fed renovation",
-      "summary": "Kevin Hassett, Trump’s chief economic adviser and top contender to replace Fed Chair Jerome Powell, downplays DOJ’s criminal probe into Fed headquarters renovations, asserting he expects ‘nothing to see here.’ He backs Powell’s claim that cost overruns stemmed from asbestos removal and faults the Fed for lacking transparency before Congress. Hassett pledges to uphold central bank independence and transparency as chair. His comments follow grand jury subpoenas tied to the project, Trump’s legal threats, and condemnation of the investigation by former Fed leaders and other central banks. Trump praised Hassett’s TV appearance and signaled reluctance to lose him at the National Economic Council.",
-      "summaryTokens": 1385,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Kevin Hassett, Trump's top economic adviser and leading candidate to replace Fed Chair Jerome Powell, downplayed the DOJ's criminal probe into the Fed's DC headquarters renovation. Interviewed on Fox Business, he said he expects \"nothing to see here,\" credits Powell's claim that cost overruns stemmed from asbestos removal, and urged greater transparency in Fed testimony. The investigation follows grand jury subpoenas over alleged misstatements to Congress. Former Fed chairs and global central banks condemned the probe. Hassett pledged to defend Fed independence and transparency if appointed chair. Trump praised Hassett's remarks and indicated reluctance to lose him from the economic council.",
+      "summaryTokens": 1896,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/california-sensitive-information-voters",
@@ -209,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T16:23:29Z",
       "trailText": "Federal judge rules Trump administration’s efforts to obtain information on voters in the state is threat to democracy",
-      "summary": "US district judge David Carter dismissed the Justice Department’s suit demanding California voter data—including dates of birth and SSN fragments—ruling federal centralization of such sensitive records would chill voter registration and imperil democracy. The Trump administration has pursued similar NVRA- and Civil Rights Act–based lawsuits in 23 states and DC, provoking voting-rights activists’ alarm over potential noncitizen-exclusion claims. Carter condemned the pretextual rationale, reaffirmed state election authority, and cautioned Congress alone may override privacy safeguards.",
-      "summaryTokens": 846,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "In a blow to the Trump administration, US District Judge David Carter ruled the Justice Department cannot access California voter data—birth dates and partial SSNs—dismissing its lawsuit as a threat to democracy. DOJ had filed similar suits in 23 states and DC under the NVRA and a Civil Rights Act provision, seeking to centralize sensitive records and compare them with DHS immigration data. Carter warned such federal overreach chills registration and violates privacy, stressing only Congress may authorize broad data collection. Voting rights advocates hailed the decision as reinforcing state control over elections and safeguarding against pretextual federal demands ahead of 2026 midterms.",
+      "summaryTokens": 803,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/minneapolis-st-paul-federal-immigration-agents-callout",
@@ -221,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T16:21:00Z",
       "trailText": "We want to hear from people in Minnesota about the surge of thousands of federal immigration agents in the area",
-      "summary": "In Minneapolis and St Paul, thousands of federal ICE agents have deployed following protests over the shooting of Renee Good by an ICE officer. Demonstrations in Minnesota and nationwide have intensified as the ACLU sues the Trump administration for alleged racial profiling and unlawful arrests. Residents are asked how heightened enforcement affects daily routines, safety perceptions and community relations. The news outlet invites firsthand accounts via a form to gauge public sentiment and adaptation strategies under this federal immigration presence.",
-      "summaryTokens": 838,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Tens of thousands of federal immigration agents deployed to Minneapolis–St. Paul following the fatal shooting of Renee Good by an ICE officer have triggered protests across Minnesota and nationwide. The ACLU has filed a lawsuit against the Trump administration, accusing ICE of racial profiling and unlawful arrests in the area. Local residents are invited to share via an online form how the heightened enforcement has impacted their daily routines, safety perceptions and community atmosphere, and to express reactions to the lawsuit and expanded federal presence.",
+      "summaryTokens": 972,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/defense-department-stars-and-stripes-editorial-control",
@@ -233,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T16:07:27Z",
       "trailText": "Trump administration struck policy requiring news outlet to have civilian editor and independent ombudsman",
-      "summary": "The Pentagon has moved to seize editorial control of Stars and Stripes by abolishing its civilian editor and independent ombudsman mandates, ordering the outlet to drop “woke distractions” and focus exclusively on warfighting, weapons, fitness and survivability. Assistant Secretary Sean Parnell said content will be “custom tailored” for service members. Press freedom groups, including PEN America, condemned the rule as unconstitutional and a threat to troops’ access to independent news. Editor-in-chief Erik Slavin vowed to defend First Amendment protections for soldiers. The change follows the Pentagon press corps’ mass resignation and Trump’s broader anti-media policies.",
-      "summaryTokens": 556,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "The Pentagon has stripped independent editorial control from Stars and Stripes, ending its requirement for a civilian editor and ombudsman and banning “woke distractions” to focus coverage on warfighting and military affairs. Press freedom advocates, including PEN America and the paper’s editor-in-chief, warn this violates a congressional mandate for editorial independence and risks turning a historic outlet into a Pentagon mouthpiece. Critics call on Congress to safeguard First Amendment protections as the Trump administration intensifies anti-press measures.",
+      "summaryTokens": 461,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/abolish-ice-movement-renee-nicole-good",
@@ -245,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T13:00:59Z",
       "trailText": "To longtime immigrant rights activists, the reckoning around the fatal shooting in Minnesota may feel familiar",
-      "summary": "In the wake of ICE agent Renee Nicole Good’s killing in Minneapolis — the latest in an agency that oversaw 32 deaths in custody in 2025 — nationwide protests and the chant “abolish ICE” have regained momentum. Democrats Rep. Shri Thanedar’s “Abolish ICE Act,” endorsements from figures like Ayanna Pressley and Bill Kristol, and new polls showing majority support illustrate a seismic shift. Activists trace today’s surge to the grassroots 2018 movement under Trump, noting its initial gains, later faltering under Biden, and emphasizing community-based organizing and a broader abolitionist vision to dismantle ICE and all deportation machinery.",
-      "summaryTokens": 1007,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "After ICE agent Renee Nicole Good’s 7 January killing in Minneapolis ignited mass protests, calls to “abolish ICE” surged. For the first time an Economist/YouGov poll finds more Americans backing dismantling ICE than opposing it. Lawmakers like Rep. Shri Thanedar will introduce an “Abolish ICE Act,” while champions across the spectrum—from Ayanna Pressley to Bill Kristol—embrace the demand. Activists trace the revival to grassroots campaigns born in 2018, when family separations fueled nationwide demonstrations, and stress that abolition must extend beyond ICE to all policing and detention systems. Immigrant rights organizers insist Democrats harness this momentum with bold, visionary reforms.",
+      "summaryTokens": 1141,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/flu-season-vaccine-recommendation-rfk-jr",
@@ -257,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T13:00:58Z",
       "trailText": "As hospitals scramble and country reaches record-breaking rates of illness, officials cast doubt on flu shot’s necessity",
-      "summary": "US scrambles as record‐breaking H3N2 flu surges: 15 million illnesses, 180 000 hospitalizations, 7400 deaths (17 children). Officials including HHS secretary RFK Jr and CMS head Mehmet Oz have downtoned flu‐shot necessity, moving pediatric guidance to “shared decision‐making” despite CDC data showing 70–75% efficacy in children and 30–40% in adults. The CDC halted its “Wild to Mild” campaign, issued no new advisories, and top officials haven’t publicly received vaccines. Vaccination rates have fallen to ~42% of children, ~44% of adults; antiviral use is down; experts warn preventable child deaths. They urge urgent vaccination, antivirals, masking, ventilation and vigilance against variant risks.",
-      "summaryTokens": 1682,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Amid a record‐breaking H3N2‐K flu season in the US – 15 million illnesses, 180 000 hospitalisations and 7 400 deaths (including 17 children) – federal officials have shifted flu‐shot guidance to “shared clinical decision‐making,” fueled by vaccine skeptics RFK Jr and CMS chief Mehmet Oz, despite CDC studies showing 30–75 percent effectiveness against severe disease. With child and adult vaccination rates near 42 percent, antiviral use declining, and no new variant advisories, experts warn this mixed messaging risks more preventable hospitalisations and deaths. They urge urgent vaccination, antivirals, masks, ventilation and hygiene to curb severe outcomes and guard against future reassortments.",
+      "summaryTokens": 1032,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/first-thing-death-of-ice-camp-detainee-could-be-investigated-as-homicide-after-examiners-report",
@@ -269,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T12:39:35Z",
       "trailText": "Washington Post says local medical examiner found ‘asphyxia’ to be cause of Geraldo Lunas Campos’s death. Plus, how Trump’s dismantling of federal agencies has impacted children with cancer",
-      "summary": "Geraldo Lunas Campos, 55, a Cuban national detained by ICE at Camp East Montana on Fort Bliss in El Paso, was pronounced dead on January 3. The local medical examiner preliminarily ruled his cause of death as asphyxia due to neck and chest compression, opening the door for a potential homicide investigation. Arrested last July, DHS had labeled him among the “worst of the worst” in Trump’s mass deportation efforts; he held convictions for child sexual abuse, firearm possession and aggravated assault. ICE says he experienced “medical distress” and is probing the case.",
-      "summaryTokens": 503,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "A local medical examiner in El Paso preliminarily ruled the January 3 death of 55-year-old Cuban detainee Geraldo Lunas Campos at ICE’s Camp East Montana as asphyxia due to neck and chest compression, triggering a potential homicide probe. Arrested in July and touted by DHS as among the “worst of the worst” for past convictions in child sexual abuse, weapons and aggravated assault, Campos was said by ICE to have suffered an unspecified medical emergency before he died. DHS and federal investigators are reviewing the case.",
+      "summaryTokens": 684,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/ice-immigration-minnesota-families",
@@ -281,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T11:00:55Z",
       "trailText": "Family members left stunned and bereft after their loved ones were spirited away by federal immigration agents",
-      "summary": "In January 2026, ICE deployed roughly 3,000 agents across Minnesota, arresting over 2,400 people—including valid visa holders and refugees—during home, workplace and traffic stops. In Inver Grove Heights, longtime residents Paulo Sosa Garcia and Ramona Silva were pulled from their car en route to work, flown to a tented detention camp in El Paso, and cut off from their three daughters. In Brooklyn Park, Tomas Martinez Gregorio was arrested while driving his wife and 6-year-old son to a tonsillectomy, leaving them traumatized and scrambling for legal help, funds and basic support amid mounting community fear.",
-      "summaryTokens": 754,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "In mid-January Minnesota raids, some 3,000 ICE agents arrested over 2,400 immigrants—including refugees with legal status—across neighborhoods, workplaces and en route to medical appointments. Paulo Sosa Garcia and Ramona Silva, who’d just had their residency approved, and Tomas Martinez Gregorio, stopped while driving his son to a tonsillectomy, were flown to Fort Bliss’s tent camp and Fort Snelling. Their US-citizen spouses and children, traumatized and financially strained, now scramble for lawyers’ fees, childcare and essentials. These mass detentions underscore the human toll on mixed-status families and US citizens amid the administration’s largest enforcement surge.",
+      "summaryTokens": 755,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/16/rump-linked-figures-talks-european-pipeline-contract",
@@ -293,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T06:00:02Z",
       "trailText": "Exclusive: Jesse Binnall and Joe Flynn, who campaigned to overturn 2020 election, seek to win Bosnia deal for little-known US firm",
-      "summary": "Ex-Trump election lawyers Jesse Binnall and Joe Flynn, who backed baseless challenges to Biden’s 2020 victory, are in Bosnia negotiating on behalf of newly formed AAFS Infrastructure and Energy for a $200 million Southern Gas Interconnection pipeline. The 146-mile route would link Bosnia to a Croatian LNG terminal, cutting reliance on Russian gas. AAFS, incorporated two months ago in Wyoming with no public track record, has held exploratory meetings backed by the US embassy. Critics flag potential conflicts given the pair’s Trump ties.",
-      "summaryTokens": 476,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Trump campaign lawyers Jesse Binnall and Joe Flynn, known for challenging the 2020 election results, have begun exploratory talks in Bosnia for a $200m Southern Gas Interconnection pipeline to reduce reliance on Russian gas. Representing newly formed AAFS Infrastructure and Energy—backed by the US embassy but with no industry track record—they met Bosnian ministers though no contract is yet awarded. Their close Trump ties and potential conflicts of interest echo past family ventures in Balkan energy amid broader US-Russia influence contests.",
+      "summaryTokens": 852,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/15/ice-detention-camp-texas-death",
@@ -305,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T03:08:43Z",
       "trailText": "Washington Post reports local medical examiner found ‘asphyxia’ to be cause of Geraldo Lunas Campos’s death",
-      "summary": "Geraldo Lunas Campos, a 55-year-old Cuban migrant in ICE custody since July 2025, died Jan. 3 at Camp East Montana, Fort Bliss, a tent detention site. ICE initially cited “medical distress,” but El Paso’s medical examiner preliminarily ruled asphyxia from neck and chest compression and may classify it a homicide pending toxicology. Detainee witnesses say guards choked Campos when he resisted segregation over missed medication, as he cried, “I cannot breathe.” His death was one of four in ICE custody in the first 10 days of 2026 and capped the deadliest year for the agency in over two decades. DHS later claimed he attempted suicide.",
-      "summaryTokens": 888,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "Geraldo Lunas Campos, a 55-year-old Cuban migrant with prior convictions, died Jan. 3 in ICE custody at Camp East Montana, Fort Bliss. A preliminary El Paso medical examiner report cites “asphyxia due to neck and chest compression,” and the death may be classified a homicide pending toxicology. ICE’s initial statement described a medical emergency in segregation; detainee witnesses allege five guards choked Campos as he pleaded “I cannot breathe.” DHS later asserted he violently resisted officers while attempting suicide. Campos was among four ICE detainee deaths in the first ten days of 2026 at the controversial tent camp.",
+      "summaryTokens": 818,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/15/trump-at-a-glance-nobel-peace-prize",
@@ -317,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-16T02:00:57Z",
       "trailText": "Venezuelan opposition leader María Corina Machado ‘presented’ her Nobel prize to Trump in White House meeting",
-      "summary": "Venezuelan opposition leader María Corina Machado, awarded the 2025 Nobel Peace Prize for her stand against Nicolás Maduro, said she “presented” her gold medal to former president Donald Trump during a private White House meeting to acknowledge his support. Trump thanked her on Truth Social but gave no evidence he kept the medal. Nobel officials reiterated that prizes cannot be shared or transferred. Machado framed the gift as a symbol of US–Venezuela solidarity, invoking Lafayette’s 1825 gesture to Simón Bolívar.",
-      "summaryTokens": 659,
-      "generatedAt": "2026-01-17T04:04:15.679Z"
+      "summary": "At a private White House meeting on Thursday, Venezuelan opposition leader María Corina Machado presented her 2025 Nobel peace prize medal to Donald Trump to recognize what she called his “unique commitment” to Venezuelan freedom. Trump thanked her on Truth Social but did not share an image or confirm retention of the medal. The Nobel Peace Center reiterated that laureates retain their title and that prizes cannot be revoked, shared, or transferred. Analysts view the gesture as Machado’s bid to regain momentum after Nicolás Maduro’s capture while courting Trump’s support. Her dramatic escape from Venezuela last December to accept the prize underscores this political gamble.",
+      "summaryTokens": 870,
+      "generatedAt": "2026-01-18T03:56:40.062Z"
     },
     {
       "id": "us-news/2026/jan/15/aclu-lawsuit-ice-minnesota-trump",
@@ -7157,7 +7409,7 @@
       "section": "us-news",
       "publishedDate": "2025-12-14T17:43:39Z",
       "trailText": "Former senator’s comments echo recent call from Erika Kirk that ‘everyone has responsibility’ to tone down hatred",
-      "summary": "Former senator Joe Manchin on WABC called on lawmakers to abandon “attack mode,” urging Democrats and Republicans to cool rhetoric and form a “sensible majority” free of far-left and far-right influences. His appeal echoes Erika Kirk’s town-hall plea after her husband Charlie Kirk’s September killing. Manchin stressed civil disagreement—“you are not the enemy”—and warned that intense partisanship risks fueling recent political violence in the US, which has included two assassination attempts on Donald Trump, a firebombing at Gov. Josh Shapiro��s residence and the murders of Charlie Kirk and ex-Minnesota speaker Melissa Hortman. Republican Sen. Rand Paul also cautioned that aggressive redistricting could heighten tensions before 2026.",
+      "summary": "Former senator Joe Manchin on WABC called on lawmakers to abandon “attack mode,” urging Democrats and Republicans to cool rhetoric and form a “sensible majority” free of far-left and far-right influences. His appeal echoes Erika Kirk’s town-hall plea after her husband Charlie Kirk��s September killing. Manchin stressed civil disagreement—“you are not the enemy”—and warned that intense partisanship risks fueling recent political violence in the US, which has included two assassination attempts on Donald Trump, a firebombing at Gov. Josh Shapiro��s residence and the murders of Charlie Kirk and ex-Minnesota speaker Melissa Hortman. Republican Sen. Rand Paul also cautioned that aggressive redistricting could heighten tensions before 2026.",
       "summaryTokens": 580,
       "generatedAt": "2025-12-16T04:29:59.566Z"
     },
@@ -10457,7 +10709,7 @@
       "section": "us-news",
       "publishedDate": "2025-12-01T13:00:35Z",
       "trailText": "Even a close second could be a bellwether of Republican loss of control of House of Representatives in midterms",
-      "summary": "In Tennessee’s middle congressional district—spanning rural counties, parts of Nashville and swing-area Clarksville—a Dec. 3 special election pits Republican Matt Van Epps against Democrat state Rep. Aftyn Behn to replace GOP Rep. Mark Green. Historically Trump-leaning (+22 points in 2024), the seat is now a dead heat: Emerson shows Van Epps at 48% vs. Behn at 46%. Democrats, buoyed by recent off-year upsets, have plowed millions via the DNC, House Majority PAC and Kamala Harris, aiming to flip the seat. Republicans counter with Trump’s endorsement, MAGA Inc and Club for Growth ads. A Behn victory—or narrow GOP hold—carries major House control implications ahead of 2026.",
+      "summary": "In Tennessee’s middle congressional district—spanning rural counties, parts of Nashville and swing-area Clarksville—a Dec. 3 special election pits Republican Matt Van Epps against Democrat state Rep. Aftyn Behn to replace GOP Rep. Mark Green. Historically Trump-leaning (+22 points in 2024), the seat is now a dead heat: Emerson shows Van Epps at 48% vs. Behn at 46%. Democrats, buoyed by recent off-year upsets, have plowed millions via the DNC, House Majority PAC and Kamala Harris, aiming to flip the seat. Republicans counter with Trump���s endorsement, MAGA Inc and Club for Growth ads. A Behn victory—or narrow GOP hold—carries major House control implications ahead of 2026.",
       "summaryTokens": 976,
       "generatedAt": "2025-12-03T04:08:52.581Z"
     },
