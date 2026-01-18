@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-17T03:41:53.411Z",
+    "generated_at": "2026-01-18T03:49:12.399Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-15"
+      "to": "2026-01-17"
     },
-    "article_count": 184,
+    "article_count": 186,
     "merge_info": {
       "previous_count": 184,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 184
+      "new_articles": 2,
+      "updated_articles": 0,
+      "total_count": 186
     },
     "batch_info": {
-      "initial_batch_id": "batch_696b04b43af481909a8e141e84ee8bd3",
+      "initial_batch_id": "batch_696c57e0cc48819098bf210b21bd4bff",
       "retry_batches": [],
-      "total_tokens": 1559,
+      "total_tokens": 4712,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2026/jan/17/what-happens-accidental-heroes-when-headlines-fade-ntwnfb",
+      "title": "What happens to accidental heroes when the headlines fade? ‘You get your award and then there’s nothing’",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/17/what-happens-accidental-heroes-when-headlines-fade-ntwnfb",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/17/what-happens-accidental-heroes-when-headlines-fade-ntwnfb",
+      "section": "science",
+      "publishedDate": "2026-01-17T19:00:36Z",
+      "trailText": "After traumatic events we look for reminders of humanity’s good, and flashes of courage from ordinary people become symbols of hope. But it can be hard to wear the hero’s crown",
+      "summary": "After traumatic events, ordinary individuals often act heroically—like Anneke Weemaes-Sutcliffe aiding survivors of the 2016 Brussels bombings, off-duty nurse Lynne Beavis at Port Arthur, and “Bollard Man” Damien Guerot in Bondi. Such spontaneous bravery sparks media attention and awards, but Dr Thomas Voigt’s research finds nearly 90% of civilian honorees develop PTSD or related trauma and lack structured support. Media-driven hero narratives can oversimplify identity, leaving survivors feeling discarded once headlines fade. Still, some report post-traumatic growth, valuing life’s small joys despite enduring guilt and flashbacks.",
+      "summaryTokens": 630,
+      "generatedAt": "2026-01-18T03:49:12.312Z"
+    },
+    {
+      "id": "science/2026/jan/17/nasa-readies-most-powerful-rocket-round-moon-flight",
+      "title": "Nasa readies its most powerful rocket for round-the-moon flight",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/17/nasa-readies-most-powerful-rocket-round-moon-flight",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/17/nasa-readies-most-powerful-rocket-round-moon-flight",
+      "section": "science",
+      "publishedDate": "2026-01-17T06:00:22Z",
+      "trailText": "Artemis II mission could launch on 6 February, sending astronauts on a 685,000-mile journey",
+      "summary": "NASA will roll out its Space Launch System (SLS), the most powerful rocket ever built, ahead of Artemis II—a crewed, 685,000-mile round-the-moon test flight launching as early as 6 February from Kennedy Space Center. Four astronauts—Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen—will live and work aboard Orion, testing life-support, communications and docking procedures, and will loop around the moon (but not land) before a Pacific splashdown about ten days later. This second SLS test and first crewed mission since Apollo 17 aims to validate hardware for Artemis III’s lunar south pole landing and accelerate US goals in a renewed lunar space race.",
+      "summaryTokens": 703,
+      "generatedAt": "2026-01-18T03:49:12.312Z"
+    },
     {
       "id": "science/2026/jan/15/first-medical-evacuation-nasa-astronauts-back-to-earth",
       "title": "ISS astronauts return to Earth in Nasa’s first ever medical evacuation",
