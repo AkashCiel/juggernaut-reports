@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "politics",
-    "generated_at": "2026-01-17T03:40:27.278Z",
+    "generated_at": "2026-01-18T03:47:36.736Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-16"
+      "to": "2026-01-17"
     },
-    "article_count": 722,
+    "article_count": 724,
     "merge_info": {
-      "previous_count": 713,
-      "new_articles": 9,
-      "updated_articles": 12,
-      "total_count": 722
+      "previous_count": 722,
+      "new_articles": 2,
+      "updated_articles": 10,
+      "total_count": 724
     },
     "batch_info": {
-      "initial_batch_id": "batch_696b04535c74819082019d9b91c3820c",
+      "initial_batch_id": "batch_696c57abdda08190a3c45f1748a5fd19",
       "retry_batches": [],
-      "total_tokens": 48626,
+      "total_tokens": 25686,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "politics/2026/jan/17/tech-companies-access-to-uk-ministers-dwarfs-that-of-child-safety-groups",
+      "title": "Tech companies’ access to UK ministers dwarfs that of child safety groups",
+      "webUrl": "https://www.theguardian.com/politics/2026/jan/17/tech-companies-access-to-uk-ministers-dwarfs-that-of-child-safety-groups",
+      "apiUrl": "https://content.guardianapis.com/politics/2026/jan/17/tech-companies-access-to-uk-ministers-dwarfs-that-of-child-safety-groups",
+      "section": "politics",
+      "publishedDate": "2026-01-17T17:00:31Z",
+      "trailText": "Exclusive: Amazon, Meta and X among firms holding hundreds of meetings with people at heart of government, data shows",
+      "summary": "A Guardian analysis of UK lobbying records up to October 2025 shows US tech firms—Google (100+ meetings), Amazon, Meta, Microsoft and Musk’s X—held 639 ministerial meetings, dwarfing the 75 by child safety and copyright groups such as NSPCC and the Molly Rose Foundation. Tech UK lobbied ministers every eight working days, prompting campaigners like Andy Burrows and Ed Newton-Rex to warn of a “shocking” power imbalance in online child protection and AI copyright policy. MPs including Chi Onwurah and peer Beeban Kidron decry “tech capture,” while DSIT and ministers argue regular engagement is vital for growth, innovation and implementing online safety laws.",
+      "summaryTokens": 1477,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
+    },
+    {
+      "id": "politics/2026/jan/17/conservatives-robert-jenricks-constituency-shocked-defection-reform",
+      "title": "‘I have lost a friend’: Tories in Jenrick’s constituency shocked by defection to Reform",
+      "webUrl": "https://www.theguardian.com/politics/2026/jan/17/conservatives-robert-jenricks-constituency-shocked-defection-reform",
+      "apiUrl": "https://content.guardianapis.com/politics/2026/jan/17/conservatives-robert-jenricks-constituency-shocked-defection-reform",
+      "section": "politics",
+      "publishedDate": "2026-01-17T06:00:19Z",
+      "trailText": "While voters in Jenrick’s Newark constituency were mixed on the decision, members of the local Conservatives felt betrayed",
+      "summary": "After Kemi Badenoch revealed “irrefutable evidence” that Newark MP Robert Jenrick had been in talks with Reform UK since September, he was sacked from the Conservative frontbench and officially defected. His campaign manager and longtime friend Sam Smith described the move as a betrayal of colleagues and constituents. Local reactions were split: some vowed to back Jenrick under the Reform banner, others criticised his absence on rural issues. Conservative activists plan to reclaim the seat at the next election. Smith admits he may have lost both an MP and a friend.",
+      "summaryTokens": 1120,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
+    },
     {
       "id": "politics/2026/jan/16/everyone-is-sick-of-this-crap-jenrick-defection-deepens-rightwing-divide",
       "title": "Tories to step up attacks on Reform economic policy after Jenrick acrimony",
@@ -29,9 +53,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T18:16:36Z",
       "trailText": "Two sides trade blows over defection while Conservative polling suggests economy is key weakness for Reform",
-      "summary": "Tories intensify attacks on Reform’s economic policy as Robert Jenrick’s defection deepens the right-wing rift. Kemi Badenoch brands Jenrick dishonest and praises Nigel Farage for 'spring cleaning', while Jenrick accuses Conservative 'arsonists' of tanking the party. Conservatives trail Reform in polls but hope to shift voter focus to the economy, citing internal data highlighting Reform’s policy weaknesses and one-man image. With no prospect of a deal, the parties will contest May’s Scotland, Wales and council elections head-to-head. Jenrick urges more defections to unite the right; Tory replacement Nick Timothy warns voters are sick of infighting.",
-      "summaryTokens": 1595,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "After Robert Jenrick’s defection to Reform UK, the Conservatives are intensifying attacks on Reform’s economic policy in a bitter right-wing showdown. Jenrick, the former shadow justice secretary, accuses his ex-party’s leadership of being ‘arsonists’ who tanked its reputation, while leader Kemi Badenoch calls him dishonest and rules out any future deal with Nigel Farage’s group. Trailing in national polls, Tories aim to shift voter focus onto Reform’s perceived economic weaknesses and one-man-band image ahead of May’s Scottish, Welsh and English council elections, as Jenrick urges other MPs to defect.",
+      "summaryTokens": 630,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/robert-jenrick-incredible-journey-reform-defection-tories",
@@ -41,9 +65,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T18:04:42Z",
       "trailText": "Reform’s latest defector from the Tories is a politician whose eye has only ever been on his own ambition",
-      "summary": "Guardian columnist John Crace skewers MP Robert Jenrick’s 'journey' from ministerial hopeful to Reform defector as purely self-serving. Once a flexible Cameron, turncoat Brexiteer and xenophobic populist, Jenrick’s core remains “an annoying, self-centred man-child.” His last-minute shift to Farage’s Reform, denials to Tory whips and spin in a BBC interview reveal opportunism. He boasts forced honesty over a £45m donor planning bias, courts Farage despite past insults, and insists he’ll faithfully serve Newark – even as colleagues and constituents call betrayal and demand a by-election.",
-      "summaryTokens": 1149,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "Reform’s newest defector Robert “Honest Bob” Jenrick has swapped the Tories for Farage’s party in a self-serving U-turn that he spins as a ‘journey’ but critics call circular ambition. Elected MP for Newark in 2014, he flip-flopped from Remainer to hard-Brexiteer, pursued populist rhetoric in Birmingham, and fast-tracked a £45m donor’s planning application. In a BBC interview he denied surprise defection, feigned honesty about bias, urged unity with Reform despite past slurs on Farage, and dismissed calls for a by-election as “for little people,” prompting constituents’ outrage. His core self-interest remains unchanged.",
+      "summaryTokens": 909,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/kemi-badenoch-stronger-robert-jenrick-tories",
@@ -53,9 +77,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T18:04:16Z",
       "trailText": "Pre-empting rival’s defection cements her position as leader and gives pause for thought for any others who may follow",
-      "summary": "Kemi Badenoch pre-empted senior Tory Robert Jenrick’s defection by sacking him as shadow justice minister and stripping the whip, leaving Reform UK scrambling after a farcical Farage introduction of an absent Jenrick. MPs report near-silent WhatsApp groups, ‘good riddance’ reactions and strengthened unity under Badenoch, who has risen in standing since her conference speech and budget retort. Few expect further defections before Reform’s May deadline. YouGov shows Tory support recovering to c.20%, but May’s local elections remain a looming test.",
-      "summaryTokens": 1505,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "After Robert Jenrick’s defection to Reform UK and on-air insults, Kemi Badenoch emerged stronger by pre-emptively sacking him as shadow justice minister and stripping the whip, leaving him scrambling at a farcical press conference. MPs praise her decisive leadership and believe the episode has unified the party, branding defectors traitors. Most see no further Tory MPs following Jenrick ahead of Reform’s deadline. Although Tory support has ticked up to around 20%, Badenoch still faces pressure over May’s local elections, which could reshape MPs’ views on her leadership.",
+      "summaryTokens": 1062,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/former-councillor-edward-brandt-jailed-stalking-mp-penny-mordaunt",
@@ -65,9 +89,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T17:52:19Z",
       "trailText": "Edward Brandt sentenced to 20 weeks in prison after behaviour left former minister ‘in fear of sexual violence’",
-      "summary": "Ex-East Hampshire councillor Edward Brandt, 61, jailed for 20 weeks at Southampton crown court after stalking former MP Penny Mordaunt between Sept 2023 and May 2024. Brandt sent 17 emails, three voicemails—including threats to shake her hand—and breached a protective order seven times by acquiring internet-capable devices and social media accounts. Mordaunt told police she feared sexual violence and lives in constant fear. Brandt, diagnosed with ADHD and autism, was convicted of stalking (but not S.4A) and received 12 weeks plus eight consecutive weeks for order breaches.",
-      "summaryTokens": 496,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "Edward Brandt, 61, a former East Hampshire councillor and professional sailor, was jailed for 20 weeks at Southampton Crown Court after stalking ex-minister Penny Mordaunt between September 2023 and May 2024. He sent at least 17 emails, three voicemail messages and turned up uninvited at her Portsmouth office, leaving Mordaunt in fear of sexual violence. Brandt was also convicted of seven breaches of a stalking protection order by failing to notify police of internet-enabled devices and opening social media accounts. Diagnosed with ADHD and autism spectrum disorder, he received consecutive 12- and 8-week sentences amid concerns he posed a real risk of reoffending.",
+      "summaryTokens": 575,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/a-linguistic-own-goal-from-starmers-critics",
@@ -77,9 +101,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T17:45:21Z",
       "trailText": "Letters: Readers respond to Jonathan Liew’s article on rude chants on the football terraces about the prime minister",
-      "summary": "Readers respond to Jonathan Liew’s argument that rude football chants at Keir Starmer stem from his own failings. Dr Colin J Smith likens Starmer to a mid-table manager needing better wing play, youth promotion and rapport with supporters. Desmond Hewitt condemns both the crude chants and Liew’s blunt logic, blaming Tory missteps for public anger. Robert Dimmick praises Starmer’s approachability and steady decision-making. Colin Jones highlights his working-class rise and decency. Ralph Jones notes hostile roadside posters in Kent, while Gethyn Edmunds questions whether drunken terrace taunts reflect serious political debate.",
-      "summaryTokens": 623,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "Reader letters rebut Jonathan Liew’s linking of rude football chants to personal abuse of Keir Starmer. Dr Colin J Smith says Starmer, like a football manager, must refine tactics—use his left wing, bring through youth and sharpen counterattacks—to placate supporters. Critics accuse Liew of crassly condoning verbal thuggery and argue chants stem from far-right propaganda, not serious debate. Contributors praise Starmer’s integrity, decency and working-class credentials, note obscene anti-Starmer posters and question the relevance of sports fans’ coarse chants to politics, reflecting a divided public response. Another calls him an uncharismatic technocrat with decent human values, lamenting that impatience among supporters fuels abuse.",
+      "summaryTokens": 709,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/reform-uk-london-mayor-candidate-laila-cunningham-burqa-stop-and-search",
@@ -89,9 +113,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T17:18:43Z",
       "trailText": "Laila Cunningham accused of endangering Muslims after saying it ‘has to be assumed’ people hiding their face for a criminal reason",
-      "summary": "British-born Muslim and ex-CPS prosecutor Laila Cunningham, Reform UK’s 2028 London mayor contender, provoked outrage by calling for stop-and-search powers for women in burqas, claiming covered faces imply criminal intent. Shaista Gohir of the Muslim Women’s Network UK denounced her comments as a racist dog-whistle fueling Islamophobic threats, forcing the charity to remove signage. London mayor Sadiq Khan and Labour MP Afzal Khan slammed the proposal as divisive political manoeuvring that echoes past spikes in anti-Muslim attacks and undermines religious freedom.",
-      "summaryTokens": 750,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "Reform UK’s London mayoral candidate Laila Cunningham—a British-born Muslim and former CPS prosecutor—ignited controversy by arguing women in burqas ‘must be assumed’ to have criminal motives and face stop-and-search. She lamented parts of London feel like ‘a Muslim city’ with signs in foreign languages and markets selling burqas, calling for a single ‘British’ civic culture. Crossbench peer Shaista Gohir decried this as a dangerous Islamophobic dog whistle amid rising abuse toward Muslim women. London mayor Sadiq Khan and Labour MP Afzal Khan warned the remarks fuel division, erode religious freedom, and risk stoking anti-Muslim incidents.",
+      "summaryTokens": 1212,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/robert-jenrick-tells-lies-says-kemi-badenoch-conservative-nigel-farage-reform-uk",
@@ -101,9 +125,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T13:45:35Z",
       "trailText": "Former Conservative minister who has joined Reform responds to allegations of lying from his former leader",
-      "summary": "After defecting to Reform UK, ex-shadow justice secretary Robert Jenrick accused the Conservative leadership—still dominated by the ‘arsonists’ he says tanked the party—of refusing to acknowledge its mistakes. Leader Kemi Badenoch retorted that he repeatedly denied plans to defect to the chief whip and ‘tells a lot of lies’, welcoming Nigel Farage’s ‘spring cleaning’. Reform MPs praised Jenrick’s move even as Conservatives like Nick Timothy warned voters were tired of infighting and Michael Gove quipped Reform risked looking like ‘Slytherin’. Jenrick urged fellow right-wingers to join, while Labour dismissed Farage’s claims of an imminent defection.",
-      "summaryTokens": 969,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "After defecting to Reform UK, ex-Tory shadow justice secretary Robert Jenrick, in his first BBC interview since Thursday’s announcement, blasted the Conservatives as run by the same ‘arsonists’ who wrecked its reputation, saying he’d been forthright despite Kemi Badenoch’s claims he lied to the chief whip. Badenoch retorted that his manoeuvres vindicated Nigel Farage’s ‘spring cleaning’. Reform MPs welcomed Jenrick, while some Conservatives argue his exit strengthens Badenoch. Michael Gove cautioned Reform risks looking factional, and new shadow justice Nick Timothy decried the backstabbing. Jenrick urged other right-wingers to follow, as Labour dismissed Farage’s touted defectors as electioneering flair.",
+      "summaryTokens": 1564,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/nigel-farage-tricked-tribute-lostprophets-singer-ian-watkins",
@@ -113,9 +137,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T12:06:13Z",
       "trailText": "Reform leader calls the child sexual abuse offender ‘a good man, a really good guy’ in 27-second Cameo video clip",
-      "summary": "Reform UK leader Nigel Farage was duped via Cameo into eulogising late Lostprophets singer Ian Watkins—jailed for horrific child sexual offences and killed in prison last year. In a 27-second video commissioned by prankster John Smith (£98), Farage called Watkins “a good man… who loved his children” and pretended personal acquaintance. The stunt echoes a 2021 prank praising the IRA. Smith argues it exposes Farage’s readiness to utter anything for cash. Farage brushed it off, quipping “thank him for the money” and offering “send more.”",
-      "summaryTokens": 943,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "Reform leader Nigel Farage was duped via paid video service Cameo into praising late Lostprophets frontman and convicted child sex offender Ian Watkins as “a good man” who “loved his children,” in a 27-second, £98 clip. Prankster John Smith used a fake request to expose Farage’s willingness to cash in without vetting, questioning his integrity and ideological consistency. Farage later brushed off criticism, inviting more payments. The stunt follows a 2021 cameo prank in which he unwittingly voiced support for the IRA. Two inmates have since been charged with Watkins’ fatal prison stabbing.",
+      "summaryTokens": 564,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/enough-already-jenricks-defection-gets-mixed-reception-among-reform-members",
@@ -125,9 +149,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T10:00:53Z",
       "trailText": "Some supporters are concerned about the number of Conservatives being welcomed by their party, and fear it could alienate voters",
-      "summary": "Reform UK’s rank-and-file reacted with both jubilation and alarm to ex-Tory minister Robert Jenrick’s defection to Farage’s party. Some grassroots warned ‘Enough already!’ fearing Reform would become ‘Tory party Pt II’ while others hailed his parliamentary experience and saw him as a future leader. Local councillors in Nottinghamshire and Kent welcomed his legal and cabinet background, but head of policy Zia Yusuf vowed to prioritise grassroots over ‘failed former Tory MPs’. Farage acknowledged lingering mistrust but lauded Jenrick’s arrival as a ‘massive moment’.",
-      "summaryTokens": 748,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "Reform UK’s grassroots reaction to Robert Jenrick’s defection from the Conservative party has been mixed. Some members, like James Scott, warn that recruiting more Tory figures risks turning Reform into “Conservative party Pt II” and alienating voters, vowing to quit if Jenrick joins. Others, including senior local councillors and Farage allies, celebrate his parliamentary experience and ambition, calling his arrival a “massive moment” for the movement. Reform’s head of policy, Zia Yusuf, has urged prioritizing existing grassroots candidates over former Tories, spotlighting lingering tensions between Jenrick and the party establishment. Yet most members appear optimistic about Jenrick’s potential leadership role.",
+      "summaryTokens": 1214,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/16/over-reliance-on-china-could-hit-uk-energy-supply-chains-putting-9000-jobs-at-risk",
@@ -137,9 +161,9 @@
       "section": "politics",
       "publishedDate": "2026-01-16T00:01:54Z",
       "trailText": "Institute For Public Policy Research thinktank report calls on chancellor to pursue policy of ‘securonomics’",
-      "summary": "The IPPR warns that a year-long disruption in China-dominated battery and solar supply chains could wipe out production of 580,000 EVs, endanger 90,000 UK jobs, delay solar farm rollout and cost the economy £1.5 bn annually by prolonging gas reliance. It urges Chancellor Reeves to adopt “securonomics”—diversify via domestic battery and green-steel manufacturing, allied stockpiles and international partnerships—and clarify its stance on Chinese investment. A government spokesperson points to its industrial and critical-minerals strategies to cut import dependence and protect jobs.",
-      "summaryTokens": 692,
-      "generatedAt": "2026-01-17T03:40:26.926Z"
+      "summary": "The Institute for Public Policy Research warns that over-reliance on Chinese clean-energy supply chains could cost the UK 90,000 jobs if a year-long halt in battery components stalls production of 580,000 EVs and delays solar farm roll-out, forcing £1.5 bn extra annual gas spending. With China controlling 80–90% of critical-minerals refining, the report urges Chancellor Reeves to adopt “securonomics,” diversifying via international partnerships, strategic stockpiles of solar, batteries and minerals, and boosting domestic battery and green-steel manufacturing. The government cites its industrial and critical-minerals strategies to cut imports and protect clean-energy sectors.",
+      "summaryTokens": 1034,
+      "generatedAt": "2026-01-18T03:47:36.588Z"
     },
     {
       "id": "politics/2026/jan/15/robert-jenrick-defects-to-reform-uk-after-conservative-party-suspension",
