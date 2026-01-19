@@ -1,26 +1,206 @@
 {
   "metadata": {
     "section": "world",
-    "generated_at": "2026-01-18T04:03:59.495Z",
+    "generated_at": "2026-01-19T04:11:37.656Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-18"
+      "to": "2026-01-19"
     },
-    "article_count": 2194,
+    "article_count": 2210,
     "merge_info": {
-      "previous_count": 2179,
-      "new_articles": 15,
-      "updated_articles": 23,
-      "total_count": 2194
+      "previous_count": 2194,
+      "new_articles": 16,
+      "updated_articles": 16,
+      "total_count": 2210
     },
     "batch_info": {
-      "initial_batch_id": "batch_696c5a0123608190a8c8698a74dbbd97",
+      "initial_batch_id": "batch_696dae812ddc8190a88b2edaf8dcdf9d",
       "retry_batches": [],
-      "total_tokens": 91251,
-      "processing_time_hours": 0.1
+      "total_tokens": 75423,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima",
+      "title": "15 years after Fukushima, Japan prepares to restart the world’s biggest nuclear plant",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima",
+      "section": "world",
+      "publishedDate": "2026-01-19T01:46:10Z",
+      "trailText": "A return to nuclear power is at the heart of Japan’s energy policy but, in the wake of the 2011 disaster, residents’ fears about tsunamis, earthquakes and evacuation plans remain",
+      "summary": "Tokyo Electric Power is set to restart reactor No 6 at Kashiwazaki-Kariwa in Niigata—world’s largest nuclear plant (8.2GW across seven reactors)—15 years after Fukushima. Reactor 6 could supply 2% of Tokyo’s electricity. Tepco has built seawalls, watertight doors, mobile generators, filtered vents and pledged ¥100 bn over 10 years to boost safety and local ties. Yet 420,000 residents within 30 km, many elderly, warn evacuation plans fail in winter and quake zones. Over 60% oppose the restart in prefectural polls, citing seismic risks and distrust.",
+      "summaryTokens": 502,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/19/ukraine-war-briefing-russian-attacks-kill-two-as-ukrainian-strikes-trigger-blackouts-in-occupied-south",
+      "title": "Ukraine war briefing: Russian attacks kill two as Ukrainian strikes trigger blackouts in occupied south",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/19/ukraine-war-briefing-russian-attacks-kill-two-as-ukrainian-strikes-trigger-blackouts-in-occupied-south",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/19/ukraine-war-briefing-russian-attacks-kill-two-as-ukrainian-strikes-trigger-blackouts-in-occupied-south",
+      "section": "world",
+      "publishedDate": "2026-01-19T01:03:57Z",
+      "trailText": "Kyiv’s forces say 30 Russian strikes recorded across 15 locations while hundreds of thousands left without electricity in occupied Zaporizhzhia. What we know on day 1,426",
+      "summary": "Russian forces launched 30 strikes across 15 locations overnight, using over 200 drones to target Ukraine’s energy infrastructure in Sumy, Kharkiv, Dnipro, Zaporizhzhia, Khmelnytskyi and Odesa, killing two and wounding six. Affected regions experienced blackouts, including 200,000 households in Russian-occupied Zaporizhzhia and nearly 400 settlements. Under an IAEA-brokered ceasefire, Ukrainian crews began restoring the backup line to the Zaporizhzhia nuclear plant. Meanwhile, Spain’s PM warned that a US invasion of Greenland would undermine NATO. Ukraine’s negotiator Rustem Umerov confirmed upcoming Davos talks on security guarantees and postwar recovery.",
+      "summaryTokens": 658,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/tariffs-nato-allies-keir-starmer-donald-trump-greenland-crisis-call",
+      "title": "Tariffs on Nato allies are wrong, Starmer tells Trump in Greenland crisis call",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/tariffs-nato-allies-keir-starmer-donald-trump-greenland-crisis-call",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/tariffs-nato-allies-keir-starmer-donald-trump-greenland-crisis-call",
+      "section": "world",
+      "publishedDate": "2026-01-18T22:38:19Z",
+      "trailText": "UK prime minister holds phone call with US president as European leaders scramble to protect Danish territory",
+      "summary": "Prime Minister Keir Starmer told President Donald Trump in a Sunday call that threatening 10–25% tariffs on eight NATO allies (UK, France, Germany, Denmark, Norway, Sweden, Netherlands, Finland) over Greenland is “wrong” and undermines Euro-Atlantic security. Starmer also phoned Danish PM Mette Frederiksen, EU Commission chief Ursula von der Leyen and NATO sec-gen Mark Rutte, urging collective defence in the High North. He will use an emergency Downing Street statement to decry US sanctions, align with EU opposition, but eschew reciprocals. Labour faces internal pressure for tougher measures amid strained UK-US ties.",
+      "summaryTokens": 1086,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/europe-diplomats-crisis-talks-trump-tariffs-greenland",
+      "title": "EU considers retaliatory measures over Trump Greenland tariff ‘blackmail’",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/europe-diplomats-crisis-talks-trump-tariffs-greenland",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/europe-diplomats-crisis-talks-trump-tariffs-greenland",
+      "section": "world",
+      "publishedDate": "2026-01-18T22:19:58Z",
+      "trailText": "Emmanuel Macron calls on fellow leaders to use powerful anti-coercion instrument if US goes ahead with tariffs",
+      "summary": "Facing Trump’s threat of 10–25% tariffs on imports from eight NATO allies over Greenland, EU diplomats held emergency crisis talks and proposed reactivating €93 billion of suspended US counter-tariffs. President Macron backed activating the bloc’s unused anti-coercion instrument (“big bazooka”) and called an EU summit for Thursday to discuss punitive duties on US cars, industrial goods and food. Joint statements from Denmark, France, Germany, the UK, the Netherlands, Norway, Sweden and Finland condemned US “blackmail” and stressed defending sovereignty. While some diplomats urge dialogue, leaders warn tariffs risk a transatlantic downward spiral.",
+      "summaryTokens": 822,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/western-alliance-hangs-in-balance-as-europe-stiffens-itself-against-trumps-threats",
+      "title": "Western alliance hangs in balance as Europe stiffens itself against Trump’s threats",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/western-alliance-hangs-in-balance-as-europe-stiffens-itself-against-trumps-threats",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/western-alliance-hangs-in-balance-as-europe-stiffens-itself-against-trumps-threats",
+      "section": "world",
+      "publishedDate": "2026-01-18T18:55:52Z",
+      "trailText": "US demand to own Greenland leaves little scope for compromise, and forcing the issue would entail end of Nato",
+      "summary": "Faced with Trump’s 10% tariffs threat on eight NATO states supporting Greenland, Europe has rallied behind Denmark’s unequivocal refusal to cede the territory, warning of a dangerous trade war and potential NATO collapse. Leaders including Macron are eyeing the EU’s anti-coercion tool, while the UK’s stalled US trade deal and additional tariffs expose Brexit’s limits. With Greenland central to Arctic security against Russia and China, European solidarity hardens. Analysts warn any US military action against an ally would end the alliance, undermining post-1945 security and playing into Putin’s and Xi’s hands.",
+      "summaryTokens": 947,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/oxfam-trustee-quits-board-ex-boss-halima-begum",
+      "title": "Oxfam trustee quits board over ‘cruel’ treatment of ex-boss",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/oxfam-trustee-quits-board-ex-boss-halima-begum",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/oxfam-trustee-quits-board-ex-boss-halima-begum",
+      "section": "world",
+      "publishedDate": "2026-01-18T18:13:23Z",
+      "trailText": "Balwant Singh calls for regulatory intervention after Halima Begum was forced out as chief executive",
+      "summary": "Dr Balwant Singh, an Oxfam GB trustee since 2022, has resigned over what he calls ‘cruel and inhumane’ treatment of former chief executive Halima Begum and systemic governance failures. Singh says he has lost confidence in the board’s integrity, transparency and accountability, and urges the Charity Commission to launch an independent investigation. Begum was forced out in December after a disputed leadership review by Howlett Brown and infighting at the board level, which also led to chair Charles Gurassa’s departure. Oxfam has commissioned an external review of its governance processes.",
+      "summaryTokens": 422,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/iran-warns-world-that-any-attack-on-ayatollah-ali-khamenei-would-be-declaration-of-war",
+      "title": "Iran warns attack on Khamenei would be declaration of war",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/iran-warns-world-that-any-attack-on-ayatollah-ali-khamenei-would-be-declaration-of-war",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/iran-warns-world-that-any-attack-on-ayatollah-ali-khamenei-would-be-declaration-of-war",
+      "section": "world",
+      "publishedDate": "2026-01-18T18:10:58Z",
+      "trailText": "President issues warning amid speculation Donald Trump plans to assassinate or remove supreme leader",
+      "summary": "President Masoud Pezeshkian warned any attack on Supreme Leader Ayatollah Ali Khamenei—amid speculation that Donald Trump seeks to end his 40-year rule—would be a declaration of war on Iran. He blamed US sanctions and meddling for anti-government protests sparked on Dec. 28 by soaring inflation and currency collapse, which authorities crushed with an internet blackout, leaving over 5,000 dead and 24,000 arrested. Trump threatened strikes but stood down under Israeli and Saudi pressure. Partial connectivity has returned while human rights groups report detainee torture and Iranians continue chanting anti-Khamenei slogans.",
+      "summaryTokens": 632,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/eu-weighs-tough-restrictions-in-face-of-trump-tariffs-but-appeasement-remains-most-likely-path",
+      "title": "Trump’s tariff shock suggests EU’s strategy of flattery and appeasement has failed",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/eu-weighs-tough-restrictions-in-face-of-trump-tariffs-but-appeasement-remains-most-likely-path",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/eu-weighs-tough-restrictions-in-face-of-trump-tariffs-but-appeasement-remains-most-likely-path",
+      "section": "world",
+      "publishedDate": "2026-01-18T18:10:35Z",
+      "trailText": "Next few weeks will show if Trump has finally pushed too far with Greenland levies, as calls grow for bloc to take tougher action",
+      "summary": "The EU has long flattered Trump, signing a lopsided trade deal removing US tariffs while accepting steep levies. Now his threat to slap Greenland-supporting nations with tariffs exposes failure of appeasement. European Parliament unites against it: far right and centre parties call to pause the deal. Reliant on US for Ukraine, EU hesitates to oppose. But forced sale of Danish territory spurs calls to deploy anti-coercion “big bazooka” against the US, though sanctions need consensus and could take a year. Next weeks test EU’s resolve.",
+      "summaryTokens": 878,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/venezuela-opposition-what-next",
+      "title": "Dictator ousted but regime intact – what next for Venezuela’s opposition?",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/venezuela-opposition-what-next",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/venezuela-opposition-what-next",
+      "section": "world",
+      "publishedDate": "2026-01-18T13:00:55Z",
+      "trailText": "The US snatched Nicolás Maduro but, frozen out by Trump, anti-government activists are unsure how to proceed",
+      "summary": "After the US captured Nicolás Maduro, Venezuela’s authoritarian regime remains intact under acting president Delcy Rodríguez and her Chavismo 3.0 leadership. Activists – forced into exile by brutal repression and restricted by an ‘anti-NGO law’ – demand new elections or installment of diplomat Edmundo González, widely believed to have won in 2024. But the White House has frozen these plans, leaving key institutions and armed militias in regime hands. Opposition figures like María Corina Machado and Rafael Uzcátegui call for a timeline within six months, insisting on an independent electoral council, international observers and free press to enable a genuine democratic transition.",
+      "summaryTokens": 813,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/israel-far-right-ministers-reject-us-backed-postwar-gaza-panel",
+      "title": "Israel far-right ministers reject US-backed postwar Gaza panel",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/israel-far-right-ministers-reject-us-backed-postwar-gaza-panel",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/israel-far-right-ministers-reject-us-backed-postwar-gaza-panel",
+      "section": "world",
+      "publishedDate": "2026-01-18T12:43:03Z",
+      "trailText": "Finance minister says Netanyahu should back annexation and settlement, and attacks Turkey and Qatar’s role on Gaza ‘executive board’",
+      "summary": "Israeli far-right ministers, led by settler finance minister Bezalel Smotrich, reject the US-backed Gaza ‘executive board’ and accuse PM Netanyahu of shirking responsibility by not annexing Gaza or expanding settlements. They condemn Turkey and Qatar’s roles, label them Hamas backers, and press for military governance and Israeli immigration. Netanyahu, uneasy about uncoordinated appointments, convenes coalition talks. Washington’s plan, chaired by Trump, forms a Gaza advisory board and Palestinian technocrat committee, inviting Erdoğan, al-Sisi, Blair, Milei and others, tying membership to $1bn contributions. Meanwhile Gaza endures sporadic violence and deadly winter storms in overcrowded camps.",
+      "summaryTokens": 1355,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/uk-stance-greenland-future-non-negotiable-says-lisa-nandy",
+      "title": "UK stance on Greenland’s future is ‘non-negotiable’, says Lisa Nandy",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/uk-stance-greenland-future-non-negotiable-says-lisa-nandy",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/uk-stance-greenland-future-non-negotiable-says-lisa-nandy",
+      "section": "world",
+      "publishedDate": "2026-01-18T10:00:38Z",
+      "trailText": "Politicians condemn Trump’s threat to impose 10% tariffs on Nato countries deploying troops to the island",
+      "summary": "Culture secretary Lisa Nandy insisted the UK’s position that Greenland’s future is determined solely by Greenlanders and Denmark is ‘non-negotiable’, rejecting Trump’s proposed 10% tariffs on eight NATO allies, including the UK, over their troop deployments to the island. Trump threatened to raise tariffs to 25% by June if Greenland sale talks fail. Labour leader Keir Starmer, Conservative Kemi Badenoch, Lib Dem Ed Davey and Nigel Farage all condemned the measures as wrong and harmful. Nandy refused to specify UK retaliation, saying talks with the US will focus on shared security while NATO must address Arctic threats collectively.",
+      "summaryTokens": 946,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/chinese-mega-embassy-london-british-spies-mi5-analysis",
+      "title": "Why a Chinese ‘mega embassy’ is not such a worry for British spies",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/chinese-mega-embassy-london-british-spies-mi5-analysis",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/chinese-mega-embassy-london-british-spies-mi5-analysis",
+      "section": "world",
+      "publishedDate": "2026-01-18T09:19:38Z",
+      "trailText": "Politicians are raising the alarm, while MI5 quietly welcomes the prospect of Beijing’s new London facility",
+      "summary": "UK politicians warn that China’s planned 200-staff “mega embassy” at Royal Mint Court threatens espionage and interference, citing redacted floor plans and nearby internet cables. MI5, however, argues consolidating seven sites simplifies surveillance and embassies are increasingly marginal to Beijing’s threat, which relies on cyberattacks from China (eg Salt Typhoon) and offsite cultivation of MPs. Previous interference attempts (Christine Lee, Christopher Cash, LinkedIn recruiters) occurred far from diplomatic compounds. Officials say broader vigilance—knowing when to be permissive or assertive—is key, as most Chinese intelligence now works remotely.",
+      "summaryTokens": 877,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/dublin-bay-oyster-reefs-restoration",
+      "title": "Dublin Bay’s oyster graveyard rises from dead in effort to restore rich ecosystem",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/dublin-bay-oyster-reefs-restoration",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/dublin-bay-oyster-reefs-restoration",
+      "section": "world",
+      "publishedDate": "2026-01-18T07:00:50Z",
+      "trailText": "Pioneering scheme hopes species that thrived for thousands of years in Irish waters can do so again",
+      "summary": "In Dublin Bay’s Dún Laoghaire harbour, Green Ocean Foundation placed 300 baskets with 18,000 European flat oysters (Ostrea edulis)—all designated broodstock—to revive reefs lost to 19th-century overfishing. Each oyster filters about 190 L of seawater daily, boosting water clarity, seagrass growth and marine biodiversity. Building on pilot transplants from Tralee Bay to Malahide, Howth, Poolbeg and Greystones, volunteers manually flip baskets to prevent fouling. Collaborating with Dublin City University’s Water Institute, the team will monitor spawning, growth, nutrient cycling and habitat recovery, taking a phased-step approach to ecosystem restoration. Similar efforts in Belfast Lough and New York’s Billion Oyster Project underscore growing confidence in oyster-led marine restoration.",
+      "summaryTokens": 1625,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/ethiopian-boys-young-men-abuse-smuggling-route-south-africa",
+      "title": "Smuggled to suburbia: no end to danger for Ethiopians looking for better life in South Africa",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/ethiopian-boys-young-men-abuse-smuggling-route-south-africa",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/ethiopian-boys-young-men-abuse-smuggling-route-south-africa",
+      "section": "world",
+      "publishedDate": "2026-01-18T07:00:49Z",
+      "trailText": "With tens of thousands thought to be arriving each year, the ‘southern route’ is becoming more perilous and extortionary",
+      "summary": "After police freed 12 Ethiopian men, aged 22–33, who escaped suburban safe houses in Johannesburg on January 5, the article spotlights escalating dangers along the ‘southern route’ from Ethiopia to South Africa. An estimated tens of thousands travel over 3,000 miles annually, fleeing political repression and poverty. Migrants like Aseged Yohannes and Sahlu Abebe recount paying up to 63,000 birr, enduring kidnappings, extortion, gang interceptions, the 2020 truck deaths in Mozambique, mass arrests, jailing, robberies and xenophobic attacks. Rival gangs and a 2024 UN IOM estimate of 200,000 Ethiopians in South Africa underscore the crisis’s scale.",
+      "summaryTokens": 1880,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/18/why-protesters-iran-feel-betrayed-donald-trump",
+      "title": "‘He hoped Trump’s help would arrive’: why protesters in Iran feel betrayed",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/18/why-protesters-iran-feel-betrayed-donald-trump",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/18/why-protesters-iran-feel-betrayed-donald-trump",
+      "section": "world",
+      "publishedDate": "2026-01-18T05:00:46Z",
+      "trailText": "Many believed a US president would – for the first time – rescue them but now people can only despair after mass arrests and brutality",
+      "summary": "When Donald Trump vowed to “rescue” Iranian protesters if shots were fired, demonstrators like 38-year-old Siavash Shirzad risked their lives expecting US intervention but received none and he died after being shot in Tehran. After urging Iranians to “take over your institutions” and promising “help is on its way,” Trump abruptly ruled out military action, citing assurances against executions. Back home, the regime tightened its crackdown—mass arrests, forced confessions and torture amid an internet blackout—while Iranians at home and abroad feel betrayed and remain in limbo waiting to see if any aid materialises.",
+      "summaryTokens": 1137,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
     {
       "id": "world/2026/jan/18/ukraine-war-briefing-russia-readying-strikes-on-nuclear-power-system-zelenskyy-warns",
       "title": "Ukraine war briefing: Russia readying strikes on nuclear power system, Zelenskyy warns",
@@ -29,21 +209,21 @@
       "section": "world",
       "publishedDate": "2026-01-18T02:12:57Z",
       "trailText": "Kyrylo Budanov arrives in US heading delegation for further talks on peace proposals. What we know on day 1,425",
-      "summary": "Ukraine’s president Volodymyr Zelenskyy warns Russia is preparing new strikes on the country’s nuclear power infrastructure, exacerbating winter energy shortages and undermining allied efforts to end the war. After a briefing by defence intelligence chief Oleh Ivashchenko, Zelenskyy said Moscow shows no willingness to negotiate. Kyrylo Budanov, recently appointed head of the presidential office, has led Ukrainian negotiators to Washington to finalize security guarantees and economic recovery plans with US envoys including Steve Witkoff and Jared Kushner, with hopes of signing a deal at the Davos forum. Meanwhile, Russian attacks on Kharkiv, Sumy, Kyiv and Odesa regions have killed civilians and crippled power and heating facilities. To stabilize the grid, Ukraine is importing up to 50% of its electricity and receiving generators and solar panels from Lithuania.",
-      "summaryTokens": 546,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "President Volodymyr Zelenskyy warned that Russia is preparing further strikes on Ukraine’s energy infrastructure, including nuclear power facilities, aiming to cripple its winter energy grid and blunt Western support. His briefing followed updates from defence intelligence chief Oleh Ivashchenko, who succeeded Kyrylo Budanov as Budanov leads a Ukrainian delegation in US peace talks on security guarantees and economic recovery. If approved, a US–Ukraine deal could be signed at Davos. Meanwhile, Russian assaults on Kharkiv, Sumy, Kyiv and Odesa regions killed civilians and cut power, prompting Ukraine to import half its electricity and accept Lithuanian energy aid.",
+      "summaryTokens": 1080,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/trumps-tariff-threat-is-an-attempt-to-divide-europe-and-quash-opposition-over-greenland",
-      "title": "Trump’s tariff threat is an attempt to divide Europe and quash opposition over Greenland",
+      "title": "Trump’s Greenland tariff threat appears to have fired up EU leaders ",
       "webUrl": "https://www.theguardian.com/world/2026/jan/17/trumps-tariff-threat-is-an-attempt-to-divide-europe-and-quash-opposition-over-greenland",
       "apiUrl": "https://content.guardianapis.com/world/2026/jan/17/trumps-tariff-threat-is-an-attempt-to-divide-europe-and-quash-opposition-over-greenland",
       "section": "world",
       "publishedDate": "2026-01-17T21:07:30Z",
-      "trailText": "Using one of his favourite weapons to win an argument, the US president underlines the unstable nature of any deal he makes",
-      "summary": "President Trump threatened fresh tariffs on eight European countries—including the UK, Norway and six EU states—over opposition to his Greenland gambit, effectively stalling ratification of the 0% tariff US–EU trade deal agreed last July. EPP and S&D blocs refuse approval, Renew has joined calls to halt ratification. The UK’s narrow tariff pact also hangs in the balance amid separate steel and tech-law negotiations. Seen as a tactic to divide Europe, the move prompted an emergency EU ambassadors meeting and highlights the unreliable nature of deals under Trump.",
-      "summaryTokens": 931,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "trailText": "The president’s move is a wrecking ball to his trade deals with Europeans and has unleashed an unprecedented hostile response",
+      "summary": "Donald Trump's threat to impose fresh tariffs on eight European countries (including the UK, Norway and six EU members) that supported US troops in Greenland has provoked unprecedented hostility from EU leaders. Emmanuel Macron and other officials denounce intimidation, warning they will pause ratification of the US-EU 0% tariff deal struck last July in Scotland. The European Parliament's main blocs (EPP, S&D, Renew) have signaled they will block approval until Trump withdraws his Greenland-linked demands. Analysts see the move as a negotiating tactic aimed at dividing Europe and stalling Arctic security cooperation.",
+      "summaryTokens": 1771,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/macron-no-amount-of-intimidation-will-change-eu-nations-course-on-greenland",
@@ -53,9 +233,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T21:03:30Z",
       "trailText": "French president calls tariff threats ‘unacceptable’, while Sweden’s Ulf Kristersson warns EU will not be ‘blackmailed’ by US",
-      "summary": "After US President Donald Trump on January 15 announced 10% tariffs from February 1 and 25% from June 1 on Denmark, Norway, Sweden, France, Germany, the UK, the Netherlands and Finland for opposing his proposed Greenland purchase, President Macron condemned the threats as 'unacceptable intimidation' and affirmed France’s commitment to Denmark’s sovereignty and Arctic security. Swedish PM Kristersson and Norwegian PM Støre likewise rebuffed US 'blackmail' among allies. European Council’s Costa and Commission’s von der Leyen warned such tariffs would damage transatlantic ties and risk a downward spiral. EU ambassadors will hold an emergency session while MEPs signal pausing US trade deal ratification. Denmark seeks constructive talks; analysts label US measures a negotiating tactic.",
-      "summaryTokens": 1103,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "After Donald Trump threatened 10% then 25% tariffs from February and June on Denmark, Norway, Sweden, France, Germany, the UK, the Netherlands and Finland over Greenland, Macron denounced the intimidation as “unacceptable” and reaffirmed EU support for Greenland’s sovereignty. Swedish PM Kristersson and Norway’s Støre also refused to be blackmailed. EU Council’s Costa and Commission’s von der Leyen warned such tariffs risk undermining transatlantic relations. EU ambassadors will meet urgently, MEPs signal they will pause ratification of the US-EU trade deal, while Denmark seeks to defuse the crisis. Analysts say the targeted tariffs mirror Arctic troop deployments and serve as a US negotiating tactic.",
+      "summaryTokens": 1350,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/uk-politicians-condemn-trumps-threat-to-impose-tariffs-over-greenland",
@@ -65,9 +245,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T19:29:43Z",
       "trailText": "Prime minister and opposition politicians condemn threat to impose 10% tariff unless deal reached to buy the Arctic island",
-      "summary": "Donald Trump’s threat to impose a 10% tariff on the UK and seven NATO allies from 1 February—rising to 25% by 1 June unless Greenland is sold to the US—drew cross-party outrage. Labour leader Keir Starmer called the move “completely wrong,” insisting Greenland’s future lies with Denmark and its people, and urging collective Arctic security. Conservative Kemi Badenoch warned of added business burdens; Lib Dem Ed Davey, Reform’s Nigel Farage and Labour’s Stella Creasy demanded unity and stronger European ties. Ex-security adviser Peter Ricketts recommended a calm, EU-wide response and private diplomacy to resolve the dispute.",
-      "summaryTokens": 701,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Donald Trump threatened to impose 10% tariffs from Feb 1 (rising to 25% on June 1) on the UK and seven other NATO members deploying troops in Greenland unless the US secures a purchase deal. Keir Starmer deemed the move “completely wrong,” emphasising Greenland’s status within the Kingdom of Denmark and urging NATO unity on Arctic security. Opposition leaders Kemi Badenoch, Ed Davey and Nigel Farage and Labour’s Stella Creasy echoed criticism, warning of business burdens and advocating a strategic European response. Ex-diplomat Peter Ricketts called for calm diplomatic engagement to address shared Arctic security interests.",
+      "summaryTokens": 947,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/israel-objects-to-white-houses-pick-of-leaders-for-board-of-peace",
@@ -77,9 +257,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T19:08:49Z",
       "trailText": "Country says some appointments to the group, which will oversee the administration and reconstruction of Gaza, are ‘contrary to its policy’",
-      "summary": "Israel has formally objected to uncoordinated White House appointments to its proposed Gaza “board of peace,” citing conflicts with Israeli policy. The interim body, part of Donald Trump’s 20-point ceasefire plan to supplant Hamas, would oversee governance and reconstruction in Gaza. Announced invitees include Erdoğan, al-Sisi, Tony Blair, Javier Milei, and US figures Marco Rubio, Steve Witkoff, Jared Kushner, with Trump as chair. Its two tiers—the founding executive board and a Gaza executive board supervising the National Committee for the Administration of Gaza—face acceptance uncertainty. Key obstacles remain: Hamas disarmament, aid access amid continued Israeli restrictions and civilian casualties, and security force composition.",
-      "summaryTokens": 449,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Israel objected to the White House’s picks for the Gaza “board of peace,” a temporary body to oversee Gaza’s governance and reconstruction. Nominees include Turkey’s Erdoğan, Egypt’s al-Sisi, ex-PM Tony Blair, Argentina’s Milei, US Sen. Rubio and Jared Kushner, chaired by Trump. Jerusalem says some appointments weren’t coordinated and contravene its policy. Despite an October ceasefire, Israel maintains military operations and aid restrictions in Gaza, where at least 463 Palestinians have died in winter. Erdoğan and al-Sisi’s acceptance is unconfirmed, and disputes endure over Hamas disarmament, security forces and rebuilding a territory wrecked by a two-year war that killed 71,000.",
+      "summaryTokens": 3841,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/climate-antarctica-ice-sheets-glaciers-melting-research-affect-sea-levels",
@@ -89,9 +269,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T19:00:35Z",
       "trailText": "Some regions of the continent have enough ice to push up sea levels by 15 metres if they all melt, but researchers don’t yet fully understand the consequences",
-      "summary": "Antarctica’s ice shelves don’t directly raise sea levels, but thinning from ocean-driven basal melt lets the inland ice sheet flow faster into the sea, risking up to 15 m of global sea-level rise if fully lost. Dr Ben Galton-Fenzi’s team synthesized nine models to estimate recent melt under shelves at 843 bn tonnes per year—equivalent to the Nile’s annual discharge—while satellite data show a net loss of 93 bn tonnes from 1992 to 2020. Sub-shelf Argo float data revealed warm water undermining Totten and Denman shelves, the latter holding enough ice for 1.5 m of rise and poised for unstable retreat. Key uncertainties remain in melt rates and how the influx of cold freshwater could disrupt global ocean circulation—outcomes tied to future greenhouse-gas emissions.",
-      "summaryTokens": 743,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Researchers led by Dr Ben Galton-Fenzi synthesized nine models of Antarctica’s basal melt rates, finding ice shelves lost about 843bn tonnes annually over recent decades—enough to raise sea levels by several metres if destabilized. While shelves float, sub-ice melting beneath Totten and Denman could accelerate ice-sheet collapse, potentially adding up to 15 m of global sea-level rise from vulnerable regions. Sparse under-ice data—partly addressed by Argo floats—means wide uncertainties in projections and impacts on ocean currents. Scientists warn precise melt rates and feedbacks remain critical unknowns for future coastline stability.",
+      "summaryTokens": 1140,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/child-mortality-crisis-continues-in-gaza-with-more-than-100-killed-since-ceasefire",
@@ -101,9 +281,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T17:59:26Z",
       "trailText": "Despite the ceasefire, more than 100 children have died in the territory since October",
-      "summary": "Since October's ceasefire in Gaza, over 100 children have died, including eight from hypothermia this winter. On Jan 16, 27-day-old Aisha Ayesh al-Agha was brought too late to Khan Younis' Nasser hospital after freezing temperatures. Reports by Physicians for Human Rights and University of Chicago Law’s Human Rights Clinic show that from January to June 2025 Gaza recorded 2,600 miscarriages, 220 pregnancy-related deaths, 1,460 preterm births, 1,700 underweight neonates and 2,500 NICU admissions. Fuel shortages, medical blockades, displacement and bombardment have decimated maternal and newborn care. Unicef warns winter storms and inadequate shelter are worsening infant fatalities.",
-      "summaryTokens": 1938,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Gazans face a child mortality crisis: a 27-day-old girl, Aisha Ayesh al-Agha, became the eighth infant to die of hypothermia this winter amid freezing conditions, fuel shortages and disrupted neonatal care. Since the October ceasefire, UN agencies report over 100 child fatalities; Physicians for Human Rights documents Jan–Jun 2025 in Gaza saw 2,600 miscarriages, 220 maternal deaths, 1,460 premature births and 1,700 underweight newborns. Displacement camps flood under storms, walls collapse on tents. The health ministry says 464 Palestinians have been killed and 1,280 injured since the ceasefire.",
+      "summaryTokens": 898,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result",
@@ -113,9 +293,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T17:20:15Z",
       "trailText": "Museveni’s opponent, Bobi Wine, alleges that members of polling staff were kidnapped and called for peaceful protests",
-      "summary": "Yoweri Museveni won Uganda's presidential election with over 70% of the vote, securing a seventh term amid an internet shutdown and fraud claims. Opposition leader Bobi Wine denounced the “fake results”, accusing security forces of raiding his home by helicopter, cutting power and CCTV, and kidnapping polling staff. Biometric voter ID failures forced manual registers, prompting allegations of ballot stuffing. Police denied arresting Wine but clashes killed at least seven. Observers, including Freedom House, deem Uganda “not free”. At 81, Museveni has ruled 40 years, removing term limits and jailing opponents.",
-      "summaryTokens": 1391,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "President Yoweri Museveni secured a seventh term with over 70% of the vote amid an internet blackout and fraud allegations by opposition leader Bobi Wine, who claims polling staff were kidnapped, biometric machines failed, and manual ballot stuffing occurred. Wine, who says security forces raided his home and harassed supporters, has called for peaceful protests to press for “rightful results.” A police-opposition clash left seven dead. Museveni, 81, has ruled Uganda for 40 years, removing term and age limits while presiding over steady economic growth despite ongoing rights concerns.",
+      "summaryTokens": 744,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/senior-iranian-cleric-calls-for-protester-executions-in-defiance-of-trump-claims",
@@ -125,9 +305,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T16:02:02Z",
       "trailText": "Supreme leader blames US for death toll and calls Donald Trump a criminal for support of demonstrations",
-      "summary": "Ayatollah Ali Khamenei acknowledged for the first time that thousands died in two weeks of protests, some ‘inhumanly’ killed, and blamed the US, calling Trump a ‘criminal’ for backing demonstrations. A senior cleric demanded execution of ‘armed hypocrites,’ labeling protesters as Israeli and US agents. Authorities released footage of alleged foreign saboteurs. Rights groups report over 3,090 killed and 22,100 arrested amid an ongoing internet blackout. Exiled royal claimant Reza Pahlavi renewed calls to overthrow the government and urged Trump to intervene.",
-      "summaryTokens": 555,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Ayatollah Ali Khamenei has, for the first time, acknowledged that more than 3,000 people were killed in two weeks of nationwide protests, some ‘in an inhuman, savage manner’, and blamed the US and President Trump—whom he called a ‘criminal’—for stoking unrest. He vowed to crush ‘seditionists’, while another senior cleric demanded execution of ‘armed hypocrites’ labeled as US- and Israeli operatives. Authorities released footage of alleged foreign-backed saboteurs, and rights groups report 22,100 arrests amid an ongoing internet blackout. Exiled prince Reza Pahlavi urged Trump to intervene.",
+      "summaryTokens": 575,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/iranians-abroad-protests-change",
@@ -137,9 +317,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T13:39:00Z",
       "trailText": "We asked some of those who have family in Iran to tell us their views on the current crisis",
-      "summary": "After Reza Pahlavi’s Washington plea for Western support to oust supreme leader Khamenei, and amid Trump’s oscillating threats and claims of a pause in executions, protests in Iran have slowed, with estimates of 2,000–12,000 killed. Iranian expatriates voice varied responses: Roya in Switzerland relies on scarce calls to check on family, rejects both monarchy and foreign military aid, urging grassroots change. UK-based teacher Reza warns that true reform will take a generation. Students Rose and Mani press Trump for urgent intervention and regime change under Pahlavi, while Germany’s Hana cautions that outside meddling risks civil war and instability.",
-      "summaryTokens": 1514,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Exiled Iranian voices in Europe and the US describe anguish over family cut off by internet blackouts, high death toll estimates, and divergent views on change. Some, like Roya and Reza, insist reform must come from within over generations, not via foreign intervention; others, including Rose and Mani, urge urgent US action to protect protesters and enable regime change under Reza Pahlavi. Concerns focus on civilian safety, lack of medical access, and uncertainty about post-regime leadership. A minority, like Hana, warns against outside forces fearing civil war and advocates cautious internal evolution. Overall, widespread hope coexists with fear and skepticism.",
+      "summaryTokens": 1001,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/antonio-guterres-warns-forces-undermining-global-cooperation-un-80th-anniversary-secretary-general-multilateralism-international-law",
@@ -149,9 +329,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T07:00:19Z",
       "trailText": "In historic speech to mark UN’s 80th anniversary, secretary general makes impassioned plea for multilateralism and international law amid drastic US funding cuts",
-      "summary": "In a speech marking the UN’s 80th anniversary at London’s Methodist Central Hall, António Guterres warned of “powerful forces” undermining global cooperation and urged renewed commitment to multilateralism and international law. He highlighted the climate crisis, record heat, surging fossil fuel profits, algorithm-driven online falsehoods and a new arms race as existential threats, noting world military spending hit $2.7 trn. Guterres decried US cuts to $2 bn in humanitarian aid under demands to “adapt, shrink or die,” and pledged UN reforms to make it more agile, coordinated and responsive.",
-      "summaryTokens": 704,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "In a speech marking the UN’s 80th anniversary in London, secretary-general António Guterres warned that 'powerful forces' are undermining global cooperation, urging renewed commitment to multilateralism and international law. He highlighted unprecedented military spending ($2.7 trn in 2025), escalating arms races, the climate emergency and harmful online algorithms spreading falsehood and empowering authoritarians. Against this backdrop, he criticized deep cuts in US funding—just $2 bn for humanitarian aid—and Trump’s withdrawals from UN bodies and the climate treaty. Guterres pledged reforms to make the UN more agile, coordinated and responsive.",
+      "summaryTokens": 1607,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/greenland-crisis-europe-needs-trump-but-it-also-needs-to-stand-up-to-him",
@@ -161,9 +341,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T05:15:49Z",
       "trailText": "US president’s increasingly bellicose demands for control of the island may force the EU to draw a line in the snow",
-      "summary": "Facing Trump’s bid to purchase Greenland, European leaders have largely tolerated his defence-spending demands but now see a sovereignty red line. Denmark’s FM Lars Løkke Rasmussen and Greenland’s Vivian Motzfeldt rejected US annexation talks as reckless. NATO allies counter Trump’s security rationale by deploying French, German and Nordic troops, while the EU mulls Arctic summits, doubling aid and even freezing ratification of the US trade deal to uphold Danish sovereignty. Officials warn the crisis tests Europe’s willingness to stand up to Washington amid dependency on US security, as Brussels seeks deeper transatlantic dialogue and fortifies Greenland’s resilience.",
-      "summaryTokens": 1013,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "US president Donald Trump’s renewed push to acquire or control Greenland has triggered a transatlantic crisis, forcing Europe to shore up Arctic defense and assert sovereignty despite its reliance on US security. Danish and Greenlandic officials drew a firm red line, as Trump threatened tariffs on dissenters. Europe dispatched French, German, UK and Nordic troops to Greenland, proposed Arctic summits in Nuuk, and considered EU trade deal delays to strengthen Brussels’ hand. EU leaders, including Ursula von der Leyen, pledged increased political and financial support, signalling Europe’s determination to balance alliance solidarity with strategic autonomy.",
+      "summaryTokens": 1003,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/iran-protests-opposition",
@@ -173,9 +353,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T05:00:18Z",
       "trailText": "Grieving, bruised and divided on the wisdom of foreign-backed revolt, how can the Iranian people achieve change?",
-      "summary": "The Iranian government crushed recent nationwide protests with unprecedented violence, leaving the opposition inside Iran grieving, divided, and under a communication blackout. Reformist president promises proved hollow and foreign support remains elusive. Exiled figurehead Reza Pahlavi faces credibility challenges over unfulfilled promises of strikes, US intervention and monarchist nostalgia amid state TV propaganda framing protesters as foreign pawns. Internal exile coalitions fracture over strategy—from violent revolt to non-violent resistance—while moral authority may shift to imprisoned activists like Narges Mohammadi and Mostafa Tajzadeh.",
-      "summaryTokens": 788,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Iran’s state crackdown on the latest uprisings has plunged the opposition into grief and division over the wisdom of foreign-backed revolt and how to achieve change. Reformist president Pezeshkian’s initial overtures were hollow as security forces enacted the regime’s most brutal repression since the 1980s, leaving protesters bereaved and cut off by a communications blackout. Exiled claimant Reza Pahlavi has become a focal point—hailed by some as a neutral consensus builder but tarnished by unfulfilled promises of Trump intervention, ties to Netanyahu and internal exile infighting. Analysts warn only a credible domestic alternative, rooted in solidarity with jailed activists, can unite Iranians.",
+      "summaryTokens": 1075,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/iran-plans-permanent-break-from-global-internet-say-activists",
@@ -185,9 +365,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T05:00:18Z",
       "trailText": "Report claims unrestricted online access will be a ‘government privilege’, limited to individuals vetted by regime",
-      "summary": "Filterwatch activists reveal Iran is executing a confidential plan to permanently break from the global internet, restricting filtered international access to regime-vetted users after 2026 and confining others to a monitored national intranet. The blackout, active since January 8 amid a brutal crackdown on protests, uses Chinese-enabled high-capacity middleboxes and whitelisting tools. Iran’s domestic network hosts state-approved apps and sites but has no external links. Critics warn the shift will inflict massive economic and cultural damage while cementing authoritarian online control.",
-      "summaryTokens": 1188,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Iran is planning to permanently sever unrestricted access to the global internet, restricting it to regime-vetted individuals. According to activists from Filterwatch, a confidential roadmap will convert international connectivity into a government privilege post-2026. Citizens who pass security checks will access a filtered global network; others will be confined to a domestic intranet hosting state-approved messaging, search and streaming services. This move builds on a 16-year censorship strategy including whitelisting tech likely imported from China and national internet infrastructure launched after 2009. The current shutdown, initiated on January 8 amid anti-regime protests and a blackout longer than Egypt’s 2011 outage, underscores Tehran’s escalating digital clampdown.",
+      "summaryTokens": 1282,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/madrid-oversaturated-prado-musuem-director",
@@ -197,9 +377,9 @@
       "section": "world",
       "publishedDate": "2026-01-17T05:00:17Z",
       "trailText": "The famous gallery, home to masterpieces from Goya and Velázquez, is exploring how best to preserve, and improve, the visitor experience",
-      "summary": "Prado director Miguel Falomir warns that after a record 3.5 million visits in 2025, the museum risks oversaturation—“we don’t need a single visitor more”—and is piloting measures to preserve visitor quality. Proposals include optimized entrances, limits on group size and stricter no‐photo enforcement. A Guardian visit in mid‐January found 90-second entry queues and manageable crowds at Bosch’s Garden of Earthly Delights, Goya galleries and Las Meninas, while peripheral rooms remained almost empty. Visitors from Stockholm, Murcia and local members praised the balanced experience and efficient cloakrooms and audio guides.",
-      "summaryTokens": 1009,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "Prado director Miguel Falomir says last year’s record 3.5 million visitors has hit a threshold, risking overcrowding like Metro rush-hour. The museum is piloting measures—staggered entrances, smaller tour groups and stricter no-photo enforcement—to prioritise quality over quantity. Mid-January queues were minimal and quieter galleries like Alonso Cano offer tranquil viewing, while hotspots such as Las Meninas and The Garden of Earthly Delights remain busy. Visitors and locals praise the balance between accessibility and atmosphere as the Prado seeks to safeguard its masterpieces and visitor experience.",
+      "summaryTokens": 547,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/17/mark-carney-in-china-positions-canada-for-the-world-as-it-is-not-as-we-wish-it",
@@ -209,9 +389,21 @@
       "section": "world",
       "publishedDate": "2026-01-17T02:36:43Z",
       "trailText": "PM’s visit to Beijing seen as a welcome reset to relations in a ‘new world order’ but critics worry what trade deal could mean for Canadian workers",
-      "summary": "During his first Beijing visit in nearly a decade, PM Mark Carney secured a “preliminary but landmark” agreement with China, signalling a reset in bilateral relations and acknowledgment of a “new world order.” A provisional deal allows up to 49,000 Chinese EVs into Canada, cuts Chinese tariffs on canola, lobsters, seafood and peas, and reflects Carney’s bid to diversify exports beyond the US, which absorbs 70% of Canadian shipments. While hailed as a strategic partnership enhancing Canada’s autonomy, critics warn it risks domestic jobs, overdependence on China and underplay security and human-rights concerns.",
-      "summaryTokens": 883,
-      "generatedAt": "2026-01-18T04:03:59.238Z"
+      "summary": "On a landmark visit, PM Mark Carney reset Canada–China ties with a ‘preliminary, provisional’ trade deal granting up to 49,000 Chinese EVs entry, cutting Chinese tariffs on canola, lobsters, seafood and peas through year-end, and pledging broader tariff reductions. Aimed at diversifying Canada’s 70% US-centric exports and embracing a ‘new world order’, the pact was hailed as a strategic partnership yet drew criticism over worker impact and overreliance on China. Carney affirmed ‘red lines’ on human rights and election interference while stressing cooperation in a fractured global landscape.",
+      "summaryTokens": 757,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
+    },
+    {
+      "id": "world/2026/jan/17/ukraine-war-briefing-czechs-offer-drone-hunting-jets-as-zelenskyy-flags-air-defence-shortages",
+      "title": "Ukraine war briefing: Czechs offer drone-hunting jets as Zelenskyy flags air defence shortages",
+      "webUrl": "https://www.theguardian.com/world/2026/jan/17/ukraine-war-briefing-czechs-offer-drone-hunting-jets-as-zelenskyy-flags-air-defence-shortages",
+      "apiUrl": "https://content.guardianapis.com/world/2026/jan/17/ukraine-war-briefing-czechs-offer-drone-hunting-jets-as-zelenskyy-flags-air-defence-shortages",
+      "section": "world",
+      "publishedDate": "2026-01-17T02:33:44Z",
+      "trailText": "The light L-159 fighter is likely the plane promised by president of Czech Republic, Petr Pavel, to Volodymyr Zelenskyy. What we know on day 1,424",
+      "summary": "President Petr Pavel pledged Czech-made subsonic L-159 jets—armed with missiles and machine-gun pods and used by Iraq and Western air forces—to help Ukraine hunt Russian drones, and mooted supplying early-warning radars. Zelenskyy admitted critical air-defence ammo shortages, resolved by a fresh delivery, and appealed to Europe and the US for more support. In Miami this weekend, Ukraine and the US will discuss security guarantees and postwar reconstruction, aiming to formalize pacts possibly at Davos. A KIIS poll shows 54% of Ukrainians reject trading Donetsk troops for guarantees, and 70% doubt a lasting peace. Meanwhile, both sides agreed a local ceasefire to restore power to Zaporizhzhia nuclear plant.",
+      "summaryTokens": 599,
+      "generatedAt": "2026-01-19T04:11:37.344Z"
     },
     {
       "id": "world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported",
@@ -10517,7 +10709,7 @@
       "section": "world",
       "publishedDate": "2025-11-28T05:00:55Z",
       "trailText": "Kanal is 95% complete and on schedule but plans to slash its budget mean conversation around its opening have moved from ‘when’ to ‘if’",
-      "summary": "Brussels’s Kanal, 95% complete in a former Citroën garage, plans to open Nov 2026 with 12,500 m² of exhibition, architecture and performance spaces—surpassing the original Tate Modern—and a five-year, €2 m/yr Centre Pompidou partnership. But 537 days of political paralysis in the Brussels-Capital region and a looming €1 bn austerity drive, with proposals to cut Kanal’s budget by over 50%, threaten to halt construction. Supporters highlight 780 new jobs and a €144 m annual economic boost; critics call to ditch the Pompidou tie and scale back to avoid cultural “suicide.”",
+      "summary": "Brussels’s Kanal, 95% complete in a former Citroën garage, plans to open Nov 2026 with 12,500 m² of exhibition, architecture and performance spaces—surpassing the original Tate Modern—and a five-year, €2 m/yr Centre Pompidou partnership. But 537 days of political paralysis in the Brussels-Capital region and a looming €1 bn austerity drive, with proposals to cut Kanal’s budget by over 50%, threaten to halt construction. Supporters highlight 780 new jobs and a €144 m annual economic boost; critics call to ditch the Pompidou tie and scale back to avoid cultural ��suicide.”",
       "summaryTokens": 1035,
       "generatedAt": "2025-11-30T03:59:41.398Z"
     },
