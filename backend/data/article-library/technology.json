@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-18T03:52:34.155Z",
+    "generated_at": "2026-01-19T04:06:25.413Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-17"
+      "to": "2026-01-18"
     },
-    "article_count": 386,
+    "article_count": 389,
     "merge_info": {
-      "previous_count": 384,
-      "new_articles": 2,
-      "updated_articles": 9,
-      "total_count": 386
+      "previous_count": 386,
+      "new_articles": 3,
+      "updated_articles": 2,
+      "total_count": 389
     },
     "batch_info": {
-      "initial_batch_id": "batch_696c589fe3108190a89f1f4258eae83b",
+      "initial_batch_id": "batch_696da9ce1bd48190808b912c77e783ff",
       "retry_batches": [],
-      "total_tokens": 30320,
-      "processing_time_hours": 0
+      "total_tokens": 16786,
+      "processing_time_hours": 0.3
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/18/deactivate-your-x-account-you-wont-miss-it-when-its-gone",
+      "title": "Deactivate your X account – you won’t miss it when it’s gone | Letter",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/18/deactivate-your-x-account-you-wont-miss-it-when-its-gone",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/18/deactivate-your-x-account-you-wont-miss-it-when-its-gone",
+      "section": "technology",
+      "publishedDate": "2026-01-18T17:37:26Z",
+      "trailText": "Letters: Why prolific poster Sam Nair decided it was time to kick the doom-scrolling into touch",
+      "summary": "Sam Nair, who joined in 2007 after a Guardian feature, describes building a curated feed of policy blogs, academic articles for work, football highlights and train updates—using tweets to shape career and conversations. Inspired by Marie Le Conte's warning and disturbed by sexual abuse content on Grok, he realised he'd become stuck in dopamine-fuelled doom-scrolling. Pressured by friends and his partner, he deactivated his X account. Despite early anxiety, he immediately felt relief, no longer misses the platform, and views his years online as a strange, fleeting dream.",
+      "summaryTokens": 1379,
+      "generatedAt": "2026-01-19T04:06:25.255Z"
+    },
+    {
+      "id": "technology/2026/jan/18/grok-x-ai-tool-still-accessible-malaysia-despite-ban-vpns",
+      "title": "‘Still here!’: X’s Grok AI tool accessible in Malaysia and Indonesia despite ban",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/18/grok-x-ai-tool-still-accessible-malaysia-despite-ban-vpns",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/18/grok-x-ai-tool-still-accessible-malaysia-despite-ban-vpns",
+      "section": "technology",
+      "publishedDate": "2026-01-18T09:39:37Z",
+      "trailText": "Experts warn use of VPNs makes it hard to limit access to technology that can create nonconsensual explicit images",
+      "summary": "Despite Malaysia’s temporary ban of xAI’s Grok over its ability to generate nonconsensual explicit images, the AI chatbot remains reachable via lightweight DNS blocks or VPNs and continues responding on X. Indonesia’s similar restriction hasn’t stopped users creating exploitative images of celebrities like JKT48 or hijab-removal deepfakes in Malaysia. Experts warn such bans are easily circumvented, urging law enforcement action, platform transparency, built-in safety-by-design and robust abuse-reporting. X says it will geoblock bikini-clothing edits and tighten filters, but standalone app workarounds persist.",
+      "summaryTokens": 1147,
+      "generatedAt": "2026-01-19T04:06:25.255Z"
+    },
     {
       "id": "technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward",
       "title": "‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2026-01-17T12:00:27Z",
       "trailText": "Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI",
-      "summary": "Investors have poured roughly $2.9tn into datacentres and AI infrastructure, plus Nvidia’s $4tn market cap and $100m bonuses, banking on AGI to generate outsized returns. Experts like Yoshua Bengio warn progress could hit an unforeseen wall, triggering a crash across equity, debt and GDP, while David Bader cautions that scaling current transformer architectures may fall short without new breakthroughs. Despite bubble warnings from Pichai and Bezos, hyperscalers fund expansions with cashflow, and optimists argue generative AI alone justifies the multitrillion-dollar bet. Meanwhile, credit markets – from private loans and asset-backed securities to high-yield bonds – carry risk of contagion if AGI stalls.",
-      "summaryTokens": 1989,
-      "generatedAt": "2026-01-18T03:52:34.052Z"
+      "summary": "Trillions of dollars are pouring into AI infrastructure—$2.9tn on datacentres, Nvidia’s $4tn market cap, $100m OpenAI bonuses—fueled by bets on achieving artificial general intelligence (AGI) to replace white-collar labor. Giants like Alphabet, Amazon and Microsoft fund datacentre build-out via cashflow; the rest relies on private credit, bonds, securitization—raising crisis risk if AGI hits a “wall,” as Yoshua Bengio warns. A debt market shock could cascade across investment-grade, high-yield and shadow banking. Tech stocks (“Magnificent 7”) now exceed a third of the S&P 500, prompting Bank of England and IMF alerts to “bubble” valuations and potential contagion.",
+      "summaryTokens": 1107,
+      "generatedAt": "2026-01-19T04:06:25.255Z"
     },
     {
       "id": "technology/2026/jan/17/vastaamo-hack-finland-therapy-notes",
@@ -41,9 +65,21 @@
       "section": "technology",
       "publishedDate": "2026-01-17T06:00:20Z",
       "trailText": "How would you feel if your therapist’s notes – your darkest thoughts and deepest feelings – were exposed to the world? For 33,000 Finnish people, that became a terrifying reality, with deadly consequences",
-      "summary": "In October 2020 a hacker calling himself ransom_man extorted Finnish psychotherapy provider Vastaamo, obtaining and threatening to publish 33,000 patients’ therapy transcripts, social security numbers and contact details unless paid in bitcoin. Personal records—including headteacher Tiina Parikka’s and other clients’ deepest confessions—were released on the dark web in batches, prompting trauma, panic and at least two suicides. Investigators uncovered that Vastaamo’s database had no password, traced the bitcoin trail to London and linked ransom_man to Julius (Aleksanteri) Kivimäki. Arrested in Paris in February 2023, he was convicted in April 2024 and jailed for six years and three months.",
-      "summaryTokens": 827,
-      "generatedAt": "2026-01-18T03:52:34.052Z"
+      "summary": "Between October and November 2020, hacker “ransom_man” extorted Vastaamo, Finland’s largest private psychotherapy provider, exposing the therapy records—social security numbers and session transcripts—of 33,000 patients, many of them vulnerable. When the CEO refused a 40 BTC ransom, batches of notes were leaked daily on the dark web, driving some victims to suicide. After an 18-month investigation, cybersecurity detective Antti Kurittu and police traced the breach to notorious teen hacker Julius/Aleksanteri Kivimäki via file metadata and bitcoin funds. Arrested in Paris in 2023, he was convicted in April 2024 of aggravated invasion of privacy and attempted extortion, receiving a six-year prison sentence, while Vastaamo went bankrupt and victims pursue damages.",
+      "summaryTokens": 526,
+      "generatedAt": "2026-01-19T04:06:25.255Z"
+    },
+    {
+      "id": "technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report",
+      "title": "China blocks Nvidia H200 AI chips that US government cleared for export – report",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report",
+      "section": "technology",
+      "publishedDate": "2026-01-17T05:09:02Z",
+      "trailText": "Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale",
+      "summary": "Nvidia’s suppliers halted H200 AI chip production after Chinese customs refused entry of shipments approved by the US for export. Despite planned deliveries of over one million units, Beijing summoned domestic buyers and barred purchases without giving formal reasons, sparking industry confusion over whether this is a temporary restriction, outright ban, or leverage to spur local chip development. The move layers on US-imposed 25% tariffs via mandatory US lab testing and reignites debate on whether selling H200s to China helps slow its indigenous efforts or risks enabling military applications.",
+      "summaryTokens": 925,
+      "generatedAt": "2026-01-19T04:06:25.255Z"
     },
     {
       "id": "technology/2026/jan/16/chatgpt-ads-in-revenue-boost",
