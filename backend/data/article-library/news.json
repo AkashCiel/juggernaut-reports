@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-18T03:46:43.225Z",
+    "generated_at": "2026-01-19T03:44:48.772Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-16"
+      "to": "2026-01-18"
     },
-    "article_count": 211,
+    "article_count": 212,
     "merge_info": {
       "previous_count": 211,
-      "new_articles": 0,
-      "updated_articles": 2,
-      "total_count": 211
+      "new_articles": 1,
+      "updated_articles": 0,
+      "total_count": 212
     },
     "batch_info": {
-      "initial_batch_id": "batch_696c571629b48190be9b8c806e92f0c1",
+      "initial_batch_id": "batch_696da89854e08190887390c22d4b1ab1",
       "retry_batches": [],
-      "total_tokens": 2627,
+      "total_tokens": 1482,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/18/corrections-and-clarifications1",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/18/corrections-and-clarifications1",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/18/corrections-and-clarifications1",
+      "section": "news",
+      "publishedDate": "2026-01-18T21:00:05Z",
+      "trailText": "Banaz’s law | Time Team",
+      "summary": "Guardian issues corrections: ‘Banaz’s law’ bill drafts statutory guidance on honour-based abuse—not a legal definition. Time Team Patreon numbers amended: 16,000 members, 11,000 paid supporters. Recent articles corrected include analyses of Grok AI limits on X and UK watchdog, lithium mining in Chile’s salt flats raising water-scarcity fears, and reactions to Robert Jenrick’s move to Reform. Editorial corrections: readers can write to guardian.readers@theguardian.com, Readers’ Editor at Kings Place, London, or call +44 20 3353 4736.",
+      "summaryTokens": 1058,
+      "generatedAt": "2026-01-19T03:44:48.643Z"
+    },
     {
       "id": "news/2026/jan/16/corrections-and-clarifications",
       "title": "Corrections and clarifications",
