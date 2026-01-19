@@ -1,26 +1,74 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-18T03:49:12.399Z",
+    "generated_at": "2026-01-19T03:48:00.701Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-17"
+      "to": "2026-01-18"
     },
-    "article_count": 186,
+    "article_count": 190,
     "merge_info": {
-      "previous_count": 184,
-      "new_articles": 2,
-      "updated_articles": 0,
-      "total_count": 186
+      "previous_count": 186,
+      "new_articles": 4,
+      "updated_articles": 2,
+      "total_count": 190
     },
     "batch_info": {
-      "initial_batch_id": "batch_696c57e0cc48819098bf210b21bd4bff",
+      "initial_batch_id": "batch_696da918f1408190bf275003af386532",
       "retry_batches": [],
-      "total_tokens": 4712,
+      "total_tokens": 13500,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2026/jan/18/simple-blood-test-can-predict-which-breast-cancer-treatment-will-work-best-study-finds",
+      "title": "Simple blood test can predict which breast cancer treatment will work best, study finds",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/18/simple-blood-test-can-predict-which-breast-cancer-treatment-will-work-best-study-finds",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/18/simple-blood-test-can-predict-which-breast-cancer-treatment-will-work-best-study-finds",
+      "section": "science",
+      "publishedDate": "2026-01-18T15:26:08Z",
+      "trailText": "Exclusive: DNA test means patients could be offered most effective treatment first, boosting their chances of beating the disease",
+      "summary": "Researchers at the Institute of Cancer Research, London, developed a liquid biopsy measuring circulating tumor DNA (ctDNA) in 167 advanced breast cancer patients. Low ctDNA levels before treatment correlated with longer progression-free survival (10.2 vs. 4.4 months) and higher response rates (40% vs. 9.7%) in triple-negative cases, with similar trends in mutation-matched therapies. After one cycle, undetectable ctDNA predicted PFS of 10.6 vs. 3.5 months (targeted group) and 12 vs. 4.3 months (triple-negative). Ongoing trials are assessing ctDNA-guided treatment adjustments to improve outcomes.",
+      "summaryTokens": 643,
+      "generatedAt": "2026-01-19T03:48:00.531Z"
+    },
+    {
+      "id": "science/2026/jan/18/the-sudden-rise-of-scabies",
+      "title": "The sudden rise of scabies: ‘I wouldn’t wish it on my worst enemy’",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/18/the-sudden-rise-of-scabies",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/18/the-sudden-rise-of-scabies",
+      "section": "science",
+      "publishedDate": "2026-01-18T14:00:58Z",
+      "trailText": "These microscopic mites, which burrow under your skin and cause ferocious itching, are incredibly hard to get rid of – and cases in the UK have soared. What is causing the outbreak, and is there anything we can do about it?",
+      "summary": "UK scabies cases have soared since 2021, spiking sharply post-pandemic with a 44% rise in STI clinics between 2023–24. Invisible Sarcoptes mites burrow under skin, causing intense itching, and survivors report extreme measures—laundry marathons, steam cleaning, evacuation to caravans, multiple permethrin and malathion rounds, ivermectin, benzyl benzoate. Outbreaks cluster in shared settings—universities, hostels—exacerbated by treatment supply shortages, delayed care, misdiagnoses, stigma. Diagnosis often comes too late, fueling ‘ping-pong’ reinfestation. Young adults (20–24) hardest hit, mental health suffers, insomnia and shame prevail. Experts stress scrupulous combined household treatment and contact tracing to curb this resurging public-health nuisance.",
+      "summaryTokens": 1046,
+      "generatedAt": "2026-01-19T03:48:00.531Z"
+    },
+    {
+      "id": "science/2026/jan/18/can-you-solve-it-are-you-cut-out-for-these-puzzling-slices",
+      "title": "Can you solve it? Are you cut out for these puzzling slices? ",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/18/can-you-solve-it-are-you-cut-out-for-these-puzzling-slices",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/18/can-you-solve-it-are-you-cut-out-for-these-puzzling-slices",
+      "section": "science",
+      "publishedDate": "2026-01-18T07:10:48Z",
+      "trailText": "Or will they have you in pieces?",
+      "summary": "Today’s geometrical puzzles from Ian Stewart challenge you to: 1) Tile a 33-cell square grid missing three corners with eleven three-cell straight triominoes—determine if it’s possible and why not. 2) Recut a given polyform into four identical pieces (using only existing grid lines) that assemble into a square, finding a novel dissection. 3) Divide three pizzas among five people so each receives identical slice sizes and counts while minimizing total pieces. Answers posted at 5 pm UK. Plus, Stewart’s new book Reaching for the Extreme (out Feb 12) is available for preorder.",
+      "summaryTokens": 437,
+      "generatedAt": "2026-01-19T03:48:00.531Z"
+    },
+    {
+      "id": "science/2026/jan/18/astronomers-revolutionary-moving-image-black-hole-cambridge-science",
+      "title": "Revolutionary imaging of black hole aims to prove they are not ‘evil vacuum cleaners’",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/18/astronomers-revolutionary-moving-image-black-hole-cambridge-science",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/18/astronomers-revolutionary-moving-image-black-hole-cambridge-science",
+      "section": "science",
+      "publishedDate": "2026-01-18T07:00:50Z",
+      "trailText": "Newly appointed Cambridge professor says feat would accelerate scientific knowledge by an order of magnitude",
+      "summary": "Using the global Event Horizon Telescope network of 12 radio dishes spanning Antarctica to Spain and Korea, astronomers will film M87’s supermassive black hole—six billion‐solar‐mass, solar‐system‐scaled—every three days this March and April. Cambridge’s new Plumian professor Sera Markoff calls the “movie campaign” revolutionary for measuring black‐hole spin, jet‐launching mechanisms and testing growth via accretion versus mergers. This may accelerate cosmic evolution studies tenfold. Data processing follows Antarctic summer shipping. Markoff, from a non-academic background, hopes the project inspires diverse future astrophysicists.",
+      "summaryTokens": 817,
+      "generatedAt": "2026-01-19T03:48:00.531Z"
+    },
     {
       "id": "science/2026/jan/17/what-happens-accidental-heroes-when-headlines-fade-ntwnfb",
       "title": "What happens to accidental heroes when the headlines fade? ‘You get your award and then there’s nothing’",
@@ -29,9 +77,9 @@
       "section": "science",
       "publishedDate": "2026-01-17T19:00:36Z",
       "trailText": "After traumatic events we look for reminders of humanity’s good, and flashes of courage from ordinary people become symbols of hope. But it can be hard to wear the hero’s crown",
-      "summary": "After traumatic events, ordinary individuals often act heroically—like Anneke Weemaes-Sutcliffe aiding survivors of the 2016 Brussels bombings, off-duty nurse Lynne Beavis at Port Arthur, and “Bollard Man” Damien Guerot in Bondi. Such spontaneous bravery sparks media attention and awards, but Dr Thomas Voigt’s research finds nearly 90% of civilian honorees develop PTSD or related trauma and lack structured support. Media-driven hero narratives can oversimplify identity, leaving survivors feeling discarded once headlines fade. Still, some report post-traumatic growth, valuing life’s small joys despite enduring guilt and flashbacks.",
-      "summaryTokens": 630,
-      "generatedAt": "2026-01-18T03:49:12.312Z"
+      "summary": "In mass-trauma incidents, ordinary bystanders—from Anneke Weemaes-Sutcliffe at Brussels airport to ‘Trolley Man’ Michael Rodgers—become instant symbols of hope. Awarded medals and media acclaim, they often face lasting PTSD, guilt over lives they couldn’t save, financial hardship and an abrupt loss of public attention once headlines shift. Dr Thomas Voigt’s research shows nearly 90% develop trauma symptoms while 71% receive no formal support. Scholars warn that hero narratives oversimplify individuals, trapping them in one-dimensional roles, even as some find post-traumatic growth through deeper appreciation of life’s small joys.",
+      "summaryTokens": 375,
+      "generatedAt": "2026-01-19T03:48:00.531Z"
     },
     {
       "id": "science/2026/jan/17/nasa-readies-most-powerful-rocket-round-moon-flight",
@@ -41,9 +89,9 @@
       "section": "science",
       "publishedDate": "2026-01-17T06:00:22Z",
       "trailText": "Artemis II mission could launch on 6 February, sending astronauts on a 685,000-mile journey",
-      "summary": "NASA will roll out its Space Launch System (SLS), the most powerful rocket ever built, ahead of Artemis II—a crewed, 685,000-mile round-the-moon test flight launching as early as 6 February from Kennedy Space Center. Four astronauts—Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen—will live and work aboard Orion, testing life-support, communications and docking procedures, and will loop around the moon (but not land) before a Pacific splashdown about ten days later. This second SLS test and first crewed mission since Apollo 17 aims to validate hardware for Artemis III’s lunar south pole landing and accelerate US goals in a renewed lunar space race.",
-      "summaryTokens": 703,
-      "generatedAt": "2026-01-18T03:49:12.312Z"
+      "summary": "Nasa is set to launch its Space Launch System rocket on Artemis II, the most powerful in its history, from Kennedy Space Center as early as 6 February. Four astronauts – Wiseman, Glover, Koch and Hansen – will test the Orion capsule’s life-support, communications and docking over a 685,000-mile, roughly 10-day mission looping twice around Earth, flying around the moon’s far side before a Pacific splashdown. Koch and Glover will be the first woman and person of colour beyond low Earth orbit since Apollo. This crewed flight paves the way to Artemis III and lunar south pole landings.",
+      "summaryTokens": 689,
+      "generatedAt": "2026-01-19T03:48:00.531Z"
     },
     {
       "id": "science/2026/jan/15/first-medical-evacuation-nasa-astronauts-back-to-earth",
