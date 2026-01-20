@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-19T03:44:48.772Z",
+    "generated_at": "2026-01-20T03:43:30.291Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-18"
+      "to": "2026-01-19"
     },
-    "article_count": 212,
+    "article_count": 213,
     "merge_info": {
-      "previous_count": 211,
+      "previous_count": 212,
       "new_articles": 1,
-      "updated_articles": 0,
-      "total_count": 212
+      "updated_articles": 1,
+      "total_count": 213
     },
     "batch_info": {
-      "initial_batch_id": "batch_696da89854e08190887390c22d4b1ab1",
+      "initial_batch_id": "batch_696ef954294881908e56f781b6fbfc58",
       "retry_batches": [],
-      "total_tokens": 1482,
+      "total_tokens": 3685,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/19/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/19/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/19/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2026-01-19T21:00:04Z",
+      "trailText": "Hilma af Klint | Bibimbap sauce",
+      "summary": "The Guardian corrects two recent errors: print‐only Trivia misidentified painter Hilma af Klint’s nationality—she is Swedish—and a Pass Notes item mischaracterized bibimbap sauce, which traditionally uses gochujang, sesame oil, soy sauce, sugar, rice vinegar and garlic. Additional amendments cover LA Reid’s sexual assault suit settlement; a US House candidate’s nazis.us redirect; black hole imaging; Russia’s winter weaponisation in Bucha; Elon Musk’s xAI datacentre power breach; the 2026 Adelaide writers’ festival feud; a Snowy Mountains summer guide; and María Corina Machado’s Trump Nobel medal presentation. Corrections may be sent to guardian.readers@theguardian.com, Readers’ editor, Kings Place, London N1 9GU, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 1048,
+      "generatedAt": "2026-01-20T03:43:30.171Z"
+    },
     {
       "id": "news/2026/jan/18/corrections-and-clarifications1",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2026-01-18T21:00:05Z",
       "trailText": "Banaz’s law | Time Team",
-      "summary": "Guardian issues corrections: ‘Banaz’s law’ bill drafts statutory guidance on honour-based abuse—not a legal definition. Time Team Patreon numbers amended: 16,000 members, 11,000 paid supporters. Recent articles corrected include analyses of Grok AI limits on X and UK watchdog, lithium mining in Chile’s salt flats raising water-scarcity fears, and reactions to Robert Jenrick’s move to Reform. Editorial corrections: readers can write to guardian.readers@theguardian.com, Readers’ Editor at Kings Place, London, or call +44 20 3353 4736.",
-      "summaryTokens": 1058,
-      "generatedAt": "2026-01-19T03:44:48.643Z"
+      "summary": "Correction: ‘Banaz’s Law’ sets statutory guidance on honour-based abuse, not a legal definition as previously reported. A Time Team article wrongly stated it has 16,000 paid Patreon supporters; it has 16,000 members, 11,000 of whom pay. Recent amendments also cover: Grok AI tool limits and X oversight; Chilean lithium mining and water risk; and the mixed Reform response to Jenrick’s defection. For corrections, email guardian.readers@theguardian.com, write to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or leave voicemail at +44 20 3353 4736.",
+      "summaryTokens": 1717,
+      "generatedAt": "2026-01-20T03:43:30.171Z"
     },
     {
       "id": "news/2026/jan/16/corrections-and-clarifications",
