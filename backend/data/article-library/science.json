@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "science",
-    "generated_at": "2026-01-20T03:46:42.528Z",
+    "generated_at": "2026-01-21T03:47:06.996Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-19"
+      "to": "2026-01-20"
     },
-    "article_count": 194,
+    "article_count": 196,
     "merge_info": {
-      "previous_count": 190,
-      "new_articles": 4,
+      "previous_count": 194,
+      "new_articles": 2,
       "updated_articles": 4,
-      "total_count": 194
+      "total_count": 196
     },
     "batch_info": {
-      "initial_batch_id": "batch_696efa4ac0608190a36f851bd9a4d06a",
+      "initial_batch_id": "batch_69704be2e9288190a8fabd45f8028896",
       "retry_batches": [],
-      "total_tokens": 16698,
+      "total_tokens": 9611,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "science/2026/jan/20/king-harold-coins-from-1066-and-roman-artefacts-top-uk-2024-treasure-finds",
+      "title": "King Harold coins from 1066 and Roman artefacts top UK’s 2024 treasure finds",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/20/king-harold-coins-from-1066-and-roman-artefacts-top-uk-2024-treasure-finds",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/20/king-harold-coins-from-1066-and-roman-artefacts-top-uk-2024-treasure-finds",
+      "section": "science",
+      "publishedDate": "2026-01-20T13:09:29Z",
+      "trailText": "British Museum hails record-breaking year for archaeological discoveries – thanks largely to metal detectorists",
+      "summary": "Britain’s 2024 archaeological finds hit a record 79,616, with 94% reported by metal detectorists, the British Museum says. Highlights include a hoard of 179 Harold II silver pennies likely buried on the eve of 1066 battles; a rare AD 43–200 copper-alloy Roman vehicle fitting; and early medieval precious-metal objects—a silver, gold and garnet bird’s-head terminal, gold rings and ivory inlays—found in Wiltshire, possibly from a high-status burial. In 1,540 Treasure Act cases, Norfolk, Suffolk, Lincolnshire and Gloucestershire topped PAS find lists. Cardiff University and PAS will lead follow-up excavations.",
+      "summaryTokens": 1166,
+      "generatedAt": "2026-01-21T03:47:06.807Z"
+    },
+    {
+      "id": "science/2026/jan/20/aurora-australis-set-to-light-up-australian-sky-as-agencies-monitor-severe-solar-storm",
+      "title": "Aurora australis set to light up Australian sky as agencies monitor ‘severe’ solar storm",
+      "webUrl": "https://www.theguardian.com/science/2026/jan/20/aurora-australis-set-to-light-up-australian-sky-as-agencies-monitor-severe-solar-storm",
+      "apiUrl": "https://content.guardianapis.com/science/2026/jan/20/aurora-australis-set-to-light-up-australian-sky-as-agencies-monitor-severe-solar-storm",
+      "section": "science",
+      "publishedDate": "2026-01-20T06:40:40Z",
+      "trailText": "The spectacular aurora australis, also known as the southern lights, may be visible as far north as Victoria and New South Wales",
+      "summary": "A severe solar storm, triggered by a large flare on 18 January, will reach Earth on 20 January and could produce aurora australis visible as far north as Victoria and NSW under dark skies. Monitored by the National Emergency Management Agency, Bureau of Meteorology and NOAA as a G4 event—the strongest in over 20 years—it poses risks to power grids, satellite orbits, GPS and communications via geomagnetically induced currents. Viewers in New Zealand and Tasmania have the best chance to see the lights. Australian power and telecom operators have contingency plans, though significant outages are unlikely.",
+      "summaryTokens": 500,
+      "generatedAt": "2026-01-21T03:47:06.807Z"
+    },
     {
       "id": "science/2026/jan/19/nasa-boldly-goes-as-far-away-as-possible",
       "title": "Nasa boldly goes as far away as possible | Brief letters",
@@ -29,9 +53,9 @@
       "section": "science",
       "publishedDate": "2026-01-19T17:53:03Z",
       "trailText": "Brief letters: Alien lifeforms | Power of prayer | Corned beef | Remembering birthdays | Celebrity old-age home",
-      "summary": "Letters cover five topics: Artemis II commander Reid Wiseman’s quote expressing crew excitement to travel as far from Earth as possible for the next lunar mission; a humorous cartoon on prayer as “cheating” in a chess match between monks; comparing mandolin slicer accidents to old corned-beef tin injuries; using The Guardian’s birthday lists as a memory test—one reader only recognized Michelle Obama; and another musing that figures turning 80–96 could form an entertaining celebrity retirement community. Readers are invited to submit letters for possible publication.",
-      "summaryTokens": 1052,
-      "generatedAt": "2026-01-20T03:46:42.405Z"
+      "summary": "On 19 January, readers’ letters in The Guardian touch on NASA’s Artemis II mission, faith and everyday mishaps: Pete Stockwell cites commander Reid Wiseman’s eagerness to push humans to the moon’s far side; Matthew Newman shares a monks-at-chess cartoon dubbing prayer ‘cheating’; Linda Gresham compares mandolin cuts to corned-beef tin stabbings; Bob Forster tests his memory via daily birthday lists; Charles Harris envisions an octogenarian celebrity home for Barnes, Parton, Hedren and others.",
+      "summaryTokens": 997,
+      "generatedAt": "2026-01-21T03:47:06.807Z"
     },
     {
       "id": "science/2026/jan/19/did-you-solve-it-are-you-cut-out-for-these-puzzling-slices",
@@ -41,9 +65,9 @@
       "section": "science",
       "publishedDate": "2026-01-19T17:00:04Z",
       "trailText": "The answers to today’s puzzles",
-      "summary": "Three geometry puzzles solved: 1) A 33-cell grid with three missing corners can’t be tiled by eleven three-cell strips because each tile covers one red, one yellow and one blue square, yet the grid has 12 reds and 10 yellows. 2) A given polyform can be cut along grid lines into four identical pieces that reassemble into a square—find an alternative dissection via rotation or reflection. 3) To share three pizzas evenly among five people with identical piece sizes, the minimum is ten pieces—each person gets one half and one tenth. Puzzles by Ian Stewart, whose new book Reaching for the Extreme is out Feb 12.",
-      "summaryTokens": 508,
-      "generatedAt": "2026-01-20T03:46:42.405Z"
+      "summary": "The article reveals solutions to three geometry puzzles. 1) A 33‐cell grid with three missing corners cannot be tiled by eleven 3‐cell straight tiles because each tile covers one red, one yellow and one blue cell, yet the grid has 12 reds and only 10 yellows. 2) A given shape can be cut into four identical pieces to form a square, and readers are challenged to find a different dissection. 3) To split three pizzas equally among five people with identical piece sizes and counts, the minimum is ten slices—each person gets ½ and ⅒ slices. Puzzles by Ian Stewart; his book Reaching for the Extreme is due Feb 12.",
+      "summaryTokens": 769,
+      "generatedAt": "2026-01-21T03:47:06.807Z"
     },
     {
       "id": "science/2026/jan/19/back-scratching-cow-veronika-bovine-intelligence",
@@ -53,9 +77,9 @@
       "section": "science",
       "publishedDate": "2026-01-19T16:00:02Z",
       "trailText": "Brown Swiss in Austria has been discovered using tools in different ways – something only ever seen in humans and chimpanzees",
-      "summary": "Veronika, a 13-year-old Brown Swiss cow in Carinthia, Austria, surprised scientists by using sticks and a broom as scratching tools, exhibiting multi-purpose tool use previously documented only in humans and chimpanzees. Organic farmer Witgar Wiegele first observed her playing with wood to reach hard-to-scratch spots, then Vienna biologists led by Dr. Antonio Osuna Mascaró confirmed her dexterity in seven trials, noting she selected, adjusted and wielded each end of a deck brush via tongue and teeth to target different body areas. Published in Current Biology, the study challenges assumptions of bovine cognition and suggests cattle intelligence and innovation have been underestimated.",
-      "summaryTokens": 1016,
-      "generatedAt": "2026-01-20T03:46:42.405Z"
+      "summary": "In Nötsch im Gailtal, Austria, Veronika, a 13-year-old Brown Swiss cow, intuitively picked up sticks and later wielded a deck brush to scratch otherwise unreachable regions, using its bristled end for tough spots and the handle for gentler areas. University of Veterinary Medicine Vienna researchers recorded 76 tool-use events across seven sessions, demonstrating selection, adjustment, and multi-purpose application. Published in Current Biology, the study challenges assumptions about cattle intelligence, suggesting bovines can innovate and utilize tools similarly to chimpanzees and humans.",
+      "summaryTokens": 608,
+      "generatedAt": "2026-01-21T03:47:06.807Z"
     },
     {
       "id": "science/2026/jan/19/starwatch-watch-the-crescent-moon-pass-saturn-as-dusk-gathers",
@@ -65,9 +89,9 @@
       "section": "science",
       "publishedDate": "2026-01-19T06:00:15Z",
       "trailText": "Earth’s satellite will be visible in conjunction with the ringed planet as twilight gives way to darkness",
-      "summary": "On January 19, observers are treated to a celestial conjunction as a four-day-old crescent moon, with just 15% illumination, slides past Saturn at dusk. Visible from southwest London around 18:00 GMT as twilight yields to darkness—and easily seen worldwide—the slender lunar arc reveals faint Earthshine as sunlight reflects from Earth onto its unlit surface. Saturn shines as a steady, creamy point, contrasting the twinkling stars whose point-like sources dance in Earth’s atmosphere. This pairing offers skywatchers a serene observational opportunity to appreciate atmospheric effects on planetary and stellar starlight. Observers across hemispheres can spot the event, making it a global skywatching highlight.",
-      "summaryTokens": 765,
-      "generatedAt": "2026-01-20T03:46:42.405Z"
+      "summary": "A four-day-old crescent moon with just 15% illumination will slide past Saturn this week as twilight turns to darkness. Around 18:00 GMT in London, look south-west to spot the dim lunar crescent bathed in Earthshine alongside Saturn’s steady, creamy glow (unlike twinkling stars). The planet’s tiny disc steadies its light against atmospheric turbulence. This accessible dusk conjunction also delights observers across the southern hemisphere, offering a serene stargazing highlight.",
+      "summaryTokens": 530,
+      "generatedAt": "2026-01-21T03:47:06.807Z"
     },
     {
       "id": "science/2026/jan/18/simple-blood-test-can-predict-which-breast-cancer-treatment-will-work-best-study-finds",
