@@ -1,26 +1,62 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-20T03:50:48.347Z",
+    "generated_at": "2026-01-21T03:51:55.901Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-19"
+      "to": "2026-01-20"
     },
-    "article_count": 390,
+    "article_count": 393,
     "merge_info": {
-      "previous_count": 389,
-      "new_articles": 1,
-      "updated_articles": 2,
-      "total_count": 390
+      "previous_count": 390,
+      "new_articles": 3,
+      "updated_articles": 1,
+      "total_count": 393
     },
     "batch_info": {
-      "initial_batch_id": "batch_696efb0b0fd88190b8c8511b6dd09363",
+      "initial_batch_id": "batch_69704ce38e248190b1de42e507175dc2",
       "retry_batches": [],
-      "total_tokens": 9469,
+      "total_tokens": 9843,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
+      "title": "Big tech continues to bend the knee to Trump a year after his inauguration",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
+      "section": "technology",
+      "publishedDate": "2026-01-20T15:55:55Z",
+      "trailText": "Inside the big rewards tech titans have reaped from caving to Trump. Plus, a look at the US datacenter boom and the effects of Australia’s social media ban",
+      "summary": "One year after Trump’s inauguration, big tech has milled billions in funding and policy favors by aligning with his administration. Now Trump is targeting hyperscale datacenters—pressuring Microsoft to pay full taxes, ordering emergency grid auctions and stalling renewables—to rein in electricity costs ahead of November. Europe counters with subsidies for green-powered sites and renewables mandates, while Asia and the Middle East eye new build-outs despite resource constraints. In Australia, the under-16 social media ban deactivated 4.7 m accounts, but critics warn simple age-verification tricks and new sign-ups are undermining its impact.",
+      "summaryTokens": 491,
+      "generatedAt": "2026-01-21T03:51:55.667Z"
+    },
+    {
+      "id": "technology/2026/jan/20/elon-musk-buying-ryanair-ceo-tesla-michael-oleary-starlink",
+      "title": "Elon Musk floats idea of buying Ryanair after calling CEO ‘an idiot’",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/20/elon-musk-buying-ryanair-ceo-tesla-michael-oleary-starlink",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/20/elon-musk-buying-ryanair-ceo-tesla-michael-oleary-starlink",
+      "section": "technology",
+      "publishedDate": "2026-01-20T15:19:57Z",
+      "trailText": "Tesla boss clashed with Michael O’Leary when airline boss rejected installing Starlink technology on aircraft",
+      "summary": "Elon Musk, after Michael O’Leary called him “an idiot” for rejecting Starlink’s alleged 2% fuel-drag cost (adding $200–250m to Ryanair’s $5bn kerosene bill and $1 extra per passenger), turned to X to propose buying Europe’s largest airline (valued at €30bn) and launched a poll (900,000 votes, >75% yes) on “restoring Ryan”. Ryanair mocked Musk over an X outage, while Musk cited his 2017 Twitter purchase ($44bn). EU majority-ownership rules and a 1% share drop underscore takeover hurdles.",
+      "summaryTokens": 1206,
+      "generatedAt": "2026-01-21T03:51:55.667Z"
+    },
+    {
+      "id": "technology/2026/jan/20/tell-us-has-a-chatbot-helped-you-out-of-a-difficult-time-in-your-life",
+      "title": "Tell us: has a chatbot helped you out of a difficult time in your life?",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/20/tell-us-has-a-chatbot-helped-you-out-of-a-difficult-time-in-your-life",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/20/tell-us-has-a-chatbot-helped-you-out-of-a-difficult-time-in-your-life",
+      "section": "technology",
+      "publishedDate": "2026-01-20T14:45:08Z",
+      "trailText": "We would like to hear from people who have used chatbots for companionship or mental health support",
+      "summary": "The Guardian invites readers to share how AI chatbots—such as ChatGPT, which surpassed 800 million weekly active users by late 2025—have provided companionship, mental health support or even therapeutic guidance during challenging moments, with submissions via an online form.",
+      "summaryTokens": 487,
+      "generatedAt": "2026-01-21T03:51:55.667Z"
+    },
     {
       "id": "technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings",
       "title": "Ed Zitron on big tech, backlash, boom and bust: ‘AI has taught us that people are excited to replace human beings’",
@@ -29,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2026-01-19T05:00:15Z",
       "trailText": "His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was",
-      "summary": "Ed Zitron, a brash UK podcaster and newsletter author (80k+ subs), has become a leading AI skeptic. He contends today's large language models are mere statistical “probability engines” prone to errors and hallucinations, not autonomous intelligences. Economically, he warns, hyperscalers are committing $1.4 trn to AI infrastructure against $20 bn revenue, with per-query compute costs outstripping returns. Zitron predicts this misaligned tech-capitalism could topple the AI hype bubble and expose unsustainable datacentre investments.",
-      "summaryTokens": 700,
-      "generatedAt": "2026-01-20T03:50:48.211Z"
+      "summary": "Ed Zitron, a contrarian tech writer and podcaster, warns the AI boom is built on shaky technology and unsustainable economics. He argues LLMs hallucinate, lack learning, and deliver no path to promised capabilities, while hyperscalers pour trillions into costly GPU-heavy datacentres without clear ROI. Zitron’s 80k-subscriber newsletter and top-20 podcast rally AI sceptics as he compares generative AI’s “intelligence” to dice, highlights zero-return integration and speculative chip-for-chip deals, and predicts a possible bubble burst akin to 2008’s crash.",
+      "summaryTokens": 1018,
+      "generatedAt": "2026-01-21T03:51:55.667Z"
     },
     {
       "id": "technology/2026/jan/18/deactivate-your-x-account-you-wont-miss-it-when-its-gone",
