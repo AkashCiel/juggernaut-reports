@@ -1,49 +1,361 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-21T03:56:02.988Z",
+    "generated_at": "2026-01-22T04:02:14.521Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-21"
+      "to": "2026-01-22"
     },
-    "article_count": 2441,
+    "article_count": 2466,
     "merge_info": {
-      "previous_count": 2416,
+      "previous_count": 2441,
       "new_articles": 25,
-      "updated_articles": 17,
-      "total_count": 2441
+      "updated_articles": 27,
+      "total_count": 2466
     },
     "batch_info": {
-      "initial_batch_id": "batch_69704d64c9608190be50634b76b411ef",
+      "initial_batch_id": "batch_6971a0580548819099ef5788088e9664",
       "retry_batches": [],
-      "total_tokens": 99874,
+      "total_tokens": 123239,
       "processing_time_hours": 0.1
     }
   },
   "articles": [
+    {
+      "id": "us-news/2026/jan/21/ice-arrests-five-year-old-boy-minnesota",
+      "title": "ICE detains five-year-old Minnesota boy as he came home, say school officials",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/ice-arrests-five-year-old-boy-minnesota",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/ice-arrests-five-year-old-boy-minnesota",
+      "section": "us-news",
+      "publishedDate": "2026-01-22T02:24:27Z",
+      "trailText": "Superintendent says Liam Ramos and his father were taken into custody while in their driveway and sent to Texas",
+      "summary": "Liam Ramos, a five-year-old preschooler in Columbia Heights, Minn., and his father were detained by ICE in their driveway as Liam came home from school and sent to a Texas detention center, superintendent Zena Stenvik said. Agents allegedly used the boy to knock on his door as “bait” and denied another adult’s offer to care for him. The family has active asylum paperwork and no deportation order, attorney Marc Prokosch said. The district reports four students aged 5–17 detained in recent weeks, traumatizing pupils and prompting fears as ICE circles schools.",
+      "summaryTokens": 1512,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-news-at-a-glance-at-davos-president-rambles-backs-down-and-touts-future-deal-on-greenland",
+      "title": "Trump news at a glance: at Davos, president rambles, backs down and touts ‘future deal’ on Greenland",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-news-at-a-glance-at-davos-president-rambles-backs-down-and-touts-future-deal-on-greenland",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-news-at-a-glance-at-davos-president-rambles-backs-down-and-touts-future-deal-on-greenland",
+      "section": "us-news",
+      "publishedDate": "2026-01-22T02:00:54Z",
+      "trailText": "Trump told Davos attendees the US won’t use military force to take Greenland but demanded ‘immediate negotiations’ – key US politics stories from Wednesday 21 January at a glance",
+      "summary": "At Davos, President Trump delivered a rambling, racially charged speech attacking European leaders while renewing his bid to acquire Greenland and threatening 10% tariffs on Denmark, Norway, Sweden, France, Germany, the UK, the Netherlands and Finland. Hours later he backed off, citing a “framework of a future deal” on Greenland involving US mineral rights and NATO missile defense. The roundup also covers a social security data breach by Musk’s contractors, Netanyahu joining Trump’s peace board, an eight-month-pregnant deportation fight, Elizabeth Holmes’ commutation plea, new ICE actions in Maine and Minnesota, and a skeptical Supreme Court on Trump’s Fed-governor ouster bid.",
+      "summaryTokens": 711,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/pregnant-woman-ice-deportation-atlanta",
+      "title": "Pregnant woman in medical distress deported from US, says attorney",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/pregnant-woman-ice-deportation-atlanta",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/pregnant-woman-ice-deportation-atlanta",
+      "section": "us-news",
+      "publishedDate": "2026-01-22T01:47:58Z",
+      "trailText": "Woman who’s eight months pregnant sent to Colombia by ICE, despite belated court order to keep her out of the air",
+      "summary": "Zharick Daniela Buitrago Ortiz, a 21-year-old eight-month-pregnant asylum seeker, was deported to Colombia by ICE from Atlanta despite a belated federal court order halting her removal and mandating medical care. Advocates at the Kennedy Human Rights Center say Ortiz was flown from Louisiana in serious distress—abdominal and back pain, nausea, vomiting—and denied treatment. Ortiz and her mother fled Colombia after her father’s politically motivated killing; her mother passed a credible fear review, but Ortiz faced expedited removal. Civil-rights groups decry ICE’s repeated detainment and deportation of pregnant women amid alleged medical neglect.",
+      "summaryTokens": 949,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/new-york-redraw-congressional-maps-midterms",
+      "title": "New York must redraw congressional map before midterms, judge rules",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/new-york-redraw-congressional-maps-midterms",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/new-york-redraw-congressional-maps-midterms",
+      "section": "us-news",
+      "publishedDate": "2026-01-22T00:51:00Z",
+      "trailText": "Ruling presents Democrats with opportunity to pick up another US House seat in November elections",
+      "summary": "State Supreme Court Justice Jeffrey Pearlman ruled New York’s 11th congressional district—covering Staten Island and parts of south Brooklyn—must be redrawn by Feb. 6 after a Democratic-aligned firm argued its boundaries dilute Black and Latino voting power, violating a 2014 state constitutional amendment. The district, now held by Republican Nicole Malliotakis (the only GOP member representing New York City), offers Democrats a pickup chance in the 2026 midterms. The bipartisan redistricting commission will submit new maps subject to legislative approval or override. The court cited evidence of racially polarized voting and historical discrimination impacting representation. House Minority Leader Hakeem Jeffries praised the decision; Malliotakis called it frivolous and vowed to appeal.",
+      "summaryTokens": 706,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-maine-ice-somali-immigration-crackdown",
+      "title": "ICE targets Somali communities in Maine in new Trump administration crackdown",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-maine-ice-somali-immigration-crackdown",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-maine-ice-somali-immigration-crackdown",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T21:55:17Z",
+      "trailText": "Immigration enforcement has sent a surge of federal agents to the fishing state, with about 50 arrests so far",
+      "summary": "The Trump administration launched ICE’s Operation Catch of the Day in Maine, targeting roughly 1,400 Somali immigrants and detaining about 50 so far, citing convictions for aggravated assault, false imprisonment and child endangerment. Agents—some masked—focused on Lewiston’s Somali community amid nationwide crackdowns, following controversial Minneapolis actions, the fatal shooting of Renee Good and protests. Federal officials warned against violent demonstrations. The move coincides with the planned revocation of temporary protected status for Somalis and underscores labor shortages in Maine’s aging, predominantly white fishing economy.",
+      "summaryTokens": 1055,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-american-democracy",
+      "title": "American democracy on the brink a year after Trump’s inauguration, experts say",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-american-democracy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-american-democracy",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T21:24:38Z",
+      "trailText": "Scale and speed of president’s moves have stunned observers of authoritarian regimes – is the US in democratic peril?",
+      "summary": "In the first year of Trump’s second term, experts warn US democracy slid toward competitive authoritarianism as the president rapidly consolidated power: purging agencies, sidelining Congress, challenging courts, deploying federal forces, targeting critics and minorities, and leveraging ties to tech oligarchs. Democracy indices (Bright Line Watch, Century Foundation) recorded drastic declines, likening the US to hybrid regimes. Despite vigorous legal challenges, protests and 2025 off-year Democratic wins, many fear further norm erosion absent Congressional checks, with 2026 midterms posing a critical test.",
+      "summaryTokens": 726,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/ice-arrest-pepper-spray-protesters-minnesota",
+      "title": "US court allows ICE to arrest and pepper-spray peaceful protesters in Minnesota",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/ice-arrest-pepper-spray-protesters-minnesota",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/ice-arrest-pepper-spray-protesters-minnesota",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T20:47:27Z",
+      "trailText": "In victory for Trump administration, appeals court has temporarily lifted injunction as JD Vance set to visit state",
+      "summary": "An Eighth Circuit appeals court granted the Justice Department's stay of Judge Katherine Menendez's injunction barring ICE from pepper-spraying, arresting or detaining peaceful Minnesota protesters, using non-lethal munitions or stopping drivers without cause—rules Menendez said protected First Amendment rights. DHS insists agents acted lawfully amid protests over the fatal shooting of Renee Good. State officials, including Gov Tim Walz and Mayor Jacob Frey—now subpoenaed by DOJ—denounce the deployment as unconstitutional. The ruling arrives as VP J.D. Vance heads to Minneapolis for a \"law and order\" roundtable.",
+      "summaryTokens": 2350,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/newsom-davos-trump",
+      "title": "Newsom says Davos appearance was canceled under pressure from Trump",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/newsom-davos-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/newsom-davos-trump",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T20:26:57Z",
+      "trailText": "Governor’s office says US pavilion bowed to pressure and pulled scheduled ‘fireside chat’ with Fortune magazine",
+      "summary": "Gavin Newsom’s planned “fireside chat” with Fortune at the USA House pavilion in Davos was abruptly canceled after his office says the White House and State Department pressured the US pavilion (a church) to deny him entry. Invited last week to discuss California’s policies as a counterpoint to Trump, Newsom decried the move as “weak and pathetic.” Widely eyed as a 2028 Democratic contender, he used his Davos trip to lambaste Trump’s administration—while Trump himself name-checked him during a speech. A White House spokeswoman derided him as “Newscum,” and Fortune cited evolving logistical and security constraints.",
+      "summaryTokens": 938,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-canada-mark-carney",
+      "title": "Trump says Canada should be grateful for ‘freebies’ it gets from the US",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-canada-mark-carney",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-canada-mark-carney",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T20:00:22Z",
+      "trailText": "US president singles out Mark Carney day after prime minister warned world is undergoing geopolitical ‘rupture’",
+      "summary": "At Davos, Trump criticized Canada and PM Mark Carney’s warning of a geopolitical rupture, calling Canada ungrateful for US “freebies” and vowing to seize Greenland for his proposed Golden Dome defense that he said would protect Canada. Ottawa declined comment, and Premier Doug Ford decried Trump’s threats and a doctored flag image over Canada, Greenland and Venezuela as “unacceptable.” Carney urged middle powers to unite as global norms erode. Meanwhile, Canada is diversifying trade beyond the US toward China and India, even as Trump questions USMCA’s relevance.",
+      "summaryTokens": 796,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
     {
       "id": "us-news/2026/jan/20/lindsey-halligan-us-attorney-leaves-office",
       "title": "Lindsey Halligan leaves post as US attorney after judges’ sharp criticism",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/20/lindsey-halligan-us-attorney-leaves-office",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/20/lindsey-halligan-us-attorney-leaves-office",
       "section": "us-news",
-      "publishedDate": "2026-01-21T03:23:37Z",
+      "publishedDate": "2026-01-21T19:34:58Z",
       "trailText": "Trump-appointed federal attorney with no prosecutorial experience led failed cases against president’s political foes",
-      "summary": "Lindsey Halligan, a Trump-appointed interim US attorney for the Eastern District of Virginia with no prior prosecutorial experience, resigned after multiple judges ruled her 120-day appointment unlawful. Halligan, who had served as Trump’s personal lawyer, brought politically charged indictments against NY AG Letitia James and ex-FBI director James Comey; both cases were dismissed and a judge barred her from using the “US attorney” title. Attorney General Pam Bondi praised her “courage and resolve” while decrying judicial barriers to presidential staffing.",
-      "summaryTokens": 545,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Lindsey Halligan, a Trump-appointed interim US attorney for the Eastern District of Virginia with no prior prosecutorial experience, resigned after judges repeatedly ruled her appointment unlawful. Sworn in last September after her predecessor declined to charge New York AG Letitia James and ex-FBI director James Comey, Halligan oversaw indictments deemed politically motivated and dismissed in November. Courts found her appointment invalid beyond the 120-day service limit. Federal judges stripped her “United States Attorney” title from filings and threatened sanctions. Chief Judge M. Hannah Lauck has advertised the vacancy. AG Pam Bondi lauded Halligan’s resolve amid “seriously misguided” challenges.",
+      "summaryTokens": 881,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/fired-dhs-worker-date-lawsuit-noem",
+      "title": "Fired DHS worker sues agency after he criticized Noem on an alleged fake date",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/fired-dhs-worker-date-lawsuit-noem",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/fired-dhs-worker-date-lawsuit-noem",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T19:26:48Z",
+      "trailText": "Brandon Wright alleges criticism of the homeland security secretary is protected by the first amendment",
+      "summary": "In a federal suit filed January 2026, former DHS IT specialist Brandon Wright contends his firing for criticizing Homeland Security Secretary Kristi Noem during an off-duty date violates his First Amendment rights. Wright says a woman he met on Bumble secretly recorded the conversation at the behest of James O’Keefe’s media group and then circulated edited clips online. After administrative leave in January 2025, DHS dismissed him for “conduct unbecoming.” Attorney Mark Zaid calls it unlawful retaliation against private, protected speech.",
+      "summaryTokens": 1043,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/scott-bessent-trump-diplomacy-greenland",
+      "title": "US treasury secretary cuts awkward figure as Trump’s diplomatic defender",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/scott-bessent-trump-diplomacy-greenland",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/scott-bessent-trump-diplomacy-greenland",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T19:22:59Z",
+      "trailText": "Scott Bessent’s maladroit efforts to calm European anger and Americans’ puzzlement over Greenland have fallen flat",
+      "summary": "Treasury Secretary Scott Bessent has become Donald Trump’s awkward envoy over the president’s plan to acquire Greenland, earning rebukes from European allies. Speaking at Davos, he dismissed Denmark as “irrelevant,” warned NATO partners against retaliatory tariffs, and labeled Macron’s budget a “shambles,” prompting social media mockery. On US TV, his strained justifications—calling tariffs a move to stave off a “national emergency”—and warnings of foreign “conquest” struck many as tone-deaf. A former Soros Fund partner turned GOP donor, Bessent has publicly sparred with Elon Musk and Fed Chair Jerome Powell, underscoring a combative loyalty that belies his establishment pedigree.",
+      "summaryTokens": 636,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-davos-speech-factcheck",
+      "title": "Eight wars settled and Chinese windfarms: factchecking Trump’s Davos claims",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-davos-speech-factcheck",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-davos-speech-factcheck",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T19:12:58Z",
+      "trailText": "The president’s address in Switzerland featured a range of dubious assertions, from exaggerated to false",
+      "summary": "At Davos Trump claimed he’d “settled eight wars,” but only helped broker limited, contested ceasefires; touted US AI lead despite China trailing by months; alleged China makes but doesn’t use windfarms—when it’s the top global wind energy producer; warned NATO owes US despite a long casualty record; boasted allies called him “Daddy” based on one quip; said he “gave” Greenland back—though the US never owned it; and proposed halving fraud to balance the budget, a math error covering under a third of the deficit.",
+      "summaryTokens": 858,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trumps-rambling-davos-speech-rehashes-warped-ideas-of-us-supremacy",
+      "title": "Trump’s rambling Davos speech rehashes warped ideas of US supremacy",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trumps-rambling-davos-speech-rehashes-warped-ideas-of-us-supremacy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trumps-rambling-davos-speech-rehashes-warped-ideas-of-us-supremacy",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T19:04:40Z",
+      "trailText": "The president’s fixation on ‘piece of ice’ Greenland carries an echo of Vladimir Putin’s claims about Crimea",
+      "summary": "At Davos, President Trump delivered a rambling address reasserting US supremacy, bizarrely fixating on buying Greenland—calling it a ‘piece of ice’ and even confusing it with Iceland—and claiming without evidence that the US ‘took’ and ‘returned’ the island (echoing Putin’s Crimea claims). He vowed no force for now yet boasted of America’s ‘unstoppable’ military might, symbolized by the nuclear ‘football’ at his side. Trump attacked Canada’s Mark Carney over trade, accused Europe of ‘screwing us,’ and recycled a false Somali benefit fraud slur. Delegates were relieved by his troop non-deployment pledge, yet his bluster and racial jabs underscored mounting global unease.",
+      "summaryTokens": 1678,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/supreme-court-trump-fed-governor-case",
+      "title": "US supreme court appears skeptical of Trump’s bid to oust Lisa Cook from Fed board",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/supreme-court-trump-fed-governor-case",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/supreme-court-trump-fed-governor-case",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T18:52:19Z",
+      "trailText": "Conservative and liberal judges questioned administration over president’s authority to fire without due process",
+      "summary": "Supreme Court justices signaled skepticism at Trump’s unprecedented bid to oust Fed governor Lisa Cook without formal hearings or due process, warning it could erode the central bank’s independence. Justice Kavanaugh, joined by liberals, cautioned that broad removal powers invite retaliation under future administrations. Cook, appointed by Biden in 2022, faces contested mortgage-fraud allegations and remains on the board after a lower court blocked her firing under the ‘for-cause’ statute. The Court’s ruling will define the scope of presidential authority over the Fed.",
+      "summaryTokens": 474,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-greenland-nato-foreign-policy",
+      "title": "Speak hysterically and carry a big stick: Trump’s foreign policy threats",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-greenland-nato-foreign-policy",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-greenland-nato-foreign-policy",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T18:29:34Z",
+      "trailText": "In his second term, Trump’s bluster has been accompanied by an emotional and aggressive approach to foreign policy",
+      "summary": "Second-term US president Donald Trump has adopted a hyper-aggressive foreign policy—“speak hysterically and carry a big stick”—that rattles allies. He revived a push to seize Greenland with debunked WWII and NATO claims and mischaracterized Article 5 solidarity. Trump threatened force then backtracked in Davos, and menaced the EU with 200% wine tariffs, prompting retaliation on whiskey. His brash threats against Nicolás Maduro and Iran underscore a confrontational playbook. While past bluster often fizzled, Trump’s emotional statecraft now risks deeper rifts with NATO and Europe, leaving allies unsure how far he will push military or economic coercion.",
+      "summaryTokens": 628,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/aca-obamacare-subsidies",
+      "title": "‘I would lose my vision’: Americans relying on ACA health plan face uncertainty ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/aca-obamacare-subsidies",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/aca-obamacare-subsidies",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T18:00:44Z",
+      "trailText": "Expiration of expanded subsidies has left many with higher healthcare costs – and some with no coverage at all",
+      "summary": "With expanded ACA subsidies expiring January 1, enrollment for 2026 plans has slipped to 22.8 M (−800 K vs. 2025), and average monthly premiums have more than doubled for subsidized enrollees. Congress remains deadlocked despite a House-passed extension; the Senate blocked relief last year. Small-business owners, gig workers, early retirees, chronically ill patients and families report premiums jumping from $350 to $1,200, medication costs surging, forced job changes or dropped coverage, and mounting financial strain.",
+      "summaryTokens": 732,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/winter-snow-storm-watch-southwest-east",
+      "title": "Snow, ice and subzero temperatures to sweep across US this weekend",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/winter-snow-storm-watch-southwest-east",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/winter-snow-storm-watch-southwest-east",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T17:34:34Z",
+      "trailText": "The storm will stretch 2,000 miles from south-west to east, disrupting travel and threatening power outages",
+      "summary": "A massive winter storm will span 2,000 miles from the Rockies and Plains Friday through the weekend, cutting from Dallas and Oklahoma City across Memphis, Nashville, St. Louis and Indianapolis into Louisville, Charlotte and the mid-Atlantic before reaching New England. More than 200 million people face heavy snow (6–12 in, locally >1 ft), severe ice buildup and wind gusts to 30 mph. Peak Sunday could see 55% of the contiguous US in snow, sleet or freezing rain. Subzero readings below –30 °F and Gulf–Pacific moisture fuel this season’s strongest storm, causing travel chaos, downed lines and prolonged outages. Residents from Texas to Boston should secure generators, medications and nonperishables.",
+      "summaryTokens": 1042,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/california-republican-party-block-new-maps",
-      "title": "California Republican party asks state supreme court to block voter-approved redistricting maps",
+      "title": "California Republicans ask US supreme court to block new congressional map",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/20/california-republican-party-block-new-maps",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/20/california-republican-party-block-new-maps",
       "section": "us-news",
-      "publishedDate": "2026-01-21T02:48:07Z",
-      "trailText": "In an emergency filing, party asked for an injunction for new maps aimed at countering Texas’ gerrymander",
-      "summary": "The California GOP has asked Supreme Court Justice Elena Kagan for an emergency injunction to block Prop 50, the voter-approved congressional map set to flip up to five seats to Democrats, before California’s Feb 9 candidate-filing deadline. Backed by the Trump administration and filed by Dhillon Law Group, the suit argues the new districts illegally use race to shore up Latino Democratic support. A federal court on Jan 14 denied challengers’ request, finding weak evidence of racial motives and overwhelming partisan intent. Republicans warn constitutional violations would imperil their slim congressional majority and Trump’s agenda.",
-      "summaryTokens": 480,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "publishedDate": "2026-01-21T16:59:19Z",
+      "trailText": "In an emergency filing, party asked for an injunction for new maps aimed at countering Texas’s gerrymander",
+      "summary": "California’s Republican Party has asked the US Supreme Court to block Prop 50’s new congressional map, approved in November to flip up to five seats from Republicans to Democrats, countering Texas’s GOP gerrymander. In an emergency filing to Justice Elena Kagan, GOP leaders allege the state illegally used race to favor Latino voters, violating the Voting Rights Act. On January 14 a federal court refused relief, citing weak racial claims and partisan intent. Backed by Trump’s DOJ and Dhillon Law Group, Republicans seek a stay before candidate filing opens February 9, warning that losing the House in 2026 would imperil their agenda.",
+      "summaryTokens": 2667,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/doge-social-security-data",
+      "title": "Doge improperly shared sensitive social security data, DoJ court filing reveals",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/doge-social-security-data",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/doge-social-security-data",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T15:39:46Z",
+      "trailText": "Trump administration acknowledges that Elon Musk’s cost-cutting operation accessed Americans’ sensitive data",
+      "summary": "In a DOJ court filing in a lawsuit over Doge’s access to SSA records, the Trump administration admitted that Elon Musk’s \"department of government efficiency\" improperly accessed and shared sensitive Social Security numbers via a secret March 2025 data-sharing pact with an unidentified voter-fraud advocacy group. SSA discovered the breach during a November review, referred two potential Hatch Act violations, and revealed Doge staff exchanged data on unauthorized Cloudflare servers—including an encrypted file of ~1,000 names and addresses—despite prior denials. Congressional Democrats are now pressing for prosecutions after Doge’s expanded system access and continued searches post-access revocation.",
+      "summaryTokens": 1446,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/22/australia-trump-board-of-peace-risk-analysis",
+      "title": "‘Serious mistake’: there’s no benefit for Australia in joining Donald Trump’s ‘board of peace’ – only risk",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/22/australia-trump-board-of-peace-risk-analysis",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/22/australia-trump-board-of-peace-risk-analysis",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T14:00:41Z",
+      "trailText": "To tie ourselves to the worst excesses of the Trump regime would be an act of national sabotage",
+      "summary": "Australia faces calls to reject Donald Trump’s self-styled “Board of Peace” amid warnings it would offer no benefit and expose Canberra to autocrats like Putin and Orbán. Critics note Gaza is excluded, seats cost US$1bn and figures like Tony Blair underscore self-interest over multilateralism. While Deputy PM Richard Marles says the invitation is under active consideration, opposition MPs and Greens demand clarity on objectives, membership and legal safeguards. International law experts, diplomats and former officials deem joining a serious mistake that undermines the rules-based order, risks binding Australia to Trump’s adventurism—extortion, invasion threats and unchecked power—and advises a coordinated, respectful decline.",
+      "summaryTokens": 1269,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/claudette-colvin-obituary",
+      "title": "Claudette Colvin obituary",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/claudette-colvin-obituary",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/claudette-colvin-obituary",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T13:28:01Z",
+      "trailText": "US civil rights activist who as a schoolgirl protested against segregation on Alabama’s buses",
+      "summary": "Civil rights pioneer Claudette Colvin (1939–2026) made history aged 15 when she refused to yield her Montgomery bus seat to a white passenger. Arrested and convicted of assaulting an officer, she later joined Browder v. Gayle as a plaintiff, securing a federal ruling that ended Alabama bus segregation. Despite preceding Rosa Parks, Colvin remained overlooked until Rita Dove’s poem and Philip Hoose’s book restored her place in history. After moving to New York and a decades-long nursing career, she had her juvenile record expunged and inspired a Montgomery street naming. She is survived by son Randy.",
+      "summaryTokens": 2357,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/first-thing-millionaires-billionaires-call-for-higher-taxes-super-rich",
+      "title": "Almost 400 millionaires and billionaires call for higher taxes on super-rich | First Thing",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/first-thing-millionaires-billionaires-call-for-higher-taxes-super-rich",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/first-thing-millionaires-billionaires-call-for-higher-taxes-super-rich",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T12:22:10Z",
+      "trailText": "Mark Ruffalo, Brian Eno and Abigail Disney sign letter timed to coincide with World Economic Forum in Davos. Plus, what if this was the year we finally learned to rest?",
+      "summary": "Almost 400 millionaires and billionaires from 24 countries, including Mark Ruffalo, Brian Eno and Abigail Disney, have signed an open letter timed with Davos accusing a handful of oligarchs of buying democracies, silencing media and deepening inequality. They urge global leaders to raise taxes on the super-rich and close the wealth gap. At the World Economic Forum, Canadian PM Mark Carney warned that nostalgia for the old rules-based order is no strategy, Trump prepared an international-focused address, and a report showed 32 fossil fuel firms caused half of 2024’s CO2 emissions. Additional briefs cover a US stock downturn, a record German bank heist and bipartisan pay-phone experiments.",
+      "summaryTokens": 708,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-retribution-campaign",
+      "title": "‘Who will stand up and oppose it?’: Trump’s relentless campaign of retribution in his second term",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-retribution-campaign",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-retribution-campaign",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T12:00:37Z",
+      "trailText": "From firing lawyers and government officials to pursuing indictments – president has created a culture of vengeance",
+      "summary": "In his second term, President Trump has launched an unprecedented campaign of retribution, targeting roughly 470 individuals and entities—from foreign governments and federal employees to lawmakers and judges—whom he believes have wronged him. He’s fired career prosecutors on January 6 cases, dismissed Special Counsel Jack Smith, and indicted figures like New York AG Letitia James and former FBI director James Comey. Allies have weaponized agencies to probe Adam Schiff, Eric Swalwell and Fed chair Jerome Powell; executive orders have punished law firms and nonprofits. His widespread purges—over 200,000 federal employees removed—have eroded the career civil service and created a culture of fear: who will stand up to this vendetta?",
+      "summaryTokens": 951,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/coyote-swims-to-alcatraz",
+      "title": "Coyote stuns observers by braving rough waters to swim to Alcatraz",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/coyote-swims-to-alcatraz",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/coyote-swims-to-alcatraz",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T11:00:35Z",
+      "trailText": "Coyote is thought to be the first ever to reach the notorious former prison island off the coast of San Francisco",
+      "summary": "A coyote stunned observers by becoming the first recorded to swim roughly 1.25 miles across San Francisco Bay to Alcatraz, the former prison-turned-national park, in footage published Jan. 11 by Aidan Moore of Alcatraz City Cruises. After doggy-paddling solo through frigid, choppy waters, the bedraggled animal shivered ashore; rangers alerted by Moore found no trace. Local naturalist Janet Kessler suggests territorial pressure in San Francisco drove the weakened coyote to seek new habitat. Its fate—and potential ecological impact on Alcatraz—remains unknown.",
+      "summaryTokens": 548,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/adam-schiff-veterans-affairs-data",
+      "title": "US senator calls veterans affairs’ data collection of non-citizen workers ‘thinly veiled effort to instill fear’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/adam-schiff-veterans-affairs-data",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/adam-schiff-veterans-affairs-data",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T11:00:35Z",
+      "trailText": "In letter to VA and DHS, Adam Schiff expressed alarm after Guardian reported on memo to gather information",
+      "summary": "Democratic Sen. Adam Schiff has pressed the VA and DHS after the Guardian exposed a leaked memo sent to Sec. Douglas Collins on Dec. 30 ordering collection of personal data on all non-citizen VA employees, affiliates and contractors—potentially for ICE enforcement. In a Jan. 21 letter, Schiff branded the sweep “thinly veiled” intimidation that diverts resources from care amid severe staffing shortages. Collins defends it as routine compliance and background-check updating but won’t explain its non-citizen focus despite earlier bipartisan inquiries.",
+      "summaryTokens": 924,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/20/trump-press-briefing-greenland",
+      "title": "‘You’ll find out’: Trump refuses to say how far he would go to seize Greenland",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/20/trump-press-briefing-greenland",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/20/trump-press-briefing-greenland",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T05:22:17Z",
+      "trailText": "President also declines to offer any reassurances about his commitment to the stability of Nato alliance",
+      "summary": "Donald Trump refused to clarify how far he would go to seize Greenland at a White House briefing, warning NATO “is only as good as we are” and declining to reassure allies of US commitment. He repeated claims he’s strengthened NATO more than any president, linked his Greenland bid to national security, and threatened tariffs or force if needed. Dismissing EU “trade bazooka” retaliation, he said any countermeasures would rebound on Europe. Trump also boasted of “365 achievements,” eight “war settlements,” and mocked Norway over a missed Nobel Peace Prize.",
+      "summaryTokens": 601,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
+    },
+    {
+      "id": "us-news/2026/jan/21/trump-air-force-one-turns-back-washington-davos-minor-electrical-issue",
+      "title": "Trump’s Air Force One turns back to Washington after ‘minor electrical issue’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/21/trump-air-force-one-turns-back-washington-davos-minor-electrical-issue",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/21/trump-air-force-one-turns-back-washington-davos-minor-electrical-issue",
+      "section": "us-news",
+      "publishedDate": "2026-01-21T04:40:32Z",
+      "trailText": "US president boards another aircraft to continue trip to World Economic Forum in Davos, Switzerland",
+      "summary": "After a brief electrical fault that caused cabin lights to flicker, Air Force One aborted its flight to the World Economic Forum in Davos and returned to Washington. President Trump boarded a C-32, departing after midnight. The 40-year-old presidential 747s have faced Boeing replacement delays, while Qatar’s donated 747-8 awaits US security refit. The unplanned detour may delay Trump’s Davos arrival, where he’ll press tariff threats over Greenland. His delegation includes Sec. of State Marco Rubio, Chief of Staff Susie Wiles, Deputy Chief Stephen Miller and NEC Director Kevin Hassett.",
+      "summaryTokens": 688,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/trump-administration-news-latest-updates-today",
@@ -53,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-21T02:18:23Z",
       "trailText": "Trump warned alliance it was only as strong as the US allowed it to be",
-      "summary": "At a press conference, President Trump doubled down on his bid to ‘seize Greenland,’ warning NATO was ‘only as strong as the US’ and refusing to reassure allies, while threatening tariffs on Europeans opposing the move. His remarks roiled transatlantic ties, spurred EU outrage over ‘new colonialism,’ and triggered stock-market drops. Lawmakers from both parties promised legislation to block his tariff threats. Meanwhile, the Justice Department subpoenaed Minnesota Democrats in an ICE-impeding probe and Catholic cardinals warned Trump’s foreign policy risked global instability. He left for Davos amid deepening NATO friction and trade chaos.",
-      "summaryTokens": 1000,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "In a wide-ranging press conference, President Trump reiterated his intention to seize Greenland “by force” and warned NATO “is only as strong as the US,” refusing to reassure allies. He threatened tariffs on European NATO members opposing his Greenland bid, provoking EU outrage and congressional vows to block tariff measures. The spat has unsettled transatlantic trade and markets, drawn criticism from EU leaders as “new colonialism,” and prompted Catholic cardinals to warn his policies risk global suffering.",
+      "summaryTokens": 1289,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/minnesota-democrats-subpoenas-justice-department",
@@ -65,21 +377,21 @@
       "section": "us-news",
       "publishedDate": "2026-01-21T01:24:24Z",
       "trailText": "Minnesota governor Tim Walz and Minneapolis mayor Jacob Frey among officials who received subpoenas",
-      "summary": "In January 2026 the US Justice Department issued subpoenas to Minnesota governor Tim Walz, Minneapolis mayor Jacob Frey, St. Paul mayor Kaohly Her, state attorney general Keith Ellison, Hennepin county attorney Mary Moriarty and Ramsey county attorney John Choi. The order seeks guidance, policies and communications on local immigration enforcement since last year and documents on hindering, doxxing or surveilling ICE officers. Officials condemned what they call partisan intimidation, citing Ellison’s recent lawsuit against ICE for alleged racist warrantless arrests and a judge’s injunction curbing ICE tactics against protesters. Legal experts say obstruction claims are flimsy.",
-      "summaryTokens": 1137,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "DOJ has subpoenaed Minnesota Gov Tim Walz, Minneapolis Mayor Jacob Frey, State AG Keith Ellison, Hennepin County Attorney Mary Moriarty, St Paul Mayor Kaohly Her, and Ramsey County Attorney John Choi, alleging they conspired to impede federal ICE enforcement. Subpoenas seek immigration policies, interagency communications and documents on “hindering, doxxing, or surveilling” officers. Officials denounce the probe as partisan intimidation, vow to resist. Legal experts call allegations flimsy. The probe, sparked by calls for accountability after violence and the killing of Renee Good, follows AG’s lawsuit and court-ordered ICE injunction, amid related protests and contentious detentions.",
+      "summaryTokens": 1399,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/trump-press-conference-nato-greenland",
-      "title": "Rambling Trump runs through his achievements as worried world watches on",
+      "title": "Rambling Trump sings his own praises as worried world watches on",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/20/trump-press-conference-nato-greenland",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/20/trump-press-conference-nato-greenland",
       "section": "us-news",
       "publishedDate": "2026-01-21T00:26:06Z",
       "trailText": "The ‘very stable genius’ zigzagged wildly in a packed press room – Nato’s future lies in the hands of a modern Caligula",
-      "summary": "At a press briefing marking his first year in office, 79-year-old President Trump rambled through off-topic baseball nostalgia, mental hospital anecdotes and a litany of self-delivered accomplishments in a slow, repetitive monotone. He veered from ‘I love Hispanic’ to xenophobic jabs at Somali immigrants, repeated the ‘big lie,’ disparaged special counsel Jack Smith, rebranded coal and joked about renaming the Gulf of Mexico, then called an ICE killing a ‘tragedy.’ A surprise paper-clip mishap elicited more boastful resilience. Threatening to pursue Greenland and undermining NATO unity, his discombobulated performance alarmed allies and revived 25th-amendment fears.",
-      "summaryTokens": 766,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "During a rambling White House press conference marking his first year, President Trump interrupted himself with baseball memories of a Queens mental hospital, declared himself a “very stable genius” and read a repetitive list of self-praise. He lobbed xenophobic comments on Somalia, repeated the “big lie” about the 2020 election, rebranded coal “clean, beautiful” and joked about renaming the Gulf of Mexico. He mourned the ICE shooting of Renee Good as a “tragedy,” called for reopening “insane asylums” and clumsily handled props. Teasing a Greenland acquisition with “you’ll find out,” his erratic tone deepened European fears over NATO’s future under his erratic rule.",
+      "summaryTokens": 1409,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/usha-vance-baby-pregnant",
@@ -89,21 +401,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T23:47:49Z",
       "trailText": "Second lady becomes first US vice-presidential spouse to be pregnant while her husband serves in office",
-      "summary": "JD Vance and wife Usha Vance announced they are expecting their fourth child, a boy due in late July, making Usha (40) the first US vice-presidential spouse to be pregnant in office and the nation’s first South Asian and Hindu second lady. The couple, married in 2014 after meeting at Yale Law, already have sons Ewan and Vivek and daughter Mirabel. They thanked military medical staff for their care. The announcement follows Vance’s advocacy on declining US birth rates and historic presidential family milestones; previously Frances Cleveland and Jacqueline Kennedy were the only White House spouses to give birth during a term.",
-      "summaryTokens": 1319,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
-    },
-    {
-      "id": "us-news/2026/jan/20/trump-press-briefing-greenland",
-      "title": "‘You’ll find out’: Trump refuses to say how far he would go to seize Greenland",
-      "webUrl": "https://www.theguardian.com/us-news/2026/jan/20/trump-press-briefing-greenland",
-      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/20/trump-press-briefing-greenland",
-      "section": "us-news",
-      "publishedDate": "2026-01-20T23:19:50Z",
-      "trailText": "President also declines to offer any reassurances about his commitment to the stability of Nato alliance",
-      "summary": "At a Jan.20 briefing, President Donald Trump refused to say how far he'd go to acquire Greenland, retorting 'You'll find out' when pressed. He warned NATO was only as strong as US commitment, declined to reassure allies, and touted 365 achievements from his second term, including ending eight wars and deserving a Nobel Peace Prize. Trump linked his Greenland bid to Norway’s Nobel control, threatened EU tariffs over opposition, and signaled military force or referendum as possible paths. The Supreme Court’s review of his tariff powers could shape his leverage over Europe.",
-      "summaryTokens": 1432,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "JD Vance and second lady Usha Vance, the first South Asian and Hindu vice-presidential spouse, are expecting their fourth child, a boy due in late July. The couple, Yale Law classmates married in 2014, already have sons Ewan and Vivek and daughter Mirabel. Usha is the first vice-presidential spouse to be pregnant while in office. They thanked military doctors for their care. Vance, a vocal advocate for boosting US birth rates, says their family remains strong amid public scrutiny.",
+      "summaryTokens": 914,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/us-military-seizes-oil-tanker-venezuela",
@@ -113,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T23:15:19Z",
       "trailText": "Seizing of vessel in Caribbean Sea is seventh apprehension in Trump’s campaign to control Venezuela’s oil flows",
-      "summary": "The US military’s Southern Command announced it seized the Motor Vessel Sagitta in the Caribbean, marking the seventh interception in President Trump’s month-long campaign to enforce sanctions on Venezuela’s oil exports. Operating without incident, the move underscores Washington’s resolve to permit only ‘properly coordinated and lawful’ shipments. Trump, who last week ordered a daring raid to capture Nicolás Maduro and his wife for trial in New York, has vowed to control Venezuela’s oil resources indefinitely under a $100bn reconstruction plan, drawing scrutiny from environmentalists and major oil firms. Previously targeted vessels included sanctioned tankers and a ‘shadow fleet’ concealing links to Iran, Russia or Venezuela.",
-      "summaryTokens": 432,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "US Southern Command seized the Motor Vessel Sagitta, part of a sanctions-evading “shadow fleet,” in the Caribbean without incident, marking the seventh tanker apprehended under Trump’s month-long campaign to enforce a quarantine on Venezuelan oil flows. Overseen by nearly a dozen warships and thousands of troops, the operation aims to ensure only “coordinated and lawful” exports. It follows the failed diplomatic push to oust Nicolás Maduro, including a 3 January raid to detain him in New York. The US now plans to control Venezuela’s oil resources indefinitely via a $100 bn industry rebuild, raising environmental and corporate concerns.",
+      "summaryTokens": 1589,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/payphones-politics-san-francisco-texas",
@@ -125,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T19:43:13Z",
       "trailText": "A Matter Neuroscience project lets callers in liberal San Francisco and conservative Abilene speak across party lines",
-      "summary": "Two experimental payphones—one outside Black Serum Tattoo in San Francisco’s Mission District and the other by Seven and One Books in Abilene, Texas—connect strangers from opposite political spectrums. Launched by Boulder’s biotech firm Matter Neuroscience, the installation repurposes vintage phones to encourage bipartisan, stress-reducing conversations. Signs on each booth cite research on cortisol, dopamine and cannabinoids, promoting civil discourse to boost happiness. Early callers discussed Cybertrucks and party affiliations, with some Abilene participants identifying as Green or Peace and Freedom party members. Recordings will be released online in January.",
-      "summaryTokens": 997,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Matter Neuroscience has installed two refurbished payphones—one outside a tattoo parlor in San Francisco’s Mission District and another outside Seven and One Books in Abilene, Texas—to connect strangers across party lines. Signs invite callers to speak with someone from the opposite ideological spectrum to foster meaningful, stress-reducing dialogue, citing neuroscientific claims about cortisol and dopamine. Founder Ben Goldhirsh hopes these exchanges reveal shared humanity and encourage positive discourse. Early conversations have ranged from Tesla Cybertrucks to party affiliation, drawing enthusiastic local support. Recorded calls will be released online at the end of January.",
+      "summaryTokens": 930,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/supreme-court-hawaii-gun-law-case",
@@ -137,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T19:17:41Z",
       "trailText": "Court considering legality of state law banning guns on private property open to the public unless owner allows it",
-      "summary": "The Supreme Court’s conservative majority appeared skeptical of Hawaii’s law barring concealed firearms on private property open to the public without owner approval. In Wolford v. Lopez, three Maui concealed-carry permit holders and a local gun group, backed by the Trump administration, argue the rule violates the Bruen decision’s public-carry right. Lower courts struck parts of the ban at banks and parking lots while upholding bans at bars, beaches and parks. During oral arguments, Justices Alito and Roberts criticized the law for demoting gun rights, and Justice Sotomayor pressed challengers on private-property carry rights.",
-      "summaryTokens": 935,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "In Wolford v Lopez, the US Supreme Court’s conservative 6-3 majority signaled skepticism of Hawaii’s law banning firearms on private property open to the public unless owners grant permission. Challengers—three Maui concealed-carry permit holders backed by Trump’s Justice Dept and a local gun group—say Bruen affirmed the right to carry loaded handguns in public. Hawaii defends its balancing of Second Amendment rights with property owners’ consent. Justices Alito and Roberts warned against relegating gun rights to ‘second-class status’, while Sotomayor probed challengers on any right to enter private land armed.",
+      "summaryTokens": 1127,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/trump-macron-private-message-intimidation",
@@ -149,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T18:52:13Z",
       "trailText": "The US president uses mass communication to destabilise his rivals, but the risk is that frank exchange may dry up",
-      "summary": "Trump posted Macron’s private G7 proposal on social media to wound and intimidate, bypassing diplomatic norms. The content mirrored Macron’s public stance, yet this tactic erodes trust, risks shutting down candid exchanges, and deters intelligence sharing. Reflecting Trump’s modus operandi—transgressing norms, creating chaos, and wielding omnipresent mass communication—this spectacle-driven presidency sacrifices confidentiality and stable diplomacy, leaving allies fearful, dialogue stifled, and conventional peacemaking imperiled.",
-      "summaryTokens": 526,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Donald Trump publicly released Emmanuel Macron’s private G7 invitation on Truth Social, exposing a detailed proposal to discuss Greenland, Ukraine and Syria. This unprecedented mass-leak tactic, beyond mere reprisal, is designed to intimidate rivals by dominating information flow and bypassing diplomatic filters. By substituting bland official readouts with raw messages, Trump undermines the trust essential for candid statecraft, risks chilling frank exchanges, and may deter intelligence sharing if sources are exposed. His presidency, characterized by omnipresent spectacle and norm-transgression, treats diplomatic confidentiality as disposable. While Macron’s public and private views aligned, Trump’s method of chaos as policy provocation threatens to erode traditional conventions at a moment when dialogue is urgently needed.",
+      "summaryTokens": 1150,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/republican-julia-letlow-trump-bill-cassidy-senate",
@@ -161,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T18:37:35Z",
       "trailText": "Louisiana congresswoman is challenging Cassidy, who voted to convict the US president after 2021 Capitol attack",
-      "summary": "Louisiana congresswoman Julia Letlow, fresh off a “complete and total” Trump endorsement on Truth Social, has filed to challenge two-term Republican Senator Bill Cassidy in the state’s first closed party primary. Cassidy, former physician and health committee member, previously voted to convict Trump after the Jan. 6 insurrection and cast pivotal votes on Kennedy Jr.’s confirmation and Covid-19 vaccines. Letlow, who won her seat in 2021 following her husband’s Covid-19 death, pledges to “put America first,” focusing on border security, law enforcement, and anti-woke education.",
-      "summaryTokens": 1068,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Congresswoman Julia Letlow has officially launched a Trump-backed Republican primary bid against two-term Senator Bill Cassidy in Louisiana. Backed by Trump’s Truth Social endorsement, Letlow challenges Cassidy—who voted to convict Trump in his second impeachment and later cast decisive votes on health policy—as insufficiently loyal to the former president’s agenda on border security, law enforcement, and education. A 2021 special-election winner after her husband’s Covid-19 death, Letlow warns voters they shouldn’t second-guess a conservative senator’s votes under pressure. Their race unfolds under Louisiana’s new closed primary system, forcing Cassidy to win a GOP-only primary to reach the runoff.",
+      "summaryTokens": 692,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/trumps-board-of-peace-is-an-imperial-court-completely-unlike-what-was-proposed",
@@ -173,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T18:20:34Z",
       "trailText": "The US president’s global club was endorsed by the security council on a false prospectus and seems aimed at displacing the United Nations",
-      "summary": "UN Security Council members voted to endorse Donald Trump’s “board of peace” in November expecting a Gaza ceasefire brokered by the US president. Instead, they backed a pay-to-play, Mar-a-Lago-style club with a “charter” echoing the UN’s but lacking its principles. Trump alone appoints and can dismiss members, sets meetings, and wields a veto; life membership costs $1bn. The board creates a general executive body plus a Gaza committee and ISF under a US general, sidelining UN agencies. Critics say it’s an imperial court for the wealthy to supplant the UN and entrench inequality.",
-      "summaryTokens": 966,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "When the UN Security Council backed resolution 2803 to endorse Trump’s Gaza ceasefire plan, members expected a UN-mediated process but instead got Trump’s “board of peace” – a pay-to-play club modeled on Mar-a-Lago. Its charter omits UN principles, making Trump sole chairman with unlimited veto and power to appoint or dismiss members, who can buy “life membership” for $1bn. A general and a Gaza executive board sit above a nominal Palestinian national committee, alongside an international force under a US major-general. Critics say it undermines the UN, disempowers Gaza and functions as an imperial court for wealthy states seeking Trump’s favor.",
+      "summaryTokens": 1661,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing",
@@ -185,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T17:11:09Z",
       "trailText": "Email sent to diplomats by state department office’s new boss is labelled ‘racist’ after dismissing Africa as a priority",
-      "summary": "Leaked January email from newly appointed Bureau of African Affairs chief Nick Checker—an ex-CIA conflict analyst—urges diplomats to “unabashedly and aggressively” remind African governments of US generosity on HIV/AIDS relief and famine aid, countering narratives that downplay America as a top donor. Framing Africa as peripheral to core US interests, the memo advocates a transactional shift toward trade and investment (critical minerals, energy) and conflict negotiations, echoing a Trump-era security strategy. Critics label it racist and harmful. Meanwhile USAID has invited private bids to oversee its legally contested shutdown by 2028.",
-      "summaryTokens": 502,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Leaked Jan email from Nick Checker, new head of State’s Bureau of African Affairs, urges diplomats to “unabashedly” tout US generosity on HIV/Aids and famine to leverage aid for American interests, framing Africa as a peripheral, transactional region. Reflecting Trump’s 2025 security strategy shift from aid to trade and investment, the memo highlights conflict mediation and mineral and energy investments. Critics call it racist, misguided and counter to US security. Meanwhile, USAID circulated a bid for its own shutdown contract through March 2028 despite congressional objections, raising legal and geopolitical concerns.",
+      "summaryTokens": 881,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/lawmakers-ice-facilities-judge-block",
@@ -197,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T15:58:49Z",
       "trailText": "Judge rules homeland security can insist lawmakers provide week’s notice of intention to inspect facilities",
-      "summary": "US court allows DHS to require lawmakers to give 7 days’ notice before inspecting immigration detention facilities. Judge Jia Cobb ruled the policy – funded by Trump’s “big, beautiful bill” – differs from the one she blocked, and plaintiffs may amend their suit. Separately, DOJ urged a Minneapolis court to dismiss Minnesota, Minneapolis and St. Paul’s lawsuit seeking to halt ICE operations, calling it federal overreach, and appealed an injunction limiting ICE protest tactics. Minnesota AG Keith Ellison alleges excessive force and arrests violate the APA; Biden-appointed Judge Katherine Menendez may hold further hearings.",
-      "summaryTokens": 992,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "DHS prevailed before Judge Jia Cobb, allowing a 7-day notice requirement for congressional inspections of ICE detention centers via funding from the recent border-security bill. Minnesota lawmakers Ilhan Omar, Angie Craig and Kelly Morrison, backed by Joe Neguse, contend this violates a December injunction. The DOJ appealed an order curbing ICE’s use of pepper spray and other crowd-control tactics at protests. In Minneapolis, the DOJ urged dismissal of a suit by Minnesota and Minneapolis/St. Paul challenging federal immigration enforcement after AG Keith Ellison decried excessive, lethal force — including the fatal shooting of Renee Good — as a constitutional overreach. Judge Katherine Menendez will hold further hearings.",
+      "summaryTokens": 1648,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/lawmakers-block-trump-tariffs-european-allies",
@@ -209,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T15:53:32Z",
       "trailText": "Democrats lead legislative charge to block imposition of tariffs as some Republicans break from Trump",
-      "summary": "In January 2026, bipartisan US lawmakers proposed legislative measures to block President Trump’s threatened tariffs on eight European allies, including Denmark, the UK, Germany and France. Democrat Senator Peter Welch plans a resolution under the International Emergency Economic Powers Act to terminate the 10% February and 25% June levies tied to a deal for Greenland; Representative Gregory Meeks and Senate Minority Leader Chuck Schumer co-sponsor parallel bills. So far, a handful of Republicans—like Senators Thom Tillis and Lisa Murkowski—openly oppose the tariffs, but securing the two-thirds majority needed to override a presidential veto remains uncertain amid NATO concerns and diplomatic fallout.",
-      "summaryTokens": 1009,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Sen. Peter Welch and Rep. Gregory Meeks will introduce resolutions under the International Emergency Economic Powers Act to terminate President Trump’s planned 10–25% tariffs on eight NATO allies—Denmark, the UK, Germany, France and others—threatened over a proposed Greenland purchase. Democrats, backed by Chuck Schumer, aim for binding legislation, but need a two-thirds majority to override a likely Trump veto. Only a handful of Republicans, including Thom Tillis and Lisa Murkowski, publicly oppose the tariffs. A bipartisan congressional trip to Denmark and Greenland underscored US support, while Danish PM Mette Frederiksen warned the move could fracture NATO.",
+      "summaryTokens": 372,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/california-newsom-europe-comment-trump-greenland",
@@ -221,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T15:43:17Z",
       "trailText": "California governor says world leaders are ‘played’ by the US president and urges them to stop rolling over",
-      "summary": "California governor and 2028 Democratic frontrunner Gavin Newsom attacked Europe at the Davos WEF for 'complicity' in responding to Trump's Greenland annexation demands, calling their negotiation attempts 'not diplomacy, it's stupidity.' He urged leaders to 'buck up' and stop 'rolling over,' joking he should have brought kneepads. European officials, wary of US security ties, have sought to appease Trump as a 'whisperer', notably NATO head Mark Rutte, with flattery and tariff warnings over Greenland. Tensions grow as Europe balances trade, security and potential retaliation. Rutte praised Trump's Syria ceasefire to curry favor, promising to highlight his Gaza and Ukraine work and pressing for Greenland talks ahead of Davos.",
-      "summaryTokens": 2367,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "At Davos, California governor and 2028 Democratic presidential hopeful Gavin Newsom accused European leaders of ‘complicity’ in caving to Donald Trump’s bid to buy or annex Greenland, branding their negotiations ‘not diplomacy, it’s stupidity’ and urging them to ‘buck up’ instead of ‘rolling over.’ He quipped about bringing kneepads—items he sells emblazoned with Trump’s signature—to aid their groveling. Newsom’s critique highlights Europe’s dilemma: balancing vital trade and security ties with the US against Trump’s threats of tariffs, unpredictable demands on Greenland, and efforts by figures like NATO chief Mark Rutte to flatter the president in hopes of protecting alliances.",
+      "summaryTokens": 565,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/catholic-cardinals-trump-foreign-policy",
@@ -233,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T14:44:02Z",
       "trailText": "Church leaders cite Greenland threats, Venezuela action and aid cuts as undermining human dignity and peace",
-      "summary": "Three US Catholic cardinals—Blase Cupich, Robert McElroy and Joseph Tobin—warn President Trump’s foreign policy risks “incalculable suffering,” citing threats to seize Greenland, a US operation capturing Venezuela’s Nicolás Maduro, and deep humanitarian aid cuts. Their Jan. 20 statement denounces partisan militarism, renounces war as policy, and urges diplomacy that upholds human life, religious liberty and dignity through economic assistance. The critique follows November bishops’ condemnation of deportations and echoes Pope Leo XIV’s warning against force-based diplomacy. The White House defended Trump’s approach as “unequivocally moral” and vital to national security.",
-      "summaryTokens": 1966,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "In a joint statement, Cardinals Blase Cupich, Robert McElroy, and Joseph Tobin warn that President Trump’s foreign policy—ranging from threatened seizure of Greenland and cuts to U.S. humanitarian aid to the January raid in Venezuela that captured Nicolás Maduro—undermines human dignity, religious freedom, and the pursuit of just peace. Citing Pope Leo XIV’s recent critiques of force-based diplomacy, they denounce war for narrow interests and urge a policy centered on economic assistance and nonviolent engagement. The White House counters that Trump’s measures are “unequivocally moral,” bolstering U.S. security and global stability.",
+      "summaryTokens": 875,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/us-foreign-policy-mad-king-trump-whims",
@@ -245,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T14:40:52Z",
       "trailText": "Increasingly unpopular at home, a president obsessed by his legacy has turned his scattergun on the world stage",
-      "summary": "In his second term, Trump’s US foreign policy has collapsed into erratic, personal whim, driven by his quest for an imperial legacy. Within a year he has texted Norway’s PM demanding Greenland, threatened 200% tariffs on French wine if Macron skips his ‘peace’ G7, invited Putin to a ‘board of peace’ over Gaza despite Russia’s Ukraine war, and seized Venezuela’s Maduro. His ad-hoc decisions—nuclear site strikes in Iran, Houthi attacks in Yemen, Russia-casting America as 19th-century imperial power—are steered by a ‘five’ counsel including Rubio, Vance, Miller and Witkoff. All alliances now hinge on Trump’s ‘might makes right’ zero-sum worldview.",
-      "summaryTokens": 898,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "One year into his second term, Trump’s 'foreign policy' is driven by personal whims, eroding norms and alliances in favor of might-makes-right. Through erratic demands—from proposing Greenland’s annexation to threatening 200% tariffs on French wine—he has sidelined institutional processes and the UN, convened a narrow five-member circle (Vance, Rubio, Miller, Witkoff, Wiles) for key decisions, leaked Macron dinner talks, invited Putin to a 'board of peace', posed with María Corina Machado’s Nobel medal, and pursued theatrical legacy-building feats—raiding Maduro, informal Gaza peace, Iran strikes, Yemen ops. His zero-sum, imperial worldview undermines NATO, unsettles allies, and reduces US diplomacy to ad hoc power plays.",
+      "summaryTokens": 1609,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/citizen-ice-minnesota-thao",
@@ -257,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T13:59:42Z",
       "trailText": "ChongLy ‘Scott’ Thao of Minnesota says agents pointed guns at his family, and his four-year-old grandson watched and cried",
-      "summary": "ChongLy \"Scott\" Thao, a Minnesota US citizen, says ICE agents forced open his door without a warrant and arrested him at gunpoint, handcuffing him in underwear and sandals in subfreezing conditions as his four-year-old grandson cried. DHS claims it targeted two convicted sex offenders allegedly living there; Thao's family disputes any registry ties. After agents confirmed his citizenship, they returned him home without apology. Thao plans a civil rights lawsuit against DHS.",
-      "summaryTokens": 1420,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "ChongLy “Scott” Thao, a US citizen in St. Paul, Minnesota, says ICE agents forced open his door at gunpoint without a warrant, pointed guns at his family, refused to check his ID, then led him outside in underwear and sandals amid subfreezing weather, watched by his crying four-year-old grandson. DHS claims agents were targeting two convicted sex offenders allegedly living there, but Thao’s family disputes this. Mayor Kaohly Her, a Hmong American, denounced the operation as 'un-American,' and Thao plans a civil rights lawsuit against DHS.",
+      "summaryTokens": 1700,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/universities-humanities-programs",
@@ -269,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T12:00:02Z",
       "trailText": "Fears over the future of humanities spread amid layoffs and restructurings at scores of public and private universities",
-      "summary": "Students and faculty at Montclair State staged a mock funeral for 15 humanities and social-science departments after administrators proposed merging them into four thematic schools. Similar cuts and restructurings are under way nationwide: Indiana forced its public universities to eliminate 400 programs, UT Austin eyes ethnic and regional studies, UNC plans to close six area‐studies centers, and Chicago has paused most humanities PhD admissions. Over 9,000 higher‐ed jobs were cut last year as corporatized, data-driven metrics and political pressure deem humanities “unmonetizable,” sparking debates over the true value of liberal-arts education.",
-      "summaryTokens": 422,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "At dozens of US universities, humanities programs face existential threats as administrations, often using corporate consultants, restructure or cut departments amid budget shortfalls, declining enrollments and political pressure. Montclair State students held a mock funeral for 15 humanities departments; Indiana public campuses must eliminate 400 degree programs; UT Austin, UNC and Chicago anticipate cuts or admissions freezes in ethnic, area and gender studies. Critics decry corporatized, market-driven metrics undermining critical inquiry, warning of a lopsided, vocational sole focus.",
+      "summaryTokens": 782,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/first-thing-trump-uk-stupidity-chagos-islands-greenland",
@@ -281,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T11:35:07Z",
       "trailText": "Flurry of posts on Truth Social firmly set out Trump’s Greenland stance to European leaders. Plus, spoof Maga caps soar in popularity",
-      "summary": "In a flurry of Truth Social posts, Trump cited Britain's 'stupidity' over ceding the Chagos Islands to Mauritius as justification for seizing Greenland, leaked private texts from Macron and Rutte, and insisted control of the Danish Arctic territory is 'imperative for security'. MLK Day observances in the US took on an urgent tone amid policing concerns; South Dakota Gov. Kristi Noem backtracked after denying ICE pepper-sprayed Minneapolis protesters; China's population fell for a fourth year; auroras lit northern skies; Brooklyn Peltz Beckham publicly feuded with his parents; and spoof 'Make America Go Away' caps emerged as Danish-Greenlandic protest symbols.",
-      "summaryTokens": 1531,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "In a flurry of Truth Social posts ahead of Davos, Trump blasted Britain’s ‘stupidity’ over ceding the Chagos Islands to Mauritius and renewed his bid to ‘imperatively’ acquire Greenland, leaking private Macron and Rutte texts. MLK Day observances across the US highlighted racial justice concerns amid federal crackdowns. South Dakota Gov. Kristi Noem backtracked on ICE pepper spray denials in Minneapolis protests. Meanwhile, China’s birthrate plunged to a record low in 2025, Antarctic penguins shifted breeding cycles under climate stress, and Danish spoof “Make America Go Away” caps have become a symbol of resistance to Trump’s Greenland threat.",
+      "summaryTokens": 1208,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/ice-immigrarion-minnesota-economic-protest",
@@ -293,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T11:00:02Z",
       "trailText": "Unions, faith groups and local leaders urge residents not to work, shop or go to school after killing of Renee Good",
-      "summary": "Labor unions, faith groups and community leaders have called a statewide economic blackout in Minnesota on Jan. 23 to protest the Trump administration’s deployment of over 3,000 ICE agents—resulting in 2,400 recent arrests—and to mourn the fatal shooting of Renee Good by an ICE officer. Organizers urge residents to refrain from working, shopping or attending school; major local unions including CWA, Saint Paul and Minneapolis educators federations back the action. Minneapolis Mayor Frey has criticized the operation’s scale, while DHS defended its agents and disputed accounts of Good’s death. They will also hold a march and rally in downtown Minneapolis at 2pm.",
-      "summaryTokens": 1328,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Labor unions, faith groups and community leaders have called an economic blackout in Minnesota on Jan 23 to protest the Trump administration’s deployment of 3,000 ICE agents and mourn Renee Good, fatally shot by an ICE officer in Minneapolis. They urge residents not to work, shop or attend school and will hold a rally downtown. Over 2,400 arrests have occurred in recent weeks. Organizers say the crackdown targets working-class communities and tears families apart. DHS defends ICE and disputes witnesses’ accounts; Minneapolis’ mayor warns local police are outnumbered and outgunned.",
+      "summaryTokens": 1380,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/trump-inaugural-speech-10-key-promises",
@@ -305,9 +605,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T10:00:23Z",
       "trailText": "A review of Trump’s bold promises about immigration, the economy, the US’s standing in the world and much more",
-      "summary": "At his January 2025 swearing-in, Trump outlined 10 pledges: rebalancing justice (weaponized DOJ investigations, lower crime rates); courting Black and Hispanic voters (record support but few targeted programs); halting illegal immigration (emergency border declaration, 622k+ deportations and military deployments); fighting inflation (CPI down marginally); “energy dominance” via drilling and Paris exit; sweeping tariffs; Musk-led Doge efficiency drive; anti-censorship order targeting media and academics; ending DEI and trans rights; and an interventionist foreign policy culminating in Venezuela strike. Outcomes ranged from mixed economic gains to rights rollbacks and global tensions.",
-      "summaryTokens": 1082,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "At his January 2025 inauguration, President Trump set ten priorities—overhauling justice, courting Black and Hispanic voters, enforcing harsh immigration limits, fighting inflation, maximizing oil and gas, imposing broad tariffs, creating a Doge efficiency office, ordering free-speech protections, and abolishing DEI. One year on, crime is down ~20% but the DOJ was weaponized despite minority backing; border deportations topped 600k; inflation eased slightly; energy output hit records; tariffs raised revenue but stoked consumer costs; Doge collapsed amid chaotic cuts; universities and media faced funding freezes and lawsuits; and strikes from Yemen to Venezuela captured Maduro.",
+      "summaryTokens": 2614,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/20/trump-administration-news-latest-updates",
@@ -317,9 +617,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T03:27:25Z",
       "trailText": "Trump says failure to receive the Nobel peace prize means he no longer feels the need to think ‘purely of peace’ – key US politics stories from 19 January",
-      "summary": "An extraordinary text exchange with Norway’s PM Jonas Gahr Støre reveals Trump’s frustration over missing the Nobel peace prize, saying he no longer needs to “think purely of peace” and again threatening to seize Greenland “one way or another.” He insists the US must have “complete and total control” of the Arctic island and threatens tariffs on allies. European industry and Greenlandic protesters have mocked his “ludicrous demands” with “Make America Go Away” caps. The news roundup also covers ICE controversies in Minneapolis and Texas, DOJ’s delay on Epstein files, Putin’s invite to Trump’s Gaza ceasefire board, and cultural critiques by Bruce Springsteen and Stellan Skarsgård.",
-      "summaryTokens": 756,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "In a leaked text to Norway’s prime minister, Donald Trump said that not winning the Nobel Peace Prize freed him from “an obligation to think purely of peace” and again refused to rule out seizing Greenland, a self-governing Danish territory, by force. He argued Denmark “cannot protect” the island from Russia or China, insisted the US needs “complete and total control” of Greenland, threatened tariffs over the prize snub, and claimed NATO owes America.",
+      "summaryTokens": 774,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/19/aurora-visibility-north-south",
@@ -329,9 +629,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T00:51:05Z",
       "trailText": "Major disturbance in the Earth’s magnetic field may make northern lights visible far more south than usual",
-      "summary": "NOAA’s Space Weather Prediction Center forecasts an unprecedented geomagnetic storm—the strongest in over 20 years—could bring auroras as far south as the US mid-tier on Monday night, stretching from Canada across the northern states and potentially deep into the southern US. Shawn Dahl warns the intense solar radiation may disrupt satellites, GPS and other infrastructure until the storm subsides Tuesday. A November solar storm already produced vibrant Northern Lights in Europe and US states like Kansas, Colorado and Texas.",
-      "summaryTokens": 1160,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "NOAA space weather forecast warns an intense geomagnetic and solar radiation storm—the strongest in over two decades—could make auroras visible across Canada, the entire northern US tier and potentially much farther south on Monday night. Service coordinator Shawn Dahl cautions the storm may disrupt satellites, GPS signals and other infrastructure. The disturbance, expected to ease by Tuesday, follows November’s solar events that produced vibrant auroras in Europe and as far south as Kansas, Colorado and Texas.",
+      "summaryTokens": 709,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/19/mlk-day-celebrations",
@@ -341,9 +641,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-20T00:30:15Z",
       "trailText": "Holiday marked with parades and services but tempered by anxieties over racial and social equality under Trump",
-      "summary": "Across the US, MLK Day was marked by parades and services tempered by fears over racial justice under Trump. In Harlem, Al Sharpton invoked the killing of Renee Good and urged unity against ICE raids and National Guard deployments. NYC’s new mayor, Zohran Mamdani, framed inequality as an economic crisis. NAACP and Movement for Black Lives hosted “Reclaim MLK Day” actions, while some events were canceled citing budget or ICE pressure. Critics decried the administration’s rollback of civil rights, DEI cuts and the National Park Service’s end of free MLK Day admissions. At Ebenezer Baptist, Senator Warnock called for recommitment to King’s legacy.",
-      "summaryTokens": 881,
-      "generatedAt": "2026-01-21T03:56:02.533Z"
+      "summary": "Across US cities, MLK Day celebrations—parades, rallies and museum events—reflected pride and tension over the Trump administration’s immigration crackdowns, DOJ’s shift away from affirmative action and a new Park Service policy moving free-admission days to Flag Day (Trump’s birthday). In Harlem, Al Sharpton invoked Renee Good’s killing to demand unity; NYC mayor Zohran Mamdani framed King’s legacy as an economic-justice struggle. Marchers in Washington and Atlanta’s Ebenezer Baptist Church, led by Senator Raphael Warnock, echoed “the struggle continues.” NAACP’s Wisdom Cole and Movement for Black Lives activists organized “Reclaim MLK Day of Action,” decrying escalated ICE deployments and cancelled university and church events amid urgent calls to defend King’s radical dream.",
+      "summaryTokens": 1094,
+      "generatedAt": "2026-01-22T04:02:14.116Z"
     },
     {
       "id": "us-news/2026/jan/19/second-death-ice-facility-texas",
@@ -7853,7 +8153,7 @@
       "section": "us-news",
       "publishedDate": "2025-12-15T20:50:28Z",
       "trailText": "Fans pay tribute to When Harry Met Sally and The Princess Bride film-maker and his wife after apparent homicide",
-      "summary": "Los Angeles is reeling after director Rob Reiner and his wife, photographer-producer Michele Singer Reiner, were found dead in their Brentwood home and their son arrested on suspicion of homicide. Fans gathered at Reiner’s Hollywood Walk of Fame star to honor the maker of When Harry Met Sally, The Princess Bride, Stand By Me and This Is Spinal Tap, and to remember his activism—co-founding the Prop 8 legal challenge, leading marriage equality efforts and speaking out against Trump—and his I Am Your Child initiative on early childhood development.",
+      "summary": "Los Angeles is reeling after director Rob Reiner and his wife, photographer-producer Michele Singer Reiner, were found dead in their Brentwood home and their son arrested on suspicion of homicide. Fans gathered at Reiner’s Hollywood Walk of Fame star to honor the maker of When Harry Met Sally, The Princess Bride, Stand By Me and This Is Spinal Tap, and to remember his activism—co-founding the Prop 8 legal challenge, leading marriage equality efforts and speaking out against Trump��and his I Am Your Child initiative on early childhood development.",
       "summaryTokens": 1053,
       "generatedAt": "2025-12-17T03:50:48.633Z"
     },
@@ -21580,7 +21880,7 @@
       "apiUrl": "https://content.guardianapis.com/us-news/2025/oct/18/no-kings-protests-labor-unions",
       "section": "us-news",
       "publishedDate": "2025-10-18T09:00:42Z",
-      "trailText": "With more than 2,700 events planned across the US, one organizer, James Phipps, 75, says: ‘Protest is all I’ve done all my life’",
+      "trailText": "With more than 2,700 events planned across the US, one organizer, James Phipps, 75, says: ‘Protest is all I’ve done all my life��",
       "summary": "On October 18, more than 2,700 No Kings events, anchored by SEIU and AFT, will protest Trump’s Medicaid cuts, expiring health insurance subsidies and ICE raids. Organizer James Phipps, 75, a civil-rights veteran and cancer survivor, links today’s immigrant raids to Jim Crow oppression and stresses health care access. AFT head Randi Weingarten argues union power in workplaces and democracy grants freedom, while SEIU VP Jaime Contreras condemns shutdowns protecting billionaires and equates questioning Trump with patriotism.",
       "summaryTokens": 984,
       "generatedAt": "2025-10-28T20:38:22.885Z"
@@ -26009,7 +26309,7 @@
       "section": "us-news",
       "publishedDate": "2025-09-30T15:54:00Z",
       "trailText": "President and defense chief delivered pair of incendiary speeches to a crowd of hundreds of generals and admirals",
-      "summary": "At a summit of generals and admirals, Defense Secretary Pete Hegseth unveiled ten directives to purge “woke” culture, firing DEI-focused officers—disproportionately Black and female—and scrapping diversity initiatives. He mandated colorblind, merit-based promotions, equal physical standards for women, tighter grooming rules, “shark attack” training, and freer rules of engagement, backed by his lawyer-turned-navy-commander. Former President Donald Trump echoed this hardline stance in a campaign-style speech, proposing US cities like Chicago as military training grounds, endorsing forceful retaliation for insults or brick-throwing, and justifying navy sinkings of Venezuelan boats. Officers remained largely impassive.",
+      "summary": "At a summit of generals and admirals, Defense Secretary Pete Hegseth unveiled ten directives to purge ��woke” culture, firing DEI-focused officers—disproportionately Black and female—and scrapping diversity initiatives. He mandated colorblind, merit-based promotions, equal physical standards for women, tighter grooming rules, “shark attack” training, and freer rules of engagement, backed by his lawyer-turned-navy-commander. Former President Donald Trump echoed this hardline stance in a campaign-style speech, proposing US cities like Chicago as military training grounds, endorsing forceful retaliation for insults or brick-throwing, and justifying navy sinkings of Venezuelan boats. Officers remained largely impassive.",
       "summaryTokens": 1154,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
