@@ -1,26 +1,86 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-22T03:58:05.960Z",
+    "generated_at": "2026-01-23T03:58:39.414Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-21"
+      "to": "2026-01-22"
     },
-    "article_count": 394,
+    "article_count": 399,
     "merge_info": {
-      "previous_count": 393,
-      "new_articles": 1,
-      "updated_articles": 3,
-      "total_count": 394
+      "previous_count": 394,
+      "new_articles": 5,
+      "updated_articles": 1,
+      "total_count": 399
     },
     "batch_info": {
-      "initial_batch_id": "batch_69719ff600dc8190a7828f7be0e48c97",
+      "initial_batch_id": "batch_6972f176bb908190acd5729ad5e767fe",
       "retry_batches": [],
-      "total_tokens": 8828,
+      "total_tokens": 16358,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/22/ftx-crypto-executive-caroline-ellison-prison-release",
+      "title": "Former FTX crypto executive Caroline Ellison released from federal custody",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/22/ftx-crypto-executive-caroline-ellison-prison-release",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/22/ftx-crypto-executive-caroline-ellison-prison-release",
+      "section": "technology",
+      "publishedDate": "2026-01-22T21:38:30Z",
+      "trailText": "Ellison testified against Sam Bankman-Fried, FTX’s founder and her ex-partner who was sentenced to 25 years in prison",
+      "summary": "Caroline Ellison, former head of FTX’s trading arm and ex-partner of founder Sam Bankman-Fried, was released from federal custody after serving 14 months of a 24-month sentence for her role in FTX’s $8 billion fraud. She pleaded guilty to wire fraud and money laundering, cooperated extensively as the prosecution’s star witness against Bankman-Fried—now serving 25 years—and was ordered to forfeit $11 billion. Transferred from a Connecticut prison to community confinement in October, she left the facility Wednesday. The FTX collapse spurred regulatory scrutiny and is being adapted by Netflix starring Julia Garner.",
+      "summaryTokens": 702,
+      "generatedAt": "2026-01-23T03:58:38.655Z"
+    },
+    {
+      "id": "technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media",
+      "title": "Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media",
+      "section": "technology",
+      "publishedDate": "2026-01-22T19:00:53Z",
+      "trailText": "Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers say",
+      "summary": "AI researchers including Nobel laureate Maria Ressa and experts from Berkeley, Harvard, Oxford, Cambridge and Yale warn in Science that ‘AI bot swarms’—malicious, human-mimicking agents—could autonomously coordinate across social media, messaging and blogs to fabricate consensus, micro-target communities and spread tailored misinformation at scale, threatening to disrupt elections such as the 2028 US presidential vote. Early examples emerged in Taiwan, India and Indonesia in 2024. They urge global defenses—‘swarm scanners,’ content watermarking and regulation—to detect and counteract these influence campaigns.",
+      "summaryTokens": 940,
+      "generatedAt": "2026-01-23T03:58:38.655Z"
+    },
+    {
+      "id": "technology/2026/jan/22/grok-ai-generated-millions-sexualised-images-in-month-research-says",
+      "title": "Grok AI generated about 3m sexualised images in 11 days, study finds",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/22/grok-ai-generated-millions-sexualised-images-in-month-research-says",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/22/grok-ai-generated-millions-sexualised-images-in-month-research-says",
+      "section": "technology",
+      "publishedDate": "2026-01-22T15:11:07Z",
+      "trailText": "Estimate made by Center for Countering Digital Hate after Elon Musk’s AI image generation tool sparked outrage",
+      "summary": "Grok AI generated 3m sexualised images in 11 days—23k depicting children, CCDH finds. The tool stripped uploaded photos of strangers or celebrities into underwear, peaking at nearly 200,000 requests on Jan 2. Targets included Selena Gomez, Taylor Swift and Kamala Harris. After backlash, X restricted the feature on Jan 9, banned real-person nudity edits on Jan 14 and faced UK, Indonesian and Malaysian bans.",
+      "summaryTokens": 3532,
+      "generatedAt": "2026-01-23T03:58:38.655Z"
+    },
+    {
+      "id": "technology/2026/jan/22/scarlett-johansson-and-cate-blanchett-back-campaign-accusing-ai-firms-of-theft",
+      "title": "Scarlett Johansson and Cate Blanchett back campaign accusing AI firms of theft",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/22/scarlett-johansson-and-cate-blanchett-back-campaign-accusing-ai-firms-of-theft",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/22/scarlett-johansson-and-cate-blanchett-back-campaign-accusing-ai-firms-of-theft",
+      "section": "technology",
+      "publishedDate": "2026-01-22T14:04:03Z",
+      "trailText": "Hundreds of writers, musicians and performers urge licensing deals instead of scraping creative work",
+      "summary": "Scarlett Johansson, Cate Blanchett and some 800 writers, musicians and performers have launched “Stealing Isn’t Innovation”, accusing AI companies of building platforms by scraping copyrighted creative work without permission. Backed by REM, Jodi Picoult, Joseph Gordon-Levitt and industry bodies including the WGA, RIAA and SAG-AFTRA, the campaign urges AI firms to strike licensing deals—citing existing pacts by OpenAI and Warner Music—while contests over “fair use” and dozens of US lawsuits intensify. The UK government’s proposed opt-out approach is also under review.",
+      "summaryTokens": 1010,
+      "generatedAt": "2026-01-23T03:58:38.655Z"
+    },
+    {
+      "id": "technology/2026/jan/22/trump-datacenters-republicans",
+      "title": "Why Trump is worried datacenters might cost his party an election",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/22/trump-datacenters-republicans",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/22/trump-datacenters-republicans",
+      "section": "technology",
+      "publishedDate": "2026-01-22T12:30:25Z",
+      "trailText": "The president wants big tech to pay more for electricity, but he’s curbing renewable projects that could boost supply",
+      "summary": "President Trump, worried that booming datacenters will drive up U.S. electricity bills and hurt Republican chances in November, struck a deal with Microsoft to pay full property taxes and higher power rates and directed an emergency reliability auction to make tech firms fund new generation. OpenAI joined the “pay your own way” energy pledge, even as his administration stalls renewables and revives coal, gas and LNG exports—moves that could keep consumer prices high. Globally, regulators from the U.S. EPA to Germany, the U.K. and Ireland grapple with datacenters’ surging power demand amid rising costs and strained grids.",
+      "summaryTokens": 612,
+      "generatedAt": "2026-01-23T03:58:38.655Z"
+    },
     {
       "id": "technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
       "title": "My analogue month: would ditching my smartphone make me healthier, happier – or more stressed?",
@@ -29,9 +89,9 @@
       "section": "technology",
       "publishedDate": "2026-01-21T05:00:52Z",
       "trailText": "When I swapped my iPhone for a Nokia, Walkman, film camera and physical map, I wasn’t sure what to expect. But my life soon started to change",
-      "summary": "Over 31 days the writer abandoned her iPhone for a Nokia 3310, Walkman, film camera, A–Z map and cash, only using screens for work. Early stumbles—missed buses, awkward texts, stress and social friction—gave way to newfound patience, present-moment awareness and calmer moods. Without infinite scrolling and notifications she rediscovered reading, noticed surroundings, and deepened offline interactions. Despite occasional frustration and reliance on others for directions, she emerged happier, more mindful and determined to cut addictive apps, exposing big tech’s intentional dopamine loops.",
-      "summaryTokens": 939,
-      "generatedAt": "2026-01-22T03:58:05.707Z"
+      "summary": "Over 31 days the writer traded her iPhone for a Nokia feature phone, Walkman, film camera, paper map, physical books and cash, keeping screens only for work. Initially she struggled with navigation errors, slow texting, missed messages and stressed friends, but gradually she noticed reduced anxiety, improved presence, patience, deeper focus on surroundings, reading and conversations. Experts warn social media’s dopamine loops fuel stress and poor sleep, while her detox boosted mental wellbeing, inspiring her to limit apps post-experiment.",
+      "summaryTokens": 989,
+      "generatedAt": "2026-01-23T03:58:38.655Z"
     },
     {
       "id": "technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
