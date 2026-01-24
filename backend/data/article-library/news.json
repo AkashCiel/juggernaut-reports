@@ -1,26 +1,38 @@
 {
   "metadata": {
     "section": "news",
-    "generated_at": "2026-01-23T03:50:12.088Z",
+    "generated_at": "2026-01-24T03:40:13.952Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-22"
+      "to": "2026-01-23"
     },
-    "article_count": 221,
+    "article_count": 222,
     "merge_info": {
-      "previous_count": 218,
-      "new_articles": 3,
-      "updated_articles": 4,
-      "total_count": 221
+      "previous_count": 221,
+      "new_articles": 1,
+      "updated_articles": 3,
+      "total_count": 222
     },
     "batch_info": {
-      "initial_batch_id": "batch_6972ef5bccb081909dab84f7c3ca5a25",
+      "initial_batch_id": "batch_69743ea69180819096208625429cc189",
       "retry_batches": [],
-      "total_tokens": 17377,
+      "total_tokens": 9424,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "news/2026/jan/23/corrections-and-clarifications",
+      "title": "Corrections and clarifications",
+      "webUrl": "https://www.theguardian.com/news/2026/jan/23/corrections-and-clarifications",
+      "apiUrl": "https://content.guardianapis.com/news/2026/jan/23/corrections-and-clarifications",
+      "section": "news",
+      "publishedDate": "2026-01-23T21:00:20Z",
+      "trailText": "Philippa Perry | Matthew Slotover | Matthew Hayden",
+      "summary": "The Guardian issues corrections and clarifications: Philippa Perry is a trained psychotherapist, not a clinical psychologist; Matthew Slotover is a restaurant co-founder and director, not a chef; Matthew Hayden retired in January 2009, not after the 2007 Ashes. Other amended features cover axolotls, hot-water bottles, feeling more human in 2026, a gay ice hockey drama and opinions on removing juries. Readers can send complaints or correction requests to guardian.readers@theguardian.com, post to Readers’ Editor, Kings Place, 90 York Way, London N1 9GU, or voicemail +44 20 3353 4736.",
+      "summaryTokens": 1139,
+      "generatedAt": "2026-01-24T03:40:13.606Z"
+    },
     {
       "id": "news/2026/jan/22/corrections-and-clarifications",
       "title": "Corrections and clarifications",
@@ -29,9 +41,9 @@
       "section": "news",
       "publishedDate": "2026-01-22T21:00:55Z",
       "trailText": "Kate Hoey | RAF Cosford",
-      "summary": "Guardian issues corrections: Kate Hoey is a non-affiliated peer, not Labour; indoor athletics took place at RAF Cosford, not RAF Duxford. Other amendments cover Zohran Mamdani's antisemite smear; a teen football fan denied entry to a Sydney A-League match over a Palestinian-flag jersey; Montez Press on queer feminist art; Beckham family estrangement; 2026 European Figure Skating Championships; California Republicans' Supreme Court challenge to a congressional map; US democracy post-Trump; Democrats opposing DHS funding over ICE tactics; 'mineral' sunscreen chemical tests; and 2024 finds of King Harold coins and Roman artefacts. Send corrections to guardian.readers@theguardian.com or Readers' editor, Kings Place, London.",
-      "summaryTokens": 5069,
-      "generatedAt": "2026-01-23T03:50:11.794Z"
+      "summary": "The Guardian corrects mislabeling of Kate Hoey as a Labour peer—she's an unaffiliated Lord—and clarifies that Channel 4 used RAF Cosford, not Duxford, for indoor athletics coverage. It lists other recent amendments covering allegations against Zohran Mamdani, a Palestinian-flag jersey ban at a Sydney A-League match, Montez Press’s queer-feminist art, Beckham family therapy insights, European Figure Skating Championships photos, California GOP’s Supreme Court map challenge, democratic backsliding post-Trump, DHS funding dissent, sunscreen chemical tests, and 2024 treasure finds. Readers can send corrections to guardian.readers@theguardian.com, post to Readers' editor, Kings Place, London N1 9GU, or voicemail +44 (0)20 3353 4736.",
+      "summaryTokens": 2003,
+      "generatedAt": "2026-01-24T03:40:13.606Z"
     },
     {
       "id": "news/2026/jan/22/gullah-geechee-georgia-development-referendum",
@@ -41,9 +53,9 @@
       "section": "news",
       "publishedDate": "2026-01-22T17:00:50Z",
       "trailText": "A citizen referendum, only the second of its kind in Georgia history, seeks to block a zoning amendment",
-      "summary": "In McIntosh County, Georgia’s only remaining Gullah Geechee enclave on Sapelo Island’s Hogg Hummock mobilized a rare citizen referendum—the second in state history—to block a zoning amendment raising residential square footage from 1,400 to 3,000. After gathering over 2,000 signatures, nearly 85% of 1,869 voters rejected it, shielding a dwindling community of 30–40 residents from developer-driven tax hikes, cultural displacement, and marshland strain. Victory followed a state Supreme Court ruling and ongoing ancestral land lawsuits. County attorneys’ claim that rejection leaves “no zoning” could spark more litigation. The campaign highlights direct democracy to preserve Gullah Geechee heritage and environment.",
-      "summaryTokens": 1276,
-      "generatedAt": "2026-01-23T03:50:11.794Z"
+      "summary": "In Georgia’s McIntosh County, 1,869 voters in a landmark second-ever citizen referendum rejected by 85% a zoning change doubling Hogg Hummock home sizes from 1,400 to 3,000 sq ft. Spearheaded by Sapelo Island’s 30–40 remaining Gullah Geechee residents—descendants of enslaved West Africans whose population fell from 500—this grassroots effort, supported by over 2,000 petition signatures and a state supreme court ruling, blocks developers, rising taxes and ecological strain on salt marshes vital to the island’s cultural heritage. Legal debates over zoning now persist.",
+      "summaryTokens": 1643,
+      "generatedAt": "2026-01-24T03:40:13.606Z"
     },
     {
       "id": "news/2026/jan/22/does-the-temperature-affect-the-sound-of-snow-underfoot",
@@ -53,9 +65,9 @@
       "section": "news",
       "publishedDate": "2026-01-22T06:00:02Z",
       "trailText": "Canadians believe they can tell the temperature by the sound of the snow – and there’s science to back this up",
-      "summary": "University of Wisconsin researchers show that snow underfoot yields distinct sounds across temperatures: above −10°C, pressure melts a thin layer yielding a crunch; near 0°C, grain sliding produces a squelch; below −10°C, ice-crystal collapse generates a squeak, with lower temperatures intensifying friction and volume. Variations in snow depth, substrate and snow age also modulate timbre. Seasoned snow-walkers may thus train to recognise these acoustic cues—especially the piercing squeak signaling dangerously cold conditions—validating Canadian lore.",
-      "summaryTokens": 795,
-      "generatedAt": "2026-01-23T03:50:11.794Z"
+      "summary": "University of Wisconsin researchers explain that the crunch, squelch and squeak of snow underfoot changes with temperature. Above -10 °C, foot pressure melts a thin layer, producing crisp crunches; near 0 °C, sliding grains create a squelch as slush forms; below -10 °C, crushing ice crystals yields a high-pitched squeak growing louder as temperatures drop. Snow depth, age and underlying surface also shape the sound, but experienced walkers can plausibly map these acoustic cues to ambient temperature and even heed the sharp squeak warning of dangerously cold conditions—validating Canadians’ folk belief in reading temperature by snow sound.",
+      "summaryTokens": 1136,
+      "generatedAt": "2026-01-24T03:40:13.606Z"
     },
     {
       "id": "news/2026/jan/21/corrections-and-clarifications",
