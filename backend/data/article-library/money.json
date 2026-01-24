@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "money",
-    "generated_at": "2026-01-23T03:47:31.355Z",
+    "generated_at": "2026-01-24T03:38:06.090Z",
     "date_range": {
       "from": "2025-09-19",
-      "to": "2026-01-21"
+      "to": "2026-01-23"
     },
-    "article_count": 205,
+    "article_count": 207,
     "merge_info": {
       "previous_count": 205,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 205
+      "new_articles": 2,
+      "updated_articles": 0,
+      "total_count": 207
     },
     "batch_info": {
-      "initial_batch_id": "batch_6972eee5cf0881909f68d57a01038207",
+      "initial_batch_id": "batch_69743e468b248190858f16bbc4dcfda8",
       "retry_batches": [],
-      "total_tokens": 4672,
+      "total_tokens": 4368,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "money/2026/jan/23/student-loans-graduates-plan-2-interest-rates",
+      "title": "Student loans: ‘My debt rose £20,000 to £77,000 even though I’m paying’",
+      "webUrl": "https://www.theguardian.com/money/2026/jan/23/student-loans-graduates-plan-2-interest-rates",
+      "apiUrl": "https://content.guardianapis.com/money/2026/jan/23/student-loans-graduates-plan-2-interest-rates",
+      "section": "money",
+      "publishedDate": "2026-01-23T07:00:10Z",
+      "trailText": "Millions of graduates are trapped by ballooning debts, as their repayments are dwarfed by the interest added",
+      "summary": "Helen Lambert, an NHS nurse, borrowed ~£58k under plan 2 student loans, repaid £5k since 2021 (£145/mo), yet accrues £400+ monthly interest at rates up to 8%, swelling her debt to £77k with 25 years left. Plan 2 demands 9% of earnings over £28,470, and the repayment threshold is frozen until 2030, raising costs. Even MPs like Nadia Whittome have barely dented £49.6k debt in six years. Loans tie to RPI, write off after 30 years; calls mount to rebrand as graduate tax.",
+      "summaryTokens": 814,
+      "generatedAt": "2026-01-24T03:38:05.638Z"
+    },
+    {
+      "id": "money/2026/jan/23/uk-savers-best-deals-interest-rate-cut-easy-access-account",
+      "title": "UK savers urged to move fast for the best deals paying up to 4.5%",
+      "webUrl": "https://www.theguardian.com/money/2026/jan/23/uk-savers-best-deals-interest-rate-cut-easy-access-account",
+      "apiUrl": "https://content.guardianapis.com/money/2026/jan/23/uk-savers-best-deals-interest-rate-cut-easy-access-account",
+      "section": "money",
+      "publishedDate": "2026-01-23T06:00:08Z",
+      "trailText": "Despite the recent interest rate cut, many fixed-rate bond or easy-access account rates have held up longer than expected",
+      "summary": "Savers are urged to act fast to lock in top rates before they vanish after the Bank of England’s December rate cut. One-year fixed bonds still pay up to 4.35–4.55%, notably Meteor/OakNorth at 4.35% on deposits over £1,000 and Shawbrook at 4.27%. Two-year bonds from Shawbrook, Investec and Atom exceed 4.1%. Easy-access Chase Saver offers 4.5% (including a 2.25% bonus for 12 months). With inflation rising and further cuts unlikely soon but eroding real returns, experts advise using Moneyfactscompare.co.uk to track 1,400+ deals and move quickly.",
+      "summaryTokens": 383,
+      "generatedAt": "2026-01-24T03:38:05.638Z"
+    },
     {
       "id": "money/2026/jan/21/uk-credit-cards-best-deals-apr-0-transfer-deals-air-miles-cashback",
       "title": "UK credit cards: six ways to help you pick the best deals",
