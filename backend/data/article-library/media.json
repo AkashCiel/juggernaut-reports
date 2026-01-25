@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "media",
-    "generated_at": "2026-01-24T03:36:29.851Z",
+    "generated_at": "2026-01-25T03:54:48.840Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-22"
+      "to": "2026-01-24"
     },
-    "article_count": 253,
+    "article_count": 255,
     "merge_info": {
       "previous_count": 253,
-      "new_articles": 0,
-      "updated_articles": 1,
-      "total_count": 253
+      "new_articles": 2,
+      "updated_articles": 0,
+      "total_count": 255
     },
     "batch_info": {
-      "initial_batch_id": "batch_69743de64b3c8190abd897b7d293445e",
+      "initial_batch_id": "batch_697593bbdcec81908e72b5b9adab7c3f",
       "retry_batches": [],
-      "total_tokens": 1953,
+      "total_tokens": 4476,
       "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism",
+      "title": "Australian journalism ‘sidelined’ in AI-generated news summaries on Copilot, research shows",
+      "webUrl": "https://www.theguardian.com/media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism",
+      "apiUrl": "https://content.guardianapis.com/media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism",
+      "section": "media",
+      "publishedDate": "2026-01-24T19:00:47Z",
+      "trailText": "Exclusive: Experts say AI is likely to create more news deserts, fewer independent voices and threaten the viability of Australian journalism",
+      "summary": "University of Sydney research finds Microsoft Copilot’s AI news summaries overwhelmingly cite US/European outlets—CNN, BBC, ABC America—with just ~20% linking to Australian media, mostly major players like Nine and ABC, and neglecting regional or independent journalists. Dr Timothy Koskie warns this bias risks deepening Australian news deserts, silencing local voices and eroding trust, as users bypass original sites and dent outlet revenues. He urges extending the news media bargaining code to AI tools, embedding geolocation in algorithms, and safeguarding media pluralism.",
+      "summaryTokens": 540,
+      "generatedAt": "2026-01-25T03:54:48.583Z"
+    },
+    {
+      "id": "media/2026/jan/24/battle-of-wapping-newspaper-strike-news-international-rupert-murdoch-january-1986",
+      "title": "The Battle of Wapping begins – archive, January 1986",
+      "webUrl": "https://www.theguardian.com/media/2026/jan/24/battle-of-wapping-newspaper-strike-news-international-rupert-murdoch-january-1986",
+      "apiUrl": "https://content.guardianapis.com/media/2026/jan/24/battle-of-wapping-newspaper-strike-news-international-rupert-murdoch-january-1986",
+      "section": "media",
+      "publishedDate": "2026-01-24T06:00:34Z",
+      "trailText": "On 24 January 1986, nearly 6,000 newspaper workers at Rupert Murdoch’s News International went on strike over plans to move print operations from Fleet Street to east London",
+      "summary": "On 24 January 1986, Rupert Murdoch’s News International triggered the Battle of Wapping when nearly 6,000 print workers struck over his move from Fleet Street’s hot-metal presses to a high-tech Wapping plant in east London. Collapsing talks over conditions led Murdoch to sack the strikers overnight, shift The Sun, The Times, News of the World and Sunday Times presses to the new site and mount operations with the EETPU electricians’ union. The dispute, marked by violent pickets, scab labor and industry-wide fallout, lasted 13 months and irreversibly weakened Britain’s powerful print unions, ushering in electronic newspaper production.",
+      "summaryTokens": 704,
+      "generatedAt": "2026-01-25T03:54:48.583Z"
+    },
     {
       "id": "media/2026/jan/22/liz-hurley-accuses-daily-mail-publisher-bugging-windowsill",
       "title": "Liz Hurley accuses Daily Mail publisher of bugging windowsill",
