@@ -1,26 +1,290 @@
 {
   "metadata": {
     "section": "us-news",
-    "generated_at": "2026-01-24T03:56:06.599Z",
+    "generated_at": "2026-01-25T04:22:51.110Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-24"
+      "to": "2026-01-25"
     },
-    "article_count": 2533,
+    "article_count": 2555,
     "merge_info": {
-      "previous_count": 2501,
-      "new_articles": 32,
-      "updated_articles": 37,
-      "total_count": 2533
+      "previous_count": 2533,
+      "new_articles": 22,
+      "updated_articles": 36,
+      "total_count": 2555
     },
     "batch_info": {
-      "initial_batch_id": "batch_697441735ee88190964c6147ac80e7e8",
+      "initial_batch_id": "batch_69759773e2c08190931e49554ab55499",
       "retry_batches": [],
-      "total_tokens": 158342,
-      "processing_time_hours": 0.1
+      "total_tokens": 143984,
+      "processing_time_hours": 0.2
     }
   },
   "articles": [
+    {
+      "id": "us-news/2026/jan/24/schumer-democrats-dhs-funding-package",
+      "title": "Schumer: Democrats will block funding package if it includes homeland security money",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/schumer-democrats-dhs-funding-package",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/schumer-democrats-dhs-funding-package",
+      "section": "us-news",
+      "publishedDate": "2026-01-25T04:08:44Z",
+      "trailText": "Announcement comes as anger toward DHS – which oversees ICE – intensifies after Alex Pretti fatally shot",
+      "summary": "After a fatal shooting of ICU nurse Alex Pretti by federal agents in Minneapolis, Senate Leader Chuck Schumer warned Democrats will block next week’s funding package if it includes DHS money, citing inadequate reforms to curb ICE abuses. The $64.4bn DHS measure—$10bn for ICE—needs 60 votes to pass; GOP’s 53 seats force reliance on Democrats. Several Democrats, including Cortez Masto, Rosen, Murray and Warner, vowed to oppose DHS funding until stronger guardrails—body cameras, training, warrants—are in place. Republicans resist splitting DHS from broader funding; Schumer and colleagues aim to leverage a shutdown threat to force reforms.",
+      "summaryTokens": 1903,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/alex-pretti-killing-witness-testimony",
+      "title": "Alex Pretti did not brandish gun, witnesses say in sworn testimony",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/alex-pretti-killing-witness-testimony",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/alex-pretti-killing-witness-testimony",
+      "section": "us-news",
+      "publishedDate": "2026-01-25T04:04:04Z",
+      "trailText": "Pair testify that Pretti did not hold weapon and was trying to help woman federal agents had shoved to the ground",
+      "summary": "Two sworn affidavits filed by the ACLU in Minnesota court say intensive care nurse Alex Pretti did not brandish a weapon when he approached federal agents in Minneapolis but was trying to help a woman ICE officers had shoved to the ground. A witness in a pink coat filmed Pretti being tackled, sprayed with a chemical agent and shot multiple times while unarmed. A nearby physician’s testimony says agents first barred life-saving aid and then counted his bullet wounds. Their accounts directly contradict Trump administration claims that Pretti was a “gunman.”",
+      "summaryTokens": 982,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/25/trump-administration-news-updates-today",
+      "title": "Trump news at a glance: groundswell of anger at second fatal shooting by federal agents in weeks",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/25/trump-administration-news-updates-today",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/25/trump-administration-news-updates-today",
+      "section": "us-news",
+      "publishedDate": "2026-01-25T04:02:54Z",
+      "trailText": "Protests erupt across US after American citizen Alex Pretti shot dead, as video shows he had been holding a phone and not a gun, contradicting federal claims – key US politics stories from 24 January",
+      "summary": "In Minneapolis federal agents fatally shot Alex Pretti, a 37-year-old nurse holding a phone, not a gun—contradicting Trump officials’ claim he threatened “to massacre law enforcement”—the second U.S. killing by federal agents in three weeks. His death sparked mass protests from Minneapolis and New York to San Francisco demanding ICE’s abolition. Mayor Jacob Frey and Gov. Tim Walz condemned the operation, and Senate Democrats led by Chuck Schumer vow to block DHS funding over ICE abuses. Meanwhile, Trump skipped the Super Bowl in California, retracted false UK troops remarks, and a winter storm battered 140 million Americans.",
+      "summaryTokens": 882,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/protests-alex-pretti-killing-federal-agents-ice",
+      "title": "Large protests spread across US after Alex Pretti fatally shot by federal agents",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/protests-alex-pretti-killing-federal-agents-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/protests-alex-pretti-killing-federal-agents-ice",
+      "section": "us-news",
+      "publishedDate": "2026-01-25T02:32:57Z",
+      "trailText": "Wave of demonstrations comes a day after thousands marched through Minneapolis streets to protest ICE",
+      "summary": "After the fatal shooting of 37-year-old Minneapolis nurse Alex Pretti by federal ICE agents, thousands nationwide marched in Minneapolis, New York, San Francisco, Boston, Providence and Washington, DC, braving freezing temperatures to demand ICE’s abolition and accountability. Viral footage shows Pretti, a lawful permit-holder, wrestled and shot after intervening in an arrest; DHS insists he brandished a 9mm despite no gun visible. Demonstrators invoked Renee Good’s name, called for 'Nuremberg trials', and chanted slogans from 'Fuck ICE' to 'ICE detention no more' as local businesses offered warmth and refreshments at memorials.",
+      "summaryTokens": 1711,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/minneapolis-shooting-ice",
+      "title": "Video contradicts Trump’s claim man killed in Minneapolis was a ‘gunman’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/minneapolis-shooting-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/minneapolis-shooting-ice",
+      "section": "us-news",
+      "publishedDate": "2026-01-25T01:53:10Z",
+      "trailText": "Video evidence reviewed by Guardian shows Alex Pretti, killed by agents in Minneapolis, held a phone, not a gun",
+      "summary": "Federal agents shot and killed Alex Pretti, 37, in Minneapolis while he filmed their operation. Officials, from President Trump to DHS Secretary Kristi Noem, claimed he brandished a 9mm and threatened to “massacre” officers. Multiple witness videos and sworn affidavits reviewed by the Guardian show Pretti held only his phone, never drew a weapon. After tackling and pepper-spraying him, agents fired 11 close-range shots. Pretti’s parents and ACLU suit witnesses have denounced the administration’s “reprehensible” false narrative.",
+      "summaryTokens": 1561,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/minneapolis-shooting-federal-agents",
+      "title": "37-year-old US citizen shot and killed by federal agents in Minneapolis",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/minneapolis-shooting-federal-agents",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/minneapolis-shooting-federal-agents",
+      "section": "us-news",
+      "publishedDate": "2026-01-25T01:19:59Z",
+      "trailText": "Shooting of Alex Pretti comes less than three weeks after Renee Nicole Good was killed by immigration agents in city",
+      "summary": "Federal agents fatally shot 37-year-old Minneapolis ICU nurse and veteran caregiver Alex Pretti during a targeted January 24 operation, marking the second U.S. citizen killing by federal officers in under three weeks after immigration agent Renee Good’s death. Video shows Pretti wrestling with agents, reportedly unarmed when tackled and shot multiple times at close range. Officials claim Pretti brandished a 9mm handgun, while open-source analysts dispute that account. His family and city leaders—including Minneapolis Mayor Frey and Governor Walz—demand a state-led, transparent investigation and call for the removal of federal agents. Protests and national criticism have intensified amid questions over use of force and federal policing policies.",
+      "summaryTokens": 312,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/alex-pretti-minneapolis-minnesota-shooting",
+      "title": "Man killed in Minneapolis by federal agents identified as VA nurse Alex Pretti: ‘He wanted to help people’",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/alex-pretti-minneapolis-minnesota-shooting",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/alex-pretti-minneapolis-minnesota-shooting",
+      "section": "us-news",
+      "publishedDate": "2026-01-25T01:09:22Z",
+      "trailText": "Alex Pretti, 37, worked in the ICU at the Minneapolis VA Health Care System and had assisted on scientific research",
+      "summary": "Alex Pretti, 37, a registered ICU nurse at the Minneapolis VA Health Care System and former University of Minnesota junior scientist, was fatally shot by federal agents during a protest over immigration enforcement. Video shows him directing traffic and shielding a legal observer before being wrestled to the ground and shot multiple times. Colleagues and family describe Pretti as compassionate, dedicated to veterans and human rights, and a lawful gun owner with no serious prior police record. His death has prompted grief from the Minnesota Organization of Registered Nurses and calls for transparency from his parents.",
+      "summaryTokens": 539,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/alex-pretti-minneapolis-what-we-know-so-far",
+      "title": "Alex Pretti killing in Minneapolis by federal agents: what we know so far",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/alex-pretti-minneapolis-what-we-know-so-far",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/alex-pretti-minneapolis-what-we-know-so-far",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T22:49:54Z",
+      "trailText": "A 37-year-old nurse was shot and killed on Saturday. Much remains unknown, unclear or unconfirmed",
+      "summary": "Alex Pretti, a 37-year-old ICU nurse at the Minneapolis VA, was fatally shot by federal agents during a protest in south Minneapolis. Bystander video shows him sprayed with chemical agent, wrestled to the ground after defending an observer, then shot multiple times at close range. DHS called protesters “rioters” and described the shooting as defensive; local officials, including Mayor Frey and Gov. Walz, decried the federal operation as an “occupation,” deployed the National Guard, and urged calm. Former President Trump defended the agents, accusing state leaders of incitement on Truth Social.",
+      "summaryTokens": 620,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/winter-storm-moves-across-us",
+      "title": "Snow, sleet and power outages: 140m Americans under warnings for major winter storm",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/winter-storm-moves-across-us",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/winter-storm-moves-across-us",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T22:31:43Z",
+      "trailText": "Dangerous weather engulfing large area of country as 16 states plus DC declare states of emergency",
+      "summary": "A major winter storm moved across much of the US on Jan. 24, placing over 140 million people under warnings from New Mexico to New England. Heavy snow, sleet and freezing rain hit the plains, Midwest and South—especially Oklahoma, Texas, Kansas, Iowa and Missouri—creating ice-covered roads, grounding 14,000+ flights and cutting power to 130,000+ customers. Three weather-related deaths were reported in New York City. Sixteen states and DC declared emergencies; FEMA and grid operators prepared for outages. Forecasts call for up to 12+ inches of snow in the Ohio Valley and catastrophic ice accumulation in the southern Plains through the mid-Atlantic, followed by bitter cold and wind chills.",
+      "summaryTokens": 507,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/democrats-minneapolis-shooting-reaction",
+      "title": "‘Heartbroken, horrified’: Democrats outraged over Minneapolis shooting",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/democrats-minneapolis-shooting-reaction",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/democrats-minneapolis-shooting-reaction",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T21:36:04Z",
+      "trailText": "Ilhan Omar said: ‘It is beyond shameful these federal agents are targeting our residents’ after Alex Pretti fatally shot",
+      "summary": "Democratic outrage: Omar calls killing of 37-year-old ICU nurse Alex Pretti by a CBP agent an “execution,” demands accountability; Warren, Harris, Schiff, van Hollen, Mamdani, Fateh condemn “murderous occupation,” call to defund ICE & remove agents from Minnesota. Some Democrats even sought impeachment of DHS Secretary Kristi Noem. Republicans, led by Trump, Miller, Bondi, Noem, shift blame to state/local Democrats — Walz, Frey, Klobuchar — for “sanctuary” policies, accuse them of inciting violence and obstructing police, defend federal agents’ self-defense, and allege local leaders invited crime.",
+      "summaryTokens": 1094,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/protesters-minneapolis-federal-agents-kill-second-us-citizen",
+      "title": "‘You ask us for peace, we get shot in the face’: Minneapolis in turmoil after federal agents kill second US citizen",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/protesters-minneapolis-federal-agents-kill-second-us-citizen",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/protesters-minneapolis-federal-agents-kill-second-us-citizen",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T20:56:52Z",
+      "trailText": "Federal agents release chemicals into the air and arrest people after shooting and killing a 37-year-old man",
+      "summary": "Minneapolis erupted in protests and fear after federal agents fatally shot a 37-year-old US citizen on Eat Street, marking the second ICE‐involved killing in three weeks since Renee Good’s death. Tens of thousands joined an economic blackout and marches demanding ICE leave. Governor Walz decried violence as agents fired chemical irritants, arrested observers and detained even children. Residents organize mutual aid, school patrols and rapid response networks with gas masks and vests. Local officials challenge federal narratives, calling for joint investigations, as tension mounts under an expanding federal presence.",
+      "summaryTokens": 999,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/commentisfree/2026/jan/25/trump-new-global-order-australia-marooned",
+      "title": "Trump’s ‘new normal’ leaves Australia marooned. We can no longer pretend otherwise | Zoe Daniel",
+      "webUrl": "https://www.theguardian.com/us-news/commentisfree/2026/jan/25/trump-new-global-order-australia-marooned",
+      "apiUrl": "https://content.guardianapis.com/us-news/commentisfree/2026/jan/25/trump-new-global-order-australia-marooned",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T19:00:46Z",
+      "trailText": "The rules-based global order is rapidly disintegrating. It’s time for middle powers to stand together",
+      "summary": "Zoe Daniel contends that Trump’s aggressive brinkmanship—epitomized by threatened tariffs and troop movements over Greenland—and his abandonment of NATO norms have shredded the post-war rules-based order. His disregard for international protocols, mirrored in crises from Ukraine and Gaza to Venezuela, has marooned Australia, whose defence, security and economic systems are entwined with an untrustworthy ally. Invoking Mark Carney’s Davos call for middle powers to unite, she questions the value of AUKUS, warns that hope is no strategy, and highlights Steve Bannon’s derisive Covid commentary as proof Australia can’t rely on US “mateship” under Trump.",
+      "summaryTokens": 892,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/jacob-frey-full-statement",
+      "title": "‘How many more Americans need to die?’: Minneapolis mayor condemns Trump",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/jacob-frey-full-statement",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/jacob-frey-full-statement",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T18:28:41Z",
+      "trailText": "Jacob Frey’s full response after federal agents shot and killed 37-year-old US citizen Alex Pretti on 24 January",
+      "summary": "In his full statement, Mayor Jacob Frey denounced the deployment of masked federal agents after they fatally shot 37-year-old Alex Pretti, demanding, “How many more Americans need to die?” He contrasted a 15,000-strong peaceful protest—without injuries or property damage—with what he called an occupying force of militarized, unidentified officers eroding public trust and democracy. Frey urged President Trump to put American values above partisan priorities by withdrawing these agents from Minneapolis, ending the operation and restoring safety, calm and faith in the nation’s institutions.",
+      "summaryTokens": 728,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/vicha-ratanapakdee-san-francisco",
+      "title": "Vicha Ratanapakdee’s killing sent fear through San Francisco. Five years on, the case sparks controversy again",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/vicha-ratanapakdee-san-francisco",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/vicha-ratanapakdee-san-francisco",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T17:00:45Z",
+      "trailText": "A jury in San Francisco found Antoine Watson guilty of manslaughter and assault – rather than murder and elder abuse",
+      "summary": "Vicha Ratanapakdee, an 84-year-old Thai American, was fatally shoved on a sidewalk in San Francisco in January 2021. Five years later, Antoine Watson, 24, was convicted of manslaughter and assault—not murder, elder abuse or hate crimes—sparking outrage among Asian American elders and leaders. Watson claimed an impulsive “emotional storm” and denied bias; prosecutors cited lack of evidence for hate motive. Community members fear for vulnerable seniors and call for impact statements as Watson faces up to nine years pending an aggravating factors trial next week.",
+      "summaryTokens": 929,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/tucker-carlson-book-review",
+      "title": "‘What the hell happened’ to Tucker Carlson? A new book tries to find out",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/tucker-carlson-book-review",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/tucker-carlson-book-review",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T17:00:44Z",
+      "trailText": "Hated by All the Right People is the first book to reckon critically with arguably the most dangerous media personality of the Trump age",
+      "summary": "Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind by Jason Zengerle charts Carlson’s transformation from contrarian reporter to far-right firebrand. Drawing on years of reporting and new interviews, Zengerle traces Carlson’s early critique of sensationalism, his ascent at Fox News—culminating in Tucker Carlson Tonight’s record ratings—and his post-Fox drift toward nativism, Holocaust-denialist guests and pro-Putin rhetoric. Exploring his privileged upbringing, career misfires at CNN and MSNBC, and ideological shift under Trump’s sway, the book argues Carlson’s descent reflects the broader unraveling of conservative media over 30 years.",
+      "summaryTokens": 821,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/target-minneapolis-ice",
+      "title": "‘We need Target to stand up’: activists in Minneapolis press retailer amid ICE arrests at its stores",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/target-minneapolis-ice",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/target-minneapolis-ice",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T16:00:43Z",
+      "trailText": "Activists say the retailer has met with clergy but not spoken out against ICE or safeguarded employees and customers",
+      "summary": "Minneapolis activists and clergy staged sit-ins at Target’s downtown headquarters on Jan. 24, demanding the retailer publicly oppose ICE operations after masked agents violently detained two workers at its Richfield store on Jan. 8. Led by Unidos, Isaiah and SURJ-TC, protesters want Target to issue a statement, display signage barring warrantless ICE entry, train employees to handle agents and safeguard customers. State Rep. Michael Howard and faith leaders met with outgoing CEO Brian Cornell but decry Target’s silence and lack of action. Boycott tactics—from salt-return disruptions to economic blackouts—will persist until Target takes a public stand against immigration enforcement on its premises.",
+      "summaryTokens": 1009,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/minnesota-ice-raids-children-trauma",
+      "title": "ICE raids turn life into a daily terror for Minneapolis schoolkids: ‘This is a generational trauma’ ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/minnesota-ice-raids-children-trauma",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/minnesota-ice-raids-children-trauma",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T15:00:42Z",
+      "trailText": "As Trump-deployed agents pervade the region, students struggle to carry on with lessons while carrying grief and fear that they or their loved ones will be taken",
+      "summary": "In south Minneapolis, ICE’s Trump-backed operation deploying 3,000 agents for home, bus-stop and school raids has sparked daily terror among largely immigrant students: panic attacks, absenteeism, traumatic stress and “generational trauma.” A photo of detained preschooler Liam Ramos symbolizes raids’ indiscriminate scope. Teachers juggle hybrid classes, safety-drill training for students—including those with disabilities—while coping with lockdowns, segregation as “brown kids” stay home, and providing social services. Educators have staged teach-ins and protests, offering legal, mental-health and material aid as schools adapt to living under constant fear.",
+      "summaryTokens": 682,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/legal-experts-epstein-files-release-congress",
+      "title": "What else can be done to force Trump’s DoJ to release all the Epstein files? Legal experts weigh in",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/legal-experts-epstein-files-release-congress",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/legal-experts-epstein-files-release-congress",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T13:00:39Z",
+      "trailText": "The deadline for Trump’s justice department to release the files came and went, but experts say there are still options",
+      "summary": "Despite EFTA requiring full disclosure of Epstein investigative files by Dec 19, Trump’s DOJ released only minimal records and has paused disclosures. Legal experts advise a “double-barrel” of litigation—court orders compelling production, FOIA suits, judicial sanctions—alongside sustained congressional oversight and public pressure. Victims’ attorneys (Garabedian, Kuvin) say only forced action yields transparency vital for survivors’ closure. Congressmen Khanna and Massie vow to pursue lawsuits, special masters, legislative fixes. Lawyer Rahmani urges direct DOJ contempt proceedings; Zaid proposes amending EFTA to include explicit judicial review and enforcement mechanisms.",
+      "summaryTokens": 1192,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/joe-biden-legacy-donald-trump",
+      "title": "‘The invisible man’: Joe Biden has disappeared in almost every way – except in Trump’s daily commentary",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/joe-biden-legacy-donald-trump",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/joe-biden-legacy-donald-trump",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T13:00:38Z",
+      "trailText": "The 46th president largely exists as Trump’s foil, with his successor blaming him for the country’s woes",
+      "summary": "One year after leaving office, Joe Biden has largely disappeared from public life, focusing on a memoir, a presidential library and prostate cancer treatment, with scarce appearances and diminishing influence. His Democratic allies, preferring to move on, blame his late debate collapse and narrow 2024 defeat for tarnishing his legacy. Meanwhile Donald Trump relentlessly casts him as “Crooked Joe,” uses White House displays and rolling investigations to rewrite Biden’s record, from energy policy to immigration, even as polling shows Americans credit Trump’s economy. Biden’s presidency risks fading into obscurity except as Trump’s daily foil.",
+      "summaryTokens": 1056,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/justice-department-cuts-child-sex-trafficking",
+      "title": "‘Disheartening’: US justice department slashes funding to programs combating child sex trafficking ",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/justice-department-cuts-child-sex-trafficking",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/justice-department-cuts-child-sex-trafficking",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T12:00:37Z",
+      "trailText": "Prosecutors say cuts to funding and training limits their ability to bring child predators to justice",
+      "summary": "Under the Trump administration’s second term the US Justice Department abruptly cut funding, training and grants vital to federal, state and ICAC task forces investigating child sex trafficking. It cancelled the June 2025 National Law Enforcement Training on Child Exploitation, halted quarterly meetings with NCMEC and tech partners, and imposed new “austerity” travel approvals. Prosecutors warn these measures leave investigators without digital‐forensic tools or peer support, slowing prosecutions, isolating frontline agents and endangering vulnerable children.",
+      "summaryTokens": 402,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/arrested-louisiana-priest-indecent-behavior-juvenile-report",
+      "title": "Arrested Louisiana priest was accused of ‘inappropriately touching a child’, report says",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/arrested-louisiana-priest-indecent-behavior-juvenile-report",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/arrested-louisiana-priest-indecent-behavior-juvenile-report",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T11:00:37Z",
+      "trailText": "Korey LaVergne was jailed on three counts of indecent behavior with a juvenile and was released after posting bail",
+      "summary": "Roman Catholic priest Korey LaVergne was booked by Acadia Parish deputies on 16 January after a 2 December complaint alleged he inappropriately touched a juvenile multiple times over the past year at St Edward Catholic Church in Richard, Louisiana. He had served as pastor at St Edward since 2021. Charged with three counts of indecent behavior with a juvenile, he posted $15,000 bail. Under state law, the offense covers lewd acts or grooming and carries up to seven years in prison. The Lafayette Diocese, still grappling with past abuse scandals and multi-million-dollar liabilities, said it is assisting authorities.",
+      "summaryTokens": 2050,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
+    {
+      "id": "us-news/2026/jan/24/unfathomable-australian-veterans-disgusted-by-trumps-claim-allied-troops-stayed-a-little-back-from-frontline",
+      "title": "‘Unfathomable’: Australian veterans disgusted by Trump’s claim allied troops ‘stayed a little back’ from frontline",
+      "webUrl": "https://www.theguardian.com/us-news/2026/jan/24/unfathomable-australian-veterans-disgusted-by-trumps-claim-allied-troops-stayed-a-little-back-from-frontline",
+      "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/24/unfathomable-australian-veterans-disgusted-by-trumps-claim-allied-troops-stayed-a-little-back-from-frontline",
+      "section": "us-news",
+      "publishedDate": "2026-01-24T06:32:25Z",
+      "trailText": "In casting doubt on Nato’s reliability, US president references Afghanistan campaign – which involved 40,000 Australian troops and left 47 dead",
+      "summary": "Australian veterans and the RSL’s national president, Peter Tinley, have condemned Donald Trump’s Fox News assertion that allied troops “stayed a little back” in Afghanistan, calling it “unfathomable” and a “cowardly attack” on 40,000 Australians who served, 47 of whom died. Liberal MP Andrew Hastie echoed outrage, denouncing it as a slur on “Aussie diggers.” Tinley, a former special forces deputy commander, demanded an apology and clarity on future Aus-US cooperation under AUKUS. Experts stress allied respect is vital amid rising China tensions; veterans are urged to seek Open Arms support if distressed.",
+      "summaryTokens": 651,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
+    },
     {
       "id": "us-news/2026/jan/23/trump-news-at-a-glance-starmer",
       "title": "Trump news at a glance: Starmer rebukes Trump for ‘diminishing’ British soldiers who fought and died in Afghanistan",
@@ -29,9 +293,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-24T02:21:47Z",
       "trailText": "Starmer suggested Trump should apologise for claiming Nato troops stayed ‘a little off the frontlines’",
-      "summary": "UK PM Keir Starmer accused Donald Trump of “diminishing” the sacrifice of 3,486 NATO troops—457 of them British—killed in Afghanistan after Trump said allies “stayed a little off the frontlines,” urging an apology and delaying the Chagos Islands bill in response. The roundup also flags Trump backers’ Greenland annex bid, his “armada” heading to the Middle East, the detention of a two-year-old in Minnesota, a Cuban migrant’s death ruled homicide, and concerns over his “pay-to-play” politics creating a new gilded age.",
-      "summaryTokens": 808,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "UK PM Keir Starmer condemned Donald Trump’s Fox News remarks that NATO troops “stayed a little off the frontlines” in Afghanistan as “insulting” and “appalling”, urging an apology for diminishing the sacrifice of 3,486 NATO casualties—including 457 British soldiers—over 20 years. His rebuke follows backlash from UK political leaders and veteran families, and escalates UK–US tensions after Trump’s criticism of the Chagos Islands handover. His comments also revived scrutiny of Trump’s Vietnam draft avoidance.",
+      "summaryTokens": 1236,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/us-immigration-two-year-old-minnesota-girl",
@@ -41,21 +305,21 @@
       "section": "us-news",
       "publishedDate": "2026-01-24T01:38:34Z",
       "trailText": "DHS detain a toddler and her father on Thursday and fly them to Texas before returning child on judge’s order",
-      "summary": "Federal ICE agents detained two-year-old daughter of asylum-seeker Elvis Joel TE and him outside their Minneapolis home without a warrant, broke his car window as the child sat inside, then flew them to Texas despite a judge’s order to release her by 9:30pm. Lawyers secured her return to her mother; the Ecuadorian father remains detained. DHS labels it a “targeted enforcement operation”. Attorneys decry warrantless entry, lack of car seat, chemical crowd-control, and urge injunctions to bar out-of-state transfers for detainees with pending petitions.",
-      "summaryTokens": 1700,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Federal immigration agents detained a two-year-old girl and her father, Elvis Joel TE, without a warrant in Minneapolis and flew them to Texas despite a federal judge’s 9:30pm order to keep them in Minnesota and release the child. Lawyers secured emergency orders citing risk of irreparable harm; the toddler was returned and released to her mother, while her Ecuadorian asylum-seeker father with no removal order remains detained. Attorneys say agents broke a car window, lacked a car seat, ignored court orders and blocked the mother. DHS cites targeted enforcement and erratic driving; critics warn of legal and psychological harm from out-of-state transfers.",
+      "summaryTokens": 879,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/st-paul-ice-protest-women-released",
-      "title": "Women arrested for anti-ICE church protest in St Paul freed from detention",
+      "title": "Women arrested over anti-ICE church protest in St Paul freed from detention",
       "webUrl": "https://www.theguardian.com/us-news/2026/jan/23/st-paul-ice-protest-women-released",
       "apiUrl": "https://content.guardianapis.com/us-news/2026/jan/23/st-paul-ice-protest-women-released",
       "section": "us-news",
       "publishedDate": "2026-01-24T01:20:09Z",
       "trailText": "Release of third activist, William Kelly, also involved in the demonstrations was also ordered by a judge",
-      "summary": "A federal judge ruled the government failed to justify detaining Nekima Levy Armstrong and Chauntyll Allen for disrupting church services in an anti-ICE protest in St. Paul, ordering their release Friday along with activist William Kelly. Online video showed the women emerging composed from detention, while a Guardian probe exposed the White House’s AI-altered image falsely depicting Armstrong crying. Unedited footage from her nonprofit reveals agents recorded her without consent. Armstrong denounces political persecution and ICE brutality, calling for accountability, dignity and racial justice amid family separations and rights violations.",
-      "summaryTokens": 731,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Nekima Levy Armstrong and Chauntyll Allen, arrested for disrupting church services in an anti-ICE protest in St. Paul, Minnesota, were released after a federal judge ruled the government failed to justify detention. A third demonstrator, William Kelly, was also freed. The White House circulated a digitally altered photo of Armstrong’s arrest—darkening her skin and adding tears—to slander her until media outlets and a nonprofit video revealed her calm composure while questioning agents’ recording. Armstrong accuses the Trump administration of politically persecuting dissenters with AI-manipulated imagery and frames the protest as a stand against ICE brutality, family separation, and unchecked government power.",
+      "summaryTokens": 1014,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/trump-administration-immigrant-kids-detention",
@@ -65,9 +329,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-24T01:17:46Z",
       "trailText": "The detention of Liam Conejo Ramos, age five, marks the turbocharging of a policy discontinued five years ago",
-      "summary": "ICE’s detention of five-year-old Liam Ramos in Minnesota spotlights the Trump administration’s aggressive revival of family immigrant detention, halted in 2021. From January to October 2025, ICE booked about 3,800 minors—some as young as one—mostly in interior sweeps, flouting Flores Settlement limits on holding unaccompanied children and asylum‐seeking families. Detainees, including pending asylum claimants, face harsh conditions in improvised sites or the 2,400-bed Dilley center in Texas. Legal advocates warn this policy, funded by a $45bn ICE budget increase, is ‘100% designed to hurt kids.’",
-      "summaryTokens": 1008,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "ICE has resumed detaining immigrant families nationwide, booking 3,800 minors into family detention from January to October 2025 — including kids as young as one — many apprehended inside the US rather than at the border. The high-profile arrest of 5-year-old Liam Ramos in Minneapolis, despite his pending asylum claim, crystallizes Trump’s aggressive policy shift. Under the Flores Settlement minors should be released promptly, but hardline enforcement locks them in overcrowded centers like CoreCivic’s Dilley facility with poor conditions. Critics say it terrorizes compliant asylum seekers and breaches legal safeguards, while Republicans push to override Flores and expand family detention indefinitely.",
+      "summaryTokens": 1462,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/us-military-strike-vessel-eastern-pacific",
@@ -77,9 +341,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T23:48:21Z",
       "trailText": "Since September, military has carried out more than 30 strikes against boats that it alleges smuggle drugs",
-      "summary": "The US military said it struck a vessel in the eastern Pacific on Friday, killing two people it identified as narco-terrorists after intelligence tracked the boat on known narco-trafficking routes. This first known attack since President Trump ordered the capture of Venezuela’s Nicolás Maduro caps a campaign of more than 30 boat strikes since September, which have killed over 100 suspected smugglers. A video shows the vessel exploding; a survivor search is ongoing. Meanwhile, US forces have also seized sanctioned Venezuelan oil tankers, as the Trump administration secures up to 50m barrels of crude and safeguards oil revenues in US-controlled accounts.",
-      "summaryTokens": 945,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "On Jan. 23, US Southern Command said it struck a vessel in the eastern Pacific, killing two alleged narco-terrorists after intelligence linked it to known trafficking routes. It was the first boat attack since President Trump ordered Venezuelan leader Nicolás Maduro’s capture. A survivor search is ongoing. Since September, US forces have carried out over 30 anti-smuggling strikes—killing more than 100 and seizing sanctioned oil tankers tied to Venezuela. A video showed the boat engulfed in flames. The operation follows a surprise Caribbean tanker seizure and Trump’s deal with interim Venezuelan leaders to supply up to 50 million barrels of crude, alongside an executive order safeguarding oil revenues in US-controlled accounts.",
+      "summaryTokens": 962,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/winter-storm-emergency-declarations",
@@ -89,9 +353,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T23:05:16Z",
       "trailText": "Snow, sleet and freezing temperatures are forecast for the south, midwest and east coast over the weekend",
-      "summary": "From Texas to Maine, a massive winter storm threatens 230 million Americans as 16 states and DC declare emergencies to unlock funds and brace for power outages, ice, heavy snow and supply shortages. Meteorologists predict over a foot of snow in the Ohio Valley, mid-Atlantic and Northeast, while unseasonal Arctic air tests southern states. Airlines have canceled 1,400+ flights; FEMA paused off-boarding to retain disaster response staff. Trump’s tweet mocking climate change contrasts experts who warn that a warmer atmosphere fuels extreme snowfall. Shoppers stockpile water, generators and blankets.",
-      "summaryTokens": 1123,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "A massive winter storm is set to impact 230 million Americans across the Rockies, Plains, South, Midwest and East Coast over the weekend, prompting emergency declarations in 16 states and DC (including TX, LA, MS, AL, GA, both Carolinas, MO, TN, VA, MD, PA, NY, AR, KS, KY). Meteorologists predict heavy snow (12+ in), freezing rain and power-sapping ice, risking outages and grid failures in regions unused to such Arctic blasts. Airlines have canceled 1,400 flights; authorities warn of disrupted travel and store shortages. Amid stock-ups, Trump’s climate-skeptic post contrasts Red Cross warnings that climate change increases extreme winter events. FEMA pauses off-boarding to bolster disaster response.",
+      "summaryTokens": 1091,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/cuban-migrant-death-texas-ice-homicide",
@@ -101,9 +365,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T22:33:19Z",
       "trailText": "Autopsy report concluded Geraldo Lunas Campos, 55, died from ‘asphyxia due to neck and torso compression’",
-      "summary": "An El Paso county autopsy has officially ruled Cuban migrant Geraldo Lunas Campos’s January 3 death at the Camp East Montana detention center a homicide, citing “asphyxia due to neck and torso compression” and injuries consistent with witness accounts of at least five federal officers pinning and choking him. DHS initially attributed his demise to medical distress and later claimed he resisted and attempted suicide. Campos, 55, arrested in July in New York on child sexual abuse and assault charges, was unresponsive while handcuffed. His family’s lawyers have petitioned to block the deportation of key eyewitnesses as part of ongoing investigations into at least four migrant deaths this year in U.S. custody.",
-      "summaryTokens": 633,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Geraldo Lunas Campos, 55, died Jan. 3 at Camp East Montana, a Texas ICE detention center; an El Paso medical examiner ruled his death a homicide from “asphyxia due to neck and torso compression,” noting chest, knee injuries and petechial hemorrhages. Witnesses say he became unresponsive after at least five guards, one squeezing his neck, restrained him while handcuffed. DHS initially cited medical distress and later alleged attempted suicide and resistance. Lunas Campos, arrested in July during an immigration sweep in New York, faced child sexual abuse, weapons and assault charges. Family attorneys have filed an emergency petition to block deportation of two eyewitnesses to secure their testimonies.",
+      "summaryTokens": 894,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/minnesota-economic-blackout-ice-protests",
@@ -113,9 +377,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T22:12:22Z",
       "trailText": "Organizers demand ICE leave state and agency be investigated for constitutional violations",
-      "summary": "Tens of thousands of Minnesota residents joined a Friday “Day of Truth & Freedom” general strike—no work, school or shopping—to protest a surge of ICE operations after the killing of Renee Good by a federal officer in Minneapolis. Clergy, community leaders and labor unions led statewide marches, including a subzero-temperature rally at Target Center and an airport demonstration. About 100 faith leaders were arrested. Hundreds of businesses and cultural institutions closed in solidarity. Protesters demand ICE’s exit from Minnesota, legal accountability for Good’s death, cuts to ICE funding and an investigation into human rights and constitutional abuses.",
-      "summaryTokens": 801,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Tens of thousands in Minneapolis–St. Paul staged a “no work, no school, no shopping” economic blackout called the “Day of Truth & Freedom” to oppose an ICE surge after unarmed immigrant Renee Good was shot dead by a federal officer. Labor unions, community and faith leaders closed businesses and cultural institutions, with about 100 clergy arrested. Protesters demand ICE’s exit from Minnesota, prosecution of the officer, elimination of federal ICE funding and investigations into constitutional and human rights violations, while DHS reports 3,000 arrests in six weeks and 1,500 soldiers on standby.",
+      "summaryTokens": 1508,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/gregory-bovino-coat-german-media",
@@ -125,9 +389,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T21:42:59Z",
       "trailText": "Gregory Bovino’s outwear choice prompts German commentators to compare it to fascist aesthetic",
-      "summary": "Senior US border patrol official Gregory Bovino’s calf-length olive green greatcoat, paired with close-shorn haircut and brass buttons, has drawn German media parallels to Nazi aesthetics. Der Spiegel’s video and Arno Frank characterized his attire as evoking SS officer elegance versus SA mob, calling it a fascist cosplay. Süddeutsche Zeitung noted collar badges and Sam Browne belt reminiscent of historical uniforms, though Bovino denies any intent, claiming long-term ownership and standard-issue status. DHS calls comparisons “manufactured outrage,” but critics including California governor Gavin Newsom argue the visuals underscore authoritarian enforcement symbolism.",
-      "summaryTokens": 803,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "German outlets criticized a calf-length olive-green greatcoat worn by US border patrol chief Gregory Bovino during immigration raids, likening its brass buttons, tailored cut and Sam Browne belt to Nazi SS uniforms. Der Spiegel’s Arno Frank dubbed it an ‘authoritarian’ aesthetic evoking SS officers over SA thugs, while Süddeutsche Zeitung highlighted the shaved haircut and collar badges. Bovino and DHS call the coat standard issue, though a 2025 uniform guide omits it. Critics, including California governor Gavin Newsom, warn the look embraces fascist imagery.",
+      "summaryTokens": 1053,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/rescued-sea-lion-la-marine-center-bullets",
@@ -137,9 +401,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T21:28:06Z",
       "trailText": "Sea lion named Confetti was rescued early January and has ‘really great chance’ of being released, marine biologist says",
-      "summary": "Confetti, a male sea lion rescued Jan 5 from Ballona Creek in LA, is on track for release after surviving two bullets lodged in his skull, leptospirosis and liver abnormalities. Initially lethargic, dehydrated and refusing fish, he began eating live fish by day seven following antibiotics, fluids and supportive care at the Marine Mammal Care Center Los Angeles. Marine biologist Dave Bader calls his recovery \"remarkable\", highlighting the prevalence of gunshot injuries in local pinnipeds: the center treated 14 shot survivors in 2023-24, underscoring both human violence and these animals’ resilience.",
-      "summaryTokens": 1325,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Rescued on 5 January from Ballona Creek in LA, sea lion Confetti arrived at the Marine Mammal Care Center with two bullets in his skull and leptospirosis. He was dehydrated and lethargic until day seven, when he began chasing live fish after treatment with antibiotics, fluids and supportive care. Marine biologist Dave Bader says there’s “a really great chance” he’ll be released. Confetti’s case underscores frequent gun violence against southern California sea lions, with at least 14 shot admissions since 2023. The center, which covers the Malibu-to-Long Beach coast, also battled last spring’s toxic algae bloom that sickened record numbers of sea lions.",
+      "summaryTokens": 1851,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/donald-trump-outrage-nato-troops-avoided-afghanistan-frontline",
@@ -149,9 +413,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T21:26:01Z",
       "trailText": "PM joins veterans in condemning claim that troops avoided frontlines and suggests US president should apologise",
-      "summary": "Keir Starmer publicly rebuked President Trump after he claimed British and NATO troops “stayed a little off the frontlines” in Afghanistan, calling the remarks “insulting and frankly appalling” and urging an apology. Backed by veterans, bereaved families and cross-party leaders, he honoured the 457 UK dead, criticised Trump’s Vietnam-era deferment and warned of a diplomatic rupture amid earlier US attacks on the Chagos Islands transfer. The White House stood by Trump, touting American NATO contributions.",
-      "summaryTokens": 1373,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Keir Starmer publicly rebuked Donald Trump’s Fox News claim that British and Nato troops \"stayed a little off the frontlines\" in Afghanistan, calling the remarks \"insulting and frankly appalling\" and urging an apology. He honoured the 457 UK service personnel killed and noted 3,486 total Nato deaths. The intervention escalates tensions after Trump’s criticism of the UK over the Chagos Islands bill. Veterans, bereaved families, political figures across parties—from Kemi Badenoch to Nigel Farage, Ed Davey and Prince Harry—and international leaders condemned Trump’s comments. Defence Secretary John Healey and Armed Forces Minister Al Carns defended British troops’ frontline service. The White House later insisted the US \"has done more for Nato than any other country combined.\"",
+      "summaryTokens": 1490,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/white-house-minnesota-woman-photo-edit-trial",
@@ -161,9 +425,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T21:23:45Z",
       "trailText": "Altered image shows Nekima Levy Armstrong sobbing after arrest during protest outside a Minneapolis church",
-      "summary": "After Homeland Security Sec. Kristi Noem posted a protester’s arrest photos, the White House republished a digitally darkened, tear-streaked image of Nekima Levy Armstrong. Legal experts say this alteration is unlikely to derail her presumption-of-innocence criminal case but could be raised by defense to challenge government credibility and potential jury prejudice. Armstrong’s attorney criticized it as political theater, while former federal prosecutors call it “sleazy” but far short of the misconduct needed for case dismissal.",
-      "summaryTokens": 593,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Nekima Levy Armstrong, one of three protesters arrested in Minneapolis, was depicted in a digitally altered White House image that darkened her skin and added tears. Homeland Security Secretary Kristi Noem posted unaltered photos of the other defendants but only Armstrong’s image was manipulated. Legal experts say Armstrong’s defense can challenge government credibility and cite potential jury prejudice, yet the misconduct falls short of “outrageous government misconduct” needed to dismiss charges. The White House defends continued law enforcement messaging; racial and political motives are cited by critics.",
+      "summaryTokens": 793,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/maine-immigration-crackdown-ice-arrests",
@@ -173,9 +437,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T20:52:12Z",
       "trailText": "Organizers say ICE agents have been targeting African nationals amid surge focused in Portland and Lewiston",
-      "summary": "In three days of its Maine crackdown, ICE says it has arrested over 100 people and aims to detain 1,400, focusing operations in Portland and Lewiston. Organizers report agents are targeting African nationals and asylum seekers from Somalia, DR Congo and Angola, driving a 35% spike in hotline calls. Governor Janet Mills and local sheriffs protest secret arrests of lawful residents—highlighted by a viral video of a legal Ecuadorian immigrant—and demand to see warrants. Legal advocates warn of racial profiling, family separations and widespread fear as detainees are moved from Cumberland County Jail with no clear information on their whereabouts.",
-      "summaryTokens": 617,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "In its first three days in Maine, ICE arrested over 100 people, focusing on Portland and Lewiston and reportedly targeting African nationals, including asylum seekers. DHS claimed many were serious offenders, but critics note few had criminal records. Governor Janet Mills demanded warrants and transparency, while families and legal advocates say detainees are hard to locate. Viral footage showed agents threatening a legally documented roofer. Cumberland County’s sheriff decried the detention of vetted workers. Schools and businesses report absenteeism amid fear. Immigrant rights groups are organizing hotlines, rights education and community watch to resist what they call racial profiling.",
+      "summaryTokens": 1061,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/philadelphia-trump-adminstration-lawsuit-slavery-exhibit",
@@ -185,9 +449,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T20:23:36Z",
       "trailText": "Display at President’s House site, residence to George Washington, had information on people enslaved by him",
-      "summary": "Philadelphia has sued the Trump administration in federal court after the National Park Service dismantled a long-standing slavery exhibit at Independence National Historical Park’s President’s House site, once home to George Washington. The city’s complaint names the Department of the Interior, its secretary, the NPS, and acting director, seeking a court order to restore panels detailing Washington’s enslaved workers and a timeline of U.S. slavery. Philadelphia officials, including Gov. Josh Shapiro and City Council President Kenyatta Johnson, condemn the removal as whitewashing history. They note a 2003 congressional directive and a 2010 collaboration that established the display. The lawsuit frames the action as part of Trump’s broader 2025 executive order to eradicate “improper, divisive” content, mirroring recent Smithsonian edits that removed references to Trump’s impeachment and January 6.",
-      "summaryTokens": 408,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Philadelphia sued the Trump administration in federal court for dismantling a slavery-focused exhibit at the President’s House site in Independence National Historical Park. The January 2026 complaint names Interior Secretary Doug Burgum and acting NPS director Jessica Bowron, seeking a court order to restore the 2010 display—created under a 2003 congressional mandate and city-agency agreement—while the case proceeds. Officials allege no prior notice was given. Gov. Josh Shapiro and Council President Kenyatta Johnson decry the removal as whitewashing history amid Trump’s broader effort to purge “divisive” cultural content.",
+      "summaryTokens": 488,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/luigi-mangione-jury-selection-trial",
@@ -197,9 +461,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T19:15:30Z",
       "trailText": "Much-anticipated trial scheduled in New York over killing of United Healthcare CEO Brian Thompson",
-      "summary": "Federal judge Margaret Garnett set jury selection on 8 September for Luigi Mangione’s trial in the Manhattan shooting death of UnitedHealthCare CEO Brian Thompson, a case that sparked outrage over for-profit healthcare. Mangione, pleading not guilty, appeared in khaki with supporters in green paying homage to Mario. Before trial, Garnett will rule on a challenge to evidence seized by Altoona, PA officers during his December arrest at a McDonald’s, where a firearm was found in his backpack. The court will also decide whether Mangione faces the death penalty—if not, opening statements begin 13 October; if so, January 2027.",
-      "summaryTokens": 1652,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Federal judge Margaret Garnett set jury selection for Luigi Mangione’s trial on September 8 in the fatal shooting of UnitedHealth CEO Brian Thompson on a Manhattan street. The gunning sparked public outrage at for-profit healthcare, a manhunt leading to his arrest in Altoona, PA, and a green-clad cult following. Police discovered a gun in his backpack; Mangione’s defense argues the warrantless search was illegal. Prosecutors seek the death penalty, which defense counsel opposes. If capital charges are dropped, opening statements begin October 13; otherwise January 11, 2027.",
+      "summaryTokens": 1314,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/arrests-indiana-judge-shooting",
@@ -209,9 +473,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T18:31:16Z",
       "trailText": "Three suspects face attempted murder counts after Steven and Kimberly Meyer were shot at their Lafayette home",
-      "summary": "Five suspects—Raylen Ferguson, Thomas Moss and Blake Smith (all charged with attempted murder, conspiracy and facing gang/firearm enhancements), plus Amanda Milsap (bribery, obstruction) and Zenada Greer (assisting a criminal, obstruction)—have been arrested in the Jan. 18 shooting of Indiana state judge Steven Meyer and his wife Kimberly at their Lafayette home. Moss had pending domestic violence and weapons charges in Meyer’s courtroom. The couple is recovering. A multi-state manhunt involved local, FBI and U.S. Marshals, and Indiana’s chief justice has urged judges to bolster security amid rising threats.",
-      "summaryTokens": 1065,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Five people have been arrested after Indiana state judge Steven Meyer and his wife were shot at their Lafayette home on Jan. 18. Suspects Raylen Ferguson (Lexington), Thomas Moss and Blake Smith (Lafayette) face attempted murder, conspiracy and proposed gang and firearm enhancements; Amanda Milsap is charged with bribery and obstruction for offering $10,000 to silence a trial witness, and Zenada Greer with assisting a criminal and obstruction. Police say a masked Ferguson knocked under false pretenses and fired through the closed door with a gun bought by Smith. Authorities allege the attack aimed to disrupt Moss’s upcoming jury trial; both victims are recovering.",
+      "summaryTokens": 558,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/housing-rent-families-children-atlanta",
@@ -221,9 +485,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T18:00:16Z",
       "trailText": "Outside Atlanta, the Godfreys are caught in a cycle of job loss and eviction. That stress has implications for the kids",
-      "summary": "In suburban Atlanta, 35-year-old single mother Jaimie Godfrey and her three children have lived in 26 homes—hotels, basements, a car—since Na’Kaya was born. Chronic eviction and unstable rent force Na’Kaya, 14, and her 12-year-old brother into frequent school absences, anxiety and behavior issues. Despite working multiple jobs, Jaimie can’t secure affordable housing or childcare under current assistance rules, leaving the family trapped in a cycle of insecurity. Atlanta’s school-based eviction-prevention lawyers show promising academic gains but face federal funding cuts. Experts warn rising rents, stagnant wages and limited subsidies are deepening homelessness risks—especially for Black single-mother households like the Godfreys.",
-      "summaryTokens": 457,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Fourteen-year-old Na’Kaya “KK” Godfrey and her 12-year-old brother, Junior, have endured 26 moves around Stone Mountain, Georgia, after their single mother, Jaimie, faced repeated job loss, rising rents and evictions. Living in hotels, cars and crowded rentals, the siblings suffer chronic absenteeism, anxiety and behavioral issues that hold back their learning. The piece links their experiences to a deepening US housing affordability crisis, racial eviction disparities and restrictive aid policies, and spotlights Atlanta’s school-based legal-aid program that boosts attendance and math scores but now risks cuts under the Trump administration.",
+      "summaryTokens": 433,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/trump-winter-storm-climate-crisis",
@@ -233,9 +497,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T17:17:13Z",
       "trailText": "US president asks ‘whatever happened to global warming?’ Well, it could be making our winter storms worse",
-      "summary": "Trump called the record winter storm – set to freeze half the US and disrupt power for over 230 million people – proof that “global warming” is a hoax. But meteorologists show the blizzard stems from Arctic air breaches of a weakened polar vortex colliding with warmer, moist mid-latitude air. Research links rapid Arctic heating and ice loss to more frequent polar vortex disruptions that produce extreme cold snaps. Moreover, long-term US data reveal winters warming faster than other seasons, shorter cold spells and more record hot days, confirming human-driven climate change continues despite isolated bouts of severe winter weather.",
-      "summaryTokens": 1121,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Donald Trump wrongly cited a major US winter storm as evidence against global warming, asking “what happened to global warming?” on Truth Social. The storm, driven by Arctic air breaching a weakened polar vortex, is set to impact 230m Americans with heavy snow, ice and outages. Research indicates that Arctic amplification and sea-ice loss fuel such vortex breaks, meaning global heating may intensify extreme cold snaps even as average winter temperatures rise. Scientists stress one storm doesn’t negate long-term warming, noting US winters have warmed faster than other seasons and cold snaps have shortened since 1970.",
+      "summaryTokens": 864,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/trump-concerning-moments",
@@ -245,9 +509,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T17:16:56Z",
       "trailText": "From derailing meetings by telling fictional stories about serial killers to Davos, the president has left people confused and concerned",
-      "summary": "Trump’s second term has been marked by a string of baffling public moments: dozing off in cabinet and press meetings; spinning a fictional tale about Ted Kaczynski studying under his late uncle; digressing on windmills allegedly driving whales \"loco\"; lecturing generals on how not to descend stairs; using Truth Social to post racist content, conspiracy videos and threats; fixating on gold frames and lamps in the Cabinet Room; and confusing Greenland with Iceland at Davos. His erratic speeches and social-media flurries have sparked widespread concern over his mental sharpness and grasp on reality.",
-      "summaryTokens": 609,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Over his first year, President Trump has delivered a string of bizarre performances: nodding off during Cabinet and press briefings; recounting an impossible anecdote about his uncle teaching Ted Kaczynski; launching an unprompted two-minute windmill rant claiming turbines drive whales “loco”; lecturing generals on proper stair-descent technique; posting Q-anon medical conspiracy “med-bed” videos on his Truth Social platform; diverting a public cabinet meeting into a 13-minute monologue on paintings, lamps and gold leaf in the White House; and at Davos confusing Greenland with Iceland. These seven moments have fueled questions about his mental acuity and erratic conduct.",
+      "summaryTokens": 630,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/pentagon-contractor-indicted-washington-post-reporter",
@@ -257,9 +521,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T16:24:15Z",
       "trailText": "Worker illegally provided classified information ‘related to national defense’ to journalist, justice department says",
-      "summary": "A federal grand jury in Maryland indicted 61-year-old Pentagon contractor Aurelio Luis Perez-Lugones on five counts of mishandling classified national defense information after allegedly leaking top-secret documents to a Washington Post reporter. Perez-Lugones printed, photographed and encrypted screenshots of sensitive materials, then transmitted them, prompting an “outrageous” FBI raid Jan. 14 on Post reporter Hannah Natanson’s Virginia home and seizure of devices. A judge has temporarily barred prosecutors from reviewing the seized gear while it considers the Post’s motion for its return. If convicted, he faces up to 10 years per count. Press freedom advocates blasted the raid as a threat to media independence.",
-      "summaryTokens": 636,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "A Maryland grand jury indicted Pentagon contractor Aurelio Perez-Lugones for illegally leaking classified national defense documents to a Washington Post reporter, which led to an “outrageous” FBI raid on reporter Hannah Natanson’s Virginia home. Investigators say Perez-Lugones printed, photographed and used encrypted messages to transmit Top Secret material—some hidden in his lunch box—to “Reporter 1,” fueling at least five published articles. He faces five counts carrying up to 10 years each. A judge has temporarily barred review of Natanson’s seized devices amid press-freedom protests.",
+      "summaryTokens": 1057,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/elon-musk-ukrainian-refugee-mural-iryna-zarutska",
@@ -269,9 +533,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T15:00:13Z",
       "trailText": "More than $1m has been raised by Elon Musk and others to commission ‘sterile’ street art of Iryna Zarutska – whose death has become a rightwing flashpoint",
-      "summary": "In major US cities, over a dozen murals of 23-year-old Ukrainian refugee Iryna Zarutska—stabbed to death in Charlotte last year—have been funded with more than $1.7m from Elon Musk, Intercom CEO Eoghan McCabe and MAGA supporters. Intended to memorialize her tragic killing, these large-scale, ‘sterile’ portraits have sparked debate: critics say the top-down, privately backed campaign weaponizes her image for a hard-right narrative, stripping away her personal story, while some grassroots artists paint their own tributes absent political agendas.",
-      "summaryTokens": 950,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Conservative donors led by Elon Musk ($1m) and Intercom CEO Eoghan McCabe ($500k plus $200k from others) have funded large-scale ‘sterile’ murals of Iryna Zarutska, a 23-year-old Ukrainian refugee stabbed to death in Charlotte. Displayed in Bushwick, DC, Miami and LA, the commissioned street art was positioned as a memorial but critics—street-art scholars and local artists—denounce it as top-down, politicized propaganda that hijacks grassroots memorial traditions to underscore MAGA’s law-and-order messaging. Independent painters like Rod Man have also volunteered murals, but experts say the high-budget project flattens Zarutska’s personal story into a depoliticized glamour shot.",
+      "summaryTokens": 910,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/trump-greenland-republicans-reaction",
@@ -281,9 +545,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T14:14:06Z",
       "trailText": "Conservative communities accept president’s arguments for why the US needs the Arctic island as genuine",
-      "summary": "Conservative Trump backers from small-town mayors to Christian influencers largely embrace his bid to annex Greenland as a strategic move against China’s ‘Polar Silk Road’ and to host a missile-defense ‘Golden Dome.’ They see him as a negotiator whose bluster forces deals, even if technical claims remain untested. Far-right commentators openly discuss force, though most expect a leased base akin to Guantánamo Bay. Dissenters criticize Trump’s impulse control or tactics but agree on Greenland’s value. Across rural GOP networks, supporters frame the proposal as a necessary security play to counter Chinese and Russian Arctic ambitions.",
-      "summaryTokens": 359,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Across conservative communities from small-town mayors to Christian media figures, Trump’s push to annex Greenland is cast as strategic leverage against China’s Polar Silk Road and vital to US missile defense. Supporters like mayor Owen Strickland, author Jack Watts, and ex-Ranger Antonio Ruiz praise Trump’s negotiation skills, view force as unlikely, and envision a Guantánamo-style lease. Far-right hosts Stephen Miller and Matt Walsh amplify empire rhetoric. Critics such as Erick Erickson still concede Greenland’s security value but warn that intimidation may alienate allies.",
+      "summaryTokens": 797,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/elizabeth-warren-democrats-trump-white-collar-criminals-letter",
@@ -293,9 +557,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T13:21:14Z",
       "trailText": "Elizabeth Warren and others call for inquiry into Trump for diverting tax evasion resources to immigration crackdown",
-      "summary": "Senator Elizabeth Warren and a group of Democrats have accused President Trump of diverting over 25,000 federal agents from white-collar crime investigations to bolster his immigration enforcement. In a letter to inspectors general across five agencies, they allege that shifting personnel from fraud, tax evasion, money laundering and cybercrime units has stalled complex probes, gutted specialized teams—from the FBI’s field offices to IRS criminal investigators—and emboldened corporate criminals. Signatories including Senators Blumenthal and Representatives Ocasio-Cortez, Dean and Goldman demand a formal inquiry into the extent and impact of these transfers, details on reassigned staff, suspended cases, any whistleblower complaints and safeguards to restore enforcement against financial wrongdoing.",
-      "summaryTokens": 1022,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Sen. Warren and fellow Democrats accuse President Trump of redirecting over 25,000 agents from financial crime units—fraud, money laundering and tax evasion—to bolster ICE immigration enforcement, effectively ‘letting white-collar criminals off the hook.’ In a letter to multiple inspectors general, signatories including Blumenthal, Ocasio-Cortez and Goldman demand data on personnel transfers, case openings, delays and whistleblower reports. They warn that stalled investigations and mass reassignments undermine US fraud enforcement and public integrity, urging a formal inquiry.",
+      "summaryTokens": 480,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/trumps-politics-gilded-age",
@@ -305,9 +569,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T13:00:12Z",
       "trailText": "Major donors reap influence and material benefits, ethics experts argue, as money and governance intertwine",
-      "summary": "Experts warn Trump’s “pay-to-play” style is forging a new Gilded Age as major MAGA donors—especially crypto, AI and fossil-fuel tycoons—pump seven- and eight-figure contributions into his Super PAC ($300 M in 2025) and $350 M ballroom project in exchange for lax regulation, federal contracts, pardons and policy favors. High-profile backers like Elon Musk, Binance’s CZ and other billionaires have seen windfalls under deregulation. Scholars liken the growing influence peddling to 19th-century robber barons, raising ethics and corruption alarms ahead of the 2026 midterms.",
-      "summaryTokens": 893,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Experts warn that Donald Trump’s “pay-to-play” fundraising—$300 million raised by his MAGA Inc. PAC in 2025 plus $350 million for a private White House ballroom—is forging a “new Gilded Age.” Major donors in cryptocurrency (including the Trump family’s World Liberty Financial), AI (OpenAI’s Greg Brockman), fossil fuels and tech (Elon Musk, Nvidia, Binance, Winklevoss twins) have secured lax regulation, federal contracts, pardons and other benefits. Scholars liken this era to robber-baron graft and foresee conflicts of interest and voter backlash ahead of the 2026 midterms.",
+      "summaryTokens": 810,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/trump-davos-diplomacy",
@@ -317,9 +581,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T13:00:10Z",
       "trailText": "President backed away from threats over Greenland but allies dare not regard avoidance of catastrophe as anything more than a respite",
-      "summary": "At Davos, President Trump turned the World Economic Forum into a theatre of crisis by threatening US military action against Denmark to seize Greenland. He ultimately backed off—lifting tariffs on eight European allies in exchange for vague Greenland concessions—while proposing a new Gaza “peace board” and inviting Putin. European leaders, including Macron, von der Leyen and Canada’s Carney, publicly rebuked his rhetoric and signaled a rupture in US-Nato relations. This episode, marked by factual errors and maximalist demands, underscores the fragility and zero-sum nature of alliances under Trump’s unpredictable second presidency.",
-      "summaryTokens": 992,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "At Davos 2026, President Trump threatened to deploy US military might against Denmark-controlled Greenland and impose tariffs on eight European NATO allies unless they acceded to a vague deal expanding American presence there. He abruptly backed off both threats, calling it a personal triumph, yet offered no concrete concessions. Trump pressed for a Gaza “peace board” including Putin, prompting sharp pushback from Macron, von der Leyen and others who warned US ties faced rupture, not transition. His repeated blunders—confusing Greenland with Iceland and masking possible provocations as reality-TV theatrics—left allies wary that this respite merely delays his next capricious gambit.",
+      "summaryTokens": 1129,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/scotland-sends-baby-box-to-new-york-after-mayor-mamdani-cites-policy",
@@ -329,9 +593,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T12:31:17Z",
       "trailText": "Scottish social justice secretary says manifesto pledge for New Yorkers shows shared ‘commitment to tackling child poverty’",
-      "summary": "Scotland’s government has shipped a sample baby box to New York’s new mayor, Zohran Mamdani, after he cited Edinburgh’s scheme on expectant mothers in his cost-of-living campaign. Social justice secretary Shirley-Anne Somerville hopes the gift—one of over 360,000 distributed since 2017, containing clothes, books, a thermometer and serving as a portable crib—will inform his proposed \"baby basket\" policy. The Scottish administration also offered to collaborate on child poverty and cost-of-living initiatives, sending the box over 3,000 miles to Manhattan’s Mayor’s Office for International Affairs.",
-      "summaryTokens": 1142,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Scotland’s government has dispatched one of its flagship baby boxes—containing books, clothes and a sleeping-ready carton—to New York City after mayor Zohran Mamdani cited Edinburgh’s free ‘baby basket’ scheme during his cost-of-living focused campaign. Social justice secretary Shirley-Anne Somerville hopes the 3,000-mile gift, part of Scotland’s program that’s delivered over 360,000 boxes since 2017, will inspire Mamdani’s own child-poverty and parental-support proposals. The Scottish government also offered to collaborate on policies to tackle child poverty and ease early-parenthood expenses, underscoring shared heritage and social welfare commitments.",
+      "summaryTokens": 966,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/trump-cdc-overdose-prevention-messaging",
@@ -341,9 +605,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T12:00:11Z",
       "trailText": "The phrase is part of ‘harm reduction 101’, which has led to significant declines in overdose fatalities in the US",
-      "summary": "CDC officials, tasked with enforcing Trump’s July 2025 executive orders banning federally funded “harm reduction” and “safe consumption” messaging, told Overdose Data to Action grantees they may no longer advise people to “never use alone.” This contrasts with allowances for Narcan and fentanyl test strips, creating confusion over what constitutes prohibited support. Public health experts stress that “never use alone” underpins timely overdose reversal and community connection—key factors in Chicago’s recent fatality declines. They warn stripping this advice risks reversing progress amid chronic underfunding and short grant cycles for substance-use treatment.",
-      "summaryTokens": 611,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "CDC officials told Overdose Data to Action grantees to comply with Trump's July order banning federally funded harm reduction and safe-consumption messaging, casting doubt on promoting 'never use alone,' a core tactic credited with lowering overdose fatalities. HHS affirms enforcement, yet Narcan distribution and fentanyl test strips remain allowed, leaving agencies uncertain what counts as harm reduction. Experts like Leo Beletsky and Chicago's Jennifer Hua warn that isolating users endangers lives and undermines recovery, risking a reversal of recent overdose declines in public-use neighborhoods. Brandeis's Andrew Kolodny adds that two-year funding cycles hamper building comprehensive treatment systems, shifting focus from structural needs to semantics.",
+      "summaryTokens": 2358,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/mamdani-sanders-new-york-nurse-strike",
@@ -353,9 +617,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T12:00:10Z",
       "trailText": "New York mayor was joined by Senator Bernie Sanders at a Tuesday rally with nurses as strike entered second week",
-      "summary": "Nearly 15,000 nurses across Mount Sinai, Montefiore and NewYork-Presbyterian hospitals in New York City have been on strike since January 12—the largest in city history—demanding safer staffing ratios, improved benefits and better security amid rising workplace violence and understaffing. Despite subzero cold, picket lines persisted as city mayor Zohran Mamdani and Senator Bernie Sanders joined the nurses at Mount Sinai, criticizing disproportionate CEO pay and healthcare industry greed. Hospitals hired costly temporary staff and labeled union demands “extreme,” while the nurses’ union awaits resumed negotiations called by Governor Kathy Hochul. Strikers emphasize protecting patient care and achieving a fair contract.",
-      "summaryTokens": 1205,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Since Jan. 12, nearly 15,000 nurses from Montefiore, Mount Sinai and NewYork-Presbyterian have staged NYC’s largest nurses’ strike in sub-zero cold, demanding safer staffing ratios, improved hospital security after violent incidents and better benefits. The New York State Nurses Association cites multi-million-dollar CEO pay packages, while hospitals call their wage proposals—boosting average salaries from about $162k to $220k–$275k in three years—“extreme.” NYC Mayor Zohran Mamdani and Sen. Bernie Sanders joined pickets at Mount Sinai, urging good-faith talks ahead of Thursday negotiations.",
+      "summaryTokens": 564,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/ice-kids-conneticut-schools",
@@ -365,9 +629,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T12:00:10Z",
       "trailText": "In New Haven, where one in six residents is foreign born, children’s education suffers as they are afraid to step out",
-      "summary": "In New Haven, CT—a district where one in six residents is foreign-born—fear of ICE raids has driven a 7.3% decline in English-language‐learner enrollment and rising absenteeism after the second Trump administration eased school enforcement. Educators built trust through legal clinics, multilingual outreach, know-your-rights sessions and strict entry protocols, but off-campus detentions of students and parents persist. The trauma is sapping class participation, extracurricular engagement and college aspirations, underscoring how mass deportations destabilize immigrant families and student outcomes.",
-      "summaryTokens": 539,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "New Haven schools struggle as ICE raids and mass deportation under Trump’s administration drive immigrant students and families into fear, causing chronic absenteeism and a 7.3% drop in ELL enrollment. Administrators like Asst. Principal Cora Muñoz and Superintendent Madeline Negrón have built trust with immigrant communities, implemented protocols requiring warrants for school entry, and offered legal, social, and emotional support. Yet arrests of students and parents persist, prompting know-your-rights sessions and coalition advocacy. Students report declining class participation, canceled extracurriculars, and wavering college aspirations amid anxiety over potential detention. The district serves families speaking over 70 languages.",
+      "summaryTokens": 1389,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/how-trump-relations-jp-morgan-banking-boss-rock-bottom-jamie-dimon",
@@ -377,9 +641,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T12:00:09Z",
       "trailText": "US president’s $5bn lawsuit against JP Morgan and Jamie Dimon follows a steady rise in tensions between the two men",
-      "summary": "After initially welcoming Dimon to his 2016 advisory council to craft pro-growth policies, relations soured over Trump’s Paris pullout tolerance, Charlottesville condemnation and mutual public insults. Despite occasional praise for tax cuts and a nascent China deal, Dimon clashed with Trump’s proposals—from a 10% credit-card interest cap to a DOJ probe of Fed chair Jerome Powell, whom he defended. Trump fired back online and backed Nikki Haley in 2023. Last week, he filed a $5bn lawsuit accusing JPMorgan and Dimon of politically motivated account closures after the Jan. 6 Capitol riot, marking their rock-bottom estrangement.",
-      "summaryTokens": 1080,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "After initially joining Trump’s 2016 advisory council and being touted for Treasury, JP Morgan CEO Jamie Dimon’s rapport with Donald Trump frayed over the Charlottesville response and mutual barbs – Dimon quipped he was “smarter” than Trump in 2018, prompting online rebukes. Tensions escalated when JP Morgan closed Trump’s accounts citing legal risks after the Jan 6, 2021 Capitol riot. This month Trump filed a $5 billion lawsuit against Dimon and his bank, accusing them of political bias; JP Morgan calls the suit meritless. Their enmity spans disagreements on climate policy, Fed chair Jerome Powell, proposed credit-card caps and AI risks flagged by Dimon at Davos.",
+      "summaryTokens": 1167,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/ob-gyns-doctors-abortion-rights-science-trump",
@@ -389,9 +653,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T12:00:09Z",
       "trailText": "As some medical groups cave to the Trump administration, the American College of OB-GYNs is taking a stand",
-      "summary": "Under ACOG president Steven Fleischman, the 62,000-member American College of Obstetricians and Gynecologists has emerged as a leading voice against the Trump administration’s “guerrilla war” on science, challenging unsubstantiated claims about prenatal Tylenol and antidepressant risks, criticizing the CDC’s vaccine guidance, rejecting federal funding over DEI restrictions and preparing to lobby against proposed Medicaid and ACA cuts under the One Big Beautiful Bill Act. ACOG’s new Combatting Misinformation initiative aims to restore trust via clear, patient-facing resources.",
-      "summaryTokens": 1569,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "When Steven Fleischman became president of the 62,000-member ACOG in 2025, he steered it into direct confrontation with the Trump administration’s ‘guerrilla war on science’—publicly challenging unsubstantiated claims linking Tylenol to autism, condemning an ‘alarmingly unbalanced’ FDA panel on antidepressants and the CDC’s reversal on Covid vaccines for pregnant women. ACOG rejected federal funding over DEI restrictions, ramped up state-level lobbying to shield Medicaid, ACA and rural labor/delivery units threatened by the One Big Beautiful Bill Act’s cuts, doubled its political spending, and launched a Combatting Misinformation initiative targeting both providers and patients.",
+      "summaryTokens": 703,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/23/first-thing-white-house-posts-digitally-altered-image-arrested-woman-ice-protest",
@@ -401,9 +665,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T11:51:04Z",
       "trailText": "Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but crying after alteration. Plus, how to recover from burnout",
-      "summary": "A Guardian analysis has revealed the White House posted a digitally altered image of Nekima Levy Armstrong—arrested after disrupting a St. Paul church ICE protest—making her appear to be crying and darkening her skin. The post from the White House’s X account, one of at least 14 AI-generated images used since Trump’s second term, prompted a terse defence from deputy communications director Kaelan Dorr on X: “Enforcement of the law will continue. The memes will continue.”",
-      "summaryTokens": 1305,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Nekima Levy Armstrong, one of three people arrested during an ICE protest that disrupted church services in St Paul, Minnesota, was depicted by the White House X account in a digitally altered image showing her crying and with darker skin, Guardian analysis finds. The original photo showed her composed. The post, part of at least 14 AI-enhanced images used since Trump’s second term, prompted deputy communications director Kaelan Dorr to defend the memes and vow that law enforcement efforts will continue.",
+      "summaryTokens": 1565,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/22/trump-administration-news-updates-today",
@@ -413,9 +677,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T02:43:22Z",
       "trailText": "Some international leaders worry Trump’s new organization may attempt to supplant the United Nations – key US politics stories from 22 January at a glance",
-      "summary": "At Davos, President Trump launched his “Board of Peace,” touting it as one of history’s most consequential bodies after claiming a richer, safer world than a year ago. Nineteen nations including Argentina, Morocco and Indonesia signed on; the US president said it “might” supplant the UN and invited Vladimir Putin. Britain, France, Germany, Canada and others declined, and Trump rescinded Canada’s invite via Truth Social. Separately, the US House rejected a bill barring troop deployment to Venezuela; Greenland protested alleged US sovereignty encroachment; Zelenskiy chided Europe for awaiting US leadership; Democrats condemned ICE over a child’s detention; and Trump sued JPMorgan for $5bn.",
-      "summaryTokens": 1015,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "At Davos, Trump launched his “Board of Peace,” originally aimed at a Gaza ceasefire, now pitched as a global policymaking body that “might” supplant the UN. Nineteen countries, from Argentina to Jordan, signed on; notable holdouts include the UK, France, Germany, Norway and Canada after a curt Truth Social rebuff. Trump also invited Vladimir Putin, who has yet to commit. Elsewhere: Greenland demands respect for its sovereignty amid US access talks; the House nixed a Venezuela troop-ban; Zelenskyy lashes Europe; ICE detains a five-year-old; the White House shares an altered protest photo; Trump sues JPMorgan for $5bn.",
+      "summaryTokens": 1655,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/22/tiktok-us-venture-oracle",
@@ -437,9 +701,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T02:28:24Z",
       "trailText": "While leaders of many liberal democracies declined to sign on, Mark Carney had, before Davos, accepted in principle",
-      "summary": "Donald Trump announced via Truth Social that Canada’s invitation to join his new 'Board of Peace' has been withdrawn. Launched at Davos to oversee Gaza governance, the initiative requires permanent members to pledge $1 billion each. Canadian PM Mark Carney had conditionally agreed but declined after officials reviewed structure, financing and impact; Finance Minister François-Philippe Champagne confirmed Canada would not pay. At Davos, Carney decried Trump’s 'rupture' of the rules-based world order, drawing a sharp presidential rebuke on Canada’s dependency. Backed by a UN resolution, the board includes Argentina, Bahrain, Morocco, Pakistan and Turkey, while Britain, France and Italy have so far opted out.",
-      "summaryTokens": 1022,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "After initially agreeing in principle in Davos to join Trump’s new $1bn-per-member “Board of Peace” for Gaza reconstruction, Canada has been dropped. In a Truth Social post, Trump told PM Mark Carney the invitation was withdrawn. Carney had voiced concern over funding and governance details, while Finance Minister Champagne ruled out the $1bn fee. At Davos, Carney criticized Trump for undermining the rules-based order, prompting Trump to retort “Canada lives because of the United States,” which Carney rebutted. Argentina, Bahrain, Morocco, Pakistan and Turkey signed on; traditional Western allies have held off. The UN’s backing is confined to Gaza oversight.",
+      "summaryTokens": 632,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/22/health-insurance-cost-executives-testify",
@@ -449,9 +713,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T02:18:37Z",
       "trailText": "CEO of UnitedHealth Group said his company will return profits earned from Affordable Care Act plans to customers",
-      "summary": "Executives from UnitedHealth, CVS Health, Elevance, Cigna and Centene testified before the House Energy and Commerce Committee on rising U.S. healthcare costs. UnitedHealth CEO Stephen Hemsley pledged to rebate 2026 profits from ACA plans. Committee chairs Brett Guthrie and Morgan Griffith launched a multi­part inquiry as employer premiums rose 6% in 2025 and overall spending climbed 7.2%. Lawmakers including pharmacist-representative Diana Harshbarger pressed insurers on drug pricing, while Alexandria Ocasio-Cortez decried industry consolidation. Debate continues over extending ACA subsidies versus Trump’s health savings account proposals amid a dip in Obamacare enrollment.",
-      "summaryTokens": 435,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Executives from UnitedHealth, CVS Health, Elevance, Cigna and Ascendium testified before the House Energy and Commerce Committee on rising healthcare costs. UnitedHealth CEO Stephen Hemsley pledged to rebate 2026 ACA‐plan profits. Lawmakers, including Republicans Brett Guthrie and Morgan Griffith, pressed insurers on transparency, market consolidation and drug pricing as premiums rose 6% in 2025 and national health spending hit $5.3 tn (18% of GDP). Rep. Diana Harshbarger and Rep. AOC highlighted PBM control and vertical integration, amid debate over restoring ACA subsidies opposed by Trump but backed by Democrats to curb premium spikes and enrollment declines.",
+      "summaryTokens": 1011,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/22/trump-administration-chicago-bovino-murder-for-hire",
@@ -461,9 +725,9 @@
       "section": "us-news",
       "publishedDate": "2026-01-23T01:43:51Z",
       "trailText": "Acquittal of Juan Espinoza Martinez in Chicago marks latest major federal prosecution to fall apart in court",
-      "summary": "Juan Espinoza Martinez was acquitted in Chicago of a murder-for-hire plot to kill Border Patrol leader Gregory Bovino after a jury found insufficient evidence he offered a $10,000 Snapchat bounty. Prosecutors highlighted messages to an informant; defense said they were idle gossip with no intent or funds and challenged the informant’s credibility. No testimony came from Bovino or Martinez. The judge barred gang affiliation claims. This verdict is the latest in several collapsed DOJ cases from the Trump-era immigration crackdown, signaling scrutiny of federal enforcement prosecutions.",
-      "summaryTokens": 539,
-      "generatedAt": "2026-01-24T03:56:05.770Z"
+      "summary": "Juan Espinoza Martinez, 37, was acquitted in Chicago of offering a $10,000 Snapchat bounty to kill Border Patrol leader Gregory Bovino. DOJ prosecutors, framing the posts as a “depraved” murder-for-hire linked to alleged Latin Kings ties, failed to prove intent or payment ability. After under four hours of deliberation, jurors cleared him, marking another failed prosecution in the Trump-era Chicago crackdown. The judge barred gang testimony, and informant evidence didn’t show a real threat, highlighting the fragility of legal cases in Operation Midway Blitz.",
+      "summaryTokens": 1187,
+      "generatedAt": "2026-01-25T04:22:50.713Z"
     },
     {
       "id": "us-news/2026/jan/22/house-war-powers-resolution-trump-military-venezuela",
@@ -24857,7 +25121,7 @@
       "section": "us-news",
       "publishedDate": "2025-10-09T18:48:25Z",
       "trailText": "White House deputy chief of staff had an odd pause during a CNN interview when asked about the president’s power to deploy national guard troops",
-      "summary": "White House deputy chief of staff Stephen Miller paused during a CNN interview when asked about President Trump’s “plenary authority” to deploy federalized National Guard troops, a term meaning nearly unlimited power. The administration cites Title 10 and Article II’s Commander-in-Chief clause to justify broad military control, but experts note constraints like the War Powers Resolution, Posse Comitatus Act, Insurrection Act and Congress’s exclusive war-declaring authority. Critics warn invoking plenary power echoes autocratic overreach, as courts rejected Trump’s near-plenary claims in Newsom v. Trump and related deployment disputes.",
+      "summary": "White House deputy chief of staff Stephen Miller paused during a CNN interview when asked about President Trump’s “plenary authority” to deploy federalized National Guard troops, a term meaning nearly unlimited power. The administration cites Title 10 and Article II’s Commander-in-Chief clause to justify broad military control, but experts note constraints like the War Powers Resolution, Posse Comitatus Act, Insurrection Act and Congress��s exclusive war-declaring authority. Critics warn invoking plenary power echoes autocratic overreach, as courts rejected Trump’s near-plenary claims in Newsom v. Trump and related deployment disputes.",
       "summaryTokens": 496,
       "generatedAt": "2025-10-28T20:38:22.886Z"
     },
