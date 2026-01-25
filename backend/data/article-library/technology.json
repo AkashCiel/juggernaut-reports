@@ -1,26 +1,50 @@
 {
   "metadata": {
     "section": "technology",
-    "generated_at": "2026-01-24T03:50:01.965Z",
+    "generated_at": "2026-01-25T04:09:15.198Z",
     "date_range": {
       "from": "2025-09-18",
-      "to": "2026-01-23"
+      "to": "2026-01-24"
     },
-    "article_count": 402,
+    "article_count": 404,
     "merge_info": {
-      "previous_count": 399,
-      "new_articles": 3,
-      "updated_articles": 5,
-      "total_count": 402
+      "previous_count": 402,
+      "new_articles": 2,
+      "updated_articles": 3,
+      "total_count": 404
     },
     "batch_info": {
-      "initial_batch_id": "batch_697440a7c6d081909a6c1823cf9424d5",
+      "initial_batch_id": "batch_697596bda53c819084e76e76de9e6c40",
       "retry_batches": [],
-      "total_tokens": 15605,
-      "processing_time_hours": 0.1
+      "total_tokens": 9362,
+      "processing_time_hours": 0
     }
   },
   "articles": [
+    {
+      "id": "technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "title": "Google AI Overviews cite YouTube more than any medical site for health queries, study suggests",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "section": "technology",
+      "publishedDate": "2026-01-24T17:00:44Z",
+      "trailText": "Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month",
+      "summary": "A German SE Ranking study analyzing 50,807 German‐language health queries found Google’s AI Overviews cites YouTube most often (4.43% of 465,823 citations), ahead of NDR.de (3.04%), Msdmanuals.com (2.08%), Netdoktor.de (1.61%) and Praktischarzt.de (1.53%). AI Overviews appears in over 82% of health searches. Researchers warn reliance on a general video platform raises risks since anyone can post content, whereas Google defends that 96% of its top 25 YouTube citations come from licensed medical channels. The study suggests structural, popularity‐driven biases in health summaries seen by 2 billion monthly users.",
+      "summaryTokens": 769,
+      "generatedAt": "2026-01-25T04:09:14.956Z"
+    },
+    {
+      "id": "technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal",
+      "title": "Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal",
+      "webUrl": "https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal",
+      "apiUrl": "https://content.guardianapis.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal",
+      "section": "technology",
+      "publishedDate": "2026-01-24T14:00:41Z",
+      "trailText": "Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers",
+      "summary": "Guardian tests reveal ChatGPT’s GPT-5.2 citing Elon Musk’s AI-generated Grokipedia nine times when answering queries on obscure topics—from Iranian Basij salaries and Mostazafan Foundation ownership to Sir Richard Evans’ role against Holocaust denier David Irving. Grokipedia, launched October 2025, is uneditable by humans and criticized for right-wing narratives. ChatGPT omitted known Grokipedia falsehoods on January 6 and HIV/AIDS but subtly imports other claims. Anthropic’s Claude also references it. OpenAI insists on broad sources with safety filters; experts warn “LLM grooming” can legitimize disinformation, while xAI retorts “Legacy media lies.”",
+      "summaryTokens": 639,
+      "generatedAt": "2026-01-25T04:09:14.956Z"
+    },
     {
       "id": "technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos",
       "title": "Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF",
@@ -29,9 +53,9 @@
       "section": "technology",
       "publishedDate": "2026-01-23T13:35:53Z",
       "trailText": "Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out",
-      "summary": "IMF head Kristalina Georgieva told Davos delegates that AI will act like a ‘tsunami’ on labour markets, affecting 60% of advanced-economy jobs (40% globally), often eliminating entry-level roles and squeezing middle-class pay without productivity boosts. She warned young workers will suffer most, calling for stronger AI regulation. Union leaders and Microsoft CEO Satya Nadella stressed fair distribution of productivity gains and maintained AI’s social licence depends on shared benefits. ECB president Christine Lagarde added that cross-border cooperation and new rules are vital to prevent widening inequality.",
-      "summaryTokens": 1260,
-      "generatedAt": "2026-01-24T03:50:01.452Z"
+      "summary": "At Davos IMF chief Kristalina Georgieva warned AI will be a “tsunami” for the labour market, affecting an estimated 60% of jobs in advanced economies and 40% globally. While AI has enhanced one in ten roles, boosting pay, entry-level positions are most at risk, squeezing youth employment and middle-class wages. Georgieva urged swift regulation to ensure AI is safe and inclusive. Labour leader Christy Hoffman called for fair distribution of productivity gains, and ECB president Christine Lagarde stressed international cooperation on AI rules to prevent deepening global inequality.",
+      "summaryTokens": 940,
+      "generatedAt": "2026-01-25T04:09:14.956Z"
     },
     {
       "id": "us-news/2026/jan/22/tiktok-us-venture-oracle",
@@ -41,9 +65,9 @@
       "section": "technology",
       "publishedDate": "2026-01-23T08:43:07Z",
       "trailText": "Majority US-owned venture includes Larry Ellison’s Oracle, private-equity group Silver Lake and Abu Dhabi’s MGX",
-      "summary": "ByteDance sealed a deal to spin off TikTok’s US operations into a majority American-owned company, sidestepping the 2024 congressional ban. Oracle, Silver Lake and Abu Dhabi’s MGX each hold 15%, along with Michael Dell’s firm, totaling 80.1%; ByteDance retains 19.9%. A seven-member, security-focused board—featuring executives from Oracle, Silver Lake, MGX and TikTok CEO Shou Zi Chew—will enforce data protections, algorithm safeguards and content moderation. Former GM Adam Presser will serve as CEO. The White House and Chinese regulators approved the arrangement, addressing national security concerns over US user data.",
-      "summaryTokens": 495,
-      "generatedAt": "2026-01-24T03:50:01.452Z"
+      "summary": "TikTok has closed a deal to establish a majority US‐owned entity, sidestepping a threatened ban and ending a five-year legal saga. Oracle, private‐equity firm Silver Lake and Abu Dhabi’s MGX (each taking 15%) plus Michael Dell’s investment group collectively own 80.1%, while ByteDance retains 19.9%. The US venture is governed by a seven‐member board of US cybersecurity and national security experts, with Adam Presser as CEO. Oracle will oversee and retrain the algorithm on American user data. The agreement—approved by US and Chinese governments and praised by President Trump—ensures defined safeguards on data, algorithms, content moderation and national security.",
+      "summaryTokens": 1011,
+      "generatedAt": "2026-01-25T04:09:14.956Z"
     },
     {
       "id": "technology/2026/jan/23/campaigner-launches-legal-action-against-apple-over-apple-pay",
@@ -53,9 +77,9 @@
       "section": "technology",
       "publishedDate": "2026-01-23T06:00:09Z",
       "trailText": "James Daley says anti-competitive behaviour led to additional charges that have pushed up costs for millions",
-      "summary": "Financial campaigner James Daley has launched a £1.5 billion class action against Apple in the UK, alleging that Apple Pay’s decade-long exclusivity on iPhones enabled hidden fees for banks that have been passed on to some 50 million consumers. Filed at the Competition Appeal Tribunal, the claim—backed by Fairer Finance—argues Apple blocked rival apps from accessing its NFC and secure element, charging issuers non-industry fees absent on Android. Regulators including the CMA and Payments Systems Regulator are already scrutinising digital wallets. Apple hails Apple Pay as fee-free and secure, pointing to new third-party interfaces, and calls the lawsuit “misguided”.",
-      "summaryTokens": 382,
-      "generatedAt": "2026-01-24T03:50:01.452Z"
+      "summary": "Financial campaigner James Daley has launched a £1.5bn class-action lawsuit in the UK, accusing Apple of anti-competitive behaviour by monopolising contactless payments through Apple Pay and imposing hidden fees on banks, which passed extra costs onto some 50m consumers—even non-iPhone users. Filed with the Competition Appeal Tribunal, the case argues Apple blocked third-party NFC access, unlike Android, allowing it to charge fees not in line with market practice. Regulators are already probing digital wallets. Apple says the claim is misguided, levies no fees and has opened NFC interfaces to developers; consumers could receive around £26 each.",
+      "summaryTokens": 561,
+      "generatedAt": "2026-01-25T04:09:14.956Z"
     },
     {
       "id": "technology/2026/jan/22/ftx-crypto-executive-caroline-ellison-prison-release",
